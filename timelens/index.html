@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TimeLens — pull history into focus</title>
-<meta name="description" content="Prefix any Wikipedia URL with timelens. to see how human understanding of a topic changed over 250 years — and where the model auditing it fails.">
+<meta name="description" content="Prefix any Wikipedia URL with timelens.to/ to see how human understanding of a topic changed over 250 years — and where the model auditing it fails.">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%2312100d'/%3E%3Ccircle cx='32' cy='32' r='27' fill='none' stroke='%23c9a24b' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='14' fill='none' stroke='%23c9a24b' stroke-width='1.5' opacity='.7'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -45,34 +45,59 @@
   ::selection{background:rgba(201,162,75,.3)}
   .wrap{max-width:1120px;margin:0 auto;padding:0 26px;position:relative}
 
-  /* catalogue slip */
-  .slip{
-    margin:30px auto 0;display:flex;align-items:stretch;gap:0;
-    border:1px solid var(--ink-line);border-radius:10px;
-    background:linear-gradient(180deg,rgba(236,225,203,.055),rgba(236,225,203,.02));
-    overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.4);
+  /* ---------- the lit bar ---------- */
+  .barzone{padding-top:34px}
+  .bar{
+    display:flex;align-items:center;gap:0;
+    background:linear-gradient(180deg,#fbf7ec,#f0e8d6);
+    border-radius:16px;
+    box-shadow:0 2px 0 rgba(255,255,255,.7) inset,0 24px 60px rgba(0,0,0,.5),0 0 0 1px rgba(0,0,0,.35),0 0 90px rgba(236,225,203,.06);
+    overflow:hidden;
   }
-  .slip .hole{
-    flex:0 0 auto;width:44px;display:flex;align-items:center;justify-content:center;
-    border-right:1px dashed var(--ink-line-2);
+  .bar .dots{flex:0 0 auto;display:flex;gap:7px;padding:0 18px;border-right:1px solid rgba(18,16,13,.08)}
+  .bar .dots i{width:11px;height:11px;border-radius:50%;display:block}
+  .bar .dots i:nth-child(1){background:#e0806f}
+  .bar .dots i:nth-child(2){background:#dcbb78}
+  .bar .dots i:nth-child(3){background:#a3bf95}
+  .bar .url{
+    flex:1;min-width:0;display:flex;align-items:center;gap:10px;
+    padding:14px 6px 14px 16px;
   }
-  .slip .hole i{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--brass);display:block}
-  .slip .addr{
-    flex:1;min-width:0;padding:15px 18px;
-    font-family:var(--mono);font-size:14.5px;letter-spacing:.01em;
-    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+  .bar .url .mag{color:rgba(18,16,13,.35);flex:0 0 auto;display:flex}
+  .bar .url .field{
+    flex:1;min-width:0;display:flex;align-items:baseline;
+    font-family:var(--mono);font-size:15.5px;line-height:1.4;white-space:nowrap;
   }
-  .slip .addr b{color:var(--brass);font-weight:500}
-  .slip .addr span{color:var(--vellum-2)}
-  .slip .tag{
-    flex:0 0 auto;display:flex;align-items:center;padding:0 16px;
-    border-left:1px dashed var(--ink-line-2);
-    font-size:11px;letter-spacing:.14em;color:var(--vellum-3);
-    text-transform:uppercase;
+  .bar .url .dom{color:#b3502a;font-weight:500;flex:0 0 auto}
+  .bar .url .path{
+    flex:1;min-width:0;border:none;outline:none;background:transparent;
+    font:inherit;color:rgba(18,16,13,.75);caret-color:#b3502a;
+    padding:0;
   }
+  .bar .url .path::placeholder{color:rgba(18,16,13,.38)}
+  .bar .yrs{
+    flex:0 0 auto;margin-right:14px;
+    font-family:var(--mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+    color:rgba(18,16,13,.55);
+    border:1px solid rgba(18,16,13,.14);border-radius:999px;padding:6px 13px;
+    white-space:nowrap;
+  }
+  .bar-miss{
+    display:none;margin-top:12px;align-items:center;gap:12px;flex-wrap:wrap;
+    font-family:var(--fell);font-style:italic;font-size:14.5px;color:var(--vellum-2);
+  }
+  .bar-miss.show{display:flex}
+  .bar-miss .go{
+    font-family:var(--mono);font-style:normal;font-size:11.5px;letter-spacing:.05em;
+    color:var(--brass);border:1px solid var(--brass-dim);border-radius:999px;
+    padding:6px 13px;background:rgba(201,162,75,.06);cursor:pointer;
+  }
+  .bar-miss .go:hover{background:rgba(201,162,75,.14)}
+  @keyframes barshake{0%,100%{transform:none}25%{transform:translateX(-7px)}75%{transform:translateX(7px)}}
+  .bar.shake{animation:barshake .28s ease 2}
 
   /* masthead */
-  .masthead{padding:84px 0 40px;text-align:center}
+  .masthead{padding:70px 0 40px;text-align:center}
   .rule{display:flex;align-items:center;justify-content:center;gap:14px;margin-bottom:30px}
   .rule::before,.rule::after{content:"";width:56px;height:1px;background:var(--brass-dim)}
   .rule span{
@@ -81,15 +106,15 @@
   }
   h1.title{
     font-family:var(--fell-sc);font-weight:400;
-    font-size:clamp(58px,9.4vw,124px);line-height:.94;letter-spacing:-.01em;
+    font-size:clamp(52px,8.6vw,110px);line-height:.94;letter-spacing:-.01em;
     color:var(--vellum);
   }
   h1.title .sub{
-    display:block;font-family:var(--fell);font-style:italic;font-size:.31em;
+    display:block;font-family:var(--fell);font-style:italic;font-size:.3em;
     color:var(--vellum-2);letter-spacing:0;margin-top:16px;line-height:1.3;
   }
   .lede{
-    max-width:620px;margin:26px auto 0;font-size:15.5px;line-height:1.7;color:var(--vellum-2);
+    max-width:600px;margin:26px auto 0;font-size:15.5px;line-height:1.7;color:var(--vellum-2);
   }
   .lede code{
     font-family:var(--mono);font-size:13px;color:var(--brass);
@@ -132,9 +157,25 @@
     box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 0 1px rgba(0,0,0,.3),inset 0 0 0 1px rgba(236,225,203,.05);
     aspect-ratio:16/9;display:grid;background:var(--room-2);
   }
-  .stage img{
-    grid-area:1/1;width:100%;height:100%;object-fit:cover;opacity:0;
+  .stage .stage-item{
+    grid-area:1/1;width:100%;height:100%;opacity:0;
     will-change:opacity,filter;
+  }
+  .stage img.stage-item{object-fit:cover}
+  .stage .plate-item{
+    display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;
+    padding:32px;text-align:center;
+    background:
+      radial-gradient(600px 300px at 50% 40%, rgba(236,225,203,.06), transparent 70%),
+      var(--room-2);
+  }
+  .plate-item .ptitle{
+    font-family:var(--fell-sc);font-size:clamp(30px,5vw,54px);line-height:1.05;color:var(--vellum);
+    max-width:16ch;
+  }
+  .plate-item .psub{
+    font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--verdigris);border:1px solid rgba(127,160,139,.4);border-radius:999px;padding:7px 14px;
   }
   .stage .cap{
     position:absolute;left:16px;bottom:16px;z-index:2;display:flex;align-items:center;gap:10px;
@@ -145,7 +186,7 @@
   }
   .stage .cap b{font-weight:500}
   .stage .cap .sep{color:var(--vellum-3)}
-  .stage .frame-mark{position:absolute;width:18px;height:18px;z-index:2;opacity:.55}
+  .stage .frame-mark{position:absolute;width:18px;height:18px;z-index:2;opacity:.55;pointer-events:none}
   .fm-tl{top:12px;left:12px;border-top:1px solid var(--brass);border-left:1px solid var(--brass)}
   .fm-tr{top:12px;right:12px;border-top:1px solid var(--brass);border-right:1px solid var(--brass)}
   .fm-bl{bottom:12px;left:12px;border-bottom:1px solid var(--brass);border-left:1px solid var(--brass)}
@@ -154,100 +195,71 @@
   /* instrument rail */
   .rail{position:relative;padding:44px 0 20px;user-select:none;-webkit-user-select:none;touch-action:pan-y}
   .rail-track{position:relative;height:52px}
-  .rail-line{
-    position:absolute;left:0;right:0;top:50%;height:1px;
-    background:var(--ink-line-2);
-  }
-  .rail-fill{
-    position:absolute;left:0;top:50%;height:1px;width:0%;
-    background:var(--brass);box-shadow:0 0 8px rgba(201,162,75,.5);
-  }
+  .rail-line{position:absolute;left:0;right:0;top:50%;height:1px;background:var(--ink-line-2)}
+  .rail-fill{position:absolute;left:0;top:50%;height:1px;width:0%;
+    background:var(--brass);box-shadow:0 0 8px rgba(201,162,75,.5)}
   .tick{position:absolute;top:50%;width:1px;height:7px;background:var(--ink-line-2);transform:translate(-50%,-50%)}
   .tick.major{height:13px;background:rgba(236,225,203,.4)}
-  .tick-label{
-    position:absolute;top:calc(50% + 18px);transform:translateX(-50%);
+  .tick-label{position:absolute;top:calc(50% + 18px);transform:translateX(-50%);
     font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--vellum-3);
-    font-variant-numeric:tabular-nums;white-space:nowrap;
-  }
-  .stop{
-    position:absolute;top:50%;transform:translate(-50%,-50%);cursor:pointer;z-index:2;
-    background:none;border:none;padding:12px;font:inherit;
-  }
-  .stop i{
-    display:block;width:11px;height:11px;border-radius:50%;margin:0 auto;
+    font-variant-numeric:tabular-nums;white-space:nowrap}
+  .stop{position:absolute;top:50%;transform:translate(-50%,-50%);cursor:pointer;z-index:2;
+    background:none;border:none;padding:12px;font:inherit}
+  .stop i{display:block;width:11px;height:11px;border-radius:50%;margin:0 auto;
     background:var(--room);border:1.5px solid var(--vellum-3);
-    transition:border-color .3s,box-shadow .3s,transform .3s;
-  }
+    transition:border-color .3s,box-shadow .3s,transform .3s}
   .stop:hover i{border-color:var(--vellum)}
   .stop.active i{border-color:var(--brass);transform:scale(1.25);box-shadow:0 0 0 5px rgba(201,162,75,.12)}
   .stop.settled i{border-color:var(--verdigris)}
   .stop.settled.active i{box-shadow:0 0 0 5px rgba(127,160,139,.14)}
-  .stop .slabel{
-    position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);
+  .stop .slabel{position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);
     font-family:var(--fell);font-style:italic;font-size:13.5px;color:var(--vellum-3);
-    white-space:nowrap;transition:color .3s;
-  }
+    white-space:nowrap;transition:color .3s}
   .stop.active .slabel{color:var(--vellum)}
-  .lens{
-    position:absolute;top:50%;transform:translate(-50%,-50%);z-index:4;
+  .lens{position:absolute;top:50%;transform:translate(-50%,-50%);z-index:4;
     width:64px;height:64px;border-radius:50%;cursor:grab;touch-action:none;
     border:2px solid var(--brass);
     background:
       radial-gradient(circle at 38% 34%, rgba(236,225,203,.14), transparent 42%),
       radial-gradient(circle, rgba(18,16,13,.24) 0%, rgba(18,16,13,.5) 78%);
     box-shadow:0 10px 30px rgba(0,0,0,.5),0 0 0 1px rgba(0,0,0,.4),inset 0 0 14px rgba(201,162,75,.12);
-    display:flex;align-items:center;justify-content:center;
-  }
+    display:flex;align-items:center;justify-content:center}
   .lens:active{cursor:grabbing}
   .lens .ret{position:absolute;inset:0;pointer-events:none}
-  .lens .ret::before,.lens .ret::after{
-    content:"";position:absolute;background:rgba(236,225,203,.4);
-  }
+  .lens .ret::before,.lens .ret::after{content:"";position:absolute;background:rgba(236,225,203,.4)}
   .lens .ret::before{left:50%;top:14%;bottom:14%;width:1px;transform:translateX(-50%)}
   .lens .ret::after{top:50%;left:14%;right:14%;height:1px;transform:translateY(-50%)}
-  .lens .lyr{
-    position:relative;z-index:1;font-family:var(--mono);font-size:13px;font-weight:500;
+  .lens .lyr{position:relative;z-index:1;font-family:var(--mono);font-size:13px;font-weight:500;
     color:var(--vellum);font-variant-numeric:tabular-nums;letter-spacing:.03em;
-    text-shadow:0 1px 6px rgba(0,0,0,.8);
-  }
+    text-shadow:0 1px 6px rgba(0,0,0,.8)}
   .rail-hint{text-align:center;font-family:var(--fell);font-style:italic;font-size:14px;color:var(--vellum-3);margin-top:14px}
-  .rail-hint kbd{
-    font-family:var(--mono);font-style:normal;font-size:10.5px;
+  .rail-hint kbd{font-family:var(--mono);font-style:normal;font-size:10.5px;
     border:1px solid var(--ink-line-2);border-bottom-width:2px;border-radius:5px;
-    padding:1px 6px;color:var(--vellum-2);background:var(--plate);
-  }
+    padding:1px 6px;color:var(--vellum-2);background:var(--plate)}
 
   /* era plates */
   .deck{display:grid;margin-top:12px}
-  .panel{
-    grid-area:1/1;position:relative;overflow:hidden;
+  .panel{grid-area:1/1;position:relative;overflow:hidden;
     border:1px solid var(--ink-line);border-radius:var(--r);
     background:linear-gradient(160deg,var(--plate-2),var(--plate));
     padding:clamp(28px,4.5vw,48px);
-    will-change:opacity,transform;pointer-events:none;
-  }
+    will-change:opacity,transform;pointer-events:none}
   .panel.front{pointer-events:auto}
-  .panel .plate-no{
-    position:absolute;top:20px;right:24px;
-    font-family:var(--fell);font-style:italic;font-size:14px;color:var(--vellum-3);
-  }
+  .panel .plate-no{position:absolute;top:20px;right:24px;
+    font-family:var(--fell);font-style:italic;font-size:14px;color:var(--vellum-3)}
   .panel h3{font-family:var(--fell);font-weight:400;font-size:clamp(26px,3.6vw,36px);line-height:1.16;letter-spacing:-.01em;margin-bottom:16px;color:var(--vellum)}
   .panel h3 em{color:var(--brass)}
   .panel p{font-size:15px;line-height:1.75;color:var(--vellum-2);max-width:64ch}
   .panel p + p{margin-top:12px}
   .panel .lede2{font-family:var(--fell);font-size:clamp(18px,2.4vw,22px);line-height:1.5;color:var(--vellum)}
-  .quote{
-    font-family:var(--fell);font-style:italic;font-size:clamp(19px,2.6vw,24px);line-height:1.55;
-    border-left:2px solid var(--brass);padding-left:20px;margin:20px 0;color:var(--vellum);
-  }
+  .quote{font-family:var(--fell);font-style:italic;font-size:clamp(19px,2.6vw,24px);line-height:1.55;
+    border-left:2px solid var(--brass);padding-left:20px;margin:20px 0;color:var(--vellum)}
   .quote .hedge{color:var(--vellum-2)}
   .smallprint{font-family:var(--mono);font-size:11px;color:var(--vellum-3);line-height:1.7;margin-top:16px;max-width:64ch}
   .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
-  .chip{
-    font-family:var(--mono);font-size:12px;color:var(--vellum-2);
+  .chip{font-family:var(--mono);font-size:12px;color:var(--vellum-2);
     border:1px solid var(--ink-line);border-radius:8px;padding:8px 13px;line-height:1.4;
-    background:rgba(0,0,0,.15);
-  }
+    background:rgba(0,0,0,.15)}
   .chip b{color:var(--vellum);font-weight:500}
   .chip.hot{border-color:rgba(207,90,48,.4);color:#e5a586}
   .versus{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:20px}
@@ -266,13 +278,11 @@
   .sec-head .note{justify-self:end}
   .sec-head p.lead{grid-column:1/-1;font-size:15px;line-height:1.7;color:var(--vellum-2);max-width:64ch;margin-top:14px}
 
-  /* ledger — catalogue entries */
+  /* ledger — the index of exhibits (each row is a working link) */
   .ledger{border-top:1px solid var(--ink-line-2)}
-  .lrow{
-    display:grid;grid-template-columns:200px 1fr 1fr;gap:32px;align-items:baseline;
-    padding:26px 4px;border-bottom:1px solid var(--ink-line);
-    transition:background .3s;
-  }
+  .lrow{display:grid;grid-template-columns:200px 1fr 1fr;gap:32px;align-items:baseline;
+    padding:26px 4px;border-bottom:1px solid var(--ink-line);cursor:pointer;
+    transition:background .3s;text-decoration:none;color:inherit}
   .lrow:hover{background:rgba(236,225,203,.025)}
   .lrow .word{font-family:var(--fell-sc);font-size:26px;color:var(--vellum);line-height:1.1}
   .lrow .word span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--vellum-3);margin-top:6px;text-transform:uppercase}
@@ -280,6 +290,8 @@
   .lrow .col.now .t{color:var(--verdigris)}
   .lrow .col p{font-family:var(--fell);font-size:15px;line-height:1.6;color:var(--vellum-2)}
   .lrow .col p i{color:var(--brass)}
+  .lrow .arrow{font-family:var(--fell);font-style:italic;color:var(--vellum-3);justify-self:end;font-size:14px;grid-column:3;transition:color .3s,transform .3s}
+  .lrow:hover .arrow{color:var(--brass);transform:translateX(4px)}
 
   /* wipe */
   .wipe{position:relative;border-radius:var(--r);overflow:hidden;
@@ -306,37 +318,29 @@
 
   /* incident table */
   .inctable{border:1px solid var(--ink-line-2);border-radius:var(--r);overflow:hidden;background:rgba(0,0,0,.22)}
-  .inc{
-    display:grid;grid-template-columns:170px minmax(0,1fr) minmax(0,300px);gap:28px;
-    padding:26px 28px;border-bottom:1px solid var(--ink-line);
-  }
+  .inc{display:grid;grid-template-columns:170px minmax(0,1fr) minmax(0,300px);gap:28px;
+    padding:26px 28px;border-bottom:1px solid var(--ink-line)}
   .inc:last-child{border-bottom:none}
   .inc .kind{font-family:var(--mono);font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--ember);padding-top:5px}
   .inc h4{font-family:var(--fell);font-weight:400;font-size:22px;line-height:1.25;margin-bottom:8px;color:var(--vellum)}
   .inc .body{font-size:13.5px;line-height:1.7;color:var(--vellum-2)}
   .inc .body b{color:var(--vellum);font-weight:500}
-  .inc .evi{
-    font-family:var(--mono);font-size:11px;line-height:1.8;
+  .inc .evi{font-family:var(--mono);font-size:11px;line-height:1.8;
     border:1px solid var(--ink-line);border-radius:10px;padding:12px 14px;background:rgba(0,0,0,.25);
-    display:flex;flex-direction:column;gap:5px;align-self:start;
-  }
+    display:flex;flex-direction:column;gap:5px;align-self:start}
   .inc .evi .row{display:flex;gap:10px}
   .inc .evi .k{color:var(--vellum-3);flex:0 0 52px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding-top:2px}
   .inc .evi .v-wrong{color:#d98a6e}
   .inc .evi .v-right{color:var(--verdigris)}
-  .inc-foot{
-    margin-top:22px;font-family:var(--fell);font-style:italic;font-size:16px;color:var(--vellum-2);text-align:center;
-  }
+  .inc-foot{margin-top:22px;font-family:var(--fell);font-style:italic;font-size:16px;color:var(--vellum-2);text-align:center}
   .inc-foot b{color:var(--brass);font-weight:400}
 
   /* footer */
   footer{padding:96px 0 52px;text-align:center}
   .pipeline{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px}
-  .pipe{
-    font-family:var(--mono);font-size:12px;color:var(--vellum-2);
+  .pipe{font-family:var(--mono);font-size:12px;color:var(--vellum-2);
     border:1px solid var(--ink-line);border-radius:8px;padding:9px 15px;
-    background:var(--plate);display:inline-flex;align-items:center;gap:8px;
-  }
+    background:var(--plate);display:inline-flex;align-items:center;gap:8px}
   .pipe .sub{color:var(--vellum-3);font-size:11px}
   .pipe-arrow{color:var(--brass);font-family:var(--fell);font-size:15px}
   .foot-stats{margin-top:26px;font-family:var(--fell);font-style:italic;font-size:17px;color:var(--vellum-2)}
@@ -344,7 +348,6 @@
   .colophon{margin-top:40px;font-family:var(--fell);font-size:15px;color:var(--vellum-3)}
   .colophon b{color:var(--brass);font-weight:400}
 
-  /* reveal — one quiet moment, not per-card theatrics */
   .reveal{opacity:0;transform:translateY(14px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}
   .reveal.in{opacity:1;transform:none}
   @media (prefers-reduced-motion:reduce){
@@ -355,16 +358,18 @@
     .sec-head{grid-template-columns:1fr}
     .sec-head .note{justify-self:start}
     .lrow{grid-template-columns:1fr;gap:14px;padding:22px 0}
+    .lrow .arrow{grid-column:auto;justify-self:start}
     .inc{grid-template-columns:1fr;gap:16px}
     .versus{grid-template-columns:1fr}
     .yearbox{text-align:left}
   }
   @media (max-width:520px){
-    .masthead{padding-top:60px}
+    .masthead{padding-top:52px}
     .stop .slabel{display:none}
     .tick-label.hide-sm{display:none}
     .panel{padding:24px 20px}
-    .slip .tag{display:none}
+    .bar .yrs{display:none}
+    .bar .dots{display:none}
     .lens{width:56px;height:56px}
   }
 </style>
@@ -372,27 +377,44 @@
 <body>
 <div class="wrap">
 
-  <!-- catalogue slip -->
-  <div class="slip reveal">
-    <div class="hole" aria-hidden="true"><i></i></div>
-    <div class="addr"><b>timelens.</b><span>wikipedia.org/wiki/Basalt</span></div>
-    <div class="tag">catalogue · 250 yrs</div>
+  <!-- the lit bar -->
+  <div class="barzone">
+    <div class="bar" id="urlBar">
+      <span class="dots" aria-hidden="true"><i></i><i></i><i></i></span>
+      <form class="url" id="urlForm" autocomplete="off" spellcheck="false">
+        <span class="mag" aria-hidden="true">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.6 15.6 21 21"/></svg>
+        </span>
+        <label class="field" for="urlInput">
+          <span class="dom">timelens.to/</span><input class="path" id="urlInput" value="wikipedia.org/wiki/Basalt" aria-label="Wikipedia URL or topic">
+        </label>
+      </form>
+      <span class="yrs">250 yrs of revisions</span>
+    </div>
+    <div class="bar-miss" id="barMiss">
+      <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
+      <button class="go" data-topic="basalt">Basalt</button>
+      <button class="go" data-topic="electricity">Electricity</button>
+      <button class="go" data-topic="cloud">Cloud</button>
+      <button class="go" data-topic="chlamys">Chlamys</button>
+      <button class="go" data-topic="chocolate">Chocolate</button>
+    </div>
   </div>
 
   <!-- masthead -->
   <header class="masthead">
     <div class="rule reveal"><span>TimeLens</span></div>
-    <h1 class="title reveal">Basalt.
-      <span class="sub">a rock, probably — an argument, certainly.</span>
+    <h1 class="title reveal" id="titleWord">Basalt.
+      <span class="sub" id="titleSub">a rock, probably — an argument, certainly.</span>
     </h1>
-    <p class="lede reveal">Prefix any Wikipedia URL with <code>timelens.</code> and pull the topic into focus across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
+    <p class="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> and pull the topic into focus across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
   </header>
 
   <!-- exhibit -->
   <main>
     <div class="exhibit-head">
-      <div class="entry reveal">Basalt.
-        <span class="def">the rock geology fought a war over</span>
+      <div class="entry reveal" id="entryName">Basalt.
+        <span class="def" id="entryDef">the rock geology fought a war over</span>
       </div>
       <div class="yearbox reveal">
         <div class="year" id="yearReadout">1810</div>
@@ -405,10 +427,6 @@
     <div class="stage reveal" id="stage" aria-hidden="true">
       <span class="frame-mark fm-tl"></span><span class="frame-mark fm-tr"></span>
       <span class="frame-mark fm-bl"></span><span class="frame-mark fm-br"></span>
-      <img src="assets/war.png" alt="Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire">
-      <img src="assets/record.jpg" alt="Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy">
-      <img src="assets/verdict.png" alt="Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow">
-      <img src="assets/today.png" alt="AI-generated photoreal Giant's Causeway at golden hour">
       <span class="cap"><b id="stageCapKind">AI engraving</b><span class="sep">·</span><span id="stageCapText">how the fight was pictured</span></span>
     </div>
 
@@ -428,89 +446,39 @@
     </div>
 
     <!-- era plates -->
-    <div class="deck" id="deck">
+    <div class="deck" id="deck"></div>
 
-      <article class="panel" data-stop="0">
-        <span class="plate-no">plate i.</span>
-        <h3>The great geology war</h3>
-        <p class="lede2">When the encyclopedia reached BASALT, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>
-        <div class="versus">
-          <div class="side water">
-            <div class="flag">Neptunists · water</div>
-            <h4>Abraham Gottlob Werner</h4>
-            <p>From Freiberg, Werner taught that every rock — basalt included — had precipitated out of a universal ocean.</p>
-          </div>
-          <div class="side fire">
-            <div class="flag">Vulcanists · fire</div>
-            <h4>James Hutton</h4>
-            <p>Hutton argued basalt's veins and columns were injected molten into older strata — born of the Earth's own heat.</p>
-          </div>
-        </div>
-      </article>
-
-      <article class="panel" data-stop="1">
-        <span class="plate-no">plate ii.</span>
-        <h3>An encyclopedia hedges</h3>
-        <blockquote class="quote">
-          “No subject in geological speculation has produced more controversy than the origin of basalt; one party asserting that it is the effect of <em>fire</em>, another that it has been deposited from an <em>aqueous solution</em>. <span class="hedge">Our limits preclude us even from literally stating the arguments…”</span>
-        </blockquote>
-        <p>What the page could report was experiment:</p>
-        <div class="chips">
-          <span class="chip">blowpipe → <b>an opaque black glass</b></span>
-          <span class="chip"><b>affects the magnetic needle</b> — “the great proportion of iron”</span>
-          <span class="chip">a <b>ringing sound</b> under the hammer</span>
-          <span class="chip"><b>regular columns</b> at Staffa &amp; the Giant's Causeway</span>
-        </div>
-        <p class="smallprint">quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged · bri-2376-3186638c36ec</p>
-      </article>
-
-      <article class="panel" data-stop="2">
-        <span class="plate-no">plate iii.</span>
-        <h3>The same book <em>changes its mind</em></h3>
-        <p class="lede2">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>“later than the chalk”</em> — and says what the fourth could not:</p>
-        <blockquote class="quote">
-          Basalts “identical with <em>products of active volcanoes</em>” — the action “of the same kind as that exerted by an active volcano.” <span class="hedge">It was, in fact, volcanic.</span>
-        </blockquote>
-        <p>The controversy was not settled by an argument. It was settled in print, edition by edition, by the same encyclopedia that once refused to pick a side.</p>
-        <p class="smallprint">quotation lightly cleaned from machine OCR of the scanned seventh-edition page · bri-0966-64586d30c5c9 · the lens's favorite evidence: Britannica versus Britannica</p>
-      </article>
-
-      <article class="panel" data-stop="3">
-        <span class="plate-no">plate iv.</span>
-        <h3>Settled: <em>fire won.</em></h3>
-        <p class="lede2">“Basalt is a common igneous rock.”</p>
-        <p>Lava that crystallized too fast for its grains to be seen — an <em>aphanitic</em> texture, in the modern vocabulary. The columns the fourth edition could only describe are now understood as cooling joints, and the rock the Neptunists owed to the ocean floors the ocean itself.</p>
-        <div class="chips">
-          <span class="chip hot"><b>cooled lava</b> — the Vulcanists were right</span>
-          <span class="chip"><b>aphanitic</b> — crystals too fine to see unaided</span>
-          <span class="chip"><b>columnar jointing</b> — Giant's Causeway</span>
-          <span class="chip">the <b>ocean floor</b> is mostly basalt</span>
-        </div>
-      </article>
-    </div>
-
-    <!-- ledger of other exhibits -->
+    <!-- ledger of exhibits -->
     <section class="block">
       <div class="sec-head reveal">
         <h2>The same lens, <em>turned elsewhere.</em></h2>
-        <p class="margin-note note">— every claim pinned to a real source region, nothing staged.</p>
+        <p class="margin-note note">— every claim pinned to a real source region; tap a row to pull it under the lens.</p>
       </div>
-      <div class="ledger reveal">
-        <div class="lrow">
+      <div class="ledger reveal" id="ledger">
+        <a class="lrow" href="#" data-topic="electricity">
           <div class="word">Electricity<span>Suppl. 3rd ed. → Wikipedia</span></div>
           <div class="col"><span class="t">then</span><p>“the distribution of the <i>electric fluid</i> in bodies” — an invisible substance, present in excess or deficit.</p></div>
-          <div class="col now"><span class="t">now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p></div>
-        </div>
-        <div class="lrow">
+          <div class="col now"><span class="t">now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p>
+            <span class="arrow">under the lens →</span></div>
+        </a>
+        <a class="lrow" href="#" data-topic="cloud">
           <div class="word">Cloud<span>Sixth ed. → Wikipedia</span></div>
           <div class="col"><span class="t">then</span><p>“a collection of <i>vapours</i> suspended in the atmosphere” — and an open question: electrified before, or after, they form?</p></div>
-          <div class="col now"><span class="t">now</span><p>“a visible mass of <i>condensed droplets or frozen crystals</i>” — the definition settled; the old “hath not yet been ascertained” survived with it.</p></div>
-        </div>
-        <div class="lrow">
+          <div class="col now"><span class="t">now</span><p>“a visible mass of <i>condensed droplets or frozen crystals</i>” — the definition settled; the old “hath not yet been ascertained” survived with it.</p>
+            <span class="arrow">under the lens →</span></div>
+        </a>
+        <a class="lrow" href="#" data-topic="chlamys">
           <div class="word">Chlamys<span>Sixth ed. → Wikipedia</span></div>
           <div class="col"><span class="t">then</span><p>a <i>military cloak</i> worn over the tunic — the emperors' were purple, bordered in gold.</p></div>
-          <div class="col now"><span class="t">now</span><p>a <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak. A matching name is not the same subject.</p></div>
-        </div>
+          <div class="col now"><span class="t">now</span><p>a <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak. A matching name is not the same subject.</p>
+            <span class="arrow">under the lens →</span></div>
+        </a>
+        <a class="lrow" href="#" data-topic="chocolate">
+          <div class="word">Chocolate<span>Sixth ed. → Wikipedia</span></div>
+          <div class="col"><span class="t">then</span><p>a medicinal <i>paste</i> of cacao — and a forgotten experiment on its <i>electrical properties</i>.</p></div>
+          <div class="col now"><span class="t">now</span><p>a <i>food product</i> made from roasted Theobroma cacao seeds — the experiment no longer part of the story.</p>
+            <span class="arrow">under the lens →</span></div>
+        </a>
       </div>
     </section>
 
@@ -591,8 +559,8 @@
       <span class="pipe">Super VL agent</span>
     </div>
     <p class="foot-stats reveal">100 scanned pages · eight editions, 1768–1860 · every claim cited</p>
-    <p class="foot-note reveal">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending. AI illustrations are labeled; the page image at the 1810 stop is the genuine scan.</p>
-    <p class="colophon reveal"><b>timelens.</b> — prepend it to anything we thought we knew.</p>
+    <p class="foot-note reveal">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending. AI illustrations are labeled; the page images under the lens are genuine scans.</p>
+    <p class="colophon reveal"><b>timelens.to</b> — prepend it to anything we thought we knew.</p>
   </footer>
 </div>
 
@@ -600,14 +568,238 @@
 (function(){
   "use strict";
   var YEAR_MIN = 1770, YEAR_MAX = 2025;
-  var STOPS = [
-    { year: 1795, label: "the war",      status: "Disputed — water vs. fire",  cls: "contested", edition: "The field, mid-argument",     capKind: "AI engraving",  cap: "how the fight was pictured" },
-    { year: 1810, label: "the record",   status: "Disputed — on the record",   cls: "record",    edition: "Britannica, Fourth Edition",  capKind: "Original scan", cap: "the actual fourth-edition page" },
-    { year: 1835, label: "the verdict",  status: "Verdict — in fact volcanic", cls: "record",    edition: "Britannica, Seventh Edition", capKind: "AI engraving",  cap: "the verdict, as they came to see it" },
-    { year: 2025, label: "today",        status: "Settled — igneous",          cls: "settled",   edition: "Wikipedia, live revision",    capKind: "AI photograph", cap: "the settled view" }
-  ];
-  var stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
 
+  /* ================= exhibits — real indexed pages ================= */
+  var TOPICS = {
+    basalt: {
+      word: "Basalt", def: "the rock geology fought a war over",
+      titleSub: "a rock, probably — an argument, certainly.",
+      wikiPath: "wikipedia.org/wiki/Basalt",
+      start: 1,
+      stops: [
+        {
+          year: 1795, label: "the war", status: "Disputed — water vs. fire", cls: "contested",
+          edition: "The field, mid-argument",
+          capKind: "AI engraving", cap: "how the fight was pictured",
+          img: "assets/war.png", alt: "Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>The great geology war</h3>'
+            + '<p class="lede2">When the encyclopedia reached BASALT, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>'
+            + '<div class="versus">'
+            + '<div class="side water"><div class="flag">Neptunists · water</div><h4>Abraham Gottlob Werner</h4><p>From Freiberg, Werner taught that every rock — basalt included — had precipitated out of a universal ocean.</p></div>'
+            + '<div class="side fire"><div class="flag">Vulcanists · fire</div><h4>James Hutton</h4><p>Hutton argued basalt\u2019s veins and columns were injected molten into older strata — born of the Earth\u2019s own heat.</p></div>'
+            + '</div>'
+        },
+        {
+          year: 1810, label: "the record", status: "Disputed — on the record", cls: "record",
+          edition: "Britannica, Fourth Edition",
+          capKind: "Original scan", cap: "the actual fourth-edition page",
+          img: "assets/record.jpg", alt: "Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy",
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>An encyclopedia hedges</h3>'
+            + '<blockquote class="quote">\u201cNo subject in geological speculation has produced more controversy than the origin of basalt; one party asserting that it is the effect of <em>fire</em>, another that it has been deposited from an <em>aqueous solution</em>. <span class="hedge">Our limits preclude us even from literally stating the arguments\u2026\u201d</span></blockquote>'
+            + '<p>What the page could report was experiment:</p>'
+            + '<div class="chips">'
+            + '<span class="chip">blowpipe \u2192 <b>an opaque black glass</b></span>'
+            + '<span class="chip"><b>affects the magnetic needle</b> — \u201cthe great proportion of iron\u201d</span>'
+            + '<span class="chip">a <b>ringing sound</b> under the hammer</span>'
+            + '<span class="chip"><b>regular columns</b> at Staffa &amp; the Giant\u2019s Causeway</span>'
+            + '</div>'
+            + '<p class="smallprint">quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged · bri-2376-3186638c36ec</p>'
+        },
+        {
+          year: 1835, label: "the verdict", status: "Verdict — in fact volcanic", cls: "record",
+          edition: "Britannica, Seventh Edition",
+          capKind: "AI engraving", cap: "the verdict, as they came to see it",
+          img: "assets/verdict.png", alt: "Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow",
+          html: '<span class="plate-no">plate iii.</span>'
+            + '<h3>The same book <em>changes its mind</em></h3>'
+            + '<p class="lede2">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>\u201clater than the chalk\u201d</em> — and says what the fourth could not:</p>'
+            + '<blockquote class="quote">Basalts \u201cidentical with <em>products of active volcanoes</em>\u201d — the action \u201cof the same kind as that exerted by an active volcano.\u201d <span class="hedge">It was, in fact, volcanic.</span></blockquote>'
+            + '<p>The controversy was not settled by an argument. It was settled in print, edition by edition, by the same encyclopedia that once refused to pick a side.</p>'
+            + '<p class="smallprint">quotation lightly cleaned from machine OCR of the scanned seventh-edition page · bri-0966-64586d30c5c9</p>'
+        },
+        {
+          year: 2025, label: "today", status: "Settled — igneous", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "AI photograph", cap: "the settled view",
+          img: "assets/today.png", alt: "AI-generated photoreal Giant's Causeway at golden hour",
+          html: '<span class="plate-no">plate iv.</span>'
+            + '<h3>Settled: <em>fire won.</em></h3>'
+            + '<p class="lede2">\u201cBasalt is a common igneous rock.\u201d</p>'
+            + '<p>Lava that crystallized too fast for its grains to be seen — an <em>aphanitic</em> texture, in the modern vocabulary. The columns the fourth edition could only describe are now understood as cooling joints, and the rock the Neptunists owed to the ocean floors the ocean itself.</p>'
+            + '<div class="chips">'
+            + '<span class="chip hot"><b>cooled lava</b> — the Vulcanists were right</span>'
+            + '<span class="chip"><b>aphanitic</b> — crystals too fine to see unaided</span>'
+            + '<span class="chip"><b>columnar jointing</b> — Giant\u2019s Causeway</span>'
+            + '<span class="chip">the <b>ocean floor</b> is mostly basalt</span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    electricity: {
+      word: "Electricity", def: "a fluid they could not weigh",
+      titleSub: "the invisible substance that became a swarm of particles.",
+      wikiPath: "wikipedia.org/wiki/Fluid_theory_of_electricity",
+      start: 0,
+      stops: [
+        {
+          year: 1797, label: "then", status: "Fluid theory — held", cls: "record",
+          edition: "Britannica, Suppl. to the 3rd ed.",
+          capKind: "Original scan", cap: "the actual supplement page",
+          img: "assets/scan-1776.jpg", alt: "Original scanned page: Britannica supplement electricity entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>One fluid, or two?</h3>'
+            + '<blockquote class="quote">\u201c\u2026the distribution of the <em>electric fluid</em> in bodies, in various circumstances.\u201d <span class="hedge">— an invisible substance, present in excess or deficit, that a body could have too much of.</span></blockquote>'
+            + '<p>The supplement gives the period\u2019s experimental furniture in detail — glass globes, rubbed silk, points, sparks, an electrical chain — and the fluid standing in for mechanism.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>electric fluid</b> — a substance, not a motion</span>'
+            + '<span class="chip">points, sparks, the <b>electrical chain</b></span>'
+            + '<span class="chip">Beccaria, Franklin, du Fay — the period\u2019s witnesses</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-1776-5ed864a29d36 · no electrons on this page — the electron is not named until 1891</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Superseded — archived", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the superseded model, on file",
+          plate: { title: "Fluid theory of electricity", sub: "wikipedia · superseded model" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>From fluid to <em>electron</em></h3>'
+            + '<p class="lede2">Today the fluid has its own museum: an article on the <em>fluid theory of electricity</em> itself.</p>'
+            + '<p>Du Fay\u2019s vitreous and resinous fluids, Franklin\u2019s single fluid — catalogued as the conceptual scaffolding that held the experiments until the electron arrived, and was then quietly taken down. The observation was right; the substance was not.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>du Fay</b> — vitreous &amp; resinous, two fluids</span>'
+            + '<span class="chip"><b>Franklin</b> — one fluid, + and \u2212</span>'
+            + '<span class="chip"><b>1891</b> — the electron gets a name</span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    cloud: {
+      word: "Cloud", def: "vapour, and a question left open",
+      titleSub: "they measured the electricity — and still asked which caused which.",
+      wikiPath: "wikipedia.org/wiki/Cloud",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "Open question — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "assets/scan-59.jpg", alt: "Original scanned page: Britannica sixth edition CLOUD entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>Vapour — and a question the page leaves open</h3>'
+            + '<blockquote class="quote">\u201ca collection of <em>vapours</em> suspended in the atmosphere.\u201d <span class="hedge">Beccaria\u2019s rods draw electricity from passing clouds — but \u201cwhether electricity is the cause or the effect hath not yet been ascertained.\u201d</span></blockquote>'
+            + '<p>The entry reports the experiment and refuses the mechanism. Two hundred years of instrumentation later, that refusal reads less like ignorance than good method.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>Beccaria\u2019s rods</b> — not \u201cBecquerel\u201d, as the model later wrote</span>'
+            + '<span class="chip">electricity: <b>cause, or effect?</b></span>'
+            + '<span class="chip">\u201chath not yet been ascertained\u201d</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0059-891965a7ca3e · this page produced the Becquerel anachronism in the incident table below</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Settled definition — old question kept", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the modern definition",
+          plate: { title: "Cloud", sub: "wikipedia · live revision" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>Droplets, not <em>vapour</em></h3>'
+            + '<p class="lede2">\u201cA visible mass of condensed droplets or frozen crystals.\u201d</p>'
+            + '<p>The definition moved from vapour to condensate. And the old question survived in modern dress: cloud electrification and charge separation are still active research — the encyclopedia no longer prints \u201chath not yet been ascertained,\u201d but the ascertainment is genuinely unfinished.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>condensed droplets</b> — not suspended vapour</span>'
+            + '<span class="chip"><b>charge separation</b> — still researched</span>'
+            + '<span class="chip">the open question <b>outlived the edition</b></span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    chlamys: {
+      word: "Chlamys", def: "a cloak that became a scallop",
+      titleSub: "the same word, filed under a different world.",
+      wikiPath: "wikipedia.org/wiki/Chlamys_(bivalve)",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "A garment — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHLAMYS entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>An item of <em>clothing</em></h3>'
+            + '<blockquote class="quote">\u201ca <em>military cloak</em>, worn over the tunic \u2026 those of the emperors were <em>purple, and bordered with gold</em>.\u201d</blockquote>'
+            + '<p>To the sixth edition, chlamys is a thing you wear — Greek, martial, dyed in status.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>cloak</b> — worn over the tunic</span>'
+            + '<span class="chip">emperors\u2019 versions: <b>purple, gold-bordered</b></span>'
+            + '<span class="chip">same page as CHOCOLATE — literally</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0057-7d7650d5d60f · the scan carries CHLAMYS and CHOCOLATE on a single page</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Diverged — same name, different subject", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the living chlamys",
+          plate: { title: "Chlamys (bivalve)", sub: "wikipedia · genus of scallops" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>A <em>shell</em> that wears the cloak\u2019s name</h3>'
+            + '<p class="lede2">Today Wikipedia opens on a genus of small scallops.</p>'
+            + '<p>The redirect is not a mistake — the scallop was named for the Greek cloak. But a matcher that stops at the headword marries a shell to a garment: <em>a matching name is not the same subject.</em> This is the wrong-sense failure class the whole pipeline is built to catch.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>genus of scallops</b> — named after the cloak</span>'
+            + '<span class="chip hot"><b>headword match ≠ subject match</b></span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    chocolate: {
+      word: "Chocolate", def: "a medicine, briefly electrical",
+      titleSub: "before it was dessert, it was an experiment.",
+      wikiPath: "wikipedia.org/wiki/Chocolate",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "Remedy & curiosity — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHOCOLATE entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>A paste, a cake — <em>and a glass of oil</em></h3>'
+            + '<p class="lede2">The sixth edition knows chocolate as a prepared paste of cacao — and preserves one forgotten experiment.</p>'
+            + '<blockquote class="quote">Mr. Heily electrifies a chocolate compound; the effect dies unless the mixture holds <em>\u201ca small quantity of olive-oil.\u201d</em></blockquote>'
+            + '<p>Nobody printed that experiment again. The OCR later turned the olive-oil into <em>alcohol</em> — and an agent, quoting the transcription faithfully, repeated it. The correct reading only exists on the scan.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>olive-oil</b> — what the scan says</span>'
+            + '<span class="chip hot"><b>alcohol</b> — what the OCR, then the agent, said</span>'
+            + '<span class="chip"><b>Mr. Heily</b> — the era\u2019s experimenters, preserved</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0057-7d7650d5d60f · this page produced the \u201cscan-false\u201d incident below</p>'
+        },
+        {
+          year: 2025, label: "now", status: "A food — the experiment forgotten", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the modern article",
+          plate: { title: "Chocolate", sub: "wikipedia · live revision" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>From the pharmacopeia to the <em>snack aisle</em></h3>'
+            + '<p class="lede2">\u201cA food product made from roasted and ground cacao seed kernels.\u201d</p>'
+            + '<p>The modern article is longer, better cited, and correct — and contains no trace of the electrification experiment. Knowledge does not only accumulate; it <em>sheds</em>. Whether that shedding is loss or cleanup is exactly what the lens is for.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>Theobroma cacao</b> — the modern framing</span>'
+            + '<span class="chip">the electrical experiment: <b>not retained</b></span>'
+            + '<span class="chip"><b>shedding</b> — the third kind of change, after error and revision</span>'
+            + '</div>'
+        }
+      ]
+    }
+  };
+
+  /* ================= dom ================= */
   var track    = document.getElementById('railTrack');
   var fill     = document.getElementById('railFill');
   var lens     = document.getElementById('lens');
@@ -617,39 +809,34 @@
   var pill     = document.getElementById('statusPill');
   var pillText = document.getElementById('statusText');
   var deck     = document.getElementById('deck');
-  var panels   = Array.prototype.slice.call(deck.querySelectorAll('.panel'));
   var stage    = document.getElementById('stage');
-  var stageImgs= stage ? Array.prototype.slice.call(stage.querySelectorAll('img')) : [];
   var stageCapKind = document.getElementById('stageCapKind');
   var stageCapText = document.getElementById('stageCapText');
+  var entryName= document.getElementById('entryName');
+  var entryDef = document.getElementById('entryDef');
+  var titleWord= document.getElementById('titleWord');
+  var titleSub = document.getElementById('titleSub');
   var wipeEl   = document.getElementById('wipe');
+  var urlForm  = document.getElementById('urlForm');
+  var urlInput = document.getElementById('urlInput');
+  var urlBar   = document.getElementById('urlBar');
+  var barMiss  = document.getElementById('barMiss');
 
   var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  /* hide generated-image blocks gracefully when assets are absent */
-  if (stage) {
-    var hideStageIfAllBroken = function(){
-      if (stageImgs.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
-    };
-    stageImgs.forEach(function(im){
-      var broke = function(){ im.dataset.broken = '1'; im.style.opacity = 0; hideStageIfAllBroken(); };
-      if (im.complete && im.naturalWidth === 0) broke();
-      im.addEventListener('error', broke);
-    });
-  }
-  if (wipeEl) {
-    var wipeImgs = Array.prototype.slice.call(wipeEl.querySelectorAll('img'));
-    var hideWipeIfAllBroken = function(){
-      if (wipeImgs.every(function(i){ return i.dataset.broken; })) wipeEl.style.display = 'none';
-    };
-    wipeImgs.forEach(function(im){
-      var broke = function(){ im.dataset.broken = '1'; im.style.opacity = 0; hideWipeIfAllBroken(); };
-      if (im.complete && im.naturalWidth === 0) broke();
-      im.addEventListener('error', broke);
-    });
-  }
+  /* ================= state ================= */
+  var STOPS = [], stopsPos = [], panels = [], stageItems = [], stopEls = [];
+  var pos = 0, target = 0, vel = 0;
+  var dragging = false;
+  var tweening = false, twFrom = 0, twTo = 0, twStart = 0, twDur = 0;
+  var lastT = performance.now();
+  var lastYearShown = -1, lastStopIdx = -1;
 
-  /* ---- build ticks + stops ---- */
+  function clamp(v, a, b){ return v < a ? a : v > b ? b : v; }
+  function smooth(t){ return t * t * (3 - 2 * t); }
+  function easeOut(t){ return 1 - Math.pow(1 - t, 3); }
+
+  /* ================= build rail ticks (once) ================= */
   var MAJORS = [1770, 1800, 1850, 1900, 1950, 2000];
   for (var y = 1770; y <= 2020; y += 10) {
     var t = document.createElement('span');
@@ -665,31 +852,117 @@
       track.insertBefore(tl, lens);
     }
   }
-  var stopEls = STOPS.map(function(s, i){
-    var el = document.createElement('button');
-    el.type = 'button';
-    el.className = 'stop' + (i === STOPS.length - 1 ? ' settled' : '');
-    el.style.left = (stopsPos[i] * 100) + '%';
-    el.setAttribute('aria-label', 'Jump to ' + s.year + ' — ' + s.label);
-    el.innerHTML = '<span class="slabel">' + s.label + '</span><i></i>';
-    el.addEventListener('click', function(){ goTo(i); });
-    track.insertBefore(el, lens);
-    return el;
+
+  /* ================= topic loading ================= */
+  function loadTopic(key, scroll){
+    var T = TOPICS[key]; if (!T) return;
+    barMiss.classList.remove('show');
+    urlInput.value = T.wikiPath;
+
+    entryName.firstChild ? entryName.childNodes[0].nodeValue = T.word + "." : null;
+    entryName.innerHTML = T.word + '.<span class="def" id="entryDef">' + T.def + '</span>';
+    titleWord.innerHTML = T.word + '.<span class="sub" id="titleSub">' + T.titleSub + '</span>';
+
+    STOPS = T.stops;
+    stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
+
+    /* rebuild stop buttons */
+    stopEls.forEach(function(el){ el.remove(); });
+    stopEls = STOPS.map(function(s, i){
+      var el = document.createElement('button');
+      el.type = 'button';
+      el.className = 'stop' + (s.cls === 'settled' ? ' settled' : '');
+      el.style.left = (stopsPos[i] * 100) + '%';
+      el.setAttribute('aria-label', 'Jump to ' + s.year + ' — ' + s.label);
+      el.innerHTML = '<span class="slabel">' + s.label + '</span><i></i>';
+      el.addEventListener('click', function(){ goTo(i); });
+      track.insertBefore(el, lens);
+      return el;
+    });
+
+    /* rebuild stage items (keep frame marks + cap) */
+    stageItems.forEach(function(n){ n.remove(); });
+    stageItems = STOPS.map(function(s){
+      var el;
+      if (s.img) {
+        el = document.createElement('img');
+        el.className = 'stage-item';
+        el.src = s.img; el.alt = s.alt || '';
+        el.addEventListener('error', function(){
+          el.dataset.broken = '1'; el.style.opacity = 0; el.style.display = 'none';
+          if (stageItems.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
+        });
+        if (el.complete && el.naturalWidth === 0) { el.dataset.broken = '1'; }
+      } else {
+        el = document.createElement('div');
+        el.className = 'stage-item plate-item';
+        el.innerHTML = '<div class="ptitle">' + (s.plate && s.plate.title || '') + '</div>'
+                     + '<div class="psub">' + (s.plate && s.plate.sub || '') + '</div>';
+      }
+      stage.insertBefore(el, stage.querySelector('.cap'));
+      return el;
+    });
+    if (stageItems.length && stageItems.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
+    else stage.style.display = '';
+
+    /* rebuild panels */
+    deck.innerHTML = '';
+    panels = STOPS.map(function(s){
+      var p = document.createElement('article');
+      p.className = 'panel';
+      p.innerHTML = s.html;
+      deck.appendChild(p);
+      return p;
+    });
+
+    lastStopIdx = -1;
+    var s0 = T.start || 0;
+    pos = stopsPos[s0]; target = pos; vel = 0; tweening = false;
+    if (scroll) {
+      document.querySelector('.exhibit-head').scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+    }
+  }
+
+  /* ================= url routing ================= */
+  function resolveInput(v){
+    var s = v.trim().toLowerCase();
+    if (!s) return null;
+    s = s.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
+    var m = s.match(/wiki\/(.+)/);
+    var slug = (m ? m[1] : s.split('/').pop()).replace(/_/g, ' ').replace(/%20/g, ' ');
+    slug = decodeURIComponent(slug).replace(/\(.*?\)/g, '').trim();
+    for (var k in TOPICS) {
+      if (TOPICS.hasOwnProperty(k) && (slug.indexOf(k) !== -1 || TOPICS[k].word.toLowerCase().indexOf(slug) !== -1)) return k;
+    }
+    if (slug.indexOf('fluid') !== -1 || slug.indexOf('electric') !== -1) return 'electricity';
+    if (slug.indexOf('bivalve') !== -1 || slug.indexOf('scallop') !== -1) return 'chlamys';
+    return null;
+  }
+  urlForm.addEventListener('submit', function(e){
+    e.preventDefault();
+    var k = resolveInput(urlInput.value);
+    if (k) { loadTopic(k, true); }
+    else {
+      urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
+      barMiss.classList.add('show');
+    }
   });
+  Array.prototype.forEach.call(document.querySelectorAll('.bar-miss .go'), function(b){
+    b.addEventListener('click', function(){ loadTopic(b.dataset.topic, true); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('.lrow[data-topic]'), function(a){
+    a.addEventListener('click', function(e){ e.preventDefault(); loadTopic(a.dataset.topic, true); });
+  });
+  try {
+    var qp = new URLSearchParams(location.search).get('wiki') || new URLSearchParams(location.search).get('q');
+    var pk = qp && resolveInput(qp);
+    var hk = location.hash.replace('#','').toLowerCase();
+    if (pk) loadTopic(pk, false);
+    else if (hk && TOPICS[hk]) loadTopic(hk, false);
+    else loadTopic('basalt', false);
+  } catch(e) { loadTopic('basalt', false); }
 
-  /* ---- motion state ---- */
-  var pos = stopsPos[1];
-  var target = pos;
-  var vel = 0;
-  var dragging = false;
-  var tweening = false, twFrom = 0, twTo = 0, twStart = 0, twDur = 0;
-  var lastT = performance.now();
-  var lastYearShown = -1, lastStopIdx = -1;
-
-  function clamp(v, a, b){ return v < a ? a : v > b ? b : v; }
-  function smooth(t){ return t * t * (3 - 2 * t); }
-  function easeOut(t){ return 1 - Math.pow(1 - t, 3); }
-
+  /* ================= motion ================= */
   function posFromEvent(e){
     var r = track.getBoundingClientRect();
     return clamp((e.clientX - r.left) / r.width, 0, 1);
@@ -708,7 +981,6 @@
     vel = 0;
   }
 
-  /* ---- pointer ---- */
   var lastX = 0, lastMoveT = 0;
   lens.addEventListener('pointerdown', function(e){
     dragging = true; tweening = false; vel = 0;
@@ -718,6 +990,7 @@
   });
   track.addEventListener('pointerdown', function(e){
     if (e.target === lens || lens.contains(e.target)) return;
+    if (e.target.closest && e.target.closest('.stop')) return;
     dragging = true; tweening = false; vel = 0;
     target = posFromEvent(e);
     lastX = e.clientX; lastMoveT = performance.now();
@@ -751,13 +1024,8 @@
     if (e.key === 'End')  { goTo(STOPS.length - 1); e.preventDefault(); }
   });
 
-  /* ---- focus: blur scales with distance to the nearest stop ---- */
-  function focusAmount(i, weight){
-    /* weight 1 = settled on stop i -> blur 0; between stops -> soft */
-    return (1 - weight) * 3.2;
-  }
+  function focusAmount(w){ return (1 - w) * 3.2; }
 
-  /* ---- render ---- */
   function render(){
     var year = Math.round(YEAR_MIN + pos * (YEAR_MAX - YEAR_MIN));
     lens.style.left = (pos * 100) + '%';
@@ -768,25 +1036,19 @@
       yearOut.textContent = year;
       lens.setAttribute('aria-valuenow', year);
     }
-
     var ni = nearestStop(pos);
-    var nearDist = Math.abs(stopsPos[ni] - pos);
-    var inGrip = nearDist < 0.045;
-    var shownIdx = inGrip ? ni : nearestStop(pos);
-    if (shownIdx !== lastStopIdx) {
-      lastStopIdx = shownIdx;
-      var s = STOPS[shownIdx];
+    if (ni !== lastStopIdx) {
+      lastStopIdx = ni;
+      var s = STOPS[ni];
       pillText.textContent = s.status;
       editionEl.textContent = s.edition;
       pill.className = 'status ' + s.cls;
       lens.setAttribute('aria-valuetext', year + ' — ' + s.edition);
-      if (stageCapText) {
-        stageCapKind.textContent = s.capKind;
-        stageCapKind.style.color = s.capKind.indexOf('AI') === 0 ? '#cf5a30' : '#7fa08b';
-        stageCapText.textContent = s.cap;
-      }
+      stageCapKind.textContent = s.capKind;
+      stageCapKind.style.color = s.capKind === 'AI photograph' || s.capKind === 'AI engraving' ? '#cf5a30' : '#7fa08b';
+      stageCapText.textContent = s.cap;
     }
-    stopEls.forEach(function(el, i){ el.classList.toggle('active', i === shownIdx); });
+    stopEls.forEach(function(el, i){ el.classList.toggle('active', i === ni); });
 
     for (var i = 0; i < panels.length; i++) {
       var w = 0;
@@ -804,18 +1066,16 @@
       p.style.transform = 'translateY(' + ((1 - w) * 12) + 'px)';
       p.classList.toggle('front', w > 0.6);
       p.style.visibility = w < 0.02 ? 'hidden' : 'visible';
-      if (stageImgs[i] && !stageImgs[i].dataset.broken) {
-        stageImgs[i].style.opacity = w;
-        stageImgs[i].style.filter = 'blur(' + focusAmount(i, w).toFixed(2) + 'px) brightness(' + (0.82 + w * 0.18).toFixed(3) + ')';
+      if (stageItems[i] && !stageItems[i].dataset.broken) {
+        stageItems[i].style.opacity = w;
+        stageItems[i].style.filter = 'blur(' + focusAmount(w).toFixed(2) + 'px) brightness(' + (0.82 + w * 0.18).toFixed(3) + ')';
       }
     }
   }
 
-  /* ---- main loop ---- */
   function frame(now){
     var dt = Math.min((now - lastT) / 1000, 0.05);
     lastT = now;
-
     if (tweening) {
       var k = twDur === 0 ? 1 : clamp((now - twStart) / twDur, 0, 1);
       pos = twFrom + (twTo - twFrom) * easeOut(k);
@@ -830,19 +1090,24 @@
       } else {
         var ns = stopsPos[nearestStop(pos)];
         var d = ns - pos;
-        if (Math.abs(d) > 0.0004) {
-          pos += d * Math.min(1, dt * 7);
-        } else { pos = ns; }
+        if (Math.abs(d) > 0.0004) pos += d * Math.min(1, dt * 7);
+        else pos = ns;
       }
     }
     render();
     requestAnimationFrame(frame);
   }
-  render();
   requestAnimationFrame(frame);
 
-  /* ---- before/after wipe ---- */
+  /* ================= before/after wipe ================= */
   if (wipeEl) {
+    var wipeImgs = Array.prototype.slice.call(wipeEl.querySelectorAll('img'));
+    var wipeBroken = 0;
+    wipeImgs.forEach(function(im){
+      var broke = function(){ wipeBroken++; if (wipeBroken >= wipeImgs.length) wipeEl.style.display = 'none'; };
+      if (im.complete && im.naturalWidth === 0) broke();
+      im.addEventListener('error', broke);
+    });
     var wipeDrag = false;
     var setCut = function(p){ wipeEl.style.setProperty('--cut', (clamp(p,0,1) * 100) + '%'); };
     var wipeMove = function(e){
@@ -858,7 +1123,7 @@
     setCut(0.5);
   }
 
-  /* ---- scroll reveal ---- */
+  /* ================= scroll reveal ================= */
   var revealEls = document.querySelectorAll('.reveal');
   if ('IntersectionObserver' in window && !reduced) {
     var io = new IntersectionObserver(function(entries){
