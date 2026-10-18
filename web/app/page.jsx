@@ -152,7 +152,7 @@ export default function Home() {
       specimen.style.display = 'none';
     }
     specFrame.classList.remove('zoomed');
-    artStrip.innerHTML = '';
+    if (artStrip) artStrip.innerHTML = '';
 
     lastStopIdx = -1;
     var s0 = T.start || 0;
@@ -216,7 +216,9 @@ export default function Home() {
     };
   }
   function fetchArt(d){
-    var shots = (d.art || []).filter(function(s){ return s && s.prompt; }).slice(0, 4);
+    var shots = (d.art || []).filter(function(s){
+      return s && s.prompt && (s.role === 'then' || s.role === 'now');
+    }).slice(0, 2);
     if (!shots.length) return Promise.resolve();
     var artRow = document.createElement('div');
     artRow.className = 'ls run'; artRow.dataset.s = 'art';
@@ -249,7 +251,7 @@ export default function Home() {
             im.addEventListener('load', ok);
             im.addEventListener('error', function(){ im.remove(); ok(); });
           }));
-          artStrip.appendChild(im);
+          if (artStrip) artStrip.appendChild(im);
           im.src = a.url;
         }
       });
@@ -601,7 +603,6 @@ export default function Home() {
         <img id="specImg" alt="Matched Britannica scan" />
         <figcaption id="specCap"></figcaption>
       </figure>
-      <div className="art-strip" id="artStrip"></div>
     </section>
 
     {/* incident table */}

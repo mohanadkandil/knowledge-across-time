@@ -180,7 +180,7 @@ async function run(request, send) {
   let exhibit = null;
   if (TF_KEY) {
     try {
-      const sys = 'You are TimeLens, comparing a historical encyclopedia page with modern knowledge. Reply with ONLY compact JSON, no markdown: {"then_line": one short sentence of what the old page claims, "now_line": one short sentence of the modern position, "quote": one VERBATIM phrase (max 18 words) copied from the OLD PAGE TEXT, "verdict": one of settled|superseded|diverged|open, "note": max 12 words on what changed, "shots": [ {"role": "then", "prompt": FLUX image prompt}, {"role": "then_detail", "prompt": ...}, {"role": "now", "prompt": ...}, {"role": "now_detail", "prompt": ...} ]}. Art direction rules for shots — depict the TOPIC itself: "then" shots are late-18th-century copperplate encyclopedia engravings, fine burin hatching, sepia ink on warm ivory paper, museum archive feel — show the object or phenomenon AS THE OLD PAGE UNDERSTOOD IT; "now" shots are clean modern photoreal or minimal editorial photographs — the same subject as understood today. Every prompt must be self-contained, visually specific, and contain no text, lettering, captions or UI.';
+      const sys = 'You are TimeLens, comparing a historical encyclopedia page with modern knowledge. Reply with ONLY compact JSON, no markdown: {"then_line": one short sentence of what the old page claims, "now_line": one short sentence of the modern position, "quote": one VERBATIM phrase (max 18 words) copied from the OLD PAGE TEXT, "verdict": one of settled|superseded|diverged|open, "note": max 12 words on what changed, "shots": [ {"role": "then", "prompt": FLUX image prompt}, {"role": "now", "prompt": ...} ]}. Art direction rules for shots — depict the TOPIC itself, exactly two images: "then" is a late-18th-century copperplate encyclopedia engraving, fine burin hatching, sepia ink on warm ivory paper, museum archive feel — show the object or phenomenon AS THE OLD PAGE UNDERSTOOD IT; "now" is a clean modern photoreal or minimal editorial photograph — the same subject as understood today. Every prompt must be self-contained, visually specific, and contain no text, lettering, captions or UI.';
       const user = `TOPIC: ${topic}\n\nOLD PAGE TEXT (historical, possibly OCR-noisy):\n${best.row.text.slice(0, 2400)}\n\nMODERN ARTICLE EXCERPT (${wiki ? wiki.title : 'unknown'}):\n${(wiki?.excerpt || '').slice(0, 1200)}`;
       const r = await jpost(`${TF_BASE_URL}/chat/completions`, {
         model: SUPER_MODEL, temperature: 0.2, max_tokens: 3000,
@@ -211,7 +211,7 @@ async function run(request, send) {
     match: { rerankScore: best.rerank, candidates: ranked.slice(0, 5).map((r) => ({ page: pageIdOf(r.row.id), score: r.rerank })) },
     thenText: best.row.text.slice(0, 1500),
     exhibit,
-    art: Array.isArray(exhibit?.shots) ? exhibit.shots.slice(0, 5) : [],
+    art: Array.isArray(exhibit?.shots) ? exhibit.shots.slice(0, 2) : [],
     trace,
   };
 }
