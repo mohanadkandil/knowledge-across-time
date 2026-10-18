@@ -162,6 +162,7 @@
     will-change:opacity,filter;
   }
   .stage img.stage-item{object-fit:cover}
+  .stage img.stage-item.scan{object-position:top}
   .stage .plate-item{
     display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;
     padding:32px;text-align:center;
@@ -404,10 +405,10 @@
   <!-- masthead -->
   <header class="masthead">
     <div class="rule reveal"><span>TimeLens</span></div>
-    <h1 class="title reveal" id="titleWord">Basalt.
-      <span class="sub" id="titleSub">a rock, probably — an argument, certainly.</span>
+    <h1 class="title reveal" id="titleWord">Pull history<br>into focus.
+      <span class="sub" id="titleSub">— the lens, applied to basalt.</span>
     </h1>
-    <p class="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> and pull the topic into focus across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
+    <p class="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> and watch the topic resolve across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
   </header>
 
   <!-- exhibit -->
@@ -859,9 +860,8 @@
     barMiss.classList.remove('show');
     urlInput.value = T.wikiPath;
 
-    entryName.firstChild ? entryName.childNodes[0].nodeValue = T.word + "." : null;
     entryName.innerHTML = T.word + '.<span class="def" id="entryDef">' + T.def + '</span>';
-    titleWord.innerHTML = T.word + '.<span class="sub" id="titleSub">' + T.titleSub + '</span>';
+    titleSub.textContent = '— the lens, applied to ' + T.word.toLowerCase() + '.';
 
     STOPS = T.stops;
     stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
@@ -886,7 +886,7 @@
       var el;
       if (s.img) {
         el = document.createElement('img');
-        el.className = 'stage-item';
+        el.className = 'stage-item' + (s.img.indexOf('scan') !== -1 || s.img.indexOf('record') !== -1 ? ' scan' : '');
         el.src = s.img; el.alt = s.alt || '';
         el.addEventListener('error', function(){
           el.dataset.broken = '1'; el.style.opacity = 0; el.style.display = 'none';
