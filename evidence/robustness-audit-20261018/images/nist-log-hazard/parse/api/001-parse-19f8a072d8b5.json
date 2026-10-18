@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:49.184492+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6d23d4ee1c9031b57b3ee131c8021ef2ab1be9c7e7830f63c2e90c142a6753c3",
+                "characters": 13098
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-949051be-d323-40eb-a421-5836372c17b9",
+    "object": "chat.completion",
+    "created": 1792336909,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0><y_0.0563><chart type=\"line\">\ntitle: Weibull Distribution\naxis[x]: Time\naxis[y]: Cumulative Hazard\nbind: Time ;  ; x\nbind: Cumulative Hazard ;  ; y\n\n| Time | Cumulative Hazard |\n| --- | --- |\n| 20 | 0.10 |\n| 75 | 0.21 |\n| 135 | 0.40 |\n| 195 | 0.62 |\n| 215 | 0.95 |\n| 250 | 1.25 |\n</chart><x_0.998><y_0.9992><class_Chart>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 398,
+      "total_tokens": 519,
+      "completion_tokens": 121,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 398,
+    "total_tokens": 519,
+    "completion_tokens": 121,
+    "prompt_tokens_details": null
+  },
+  "seconds": 0.535
+}

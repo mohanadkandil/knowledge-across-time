@@ -1,0 +1,11 @@
+{
+  "case_id": "microscope-plate",
+  "role": "super-image",
+  "question": "Read the title. What types of objects are illustrated? Does the plate establish a numeric optical magnification for figure 24? Give that value only if explicitly shown; do not guess a typical microscope magnification.",
+  "expected": "MICROSCOPE; optical instrument diagrams. No explicit numeric optical magnification established for figure24.",
+  "image_sha256": "dd32097bd08bbdfec40fa244fb5d81b286ac5087e2c21bcac4c6b189bd82ca4f",
+  "started_at": "2026-10-18T15:21:39.405999+00:00",
+  "result": "The title is \"MICROSCOPE\". The plate illustrates parts of microscopes and microscope accessories, including microscope bodies, stages, objectives, and related components.\n\nThe plate does not establish a numeric optical magnification for figure 24. No magnification value is explicitly shown for that figure.",
+  "status": "complete",
+  "seconds": 2.912
+}

@@ -1,5 +1,7 @@
 # Red-team probes: six new adversarial cases against the live pipeline
 
+Later observations: [current three successes and three failures](judge-cases.md), plus [blank-page, visual, chart and long-context tests](robustness-tests.md). The six probes below retain their original outcomes.
+
 Reviewed 18 October 2026 through **automated source inspection**, using the same method as [`actual-cases.md`](actual-cases.md). The reviewer ran six new targeted probes against the live stack (Nemotron Parse 3.5, Embed VL + Rerank VL over the SSH tunnel at `127.0.0.1:8001`, Nemotron-3.5-Super-VL via Hermes), then read the saved `run.json` artifacts, the parsed sources in `data/sources.sqlite3`, and the original scan images. No run artifacts were modified, no answers were edited, and no `Store.review` records were created. The tunnel readiness endpoint returned `status: ready` before probing began.
 
 These probes were designed to elicit **new** failure modes beyond the three already documented (semantic OCR error surviving into an answer; plausible OCR repair wrongly called verified; invented historical attribution). One probe deliberately re-tests the false-verification mode to check whether the post-review mitigations hold.

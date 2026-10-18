@@ -1,0 +1,35 @@
+{
+  "case_id": "nist-histogram",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "HISTOGRAM; vertical Counts, horizontal Y; tallest bin about18; no physical unit printed. NIST chart source is retained separately and not sent to the model.",
+  "image_sha256": "980ac673df4436e6147561245e349dcb53f992b020722c3a07a34f99802c951c",
+  "started_at": "2026-10-18T15:21:46.082154+00:00",
+  "result": {
+    "text": "<chart type=\"bar\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| 299.4 | 0 |\n| 299.6 | 1 |\n| 299.7 | 3 |\n| 299.8 | 8 |\n| 299.9 | 12 |\n| 299.95 | 18 |\n| 299.9 | 7 |\n| 299.95 | 13 |\n| 300 | 5 |\n| 300.2 | 8 |\n</chart>",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "<chart type=\"bar\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| 299.4 | 0 |\n| 299.6 | 1 |\n| 299.7 | 3 |\n| 299.8 | 8 |\n| 299.9 | 12 |\n| 299.95 | 18 |\n| 299.9 | 7 |\n| 299.95 | 13 |\n| 300 | 5 |\n| 300.2 | 8 |\n</chart>",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.999,
+          0.9992
+        ],
+        "type": "Chart",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0><chart type=\"bar\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| 299.4 | 0 |\n| 299.6 | 1 |\n| 299.7 | 3 |\n| 299.8 | 8 |\n| 299.9 | 12 |\n| 299.95 | 18 |\n| 299.9 | 7 |\n| 299.95 | 13 |\n| 300 | 5 |\n| 300.2 | 8 |\n</chart><x_0.999><y_0.9992><class_Chart>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete",
+  "seconds": 0.811
+}

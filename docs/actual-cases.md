@@ -1,5 +1,7 @@
 # Actual agent cases: useful comparisons and observed failure modes
 
+For the latest selected six cases and fresh Parse/Super checks, read [judge-cases.md](judge-cases.md). Additional blank-page, chart and long-context results are in [robustness-tests.md](robustness-tests.md). This earlier casebook and its original runs remain unchanged below.
+
 Reviewed 18 October 2026 through **automated source inspection**, not external or human evaluation. The reviewer read real Hermes run JSON, source-tool results, the source registry, and the original scan images for rows 57, 59 and 1776. No model calls were made for this review, no answer was edited, and no `Store.review` records were created. At inspection time there were **zero human-reviewed cases** in the store.
 
 This casebook presents **three useful comparison examples and three observed failure modes**, rather than claiming exactly three flawless answers and three wholly failed answers. Some answers succeed on their main question while containing a transcription, attribution or citation defect. A cautious inability to establish a historical fact is different from confidently fabricating one.

@@ -1,0 +1,113 @@
+{
+  "role": "agent",
+  "model": "nvidia/Nemotron-3.5-Super-VL",
+  "url": "https://api.tokenfactory.nebius.com/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:39.411703+00:00",
+  "request": {
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Inspect the image actually supplied. Separate visible evidence, uncertainty and inference. Do not fill missing labels or text from prior knowledge."
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the title. What types of objects are illustrated? Does the plate establish a numeric optical magnification for figure 24? Give that value only if explicitly shown; do not guess a typical microscope magnification."
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "35e8b4a3017b9948de8c6080577d8b4c64482e5311e8a9318a3048fde1606009",
+                "characters": 95711
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 1800,
+    "temperature": 0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-91f8db940dc75af1",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "The title is \"MICROSCOPE\". The plate illustrates parts of microscopes and microscope accessories, including microscope bodies, stages, objectives, and related components.\n\nThe plate does not establish a numeric optical magnification for figure 24. No magnification value is explicitly shown for that figure.",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning_content": null
+        },
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "created": 1792336900,
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.1.dev1+g1bed5fc81-tp2-9705eecb",
+    "usage": {
+      "completion_tokens": 60,
+      "prompt_tokens": 561,
+      "total_tokens": 621,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cached_tokens": 0,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": {
+          "image": 477
+        }
+      }
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "completion_tokens": 60,
+    "prompt_tokens": 561,
+    "total_tokens": 621,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "created_cache_tokens": 0,
+      "multimodal_tokens": {
+        "image": 477
+      }
+    }
+  },
+  "seconds": 2.676
+}

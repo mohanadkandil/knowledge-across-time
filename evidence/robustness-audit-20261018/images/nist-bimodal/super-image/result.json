@@ -1,0 +1,11 @@
+{
+  "case_id": "nist-bimodal",
+  "role": "super-image",
+  "question": "Read both axis labels and describe the distribution's overall modal structure. Is a chemical, medical or financial cause established by this image alone? Name the physical measurement units only if printed.",
+  "expected": "Counts versus Y. NIST identifies the overall distribution as bimodal. Image alone does not establish physical units or a causal mechanism.",
+  "image_sha256": "406a710f975e2da3c8fc498550526bf577407ebb2fcb413a76cc49b9911dc3b0",
+  "started_at": "2026-10-18T15:21:48.157639+00:00",
+  "result": "The histogram has two visible modes: one near Y ≈ −400 and another near Y ≈ 200 to 300, with a dip between them, so the distribution is bimodal. The y-axis is labeled “Counts” and the x-axis is labeled “Y.” No physical measurement units are printed on either axis. The image alone does not establish any chemical, medical, or financial cause.",
+  "status": "complete",
+  "seconds": 1.011
+}

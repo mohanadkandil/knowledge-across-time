@@ -1,0 +1,11 @@
+{
+  "case_id": "dense-table",
+  "role": "super-image",
+  "question": "Transcribe the two column headings and the Silica row, Lime row, and printed totals. Keep each number in its proper column; use [unclear] for unreadable digits. Do not infer chemical percentages from outside knowledge.",
+  "expected": "Klaproth/Bergmann. Silica57.25/58; Lime2.75/3.5; printed totals100.00/100.00. Automated visual inspection, not human ground truth.",
+  "image_sha256": "14d2112cd2d1f3086fac5a2a299249aa1a356c4382e050233f8929c7ed8dfce8",
+  "started_at": "2026-10-18T15:21:44.525321+00:00",
+  "result": "| Constituent Ports. | Klaproth. | Bergman. |\n|---|---|---|\n| Silica | 57.25 | 58. |\n| Lime | 2.75 | 3.5 |\n| | 100.00 | 100.0 |",
+  "status": "complete",
+  "seconds": 1.53
+}

@@ -1,0 +1,113 @@
+{
+  "role": "agent",
+  "model": "nvidia/Nemotron-3.5-Super-VL",
+  "url": "https://api.tokenfactory.nebius.com/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:44.525930+00:00",
+  "request": {
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Inspect the image actually supplied. Separate visible evidence, uncertainty and inference. Do not fill missing labels or text from prior knowledge."
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Transcribe the two column headings and the Silica row, Lime row, and printed totals. Keep each number in its proper column; use [unclear] for unreadable digits. Do not infer chemical percentages from outside knowledge."
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "7e9455cf6198263f2b3e7ab103720e62638a36183b38bc3fe1bbdc023371b091",
+                "characters": 68518
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 1800,
+    "temperature": 0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-b9761e4946633f5e",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "| Constituent Ports. | Klaproth. | Bergman. |\n|---|---|---|\n| Silica | 57.25 | 58. |\n| Lime | 2.75 | 3.5 |\n| | 100.00 | 100.0 |",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning_content": null
+        },
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "created": 1792336905,
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.1.dev1+g1bed5fc81-tp2-9705eecb",
+    "usage": {
+      "completion_tokens": 72,
+      "prompt_tokens": 367,
+      "total_tokens": 439,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cached_tokens": 0,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": {
+          "image": 275
+        }
+      }
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "completion_tokens": 72,
+    "prompt_tokens": 367,
+    "total_tokens": 439,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "created_cache_tokens": 0,
+      "multimodal_tokens": {
+        "image": 275
+      }
+    }
+  },
+  "seconds": 1.472
+}

@@ -1,0 +1,11 @@
+{
+  "case_id": "blank-historical",
+  "role": "super-image",
+  "question": "Describe the visible page and transcribe any readable text. Does it provide an encyclopedia definition or a treatment recommendation? Mark unreadable content instead of guessing.",
+  "expected": "Visually inspected historical blank/back page with paper staining/bleed-through. No legible definition or treatment.",
+  "image_sha256": "ac6b9a97b5b5919d392457944d4569f4a3765d38ae74682dc3097a3a5217542b",
+  "started_at": "2026-10-18T15:21:24.458708+00:00",
+  "result": "The visible page is blank, with no readable text. It shows signs of aging, including discoloration and stains, particularly in the upper left and along the right edge. There is no content to determine whether it provides an encyclopedia definition or a treatment recommendation.",
+  "status": "complete",
+  "seconds": 1.504
+}

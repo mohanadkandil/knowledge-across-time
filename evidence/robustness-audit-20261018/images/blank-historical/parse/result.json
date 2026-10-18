@@ -1,0 +1,35 @@
+{
+  "case_id": "blank-historical",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "Visually inspected historical blank/back page with paper staining/bleed-through. No legible definition or treatment.",
+  "image_sha256": "ac6b9a97b5b5919d392457944d4569f4a3765d38ae74682dc3097a3a5217542b",
+  "started_at": "2026-10-18T15:21:24.060375+00:00",
+  "result": {
+    "text": "",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.998,
+          0.9984
+        ],
+        "type": "Picture",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0><x_0.998><y_0.9984><class_Picture>",
+    "readable_text": false,
+    "extraction_status": "layout_only",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review. No readable text was extracted; only picture/layout regions were returned. This does not establish that the original scan is blank."
+  },
+  "status": "complete",
+  "seconds": 0.372
+}

@@ -1,0 +1,113 @@
+{
+  "role": "agent",
+  "model": "nvidia/Nemotron-3.5-Super-VL",
+  "url": "https://api.tokenfactory.nebius.com/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:35.678934+00:00",
+  "request": {
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Inspect the image actually supplied. Separate visible evidence, uncertainty and inference. Do not fill missing labels or text from prior knowledge."
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is this a geometry illustration plate or a measured time-series chart? What title is visible? Does it supply years, measurement units, or a numerical trend? Describe only what is established by the image."
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "75f14acc3b3b5dc0dd5c1542f1277b1bb246c6296d415a326fa2494b15d3381f",
+                "characters": 115911
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 1800,
+    "temperature": 0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-9966015c4d718755",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "This is a geometry illustration plate, not a measured time-series chart.\n\nThe visible title is “GEOMETRY,” printed at the top center. The page is also labeled “Plate CCXLI” at the top right.\n\nThe image does not supply years, measurement units, or a numerical trend. It contains only geometric figures, each labeled with a figure number (e.g., Fig. 64, Fig. 65, etc.) and lettered points, with no axes, scales, dates, or data values.",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning_content": null
+        },
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "created": 1792336896,
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.1.dev1+g1bed5fc81-tp2-9705eecb",
+    "usage": {
+      "completion_tokens": 109,
+      "prompt_tokens": 579,
+      "total_tokens": 688,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cached_tokens": 0,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": {
+          "image": 496
+        }
+      }
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "completion_tokens": 109,
+    "prompt_tokens": 579,
+    "total_tokens": 688,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "created_cache_tokens": 0,
+      "multimodal_tokens": {
+        "image": 496
+      }
+    }
+  },
+  "seconds": 2.54
+}

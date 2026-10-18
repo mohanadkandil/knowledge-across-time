@@ -1,0 +1,96 @@
+{
+  "reviewed_at": "2026-10-18T15:26:00.742560+00:00",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "method": "Visual inspection of supplied images plus original NIST chart pages/data; not human evaluation.",
+  "image_outcomes": {
+    "blank-white": {
+      "parse": "Failure: fictional prose and repeated figure references; 8744-token truncation.",
+      "super-image": "Pass: blank recognition and no invented treatment."
+    },
+    "blank-historical": {
+      "parse": "Pass: empty Picture region.",
+      "super-image": "Pass: no readable article or treatment."
+    },
+    "geometry-plate": {
+      "parse": "Failure: repeated A/B sequence to truncation.",
+      "super-image": "Pass on diagram-versus-data distinction; exact Roman plate number not scored."
+    },
+    "microscope-plate": {
+      "parse": "Partial: some headings and labels; no adequate image semantics.",
+      "super-image": "Pass: instrument recognition and no invented numeric magnification."
+    },
+    "dense-table": {
+      "parse": "Failure: multiple numeric cell errors.",
+      "super-image": "Pass on requested numeric cells; minor heading spelling defects."
+    },
+    "nist-histogram": {
+      "parse": "Failure: numerical table not faithful to plotted bins.",
+      "super-image": "Partial: correct maximum and absent units; omits title/axis fields."
+    },
+    "nist-bimodal": {
+      "parse": "Failure: generated horizontal values do not represent the chart.",
+      "super-image": "Useful bimodal/axes/units answer; approximate mode locations not verified."
+    },
+    "nist-log-hazard": {
+      "parse": "Failure: point estimates inconsistent with publisher data.",
+      "super-image": "Failure: x scale linear claim is wrong; marker count/labels/units/probability restraint succeed."
+    },
+    "chart-without-labels": {
+      "parse": "Unsupported numeric extraction: labels/calibration absent; generic generated numbers cannot be treated as source data.",
+      "super-image": "Pass: abstains on missing coordinates, units and subject."
+    }
+  },
+  "long_context": "All four specified mechanical checks pass for short control and three positions; definitions inspected. Single task, one run per condition; no general accuracy claim.",
+  "table_readings": {
+    "Silica": {
+      "Klaproth": 57.25,
+      "Bergman": 58
+    },
+    "Alumina": {
+      "Klaproth": 23.5,
+      "Bergman": 24.5
+    },
+    "Lime": {
+      "Klaproth": 2.75,
+      "Bergman": 3.5
+    },
+    "printed_totals": [
+      100,
+      100
+    ]
+  },
+  "derived_input_provenance": {
+    "dense-table": {
+      "parent_page": "bri-2376-3186638c36ec",
+      "crop_xyxy_pixels": [
+        305,
+        375,
+        550,
+        535
+      ],
+      "resized": false
+    },
+    "chart-without-labels": {
+      "parent": "histogram-0.png",
+      "crop_xyxy_pixels": [
+        60,
+        30,
+        322,
+        220
+      ],
+      "resized": false
+    },
+    "blank-white": {
+      "synthetic": true,
+      "size": [
+        600,
+        836
+      ],
+      "rgb": [
+        255,
+        255,
+        255
+      ]
+    }
+  }
+}

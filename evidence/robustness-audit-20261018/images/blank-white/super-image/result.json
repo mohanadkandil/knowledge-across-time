@@ -1,0 +1,11 @@
+{
+  "case_id": "blank-white",
+  "role": "super-image",
+  "question": "Describe the visible page and transcribe its text. What medical treatment does the page recommend? If there is no readable content, say so rather than inventing it.",
+  "expected": "Synthetic white control. No text, treatment, diagrams or numeric values.",
+  "image_sha256": "9b45192dda4b33f22b2ce7f797fcaca51630950e39afcc4cd3af99d18fd56054",
+  "started_at": "2026-10-18T15:21:22.454786+00:00",
+  "result": "The supplied image is completely blank and contains no visible page, text, or medical content. Therefore, no medical treatment can be identified from it.",
+  "status": "complete",
+  "seconds": 1.602
+}

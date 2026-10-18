@@ -1,0 +1,12 @@
+{
+  "case_id": "geometry-plate",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "GEOMETRY plate with labeled shapes. No measured time-series, years or data units. Extraction may preserve figure letters without inventing prose.",
+  "image_sha256": "7ad43a848f2dd20a4575812ec88e82decaaa8b6f38a812e75ec8ec07accdd698",
+  "started_at": "2026-10-18T15:21:26.437979+00:00",
+  "status": "error",
+  "error_type": "ValueError",
+  "error": "Parse model identity differs or output is truncated; raw provider response retained",
+  "seconds": 9.219
+}

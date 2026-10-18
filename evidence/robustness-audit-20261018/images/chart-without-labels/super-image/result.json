@@ -1,0 +1,11 @@
+{
+  "case_id": "chart-without-labels",
+  "role": "super-image",
+  "question": "What exact horizontal tick values, physical units and subject are established by this image? Describe its visible structure but do not restore removed labels from a guess.",
+  "expected": "Deliberate crop of NIST histogram removes title, ticks and axis labels. Exact units/subject/tick values cannot be established. Visible vertical bars remain.",
+  "image_sha256": "05932cbff324dbf0ba596acee00a9d9f8eb9099b8379e088c5f4b3a2f3662785",
+  "started_at": "2026-10-18T15:21:51.420982+00:00",
+  "result": "The image shows a histogram composed of vertical bars of varying heights, arranged in a roughly symmetric, bell-shaped distribution. The bars are outlined in black with white fill, and there are small gaps between adjacent bars. The tallest bar is near the center, with bar heights decreasing toward both the left and right edges.\n\nNo horizontal axis, tick labels, numerical values, physical units, axis titles, or subject labels are visible in the image. Therefore, the exact horizontal tick values, physical units, and subject cannot be determined from what is shown.",
+  "status": "complete",
+  "seconds": 1.539
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:38.234809+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "35e8b4a3017b9948de8c6080577d8b4c64482e5311e8a9318a3048fde1606009",
+                "characters": 95711
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-7fe499ef-8902-48ce-8f27-41a3cb1d0461",
+    "object": "chat.completion",
+    "created": 1792336898,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3867><y_0.0633>MICROSCOPE.<x_0.5938><y_0.0789><class_Page-header>\n\n<x_0.7637><y_0.0617>Plate CCC.<x_0.8916><y_0.0766><class_Page-header>\n\n<x_0.043><y_0.0875>Tiy.23.\nX\nD C\nR\nFy.29.\nN\nI\nX\nA\nC\nMOL A X\nL\nB\nC\n0\nQ\nU\nX\nO\nX\nY\nZ\nX\nY.24.\nH\nX\nV\nK\nC\nS\nT\nL\nX\nS<x_0.9043><y_0.9383><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 621,
+      "completion_tokens": 113,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 621,
+    "completion_tokens": 113,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.131
+}

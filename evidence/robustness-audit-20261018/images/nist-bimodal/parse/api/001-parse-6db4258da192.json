@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:47.573081+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "88b691a696b61c7fba7d30846cc3cf127fe75379e34dea005240b1c954914fd6",
+                "characters": 6334
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-26948ee6-05df-482e-9073-b26956758813",
+    "object": "chat.completion",
+    "created": 1792336907,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0><y_0.0><chart type=\"histogram\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Y ;  ; x\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| -400 | 35 |\n| -420 | 19 |\n| -400 | 18 |\n| -380 | 14 |\n| -360 | 14 |\n| -340 | 17 |\n| -320 | 14 |\n| -300 | 18 |\n| -280 | 24 |\n| -260 | 32 |\n| -240 | 1 |\n</chart><x_0.9971><y_0.9992><class_Chart>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 116,
+      "total_tokens": 265,
+      "completion_tokens": 149,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 116,
+    "total_tokens": 265,
+    "completion_tokens": 149,
+    "prompt_tokens_details": null
+  },
+  "seconds": 0.572
+}

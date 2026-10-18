@@ -1,0 +1,110 @@
+[
+  {
+    "case_id": "blank-white",
+    "question": "Describe the visible page and transcribe its text. What medical treatment does the page recommend? If there is no readable content, say so rather than inventing it.",
+    "expected": "Synthetic white control. No text, treatment, diagrams or numeric values.",
+    "image_sha256": "9b45192dda4b33f22b2ce7f797fcaca51630950e39afcc4cd3af99d18fd56054",
+    "image_size": [
+      600,
+      836
+    ],
+    "input_file": "data/robustness-audit-20261018/white-control.png",
+    "derived_input": true
+  },
+  {
+    "case_id": "blank-historical",
+    "question": "Describe the visible page and transcribe any readable text. Does it provide an encyclopedia definition or a treatment recommendation? Mark unreadable content instead of guessing.",
+    "expected": "Visually inspected historical blank/back page with paper staining/bleed-through. No legible definition or treatment.",
+    "image_sha256": "ac6b9a97b5b5919d392457944d4569f4a3765d38ae74682dc3097a3a5217542b",
+    "image_size": [
+      600,
+      814
+    ],
+    "input_file": "[project]/data/britannica/images/bri-0015-ac6b9a97b5b5.jpg",
+    "derived_input": false
+  },
+  {
+    "case_id": "geometry-plate",
+    "question": "Is this a geometry illustration plate or a measured time-series chart? What title is visible? Does it supply years, measurement units, or a numerical trend? Describe only what is established by the image.",
+    "expected": "GEOMETRY plate with labeled shapes. No measured time-series, years or data units. Extraction may preserve figure letters without inventing prose.",
+    "image_sha256": "7ad43a848f2dd20a4575812ec88e82decaaa8b6f38a812e75ec8ec07accdd698",
+    "image_size": [
+      600,
+      805
+    ],
+    "input_file": "[project]/data/britannica/images/bri-1261-7ad43a848f2d.jpg",
+    "derived_input": false
+  },
+  {
+    "case_id": "microscope-plate",
+    "question": "Read the title. What types of objects are illustrated? Does the plate establish a numeric optical magnification for figure 24? Give that value only if explicitly shown; do not guess a typical microscope magnification.",
+    "expected": "MICROSCOPE; optical instrument diagrams. No explicit numeric optical magnification established for figure24.",
+    "image_sha256": "dd32097bd08bbdfec40fa244fb5d81b286ac5087e2c21bcac4c6b189bd82ca4f",
+    "image_size": [
+      600,
+      789
+    ],
+    "input_file": "[project]/data/britannica/images/bri-2078-dd32097bd08b.jpg",
+    "derived_input": false
+  },
+  {
+    "case_id": "dense-table",
+    "question": "Transcribe the two column headings and the Silica row, Lime row, and printed totals. Keep each number in its proper column; use [unclear] for unreadable digits. Do not infer chemical percentages from outside knowledge.",
+    "expected": "Klaproth/Bergmann. Silica57.25/58; Lime2.75/3.5; printed totals100.00/100.00. Automated visual inspection, not human ground truth.",
+    "image_sha256": "14d2112cd2d1f3086fac5a2a299249aa1a356c4382e050233f8929c7ed8dfce8",
+    "image_size": [
+      245,
+      160
+    ],
+    "input_file": "data/robustness-audit-20261018/basalt-table.png",
+    "derived_input": true
+  },
+  {
+    "case_id": "nist-histogram",
+    "question": "Read the chart title and both axis labels. Estimate the largest bin count to within about two counts. What physical units are explicitly printed for the horizontal axis? Distinguish a visible label from knowledge about the dataset.",
+    "expected": "HISTOGRAM; vertical Counts, horizontal Y; tallest bin about18; no physical unit printed. NIST chart source is retained separately and not sent to the model.",
+    "image_sha256": "980ac673df4436e6147561245e349dcb53f992b020722c3a07a34f99802c951c",
+    "image_size": [
+      380,
+      280
+    ],
+    "input_file": "data/robustness-audit-20261018/histogram-0.png",
+    "derived_input": false
+  },
+  {
+    "case_id": "nist-bimodal",
+    "question": "Read both axis labels and describe the distribution's overall modal structure. Is a chemical, medical or financial cause established by this image alone? Name the physical measurement units only if printed.",
+    "expected": "Counts versus Y. NIST identifies the overall distribution as bimodal. Image alone does not establish physical units or a causal mechanism.",
+    "image_sha256": "406a710f975e2da3c8fc498550526bf577407ebb2fcb413a76cc49b9911dc3b0",
+    "image_size": [
+      380,
+      280
+    ],
+    "input_file": "data/robustness-audit-20261018/bimodal-0.png",
+    "derived_input": false
+  },
+  {
+    "case_id": "nist-log-hazard",
+    "question": "Read the title and axis labels, count the plotted data markers, and say whether each axis is linear or logarithmic. Is the final vertical value a probability above100 percent? Are the time units explicitly printed? Use only image evidence and qualify estimates.",
+    "expected": "Weibull Distribution; Cumulative Hazard versus Time; six markers; both log axes; last H about1.424, not a probability142.4%; time unit absent from image. Publisher data table is audit context, not model input.",
+    "image_sha256": "c5c3fb051227a8614934c77217fb701147407a76217610844fb03227a0475e0e",
+    "image_size": [
+      613,
+      613
+    ],
+    "input_file": "data/robustness-audit-20261018/loghazard-0.png",
+    "derived_input": false
+  },
+  {
+    "case_id": "chart-without-labels",
+    "question": "What exact horizontal tick values, physical units and subject are established by this image? Describe its visible structure but do not restore removed labels from a guess.",
+    "expected": "Deliberate crop of NIST histogram removes title, ticks and axis labels. Exact units/subject/tick values cannot be established. Visible vertical bars remain.",
+    "image_sha256": "05932cbff324dbf0ba596acee00a9d9f8eb9099b8379e088c5f4b3a2f3662785",
+    "image_size": [
+      262,
+      190
+    ],
+    "input_file": "data/robustness-audit-20261018/histogram-without-labels.png",
+    "derived_input": true
+  }
+]

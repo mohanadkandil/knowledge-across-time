@@ -1,0 +1,11 @@
+{
+  "case_id": "geometry-plate",
+  "role": "super-image",
+  "question": "Is this a geometry illustration plate or a measured time-series chart? What title is visible? Does it supply years, measurement units, or a numerical trend? Describe only what is established by the image.",
+  "expected": "GEOMETRY plate with labeled shapes. No measured time-series, years or data units. Extraction may preserve figure letters without inventing prose.",
+  "image_sha256": "7ad43a848f2dd20a4575812ec88e82decaaa8b6f38a812e75ec8ec07accdd698",
+  "started_at": "2026-10-18T15:21:35.678246+00:00",
+  "result": "This is a geometry illustration plate, not a measured time-series chart.\n\nThe visible title is “GEOMETRY,” printed at the top center. The page is also labeled “Plate CCXLI” at the top right.\n\nThe image does not supply years, measurement units, or a numerical trend. It contains only geometric figures, each labeled with a figure number (e.g., Fig. 64, Fig. 65, etc.) and lettered points, with no axes, scales, dates, or data values.",
+  "status": "complete",
+  "seconds": 2.546
+}

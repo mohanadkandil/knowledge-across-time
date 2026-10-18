@@ -1,0 +1,35 @@
+{
+  "case_id": "chart-without-labels",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "Deliberate crop of NIST histogram removes title, ticks and axis labels. Exact units/subject/tick values cannot be established. Visible vertical bars remain.",
+  "image_sha256": "05932cbff324dbf0ba596acee00a9d9f8eb9099b8379e088c5f4b3a2f3662785",
+  "started_at": "2026-10-18T15:21:50.992639+00:00",
+  "result": {
+    "text": "<chart type=\"bar\">\n\n| column_1 | column_2 |\n| --- | --- |\n| 1 | 0 |\n| 2 | 5 |\n| 3 | 10 |\n| 4 | 12 |\n| 5 | 15 |\n| 6 | 18 |\n| 7 | 10 |\n| 8 | 5 |\n</chart>",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "<chart type=\"bar\">\n\n| column_1 | column_2 |\n| --- | --- |\n| 1 | 0 |\n| 2 | 5 |\n| 3 | 10 |\n| 4 | 12 |\n| 5 | 15 |\n| 6 | 18 |\n| 7 | 10 |\n| 8 | 5 |\n</chart>",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.999,
+          0.9953
+        ],
+        "type": "Chart",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0><chart type=\"bar\">\n\n| column_1 | column_2 |\n| --- | --- |\n| 1 | 0 |\n| 2 | 5 |\n| 3 | 10 |\n| 4 | 12 |\n| 5 | 15 |\n| 6 | 18 |\n| 7 | 10 |\n| 8 | 5 |\n</chart><x_0.999><y_0.9953><class_Chart>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete",
+  "seconds": 0.415
+}

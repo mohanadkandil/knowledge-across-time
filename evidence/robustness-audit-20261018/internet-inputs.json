@@ -1,0 +1,44 @@
+[
+  {
+    "source_page": "https://www.itl.nist.gov/div898/handbook/eda/section3/eda33e.htm",
+    "image_url": "https://www.itl.nist.gov/div898/handbook/eda/gif/histogr0.gif",
+    "alt": "sample histogram",
+    "downloaded_at": "2026-10-18T15:17:40.803310+00:00",
+    "original_sha256": "bc83ceb9cf9b7ad68b11e4c3c4eb7de519974c625875477b3a36c4bc823233fe",
+    "input_sha256": "980ac673df4436e6147561245e349dcb53f992b020722c3a07a34f99802c951c",
+    "input_file": "data/robustness-audit-20261018/histogram-0.png",
+    "size": [
+      380,
+      280
+    ],
+    "conversion": "GIF/JPEG to RGB PNG; no resizing or content change"
+  },
+  {
+    "source_page": "https://www.itl.nist.gov/div898/handbook/eda/section3/histogr4.htm",
+    "image_url": "https://www.itl.nist.gov/div898/handbook/eda/gif/histogr4.gif",
+    "alt": "symmetric, bimodal histogram",
+    "downloaded_at": "2026-10-18T15:17:41.056794+00:00",
+    "original_sha256": "be96f211aaa8ac80457e99ec0b5b29652d706f4abcbe6f1da33770cb03ad6748",
+    "input_sha256": "406a710f975e2da3c8fc498550526bf577407ebb2fcb413a76cc49b9911dc3b0",
+    "input_file": "data/robustness-audit-20261018/bimodal-0.png",
+    "size": [
+      380,
+      280
+    ],
+    "conversion": "GIF/JPEG to RGB PNG; no resizing or content change"
+  },
+  {
+    "source_page": "https://www.itl.nist.gov/div898/handbook/apr/section2/apr222.htm",
+    "image_url": "https://www.itl.nist.gov/div898/handbook/apr/section2/apr222_r02.gif",
+    "alt": "Plot of Weibull cumulative hazard",
+    "downloaded_at": "2026-10-18T15:18:26.631345+00:00",
+    "original_sha256": "5e493bc1fc7852e77a0980b9d4849acdce1acf25818dc292b2213ca94a40b905",
+    "input_sha256": "c5c3fb051227a8614934c77217fb701147407a76217610844fb03227a0475e0e",
+    "input_file": "data/robustness-audit-20261018/loghazard-0.png",
+    "size": [
+      613,
+      613
+    ],
+    "conversion": "RGB PNG; no resizing or content change"
+  }
+]

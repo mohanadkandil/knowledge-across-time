@@ -1,0 +1,113 @@
+{
+  "role": "agent",
+  "model": "nvidia/Nemotron-3.5-Super-VL",
+  "url": "https://api.tokenfactory.nebius.com/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:51.421802+00:00",
+  "request": {
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Inspect the image actually supplied. Separate visible evidence, uncertainty and inference. Do not fill missing labels or text from prior knowledge."
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "What exact horizontal tick values, physical units and subject are established by this image? Describe its visible structure but do not restore removed labels from a guess."
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "a53c9b089da241435196eab53035dd926462d3cd6c5ea60ec56fffdcf6adfed6",
+                "characters": 1350
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 1800,
+    "temperature": 0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-9f63e3001d38b47b",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "The image shows a histogram composed of vertical bars of varying heights, arranged in a roughly symmetric, bell-shaped distribution. The bars are outlined in black with white fill, and there are small gaps between adjacent bars. The tallest bar is near the center, with bar heights decreasing toward both the left and right edges.\n\nNo horizontal axis, tick labels, numerical values, physical units, axis titles, or subject labels are visible in the image. Therefore, the exact horizontal tick values, physical units, and subject cannot be determined from what is shown.",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning_content": null
+        },
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "created": 1792336911,
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.1.dev1+g1bed5fc81-tp2-9705eecb",
+    "usage": {
+      "completion_tokens": 110,
+      "prompt_tokens": 355,
+      "total_tokens": 465,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cached_tokens": 0,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": {
+          "image": 282
+        }
+      }
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "completion_tokens": 110,
+    "prompt_tokens": 355,
+    "total_tokens": 465,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "created_cache_tokens": 0,
+      "multimodal_tokens": {
+        "image": 282
+      }
+    }
+  },
+  "seconds": 1.535
+}

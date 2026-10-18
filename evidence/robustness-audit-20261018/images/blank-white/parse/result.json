@@ -1,0 +1,12 @@
+{
+  "case_id": "blank-white",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "Synthetic white control. No text, treatment, diagrams or numeric values.",
+  "image_sha256": "9b45192dda4b33f22b2ce7f797fcaca51630950e39afcc4cd3af99d18fd56054",
+  "started_at": "2026-10-18T15:21:11.850958+00:00",
+  "status": "error",
+  "error_type": "ValueError",
+  "error": "Parse model identity differs or output is truncated; raw provider response retained",
+  "seconds": 10.564
+}

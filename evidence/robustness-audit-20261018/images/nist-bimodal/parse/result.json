@@ -1,0 +1,35 @@
+{
+  "case_id": "nist-bimodal",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "Counts versus Y. NIST identifies the overall distribution as bimodal. Image alone does not establish physical units or a causal mechanism.",
+  "image_sha256": "406a710f975e2da3c8fc498550526bf577407ebb2fcb413a76cc49b9911dc3b0",
+  "started_at": "2026-10-18T15:21:47.572082+00:00",
+  "result": {
+    "text": "<chart type=\"histogram\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Y ;  ; x\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| -400 | 35 |\n| -420 | 19 |\n| -400 | 18 |\n| -380 | 14 |\n| -360 | 14 |\n| -340 | 17 |\n| -320 | 14 |\n| -300 | 18 |\n| -280 | 24 |\n| -260 | 32 |\n| -240 | 1 |\n</chart>",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "<chart type=\"histogram\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Y ;  ; x\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| -400 | 35 |\n| -420 | 19 |\n| -400 | 18 |\n| -380 | 14 |\n| -360 | 14 |\n| -340 | 17 |\n| -320 | 14 |\n| -300 | 18 |\n| -280 | 24 |\n| -260 | 32 |\n| -240 | 1 |\n</chart>",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.9971,
+          0.9992
+        ],
+        "type": "Chart",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0><chart type=\"histogram\">\ntitle: HISTOGRAM\naxis[x]: Y\naxis[y]: Counts\nbind: Y ;  ; x\nbind: Counts ;  ; y\n\n| Y | Counts |\n| --- | --- |\n| -400 | 35 |\n| -420 | 19 |\n| -400 | 18 |\n| -380 | 14 |\n| -360 | 14 |\n| -340 | 17 |\n| -320 | 14 |\n| -300 | 18 |\n| -280 | 24 |\n| -260 | 32 |\n| -240 | 1 |\n</chart><x_0.9971><y_0.9992><class_Chart>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete",
+  "seconds": 0.578
+}

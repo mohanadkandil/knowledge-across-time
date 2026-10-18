@@ -1,0 +1,35 @@
+{
+  "case_id": "dense-table",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "Klaproth/Bergmann. Silica57.25/58; Lime2.75/3.5; printed totals100.00/100.00. Automated visual inspection, not human ground truth.",
+  "image_sha256": "14d2112cd2d1f3086fac5a2a299249aa1a356c4382e050233f8929c7ed8dfce8",
+  "started_at": "2026-10-18T15:21:43.056066+00:00",
+  "result": {
+    "text": "\\begin{tabular}{cc}\n_Coefficient Parts_ & \\thead{Klaponk,}&Bergman,\\\\\nSilice & 57:25 & 59-\\\\\nAlumina & 31:5 & 44:5\\\\\nLime & 2:75 & 3.5\\\\\nOlde of iron & 2:5 & 4.5\\\\\n\\_ mananganele\\_25 & \\mbox{} & \\\\\nSoda & 8.1 & 6.\\\\\nWriter & 3.0 & 2.\\\\\nLoft & 1.0 & 1.5\\\\\n & 100.00 & 100.0\\\\\n\\end{tabular}",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "\\begin{tabular}{cc}\n_Coefficient Parts_ & \\thead{Klaponk,}&Bergman,\\\\\nSilice & 57:25 & 59-\\\\\nAlumina & 31:5 & 44:5\\\\\nLime & 2:75 & 3.5\\\\\nOlde of iron & 2:5 & 4.5\\\\\n\\_ mananganele\\_25 & \\mbox{} & \\\\\nSoda & 8.1 & 6.\\\\\nWriter & 3.0 & 2.\\\\\nLoft & 1.0 & 1.5\\\\\n & 100.00 & 100.0\\\\\n\\end{tabular}",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.9961,
+          0.9938
+        ],
+        "type": "Table",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0>\\begin{tabular}{cc}\n_Coefficient Parts_ & \\thead{Klaponk,}&Bergman,\\\\\nSilice & 57:25 & 59-\\\\\nAlumina & 31:5 & 44:5\\\\\nLime & 2:75 & 3.5\\\\\nOlde of iron & 2:5 & 4.5\\\\\n\\_ mananganele\\_25 & \\mbox{} & \\\\\nSoda & 8.1 & 6.\\\\\nWriter & 3.0 & 2.\\\\\nLoft & 1.0 & 1.5\\\\\n & 100.00 & 100.0\\\\\n\\end{tabular}<x_0.9961><y_0.9938><class_Table>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete",
+  "seconds": 1.369
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "case_id": "blank-white",
+    "artifact_input": "inputs/blank-white.png",
+    "sha256": "9b45192dda4b33f22b2ce7f797fcaca51630950e39afcc4cd3af99d18fd56054",
+    "expected": "Synthetic white control. No text, treatment, diagrams or numeric values."
+  },
+  {
+    "case_id": "blank-historical",
+    "artifact_input": "inputs/blank-historical.jpg",
+    "sha256": "ac6b9a97b5b5919d392457944d4569f4a3765d38ae74682dc3097a3a5217542b",
+    "expected": "Visually inspected historical blank/back page with paper staining/bleed-through. No legible definition or treatment."
+  },
+  {
+    "case_id": "geometry-plate",
+    "artifact_input": "inputs/geometry-plate.jpg",
+    "sha256": "7ad43a848f2dd20a4575812ec88e82decaaa8b6f38a812e75ec8ec07accdd698",
+    "expected": "GEOMETRY plate with labeled shapes. No measured time-series, years or data units. Extraction may preserve figure letters without inventing prose."
+  },
+  {
+    "case_id": "microscope-plate",
+    "artifact_input": "inputs/microscope-plate.jpg",
+    "sha256": "dd32097bd08bbdfec40fa244fb5d81b286ac5087e2c21bcac4c6b189bd82ca4f",
+    "expected": "MICROSCOPE; optical instrument diagrams. No explicit numeric optical magnification established for figure24."
+  },
+  {
+    "case_id": "dense-table",
+    "artifact_input": "inputs/dense-table.png",
+    "sha256": "14d2112cd2d1f3086fac5a2a299249aa1a356c4382e050233f8929c7ed8dfce8",
+    "expected": "Klaproth/Bergmann. Silica57.25/58; Lime2.75/3.5; printed totals100.00/100.00. Automated visual inspection, not human ground truth."
+  },
+  {
+    "case_id": "nist-histogram",
+    "artifact_input": "inputs/nist-histogram.png",
+    "sha256": "980ac673df4436e6147561245e349dcb53f992b020722c3a07a34f99802c951c",
+    "expected": "HISTOGRAM; vertical Counts, horizontal Y; tallest bin about18; no physical unit printed. NIST chart source is retained separately and not sent to the model."
+  },
+  {
+    "case_id": "nist-bimodal",
+    "artifact_input": "inputs/nist-bimodal.png",
+    "sha256": "406a710f975e2da3c8fc498550526bf577407ebb2fcb413a76cc49b9911dc3b0",
+    "expected": "Counts versus Y. NIST identifies the overall distribution as bimodal. Image alone does not establish physical units or a causal mechanism."
+  },
+  {
+    "case_id": "nist-log-hazard",
+    "artifact_input": "inputs/nist-log-hazard.png",
+    "sha256": "c5c3fb051227a8614934c77217fb701147407a76217610844fb03227a0475e0e",
+    "expected": "Weibull Distribution; Cumulative Hazard versus Time; six markers; both log axes; last H about1.424, not a probability142.4%; time unit absent from image. Publisher data table is audit context, not model input."
+  },
+  {
+    "case_id": "chart-without-labels",
+    "artifact_input": "inputs/chart-without-labels.png",
+    "sha256": "05932cbff324dbf0ba596acee00a9d9f8eb9099b8379e088c5f4b3a2f3662785",
+    "expected": "Deliberate crop of NIST histogram removes title, ticks and axis labels. Exact units/subject/tick values cannot be established. Visible vertical bars remain."
+  }
+]

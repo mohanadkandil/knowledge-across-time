@@ -1,0 +1,65 @@
+{
+  "case_id": "microscope-plate",
+  "role": "parse",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "expected": "MICROSCOPE; optical instrument diagrams. No explicit numeric optical magnification established for figure24.",
+  "image_sha256": "dd32097bd08bbdfec40fa244fb5d81b286ac5087e2c21bcac4c6b189bd82ca4f",
+  "started_at": "2026-10-18T15:21:38.232374+00:00",
+  "result": {
+    "text": "MICROSCOPE.\n\nPlate CCC.\n\nTiy.23.\nX\nD C\nR\nFy.29.\nN\nI\nX\nA\nC\nMOL A X\nL\nB\nC\n0\nQ\nU\nX\nO\nX\nY\nZ\nX\nY.24.\nH\nX\nV\nK\nC\nS\nT\nL\nX\nS",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "MICROSCOPE.",
+        "bbox_raw": [
+          0.3867,
+          0.0633,
+          0.5938,
+          0.0789
+        ],
+        "type": "Page-header",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      },
+      {
+        "region_id": "region-1",
+        "text": "Plate CCC.",
+        "bbox_raw": [
+          0.7637,
+          0.0617,
+          0.8916,
+          0.0766
+        ],
+        "type": "Page-header",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 1
+      },
+      {
+        "region_id": "region-2",
+        "text": "Tiy.23.\nX\nD C\nR\nFy.29.\nN\nI\nX\nA\nC\nMOL A X\nL\nB\nC\n0\nQ\nU\nX\nO\nX\nY\nZ\nX\nY.24.\nH\nX\nV\nK\nC\nS\nT\nL\nX\nS",
+        "bbox_raw": [
+          0.043,
+          0.0875,
+          0.9043,
+          0.9383
+        ],
+        "type": "Picture",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 2
+      }
+    ],
+    "raw": "<x_0.3867><y_0.0633>MICROSCOPE.<x_0.5938><y_0.0789><class_Page-header>\n\n<x_0.7637><y_0.0617>Plate CCC.<x_0.8916><y_0.0766><class_Page-header>\n\n<x_0.043><y_0.0875>Tiy.23.\nX\nD C\nR\nFy.29.\nN\nI\nX\nA\nC\nMOL A X\nL\nB\nC\n0\nQ\nU\nX\nO\nX\nY\nZ\nX\nY.24.\nH\nX\nV\nK\nC\nS\nT\nL\nX\nS<x_0.9043><y_0.9383><class_Picture>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete",
+  "seconds": 1.159
+}

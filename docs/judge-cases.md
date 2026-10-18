@@ -4,6 +4,8 @@ Reviewed 18 October 2026, following the TimeLens updates. These are completed li
 
 **Use these six cases for the current presentation.** The [machine-readable casebook](../evidence/parse-super-audit-20261018/cases.json) contains the exact questions, immutable answers, run IDs and review rationales. The [manifest](../evidence/parse-super-audit-20261018/manifest.json) preserves hashes and explains redaction. Earlier cases remain in [actual-cases.md](actual-cases.md) and [redteam-cases.md](redteam-cases.md).
 
+The later [robustness tests](robustness-tests.md) add white/blank controls, visual plates, dense tables, three NIST charts, a chart with labels removed, and a 27k-token context-position test. They include a clear blank-image Parse hallucination and a Super logarithmic-axis error; those component failures are separate from the six Hermes cases below.
+
 ## Three successes
 
 ### S1. The encyclopedia leaves a question open

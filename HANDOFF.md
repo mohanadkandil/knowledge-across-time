@@ -1,5 +1,19 @@
 # Knowledge Across Time: agent handoff
 
+## Latest evaluation update — 18 October, after 17:00 Berlin
+
+This update supersedes the earlier creative-selection and evaluation state below. The active hero is basalt; the UI is now in `web/` (Next.js) and `timelens/`. Other work may be changing those directories; the evaluation work did not modify them.
+
+- Read `docs/judge-cases.md` for the new selected three successes and three failures, with exact prompts, immutable run IDs, automated reviews and redacted evidence under `evidence/parse-super-audit-20261018/`. Thirteen fresh Hermes attempts are retained, including prompt refinements. Six fresh Parse and six direct VL checks compare unchanged scans and crops.
+- Read `docs/robustness-tests.md` for 22 additional component tasks: white/blank controls, geometry/microscope plates, a dense table, three real NIST charts, a chart with labels removed, and four context-position checks.
+- Strong new failures: pure white image makes Parse invent 28,356 characters and hit its 8,744-token limit; geometry plate repeats labels to truncation; Super calls a log-log chart's x axis linear. Direct VL earlier invented sulphur and a quotation where the chocolate scan says olive-oil. Cropping helps some text but can produce new wrong names; it is not guaranteed verification.
+- Strong controls: both models handle the actual historical blank scan correctly; Super abstains on missing magnification and missing chart labels. Its cloud comparison passes the specified checks with the historical target at beginning/middle/end of an 18-document, 27,185-input-token context. This is one targeted task, not a general benchmark.
+- Real Hermes selected failures concern wrong apparatus reconstruction/corroboration, a wrong scientist under a false-premise query, and assigning a base-edition date to its supplement. Reviews are explicitly automated, not human review.
+- The GPU SSH tunnel was restored on localhost8001 for these tests. The old localhost8130 app was not running at the start; model checks ran directly and did not depend on that app. Preserve any current frontend processes and other agents' changes.
+- Runners: `infra/audit_parse_super.py`, `infra/export_model_audit.py`, `infra/audit_robustness.py`. Cached baseline parses, old answers and the fixed100-page selection were preserved. Original Embed/Rerank configuration was unchanged.
+
+The rest of this handoff records an earlier snapshot and contains stale implementation/creative details; use the dated update above and inspect the current tree first.
+
 Updated 18 October 2026, ~16:15 Europe/Berlin. Hackathon submission deadline: 18:30 today.
 
 ## Since 15:50 — decisions made and shipped

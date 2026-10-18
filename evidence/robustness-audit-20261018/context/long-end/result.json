@@ -1,0 +1,25 @@
+{
+  "case_id": "long-end",
+  "question": "Find the historical and modern cloud definitions in the supplied documents. Compare them, and determine whether the historical passage establishes electrical causation of cloud formation. Identify both document IDs and provide a short EXACT historical quotation copied from the supplied text; do not repair OCR in that quotation. Use no outside knowledge.",
+  "context_sha256": "cfd51293e52e0c7b055d74ced9438dc8d5512faa5cdf86415975d4084ce8eeab",
+  "context_characters": 106321,
+  "document_count": 18,
+  "started_at": "2026-10-18T15:21:19.563648+00:00",
+  "expected_historical_doc": "DOC-017",
+  "expected_modern_doc": "DOC-018",
+  "status": "complete",
+  "result": {
+    "historical_doc": "DOC-017",
+    "modern_doc": "DOC-018",
+    "historical_definition": "CLOUD, a collection of vapours suspended in the atmosphere.",
+    "modern_definition": "A cloud is a visible mass of condensed droplets or frozen crystals suspended in the atmosphere.",
+    "historical_causation_established": false,
+    "historical_quote": "That had accordingly been given by S. Bec- certa as the cause of the formation of all clouds what sewer, whether of thumping, rain, half, or snow."
+  },
+  "mechanical_checks": {
+    "historical_doc": true,
+    "modern_doc": true,
+    "preserves_uncertainty": true,
+    "literal_quote": true
+  }
+}

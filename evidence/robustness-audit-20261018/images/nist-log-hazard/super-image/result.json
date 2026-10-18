@@ -1,0 +1,11 @@
+{
+  "case_id": "nist-log-hazard",
+  "role": "super-image",
+  "question": "Read the title and axis labels, count the plotted data markers, and say whether each axis is linear or logarithmic. Is the final vertical value a probability above100 percent? Are the time units explicitly printed? Use only image evidence and qualify estimates.",
+  "expected": "Weibull Distribution; Cumulative Hazard versus Time; six markers; both log axes; last H about1.424, not a probability142.4%; time unit absent from image. Publisher data table is audit context, not model input.",
+  "image_sha256": "c5c3fb051227a8614934c77217fb701147407a76217610844fb03227a0475e0e",
+  "started_at": "2026-10-18T15:21:49.812232+00:00",
+  "result": "Title: Weibull Distribution. X-axis label: Time. Y-axis label: Cumulative Hazard. Plotted markers: 6. X-axis: linear. Y-axis: logarithmic. The final vertical value is not a probability above 100 percent. Time units are not explicitly printed.",
+  "status": "complete",
+  "seconds": 1.137
+}

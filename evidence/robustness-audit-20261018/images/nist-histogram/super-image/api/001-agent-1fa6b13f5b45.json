@@ -1,0 +1,113 @@
+{
+  "role": "agent",
+  "model": "nvidia/Nemotron-3.5-Super-VL",
+  "url": "https://api.tokenfactory.nebius.com/v1/chat/completions",
+  "started_at": "2026-10-18T15:21:46.905773+00:00",
+  "request": {
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Inspect the image actually supplied. Separate visible evidence, uncertainty and inference. Do not fill missing labels or text from prior knowledge."
+      },
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "Read the chart title and both axis labels. Estimate the largest bin count to within about two counts. What physical units are explicitly printed for the horizontal axis? Distinguish a visible label from knowledge about the dataset."
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "278cc5b30de8d0e291a186eea18ccd4693fb538de655e1bd80d31d77e3f809dd",
+                "characters": 7002
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 1800,
+    "temperature": 0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-b450b7ed9d84964d",
+    "choices": [
+      {
+        "finish_reason": "stop",
+        "index": 0,
+        "logprobs": null,
+        "message": {
+          "content": "18, none",
+          "refusal": null,
+          "role": "assistant",
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "tool_calls": null,
+          "reasoning_content": null
+        },
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "created": 1792336907,
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "object": "chat.completion",
+    "moderation": null,
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.1.dev1+g1bed5fc81-tp2-9705eecb",
+    "usage": {
+      "completion_tokens": 5,
+      "prompt_tokens": 354,
+      "total_tokens": 359,
+      "completion_tokens_details": {
+        "accepted_prediction_tokens": null,
+        "audio_tokens": null,
+        "reasoning_tokens": 0,
+        "rejected_prediction_tokens": null
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": null,
+        "cached_tokens": 0,
+        "created_cache_tokens": 0,
+        "multimodal_tokens": {
+          "image": 268
+        }
+      }
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "completion_tokens": 5,
+    "prompt_tokens": 354,
+    "total_tokens": 359,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "created_cache_tokens": 0,
+      "multimodal_tokens": {
+        "image": 268
+      }
+    }
+  },
+  "seconds": 0.644
+}

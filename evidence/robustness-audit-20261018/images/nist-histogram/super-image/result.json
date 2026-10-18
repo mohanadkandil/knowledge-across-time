@@ -1,0 +1,11 @@
+{
+  "case_id": "nist-histogram",
+  "role": "super-image",
+  "question": "Read the chart title and both axis labels. Estimate the largest bin count to within about two counts. What physical units are explicitly printed for the horizontal axis? Distinguish a visible label from knowledge about the dataset.",
+  "expected": "HISTOGRAM; vertical Counts, horizontal Y; tallest bin about18; no physical unit printed. NIST chart source is retained separately and not sent to the model.",
+  "image_sha256": "980ac673df4436e6147561245e349dcb53f992b020722c3a07a34f99802c951c",
+  "started_at": "2026-10-18T15:21:46.905318+00:00",
+  "result": "18, none",
+  "status": "complete",
+  "seconds": 0.651
+}
