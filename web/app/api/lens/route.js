@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import fs from 'node:fs';
 import path from 'node:path';
+import { ART_STYLE } from '../art-direction.mjs';
 
 export const runtime = 'nodejs';
 export const maxDuration = 60;
@@ -180,7 +181,11 @@ async function run(request, send) {
   let exhibit = null;
   if (TF_KEY) {
     try {
-      const sys = 'You are TimeLens, comparing a historical encyclopedia page with modern knowledge. Reply with ONLY compact JSON, no markdown: {"then_line": one short sentence of what the old page claims, "now_line": one short sentence of the modern position, "quote": one VERBATIM phrase (max 18 words) copied from the OLD PAGE TEXT, "verdict": one of settled|superseded|diverged|open, "note": max 12 words on what changed, "shots": [ {"role": "then", "prompt": FLUX image prompt}, {"role": "now", "prompt": ...} ]}. Art direction rules for shots — depict the TOPIC itself, exactly two images: "then" is a late-18th-century copperplate encyclopedia engraving, fine burin hatching, sepia ink on warm ivory paper, museum archive feel — show the object or phenomenon AS THE OLD PAGE UNDERSTOOD IT; "now" is a clean modern photoreal or minimal editorial photograph — the same subject as understood today. Every prompt must be self-contained, visually specific, and contain no text, lettering, captions or UI.';
+      const sys = `You are TimeLens, comparing a historical encyclopedia page with modern knowledge. Reply with ONLY compact JSON, no markdown: {"then_line": one short sentence of what the old page claims, "now_line": one short sentence of the modern position, "quote": one VERBATIM phrase (max 18 words) copied from the OLD PAGE TEXT, "verdict": one of settled|superseded|diverged|open, "note": max 12 words on what changed, "shots": [ {"role": "then", "prompt": scene description}, {"role": "now", "prompt": scene description} ]}.
+Art direction: exactly two coordinated illustrations, both in this SAME visual language: ${ART_STYLE}
+Design the pair together. Repeat the same subject, viewpoint, framing, subject scale and placement in both self-contained scene descriptions. Change only the evidence-supported understanding of the subject, not the artistic medium. Never switch the modern image to photography.
+Then depicts what the OLD PAGE actually describes; now depicts what the MODERN ARTICLE supports. Do not invent a visual difference when the sources agree. Choose a concrete specimen, apparatus or observable phenomenon; do not use unrelated props or historical costumes as filler.
+For invisible mechanisms, explicitly describe a schematic illustration rather than pretending particles or fields can be photographed. Do not turn a fluid theory into literal liquid or invent glowing wires, decorative lightning or impossible apparatus. Each scene must explain the comparison through a small number of clear visual details, not just illustrate the topic generically. No text or labels in either image.`;
       const user = `TOPIC: ${topic}\n\nOLD PAGE TEXT (historical, possibly OCR-noisy):\n${best.row.text.slice(0, 2400)}\n\nMODERN ARTICLE EXCERPT (${wiki ? wiki.title : 'unknown'}):\n${(wiki?.excerpt || '').slice(0, 1200)}`;
       const r = await jpost(`${TF_BASE_URL}/chat/completions`, {
         model: SUPER_MODEL, temperature: 0.2, max_tokens: 3000,

@@ -205,12 +205,12 @@ export default function Home() {
       stops: [
         { year: yr, label: 'then', status: 'Live match — ' + ed, cls: 'record',
           edition: 'Britannica, ' + ed,
-          capKind: 'AI engraving', cap: 'as the old page understood it',
+          capKind: 'AI illustration', cap: 'as the old page understood it',
           plate: { title: d.page.headword || d.topic, sub: ed + ' · rendered live' },
           html: thenHtml },
         { year: 2025, label: 'now', status: 'Now — ' + nowTitle, cls: 'settled',
           edition: 'Wikipedia, live revision',
-          capKind: 'AI photograph', cap: 'as we understand it now',
+          capKind: 'AI illustration', cap: 'as we understand it now',
           plate: { title: nowTitle, sub: 'wikipedia · live revision' },
           html: nowHtml }
       ]
@@ -469,7 +469,7 @@ export default function Home() {
       pill.className = 'status ' + s.cls;
       lens.setAttribute('aria-valuetext', year + ' — ' + s.edition);
       stageCapKind.textContent = s.capKind;
-      stageCapKind.style.color = s.capKind === 'AI photograph' || s.capKind === 'AI engraving' ? '#cf5a30' : '#7fa08b';
+      stageCapKind.style.color = s.capKind === 'AI illustration' ? '#cf5a30' : '#7fa08b';
       stageCapText.textContent = s.cap;
     }
     stopEls.forEach(function(el, i){ el.classList.toggle('active', i === ni); });
@@ -639,19 +639,6 @@ export default function Home() {
 
   </main>
 
-  {/* colophon */}
-  <footer>
-    <div className="pipeline reveal">
-      <span className="pipe">Nemotron Parse 3.5</span>
-      <span className="pipe-arrow">→</span>
-      <span className="pipe">Embed VL</span>
-      <span className="pipe-arrow">→</span>
-      <span className="pipe">Rerank VL <span className="sub">· RTX PRO 6000</span></span>
-      <span className="pipe-arrow">→</span>
-      <span className="pipe">Super VL agent</span>
-    </div>
-    <p className="colophon reveal"><b>timelens.to</b> — prepend it to anything we thought we knew.</p>
-  </footer>
 </div>
 </>
   );
