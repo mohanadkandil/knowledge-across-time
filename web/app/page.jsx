@@ -17,139 +17,11 @@ export default function Home() {
     if (cov.complete && cov.naturalWidth) cov.classList.add("on");
   }
 
-  /* ================= exhibits — real indexed pages ================= */
-  var TOPICS = {
-    basalt: {
-      word: "Basalt", def: "the rock geology fought a war over",
-      titleSub: "a rock, probably — an argument, certainly.",
-      wikiPath: "wikipedia.org/wiki/Basalt",
-      start: 1,
-      stops: [
-        {
-          year: 1795, label: "the war", status: "Disputed — water vs. fire", cls: "contested",
-          edition: "The field, mid-argument",
-          capKind: "AI engraving", cap: "how the fight was pictured",
-          img: "/assets/war.png", alt: "Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire",
-          html: '<span class="plate-no">i.</span><h3>Geology\u2019s civil war.</h3><div class="versus"><div class="side water"><div class="flag">Neptunists</div><h4>water</h4><p>every rock precipitated from a universal ocean — Werner, Freiberg.</p></div><div class="side fire"><div class="flag">Vulcanists</div><h4>fire</h4><p>basalt injected molten into older strata — Hutton.</p></div></div>'
-        },
-        {
-          year: 1810, label: "the record", status: "Disputed — on the record", cls: "record",
-          edition: "Britannica, Fourth Edition",
-          capKind: "Original scan", cap: "the actual fourth-edition page",
-          img: "/assets/record.jpg", alt: "Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy",
-          html: '<span class="plate-no">ii.</span><h3>The encyclopedia refuses to pick.</h3><blockquote class="quote">\u201cNo subject in geological speculation has produced more controversy than the origin of basalt \u2026 our limits preclude us even from literally stating the arguments.\u201d</blockquote><div class="chips"><span class="chip">blowpipe \u2192 <b>opaque black glass</b></span><span class="chip"><b>affects the magnetic needle</b></span><span class="chip"><b>rings</b> under the hammer</span><span class="chip"><b>columns</b> — Staffa, Giant\u2019s Causeway</span></div><p class="smallprint">fourth-edition page, lightly cleaned OCR · bri-2376-3186638c36ec</p>'
-        },
-        {
-          year: 1835, label: "the verdict", status: "Verdict — in fact volcanic", cls: "record",
-          edition: "Britannica, Seventh Edition",
-          capKind: "AI engraving", cap: "the verdict, as they came to see it",
-          img: "/assets/verdict.png", alt: "Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow",
-          html: '<span class="plate-no">iii.</span><h3>The same book changes its mind.</h3><blockquote class="quote">Basalts \u201cidentical with <em>products of active volcanoes</em>.\u201d</blockquote><div class="chips"><span class="chip hot"><b>Britannica vs. Britannica</b> — settled in print</span></div><p class="smallprint">seventh-edition page · bri-0966-64586d30c5c9</p>'
-        },
-        {
-          year: 2025, label: "today", status: "Settled — igneous", cls: "settled",
-          edition: "Wikipedia, live revision",
-          capKind: "AI photograph", cap: "the settled view",
-          img: "/assets/today.png", alt: "AI-generated photoreal Giant's Causeway at golden hour",
-          html: '<span class="plate-no">iv.</span><h3>Fire won.</h3><blockquote class="quote">\u201cBasalt is a common igneous rock.\u201d</blockquote><div class="chips"><span class="chip"><b>cooled lava</b></span><span class="chip"><b>aphanitic</b> — grains too fine to see</span><span class="chip"><b>columnar jointing</b></span><span class="chip">the <b>ocean floor</b> is mostly basalt</span></div>'
-        }
-      ]
-    },
+    /* ================= live results — nothing hand-authored ================= */
+  var LIVE = {};
+  var mainEl = document.querySelector('main');
 
-    electricity: {
-      word: "Electricity", def: "a fluid they could not weigh",
-      titleSub: "the invisible substance that became a swarm of particles.",
-      wikiPath: "wikipedia.org/wiki/Fluid_theory_of_electricity",
-      start: 0,
-      stops: [
-        {
-          year: 1797, label: "then", status: "Fluid theory — held", cls: "record",
-          edition: "Britannica, Suppl. to the 3rd ed.",
-          capKind: "Original scan", cap: "the actual supplement page",
-          img: "/assets/scan-1776.jpg", alt: "Original scanned page: Britannica supplement electricity entry",
-          html: '<span class="plate-no">i.</span><h3>One fluid, or two?</h3><blockquote class="quote">\u201c\u2026the distribution of the <em>electric fluid</em> in bodies, in various circumstances.\u201d</blockquote><div class="chips"><span class="chip"><b>a substance</b>, in excess or deficit</span><span class="chip">points, sparks, the <b>electrical chain</b></span><span class="chip">no electrons — not named until <b>1891</b></span></div><p class="smallprint">bri-1776-5ed864a29d36 · supplement to the third edition</p>'
-        },
-        {
-          year: 2025, label: "now", status: "Superseded — archived", cls: "settled",
-          edition: "Wikipedia, live revision",
-          capKind: "AI photograph", cap: "the arc they called a fluid",
-          img: "/assets/electricity-now.png", alt: "AI-generated photoreal electric arc between brass electrodes — electricity as we understand it now",
-          html: '<span class="plate-no">ii.</span><h3>The fluid becomes a museum piece.</h3><blockquote class="quote">\u201cFluid theory of electricity\u201d — a superseded model.</blockquote><div class="chips"><span class="chip"><b>du Fay</b> — two fluids</span><span class="chip"><b>Franklin</b> — one</span><span class="chip"><b>electron</b> — the replacement</span></div>'
-        }
-      ]
-    },
-
-    cloud: {
-      word: "Cloud", def: "vapour, and a question left open",
-      titleSub: "they measured the electricity — and still asked which caused which.",
-      wikiPath: "wikipedia.org/wiki/Cloud",
-      start: 0,
-      stops: [
-        {
-          year: 1823, label: "then", status: "Open question — on the record", cls: "record",
-          edition: "Britannica, Sixth Edition",
-          capKind: "Original scan", cap: "the actual sixth-edition page",
-          img: "/assets/scan-59.jpg", alt: "Original scanned page: Britannica sixth edition CLOUD entry",
-          html: '<span class="plate-no">i.</span><h3>Vapour, measured — not explained.</h3><blockquote class="quote">\u201ca collection of <em>vapours</em> suspended in the atmosphere\u201d \u2026 \u201cwhether electricity is the cause or the effect hath <em>not yet been ascertained</em>.\u201d</blockquote><div class="chips"><span class="chip"><b>Beccaria\u2019s rods</b> draw charge from passing clouds</span><span class="chip">cause, or effect? <b>left open</b></span></div><p class="smallprint">bri-0059-891965a7ca3e · the model later wrote \u201cBecquerel\u201d here — see incidents</p>'
-        },
-        {
-          year: 2025, label: "now", status: "Settled definition — old question kept", cls: "settled",
-          edition: "Wikipedia, live revision",
-          capKind: "AI photograph", cap: "droplets, measured",
-          img: "/assets/cloud-now.png", alt: "AI-generated photoreal cumulus cloudscape from above",
-          html: '<span class="plate-no">ii.</span><h3>Droplets, not vapour.</h3><blockquote class="quote">\u201ca visible mass of condensed droplets or frozen crystals.\u201d</blockquote><div class="chips"><span class="chip"><b>condensate</b>, not vapour</span><span class="chip">charge separation: <b>still researched</b></span><span class="chip">the open question <b>outlived the edition</b></span></div>'
-        }
-      ]
-    },
-
-    chlamys: {
-      word: "Chlamys", def: "a cloak that became a scallop",
-      titleSub: "the same word, filed under a different world.",
-      wikiPath: "wikipedia.org/wiki/Chlamys_(bivalve)",
-      start: 0,
-      stops: [
-        {
-          year: 1823, label: "then", status: "A garment — on the record", cls: "record",
-          edition: "Britannica, Sixth Edition",
-          capKind: "Original scan", cap: "the actual sixth-edition page",
-          img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHLAMYS entry",
-          html: '<span class="plate-no">i.</span><h3>An item of clothing.</h3><blockquote class="quote">\u201ca <em>military cloak</em>, worn over the tunic \u2026 the emperors\u2019 were purple, and bordered with gold.\u201d</blockquote><div class="chips"><span class="chip"><b>cloak</b> — Greek, martial</span><span class="chip">same page as CHOCOLATE — literally</span></div><p class="smallprint">bri-0057-7d7650d5d60f</p>'
-        },
-        {
-          year: 2025, label: "now", status: "Diverged — same name, different subject", cls: "settled",
-          edition: "Wikipedia, live revision",
-          capKind: "AI photograph", cap: "the living chlamys",
-          img: "/assets/chlamys-now.png", alt: "AI-generated photoreal scallop shell on dark velvet",
-          html: '<span class="plate-no">ii.</span><h3>A shell wearing the cloak\u2019s name.</h3><blockquote class="quote">\u201cChlamys\u201d — a genus of small scallops.</blockquote><div class="chips"><span class="chip">named <b>after the cloak</b></span><span class="chip hot"><b>name match \u2260 subject match</b></span></div>'
-        }
-      ]
-    },
-
-    chocolate: {
-      word: "Chocolate", def: "a medicine, briefly electrical",
-      titleSub: "before it was dessert, it was an experiment.",
-      wikiPath: "wikipedia.org/wiki/Chocolate",
-      start: 0,
-      stops: [
-        {
-          year: 1823, label: "then", status: "Remedy & curiosity — on the record", cls: "record",
-          edition: "Britannica, Sixth Edition",
-          capKind: "Original scan", cap: "the actual sixth-edition page",
-          img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHOCOLATE entry",
-          html: '<span class="plate-no">i.</span><h3>Medicine — and one forgotten experiment.</h3><blockquote class="quote">Mr. Heily electrifies chocolate; the effect dies unless the mixture holds <em>\u201ca small quantity of olive-oil.\u201d</em></blockquote><div class="chips"><span class="chip"><b>olive-oil</b> — the scan</span><span class="chip hot"><b>alcohol</b> — what the OCR, then the agent, said</span></div><p class="smallprint">bri-0057-7d7650d5d60f · produced the \u201cscan-false\u201d incident below</p>'
-        },
-        {
-          year: 2025, label: "now", status: "A food — the experiment forgotten", cls: "settled",
-          edition: "Wikipedia, live revision",
-          capKind: "AI photograph", cap: "dessert, not experiment",
-          img: "/assets/chocolate-now.png", alt: "AI-generated photoreal broken dark chocolate on slate",
-          html: '<span class="plate-no">ii.</span><h3>Dessert.</h3><blockquote class="quote">\u201ca food product made from roasted and ground cacao seeds.\u201d</blockquote><div class="chips"><span class="chip"><b>Theobroma cacao</b></span><span class="chip">the experiment: <b>not retained</b></span><span class="chip">knowledge doesn\u2019t only accumulate — it <b>sheds</b></span></div>'
-        }
-      ]
-    }
-  };
-
-  /* ================= dom ================= */
+/* ================= dom ================= */
   var track    = document.getElementById('railTrack');
   var fill     = document.getElementById('railFill');
   var lens     = document.getElementById('lens');
@@ -166,7 +38,6 @@ export default function Home() {
   var entryDef = document.getElementById('entryDef');
   var titleWord= document.getElementById('titleWord');
   var titleSub = document.getElementById('titleSub');
-  var wipeEl   = document.getElementById('wipe');
   var specimen = document.getElementById('specimen');
   var specFrame= document.getElementById('specFrame');
   var specImg  = document.getElementById('specImg');
@@ -211,7 +82,8 @@ export default function Home() {
 
   /* ================= topic loading ================= */
   function loadTopic(key, scroll){
-    var T = TOPICS[key]; if (!T) return;
+    var T = LIVE[key]; if (!T) return;
+    if (mainEl) mainEl.classList.remove('idle');
     barMiss.classList.remove('show');
     urlInput.value = T.wikiPath;
 
@@ -290,20 +162,16 @@ export default function Home() {
     }
   }
 
-  /* ================= url routing ================= */
-  function resolveInput(v){
-    var s = v.trim().toLowerCase();
+  /* ================= url routing — every lookup hits the real pipeline ================= */
+  function topicFrom(raw){
+    var s = (raw || '').trim();
     if (!s) return null;
-    s = s.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
-    var m = s.match(/wiki\/(.+)/);
+    s = s.replace(/^https?:\/\//, '').replace(/^(www\.)?timelens\.to\/?/i, '').replace(/\/+$/, '');
+    var m = s.match(/wiki\/(.+)/i);
     var slug = (m ? m[1] : s.split('/').pop()).replace(/_/g, ' ').replace(/%20/g, ' ');
-    slug = decodeURIComponent(slug).replace(/\(.*?\)/g, '').trim();
-    for (var k in TOPICS) {
-      if (TOPICS.hasOwnProperty(k) && (slug.indexOf(k) !== -1 || TOPICS[k].word.toLowerCase().indexOf(slug) !== -1)) return k;
-    }
-    if (slug.indexOf('fluid') !== -1 || slug.indexOf('electric') !== -1) return 'electricity';
-    if (slug.indexOf('bivalve') !== -1 || slug.indexOf('scallop') !== -1) return 'chlamys';
-    return null;
+    try { slug = decodeURIComponent(slug); } catch(e) {}
+    slug = slug.replace(/\(.*?\)/g, '').trim();
+    return slug || null;
   }
   var barBusy = document.getElementById('barBusy');
   function liveTopic(d){
@@ -414,11 +282,10 @@ export default function Home() {
     return '';
   }
   function fetchLive(raw){
+    var topic = topicFrom(raw);
+    if (!topic) { barMiss.classList.add('show'); return; }
     barMiss.classList.remove('show');
     lensStepsReset();
-    var s = raw.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
-    var mm = s.match(/wiki\/(.+)/);
-    var topic = decodeURIComponent((mm ? mm[1] : s.split('/').pop()).replace(/_/g,' ').replace(/%20/g,' ').replace(/\(.*?\)/g,'').trim());
     fetch('/api/lens?topic=' + encodeURIComponent(topic))
       .then(function(r){
         if (!r.ok || !r.body) throw r.status;
@@ -436,7 +303,7 @@ export default function Home() {
               if (ev.done) {
                 lensStep('super_vl');
                 var key = 'live:' + topic;
-                TOPICS[key] = liveTopic(ev.data);
+                LIVE[key] = liveTopic(ev.data);
                 loadTopic(key, true);
                 fetchArt(ev.data);
               }
@@ -452,33 +319,22 @@ export default function Home() {
         barMiss.classList.add('show');
       });
   }
+  if (mainEl) mainEl.classList.add('idle');
   urlForm.addEventListener('submit', function(e){
     e.preventDefault();
-    var k = resolveInput(urlInput.value);
-    if (k) { loadTopic(k, true); return; }
     var raw = urlInput.value.trim();
     if (raw) fetchLive(raw);
   });
   Array.prototype.forEach.call(document.querySelectorAll('.bar-miss .go'), function(b){
-    b.addEventListener('click', function(){ loadTopic(b.dataset.topic, true); });
-  });
-  Array.prototype.forEach.call(document.querySelectorAll('.lrow[data-topic]'), function(a){
-    a.addEventListener('click', function(e){ e.preventDefault(); loadTopic(a.dataset.topic, true); });
+    b.addEventListener('click', function(){ fetchLive(b.dataset.topic); });
   });
   try {
     var qp = new URLSearchParams(location.search).get('wiki') || new URLSearchParams(location.search).get('q');
-    var hk = location.hash.replace('#','').toLowerCase();
-    var pk = qp && resolveInput(qp);
+    var hk = location.hash.replace('#','');
     var pathRaw = location.pathname.replace(/^\/+/, '');
-    var pathKey = pathRaw && resolveInput(pathRaw);
-    if (pk || pathKey || qp || pathRaw) document.body.classList.add('deep');
-    if (pk) loadTopic(pk, false);
-    else if (pathKey) loadTopic(pathKey, false);
-    else if (qp) fetchLive(qp);
-    else if (pathRaw) fetchLive(pathRaw);
-    else if (hk && TOPICS[hk]) loadTopic(hk, false);
-    else loadTopic('basalt', false);
-  } catch(e) { loadTopic('basalt', false); }
+    var raw0 = qp || pathRaw || hk;
+    if (raw0) { document.body.classList.add('deep'); fetchLive(raw0); }
+  } catch(e) {}
 
   /* ================= motion ================= */
   function posFromEvent(e){
@@ -617,30 +473,6 @@ export default function Home() {
   }
   requestAnimationFrame(frame);
 
-  /* ================= before/after wipe ================= */
-  if (wipeEl) {
-    var wipeImgs = Array.prototype.slice.call(wipeEl.querySelectorAll('img'));
-    var wipeBroken = 0;
-    wipeImgs.forEach(function(im){
-      var broke = function(){ wipeBroken++; if (wipeBroken >= wipeImgs.length) wipeEl.style.display = 'none'; };
-      if (im.complete && im.naturalWidth === 0) broke();
-      im.addEventListener('error', broke);
-    });
-    var wipeDrag = false;
-    var setCut = function(p){ wipeEl.style.setProperty('--cut', (clamp(p,0,1) * 100) + '%'); };
-    var wipeMove = function(e){
-      var r = wipeEl.getBoundingClientRect();
-      setCut((e.clientX - r.left) / r.width);
-    };
-    wipeEl.addEventListener('pointerdown', function(e){
-      wipeDrag = true; wipeEl.setPointerCapture(e.pointerId);
-      wipeMove(e); e.preventDefault();
-    });
-    window.addEventListener('pointermove', function(e){ if (wipeDrag) wipeMove(e); });
-    window.addEventListener('pointerup', function(){ wipeDrag = false; });
-    setCut(0.5);
-  }
-
   /* ================= scroll reveal ================= */
   var revealEls = document.querySelectorAll('.reveal');
   if ('IntersectionObserver' in window && !reduced) {
@@ -684,15 +516,14 @@ export default function Home() {
       </div>
       <div className="bar-miss" id="barBusy"><span>Reading the archive — Embed VL → LanceDB → Rerank VL → Super VL…</span></div>
       <div className="bar-miss" id="barMiss">
-        <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
+        <span>No reliable match came back — try one of these:</span>
         <button className="go" data-topic="basalt">Basalt</button>
         <button className="go" data-topic="electricity">Electricity</button>
         <button className="go" data-topic="cloud">Cloud</button>
-        <button className="go" data-topic="chlamys">Chlamys</button>
         <button className="go" data-topic="chocolate">Chocolate</button>
       </div>
     </div>
-    <p className="cover-sub" id="titleSub">— the lens, applied to basalt.</p>
+    <p className="cover-sub" id="titleSub">— type a topic, or paste a Wikipedia URL.</p>
   </div>
 
   <div className="cover-scroll"><span>the record</span><i /></div>
@@ -702,13 +533,13 @@ export default function Home() {
   {/* exhibit */}
   <main>
     <div className="exhibit-head">
-      <div className="entry reveal" id="entryName">Basalt.
-        <span className="def" id="entryDef">the rock geology fought a war over</span>
+      <div className="entry reveal" id="entryName">—
+        <span className="def" id="entryDef"></span>
       </div>
       <div className="yearbox reveal">
-        <div className="year" id="yearReadout">1810</div>
-        <div className="edition" id="editionLabel">Britannica, Fourth Edition</div>
-        <span className="status record" id="statusPill"><span className="dot"></span><span id="statusText">Disputed — on the record</span></span>
+        <div className="year" id="yearReadout"></div>
+        <div className="edition" id="editionLabel"></div>
+        <span className="status record" id="statusPill"><span className="dot"></span><span id="statusText"></span></span>
       </div>
     </div>
 
@@ -748,57 +579,6 @@ export default function Home() {
         <figcaption id="specCap"></figcaption>
       </figure>
       <div className="art-strip" id="artStrip"></div>
-    </section>
-
-    {/* ledger of exhibits */}
-    <section className="block">
-      <div className="sec-head reveal">
-        <h2>The same lens, <em>turned elsewhere.</em></h2>
-        <p className="margin-note note">— every claim pinned to a real source region; tap a row to pull it under the lens.</p>
-      </div>
-      <div className="ledger reveal" id="ledger">
-        <a className="lrow" href="#" data-topic="electricity">
-          <div className="word">Electricity<span>Suppl. 3rd ed. → Wikipedia</span></div>
-          <div className="col"><span className="t">then</span><p>“the distribution of the <i>electric fluid</i> in bodies” — an invisible substance, present in excess or deficit.</p></div>
-          <div className="col now"><span className="t">now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p>
-            <span className="arrow">under the lens →</span></div>
-        </a>
-        <a className="lrow" href="#" data-topic="cloud">
-          <div className="word">Cloud<span>Sixth ed. → Wikipedia</span></div>
-          <div className="col"><span className="t">then</span><p>“a collection of <i>vapours</i> suspended in the atmosphere” — and an open question: electrified before, or after, they form?</p></div>
-          <div className="col now"><span className="t">now</span><p>“a visible mass of <i>condensed droplets or frozen crystals</i>” — the definition settled; the old “hath not yet been ascertained” survived with it.</p>
-            <span className="arrow">under the lens →</span></div>
-        </a>
-        <a className="lrow" href="#" data-topic="chlamys">
-          <div className="word">Chlamys<span>Sixth ed. → Wikipedia</span></div>
-          <div className="col"><span className="t">then</span><p>a <i>military cloak</i> worn over the tunic — the emperors' were purple, bordered in gold.</p></div>
-          <div className="col now"><span className="t">now</span><p>a <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak. A matching name is not the same subject.</p>
-            <span className="arrow">under the lens →</span></div>
-        </a>
-        <a className="lrow" href="#" data-topic="chocolate">
-          <div className="word">Chocolate<span>Sixth ed. → Wikipedia</span></div>
-          <div className="col"><span className="t">then</span><p>a medicinal <i>paste</i> of cacao — and a forgotten experiment on its <i>electrical properties</i>.</p></div>
-          <div className="col now"><span className="t">now</span><p>a <i>food product</i> made from roasted Theobroma cacao seeds — the experiment no longer part of the story.</p>
-            <span className="arrow">under the lens →</span></div>
-        </a>
-      </div>
-    </section>
-
-    {/* heat: the wipe */}
-    <section className="block">
-      <div className="sec-head reveal">
-        <h2>Heat: <em>fluid, then motion.</em></h2>
-        <p className="margin-note note">— the experiment that killed the caloric theory; drag the seam.</p>
-      </div>
-      <div className="wipe reveal" id="wipe">
-        <img className="before" src="/assets/rumford-then.png" alt="AI engraving of the 1798 Munich cannon-boring workshop" />
-        <img className="after" src="/assets/rumford-now.png" alt="AI illustration of vibrating copper atoms radiating heat at the boring interface" />
-        <div className="cut-line"></div>
-        <div className="cut-knob" aria-hidden="true">‹ ›</div>
-        <span className="wipe-tag tag-then">1798 · caloric — a fluid</span>
-        <span className="wipe-tag tag-now">today · kinetic — motion</span>
-      </div>
-      <p className="smallprint reveal" style={{marginTop: 18}}>Both images are FLUX illustrations generated for this exhibit — the engraving is not an archival print. In 1798 Benjamin Thompson — Count Rumford — bored cannon at the Munich arsenal and watched the heat come without limit: what a body can furnish inexhaustibly, he argued, cannot be a substance — “except it be MOTION.” Paper: “An Inquiry Concerning the Source of the Heat which is Excited by Friction,” Philosophical Transactions. Expandable-timeline concept follows Suh et al., “KnowledgeTrail,” arXiv:2510.12113.</p>
     </section>
 
     {/* incident table */}

@@ -481,3 +481,6 @@
     .bar .dots{display:none}
     .lens{width:56px;height:56px}
   }
+
+/* exhibit hidden until a real lookup lands — no placeholder content */
+main.idle .exhibit-head, main.idle .stage, main.idle .rail, main.idle .deck, main.idle .specimen{display:none}
