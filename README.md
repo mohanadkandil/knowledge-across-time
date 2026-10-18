@@ -1,6 +1,18 @@
-# Knowledge Across Time
+# Knowledge Across Time — TimeLens
 
-A research baseline for comparing 100 documented historical Britannica scans with evidence from the required pinned Wikipedia corpus. It separates changes in language, knowledge and coverage, retains uncertainty, and exposes the original evidence for human review.
+**Add `timelens.` before a Wikipedia link and travel back 250 years.** This
+repository compares 100 documented historical Britannica scans
+(1768–1860 editions) with evidence from the required pinned Wikipedia corpus.
+It separates changes in language, knowledge and coverage, retains uncertainty,
+exposes the original evidence for human review — and then red-teams its own
+agent so judges can inspect where the model lies about history.
+
+Hero exhibit: **basalt**. Britannica's 4th edition records the unresolved
+fire-versus-water origin debate ("No subject in geological speculation has
+produced more controversial discussion…"); its 7th edition, ~30 years later,
+calls basalts "identical with products of active volcanoes." Same
+encyclopedia, one timeline, the argument settles in its own pages. See
+[the presentation plan](docs/presentation.md) and the demo page in `timelens/`.
 
 The required stack is **Nemotron Parse 3.5**, `nvidia/llama-nemotron-embed-vl-1b-v2`, `nvidia/llama-nemotron-rerank-vl-1b-v2`, `nvidia/Nemotron-3.5-Super-VL` through Token Factory, LanceDB and **the real Hermes Agent framework**. The 18 October brief requires a static archive with **compiled LaTeX documents** and a **3-minute video**. Missing services fail explicitly; there is no substitute model or fabricated success path.
 
