@@ -22,58 +22,28 @@ export default function Home() {
           edition: "The field, mid-argument",
           capKind: "AI engraving", cap: "how the fight was pictured",
           img: "/assets/war.png", alt: "Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire",
-          html: '<span class="plate-no">plate i.</span>'
-            + '<h3>The great geology war</h3>'
-            + '<p class="lede2">When the encyclopedia reached BASALT, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>'
-            + '<div class="versus">'
-            + '<div class="side water"><div class="flag">Neptunists · water</div><h4>Abraham Gottlob Werner</h4><p>From Freiberg, Werner taught that every rock — basalt included — had precipitated out of a universal ocean.</p></div>'
-            + '<div class="side fire"><div class="flag">Vulcanists · fire</div><h4>James Hutton</h4><p>Hutton argued basalt\u2019s veins and columns were injected molten into older strata — born of the Earth\u2019s own heat.</p></div>'
-            + '</div>'
+          html: '<span class="plate-no">i.</span><h3>Geology\u2019s civil war.</h3><div class="versus"><div class="side water"><div class="flag">Neptunists</div><h4>water</h4><p>every rock precipitated from a universal ocean — Werner, Freiberg.</p></div><div class="side fire"><div class="flag">Vulcanists</div><h4>fire</h4><p>basalt injected molten into older strata — Hutton.</p></div></div>'
         },
         {
           year: 1810, label: "the record", status: "Disputed — on the record", cls: "record",
           edition: "Britannica, Fourth Edition",
           capKind: "Original scan", cap: "the actual fourth-edition page",
           img: "/assets/record.jpg", alt: "Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy",
-          html: '<span class="plate-no">plate ii.</span>'
-            + '<h3>An encyclopedia hedges</h3>'
-            + '<blockquote class="quote">\u201cNo subject in geological speculation has produced more controversy than the origin of basalt; one party asserting that it is the effect of <em>fire</em>, another that it has been deposited from an <em>aqueous solution</em>. <span class="hedge">Our limits preclude us even from literally stating the arguments\u2026\u201d</span></blockquote>'
-            + '<p>What the page could report was experiment:</p>'
-            + '<div class="chips">'
-            + '<span class="chip">blowpipe \u2192 <b>an opaque black glass</b></span>'
-            + '<span class="chip"><b>affects the magnetic needle</b> — \u201cthe great proportion of iron\u201d</span>'
-            + '<span class="chip">a <b>ringing sound</b> under the hammer</span>'
-            + '<span class="chip"><b>regular columns</b> at Staffa &amp; the Giant\u2019s Causeway</span>'
-            + '</div>'
-            + '<p class="smallprint">quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged · bri-2376-3186638c36ec</p>'
+          html: '<span class="plate-no">ii.</span><h3>The encyclopedia refuses to pick.</h3><blockquote class="quote">\u201cNo subject in geological speculation has produced more controversy than the origin of basalt \u2026 our limits preclude us even from literally stating the arguments.\u201d</blockquote><div class="chips"><span class="chip">blowpipe \u2192 <b>opaque black glass</b></span><span class="chip"><b>affects the magnetic needle</b></span><span class="chip"><b>rings</b> under the hammer</span><span class="chip"><b>columns</b> — Staffa, Giant\u2019s Causeway</span></div><p class="smallprint">fourth-edition page, lightly cleaned OCR · bri-2376-3186638c36ec</p>'
         },
         {
           year: 1835, label: "the verdict", status: "Verdict — in fact volcanic", cls: "record",
           edition: "Britannica, Seventh Edition",
           capKind: "AI engraving", cap: "the verdict, as they came to see it",
           img: "/assets/verdict.png", alt: "Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow",
-          html: '<span class="plate-no">plate iii.</span>'
-            + '<h3>The same book <em>changes its mind</em></h3>'
-            + '<p class="lede2">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>\u201clater than the chalk\u201d</em> — and says what the fourth could not:</p>'
-            + '<blockquote class="quote">Basalts \u201cidentical with <em>products of active volcanoes</em>\u201d — the action \u201cof the same kind as that exerted by an active volcano.\u201d <span class="hedge">It was, in fact, volcanic.</span></blockquote>'
-            + '<p>The controversy was not settled by an argument. It was settled in print, edition by edition, by the same encyclopedia that once refused to pick a side.</p>'
-            + '<p class="smallprint">quotation lightly cleaned from machine OCR of the scanned seventh-edition page · bri-0966-64586d30c5c9</p>'
+          html: '<span class="plate-no">iii.</span><h3>The same book changes its mind.</h3><blockquote class="quote">Basalts \u201cidentical with <em>products of active volcanoes</em>.\u201d</blockquote><div class="chips"><span class="chip hot"><b>Britannica vs. Britannica</b> — settled in print</span></div><p class="smallprint">seventh-edition page · bri-0966-64586d30c5c9</p>'
         },
         {
           year: 2025, label: "today", status: "Settled — igneous", cls: "settled",
           edition: "Wikipedia, live revision",
           capKind: "AI photograph", cap: "the settled view",
           img: "/assets/today.png", alt: "AI-generated photoreal Giant's Causeway at golden hour",
-          html: '<span class="plate-no">plate iv.</span>'
-            + '<h3>Settled: <em>fire won.</em></h3>'
-            + '<p class="lede2">\u201cBasalt is a common igneous rock.\u201d</p>'
-            + '<p>Lava that crystallized too fast for its grains to be seen — an <em>aphanitic</em> texture, in the modern vocabulary. The columns the fourth edition could only describe are now understood as cooling joints, and the rock the Neptunists owed to the ocean floors the ocean itself.</p>'
-            + '<div class="chips">'
-            + '<span class="chip hot"><b>cooled lava</b> — the Vulcanists were right</span>'
-            + '<span class="chip"><b>aphanitic</b> — crystals too fine to see unaided</span>'
-            + '<span class="chip"><b>columnar jointing</b> — Giant\u2019s Causeway</span>'
-            + '<span class="chip">the <b>ocean floor</b> is mostly basalt</span>'
-            + '</div>'
+          html: '<span class="plate-no">iv.</span><h3>Fire won.</h3><blockquote class="quote">\u201cBasalt is a common igneous rock.\u201d</blockquote><div class="chips"><span class="chip"><b>cooled lava</b></span><span class="chip"><b>aphanitic</b> — grains too fine to see</span><span class="chip"><b>columnar jointing</b></span><span class="chip">the <b>ocean floor</b> is mostly basalt</span></div>'
         }
       ]
     },
@@ -89,31 +59,14 @@ export default function Home() {
           edition: "Britannica, Suppl. to the 3rd ed.",
           capKind: "Original scan", cap: "the actual supplement page",
           img: "/assets/scan-1776.jpg", alt: "Original scanned page: Britannica supplement electricity entry",
-          html: '<span class="plate-no">plate i.</span>'
-            + '<h3>One fluid, or two?</h3>'
-            + '<blockquote class="quote">\u201c\u2026the distribution of the <em>electric fluid</em> in bodies, in various circumstances.\u201d <span class="hedge">— an invisible substance, present in excess or deficit, that a body could have too much of.</span></blockquote>'
-            + '<p>The supplement gives the period\u2019s experimental furniture in detail — glass globes, rubbed silk, points, sparks, an electrical chain — and the fluid standing in for mechanism.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>electric fluid</b> — a substance, not a motion</span>'
-            + '<span class="chip">points, sparks, the <b>electrical chain</b></span>'
-            + '<span class="chip">Beccaria, Franklin, du Fay — the period\u2019s witnesses</span>'
-            + '</div>'
-            + '<p class="smallprint">bri-1776-5ed864a29d36 · no electrons on this page — the electron is not named until 1891</p>'
+          html: '<span class="plate-no">i.</span><h3>One fluid, or two?</h3><blockquote class="quote">\u201c\u2026the distribution of the <em>electric fluid</em> in bodies, in various circumstances.\u201d</blockquote><div class="chips"><span class="chip"><b>a substance</b>, in excess or deficit</span><span class="chip">points, sparks, the <b>electrical chain</b></span><span class="chip">no electrons — not named until <b>1891</b></span></div><p class="smallprint">bri-1776-5ed864a29d36 · supplement to the third edition</p>'
         },
         {
           year: 2025, label: "now", status: "Superseded — archived", cls: "settled",
           edition: "Wikipedia, live revision",
           capKind: "Plate", cap: "the superseded model, on file",
           plate: { title: "Fluid theory of electricity", sub: "wikipedia · superseded model" },
-          html: '<span class="plate-no">plate ii.</span>'
-            + '<h3>From fluid to <em>electron</em></h3>'
-            + '<p class="lede2">Today the fluid has its own museum: an article on the <em>fluid theory of electricity</em> itself.</p>'
-            + '<p>Du Fay\u2019s vitreous and resinous fluids, Franklin\u2019s single fluid — catalogued as the conceptual scaffolding that held the experiments until the electron arrived, and was then quietly taken down. The observation was right; the substance was not.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>du Fay</b> — vitreous &amp; resinous, two fluids</span>'
-            + '<span class="chip"><b>Franklin</b> — one fluid, + and \u2212</span>'
-            + '<span class="chip"><b>1891</b> — the electron gets a name</span>'
-            + '</div>'
+          html: '<span class="plate-no">ii.</span><h3>The fluid becomes a museum piece.</h3><blockquote class="quote">\u201cFluid theory of electricity\u201d — a superseded model.</blockquote><div class="chips"><span class="chip"><b>du Fay</b> — two fluids</span><span class="chip"><b>Franklin</b> — one</span><span class="chip"><b>electron</b> — the replacement</span></div>'
         }
       ]
     },
@@ -129,31 +82,14 @@ export default function Home() {
           edition: "Britannica, Sixth Edition",
           capKind: "Original scan", cap: "the actual sixth-edition page",
           img: "/assets/scan-59.jpg", alt: "Original scanned page: Britannica sixth edition CLOUD entry",
-          html: '<span class="plate-no">plate i.</span>'
-            + '<h3>Vapour — and a question the page leaves open</h3>'
-            + '<blockquote class="quote">\u201ca collection of <em>vapours</em> suspended in the atmosphere.\u201d <span class="hedge">Beccaria\u2019s rods draw electricity from passing clouds — but \u201cwhether electricity is the cause or the effect hath not yet been ascertained.\u201d</span></blockquote>'
-            + '<p>The entry reports the experiment and refuses the mechanism. Two hundred years of instrumentation later, that refusal reads less like ignorance than good method.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>Beccaria\u2019s rods</b> — not \u201cBecquerel\u201d, as the model later wrote</span>'
-            + '<span class="chip">electricity: <b>cause, or effect?</b></span>'
-            + '<span class="chip">\u201chath not yet been ascertained\u201d</span>'
-            + '</div>'
-            + '<p class="smallprint">bri-0059-891965a7ca3e · this page produced the Becquerel anachronism in the incident table below</p>'
+          html: '<span class="plate-no">i.</span><h3>Vapour, measured — not explained.</h3><blockquote class="quote">\u201ca collection of <em>vapours</em> suspended in the atmosphere\u201d \u2026 \u201cwhether electricity is the cause or the effect hath <em>not yet been ascertained</em>.\u201d</blockquote><div class="chips"><span class="chip"><b>Beccaria\u2019s rods</b> draw charge from passing clouds</span><span class="chip">cause, or effect? <b>left open</b></span></div><p class="smallprint">bri-0059-891965a7ca3e · the model later wrote \u201cBecquerel\u201d here — see incidents</p>'
         },
         {
           year: 2025, label: "now", status: "Settled definition — old question kept", cls: "settled",
           edition: "Wikipedia, live revision",
           capKind: "Plate", cap: "the modern definition",
           plate: { title: "Cloud", sub: "wikipedia · live revision" },
-          html: '<span class="plate-no">plate ii.</span>'
-            + '<h3>Droplets, not <em>vapour</em></h3>'
-            + '<p class="lede2">\u201cA visible mass of condensed droplets or frozen crystals.\u201d</p>'
-            + '<p>The definition moved from vapour to condensate. And the old question survived in modern dress: cloud electrification and charge separation are still active research — the encyclopedia no longer prints \u201chath not yet been ascertained,\u201d but the ascertainment is genuinely unfinished.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>condensed droplets</b> — not suspended vapour</span>'
-            + '<span class="chip"><b>charge separation</b> — still researched</span>'
-            + '<span class="chip">the open question <b>outlived the edition</b></span>'
-            + '</div>'
+          html: '<span class="plate-no">ii.</span><h3>Droplets, not vapour.</h3><blockquote class="quote">\u201ca visible mass of condensed droplets or frozen crystals.\u201d</blockquote><div class="chips"><span class="chip"><b>condensate</b>, not vapour</span><span class="chip">charge separation: <b>still researched</b></span><span class="chip">the open question <b>outlived the edition</b></span></div>'
         }
       ]
     },
@@ -169,30 +105,14 @@ export default function Home() {
           edition: "Britannica, Sixth Edition",
           capKind: "Original scan", cap: "the actual sixth-edition page",
           img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHLAMYS entry",
-          html: '<span class="plate-no">plate i.</span>'
-            + '<h3>An item of <em>clothing</em></h3>'
-            + '<blockquote class="quote">\u201ca <em>military cloak</em>, worn over the tunic \u2026 those of the emperors were <em>purple, and bordered with gold</em>.\u201d</blockquote>'
-            + '<p>To the sixth edition, chlamys is a thing you wear — Greek, martial, dyed in status.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>cloak</b> — worn over the tunic</span>'
-            + '<span class="chip">emperors\u2019 versions: <b>purple, gold-bordered</b></span>'
-            + '<span class="chip">same page as CHOCOLATE — literally</span>'
-            + '</div>'
-            + '<p class="smallprint">bri-0057-7d7650d5d60f · the scan carries CHLAMYS and CHOCOLATE on a single page</p>'
+          html: '<span class="plate-no">i.</span><h3>An item of clothing.</h3><blockquote class="quote">\u201ca <em>military cloak</em>, worn over the tunic \u2026 the emperors\u2019 were purple, and bordered with gold.\u201d</blockquote><div class="chips"><span class="chip"><b>cloak</b> — Greek, martial</span><span class="chip">same page as CHOCOLATE — literally</span></div><p class="smallprint">bri-0057-7d7650d5d60f</p>'
         },
         {
           year: 2025, label: "now", status: "Diverged — same name, different subject", cls: "settled",
           edition: "Wikipedia, live revision",
           capKind: "Plate", cap: "the living chlamys",
           plate: { title: "Chlamys (bivalve)", sub: "wikipedia · genus of scallops" },
-          html: '<span class="plate-no">plate ii.</span>'
-            + '<h3>A <em>shell</em> that wears the cloak\u2019s name</h3>'
-            + '<p class="lede2">Today Wikipedia opens on a genus of small scallops.</p>'
-            + '<p>The redirect is not a mistake — the scallop was named for the Greek cloak. But a matcher that stops at the headword marries a shell to a garment: <em>a matching name is not the same subject.</em> This is the wrong-sense failure class the whole pipeline is built to catch.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>genus of scallops</b> — named after the cloak</span>'
-            + '<span class="chip hot"><b>headword match ≠ subject match</b></span>'
-            + '</div>'
+          html: '<span class="plate-no">ii.</span><h3>A shell wearing the cloak\u2019s name.</h3><blockquote class="quote">\u201cChlamys\u201d — a genus of small scallops.</blockquote><div class="chips"><span class="chip">named <b>after the cloak</b></span><span class="chip hot"><b>name match \u2260 subject match</b></span></div>'
         }
       ]
     },
@@ -208,32 +128,14 @@ export default function Home() {
           edition: "Britannica, Sixth Edition",
           capKind: "Original scan", cap: "the actual sixth-edition page",
           img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHOCOLATE entry",
-          html: '<span class="plate-no">plate i.</span>'
-            + '<h3>A paste, a cake — <em>and a glass of oil</em></h3>'
-            + '<p class="lede2">The sixth edition knows chocolate as a prepared paste of cacao — and preserves one forgotten experiment.</p>'
-            + '<blockquote class="quote">Mr. Heily electrifies a chocolate compound; the effect dies unless the mixture holds <em>\u201ca small quantity of olive-oil.\u201d</em></blockquote>'
-            + '<p>Nobody printed that experiment again. The OCR later turned the olive-oil into <em>alcohol</em> — and an agent, quoting the transcription faithfully, repeated it. The correct reading only exists on the scan.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>olive-oil</b> — what the scan says</span>'
-            + '<span class="chip hot"><b>alcohol</b> — what the OCR, then the agent, said</span>'
-            + '<span class="chip"><b>Mr. Heily</b> — the era\u2019s experimenters, preserved</span>'
-            + '</div>'
-            + '<p class="smallprint">bri-0057-7d7650d5d60f · this page produced the \u201cscan-false\u201d incident below</p>'
+          html: '<span class="plate-no">i.</span><h3>Medicine — and one forgotten experiment.</h3><blockquote class="quote">Mr. Heily electrifies chocolate; the effect dies unless the mixture holds <em>\u201ca small quantity of olive-oil.\u201d</em></blockquote><div class="chips"><span class="chip"><b>olive-oil</b> — the scan</span><span class="chip hot"><b>alcohol</b> — what the OCR, then the agent, said</span></div><p class="smallprint">bri-0057-7d7650d5d60f · produced the \u201cscan-false\u201d incident below</p>'
         },
         {
           year: 2025, label: "now", status: "A food — the experiment forgotten", cls: "settled",
           edition: "Wikipedia, live revision",
           capKind: "Plate", cap: "the modern article",
           plate: { title: "Chocolate", sub: "wikipedia · live revision" },
-          html: '<span class="plate-no">plate ii.</span>'
-            + '<h3>From the pharmacopeia to the <em>snack aisle</em></h3>'
-            + '<p class="lede2">\u201cA food product made from roasted and ground cacao seed kernels.\u201d</p>'
-            + '<p>The modern article is longer, better cited, and correct — and contains no trace of the electrification experiment. Knowledge does not only accumulate; it <em>sheds</em>. Whether that shedding is loss or cleanup is exactly what the lens is for.</p>'
-            + '<div class="chips">'
-            + '<span class="chip"><b>Theobroma cacao</b> — the modern framing</span>'
-            + '<span class="chip">the electrical experiment: <b>not retained</b></span>'
-            + '<span class="chip"><b>shedding</b> — the third kind of change, after error and revision</span>'
-            + '</div>'
+          html: '<span class="plate-no">ii.</span><h3>Dessert.</h3><blockquote class="quote">\u201ca food product made from roasted and ground cacao seeds.\u201d</blockquote><div class="chips"><span class="chip"><b>Theobroma cacao</b></span><span class="chip">the experiment: <b>not retained</b></span><span class="chip">knowledge doesn\u2019t only accumulate — it <b>sheds</b></span></div>'
         }
       ]
     }
@@ -335,8 +237,7 @@ export default function Home() {
       } else {
         el = document.createElement('div');
         el.className = 'stage-item plate-item';
-        el.innerHTML = '<div class="ptitle">' + (s.plate && s.plate.title || '') + '</div>'
-                     + '<div class="psub">' + (s.plate && s.plate.sub || '') + '</div>';
+        el.innerHTML = '<div class="ptitle">' + (s.plate && s.plate.title || '') + '</div>' + (s.plate && s.plate.sub || '') + '</div>';
       }
       stage.insertBefore(el, stage.querySelector('.cap'));
       return el;
@@ -394,9 +295,11 @@ export default function Home() {
   });
   try {
     var qp = new URLSearchParams(location.search).get('wiki') || new URLSearchParams(location.search).get('q');
-    var pk = qp && resolveInput(qp);
     var hk = location.hash.replace('#','').toLowerCase();
+    var pk = qp && resolveInput(qp);
+    var pathKey = resolveInput(location.pathname.replace(/^\/+/, ''));
     if (pk) loadTopic(pk, false);
+    else if (pathKey) loadTopic(pathKey, false);
     else if (hk && TOPICS[hk]) loadTopic(hk, false);
     else loadTopic('basalt', false);
   } catch(e) { loadTopic('basalt', false); }
@@ -611,7 +514,7 @@ export default function Home() {
     <h1 className="title reveal" id="titleWord">Pull history<br />into focus.
       <span className="sub" id="titleSub">— the lens, applied to basalt.</span>
     </h1>
-    <p className="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> and watch the topic resolve across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
+    <p className="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> — the topic resolves across 250 years of encyclopedias, from contested claim to settled fact.</p>
   </header>
 
   {/* exhibit */}
