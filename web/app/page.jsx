@@ -309,12 +309,17 @@ export default function Home() {
   function liveTopic(d){
     var yr = d.page.editionYear || 1823;
     var ed = (d.page.edition ? d.page.edition + ' edition' : 'historical edition');
-    var thenHtml = '<span class="plate-no">i.</span><h3>What the page says.</h3>'
+    var diverged = !d.exhibit || d.exhibit.verdict === 'diverged';
+    var thenHead = diverged
+      ? 'The retriever surfaced the wrong page — honest failure, kept visible.'
+      : 'What the page says.';
+    var thenHtml = '<span class="plate-no">i.</span><h3>' + thenHead + '</h3>'
       + '<blockquote class="quote">\u201c' + (d.exhibit && d.exhibit.quote || d.thenText.slice(0,160).replace(/"/g,'')) + '\u201d</blockquote>'
       + (d.exhibit && d.exhibit.then_line ? '<p>' + d.exhibit.then_line + '</p>' : '')
       + '<div class="chips"><span class="chip">rerank score <b>' + (d.match.rerankScore != null ? d.match.rerankScore.toFixed(2) : '—') + '</b></span>'
-      + '<span class="chip">source <b>' + d.page.sourceId.split(':')[0] + '</b></span></div>'
-      + '<p class="smallprint">live retrieval — quote shown as returned by Super VL against the page text; original scan above is the ground truth</p>';
+      + '<span class="chip">source <b>' + d.page.sourceId.split(':')[0] + '</b></span>'
+      + (diverged ? '<span class="chip hot"><b>no confident match — nearest page shown</b></span>' : '') + '</div>'
+      + '<p class="smallprint">live retrieval — quote shown as returned by Super VL against the page text; the scan below is the ground truth</p>';
     var nowTitle = (d.wiki && d.wiki.title) || 'Wikipedia';
     var nowHtml = '<span class="plate-no">ii.</span><h3>' + (d.exhibit && d.exhibit.verdict === 'diverged' ? 'Diverged.' : d.exhibit && d.exhibit.verdict === 'superseded' ? 'Superseded.' : d.exhibit && d.exhibit.verdict === 'open' ? 'Still open.' : 'Today.') + '</h3>'
       + '<blockquote class="quote">\u201c' + ((d.wiki && d.wiki.excerpt || '').slice(0,180).replace(/["\u201c\u201d]/g,'')) + '\u2026\u201d</blockquote>'
@@ -322,7 +327,7 @@ export default function Home() {
       + (d.exhibit && d.exhibit.note ? '<div class="chips"><span class="chip hot"><b>' + d.exhibit.note + '</b></span></div>' : '')
       + '<p class="smallprint">' + nowTitle + ' · ' + (d.wiki && d.wiki.url || 'shared index') + '</p>';
     return {
-      word: (d.topic || 'Topic'), def: 'retrieved live from the archive',
+      word: (d.topic || 'Topic'), def: diverged ? 'no match in the archive — nearest page shown' : 'retrieved live from the archive',
       titleSub: 'live — embedded, reranked, and read by Nemotron.',
       wikiPath: 'wikipedia.org/wiki/' + (d.wiki ? d.wiki.title.replace(/ /g,'_') : d.topic),
       scan: '/scans/' + d.page.id + '.jpg',

@@ -115,10 +115,23 @@ async function run(request, send) {
   const trace = { steps: [] };
   const t = (name, extra = {}) => { trace.steps.push({ name, ...extra }); send({ step: name, ...extra }); };
 
-  // 1. Wikipedia (organizer shared BM25 service) — modern side
+  // 1. Wikipedia — modern side. Real REST summary first (canonical article),
+  //    organizer shared BM25 corpus as fallback.
   send({ step: 'start', topic });
   let wiki = null;
   try {
+    const r = await fetch(
+      `https://en.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(topic.replace(/ /g, '_'))}`,
+      { signal: AbortSignal.timeout(10000), headers: { Accept: 'application/json' } }
+    );
+    if (r.ok) {
+      const j = await r.json();
+      if (j.title && j.extract && j.type !== 'disambiguation') {
+        wiki = { title: j.title, url: j.content_urls?.desktop?.page, excerpt: j.extract, source: 'wikipedia.org' };
+      }
+    }
+  } catch {}
+  if (!wiki) try {
     const s = await jpost(`${WIKI_API_URL}/v1/search`, { query: topic, top_k: 8, excerpt_chars: 1000 });
     const hits = s.hits || [];
     const bad = /disambiguation|^(lists?|outline|index|glossary) of|\bdeity\b|mytholog|religion/i;
@@ -126,8 +139,9 @@ async function run(request, send) {
         || hits.find((h) => h.title?.toLowerCase().split(/[(—–]/)[0].trim() === topic.toLowerCase() && !bad.test(h.title || ''))
         || hits.find((h) => !bad.test(h.title || ''))
         || hits[0] || null;
-    t('wikipedia', { title: wiki?.title, page_id: wiki?.page_id });
+    if (wiki) wiki.source = 'shared-corpus';
   } catch (e) { t('wikipedia_error', { message: String(e.message) }); }
+  t('wikipedia', { title: wiki?.title, source: wiki?.source });
 
   // 2. Embed VL query (Nebius GPU VM via public tunnel)
   const queryText = wiki ? `${wiki.title}. ${wiki.excerpt.slice(0, 700)}` : topic;
