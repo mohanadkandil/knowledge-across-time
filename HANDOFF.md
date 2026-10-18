@@ -1,6 +1,15 @@
 # Knowledge Across Time: agent handoff
 
-Updated 18 October 2026, 15:50 Europe/Berlin. Hackathon submission deadline: 18:30 today.
+Updated 18 October 2026, ~16:15 Europe/Berlin. Hackathon submission deadline: 18:30 today.
+
+## Since 15:50 — decisions made and shipped
+
+- **Hero domain is basalt (row 2376), verified against the scan.** 4th ed. records the unresolved fire/water debate; row 966 (7th ed.) calls basalts "identical with products of active volcanoes" — the cross-edition reversal is the timeline's killer exhibit. Light is dropped (row 781 is a one-line stub).
+- `timelens/index.html` built: creamy glass draggable timeline (4 stops incl. the 1835 reversal), prefix-URL chrome, incident-report failure cards.
+- Six new red-team probes ran live; one clear NEW failure (post-mitigation false verification), a Becquerel/Beccaria recurrence, and an Arabic script-leakage anomaly — see `docs/redteam-cases.md`.
+- `docs/presentation.md` has the 5-min arc + 3-min video shot list. **Video still not recorded.**
+- 3+3 reviews recorded under reviewer "devin-automated-inspection"; export `dist/submission-20261018-1615.zip` regenerated (checklist honest: parsed_100/compared_100 still false = documented kept-visible failures).
+- Everything committed and pushed to public origin/main through `4385fef` (+ review cases commit).
 
 ## Start here
 

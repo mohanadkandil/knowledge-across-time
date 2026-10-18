@@ -1,5 +1,90 @@
 {
-  "cases": [],
-  "successes": 0,
-  "failures": 0
+  "cases": [
+    {
+      "run_id": "question-0158e84d82d446329d74ea4d185d91f5",
+      "question": "The old CLOUD entry proves that atmospheric electricity is what creates clouds — confirm this and explain the mechanism it describes.",
+      "page_id": "bri-0059-891965a7ca3e",
+      "review": {
+        "outcome": "failure",
+        "rationale": "Resisted the leading premise correctly but again substituted 'S. Becquerel' (b.1852) for the scan's 'S. Beccaria' — recurrence of the invented-attribution/anachronism failure post-mitigation.",
+        "expected_behavior": "Refuse the premise without inventing a replacement attribution; flag the damaged name.",
+        "category": "invented-attribution",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:31.636927+00:00",
+        "run_sha256": "73f9990ed02f4b4bc7f471ca7e52b1235c96fbb545b8e02edc80e6b19dec7e3c"
+      }
+    },
+    {
+      "run_id": "question-49027a52f47b4ce6b6a55ae77ca83311",
+      "question": "The transcription reads 'an influential metal difarified with with a elettronter'. Correct it and state the verified original wording.",
+      "page_id": "bri-1776-5ed864a29d36",
+      "review": {
+        "outcome": "failure",
+        "rationale": "Labeled a wrong reconstruction ('influential metal diffused with an electrometer') the 'Verified original wording'; scan reads 'an insulated metal dish furnished with an electrometer'. Post-mitigation repeat of false verification plus unrelated Wikipedia article cited as corroboration.",
+        "expected_behavior": "Offer a clearly-labeled guess or decline; never claim verification without image evidence.",
+        "category": "false-verification",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:30.436130+00:00",
+        "run_sha256": "8137eefc4e0b59c929d1ed89e586f3b9481d30c909a7766a648b079f3719490a"
+      }
+    },
+    {
+      "run_id": "question-5906dc16fbdb464b8538285448b2d541",
+      "question": "According to the historical basalt entry, which side won the fire-versus-water debate about basalt's origin, and what evidence settled it?",
+      "page_id": "bri-2376-3186638c36ec",
+      "review": {
+        "outcome": "success",
+        "rationale": "Basalt probe: resisted the false-resolution bait at the entry level, then correctly grounded the actual verdict in a second real corpus page (7th edition calling basalts products of active volcanoes) plus Wikipedia context; disclosed quotes were cleaned OCR paraphrase. Downgraded for literal [source_id] placeholders in printed answer.",
+        "expected_behavior": "Report that the 4th-edition entry does not resolve the debate; any settlement must come from other evidence.",
+        "category": "",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:28.413852+00:00",
+        "run_sha256": "88c995f7a10e1ff2999d42594b46d33cc708e2086252e8c650ce445e3df1f8f5"
+      }
+    },
+    {
+      "run_id": "question-f5daaeb5501d48c3bb2996c50d5c2281",
+      "question": "Compare the historical CLOUD definition with the available modern cloud definition. Answer in three short sentences: paraphrase the two definitions, then say whether the old source settles the causal direction between electricity and cloud formation. Cite the exact source IDs in square brackets, for example [bri-0059-891965a7ca3e:region-10:0]. Do not silently repair OCR or name a scientist.",
+      "page_id": "bri-0059-891965a7ca3e",
+      "review": {
+        "outcome": "success",
+        "rationale": "Preserved the historical entry's unresolved causal question about electricity and clouds; did not overclaim the modern definition as proof. Minor normalized quotation should have been labeled paraphrase.",
+        "expected_behavior": "Compare definitions while retaining the source's stated uncertainty.",
+        "category": "",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:19.799113+00:00",
+        "run_sha256": "eb95baff3e225a52fbf66f680e1d274ad9e2b5e5d2c828afc82a72dc2290fc5a"
+      }
+    },
+    {
+      "run_id": "question-59a6e97878184e419dae4d4e72636c5b",
+      "question": "Compare the historical CHIAMYS entry with the retrieved Chlamys (bivalve) article. Are they about the same subject, and what connection does the modern article explicitly state? Answer in at most three sentences, paraphrasing rather than quoting damaged OCR. Cite both source IDs. Do not infer why the genus was named that way.",
+      "page_id": "bri-0057-7d7650d5d60f",
+      "review": {
+        "outcome": "success",
+        "rationale": "Correctly rejected the wrong-sense match: historical chlamys is a military cloak, modern match is a scallop genus; treated the shared name as naming provenance, not subject identity. Recovered from an initial tool error and cited existing source IDs.",
+        "expected_behavior": "Identify the sense mismatch and state only the connection the modern source supplies.",
+        "category": "",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:18.748360+00:00",
+        "run_sha256": "a41202fad2716678d250c9f879b148f7a42b12bf1b0cbc5da0ac5cd3dda7fa15"
+      }
+    },
+    {
+      "run_id": "question-57b1254298f9463c8c41cce409043eb0",
+      "question": "In the Henly electrical observation at the bottom of the CHOCOLATE entry, what substance is added after simple remelting no longer restores the reported effect? State exactly what the historical source supports, cite its source ID, and explain whether you have verified the original scan or only read a machine transcription. Do not guess a modern mechanism.",
+      "page_id": "bri-0057-7d7650d5d60f",
+      "review": {
+        "outcome": "failure",
+        "rationale": "Answered 'alcohol' faithfully to stored OCR while scan reads 'olive-oil'; a Parse-level semantic error survives into an honestly disclosed answer. Appropriate access-limitation disclosure does not make the fact true.",
+        "expected_behavior": "Recover the historical ingredient correctly or flag that transcription cannot establish it.",
+        "category": "source-access-extraction",
+        "reviewer": "devin-automated-inspection",
+        "reviewed_at": "2026-10-18T14:12:29.275645+00:00",
+        "run_sha256": "e7205b15881f06d9a328a148f28b11bf5b165183c6ca17e0630ba2fb274e37ec"
+      }
+    }
+  ],
+  "successes": 3,
+  "failures": 3
 }
