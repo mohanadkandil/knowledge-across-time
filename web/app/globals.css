@@ -484,3 +484,12 @@
 
 /* exhibit hidden until a real lookup lands — no placeholder content */
 main.idle .exhibit-head, main.idle .stage, main.idle .rail, main.idle .deck, main.idle .specimen{display:none}
+
+/* fullscreen pipeline loader — blank room, numbered steps only */
+.loader{position:fixed;inset:0;z-index:400;background:#0d0b09;display:none;
+  align-items:center;justify-content:center}
+body.loading{overflow:hidden}
+body.loading .loader{display:flex}
+.loader-box{width:min(560px,88vw)}
+.loader-box #barBusy{display:flex;flex-direction:column;align-items:flex-start;gap:9px;margin:0;padding:0}
+.loader-box .busy-title{font-size:19px;margin-bottom:10px}

@@ -217,34 +217,38 @@ export default function Home() {
   }
   function fetchArt(d){
     var shots = (d.art || []).filter(function(s){ return s && s.prompt; }).slice(0, 4);
-    if (!shots.length) { barBusy.classList.remove('show'); return; }
+    if (!shots.length) return Promise.resolve();
     var artRow = document.createElement('div');
     artRow.className = 'ls run'; artRow.dataset.s = 'art';
     artRow.innerHTML = '<i></i><span>FLUX — drawing the plates</span><em></em>';
     barBusy.appendChild(artRow);
-    fetch('/api/art', {
+    return fetch('/api/art', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ prompts: shots })
     }).then(function(r){ return r.json(); }).then(function(res){
+      var pending = [];
       (res.art || []).forEach(function(a){
         if (!a.url) return;
+        var im = document.createElement('img');
+        im.alt = 'AI illustration — generated live';
+        pending.push(new Promise(function(ok){
+          im.addEventListener('load', ok); im.addEventListener('error', ok);
+        }));
         if (a.role === 'then' || a.role === 'now') {
           var idx = a.role === 'now' ? stageItems.length - 1 : 0;
-          var im = document.createElement('img');
           im.className = 'stage-item';
-          im.src = a.url; im.alt = 'AI illustration — generated live';
           var old = stageItems[idx];
           if (old) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
         } else {
-          var th = document.createElement('img');
-          th.src = a.url; th.className = 'art-thumb'; th.alt = 'AI illustration — generated live';
-          artStrip.appendChild(th);
+          im.className = 'art-thumb';
+          artStrip.appendChild(im);
         }
+        im.src = a.url;
       });
       artRow.classList.remove('run'); artRow.classList.add('done');
       artRow.querySelector('em').textContent = (res.art || []).filter(function(a){ return a.url; }).length + ' plates';
-      setTimeout(function(){ barBusy.classList.remove('show'); }, 1600);
-    }).catch(function(){ barBusy.classList.remove('show'); });
+      return Promise.race([Promise.all(pending), new Promise(function(ok){ setTimeout(ok, 20000); })]);
+    }).catch(function(){ /* plates render without art */ });
   }
   var LENS_STEPS = [
     ['start', 'Opening the archive'],
@@ -260,7 +264,7 @@ export default function Home() {
       + LENS_STEPS.slice(0, 6).map(function(s){
           return '<div class="ls" data-s="' + s[0] + '"><i></i><span>' + s[1] + '</span><em></em></div>';
         }).join('');
-    barBusy.classList.add('show');
+    document.body.classList.add('loading');
     var first = barBusy.querySelector('.ls'); if (first) first.classList.add('run');
   }
   function lensStep(name, detail){
@@ -304,8 +308,12 @@ export default function Home() {
                 lensStep('super_vl');
                 var key = 'live:' + topic;
                 LIVE[key] = liveTopic(ev.data);
-                loadTopic(key, true);
-                fetchArt(ev.data);
+                loadTopic(key, false);
+                fetchArt(ev.data).then(function(){
+                  document.body.classList.remove('loading');
+                  var eh = document.querySelector('.exhibit-head');
+                  if (eh) eh.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+                });
               }
             });
             return pump();
@@ -314,7 +322,7 @@ export default function Home() {
         return pump();
       })
       .catch(function(){
-        barBusy.classList.remove('show');
+        document.body.classList.remove('loading');
         urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
         barMiss.classList.add('show');
       });
@@ -401,6 +409,7 @@ export default function Home() {
   function focusAmount(w){ return (1 - w) * 3.2; }
 
   function render(){
+    if (!isFinite(pos)) pos = stopsPos[0] || 0;
     var year = Math.round(YEAR_MIN + pos * (YEAR_MAX - YEAR_MIN));
     lens.style.left = (pos * 100) + '%';
     fill.style.width = (pos * 100) + '%';
@@ -461,7 +470,7 @@ export default function Home() {
         pos = clamp(pos + vel * dt, 0, 1);
         if (pos === 0 || pos === 1) vel = 0;
         vel *= Math.pow(0.06, dt);
-      } else {
+      } else if (stopsPos.length) {
         var ns = stopsPos[nearestStop(pos)];
         var d = ns - pos;
         if (Math.abs(d) > 0.0004) pos += d * Math.min(1, dt * 7);
@@ -491,6 +500,13 @@ export default function Home() {
 
   return (
 <>
+{/* ============ fullscreen pipeline loader ============ */}
+<div className="loader" id="loader">
+  <div className="loader-box">
+    <div className="bar-miss show" id="barBusy"></div>
+  </div>
+</div>
+
 {/* ============ the cover ============ */}
 <div className="cover">
   <img className="cover-img" id="coverImg" src="/assets/hero.png" alt="" />
@@ -514,7 +530,6 @@ export default function Home() {
         </form>
         <span className="yrs">250 yrs of revisions</span>
       </div>
-      <div className="bar-miss" id="barBusy"><span>Reading the archive — Embed VL → LanceDB → Rerank VL → Super VL…</span></div>
       <div className="bar-miss" id="barMiss">
         <span>No reliable match came back — try one of these:</span>
         <button className="go" data-topic="basalt">Basalt</button>
