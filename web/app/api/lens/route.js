@@ -19,20 +19,30 @@ const EDITION_YEAR = [
 ];
 
 let _index = null;
-function loadIndex() {
+async function loadIndex(origin) {
   if (_index) return _index;
-  const dir = path.join(process.cwd(), 'app/data');
-  const meta = JSON.parse(fs.readFileSync(path.join(dir, 'index.json'), 'utf8'));
-  const bin = fs.readFileSync(path.join(dir, 'index.i8'));
-  const i8 = new Int8Array(bin.buffer, bin.byteOffset, bin.length);
+  const dir = path.join(process.cwd(), 'public/data');
+  let meta, bytes;
+  try {
+    meta = JSON.parse(fs.readFileSync(path.join(dir, 'index.json'), 'utf8'));
+    const bin = fs.readFileSync(path.join(dir, 'index.i8'));
+    bytes = new Uint8Array(bin.buffer, bin.byteOffset, bin.length);
+  } catch {
+    const [m, b] = await Promise.all([
+      fetch(`${origin}/data/index.json`).then((r) => r.json()),
+      fetch(`${origin}/data/index.i8`).then((r) => r.arrayBuffer()),
+    ]);
+    meta = m; bytes = new Uint8Array(b);
+  }
+  const i8 = new Int8Array(bytes.buffer, bytes.byteOffset, bytes.length);
   const vectors = [];
   for (let i = 0; i < meta.n; i++) vectors.push(i8.subarray(i * meta.dims, (i + 1) * meta.dims));
   _index = { meta, vectors };
   return _index;
 }
 
-function cosineTopK(qvec, k) {
-  const { meta, vectors } = loadIndex();
+async function cosineTopK(qvec, k, origin) {
+  const { meta, vectors } = await loadIndex(origin);
   const scores = new Float32Array(meta.n);
   for (let i = 0; i < meta.n; i++) {
     const v = vectors[i];
@@ -129,7 +139,8 @@ async function run(request, send) {
   t('embed', { model: EMBED_MODEL });
 
   // 3. LanceDB-exported evidence vectors — nearest Britannica regions only
-  const top = cosineTopK(qvec, 400);
+  const origin = new URL(request.url).origin;
+  const top = await cosineTopK(qvec, 400, origin);
   const perPage = new Map();
   for (const c of top) {
     if (!c.row.id.startsWith('bri-')) continue;

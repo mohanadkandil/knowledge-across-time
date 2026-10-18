@@ -1,8 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  outputFileTracingIncludes: {
-    '/api/lens': ['./app/data/**'],
-  },
-};
+const nextConfig = {};
 
 export default nextConfig;
