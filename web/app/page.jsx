@@ -1,0 +1,771 @@
+'use client';
+import { useEffect } from 'react';
+
+export default function Home() {
+  useEffect(() => {
+    if (window.__tlInit) return undefined;
+    window.__tlInit = true;
+(function(){
+  "use strict";
+  var YEAR_MIN = 1770, YEAR_MAX = 2025;
+
+  /* ================= exhibits — real indexed pages ================= */
+  var TOPICS = {
+    basalt: {
+      word: "Basalt", def: "the rock geology fought a war over",
+      titleSub: "a rock, probably — an argument, certainly.",
+      wikiPath: "wikipedia.org/wiki/Basalt",
+      start: 1,
+      stops: [
+        {
+          year: 1795, label: "the war", status: "Disputed — water vs. fire", cls: "contested",
+          edition: "The field, mid-argument",
+          capKind: "AI engraving", cap: "how the fight was pictured",
+          img: "/assets/war.png", alt: "Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>The great geology war</h3>'
+            + '<p class="lede2">When the encyclopedia reached BASALT, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>'
+            + '<div class="versus">'
+            + '<div class="side water"><div class="flag">Neptunists · water</div><h4>Abraham Gottlob Werner</h4><p>From Freiberg, Werner taught that every rock — basalt included — had precipitated out of a universal ocean.</p></div>'
+            + '<div class="side fire"><div class="flag">Vulcanists · fire</div><h4>James Hutton</h4><p>Hutton argued basalt\u2019s veins and columns were injected molten into older strata — born of the Earth\u2019s own heat.</p></div>'
+            + '</div>'
+        },
+        {
+          year: 1810, label: "the record", status: "Disputed — on the record", cls: "record",
+          edition: "Britannica, Fourth Edition",
+          capKind: "Original scan", cap: "the actual fourth-edition page",
+          img: "/assets/record.jpg", alt: "Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy",
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>An encyclopedia hedges</h3>'
+            + '<blockquote class="quote">\u201cNo subject in geological speculation has produced more controversy than the origin of basalt; one party asserting that it is the effect of <em>fire</em>, another that it has been deposited from an <em>aqueous solution</em>. <span class="hedge">Our limits preclude us even from literally stating the arguments\u2026\u201d</span></blockquote>'
+            + '<p>What the page could report was experiment:</p>'
+            + '<div class="chips">'
+            + '<span class="chip">blowpipe \u2192 <b>an opaque black glass</b></span>'
+            + '<span class="chip"><b>affects the magnetic needle</b> — \u201cthe great proportion of iron\u201d</span>'
+            + '<span class="chip">a <b>ringing sound</b> under the hammer</span>'
+            + '<span class="chip"><b>regular columns</b> at Staffa &amp; the Giant\u2019s Causeway</span>'
+            + '</div>'
+            + '<p class="smallprint">quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged · bri-2376-3186638c36ec</p>'
+        },
+        {
+          year: 1835, label: "the verdict", status: "Verdict — in fact volcanic", cls: "record",
+          edition: "Britannica, Seventh Edition",
+          capKind: "AI engraving", cap: "the verdict, as they came to see it",
+          img: "/assets/verdict.png", alt: "Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow",
+          html: '<span class="plate-no">plate iii.</span>'
+            + '<h3>The same book <em>changes its mind</em></h3>'
+            + '<p class="lede2">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>\u201clater than the chalk\u201d</em> — and says what the fourth could not:</p>'
+            + '<blockquote class="quote">Basalts \u201cidentical with <em>products of active volcanoes</em>\u201d — the action \u201cof the same kind as that exerted by an active volcano.\u201d <span class="hedge">It was, in fact, volcanic.</span></blockquote>'
+            + '<p>The controversy was not settled by an argument. It was settled in print, edition by edition, by the same encyclopedia that once refused to pick a side.</p>'
+            + '<p class="smallprint">quotation lightly cleaned from machine OCR of the scanned seventh-edition page · bri-0966-64586d30c5c9</p>'
+        },
+        {
+          year: 2025, label: "today", status: "Settled — igneous", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "AI photograph", cap: "the settled view",
+          img: "/assets/today.png", alt: "AI-generated photoreal Giant's Causeway at golden hour",
+          html: '<span class="plate-no">plate iv.</span>'
+            + '<h3>Settled: <em>fire won.</em></h3>'
+            + '<p class="lede2">\u201cBasalt is a common igneous rock.\u201d</p>'
+            + '<p>Lava that crystallized too fast for its grains to be seen — an <em>aphanitic</em> texture, in the modern vocabulary. The columns the fourth edition could only describe are now understood as cooling joints, and the rock the Neptunists owed to the ocean floors the ocean itself.</p>'
+            + '<div class="chips">'
+            + '<span class="chip hot"><b>cooled lava</b> — the Vulcanists were right</span>'
+            + '<span class="chip"><b>aphanitic</b> — crystals too fine to see unaided</span>'
+            + '<span class="chip"><b>columnar jointing</b> — Giant\u2019s Causeway</span>'
+            + '<span class="chip">the <b>ocean floor</b> is mostly basalt</span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    electricity: {
+      word: "Electricity", def: "a fluid they could not weigh",
+      titleSub: "the invisible substance that became a swarm of particles.",
+      wikiPath: "wikipedia.org/wiki/Fluid_theory_of_electricity",
+      start: 0,
+      stops: [
+        {
+          year: 1797, label: "then", status: "Fluid theory — held", cls: "record",
+          edition: "Britannica, Suppl. to the 3rd ed.",
+          capKind: "Original scan", cap: "the actual supplement page",
+          img: "/assets/scan-1776.jpg", alt: "Original scanned page: Britannica supplement electricity entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>One fluid, or two?</h3>'
+            + '<blockquote class="quote">\u201c\u2026the distribution of the <em>electric fluid</em> in bodies, in various circumstances.\u201d <span class="hedge">— an invisible substance, present in excess or deficit, that a body could have too much of.</span></blockquote>'
+            + '<p>The supplement gives the period\u2019s experimental furniture in detail — glass globes, rubbed silk, points, sparks, an electrical chain — and the fluid standing in for mechanism.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>electric fluid</b> — a substance, not a motion</span>'
+            + '<span class="chip">points, sparks, the <b>electrical chain</b></span>'
+            + '<span class="chip">Beccaria, Franklin, du Fay — the period\u2019s witnesses</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-1776-5ed864a29d36 · no electrons on this page — the electron is not named until 1891</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Superseded — archived", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the superseded model, on file",
+          plate: { title: "Fluid theory of electricity", sub: "wikipedia · superseded model" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>From fluid to <em>electron</em></h3>'
+            + '<p class="lede2">Today the fluid has its own museum: an article on the <em>fluid theory of electricity</em> itself.</p>'
+            + '<p>Du Fay\u2019s vitreous and resinous fluids, Franklin\u2019s single fluid — catalogued as the conceptual scaffolding that held the experiments until the electron arrived, and was then quietly taken down. The observation was right; the substance was not.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>du Fay</b> — vitreous &amp; resinous, two fluids</span>'
+            + '<span class="chip"><b>Franklin</b> — one fluid, + and \u2212</span>'
+            + '<span class="chip"><b>1891</b> — the electron gets a name</span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    cloud: {
+      word: "Cloud", def: "vapour, and a question left open",
+      titleSub: "they measured the electricity — and still asked which caused which.",
+      wikiPath: "wikipedia.org/wiki/Cloud",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "Open question — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "/assets/scan-59.jpg", alt: "Original scanned page: Britannica sixth edition CLOUD entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>Vapour — and a question the page leaves open</h3>'
+            + '<blockquote class="quote">\u201ca collection of <em>vapours</em> suspended in the atmosphere.\u201d <span class="hedge">Beccaria\u2019s rods draw electricity from passing clouds — but \u201cwhether electricity is the cause or the effect hath not yet been ascertained.\u201d</span></blockquote>'
+            + '<p>The entry reports the experiment and refuses the mechanism. Two hundred years of instrumentation later, that refusal reads less like ignorance than good method.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>Beccaria\u2019s rods</b> — not \u201cBecquerel\u201d, as the model later wrote</span>'
+            + '<span class="chip">electricity: <b>cause, or effect?</b></span>'
+            + '<span class="chip">\u201chath not yet been ascertained\u201d</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0059-891965a7ca3e · this page produced the Becquerel anachronism in the incident table below</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Settled definition — old question kept", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the modern definition",
+          plate: { title: "Cloud", sub: "wikipedia · live revision" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>Droplets, not <em>vapour</em></h3>'
+            + '<p class="lede2">\u201cA visible mass of condensed droplets or frozen crystals.\u201d</p>'
+            + '<p>The definition moved from vapour to condensate. And the old question survived in modern dress: cloud electrification and charge separation are still active research — the encyclopedia no longer prints \u201chath not yet been ascertained,\u201d but the ascertainment is genuinely unfinished.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>condensed droplets</b> — not suspended vapour</span>'
+            + '<span class="chip"><b>charge separation</b> — still researched</span>'
+            + '<span class="chip">the open question <b>outlived the edition</b></span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    chlamys: {
+      word: "Chlamys", def: "a cloak that became a scallop",
+      titleSub: "the same word, filed under a different world.",
+      wikiPath: "wikipedia.org/wiki/Chlamys_(bivalve)",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "A garment — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHLAMYS entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>An item of <em>clothing</em></h3>'
+            + '<blockquote class="quote">\u201ca <em>military cloak</em>, worn over the tunic \u2026 those of the emperors were <em>purple, and bordered with gold</em>.\u201d</blockquote>'
+            + '<p>To the sixth edition, chlamys is a thing you wear — Greek, martial, dyed in status.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>cloak</b> — worn over the tunic</span>'
+            + '<span class="chip">emperors\u2019 versions: <b>purple, gold-bordered</b></span>'
+            + '<span class="chip">same page as CHOCOLATE — literally</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0057-7d7650d5d60f · the scan carries CHLAMYS and CHOCOLATE on a single page</p>'
+        },
+        {
+          year: 2025, label: "now", status: "Diverged — same name, different subject", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the living chlamys",
+          plate: { title: "Chlamys (bivalve)", sub: "wikipedia · genus of scallops" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>A <em>shell</em> that wears the cloak\u2019s name</h3>'
+            + '<p class="lede2">Today Wikipedia opens on a genus of small scallops.</p>'
+            + '<p>The redirect is not a mistake — the scallop was named for the Greek cloak. But a matcher that stops at the headword marries a shell to a garment: <em>a matching name is not the same subject.</em> This is the wrong-sense failure class the whole pipeline is built to catch.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>genus of scallops</b> — named after the cloak</span>'
+            + '<span class="chip hot"><b>headword match ≠ subject match</b></span>'
+            + '</div>'
+        }
+      ]
+    },
+
+    chocolate: {
+      word: "Chocolate", def: "a medicine, briefly electrical",
+      titleSub: "before it was dessert, it was an experiment.",
+      wikiPath: "wikipedia.org/wiki/Chocolate",
+      start: 0,
+      stops: [
+        {
+          year: 1823, label: "then", status: "Remedy & curiosity — on the record", cls: "record",
+          edition: "Britannica, Sixth Edition",
+          capKind: "Original scan", cap: "the actual sixth-edition page",
+          img: "/assets/scan-57.jpg", alt: "Original scanned page: Britannica sixth edition CHOCOLATE entry",
+          html: '<span class="plate-no">plate i.</span>'
+            + '<h3>A paste, a cake — <em>and a glass of oil</em></h3>'
+            + '<p class="lede2">The sixth edition knows chocolate as a prepared paste of cacao — and preserves one forgotten experiment.</p>'
+            + '<blockquote class="quote">Mr. Heily electrifies a chocolate compound; the effect dies unless the mixture holds <em>\u201ca small quantity of olive-oil.\u201d</em></blockquote>'
+            + '<p>Nobody printed that experiment again. The OCR later turned the olive-oil into <em>alcohol</em> — and an agent, quoting the transcription faithfully, repeated it. The correct reading only exists on the scan.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>olive-oil</b> — what the scan says</span>'
+            + '<span class="chip hot"><b>alcohol</b> — what the OCR, then the agent, said</span>'
+            + '<span class="chip"><b>Mr. Heily</b> — the era\u2019s experimenters, preserved</span>'
+            + '</div>'
+            + '<p class="smallprint">bri-0057-7d7650d5d60f · this page produced the \u201cscan-false\u201d incident below</p>'
+        },
+        {
+          year: 2025, label: "now", status: "A food — the experiment forgotten", cls: "settled",
+          edition: "Wikipedia, live revision",
+          capKind: "Plate", cap: "the modern article",
+          plate: { title: "Chocolate", sub: "wikipedia · live revision" },
+          html: '<span class="plate-no">plate ii.</span>'
+            + '<h3>From the pharmacopeia to the <em>snack aisle</em></h3>'
+            + '<p class="lede2">\u201cA food product made from roasted and ground cacao seed kernels.\u201d</p>'
+            + '<p>The modern article is longer, better cited, and correct — and contains no trace of the electrification experiment. Knowledge does not only accumulate; it <em>sheds</em>. Whether that shedding is loss or cleanup is exactly what the lens is for.</p>'
+            + '<div class="chips">'
+            + '<span class="chip"><b>Theobroma cacao</b> — the modern framing</span>'
+            + '<span class="chip">the electrical experiment: <b>not retained</b></span>'
+            + '<span class="chip"><b>shedding</b> — the third kind of change, after error and revision</span>'
+            + '</div>'
+        }
+      ]
+    }
+  };
+
+  /* ================= dom ================= */
+  var track    = document.getElementById('railTrack');
+  var fill     = document.getElementById('railFill');
+  var lens     = document.getElementById('lens');
+  var lensYear = document.getElementById('lensYear');
+  var yearOut  = document.getElementById('yearReadout');
+  var editionEl= document.getElementById('editionLabel');
+  var pill     = document.getElementById('statusPill');
+  var pillText = document.getElementById('statusText');
+  var deck     = document.getElementById('deck');
+  var stage    = document.getElementById('stage');
+  var stageCapKind = document.getElementById('stageCapKind');
+  var stageCapText = document.getElementById('stageCapText');
+  var entryName= document.getElementById('entryName');
+  var entryDef = document.getElementById('entryDef');
+  var titleWord= document.getElementById('titleWord');
+  var titleSub = document.getElementById('titleSub');
+  var wipeEl   = document.getElementById('wipe');
+  var urlForm  = document.getElementById('urlForm');
+  var urlInput = document.getElementById('urlInput');
+  var urlBar   = document.getElementById('urlBar');
+  var barMiss  = document.getElementById('barMiss');
+
+  var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ================= state ================= */
+  var STOPS = [], stopsPos = [], panels = [], stageItems = [], stopEls = [];
+  var pos = 0, target = 0, vel = 0;
+  var dragging = false;
+  var tweening = false, twFrom = 0, twTo = 0, twStart = 0, twDur = 0;
+  var lastT = performance.now();
+  var lastYearShown = -1, lastStopIdx = -1;
+
+  function clamp(v, a, b){ return v < a ? a : v > b ? b : v; }
+  function smooth(t){ return t * t * (3 - 2 * t); }
+  function easeOut(t){ return 1 - Math.pow(1 - t, 3); }
+
+  /* ================= build rail ticks (once) ================= */
+  var MAJORS = [1770, 1800, 1850, 1900, 1950, 2000];
+  for (var y = 1770; y <= 2020; y += 10) {
+    var t = document.createElement('span');
+    var major = MAJORS.indexOf(y) !== -1;
+    t.className = 'tick' + (major ? ' major' : '');
+    t.style.left = ((y - YEAR_MIN) / (YEAR_MAX - YEAR_MIN) * 100) + '%';
+    track.insertBefore(t, lens);
+    if (major) {
+      var tl = document.createElement('span');
+      tl.className = 'tick-label' + ((y === 1770 || y === 2000) ? '' : ' hide-sm');
+      tl.style.left = t.style.left;
+      tl.textContent = y;
+      track.insertBefore(tl, lens);
+    }
+  }
+
+  /* ================= topic loading ================= */
+  function loadTopic(key, scroll){
+    var T = TOPICS[key]; if (!T) return;
+    barMiss.classList.remove('show');
+    urlInput.value = T.wikiPath;
+
+    entryName.innerHTML = T.word + '.<span class="def" id="entryDef">' + T.def + '</span>';
+    titleSub.textContent = '— the lens, applied to ' + T.word.toLowerCase() + '.';
+
+    STOPS = T.stops;
+    stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
+
+    /* rebuild stop buttons */
+    stopEls.forEach(function(el){ el.remove(); });
+    stopEls = STOPS.map(function(s, i){
+      var el = document.createElement('button');
+      el.type = 'button';
+      el.className = 'stop' + (s.cls === 'settled' ? ' settled' : '');
+      el.style.left = (stopsPos[i] * 100) + '%';
+      el.setAttribute('aria-label', 'Jump to ' + s.year + ' — ' + s.label);
+      el.innerHTML = '<span class="slabel">' + s.label + '</span><i></i>';
+      el.addEventListener('click', function(){ goTo(i); });
+      track.insertBefore(el, lens);
+      return el;
+    });
+
+    /* rebuild stage items (keep frame marks + cap) */
+    stageItems.forEach(function(n){ n.remove(); });
+    stageItems = STOPS.map(function(s){
+      var el;
+      if (s.img) {
+        el = document.createElement('img');
+        el.className = 'stage-item' + (s.img.indexOf('scan') !== -1 || s.img.indexOf('record') !== -1 ? ' scan' : '');
+        el.src = s.img; el.alt = s.alt || '';
+        el.addEventListener('error', function(){
+          el.dataset.broken = '1'; el.style.opacity = 0; el.style.display = 'none';
+          if (stageItems.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
+        });
+        if (el.complete && el.naturalWidth === 0) { el.dataset.broken = '1'; }
+      } else {
+        el = document.createElement('div');
+        el.className = 'stage-item plate-item';
+        el.innerHTML = '<div class="ptitle">' + (s.plate && s.plate.title || '') + '</div>'
+                     + '<div class="psub">' + (s.plate && s.plate.sub || '') + '</div>';
+      }
+      stage.insertBefore(el, stage.querySelector('.cap'));
+      return el;
+    });
+    if (stageItems.length && stageItems.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
+    else stage.style.display = '';
+
+    /* rebuild panels */
+    deck.innerHTML = '';
+    panels = STOPS.map(function(s){
+      var p = document.createElement('article');
+      p.className = 'panel';
+      p.innerHTML = s.html;
+      deck.appendChild(p);
+      return p;
+    });
+
+    lastStopIdx = -1;
+    var s0 = T.start || 0;
+    pos = stopsPos[s0]; target = pos; vel = 0; tweening = false;
+    if (scroll) {
+      document.querySelector('.exhibit-head').scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
+    }
+  }
+
+  /* ================= url routing ================= */
+  function resolveInput(v){
+    var s = v.trim().toLowerCase();
+    if (!s) return null;
+    s = s.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
+    var m = s.match(/wiki\/(.+)/);
+    var slug = (m ? m[1] : s.split('/').pop()).replace(/_/g, ' ').replace(/%20/g, ' ');
+    slug = decodeURIComponent(slug).replace(/\(.*?\)/g, '').trim();
+    for (var k in TOPICS) {
+      if (TOPICS.hasOwnProperty(k) && (slug.indexOf(k) !== -1 || TOPICS[k].word.toLowerCase().indexOf(slug) !== -1)) return k;
+    }
+    if (slug.indexOf('fluid') !== -1 || slug.indexOf('electric') !== -1) return 'electricity';
+    if (slug.indexOf('bivalve') !== -1 || slug.indexOf('scallop') !== -1) return 'chlamys';
+    return null;
+  }
+  urlForm.addEventListener('submit', function(e){
+    e.preventDefault();
+    var k = resolveInput(urlInput.value);
+    if (k) { loadTopic(k, true); }
+    else {
+      urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
+      barMiss.classList.add('show');
+    }
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('.bar-miss .go'), function(b){
+    b.addEventListener('click', function(){ loadTopic(b.dataset.topic, true); });
+  });
+  Array.prototype.forEach.call(document.querySelectorAll('.lrow[data-topic]'), function(a){
+    a.addEventListener('click', function(e){ e.preventDefault(); loadTopic(a.dataset.topic, true); });
+  });
+  try {
+    var qp = new URLSearchParams(location.search).get('wiki') || new URLSearchParams(location.search).get('q');
+    var pk = qp && resolveInput(qp);
+    var hk = location.hash.replace('#','').toLowerCase();
+    if (pk) loadTopic(pk, false);
+    else if (hk && TOPICS[hk]) loadTopic(hk, false);
+    else loadTopic('basalt', false);
+  } catch(e) { loadTopic('basalt', false); }
+
+  /* ================= motion ================= */
+  function posFromEvent(e){
+    var r = track.getBoundingClientRect();
+    return clamp((e.clientX - r.left) / r.width, 0, 1);
+  }
+  function nearestStop(p){
+    var best = 0, bd = Infinity;
+    for (var i = 0; i < stopsPos.length; i++) {
+      var d = Math.abs(stopsPos[i] - p);
+      if (d < bd) { bd = d; best = i; }
+    }
+    return best;
+  }
+  function goTo(i){
+    tweening = true; twFrom = pos; twTo = stopsPos[i];
+    twStart = performance.now(); twDur = reduced ? 0 : 520;
+    vel = 0;
+  }
+
+  var lastX = 0, lastMoveT = 0;
+  lens.addEventListener('pointerdown', function(e){
+    dragging = true; tweening = false; vel = 0;
+    lens.setPointerCapture(e.pointerId);
+    lastX = e.clientX; lastMoveT = performance.now();
+    e.preventDefault();
+  });
+  track.addEventListener('pointerdown', function(e){
+    if (e.target === lens || lens.contains(e.target)) return;
+    if (e.target.closest && e.target.closest('.stop')) return;
+    dragging = true; tweening = false; vel = 0;
+    target = posFromEvent(e);
+    lastX = e.clientX; lastMoveT = performance.now();
+    lens.setPointerCapture(e.pointerId);
+    e.preventDefault();
+  });
+  window.addEventListener('pointermove', function(e){
+    if (!dragging) return;
+    var now = performance.now();
+    var r = track.getBoundingClientRect();
+    var newTarget = clamp((e.clientX - r.left) / r.width, 0, 1);
+    var dt = (now - lastMoveT) / 1000;
+    if (dt > 0.005) {
+      vel = vel * 0.5 + ((newTarget - target) / dt) * 0.5;
+      lastMoveT = now;
+    }
+    target = newTarget;
+    lastX = e.clientX;
+  });
+  window.addEventListener('pointerup', function(){
+    if (!dragging) return;
+    dragging = false;
+    vel = clamp(vel, -1.6, 1.6);
+  });
+
+  lens.addEventListener('keydown', function(e){
+    var i = nearestStop(pos);
+    if (e.key === 'ArrowRight' || e.key === 'ArrowUp')   { goTo(Math.min(i + 1, STOPS.length - 1)); e.preventDefault(); }
+    if (e.key === 'ArrowLeft'  || e.key === 'ArrowDown') { goTo(Math.max(i - 1, 0)); e.preventDefault(); }
+    if (e.key === 'Home') { goTo(0); e.preventDefault(); }
+    if (e.key === 'End')  { goTo(STOPS.length - 1); e.preventDefault(); }
+  });
+
+  function focusAmount(w){ return (1 - w) * 3.2; }
+
+  function render(){
+    var year = Math.round(YEAR_MIN + pos * (YEAR_MAX - YEAR_MIN));
+    lens.style.left = (pos * 100) + '%';
+    fill.style.width = (pos * 100) + '%';
+    if (year !== lastYearShown) {
+      lastYearShown = year;
+      lensYear.textContent = year;
+      yearOut.textContent = year;
+      lens.setAttribute('aria-valuenow', year);
+    }
+    var ni = nearestStop(pos);
+    if (ni !== lastStopIdx) {
+      lastStopIdx = ni;
+      var s = STOPS[ni];
+      pillText.textContent = s.status;
+      editionEl.textContent = s.edition;
+      pill.className = 'status ' + s.cls;
+      lens.setAttribute('aria-valuetext', year + ' — ' + s.edition);
+      stageCapKind.textContent = s.capKind;
+      stageCapKind.style.color = s.capKind === 'AI photograph' || s.capKind === 'AI engraving' ? '#cf5a30' : '#7fa08b';
+      stageCapText.textContent = s.cap;
+    }
+    stopEls.forEach(function(el, i){ el.classList.toggle('active', i === ni); });
+
+    for (var i = 0; i < panels.length; i++) {
+      var w = 0;
+      if (pos <= stopsPos[i] && i === 0) w = pos <= stopsPos[0] ? 1 : 0;
+      if (i > 0 && pos <= stopsPos[i] && pos >= stopsPos[i - 1]) {
+        w = smooth((pos - stopsPos[i - 1]) / (stopsPos[i] - stopsPos[i - 1]));
+      }
+      if (i < panels.length - 1 && pos >= stopsPos[i] && pos <= stopsPos[i + 1]) {
+        w = 1 - smooth((pos - stopsPos[i]) / (stopsPos[i + 1] - stopsPos[i]));
+      }
+      if (i === panels.length - 1 && pos >= stopsPos[i]) w = 1;
+      w = clamp(w, 0, 1);
+      var p = panels[i];
+      p.style.opacity = w;
+      p.style.transform = 'translateY(' + ((1 - w) * 12) + 'px)';
+      p.classList.toggle('front', w > 0.6);
+      p.style.visibility = w < 0.02 ? 'hidden' : 'visible';
+      if (stageItems[i] && !stageItems[i].dataset.broken) {
+        stageItems[i].style.opacity = w;
+        stageItems[i].style.filter = 'blur(' + focusAmount(w).toFixed(2) + 'px) brightness(' + (0.82 + w * 0.18).toFixed(3) + ')';
+      }
+    }
+  }
+
+  function frame(now){
+    var dt = Math.min((now - lastT) / 1000, 0.05);
+    lastT = now;
+    if (tweening) {
+      var k = twDur === 0 ? 1 : clamp((now - twStart) / twDur, 0, 1);
+      pos = twFrom + (twTo - twFrom) * easeOut(k);
+      if (k >= 1) { tweening = false; pos = twTo; }
+    } else if (dragging) {
+      pos += (target - pos) * (reduced ? 1 : Math.min(1, dt * 18));
+    } else {
+      if (Math.abs(vel) > 0.02) {
+        pos = clamp(pos + vel * dt, 0, 1);
+        if (pos === 0 || pos === 1) vel = 0;
+        vel *= Math.pow(0.06, dt);
+      } else {
+        var ns = stopsPos[nearestStop(pos)];
+        var d = ns - pos;
+        if (Math.abs(d) > 0.0004) pos += d * Math.min(1, dt * 7);
+        else pos = ns;
+      }
+    }
+    render();
+    requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+
+  /* ================= before/after wipe ================= */
+  if (wipeEl) {
+    var wipeImgs = Array.prototype.slice.call(wipeEl.querySelectorAll('img'));
+    var wipeBroken = 0;
+    wipeImgs.forEach(function(im){
+      var broke = function(){ wipeBroken++; if (wipeBroken >= wipeImgs.length) wipeEl.style.display = 'none'; };
+      if (im.complete && im.naturalWidth === 0) broke();
+      im.addEventListener('error', broke);
+    });
+    var wipeDrag = false;
+    var setCut = function(p){ wipeEl.style.setProperty('--cut', (clamp(p,0,1) * 100) + '%'); };
+    var wipeMove = function(e){
+      var r = wipeEl.getBoundingClientRect();
+      setCut((e.clientX - r.left) / r.width);
+    };
+    wipeEl.addEventListener('pointerdown', function(e){
+      wipeDrag = true; wipeEl.setPointerCapture(e.pointerId);
+      wipeMove(e); e.preventDefault();
+    });
+    window.addEventListener('pointermove', function(e){ if (wipeDrag) wipeMove(e); });
+    window.addEventListener('pointerup', function(){ wipeDrag = false; });
+    setCut(0.5);
+  }
+
+  /* ================= scroll reveal ================= */
+  var revealEls = document.querySelectorAll('.reveal');
+  if ('IntersectionObserver' in window && !reduced) {
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(en){
+        if (en.isIntersecting) { en.target.classList.add('in'); io.unobserve(en.target); }
+      });
+    }, { threshold: 0.12 });
+    revealEls.forEach(function(el){ io.observe(el); });
+  } else {
+    revealEls.forEach(function(el){ el.classList.add('in'); });
+  }
+})();
+    return undefined;
+  }, []);
+
+  return (
+<div className="wrap">
+
+  {/* the lit bar */}
+  <div className="barzone">
+    <div className="bar" id="urlBar">
+      <span className="dots" aria-hidden="true"><i></i><i></i><i></i></span>
+      <form className="url" id="urlForm" autocomplete="off" spellCheck="false">
+        <span className="mag" aria-hidden="true">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.4} strokeLinecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.6 15.6 21 21"/></svg>
+        </span>
+        <label className="field" htmlFor="urlInput">
+          <span className="dom">timelens.to/</span><input className="path" id="urlInput" defaultValue="wikipedia.org/wiki/Basalt" aria-label="Wikipedia URL or topic" />
+        </label>
+      </form>
+      <span className="yrs">250 yrs of revisions</span>
+    </div>
+    <div className="bar-miss" id="barMiss">
+      <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
+      <button className="go" data-topic="basalt">Basalt</button>
+      <button className="go" data-topic="electricity">Electricity</button>
+      <button className="go" data-topic="cloud">Cloud</button>
+      <button className="go" data-topic="chlamys">Chlamys</button>
+      <button className="go" data-topic="chocolate">Chocolate</button>
+    </div>
+  </div>
+
+  {/* masthead */}
+  <header className="masthead">
+    <div className="rule reveal"><span>TimeLens</span></div>
+    <h1 className="title reveal" id="titleWord">Pull history<br />into focus.
+      <span className="sub" id="titleSub">— the lens, applied to basalt.</span>
+    </h1>
+    <p className="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> and watch the topic resolve across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
+  </header>
+
+  {/* exhibit */}
+  <main>
+    <div className="exhibit-head">
+      <div className="entry reveal" id="entryName">Basalt.
+        <span className="def" id="entryDef">the rock geology fought a war over</span>
+      </div>
+      <div className="yearbox reveal">
+        <div className="year" id="yearReadout">1810</div>
+        <div className="edition" id="editionLabel">Britannica, Fourth Edition</div>
+        <span className="status record" id="statusPill"><span className="dot"></span><span id="statusText">Disputed — on the record</span></span>
+      </div>
+    </div>
+
+    {/* the object under the lens */}
+    <div className="stage reveal" id="stage" aria-hidden="true">
+      <span className="frame-mark fm-tl"></span><span className="frame-mark fm-tr"></span>
+      <span className="frame-mark fm-bl"></span><span className="frame-mark fm-br"></span>
+      <span className="cap"><b id="stageCapKind">AI engraving</b><span className="sep">·</span><span id="stageCapText">how the fight was pictured</span></span>
+    </div>
+
+    {/* instrument rail */}
+    <div className="rail reveal" id="timeline">
+      <div className="rail-track" id="railTrack">
+        <div className="rail-line"></div>
+        <div className="rail-fill" id="railFill"></div>
+        <div className="lens" id="lens" role="slider" tabIndex="0"
+             aria-label="Timeline year" aria-valuemin="1770" aria-valuemax="2025" aria-valuenow="1810"
+             aria-valuetext="1810 — Britannica, Fourth Edition">
+          <span className="ret" aria-hidden="true"></span>
+          <span className="lyr" id="lensYear">1810</span>
+        </div>
+      </div>
+      <div className="rail-hint">drag the lens through 250 years — <kbd>←</kbd> <kbd>→</kbd> to step between editions</div>
+    </div>
+
+    {/* era plates */}
+    <div className="deck" id="deck"></div>
+
+    {/* ledger of exhibits */}
+    <section className="block">
+      <div className="sec-head reveal">
+        <h2>The same lens, <em>turned elsewhere.</em></h2>
+        <p className="margin-note note">— every claim pinned to a real source region; tap a row to pull it under the lens.</p>
+      </div>
+      <div className="ledger reveal" id="ledger">
+        <a className="lrow" href="#" data-topic="electricity">
+          <div className="word">Electricity<span>Suppl. 3rd ed. → Wikipedia</span></div>
+          <div className="col"><span className="t">then</span><p>“the distribution of the <i>electric fluid</i> in bodies” — an invisible substance, present in excess or deficit.</p></div>
+          <div className="col now"><span className="t">now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p>
+            <span className="arrow">under the lens →</span></div>
+        </a>
+        <a className="lrow" href="#" data-topic="cloud">
+          <div className="word">Cloud<span>Sixth ed. → Wikipedia</span></div>
+          <div className="col"><span className="t">then</span><p>“a collection of <i>vapours</i> suspended in the atmosphere” — and an open question: electrified before, or after, they form?</p></div>
+          <div className="col now"><span className="t">now</span><p>“a visible mass of <i>condensed droplets or frozen crystals</i>” — the definition settled; the old “hath not yet been ascertained” survived with it.</p>
+            <span className="arrow">under the lens →</span></div>
+        </a>
+        <a className="lrow" href="#" data-topic="chlamys">
+          <div className="word">Chlamys<span>Sixth ed. → Wikipedia</span></div>
+          <div className="col"><span className="t">then</span><p>a <i>military cloak</i> worn over the tunic — the emperors' were purple, bordered in gold.</p></div>
+          <div className="col now"><span className="t">now</span><p>a <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak. A matching name is not the same subject.</p>
+            <span className="arrow">under the lens →</span></div>
+        </a>
+        <a className="lrow" href="#" data-topic="chocolate">
+          <div className="word">Chocolate<span>Sixth ed. → Wikipedia</span></div>
+          <div className="col"><span className="t">then</span><p>a medicinal <i>paste</i> of cacao — and a forgotten experiment on its <i>electrical properties</i>.</p></div>
+          <div className="col now"><span className="t">now</span><p>a <i>food product</i> made from roasted Theobroma cacao seeds — the experiment no longer part of the story.</p>
+            <span className="arrow">under the lens →</span></div>
+        </a>
+      </div>
+    </section>
+
+    {/* heat: the wipe */}
+    <section className="block">
+      <div className="sec-head reveal">
+        <h2>Heat: <em>fluid, then motion.</em></h2>
+        <p className="margin-note note">— the experiment that killed the caloric theory; drag the seam.</p>
+      </div>
+      <div className="wipe reveal" id="wipe">
+        <img className="before" src="/assets/rumford-then.png" alt="AI engraving of the 1798 Munich cannon-boring workshop" />
+        <img className="after" src="/assets/rumford-now.png" alt="AI illustration of vibrating copper atoms radiating heat at the boring interface" />
+        <div className="cut-line"></div>
+        <div className="cut-knob" aria-hidden="true">‹ ›</div>
+        <span className="wipe-tag tag-then">1798 · caloric — a fluid</span>
+        <span className="wipe-tag tag-now">today · kinetic — motion</span>
+      </div>
+      <p className="smallprint reveal" style={{marginTop: 18}}>Both images are FLUX illustrations generated for this exhibit — the engraving is not an archival print. In 1798 Benjamin Thompson — Count Rumford — bored cannon at the Munich arsenal and watched the heat come without limit: what a body can furnish inexhaustibly, he argued, cannot be a substance — “except it be MOTION.” Paper: “An Inquiry Concerning the Source of the Heat which is Excited by Friction,” Philosophical Transactions. Expandable-timeline concept follows Suh et al., “KnowledgeTrail,” arXiv:2510.12113.</p>
+    </section>
+
+    {/* incident table */}
+    <section className="block">
+      <div className="sec-head reveal">
+        <h2>Caught <em>in the act.</em></h2>
+        <p className="margin-note note">— we pointed Nemotron at Nemotron. Real run traces, nothing edited.</p>
+      </div>
+      <div className="inctable reveal">
+        <div className="inc">
+          <div className="kind">anachronism</div>
+          <div>
+            <h4>The nearest famous name</h4>
+            <p className="body">In the historical CLOUD entry the scan names <b>S.&nbsp;Beccaria</b>. The OCR garbled it to “S.&nbsp;Bec-certa” — and the agent wrote <b>S.&nbsp;Becquerel</b>, a physicist who would not be born until 1852, into its answer and into an edited quotation. The machine did what the encyclopedists did: filled damaged evidence with the nearest plausible story.</p>
+          </div>
+          <div className="evi">
+            <div className="row"><span className="k">scan</span><span className="v-right">S. Beccaria</span></div>
+            <div className="row"><span className="k">ocr</span><span>“S. Bec-certa”</span></div>
+            <div className="row"><span className="k">agent</span><span className="v-wrong">S. Becquerel (b. 1852)</span></div>
+          </div>
+        </div>
+        <div className="inc">
+          <div className="kind">scan-false</div>
+          <div>
+            <h4>Faithful to the text, wrong about the page</h4>
+            <p className="body">Asked what substance restored chocolate's electrical effect, the agent answered <b>alcohol</b> — faithfully quoting the stored transcription, while openly admitting it had never seen the scan. The scan says <b>olive-oil</b>. A quote can be accurate to the OCR and false to the source.</p>
+          </div>
+          <div className="evi">
+            <div className="row"><span className="k">scan</span><span className="v-right">“a small quantity of olive-oil”</span></div>
+            <div className="row"><span className="k">ocr</span><span>“a small quantity of alcohol”</span></div>
+            <div className="row"><span className="k">agent</span><span className="v-wrong">alcohol — disclosed, wrong</span></div>
+          </div>
+        </div>
+        <div className="inc">
+          <div className="kind">false verification</div>
+          <div>
+            <h4>A guess promoted to “verified”</h4>
+            <p className="body">Faced with “an influential metal difarified with with a elettronter,” the agent declared the answer <b>“Verified original wording”</b> — though it never saw the image. The scan reads “an insulated metal dish furnished with an electrometer.” The warning not to fabricate verified readings was in the prompt. It did not hold.</p>
+          </div>
+          <div className="evi">
+            <div className="row"><span className="k">scan</span><span className="v-right">“an insulated metal dish…”</span></div>
+            <div className="row"><span className="k">ocr</span><span>“an influential metal difarified…”</span></div>
+            <div className="row"><span className="k">agent</span><span className="v-wrong">“influential metal diffused…” — called verified</span></div>
+          </div>
+        </div>
+      </div>
+      <p className="inc-foot reveal">Documented, reproduced, and reported — <b>so the models improve.</b></p>
+    </section>
+  </main>
+
+  {/* colophon */}
+  <footer>
+    <div className="pipeline reveal">
+      <span className="pipe">Nemotron Parse 3.5</span>
+      <span className="pipe-arrow">→</span>
+      <span className="pipe">Embed VL</span>
+      <span className="pipe-arrow">→</span>
+      <span className="pipe">Rerank VL <span className="sub">· RTX PRO 6000</span></span>
+      <span className="pipe-arrow">→</span>
+      <span className="pipe">Super VL agent</span>
+    </div>
+    <p className="foot-stats reveal">100 scanned pages · eight editions, 1768–1860 · every claim cited</p>
+    <p className="foot-note reveal">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending. AI illustrations are labeled; the page images under the lens are genuine scans.</p>
+    <p className="colophon reveal"><b>timelens.to</b> — prepend it to anything we thought we knew.</p>
+  </footer>
+</div>
+  );
+}
