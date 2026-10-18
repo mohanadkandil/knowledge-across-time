@@ -1,0 +1,36 @@
+{
+  "id": "bri-0972-ce59a815d4c2:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0972-ce59a815d4c2",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "Every scales four-sided pyramid, whatever its properties may be, has its dependent horizontal prisms. To every series of such forms will, therefore, belong two series of horizontal prisms, to be distinguished by the designation according to the properties of those series. It is, however, remarked that, if we value the average values are in a stated above, the angles of several members of those series, and, therefore, the series themselves, will be identical, and, for this means, one obligation will suffice for them. Then, the number of series of those forms taken together may be reduced as three years, at which the first part belongs to the principal, the others to the subordinaries or of scales four-sided pyramids; s each of the diagonals having one size rise referred to us. The horizontal prisms belonging to a scales four-sided pyramid was produced by placing tangent planes in _homologne_ terminal edges. If those terminal edge connect the terminal point of the axis with the long diagonal, the prism is said to belong, or to be referred, to the long: if they connect it with the short, it is said to bo- long, or to be referred, to the short diagonal of P. The horizontal prisms are remarkable forms, often to be met with the mainoid conditions.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+  "provenance": {
+    "page_id": "bri-0972-ce59a815d4c2",
+    "row_index": 972,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 1,
+    "sha256": "ce59a815d4c28c3a4d410b825a682bf7290bdbbd522c299e84d0e5fb89f0e3a6",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0972-ce59a815d4c2.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0596,
+    0.1492,
+    0.4482,
+    0.4164
+  ],
+  "offsets": [
+    0,
+    1261
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

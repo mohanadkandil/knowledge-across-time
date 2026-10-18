@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5763642-1344046848-701cd4b8dfb6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Barkcloth",
+  "text": "ian voyagers into Island Southeast Asia, Oceania (with the notable exception of Micronesia), and Madagascar. Genetic studies on the paper mulberry populations in the Pacific have all confirmed close genealogical ties to populations in Taiwan and Southern China.\n\nThough they exist in abundance in archaeological sites in Island Southeast Asia, barkcloth have largely disappeared in the region as they were replaced by woven textiles. But they survived until around the 19th century in the outlying regions of the Austronesian expansion, particularly in Island Melanesia and Polynesia, as well as the interior highlands of Borneo. Some communities in Southeast Asia are reviving this practice. At Monbang traditional village on Alor Island, Indonesia, tourists can see members of the Kabola ethnic group wear barkcloth and dance traditional dances.\n\nIn addition to Sulawesi tapa cloth, daluang is produced in Java from paper mulberry bark, also called \"kulit kayu\", for sarongs, tunics, headgear, and other items. Daluang features prominently in wayang performance, particularly wayang beber.\n\nBarkcloth in Sulawesi, Indonesia is called \"fuya\", and has been used for major rites such as puberty, marriage, death, for at least 4000 years. Its manufacture is nearly extinct in Indonesia. The Weltmuseum collection in Vienna holds hundreds of barkcloth coverings, which claims that its use declined over time due to Christianization, Islamicization, modernization, and the prevalence of washable woven textiles.\n\nBarkcloth has been manufactured in Buganda, Uganda, for centuries and is Uganda's sole repr",
+  "url": "https://en.wikipedia.org/wiki/Barkcloth",
+  "revision_id": 1344046848,
+  "article_id": 5763642,
+  "section_path": "shared_text[0:4834]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 49076,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "e51d7bd8b25334507899f6019a7baabba03db3bb26a6b11b39b9fbae46bcea22",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344046848",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5763642",
+    "revision_id": "1344046848",
+    "retrieved_at": "2026-10-18T12:22:47.994042+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4834,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

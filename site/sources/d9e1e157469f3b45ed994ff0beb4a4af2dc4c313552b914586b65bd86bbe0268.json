@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5850228-1353554990-7ff0c1b19948",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tara (given name)",
+  "text": "Tara Fremont, also called \"Tara, the Jungle Girl\" and \"Too Tall Tara\", a superhero in AC Comics\n\nTara Gregson, a character in United States of Tara\n\nTara King in the TV series The Avengers\n\nTara Knowles in the TV series Sons of Anarchy\n\nTara*Starr Lane in the novels P.S. Longer Letter Later and Snail Mail No More by Ann M. Martin and Paula Danziger\n\nTara Locke in the soap opera The Young and the Restless\n\nTara Maclay in the TV series Buffy the Vampire Slayer\n\nTara Mandal in the soap opera Coronation Street\n\nTara Markov, the first character known as Terra in DC Comics\n\nTara Mehta, an incarnate deity in Virgin Comics' Devi comic book\n\nTara Price in the crime drama CSI: Miami\n\nTara Rafferty in the Irish television series Striking Out\n\nTara Reynolds in the soap opera Emmerdale\n\nTara Thornton in the TV series True Blood\n\nTara Wilson in the TV series The Practice and its spinoff Boston Legal",
+  "url": "https://en.wikipedia.org/wiki/Tara_(given_name)",
+  "revision_id": 1353554990,
+  "article_id": 5850228,
+  "section_path": "shared_text[0:10978]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    10978
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4ddb308459323163b83c0758c11dbaee347c4ab9275d48b7d8e597f3a291abd4",
+    "source_row_idx": 3571,
+    "source_shard": "enwiki/data/enwiki_namespace_0_71.parquet",
+    "text_sha256": "e18842313c18e1e4a46b66ef20fff4fe49a397734fa651617f49ae78d6fc44df",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353554990",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5850228",
+    "revision_id": "1353554990",
+    "retrieved_at": "2026-10-18T12:38:31.760378+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10978,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

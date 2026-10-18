@@ -1,0 +1,44 @@
+{
+  "id": "wiki-46426349-1209804513-4c1b804e4a5d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Supreme nasal concha",
+  "text": "The supreme nasal concha or highest nasal concha is a nasal concha (turbinate) that occurs in some cases. It is shaped like a seashell and found on the posterosuperior part of the lateral nasal wall. It lies on the medial surface of the labyrinth of ethmoid above the superior nasal concha. This makes it the highest of the nasal conchae, and the highest of three on the ethmoid bone. It is often no more than a small, simple crest protruding from the nasal wall.\n\nThe space below and the fissure lateral to the concha are known as the supreme nasal meatus.\n\nIt was historically known as Santorini's concha, after Giovanni Domenico Santorini.",
+  "url": "https://en.wikipedia.org/wiki/Supreme_nasal_concha",
+  "revision_id": 1209804513,
+  "article_id": 46426349,
+  "section_path": "shared_text[0:642]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    642
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 36069,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "ff0f82f3781e7fc59f31cd96bb140744110157f9a425c655086d20443e30045d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1209804513",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "46426349",
+    "revision_id": "1209804513",
+    "retrieved_at": "2026-10-18T12:21:57.021768+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 642,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

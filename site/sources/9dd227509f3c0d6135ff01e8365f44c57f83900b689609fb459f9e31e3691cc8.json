@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2552313-1352479124-3b24525f4d77",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of companies of Turkey",
+  "text": "Turkey is a transcontinental presidential republic in Eurasia, mainly on the Anatolian peninsula in Western Asia, with a smaller portion on the Balkan peninsula in Southeast Europe. Turkey is a democratic, secular, unitary, constitutional republic with a diverse cultural heritage. As of July 2024, there are 2.439,859 registered companies based in the country.\n\nThe country has an emerging market economy as defined by the IMF. Turkey is among the world's developed countries according to the CIA World Factbook. Turkey is also defined by economists and political scientists as one of the world's newly industrialized countries. Turkey has the world's 17th largest nominal GDP, and 11th largest GDP by PPP. The country is among the world's leading producers of agricultural products; textiles; motor vehicles, ships and other transportation equipment; construction materials; consumer electronics and home appliances.\n\nFor further information on the types of business entities in this country and their abbreviations, see \" Business entities in Turkey \".\n\nThe list shows firms ranked in the Forbes Global 2000 by total revenues reported as of 2024.\n\nThis list includes notable companies with primary headquarters located in the country. The industry and sector follow the Industry Classification Benchmark taxonomy. Organizations which have ceased operations are included and noted as defunct.",
+  "url": "https://en.wikipedia.org/wiki/List_of_companies_of_Turkey",
+  "revision_id": 1352479124,
+  "article_id": 2552313,
+  "section_path": "shared_text[0:1394]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1394
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d0540913175bf0bf226ae4161368d8569964a19a5302fff11da3e05c21e361c8",
+    "source_row_idx": 40758,
+    "source_shard": "enwiki/data/enwiki_namespace_0_63.parquet",
+    "text_sha256": "7275367f8bff0309869f1d26453949293417037e8c71775257365113b641d020",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352479124",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2552313",
+    "revision_id": "1352479124",
+    "retrieved_at": "2026-10-18T12:22:57.623235+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1394,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

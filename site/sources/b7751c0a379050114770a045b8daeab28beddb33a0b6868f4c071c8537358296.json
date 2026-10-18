@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "After the departure of Germanius, the more mondi-ern nations of Germany were no more molted by the Romans, Arminias carried on a long and fac-ceful war with Macrobodus king of the Macromani; when he at last expelled, and forced to apply to the Roman Kat, affluence; but, exempting Germanius, it fears they had an this time no other general capable of opposing Arminius, 60 the Macrobodus was never refered. After the final departure of the Romans, however, Amian having attempted to enforce his country, fall by the tendency of the own kindend. The Germans held his memory in great veneration; and Trecita informs us, that in his time they fill cele-brated him in the forego.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0879,
+    0.5414,
+    0.46,
+    0.7164
+  ],
+  "offsets": [
+    0,
+    675
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

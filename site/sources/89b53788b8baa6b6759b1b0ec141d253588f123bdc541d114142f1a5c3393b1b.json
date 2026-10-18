@@ -1,0 +1,44 @@
+{
+  "id": "wiki-68299890-1340872381-d989eaaf3994",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Celia Hawkesworth",
+  "text": " Surrender, New York: New Directions, ISBN 0811214931\n\nUgrešić, Dubravka (2003), Thank You For Not Reading: Essays on Literary Trivia, translated by Celia Hawkesworth; Damion Searls, Normal, IL: Dalkey Archive Press, ISBN 1564782980\n\nUgrešić, Dubravka (2009), Baba Yaga Laid an Egg, translated by Celia Hawkesworth; Ellen Elias-Bursać, Edinburgh: Canongate, ISBN 978-1847670663\n\nUgrešić, Dubravka (2014), Karaoke Culture, translated by Celia Hawkesworth; Ellen Elias-Bursać; David Williams, University of Rochester: Open Letter Books, ISBN 978-1934824573\n\nUgrešić, Dubravka (2018), American Fictionary, translated by Celia Hawkesworth; Ellen Elias-Bursać, University of Rochester: Open Letter Books, ISBN 978-1940953908\n\nVeličković, Nenad (2005), Lodgers, Evanston, IL: Northwestern University Press, ISBN 0810122413\n\nVelmar-Janković, Svetlana (1996), Dungeon, Belgrade: Dereta, ISBN 8681283677\n\nVrkljan, Irena (1999), The Silk, the Shears and Marina; or, About Biography, translated by Celia Hawkesworth; Sibelan Forrester, Evanston, IL: Northwestern University Press, ISBN 0810116030\n\nZanic, Ivo (2007), Flag on the Mountain: a political anthropology of the war in Croatia and Bosnia-Herzegovina 1990-1995, translated by Celia Hawkesworth; Graham McMaster, London: The Bosnian Institute, ISBN 978-0863568152\n\n1998: Weidenfeld Prize for Literary Translation shortlist for The Museum of Unconditional Surrender by Dubravka Ugrešić\n\n1999: Heldt Prize for Culture of Lies by Dubravka Ugrešić\n\n2018: EBRD Literature Prize finalist for Belladonna by Daša Drndić\n\n2018: Warwick Prize for Women in Translat",
+  "url": "https://en.wikipedia.org/wiki/Celia_Hawkesworth",
+  "revision_id": 1340872381,
+  "article_id": 68299890,
+  "section_path": "shared_text[0:6411]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 57734,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "9bb9eefdd1e18c67e017389ba484606a6588b8bc6d30f75615bbe0c2cf2a437c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340872381",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "68299890",
+    "revision_id": "1340872381",
+    "retrieved_at": "2026-10-18T12:40:19.727051+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6411,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

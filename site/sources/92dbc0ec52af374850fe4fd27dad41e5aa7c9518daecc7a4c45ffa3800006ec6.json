@@ -1,0 +1,54 @@
+{
+  "id": "wiki-30888962-1349341940-6866bf537e38",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Omar (name)",
+  "text": "ather of the prophet Muhammad's wife Hafsa bint Umar\n\nUmar ibn Abd al-Aziz, or Umar II (r. 717–720), Umayyad caliph\n\nUmar Kura (died 1881), Sheikh of the Kanem-Bornu Empire\n\nOmar Ali Saifuddin I (died 1795), Sultan of Brunei from 1762 until 1795\n\nOmar Ali Saifuddin II (died 1852), Sultan of Brunei from 1829 to 1852\n\nOmar Ali Saifuddien III (1914–1986), Sultan of Brunei from 1950 to 1967\n\nOmar I of Kanem, ruler of Kanem, Chad from 1372 to 1380\n\nOmar I of the Maldives (died 1341), sultan of the Maldives from 1306 to 1341\n\nOmar II of the Maldives (died 1484), sultan of the Maldives from 1480 to 1484\n\nUmar al-Aqta, (fl. 830s–863), emir of Melitene\n\nUmar Shaikh Mirza I (1356–1394), son of the Central Asian conqueror Timur\n\nUmar Shaikh Mirza II (1456–1494), Timurid king of Ferghana and father of Babur, founder of the Mughal Empire in India\n\nOmar Abada (born 1993), Tunisian basketball player\n\nOmar Abd al-Kafi (born 1951), Egyptian writer\n\nOmar Abd al-Razaq (born 1958), Palestinian politician\n\nOmar Abdalla Aboelazm (born 1980), Swedish citizen\n\nOmar Abdel-Rahman (1938–2017), Egyptian Islamist militant\n\nOmar Abdi, Somali-Canadian diplomat\n\nOmar Abdirashid Ali Sharmarke (born 1960), Somali diplomat and politician; former prime minister of Somalia\n\nOmar Abdul Rahman (academic) (born 1932), Malaysian academic and corporate figure\n\nOmar Abdulayev (born 1978), Guantanamo Bay detainee\n\nOmar Abdulaziz, Saudi dissident video blogger and activist\n\nOmar Abdullah (born 1970), Indian politician from Jammu and Kashmir\n\nOmar Abdulrahman (born 1991), Emirati footballer\n\nOmar Abu Fares (born 1984),",
+  "url": "https://en.wikipedia.org/wiki/Omar_(name)",
+  "revision_id": 1349341940,
+  "article_id": 30888962,
+  "section_path": "shared_text[0:54983]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 59978,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "6b67b286e96b0742f85c6a830cbd1994a2f18ea7fcf920c826dec595f594cbac",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349341940",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30888962",
+    "revision_id": "1349341940",
+    "retrieved_at": "2026-10-18T12:40:56.177447+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 14983,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

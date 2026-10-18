@@ -1,0 +1,59 @@
+{
+  "id": "wiki-51992830-1352878175-f9532f8b7740",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Athenian democracy",
+  "text": "ielded. That influence was based on his relation with the assembly, a relation that in the first instance lay simply in the right of any citizen to stand and speak before the people. Under the 4th century version of democracy, the roles of general and of key political speaker in the assembly tended to be filled by different persons. In part, this was a consequence of the increasingly specialized forms of warfare practiced in the later period.\n\nElected officials, too, were subject to review before holding office and scrutiny after office. And they could also be removed from office at any time that the assembly met. There was even a death penalty for \"inadequate performance\" while in office.\n\nAthenian democracy had many critics, both ancient and modern. Ancient Greek critics of Athenian democracy include Thucydides the general and historian, Aristophanes the playwright, Plato the pupil of Socrates, Aristotle the pupil of Plato, and a writer known as the Old Oligarch. While modern critics are more likely to find fault with the restrictive qualifications for political involvement, these ancients viewed democracy as being too inclusive. For them, the common people were not necessarily the right people to rule and were likely to make huge mistakes. According to Samons:\n\nThe modern desire to look to Athens for lessons or encouragement for modern thought, government, or society must confront this strange paradox: the people that gave rise to and practiced ancient democracy left us almost nothing but criticism of this form of regime (on a philosophical or theoretical level). And wha",
+  "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+  "revision_id": 1352878175,
+  "article_id": 51992830,
+  "section_path": "shared_text[0:62440]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    46080,
+    47680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a214b8f29c46233087ab0a3528966ebccd2627a856cc6480fa0baaa4cd97b64a",
+    "source_row_idx": 33406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_66.parquet",
+    "text_sha256": "a58f7f53e75588f5fed12d7ae4c459fbf930505b93bccdde1207ed967e775a93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352878175",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51992830",
+    "revision_id": "1352878175",
+    "retrieved_at": "2026-10-18T12:36:47.008604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 20000,
+        "next_offset": 60000
+      },
+      {
+        "offset": 60000,
+        "returned_chars": 2440,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

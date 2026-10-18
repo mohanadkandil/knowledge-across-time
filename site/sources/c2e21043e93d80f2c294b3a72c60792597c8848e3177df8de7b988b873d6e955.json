@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "The danger and difficulty of his situation increasing daily, Morillo was obliged to retreat and having expressed a Arinco on the 16th, hustered by Repay and his folowers, he ecempat at Achagus, a position which he be obliged to evacuate for one of provision on the speech of the rainy season, and to retire to Sun Carlos. This measure was accelerated by the intelligent recetviel that Santander in Cumana had declared man amili- aided by of royalists 1500 strong on their way from Bogota to join Morilo. Santander then directed towards the whole province individuals received from him arms and other warlike stores, which he had obtained from Augustine.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.542,
+    0.3984,
+    0.9463,
+    0.5563
+  ],
+  "offsets": [
+    0,
+    653
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

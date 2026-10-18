@@ -1,0 +1,36 @@
+{
+  "id": "bri-1137-484b60a07551:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1137-484b60a07551",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+  "text": "ful plant, whose odoriferous flowers render delicious the fresh of the goats who feel much them. At the upper end of the plain, grasses and lichen faintly struggle against the volcanic matter. At 1500 totes above the sea, they reached a stable commonly called _the English_ Halfly, consisting of a cavern included between two rocks. Here they spent the night, gathering considerably from cold. Next morning; after tea hours walk, they came to a small plain _called Alto Yana_, where person called _Nesora_ were collecting snow for the use of the inhabitants of the coasts. Then began the _Malaysy_ a tract entirely desitute of rounds, covered with fragments of lava, which, sinking beneath the feet, rendered the second yar laborious. The guides now earnestly described them then proceeds farther and were found, on examination, never to have themselves reached the summit. At the certivity of the Malaysy, however, the travellers come in a small plant, whence they saw using the cone of the _plana_. This hillock it is extremely steep, and is an covered with volcanic sals and fragments of pumice same, as to render the ascent securely possible. They ascended only by following a current of old lava, the wrecks of which formed a wall of scorious rocks, by grasping pointed which, in their hour until the reached the top. This volcano appeared to Humbols the most difficult to ascend of any he had seen, except that of vanilla or Mexico.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+  "provenance": {
+    "page_id": "bri-1137-484b60a07551",
+    "row_index": 1137,
+    "volume_id": "193109112",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+    "label": 0,
+    "sha256": "484b60a075513f3c2fe43b48125173bb97294d324e2a391477b3043e21f46956",
+    "width": 600,
+    "height": 775,
+    "image_file": "../images/bri-1137-484b60a07551.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1377,
+    0.0633,
+    0.5039,
+    0.4367
+  ],
+  "offsets": [
+    0,
+    1438
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

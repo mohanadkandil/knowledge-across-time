@@ -1,0 +1,44 @@
+{
+  "id": "wiki-593754-1320064819-5941026ced18",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cloud (disambiguation)",
+  "text": "A cloud is a visible mass of condensed droplets or frozen crystals suspended in the atmosphere.\n\nCloud(s, y) may also refer to:\n\nCloud Strife, a character from Final Fantasy VII\n\nBou Keng Wan or Cloud, a character in Fung Wan\n\nClouds, a 1977 philosophical comedic play by Michael Frayn\n\nThe Clouds, a comedy play by Aristophanes, originally produced at the City Dionysia in 423 BC\n\nThe Clouds, a 1797 play by Richard Cumberland\n\nThe Clouds (Las nubes), a 1997 novel by Juan José Saer\n\nCloud (music), a sound mass consisting of statistical clouds of microsounds\n\nCloud Wan, a Hong Kong Cantopop singer from the 2020s\n\nClouds (60s rock band), a Scottish music group\n\nThe Clouds (Australian band), an indie rock group in the 1990s\n\nThe Clouds (Scottish band), an indie pop band from the 1980s\n\nThe Clouds (Manchester band), an indie pop band from the 1990s\n\nClouds, a composition by Berthold Goldschmidt\n\nClouds, a composition by Charles Griffes\n\nClouds, a composition by Ned Rorem\n\n\"The Clouds\" (composition)\n\nClouds (Apollo Brown album) (2011)\n\nClouds, an EP by Nosound\n\nClouds (Gaussian Curve album) (2015)\n\nClouds (Joni Mitchell album) (1969)\n\nClouds (Lee Ranaldo album) (1997)\n\nClouds (Tiamat album) (1992)\n\nClouds (The Mixtape), a mixtape by NF (2021)\n\nThe Clouds (album), an album by Stuart Hyatt\n\n\"Cloudy\" (song), a song by Simon & Garfunkel\n\n\"Clouds\" (Zach Sobiech song)\n\n\" Both Sides, Now \" or \"Clouds\", a song by Joni Mitchell\n\n\"Clouds\", a song by Chaka Khan from Naughty\n\n\"Clouds\", a song by Level 42 from Retroglide\n\n\"Clouds\", an interlude by Janet Jackson from All for You\n\n\"Clouds\", a son",
+  "url": "https://en.wikipedia.org/wiki/Cloud_(disambiguation)",
+  "revision_id": 1320064819,
+  "article_id": 593754,
+  "section_path": "shared_text[0:3567]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 4484,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "cfe41c0979eeffc90028f60957972c7354301d92156e1ce1fea6e8c027170998",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1320064819",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "593754",
+    "revision_id": "1320064819",
+    "retrieved_at": "2026-10-18T12:16:57.938183+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3567,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

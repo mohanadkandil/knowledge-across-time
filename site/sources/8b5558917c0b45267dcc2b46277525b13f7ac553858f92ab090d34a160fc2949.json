@@ -1,0 +1,36 @@
+{
+  "id": "bri-2536-526b43082bc6:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-2536-526b43082bc6",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+  "text": "_Sworn goofs_ -Body flow-white ; front yellowish ; ten _Hovrna_-brfit quil feathers black ; bill and legs red. Size of green goods length to for feet high index, or down giving three feet and a half ; weight between five and ice grounds. Great numbers of this grade score about Hudson Bay ; Bill Seven river in May, and they a fortnight, but go farther north to breed. They return to Brown Port about the beginning of Stephenson and the fall like midk of October, when they depart for the fourth, and are observed in immorical flocks created by their region. One time time my husband are killed by the inhabitants who pluck and evicate them, and put them in the basis in the earth, where they are preserved quite fever by flesh, throughout the desert before. Their birds form also to occupy the well fake of America and millionsade. In the summer because they are plantful on the cattle coatif of Siberia ; but never migrate to youd ; goof alongside. They are supposed to pull the waters in more moderate than, as they have been flying over Slifted, probably on their patige to time other memory, as it does not appear that they continue there. Think of Antarctica, in like manner, winter in Canada. The Siberian decay then they prefer cover with a white fish, and traveling on all times, when they are Rapid enough to mistake for their leader, and your men they follow, they don’d try men in their prey, till be entangled them in nets, or leads them into a fort of pond prepared for the purpose.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+  "provenance": {
+    "page_id": "bri-2536-526b43082bc6",
+    "row_index": 2536,
+    "volume_id": "191253837",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+    "label": 0,
+    "sha256": "526b43082bc617aa07f167d2238800380a2993105d74711032efc0157c853b7b",
+    "width": 600,
+    "height": 777,
+    "image_file": "../images/bri-2536-526b43082bc6.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5576,
+    0.5211,
+    0.9326,
+    0.8734
+  ],
+  "offsets": [
+    0,
+    1496
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

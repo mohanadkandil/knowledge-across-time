@@ -1,0 +1,36 @@
+{
+  "id": "bri-0148-d2bd224be86b:region-15:0",
+  "kind": "britannica",
+  "page_id": "bri-0148-d2bd224be86b",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+  "text": "Blocka, in sea-language, are pieces of wood be- longing to ship in which the shivers of priys are placed, and wherein the running-ropes go. Of these some she single, some clothes, and some have three, four, or five shivers in them. They are mared and distinguished by the ropes they carry, and the uses they serve for.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+  "provenance": {
+    "page_id": "bri-0148-d2bd224be86b",
+    "row_index": 148,
+    "volume_id": "193696080",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+    "label": 0,
+    "sha256": "d2bd224be86b5c44f1e37343f9b0a5440cebf92c95e7917fa3fcae9e12afdb5f",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0148-d2bd224be86b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+    "manual_seed": false
+  },
+  "region_id": "region-15",
+  "bbox_raw": [
+    0.1016,
+    0.6867,
+    0.4912,
+    0.7789
+  ],
+  "offsets": [
+    0,
+    318
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

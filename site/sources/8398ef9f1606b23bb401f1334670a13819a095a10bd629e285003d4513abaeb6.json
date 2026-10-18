@@ -1,0 +1,36 @@
+{
+  "id": "bri-0972-ce59a815d4c2:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0972-ce59a815d4c2",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "By comparing the horizontal prisms belonging to members of a series of scales four-sided pyramids, becomes evident how, what the axis of the pyramid increases, the angle of the horizontal prism configuration to the stars of the fundamental form becomes smaller, and smaller, while the other, at the intersection of the planes from different apices, becomes greater and greater. If the case of the pyramid become infinite, or the pyramid itself a vertical prism, the first of these angles will disappear, the second become an 180°. Hence, a horizontal prism is transformed, in this case, in a pair of unlimited parallel planes, perpendicular to the diagonals in which very belong. These planes, which may be considered as forms uninitiated, as it were, in two directions, are the limits of the series of horizontal prisms, the state of the pyramid in which they belong being infinite. The opposite limits, or those which appear, if the pyramid have an infinitely small spaces appear as those perpendicular to the stara. The series of horizontal prism between their limits may, accordingly, be represented thus",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+  "provenance": {
+    "page_id": "bri-0972-ce59a815d4c2",
+    "row_index": 972,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 1,
+    "sha256": "ce59a815d4c28c3a4d410b825a682bf7290bdbbd522c299e84d0e5fb89f0e3a6",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0972-ce59a815d4c2.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0527,
+    0.4375,
+    0.4434,
+    0.6703
+  ],
+  "offsets": [
+    0,
+    1108
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

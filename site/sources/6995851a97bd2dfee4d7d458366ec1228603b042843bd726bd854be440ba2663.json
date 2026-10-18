@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5857544-1352061597-6655702af4ca",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carron Company",
+  "text": " were usually fought, without impairing stability or sailing qualities.\n\nThe carronade was a considerable success, and remained in production from 1778 to the 1850s. The company established such a reputation for quality that the Duke of Wellington remarked in a letter to Admiral Berkley in 1812 that he only wanted cannon manufactured by the Carron Company in his army. The company also made ammunition, including some invented by Henry Shrapnel.\n\nThe company supplied armaments to governments outside the UK, including weapons supplied to the embryonic United States which were used against Britain in the War of 1812. The British government tried to prevent the company from supplying plans and equipment to the Russian Empire, intended to improve Catherine the Great 's weapons foundry at Petrozavodsk; nonetheless, Gascoigne delivered the Russian's orders, and travelled to Russia in May 1786 to supervise the works.: 141–144 He remained in Russia for 20 years, dying in July 1806 in Kolpino near St. Petersburg as Actual State Councillor Karl Karlovich Gaskoin.\n\nBy 1814, the Carron Company was the largest iron works in Europe, employing over 2,000 workers, and it attracted many innovators. William Symington was an engineer for the Carron Company in the early 19th century, and the company made engines for his steamboats, the Experiment and the Charlotte Dundas. John Smeaton was a consultant for the company. Henry Cort experimented on methods to produce malleable iron, anticipating the puddling process. Benjamin Franklin visited the factory, leaving works and is said to have left a des",
+  "url": "https://en.wikipedia.org/wiki/Carron_Company",
+  "revision_id": 1352061597,
+  "article_id": 5857544,
+  "section_path": "shared_text[0:7066]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 29772,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "567e0a0dcbdfa3c7369b7f0fcfb1b7a35b9e89f85f4e12a35f877abd14f14b24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352061597",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5857544",
+    "revision_id": "1352061597",
+    "retrieved_at": "2026-10-18T12:23:54.738575+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7066,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

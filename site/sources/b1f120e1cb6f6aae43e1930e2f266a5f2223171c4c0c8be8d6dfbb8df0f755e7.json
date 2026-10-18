@@ -1,0 +1,36 @@
+{
+  "id": "bri-2078-dd32097bd08b:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2078-dd32097bd08b",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 11, Medals-Midwifery - EB.5",
+  "text": "Tiy.23.\nX\nD C\nR\nFy.29.\nN\nI\nX\nA\nC\nMOL A X\nL\nB\nC\n0\nQ\nU\nX\nO\nX\nY\nZ\nX\nY.24.\nH\nX\nV\nK\nC\nS\nT\nL\nX\nS",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2078",
+  "provenance": {
+    "page_id": "bri-2078-dd32097bd08b",
+    "row_index": 2078,
+    "volume_id": "149983206",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 11, Medals-Midwifery - EB.5",
+    "label": 1,
+    "sha256": "dd32097bd08bbdfec40fa244fb5d81b286ac5087e2c21bcac4c6b189bd82ca4f",
+    "width": 600,
+    "height": 789,
+    "image_file": "../images/bri-2078-dd32097bd08b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2078",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.043,
+    0.0875,
+    0.9043,
+    0.9383
+  ],
+  "offsets": [
+    0,
+    90
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

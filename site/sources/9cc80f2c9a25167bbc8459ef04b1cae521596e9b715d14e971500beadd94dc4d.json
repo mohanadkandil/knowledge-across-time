@@ -1,0 +1,49 @@
+{
+  "id": "wiki-39361535-1348191975-b4d6a719d030",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of pharmacy colleges in India",
+  "text": " Pharmacy\n\nShikshan Prasark Mandal's College of Pharmacy\n\nShivnagar Vidya Prasarak Mandal's College of Pharmacy\n\nShree Sant Muktabai Institute of Technology (Pharmacy), P.O.Box 132\n\nShree Shahu Chhatrapati Shikshan Sanstha's, Dasara Chowk\n\nShri C.S. Shikshan Sanstha's SCSSS College of Pharmacy\n\nShri D.F. Lodha Pharmacy College, Chaadwad\n\nShri K.R. Pandav Institute of Pharmacy\n\nShri Sadashivrao Patil S. Sanstha College of Pharmacy\n\nShri Sharda Bhavan Education Society's College of Pharmacy, Seva Kendra\n\nShri Shivaji Institute of Pharmacy, Parbhani\n\nSinhgad College of Pharmacy, Narhe/Ambegaon/Lonavala/Kondhwa\n\nSmt Kishoritai Bhoyar College of Pharmacy\n\nSmt S S Patil College of Pharmacy\n\nSmt. Kashibai Navale College of Pharmacy, Saswad Road Kondhwa (Bk.)\n\nSmt. Kusumtai Wankhede Institute of Pharmacy\n\nSri. Anand College of Pharmacy\n\nSudhakarrao Naik Institute of Pharmacy\n\nTapi Valley Education Society's College of Pharmacy\n\nUniversity Deptt. Of Chemical Technology, Matunga Road\n\nV.J.S.M.'s Institute of Pharmacy, Junnar\n\nVeer Mata Hiraben P. Shah College of Pharmacy, Kasar-Vadavali, Ghodbunder Road\n\nVidarbha Youth Welfare Society's Institute of Pharmacy\n\nVidya Bharati College of Pharmacy\n\nWaghire College of Pharmacy, Saswad District\n\nY B Chavan College of Pharmacy\n\nYash Institute of Pharmacy\n\nYashvantro Chavan College of Pharmacy, near Nagapur Bridge, near Manmad Road\n\nBalangi Pharmaceutical\n\nCollege of Pharmaceutical Sciences, Ganjam\n\nCollege of Pharmaceutical Sciences, Marina Drive Road P.O. Baliguali\n\nThe College of Pharmaceutical Science, Via Janla\n\nDadhichi College of Pharm",
+  "url": "https://en.wikipedia.org/wiki/List_of_pharmacy_colleges_in_India",
+  "revision_id": 1348191975,
+  "article_id": 39361535,
+  "section_path": "shared_text[0:32821]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    20160,
+    21760
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 34163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "0aa5456859680e73ce11343c99f387da9a2c893951c6da5c7cc965dd1e134705",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348191975",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39361535",
+    "revision_id": "1348191975",
+    "retrieved_at": "2026-10-18T12:28:56.445727+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 12821,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

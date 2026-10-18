@@ -1,0 +1,44 @@
+{
+  "id": "wiki-63604617-1348179374-18f40fe72210",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "David Beaton of Creich",
+  "text": "David Beaton of Creich (died 1579) was a Scottish courtier and landowner.\n\nHe was the son of Robert Beaton of Creich and Jeanne de la Rainville (d. 1576), a French lady-in-waiting to Mary of Guise.\n\nTheir home was Creich Castle. The family were also hereditary keepers of Falkland Palace. His sister Mary Beaton, was a companion of Mary, Queen of Scots, who married Alexander Ogilvy of Boyne. Another sister, Lucrece, brought up in the queen's household, married David Beaton of Melgund.\n\nDavid did not have a son, so on his death in 1579 his brother Mr James Beaton became the keeper of Falkland Palace.\n\nIn December 1599, his grandson David Beaton, apparent of Creich, was declared a rebel and his house or fortalice at Dunbog was placed in the keeping of James Wemyss of Bogy. This was in connection with the 1598 murder John Murray, a servant of Lord Lindores, by John Arnot, Goodman of Woodmill.\n\nOn 15 September 1602, James Beaton and his son David Beaton agreed to resign the keeping of Falkland Palace and their lands of Darno in Fife to the crown. In exchange the Beatons were given the lands of Nether Byres and Urquharts, and the pasturage on the Lomond Hills.\n\nHe married Beatrix Leslie, daughter of George Leslie, 4th Earl of Rothes of Ballinbreich Castle. Their children included:\n\nAgnes Beaton, who in 1580 married Sir James Chisholm of Cromlix.",
+  "url": "https://en.wikipedia.org/wiki/David_Beaton_of_Creich",
+  "revision_id": 1348179374,
+  "article_id": 63604617,
+  "section_path": "shared_text[0:1360]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 56216,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "49a6b7988fa545ad962140d10fc102b74e5c37fc8dae61db8628c411022b95c4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348179374",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "63604617",
+    "revision_id": "1348179374",
+    "retrieved_at": "2026-10-18T12:21:04.843895+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1360,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

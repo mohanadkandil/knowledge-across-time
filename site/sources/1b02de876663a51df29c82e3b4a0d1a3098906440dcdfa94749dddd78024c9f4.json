@@ -1,0 +1,36 @@
+{
+  "id": "bri-0880-44d798724e1f:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0880-44d798724e1f",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+  "text": "The cut of Surry, who was then to inform that he started about a claim or charter, had borders that James would return an enforce by one of his own hereals, but unwilling that he should obtain any knowledge of the Studies of the English camp, he ordered proper portions to receive him at two miles distance, where foon after he attended himself for profits. They account his commifully without paying much respect to the perfon of the English general j who differ milled him, after letterkwing great promotional upon the honour courtesy of James. The act thus ordered his army to match in the line of battle towards YWicholson. There is wayfinding by Rose Croix, heral, who gave him an account of the frong fitsartion of the Scotchith camps, but the advanced path of the English army came then within three units of these countries, and the cut of Surry found his difficulties and just primarily. The roads were broken, the feel-ling of the rivers cut him off from the necessary conmemations for applying for a army, and nothing but a battle could face time either than being abandoned or destroyed.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+  "provenance": {
+    "page_id": "bri-0880-44d798724e1f",
+    "row_index": 880,
+    "volume_id": "191253800",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+    "label": 0,
+    "sha256": "44d798724e1f312abd92caaf5ee58d36a1e8250b055cfdbc3387e4b59c34ae2c",
+    "width": 600,
+    "height": 754,
+    "image_file": "../images/bri-0880-44d798724e1f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5146,
+    0.0664,
+    0.8359,
+    0.3547
+  ],
+  "offsets": [
+    0,
+    1099
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-14324291-1353614949-33c169941979",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Blockade (disambiguation)",
+  "text": "Blockade is the prevention of troops and supplies from reaching an opposing army.\n\nBlockade may also refer to:\n\nBlockade (board game), a strategy game by Lakeside\n\nBlockade (novel), written by Derek Hansen\n\nBlockade (solitaire), a type of solitaire card game\n\nBlockade (video game), video game\n\nBlockade (1928 film), a film by George B. Seitz\n\nBlockade (1938 film), a film by William Dieterle starring Henry Fonda\n\nBlockade (film series), a 1973–1977 series of four Soviet World War II feature films about the Siege of Leningrad\n\nBlockade (2006 film), a documentary film by Sergei Loznitsa\n\nBlockade (2016 film), a documentary film by Arif Yousuf\n\nBlockade (Stargate Universe), an episode of the television series Stargate Universe\n\nNerve blockade\n\nReceptor blockade\n\nNeuraxial blockade",
+  "url": "https://en.wikipedia.org/wiki/Blockade_(disambiguation)",
+  "revision_id": 1353614949,
+  "article_id": 14324291,
+  "section_path": "shared_text[0:786]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    786
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b86c9466e1798909960b260e264e4de344af73171d9077024f198152c5baeafe",
+    "source_row_idx": 8262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_76.parquet",
+    "text_sha256": "6c1baca296fb70346a913edd967f3a5d8084789edd2d67b2f4dfdad08bcb6e59",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353614949",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "14324291",
+    "revision_id": "1353614949",
+    "retrieved_at": "2026-10-18T12:21:42.169037+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 786,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

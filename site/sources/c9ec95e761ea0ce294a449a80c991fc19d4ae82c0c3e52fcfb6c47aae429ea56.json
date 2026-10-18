@@ -1,0 +1,36 @@
+{
+  "id": "bri-0608-5cb01932cdde:region-14:0",
+  "kind": "britannica",
+  "page_id": "bri-0608-5cb01932cdde",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+  "text": "My should at least have become him practical goodwill. He too often, you doubt, methods the enthusi- nation of derrection for the inspiration of fancy to mid- the waters of Jordan and children in the time cup, was referred for the hand of Milton; and for him, and then only, to find the kind of Mount Oliver equally section with kind of Famillies. Yet, as the definitions of a real people mind, however, therefore by unacached of objects, will be hidden rendered really abories, we find in Quarles original imagery, thinking setformants, fertility of expertise, and happy combus- times together with a composition of figure that me-ris the observation of the written of verde. Gruidde- defence of judgement, and the inability of his objects, concerned in running him. Perhaps no circumstance whatever on my a more complete idea of Querles association than a few edition of his Emblemat; the following gallage is extracted from the prefee: ‘‘ Mr Francis Querles, the author of the Emblem that go under his names, was a name of the most exemplary piece, and had a deep insight into the properties of our key purpose. Bring for all that, the book itself is written in to God a language, that many parts of it are force to intelligent in the perfect age, many of all in phletic one fo addeded, that no perfect, who has soy tails for crack- ing, can spune them with the half degree of plantlets, many of his experience are both in the domestic whole grains included in a parenthesis, by which the mind of the reader is devoted from the principal subject. This faith constitutes our code can be the inferio",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+  "provenance": {
+    "page_id": "bri-0608-5cb01932cdde",
+    "row_index": 608,
+    "volume_id": "191320558",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+    "label": 0,
+    "sha256": "5cb01932cddebc17e7f873ed9584f937a9c07d1c84bec2d58b28d1c0620146a1",
+    "width": 600,
+    "height": 784,
+    "image_file": "../images/bri-0608-5cb01932cdde.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+    "manual_seed": false
+  },
+  "region_id": "region-14",
+  "bbox_raw": [
+    0.4795,
+    0.4039,
+    0.8955,
+    0.8547
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

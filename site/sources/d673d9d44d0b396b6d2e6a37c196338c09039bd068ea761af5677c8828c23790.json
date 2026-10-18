@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3317736-1340089899-f3bb67115e89",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint mark",
+  "text": "or mint-masters to place their personal marks on coins, as they had done with increasing frequency since the coinage of Louis XI. This was one of the few royal practices continued by the Republic of France. The mint letters continued until 1898 (briefly revived in 1914 and from 1942 to 1958) and the mint-masters marks, supplemented by the mark of the Chief Engraver, are still used.\n\nSome Medieval English coins used mint names. When William III retired hammered coinage, branch mints which helped strike machine made coins to replace it put their initials below his bust. The Royal Mint established branches to coin sovereigns near the sources of gold. These issues show the initials of Sydney, Melbourne, Victoria, and Perth Australia as well as Canada, South Africa, and India. The privately owned Soho Mint obtained a contract to strike royal copper coins with steam presses and put its name on these coins and on coins it minted for other countries. When it closed, Ralph Heaton acquired its equipment, founded the Birmingham Mint, and put his H mint mark on coins of Canada, among others.\n\nThe Spanish Empire introduced mint marks to the New World when they authorized Mexico City to open a mint on 11 May 1535. The Spanish Empire established mints throughout its American territories, each with their own mint mark. After its revolution, Mexico continued to use its colonial Mo monogram mint mark shown on either side of the date in the Spanish Milled Dollar. The United States of America established mints in Charlotte, North Carolina and Dahlonega, Georgia in 1838 after the Georgia Gold R",
+  "url": "https://en.wikipedia.org/wiki/Mint_mark",
+  "revision_id": 1340089899,
+  "article_id": 3317736,
+  "section_path": "shared_text[0:9990]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 42204,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "ffd911e1f1ff0e17c7001481d703f5040fdb330b7ec6a5b5a95a2da948bfa811",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340089899",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3317736",
+    "revision_id": "1340089899",
+    "retrieved_at": "2026-10-18T12:37:25.086600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9990,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

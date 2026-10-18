@@ -1,0 +1,49 @@
+{
+  "id": "wiki-21433728-1325213456-506d378fd91f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Air gun laws",
+  "text": " is an administrative offence according to the article 20.10 of Administrative Offences Code of Russia and is punished by a fine from 1000 to 5000 rubles with confiscation of an air gun.\n\nIn Singapore, airguns are classified as 'arms', in the same category as firearms utilising gunpowder as propellant among other weapons. It is necessary to obtain a licence from the Singapore Police Force before one can import, export or own an airgun.\n\n\"Airgun\" means any device manufactured to discharge a bullet or any other projectile -\n\na) of a calibre of less than or equal to 5.6mm (.22 calibre); or b) at a muzzle energy of less than 8 joules (6 ft-lbs), by means of compressed gas and not by means of burning propellant;.\n\nAirguns that shoot projectiles over 5.6mm (.22) in calibre and shoot at energies greater than 8 joules (6 ft-lbs) are classified as firearms in the FCA of 2000 (Firearms Control Act). All classified firearms are required to be licensed in terms of the act.\n\nAn airgun that shoots projectiles under 5.6mm (.22) in calibre has no maximum energy restrictions placed on it in the FCA (Firearms Control Act). Airguns in this category are exempted from licensing in the provisions made in Chapter 3, Section 5 of the FCA (Firearms Control Act)\n\nAirguns still count as firearms if used in a crime, and can't be fired in public areas. Airguns may be carried on one's person concealed/openly. It is an offense to shoot animals and human beings, except criminals and animals which are attacking you. This is defined in Chapter 16 of the FCA (Firearms Control Act).\n\nUpdate 31/12/2020SAPS put",
+  "url": "https://en.wikipedia.org/wiki/Air_gun_laws",
+  "revision_id": 1325213456,
+  "article_id": 21433728,
+  "section_path": "shared_text[0:28666]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    20160,
+    21760
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 51146,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "7976d44222958b6c3ad7ad51170fb71e4c2af881b9bb1d8416a285f92a39b805",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325213456",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21433728",
+    "revision_id": "1325213456",
+    "retrieved_at": "2026-10-18T12:41:04.281100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8666,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

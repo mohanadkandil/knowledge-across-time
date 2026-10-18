@@ -1,0 +1,44 @@
+{
+  "id": "wiki-68299890-1340872381-b533448e2069",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Celia Hawkesworth",
+  "text": "N 978-1908236173\n\nLengold, Jelena (2013), Fairground Magician, London: Istros Books, ISBN 978-1908236104\n\nMaksimović, Desanka (1988), I Seek Clemency, Belgrade: Association of Serbian Writers\n\nMarić, Senka (2022), Body Kintsugi, London: Peirene Press, ISBN 9781908670731\n\nMehmedinović, Semezdin (2021), My Heart, New York: Catapult, ISBN 978-1646220076\n\nNovak, Slobodan (2007), Gold, Frankincense, and Myrrh, Iowa City: Autumn Hill Books, ISBN 978-0975444467\n\nRudan, Vedrana (2004), Night, Normal, IL: Dalkey Archive Press, ISBN 1564783472\n\nSamokovlija, Isak (1997), Tales of Old Sarajevo, translated by Celia Hawkesworth; Christina Pribićević-Zorić, London: Vallentine Mitchell, ISBN 0853033323\n\nSavičević, Olja (2015), Farewell, Cowboy, London: Istros Books, ISBN 978-1908236487\n\nSavičević, Olja (2019), Singer in the Night, London: Istros Books, ISBN 978-1912545971\n\nSimić, Roman (2015), A Frame for the Family Lion: Stories, translated by Celia Hawkesworth; Tomislav Kuzmanović; Mima Simić, Zagreb: V.B.Z., ISBN 978-8679983596\n\nSršen, Matko (2013), Odohohol and Cally Rascal, London: Istros Books, ISBN 978-1908236159\n\nUgrešić, Dubravka (1992), In the Jaws of Life and Other Stories, translated by Celia Hawkesworth; Michael Henry Heim, London: Virago Press, ISBN 0810111004\n\nUgrešić, Dubravka (1998), The Culture of Lies, Philadelphia: Penn State University Press, ISBN 027101847X\n\nUgrešić, Dubravka (1999), The Museum of Unconditional Surrender, New York: New Directions, ISBN 0811214931\n\nUgrešić, Dubravka (2003), Thank You For Not Reading: Essays on Literary Trivia, translated by Celia Hawke",
+  "url": "https://en.wikipedia.org/wiki/Celia_Hawkesworth",
+  "revision_id": 1340872381,
+  "article_id": 68299890,
+  "section_path": "shared_text[0:6411]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 57734,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "9bb9eefdd1e18c67e017389ba484606a6588b8bc6d30f75615bbe0c2cf2a437c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340872381",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "68299890",
+    "revision_id": "1340872381",
+    "retrieved_at": "2026-10-18T12:40:19.727051+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6411,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

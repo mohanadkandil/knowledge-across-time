@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1370229-1301708502-d600a02fa0d2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Electrorheological fluid",
+  "text": "on of the fluid can be controlled by adjusting the applied electric field.\n\nER fluids are a type of smart fluid. A simple ER fluid can be made by mixing cornflour in a light vegetable oil or (better) silicone oil.\n\nThere are two main theories to explain the effect: the interfacial tension or 'water bridge' theory, and the electrostatic theory. The water bridge theory assumes a three phase system, the particles contain the third phase which is another liquid (e.g. water) immiscible with the main phase liquid (e.g. oil). With no applied electric field the third phase is strongly attracted to and held within the particles. This means the ER fluid is a suspension of particles, which behaves as a liquid. When an electric field is applied the third phase is driven to one side of the particles by electro osmosis and binds adjacent particles together to form chains. This chain structure means the ER fluid has become a solid. The electrostatic theory assumes just a two phase system, with dielectric particles forming chains aligned with an electric field in an analogous way to how magnetorheological fluid (MR) fluids work. An ER fluid has been constructed with the solid phase made from a conductor coated in an insulator. This ER fluid clearly cannot work by the water bridge model. However, although demonstrating that some ER fluids work by the electrostatic effect, it does not prove that all ER fluids do so. The advantage of having an ER fluid which operates on the electrostatic effect is the elimination of leakage current, i.e. potentially there is no direct current. Of course, sinc",
+  "url": "https://en.wikipedia.org/wiki/Electrorheological_fluid",
+  "revision_id": 1301708502,
+  "article_id": 1370229,
+  "section_path": "shared_text[0:7768]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 51934,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "3fee39997d3dbfe2148e3e4125c1df064e60f46287e89accc389b359044693c6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1301708502",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1370229",
+    "revision_id": "1301708502",
+    "retrieved_at": "2026-10-18T12:17:11.479553+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7768,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

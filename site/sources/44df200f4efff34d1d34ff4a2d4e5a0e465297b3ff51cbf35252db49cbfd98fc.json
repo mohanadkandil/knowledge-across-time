@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8164527-1298928099-d32579476c99",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Samuel Clark",
+  "text": "an politician) (1853–?), Canadian merchant and politician\n\nSam Clarke (motorcyclist) (born 1996), Australian motorcycle racer\n\nSir Samuel Clarke, 1st Baronet (died 1719) of the Clarke baronets",
+  "url": "https://en.wikipedia.org/wiki/Samuel_Clark",
+  "revision_id": 1298928099,
+  "article_id": 8164527,
+  "section_path": "shared_text[0:1632]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1632
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 85260,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "7033d0bf97849d1c5bf1138031acb3be0c56f6295cb6485d1c8fe6737ae98bad",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1298928099",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8164527",
+    "revision_id": "1298928099",
+    "retrieved_at": "2026-10-18T12:40:02.518385+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1632,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

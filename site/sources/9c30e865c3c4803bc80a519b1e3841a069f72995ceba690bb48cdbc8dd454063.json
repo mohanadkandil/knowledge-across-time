@@ -1,0 +1,36 @@
+{
+  "id": "bri-1776-5ed864a29d36:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1776-5ed864a29d36",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "For similar reasons we may valedly, without a more minute examination, that bodies of such cases when overcharged, will have the redundant fluid much denser near the furnace than in the interior parts; and denfer in all directions, bumps, projections, angles, and near the exist of oblong bodies, and that is, general, the quantity of redundant fluid, or redundant matter, will be much more nearly proportional to the foreclosed bodies than their quantities of matters. All that is fully proved by experience. The experiment of the electrical chain is a very beautiful one. Lay a long metal chain in an influential metal difarified with with a elettronter. Let one end be held an inch or two above the coil by a file thread. Electricity the whole, and oblove the divergence of the electrometer , thus gradually drawing up the chain from the coil, the electroneter will gradually fall lower, and lowering the chain again will gradually rate to.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+  "provenance": {
+    "page_id": "bri-1776-5ed864a29d36",
+    "row_index": 1776,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1776-5ed864a29d36.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+    "manual_seed": true
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1309,
+    0.6344,
+    0.5273,
+    0.8711
+  ],
+  "offsets": [
+    0,
+    943
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

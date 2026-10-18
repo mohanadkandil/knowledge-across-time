@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1239817-406811192-23273c1f84b3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greek Scriptures",
+  "text": "Greek Scriptures may refer to:\n\nThe New Testament\n\nA translation of any Scripture into the Greek language, but especially the Septuagint translation of the Hebrew Scriptures, or Old Testament",
+  "url": "https://en.wikipedia.org/wiki/Greek_Scriptures",
+  "revision_id": 406811192,
+  "article_id": 1239817,
+  "section_path": "shared_text[0:191]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    191
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 50303,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "4fb7d398d1655c366696b218f5b0a2bc16c89ad66b54703b0bc3a7ecb8b6bafb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=406811192",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1239817",
+    "revision_id": "406811192",
+    "retrieved_at": "2026-10-18T12:39:05.337123+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 191,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24256800-1192688684-5e0fc7e1321b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cleopatra (gastropod)",
+  "text": "1902\n\nCleopatra obscura Mandahl-Barth, 1968\n\nCleopatra pilula Mandahl-Barth, 1967\n\nCleopatra poutrini Lamy, 1909\n\nCleopatra rugosa Connolly, 1925\n\nCleopatra smithi Ancey, 1906\n\n† Cleopatra vanloockei Van Damme & Pickford, 2003\n\nTaxa inquirenda\n\nCleopatra clara Pilsbry & Bequaert, 1927\n\nCleopatra congener Preston, 1913\n\nCleopatra laurenti Bourguignat, 1879\n\nCleopatra lhotellerii Bourguignat, 1879\n\nCleopatra mareotica Bourguignat, 1879\n\nCleopatra percarinata Bourguignat, 1885\n\nCleopatra raymondi Bourguignat, 1879\n\nCleopatra soleilleti Bourguignat, 1885\n\nSpecies brought into synonymy\n\nCleopatra broecki P utzeys, 1899 - synonym: Potadomoides broecki (Putzeys, 1899)\n\nCleopatra cameroni Bourguignat, 1879: synonym of Cleopatra ferruginea (I. Lea & H. C. Lea, 1851)\n\nCleopatra pauli Bourguignat, 1885: synonym of Cleopatra bulimoides (Olivier, 1804)\n\nThe habitat of species in this genus includes slow-running freshwater streams.\n\nParasites of Cleopatra include:\n\nServes as an intermediate host for Prohemistomum vivax.",
+  "url": "https://en.wikipedia.org/wiki/Cleopatra_(gastropod)",
+  "revision_id": 1192688684,
+  "article_id": 24256800,
+  "section_path": "shared_text[0:2461]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2461
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 12713,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "329952f237013ae8e640205b0baedfc01afc260c8b72a44906b69fc075d3d92b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1192688684",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24256800",
+    "revision_id": "1192688684",
+    "retrieved_at": "2026-10-18T12:35:56.921811+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2461,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

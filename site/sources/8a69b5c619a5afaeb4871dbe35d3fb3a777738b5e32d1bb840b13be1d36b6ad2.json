@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7381823-1281174017-2f948f95b9c3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chocolate (disambiguation)",
+  "text": "Chocolate is a food made from roasted and ground cacao seed kernels.\n\nChocolate may also refer to:\n\nChocolate, Mexico\n\nChocolate Hills, Bohol, Philippines\n\nChocolate Mountains (Arizona), United States\n\nChocolate Mountains, California, United States\n\nChocolat (2000 film), a Hallström romantic drama film\n\nChocklet, a 2001 Indian Tamil film starring Prashanth\n\nChocolate (2005 film), a 2005 Indian Hindi film\n\nChocolate (2007 film), an Indian Malayalam film\n\nChocolate (2008 film), a Thai martial arts film\n\nChocolate, a 1922 novel by Alexander Tarasov-Rodionov\n\nChocolate (band), a Uruguayan musical group\n\nHot Chocolate, a British soul band\n\n\"Chocolate\" (Jesse & Joy song)\n\n\"Chocolate\" (Kylie Minogue song)\n\n\"Chocolate\" (Snow Patrol song)\n\n\"Chocolate\" (The 1975 song)\n\n\"Chocolate\" (The Time song)\n\n\"Chocolate (Choco Choco)\", a 2004 song by Soul Control\n\n\"Chocolate\", a 2020 song by Max Changmin from his album Chocolate\n\n\"Chocolate\", a 2022 song by Quavo and Takeoff\n\n\"Chocolate\" (Masters of Horror), an episode of Masters of Horror\n\nKim Jung Eun's Chocolate, a music television program\n\nChocolate (Malayalam TV series), a 2019 Indian Malayalam television series\n\nChocolate (Tamil TV series), a 2019 Indian Tamil television series\n\nChocolate (South Korean TV series), a 2019 South Korean television series\n\nChocolate Skateboards, a skateboard distribution company\n\nLG Chocolate, a mobile phone\n\nChocolate (color)\n\nChocolate gourami, a fish\n\nChokoleit (1970–2019), Filipino actor and comedian",
+  "url": "https://en.wikipedia.org/wiki/Chocolate_(disambiguation)",
+  "revision_id": 1281174017,
+  "article_id": 7381823,
+  "section_path": "shared_text[0:1492]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1492
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 174110,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "8dde1f58da7ad6569e4f5472c98c3ad1bd88a092c302506544c5fd942dab61bc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1281174017",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7381823",
+    "revision_id": "1281174017",
+    "retrieved_at": "2026-10-18T12:16:17.530017+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1492,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

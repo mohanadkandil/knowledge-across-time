@@ -1,0 +1,44 @@
+{
+  "id": "wiki-275588-1329796917-a80601e22e8b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Slate (disambiguation)",
+  "text": "Slate is a type of rock, often used for roofing.\n\nSlate may also refer to:\n\nSlate, Kansas, a ghost town in the United States\n\nSlate, Virginia, an unincorporated community in the United States\n\nSlate, West Virginia, an unincorporated community in the United States\n\nSlate Run, a tributary of Pine Creek in Pennsylvania\n\nSlate (surname)\n\nSlate (magazine), an online publication\n\n\"Slate\", a song by Uncle Tupelo from the album Anodyne\n\nSlates (EP), an EP by The Fall\n\nSlate (elections), a group of candidates in a multi-seat or multi-position election\n\nSLATE (1958–1966), a campus political party at the University of California, Berkeley\n\nHP Slate 500, a Windows 7 tablet computer manufactured by Hewlett-Packard\n\nSlate PC, a Microsoft Tablet PC running Windows 7\n\nSlate phone, a smartphone form factor\n\nSlate tablet, a tablet computer form factor\n\nPixel Slate, a Google tablet computer\n\nSlate (writing), a board for writing on\n\nSlate board (clapperboard), a device used during film production\n\nSlate (broadcasting), a title card listing important metadata of a television program\n\nSlate and stylus, tools used by blind persons to write and read\n\nSlate Auto, an American electric vehicle manufacturer\n\nSlate Truck, a pickup truck produced by the manufacturer\n\nSlate (typeface), a neo-grotesque typeface\n\nSlate gray, a color\n\nSlate turkey, a breed of domestic fowl",
+  "url": "https://en.wikipedia.org/wiki/Slate_(disambiguation)",
+  "revision_id": 1329796917,
+  "article_id": 275588,
+  "section_path": "shared_text[0:1361]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1361
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 31014,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "f090e97b23a01ef41386f9808131a5ac56b5b9de1c1ac58ff22518755470bae3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329796917",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "275588",
+    "revision_id": "1329796917",
+    "retrieved_at": "2026-10-18T12:31:45.675805+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1361,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

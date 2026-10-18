@@ -1,0 +1,44 @@
+{
+  "id": "wiki-264258-1345899301-93e512a6041f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ballistics (disambiguation)",
+  "text": "Ballistics may refer to:\n\nBallistics, the science that deals with the motion, behavior, and effects of projectiles\n\nForensic ballistics, the science of analyzing firearm usage in crimes\n\nInternal ballistics, the study of the processes accelerating a projectile\n\nTransition ballistics, the study of the projectile's behavior when it leaves the barrel\n\nExternal ballistics, the study of the passage of the projectile through space or the air\n\nTerminal ballistics, the study of the interaction of a projectile with its target\n\nBallistic conduction, conduction of electricity with negligible charge scattering\n\nBallistic movement of muscles in an animal\n\nBallistic missile, a missile that follows a sub-orbital flightpath\n\nBallistic knife, a specialized combat knife with a detachable, self-propelled blade\n\nBallistic shield, a shield meant to protect the user from bullets\n\nBallistic (Image Comics), a comic character of Top Cow Productions\n\nBallistic (DC Comics), a DC Comic Book Character\n\nBallistic: Ecks vs. Sever, a 2002 film\n\nBallistic (film), a 2025 film\n\nBallistic, a 2011 novel by Mark Greaney\n\nBallistics, a 2013 novel by D. W. Wilson\n\nPuzz Loop, a 1998 video game by Mitchell Corporation, known as Ballistic outside Japan\n\nBallistics (video game), a 2001 video game by GRIN\n\nBallistic, a playable character in the video game 2019 Apex Legends",
+  "url": "https://en.wikipedia.org/wiki/Ballistics_(disambiguation)",
+  "revision_id": 1345899301,
+  "article_id": 264258,
+  "section_path": "shared_text[0:1350]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1350
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 7440,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "09438bdfa986d40fc3978a9284899f8a77cfe61ad96554cc716e51d83053b0f8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345899301",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "264258",
+    "revision_id": "1345899301",
+    "retrieved_at": "2026-10-18T12:36:28.468471+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1350,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

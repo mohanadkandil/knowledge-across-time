@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-29963c1853c8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "risis that emerged in the late 2nd century when the governor of Britain Clodius Albinus was consolidating his power after claiming the right of succession as Roman emperor. After a struggle with his rival Septimius Severus, Albinus was defeated in 197 at the Battle of Lugdunum (near Lyon, France). The economic stimulus provided by the wall and Septimius's subsequent campaigns in Scotland improved Londinium's financial prosperity in the early 3rd century.\n\nThe wall's gateways coincided with their alignment to the British network of Roman roads. The original gates, clockwise from Ludgate in the west to Aldgate in the east, were: Ludgate, Newgate, Cripplegate, Bishopsgate and Aldgate. Aldersgate, between Newgate and Cripplegate, was added around 350. Moorgate, initially just a postern i.e. a secondary gate, was built later still, in the medieval period.\n\nThe length and size of the wall made it one of the biggest construction projects in Roman Britain. It had gateways, towers and defensive ditches, and was built from Kentish ragstone, which was brought by barge from quarries near Maidstone. It was 2 miles (3.2 km) long, enclosing an area of about 330 acres (130 ha). It was 8 to 10 ft (2.5 to 3 m) wide and up to 20 ft (6 m) high. The ditch or fossa in front of the outer wall was 6 ft 7 in (2 m) deep and up to 16 ft (5 m) wide. There were at least 22 towers spaced about 210 ft (64 m) apart on the eastern section of the wall.\n\nExcavation work has traced a significant development of 980 feet (300 m) of timber-framed waterfronts to the east and west of the modern site of London Brid",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

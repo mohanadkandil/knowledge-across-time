@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "For them is excellent to give me the medical profefi- fion altogether, and he relied in Boehland during the greater part of the year. He made home differences in the funding of incitons, greatly facilitating that pro- cesby using the coil infused of charcoal. He and his partner therefore projected a very extensive manufacture of iron, for which they flow powered a fullestate sup- tal, an their financial bad much confidence in their inte- grity and abilities. Dr Roebuck a length made choice of a tip on the basis of the river Gavasars in the onthe advantageous fixation for the establishment of their iron manufacturing, abundance of iron-flows, lime-flow, and coal, being found in its immediate vicinity. The preparations for this rehabilitation were finished in the end of the year 1759, and the frift furnace was blown on the lift of January 1790, after which a second was in a short time needed.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1152,
+    0.3016,
+    0.5078,
+    0.5289
+  ],
+  "offsets": [
+    0,
+    903
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

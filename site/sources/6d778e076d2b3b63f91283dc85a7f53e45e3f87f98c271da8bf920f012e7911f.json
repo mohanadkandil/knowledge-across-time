@@ -1,0 +1,44 @@
+{
+  "id": "wiki-58739-1349988561-b58a9b27e2fc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Timeline of microscope technology",
+  "text": " presents his occhiolino to Prince Federico Cesi, founder of the Accademia dei Lincei (in English, The Linceans).\n\n1625: Francesco Stelluti and Federico Cesi publish Apiarium, the first account of observations using a compound microscope\n\n1625: Giovanni Faber of Bamberg (1574–1629) of the Linceans, after seeing Galileo's occhiolino, coins the word microscope by analogy with telescope.\n\n1655: In an investigation by Willem Boreel, Dutch spectacle-maker Johannes Zachariassen claims his father, Zacharias Janssen, invented the compound microscope in 1590. Zachariassen's claimed dates are so early it is sometimes assumed, for the claim to be true, that his grandfather, Hans Martens, must have invented it. Findings are published by writer Pierre Borel. Discrepancies in Boreel's investigation and Zachariassen's testimony (including misrepresenting his date of birth and role in the invention) has led some historians to consider this claim dubious.\n\n1661: Marcello Malpighi observed capillary structures in frog lungs.\n\n1665: Robert Hooke publishes Micrographia, a collection of biological drawings. He coins the word cell for the structures he discovers in cork bark.\n\n1674: Antonie van Leeuwenhoek improves on a simple microscope for viewing biological specimens (see Van Leeuwenhoek's microscopes).\n\n1725: Edmund Culpeper develops the double tripod compound microscope, which is widely adopted.\n\n1825: Joseph Jackson Lister develops combined lenses that cancelled spherical and chromatic aberration.\n\n1846: Carl Zeiss founded Carl Zeiss AG, to mass-produce microscopes and other optical instru",
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+  "revision_id": 1349988561,
+  "article_id": 58739,
+  "section_path": "shared_text[0:5338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 40744,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "25c993e72d09485d4923e37fd058572fe98812095ce9e0b45bbd5339d7338abc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349988561",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "58739",
+    "revision_id": "1349988561",
+    "retrieved_at": "2026-10-18T12:39:35.063760+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

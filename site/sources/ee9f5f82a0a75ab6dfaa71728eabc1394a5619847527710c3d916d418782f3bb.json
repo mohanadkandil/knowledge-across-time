@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1151144-1352966900-85a5d5e7f02e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swan (disambiguation)",
+  "text": "A swan is a bird of the genus Cygnus (true swans) or Coscoroba (coscoroba swans).\n\nSwan, swans, or The Swan may also refer to:\n\nThe Swan (1925 film), a 1925 silent film\n\nThe Swan (1956 film), a 1956 remake of a 1925 film of the same title\n\nSwan (1976 film), a Bulgarian drama film\n\nSwan, a television ident for BBC Two first aired in early 1998, see BBC Two '1991–2001' idents\n\nThe Swan (TV series), a U.S. reality TV series from 2004\n\nSwan (2011 film), a Portuguese film directed by Teresa Villaverde\n\nSwan (manga), a shōjo manga by Ariyoshi Kyoko\n\n\"The Swan\" (Baudelaire), a poem by Baudelaire\n\nThe Swan (newspaper), a student newspaper of St. Hugh's College, Oxford\n\nThe Swan (novel), an English translation edition of 1991 novel by Guðbergur Bergsson\n\n\"The Swan\" (short story), a 1977 story by Roald Dahl\n\nThe Swan, a 1920 play by Ferenc Molnár\n\nThe Swan, a 1993 play by Elizabeth Egloff\n\nSwans (band), an experimental rock group\n\nSwans (EP), a 1982 EP by the band Swans\n\nSwan (album), a 2011 album by Unwritten Law\n\n\"The Swan\", a song by Jay Chou from the 2007 album Secret\n\nThe Swan (ballet), better known as The Dying Swan\n\nLe Cygne (Saint-Saëns), a movement of the musical suite The Carnival of the Animals\n\nSwan (rolling papers), a subsidiary of Swedish Match\n\nSwans (eyewear), a Japanese eyewear brand\n\nSwan Electronics, a radio gear manufacturer\n\nSwan Records (jazz label)\n\nSwan Records, a pop record label\n\nHoward E. Johnson (1908–1991), American swing alto saxophonist, nicknamed Swan\n\nJoseph Swan (1828—1914), English physicist, chemist, and inventor (most notably of the filament light",
+  "url": "https://en.wikipedia.org/wiki/Swan_(disambiguation)",
+  "revision_id": 1352966900,
+  "article_id": 1151144,
+  "section_path": "shared_text[0:4986]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a0fdd500947a3e69a27c09533d7647e283004f8100f83d90f5e8622bf49b95e7",
+    "source_row_idx": 7836,
+    "source_shard": "enwiki/data/enwiki_namespace_0_73.parquet",
+    "text_sha256": "ce12eb189ac8b4bbbf308f2031cc70dd8c6fa661916d18830351eda3ab77833e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352966900",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1151144",
+    "revision_id": "1352966900",
+    "retrieved_at": "2026-10-18T12:42:00.661063+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4986,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6367255-1303515888-dca070ecb9e5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Acta Eruditorum",
+  "text": "ewton and Leibniz over credit for the development of differential calculus started with a contribution by Leibniz to the May 1697 issue of Acta Eruditorum, in response to which Fatio de Duillier, feeling slighted by being omitted from Leibniz's list of the best mathematicians of Europe, announced that Newton had discovered calculus before Leibniz and the last had probably even relied on Newton's achievements. In the following acrimonious squabble, Acta by and large acted as a mouthpiece for Leibniz's camp, much as Philosophical Transactions did for Newton's. Mencke tried to tone down the dispute, but rebuttals from both sides were too forceful. \"Where Mencke was powerless to call the tune, he did his utmost at least to set the tone,\" says H. Laeven in his description of the row. This dispute also influenced Acta to express the feelings of national cohesion and defining German scholarship within the international field of influence.",
+  "url": "https://en.wikipedia.org/wiki/Acta_Eruditorum",
+  "revision_id": 1303515888,
+  "article_id": 6367255,
+  "section_path": "shared_text[0:2385]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2385
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 93182,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "de02a473ed7026ddf259fbe8aa141f25407c094bb54a09c288b02038b4a1ebe4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1303515888",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6367255",
+    "revision_id": "1303515888",
+    "retrieved_at": "2026-10-18T12:22:27.274068+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2385,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2284-33471bbe8055:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2284-33471bbe8055",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "The _Adventires of Telemachus, when considered as a production of the seventeenth cen­tury, and still more as the work of a Roman Catholic Bishop, is a sort of prodigy ; and it may, to this day, be confidently recommended, as the best manual extant, for impressing on the minds of youth the leading truths, both of practical morals and of political economy. Nor ought it to be concluded, because these truths appear to lie so near the surface, and command so immediately the cordial assent of the understanding, that they are therefore obvious or tricritical; for the case is the same with _all_ the truths most essential to human happiness. The importance of agriculture and of religious toleration to the prosperity of states ; the criminal impolicy of thwarting the kind arrangements of Providence, by re-straints upon commerce ; and the duty of legislators to study the laws of the moral world as the ground-work and standard of their own, appear, to minds unsophisticated by inveterate prejudices, as approaching nearly to the class of axioms :-yet, how much ingenious and refined discussion has been employed, even in our own times, to combat the preju­dices which everywhere continue to struggle against them ; and how remote does the pe­riod yet seem, when there is any probability that these prejudices shall be completely abandoned !",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+  "provenance": {
+    "page_id": "bri-2284-33471bbe8055",
+    "row_index": 2284,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 0,
+    "sha256": "33471bbe8055216dff3be2c57a051fd04caf12126ecf736755ae78d39ca78c15",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2284-33471bbe8055.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0635,
+    0.25,
+    0.874,
+    0.6242
+  ],
+  "offsets": [
+    0,
+    1343
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

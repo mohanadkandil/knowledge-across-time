@@ -1,0 +1,36 @@
+{
+  "id": "bri-2092-16d9b9fb913a:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2092-16d9b9fb913a",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+  "text": "Should this subject for the flyerty which wasu thotified by the Jewish law be deemed fancifal, we beg have I blank for the collection of our readers this following account of that matter, to which the false objections will hardly be made. It was monthly impetible than between nations differing as widely in religion, cultures, and monsters, is the Jews and Gentiles, peace blood for our reign without transportory, but what were broke out, parties would be fought, and professors would be taken. How were their poison to be clipified of a Center for exchange were one then known: I was the duty of the Firstlife to prevent their captive from taking up unas a second face against them, they could not establish them among themselves either as artifacts or as hufandmen; for their law- joined them to have on communication with the kestivi. There are therefore a other alternative but etii ther to maffere them in coal blood, or to reduce them to the confidence if flows. If youate space, however that that flares were erial to the rank of citizens, or at least that their borders were mistakenly as far as they ever convinced of the truth of the Middle revelation, and received his covered with God by the rite or crimionism. They were then allowed to the celebration of the palivery concerning which one law was cleared to the Brange, and so him that my homeborn. Indeed, when he conflicted who was the legislator of the laws,) when we reflect upon the name her or have relied to mitigate theory among them, and call to stand the means by which the due execution of all their laws were enforced, yet",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+  "provenance": {
+    "page_id": "bri-2092-16d9b9fb913a",
+    "row_index": 2092,
+    "volume_id": "193108316",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+    "label": 0,
+    "sha256": "16d9b9fb913a5c3dbdb3b427deb2c90caa1a4901fd720e5bbe59825d25f92fb5",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-2092-16d9b9fb913a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1035,
+    0.2156,
+    0.8457,
+    0.4695
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-268959-1345805465-4c9baeb2333a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tripoli",
+  "text": "y, taking its name from and located on the site\n\nTripoli, Iowa, a city in Bremer County, Iowa, United States\n\nTripoli, Wisconsin, an unincorporated community in Wisconsin, United States\n\nNew Tripoli, Pennsylvania, a village in Pennsylvania, United States\n\nLeo of Tripoli (early 10th century), a Greek renegade and fleet commander for the Abbasid Caliphate\n\nMelisende of Tripoli (fl. around 1160), daughter of the ruler of the Crusader County of Tripoli, Lebanon\n\nSalvatore Tripoli (1904–1990), American professional boxer and Olympic medalist\n\nTony Tripoli (born 1969), American actor and LGBT rights activist\n\nJaman Tripoli (fl. 1998-2005), American soccer player\n\nPietro Tripoli (born 1987), Italian footballer\n\nTripoli (film), a 1950 American adventure film\n\n\"Tripoli\", a song by Matthew Good Band from The Audio of Being\n\n\"Tripoli\", a song by Pinback from Pinback\n\nMoses Tripoli, a reincarnation of the character Hanzee Dent in the TV show Fargo\n\nAC Tripoli, an association football club in Tripoli, Lebanon\n\nAl Mouttahed Tripoli, or United Club Tripoli, a sports club in Tripoli, Lebanon\n\nAsteras Tripolis, an association football club in Tripoli, Greece\n\nTripoli Grand Prix, a car race held between 1925-1940 outside Tripoli, Libya\n\nUSS Tripoli, various US Navy ships\n\nRotten stone, a polishing agent also known as tripoli",
+  "url": "https://en.wikipedia.org/wiki/Tripoli",
+  "revision_id": 1345805465,
+  "article_id": 268959,
+  "section_path": "shared_text[0:2768]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2768
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 26012,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "cc140e0af61aa28234737f3dc1e7ab7e63773782cd8f8c1acff2422cd342fa4c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345805465",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "268959",
+    "revision_id": "1345805465",
+    "retrieved_at": "2026-10-18T12:40:53.216517+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2768,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

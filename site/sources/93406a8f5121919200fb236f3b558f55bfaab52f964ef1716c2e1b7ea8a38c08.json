@@ -1,0 +1,44 @@
+{
+  "id": "wiki-652653-1353189992-af6c0eb00bec",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint",
+  "text": "p\n\nMalaysian Institute of Nuclear Technology Research, now Malaysian Nuclear Agency\n\nMinor International, a hospitality company, Stock Exchange of Thailand symbol MINT\n\nMint Airways, a former Spanish airline\n\nMiNT camera, a company specializing in instant cameras and accessories\n\nMint Mobile, a mobile virtual network operator in the United States\n\nMint Productions, an Irish TV production company\n\nThe Mint Las Vegas, a hotel and casino in Las Vegas 1957–1989\n\nJetBlue Mint, a premium cabin service of JetBlue\n\nMint, a robot by Evolution Robotics\n\nMinistry of Innovation and Technology (Ethiopia)\n\nMint (web analytics software), discontinued 2016\n\nMiNT, an operating system for the Atari ST\n\nLinux Mint, a distribution of the Linux kernel\n\nMint, Arizona, U.S.\n\nLiberty of the Mint, or The Mint, a district in Southwark, London, England\n\nRiver Mint, in Cumbria, England\n\nMint River, in Alaska, U.S.\n\nThe Mint (Carlingford), a fortified house and museum in Ireland\n\nSydney Mint, in New South Wales, Australia\n\nVallalar Nagar, Chennai, India, popularly called Mint\n\nMint (candy), a food item flavoured with mint\n\nMINT (economics), the economies of Mexico, Indonesia, Nigeria, and Turkey\n\nMINT, another acronym used for Science, technology, engineering, and mathematics (STEM)\n\nMint, a shade of the colour spring green",
+  "url": "https://en.wikipedia.org/wiki/Mint",
+  "revision_id": 1353189992,
+  "article_id": 652653,
+  "section_path": "shared_text[0:2756]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2756
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4ddb308459323163b83c0758c11dbaee347c4ab9275d48b7d8e597f3a291abd4",
+    "source_row_idx": 24919,
+    "source_shard": "enwiki/data/enwiki_namespace_0_71.parquet",
+    "text_sha256": "b993737a50d1c55aa6b932942a068202d7cd84d98bdf1b1d7fecf1c1ab5f3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353189992",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "652653",
+    "revision_id": "1353189992",
+    "retrieved_at": "2026-10-18T12:37:24.166837+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2756,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

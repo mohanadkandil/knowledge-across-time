@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "The smoothing is repeated every two hours, till the fuling he finished, and the cloth brought to its proper breath; after which it is washed in clear waer, to purge at of the soap, and given we to the carders to raise the hair or my on the right side with the little or weed. After this preparation, the cloth-worker takes the cloths, and gives it the first sort or shearing; then the careker resume it, and after wett, give it as many more curves now in the tracks, as the quality of the stuff requires, always observing to begin against the grain of the hurt, and to end it is, as also to begin until a smoother blisk, preceding still with one sharper and sharper, as far as the sixth degree.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0518,
+    0.1672,
+    0.4453,
+    0.3516
+  ],
+  "offsets": [
+    0,
+    694
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

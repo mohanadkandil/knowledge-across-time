@@ -1,0 +1,44 @@
+{
+  "id": "wiki-14753484-1350237856-e56a90e2e64c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mantis (genus)",
+  "text": "The genus Mantis is in the family Mantidae, of the mantis order Mantodea. Members of this genus can be found in Asia, Africa, Australia, and recently one species has been introduced to North America.\n\nSome of its species have the common name \" praying mantis \".\n\nMantis is a small genus of mantises, which includes 9 species (others are synonyms):\n\nMantis beieri Roy, 1999 – Democratic Republic of the Congo\n\nMantis callifera Wood-Mason, 1882\n\nMantis carinata Cosmovici, 1888\n\nMantis dilaticollis Gistel, 1856\n\nMantis emortualis Saussure, 1869\n\nMantis griveaudi Paulian, 1958\n\nMantis insignis Beier, 1954 – Angola, Guinea, Congo\n\nMantis macroalata Lindt, 1973 – Tajikistan\n\nMantis macrocephala Lindt, 1974 – Tajikistan\n\nMantis octospilota Westwood, 1889 — \"eight-spotted mantis\", or \"blackbarrel mantid\", Australia\n\nMantis pia Serville, 1839\n\nMantis religiosa (Linnaeus, 1758) — European mantis, or \"praying mantis\"\n\nMantis splendida de Haan, 1842\n\nMantis tricolor Linne, 1767",
+  "url": "https://en.wikipedia.org/wiki/Mantis_(genus)",
+  "revision_id": 1350237856,
+  "article_id": 14753484,
+  "section_path": "shared_text[0:976]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    976
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 67237,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "e3aaeed0bf90f6de6e2bf8ec198067e724fba8d4b8ad1f6b4864d155dffb572c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350237856",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "14753484",
+    "revision_id": "1350237856",
+    "retrieved_at": "2026-10-18T12:38:01.436679+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 976,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

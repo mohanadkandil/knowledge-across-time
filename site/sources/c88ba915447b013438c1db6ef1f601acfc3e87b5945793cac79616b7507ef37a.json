@@ -1,0 +1,36 @@
+{
+  "id": "bri-1137-484b60a07551:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1137-484b60a07551",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+  "text": "On arriving at the summit, our traveler was surprised to find scarcely room to sit down. The crater was enclosed with a small circular wall of pore phylrite lava, with basis of pichstones. This wall, at all little distance, has the appearance of a small cylinder or a truncated cone. It would have entirely blocked up the approach to the crater, had there not been a branch on the east side, then which which they descended into the funnel. They found it of an elliptic form, 300 feet in length, and 200 in breadth, is remarkable, that this dimension are onely a fifth part of those of the crater of Vestrain. In fact, very laid volcanoes usually throw out the matter by lateral openings, so that some of the greatest among the Aidee how we’re small patterns at the summit. The inside of the funnel indicated the appearance of a crater which had not thrown out fire for thousands of years. There were none of those layers of ecories and shells, which mark recent volcanic action, the floor was streetwed with pigments of story lines, which the action of time had detected from his sites. The strata along the edges were very irregularly plided over each other, exhibiting various groteesque ramifications. The lineings will se now while its surface, owing to the action of sulphuric acid gas on pitchcomporphyr. The aspect of the valley is rather curious than awiln. \"The majority of the site consists in its deviation above the (here) of the ocean, in the profound solitude of those lofty, gions, and the immense space over which the eye ranged.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+  "provenance": {
+    "page_id": "bri-1137-484b60a07551",
+    "row_index": 1137,
+    "volume_id": "193109112",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+    "label": 0,
+    "sha256": "484b60a075513f3c2fe43b48125173bb97294d324e2a391477b3043e21f46956",
+    "width": 600,
+    "height": 775,
+    "image_file": "../images/bri-1137-484b60a07551.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1387,
+    0.4359,
+    0.5029,
+    0.8352
+  ],
+  "offsets": [
+    0,
+    1546
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

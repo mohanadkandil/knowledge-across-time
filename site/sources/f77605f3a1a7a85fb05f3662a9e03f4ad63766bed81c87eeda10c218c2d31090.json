@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3803266-1272975380-f8ce3e1e5d2d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Prescott Drawbridge",
+  "text": "The Prescott Drawbridge, also called the Point Douglas Drawbridge, is a steel girder bridge with a double-leaf bascule drawbridge section. The roadbed of the drawbridge span is a steel grate. The bridge carries U.S. 10 across the St. Croix River and connects Prescott, Wisconsin, with the Point Douglas park area of Denmark Township, Minnesota. This is the only highway drawbridge in the Minneapolis–Saint Paul area with active traffic. It was completed in 1990 and replaced a rare regional example of a Waddell & Harrington vertical-lift bridge completed in 1922 that operated as a toll bridge from 1923 to 1946. The environmental impact statement, published in 1979, considered a higher level fixed bridge at this location.\n\nAdjacent to the road bridge, the BNSF Railway St. Croix Subdivision crosses the St. Croix river on a Vertical-lift bridge.",
+  "url": "https://en.wikipedia.org/wiki/Prescott_Drawbridge",
+  "revision_id": 1272975380,
+  "article_id": 3803266,
+  "section_path": "shared_text[0:849]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    849
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 42859,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "d1cf20507c50e279691715ee7bbada6251ba3aa0a39196a79c9103d5035ddbd1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1272975380",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3803266",
+    "revision_id": "1272975380",
+    "retrieved_at": "2026-10-18T12:23:42.094696+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 849,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

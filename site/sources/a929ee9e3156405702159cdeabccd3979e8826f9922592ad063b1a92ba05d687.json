@@ -1,0 +1,44 @@
+{
+  "id": "wiki-334678-1306866700-caef7c78733e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arthur Johnston (poet)",
+  "text": "Arthur Johnston (c.1579 – 1641) was a Scottish poet and physician. He was born in Caskieben (later renamed Keithhall) near Inverurie in Aberdeenshire. His father, Sir George Johnston, was an Aberdeenshire laird, and his mother Christian Forbes was the daughter of Lord Forbes.\n\nJohnston is thought to have begun his university studies at one, or both, of the colleges at the University of Aberdeen, but around 1608 he went to Italy and received an M.D. at Padua in 1610. Afterwards he lived at Sedan, Principality of Sedan as professor at the Academy of Sedan, in the company of the exiled Andrew Melville, and in 1619 was in practice in Paris. He appears to have returned to Scotland about the time of James VI 's death in 1625, and to have been in Aberdeen in about 1628. He met William Laud in Edinburgh at the time of Charles I 's Scottish coronation (1633). In that year, he had published a volume entitled Cantici Salomonis paraphrasis poetica, which, dedicated to Charles I, brought him to Laud's notice.\n\nJohnston was encouraged by Laud in his literary efforts, possibly as a strike against George Buchanan 's reputation as a Latin poet. Johnston was appointed rector of King's College, Aberdeen, in June 1637. Four years later he died at Oxford, on his way to London at Laud's invitation.\n\nJohnston left more than ten works, all in Neo-Latin. Only two of these, published in the same year, are notable: (a) his version of the Psalms (Psalmorum Davidis paraphrasis poetica et canticorum evangelicorum, Aberdeen, 1637), and (b) his anthology of contemporary Latin verse by Scottish poets (Deli",
+  "url": "https://en.wikipedia.org/wiki/Arthur_Johnston_(poet)",
+  "revision_id": 1306866700,
+  "article_id": 334678,
+  "section_path": "shared_text[0:2870]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 62577,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "dcf0056640865ed02bd0b3197ad0331403306033fd0d582364b2aeb4d1b028ed",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1306866700",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "334678",
+    "revision_id": "1306866700",
+    "retrieved_at": "2026-10-18T12:38:22.066070+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2870,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

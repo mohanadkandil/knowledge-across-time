@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16285814-1340136739-3fda8b66b103",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Ukraine",
+  "text": "The following outline is provided as an overview of and topical guide to Ukraine:\n\nUkraine – country in Eastern Europe. Formerly part of the Soviet Union. Ukraine has long been a global breadbasket because of its extensive, fertile farmlands. In 2011, it was the world's third-largest grain exporter with that year's harvest being much larger than average.\n\nPronunciation: / j uː ˈ k r eɪ n / yoo- KRAYN\n\nCommon English country name: Ukraine\n\nOfficial English country name: Ukraine\n\nCommon endonym (s): Україна Ukraina\n\nOfficial endonym(s): Україна Ukraina\n\nAdjectival (s): Ukrainian\n\nDemonym (s): Ukrainians\n\nEtymology: Name of Ukraine\n\nInternational rankings of Ukraine\n\nISO country codes: UA, UKR, 804\n\nISO region codes: See ISO 3166-2:UA\n\nInternet country code top-level domain:.ua\n\nGeography of Ukraine Ukraine is located in the south-east part of Europe. The capital city of Ukraine is Kyiv, located in north-central Ukraine. The country is bordered by the Black Sea and the Sea of Azov and the country of Russia and Belarus.\n\nUkraine is: a country\n\nLocation:\n\nNorthern Hemisphere and Eastern Hemisphere\n\nEurasia\n\nEurope\n\nEastern Europe\n\nTime zone: Eastern European Time (UTC+02), Eastern European Summer Time (UTC+03)\n\nExtreme points of Ukraine\n\nHigh: Hora Hoverla 2,061 m (6,762 ft)\n\nLow: Black Sea 0 m\n\nLand boundaries: 4,566 km\n\nRussia 1,576 km\n\nMoldova 940 km\n\nBelarus 891 km\n\nRomania 538 km\n\nPoland 428 km\n\nHungary 103 km\n\nSlovakia 90 km\n\nCoastline: Black Sea 2,782 km\n\nPopulation of Ukraine: 46,191,022 (September 1, 2008) – 40th most populous country\n\nArea of Ukraine: 603,628 km 2\n\nAtl",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Ukraine",
+  "revision_id": 1340136739,
+  "article_id": 16285814,
+  "section_path": "shared_text[0:9288]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 81840,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "0a336979a9f74cdbbfd23fe80554502677a24c32d3fa545fc26e6b226355e25b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340136739",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16285814",
+    "revision_id": "1340136739",
+    "retrieved_at": "2026-10-18T12:24:49.303455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9288,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-607253-1351099413-fdb454e6c9ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Living Machine",
+  "text": "A Living Machine is a form of ecological sewage treatment based on fixed-film ecology.\n\nThe Living Machine system was commercialized and is marketed by Living Machine Systems, L3C, a corporation based in Charlottesville, Virginia, United States.\n\nExamples of Living Machines are mechanical composters for industrial kitchens, effective microorganisms as fertilizer for agricultural purposes, and Integrated Biotectural systems in landscaping and architecture like Earthships or the IBTS Greenhouse.\n\nComponents like tomato plants (for more water purification) and fish (for food) have been part of the living, ecosystem -like designs. The theory does not limit the size of the system, or the amount of species. One design optimum is a natural ecosystem which is designed for a special purpose like a sewage treating wetland in a suitable ecosystem for the locality. Another optimum is an economically viable system returning profit for the investor. The practice of permaculture is one example for a compromise between the two optimum design points.\n\nThe scale of Living Machine systems ranges from the individual building to community-scale public works. Some of the earliest Living Machines were used to treat domestic wastewater in small, ecologically-conscious villages, such as Findhorn Community in Scotland. The latest-generation Tidal Flow Wetland Living Machines are being used in major urban office buildings, military bases, housing developments, resorts and institutional campuses.\n\n“Fixed film ecology” has superseded systems based on hydroponics or a fluid medium. In fixed film systems",
+  "url": "https://en.wikipedia.org/wiki/Living_Machine",
+  "revision_id": 1351099413,
+  "article_id": 607253,
+  "section_path": "shared_text[0:2365]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "236ff3663033d64cb75517a4df05bcd42dc6ef59325ee86bdd71d9a96771eacd",
+    "source_row_idx": 5716,
+    "source_shard": "enwiki/data/enwiki_namespace_0_59.parquet",
+    "text_sha256": "20d8af3d5f9acbc3708f19ba919c961c17df3f0143c70c254de478fde4cf0b5d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351099413",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "607253",
+    "revision_id": "1351099413",
+    "retrieved_at": "2026-10-18T12:40:45.169874+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2365,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -34,11 +34,12 @@ def _safe(value: Any, settings: Settings) -> Any:
     if isinstance(value, str):
         for secret in settings.secrets():
             value = value.replace(secret, "[REDACTED]")
+        value=value.replace(str(Path(__file__).resolve().parents[2]),"[project]").replace(str(Path.home()),"[home]")
         if value.startswith(("https://", "http://")):
             parsed = urlsplit(value)
             # Signed URLs and userinfo never belong in a submission package.
             public_query = urlencode([(k, v) for k, v in parse_qsl(parsed.query)
-                                      if k in {"datasetVersionNumber", "row", "page", "raw"}])
+                                      if k in {"datasetVersionNumber", "row", "page", "raw", "oldid", "title"}])
             value = urlunsplit((parsed.scheme, parsed.netloc.rsplit("@", 1)[-1], parsed.path, public_query, ""))
         return value
     return value
@@ -268,6 +269,8 @@ def batch(stage: Annotated[str, typer.Option(help="parse, match or compare; comp
             row = {"page_id": page["page_id"], "row_index": page["row_index"], "status": "complete"}
             if stage == "match" and not result.get("matches"):
                 row.update(status="no_match", uncertainty=result.get("uncertainty"))
+            if stage == "compare" and result.get("abstained"):
+                row.update(status="abstained", reason=result.get("reason"))
             if result.get("run_id"):
                 row["run_id"] = result["run_id"]
         except Exception as exc:
@@ -276,7 +279,9 @@ def batch(stage: Annotated[str, typer.Option(help="parse, match or compare; comp
         write_json(path, record)
         typer.echo(f"{index}/{len(pages)} {page['page_id']} {row['status']}", err=True)
     record.update(finished_at=now(), completed=sum(r["status"] == "complete" for r in record["rows"]),
-                  failed=sum(r["status"] == "error" for r in record["rows"]), no_match=sum(r["status"] == "no_match" for r in record["rows"]))
+                  failed=sum(r["status"] == "error" for r in record["rows"]),
+                  abstained=sum(r["status"] == "abstained" for r in record["rows"]),
+                  no_match=sum(r["status"] == "no_match" for r in record["rows"]))
     write_json(path, record); _print(record, settings)
     if record["failed"]:
         raise typer.Exit(1)
@@ -356,7 +361,7 @@ def export(output: Annotated[Path, typer.Option(help="Destination ZIP; existing 
                     continue
                 for path in sorted(site.rglob("*")):
                     if path.is_file() and not path.is_symlink() and path.suffix.lower() in {".pdf", ".tex", ".html", ".css", ".js", ".json", ".png", ".jpg", ".jpeg", ".svg", ".txt"}:
-                        name = "site/" + path.relative_to(site).as_posix()
+                        name = "project/site/" + path.relative_to(site).as_posix()
                         if name in archive.namelist():
                             continue
                         if path.suffix.lower() == ".json":
@@ -387,9 +392,11 @@ def export(output: Annotated[Path, typer.Option(help="Destination ZIP; existing 
                     for secret in settings.secrets():
                         text = text.replace(secret, "[REDACTED]")
                     archive.writestr("project/" + name, text)
-            for directory, extensions in [("src", {".py", ".html", ".css", ".js"}), ("docs", {".md"}), ("tests", {".py"})]:
+            for directory, extensions in [("src", {".py", ".html", ".css", ".js"}), ("docs", {".md"}),
+                                           ("tests", {".py"}), ("infra", {".py", ".txt", ".md", ".sh"}),
+                                           ("evidence", {".json", ".md"})]:
                 for path in sorted((project / directory).rglob("*")):
-                    if path.is_file() and not path.is_symlink() and (path.suffix in extensions or path.name == "LICENSE"):
+                    if path.is_file() and not path.is_symlink() and (path.suffix in extensions or path.name in {"LICENSE", "NOTICE", "Dockerfile", ".dockerignore"}):
                         text = path.read_text()
                         for secret in settings.secrets():
                             text = text.replace(secret, "[REDACTED]")

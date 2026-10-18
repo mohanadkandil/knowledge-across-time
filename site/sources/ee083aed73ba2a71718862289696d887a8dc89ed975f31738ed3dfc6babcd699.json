@@ -1,0 +1,36 @@
+{
+  "id": "bri-2344-90a2da5c428e:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-2344-90a2da5c428e",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+  "text": "Plate IX.\nVirg1 AIR GUN.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2344",
+  "provenance": {
+    "page_id": "bri-2344-90a2da5c428e",
+    "row_index": 2344,
+    "volume_id": "144850370",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+    "label": 1,
+    "sha256": "90a2da5c428e49b97b089a87f163dc9347ee20afa9c03f3e0a17f2aa79760820",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2344-90a2da5c428e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2344",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.041,
+    0.0,
+    0.999,
+    0.9258
+  ],
+  "offsets": [
+    0,
+    24
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

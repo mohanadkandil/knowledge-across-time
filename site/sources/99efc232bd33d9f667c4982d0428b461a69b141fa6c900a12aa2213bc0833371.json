@@ -1,0 +1,36 @@
+{
+  "id": "bri-1442-e57a7203c4cb:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1442-e57a7203c4cb",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+  "text": "After the death of Willey, the King, by the advice Comments , had the majority of our marriage debate in all the univerities of Europe; and the votes of thefe were obtained in his favour by kind of money. The de-borments made on the execution have even been perfect yet to this day. To a fublecon is gave a crown, to a decent one crowns, and fo to the vote in proportion to the importance of their fiction or opinions. Boing thus fortified by the opinions of the univerities, and even of the Jewish rabbits (for them also be had conflicted). Henry began to think the might fieldly up joife the pope himself. He beg by reviving in par-hament on old law against the clergy, by which all those who had foundered to the authority of the pope. I gate were condemned to fever penalties. The clergy, is condition the king’s around, we obliged to pay a fine of 1180,000 pounds. A condition wackles, wife extorted from them, that the king, and not the pope, was the forgotten land of the church and charge of England. And at was born after puffed and levying the full-fuins, or a year's rent of all the six hopes that it wasn't. After this the king privately married his beloved Anne Boleya i and the passing with child Soon after marriage, he publicly owned her for his writs, and paidef with her through London, with a greater magnificence than bad ever been known before. The frets were flerced with flowers, the walls of the house bring whippley, and an universal joy formed to be diffulled among the people. The unise tonate queen Saturday, pretending all further appeat- cifin to be was, visited to Amab",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+  "provenance": {
+    "page_id": "bri-1442-e57a7203c4cb",
+    "row_index": 1442,
+    "volume_id": "149979622",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+    "label": 0,
+    "sha256": "e57a7203c4cb43bce59f52e0f7a2e3e9d5845c8986f17f2418095dc8f1f88ada",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1442-e57a7203c4cb.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0068,
+    0.3563,
+    0.4521,
+    0.8484
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "In the mean time the French army advanced towards the Ze. Beaulieu was deceived by the arcade in the amrilize; which illustrated, that the French should be allowed to crush any river as Valentia, and made all his preparations for refillant quarters. Bonaparte laboured, by feveral evaluations, to confirm this error; and what the Auftlan general wailed for Jim near Vazienia, in various well identified positions, to advanced ladify into Lombardy; and had proceeded fours miles down the river o Placenta, where he arrived on the yah of Mary before the direction of her speech we differed. He immediately fetzed whatever boats or other craft he could find, and affected his package with difficulty, that are being only to form party of Auft-trian cavayl accidentally on the opposite bank, and they did at the approach. Beaulieu in the meanwhile bad fint, when too late, a body of 6000 infantry and 6000 evary, to prevent if polflible the French from paling the river, at Bonaparte, now on the famine date of the river with themselves, not and defeated them on the 8th at the village of Pombio. Another body of 5000 Imperialists, advancing to the suffocation of the different from Amrilike the two was met at Odageno, and supplied by General LaPake of Harpe; but this officer was killed on the oceration. On Parma. 16th 20th Panaparte granted an amrilities to the Duke of Parma, on condition of his paying a contribution of 2,000,000 of French money, and delivering 10,000 quintals of where, 1,000 quintals of ants, and 2000 even, for the rule of the same). This practice also agreed to deliver up 20 o",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.4766,
+    0.2516,
+    0.876,
+    0.8602
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

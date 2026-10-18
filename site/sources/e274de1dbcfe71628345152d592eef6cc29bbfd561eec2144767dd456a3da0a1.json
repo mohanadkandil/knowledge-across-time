@@ -1,0 +1,36 @@
+{
+  "id": "bri-1854-36bca28d19d7:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-1854-36bca28d19d7",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "text": "The Black diffuse as a radon, why finnel and other fableness of the kind keep the body warm, that they compole a rare and fonomy male, the filters of which touch with other its flights, but the best moved slowly through the interfaces, which being filled only with air, and that in a diagram flare, give little affalliances in con-dating the heat. From the experiments of Comt Lambund, it appears, that there is a citation between the power which the fabulances usually worn as clothing have of schooling malines, and that of keeping the body warm. Having provided a quantity of each of these fabulans mentioned below, it escaped them, fored not upon clean China later, for the face of 24 hours to the warm and dry air of a room which had been hosted by a German love for forest animals, and during that ifx those had ruled this thermometer to 8y’ of Fahrenheit s after which he weighed equal quantities of the different fiabbers, with a very accurate balance. They were the (jared out upon a China plate, and removed into a very large unhahalable room upon, the found floor, where they were expelled 18 hours upon a table placed in the middle of the room, the air of which was at 44° of Fahrenheit. At the end of this faces they were weighed, and then removed in to a damp cellar, and placed on a table in the middle of the vault, where the air was at the temperature of 45° and which by the hygrometer demand to be fully flattered wild moisture. In this situation they were fuiftered to remain three days and then nights the rush being all the time huge round with wet linen Gatis, to reverse the a",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "provenance": {
+    "page_id": "bri-1854-36bca28d19d7",
+    "row_index": 1854,
+    "volume_id": "191320561",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+    "label": 0,
+    "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-1854-36bca28d19d7.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5059,
+    0.4039,
+    0.8896,
+    0.832
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

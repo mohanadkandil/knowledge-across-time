@@ -1,0 +1,44 @@
+{
+  "id": "wiki-284289-1353524147-ee1bdc797f01",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of rock types",
+  "text": "ic intrusive rock dominated by mafic phenocrysts in a feldspar groundmass\n\nLatite – Type of volcanic rock – A silica-undersaturated form of andesite\n\nLeucitite\n\nLherzolite – Type of igneous rock – An ultramafic rock, essentially a peridotite\n\nMonzodiorite An intrusive igneous rock intermediate in composition between diorite and monzonite\n\nMonzogabbro – Type of intrusive igneous rock\n\nMonzogranite – Biotite granite rocks that are considered to be the final fractionation product of magma – A silica-undersaturated granite with <5% normative quartz\n\nMonzonite – Igneous intrusive rock with low quartz and equal plagioclase and alkali feldspar – a plutonic rock with <5% normative quartz\n\nNepheline-bearing diorite – Form of intrusive igneous rock\n\nNepheline syenite – Holocrystalline plutonic rock – A silica-undersaturated plutonic rock of nepheline and alkali feldspar\n\nNephelinite – Igneous rock made up almost entirely of nepheline and clinopyroxene – A silica-undersaturated plutonic rock with >90% nepheline\n\nNorite – Mafic intrusive igneous rock – A hypersthene-bearing gabbro\n\nObsidian – Naturally occurring volcanic glass\n\nPegmatite – Igneous rock with very large interlocked crystals\n\nPeridotite – Coarse-grained ultramafic igneous rock type\n\nPhonolite – Uncommon extrusive rock – A silica-undersaturated volcanic rock; essentially similar to nepheline syenite\n\nPhonotephrite – A volcanic rock with a composition between phonolite and tephrite\n\nPicrite – Variety of high-magnesium basalt that is very rich in the mineral olivine – An olivine-bearing basalt\n\nPorphyry – Textural form of ig",
+  "url": "https://en.wikipedia.org/wiki/List_of_rock_types",
+  "revision_id": 1353524147,
+  "article_id": 284289,
+  "section_path": "shared_text[0:15318]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "63bf49ee93b73298549a18ce72ee76973ea4d618a6cd0f70cd117128ae33a244",
+    "source_row_idx": 29489,
+    "source_shard": "enwiki/data/enwiki_namespace_0_78.parquet",
+    "text_sha256": "7ea55105bf0064527bc26cb00cc5f45981c6d1302b87a5719aef6773812b2b7f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353524147",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "284289",
+    "revision_id": "1353524147",
+    "retrieved_at": "2026-10-18T12:29:33.607646+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15318,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

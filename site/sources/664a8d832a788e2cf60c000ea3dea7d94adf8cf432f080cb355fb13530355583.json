@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23478226-1351331457-876ebf4ba762",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Libella",
+  "text": "Libella is a soft drink that was widely consumed in Germany in the 1950s and 1960s. It was developed by Rudolf Wild, an entrepreneur from Heidelberg who sought to make a fruit-favored drink without artificial ingredients. The bottles were notable for their molded grooves and for their yellow-and-green logo printed directly on the bottle.\n\nThe Libella brand still exists, and also currently offers a cola product as well.\n\nThe name is vaguely similar to the German word \"Libelle\" which means \" Dragonfly \" in English.",
+  "url": "https://en.wikipedia.org/wiki/Libella",
+  "revision_id": 1351331457,
+  "article_id": 23478226,
+  "section_path": "shared_text[0:518]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    518
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cb1f23182061a449568a2d80e0b37881a2055db9ea3954928d31c2735cd53759",
+    "source_row_idx": 60605,
+    "source_shard": "enwiki/data/enwiki_namespace_0_57.parquet",
+    "text_sha256": "b1348e983ca523752a5413ba1e9943a5ca6daabc35dd17930d7fd252b28068c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351331457",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23478226",
+    "revision_id": "1351331457",
+    "retrieved_at": "2026-10-18T12:29:15.017557+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 518,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

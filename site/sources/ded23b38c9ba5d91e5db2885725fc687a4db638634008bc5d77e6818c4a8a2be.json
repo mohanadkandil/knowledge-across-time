@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1054294-1334829079-8fc5e7dbe0ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Rifled breech loader",
+  "text": "breech block could be threaded, and hence it needed to be fairly long to achieve safe locking of the breech, which required three separate motions to open after firing; rotate to unscrew, retract the screw and swing to the side. Loading required the 3 operations in reverse. This was hence termed a \"three motion block\" and was slow to operate.\n\nWhile working as a weapons designer for Thorsten Nordenfelt in London, Axel Welin solved this problem in 1889–1890 with his stepped interrupted screw Welin breech block. This had threads in sets of steps of increasing diameter so that instead of only half of the screw being threaded, the fraction threaded was number of steps / (1 + number of steps): i.e. if the block of a large gun had four steps of threads, 80% of the screw was threaded, allowing a much shorter screw and hence breech block. This allowed the block to be unscrewed and swung out in two motions – the \"two motion interrupted screw\" breech.\n\nAlso in the early 1890s, Arent Silfversparre of Bofors invented an ogival screw breech, similar to the Armstrong model in the way it eliminated the need to withdraw the screw before swinging it to the side. Bofors continued to use this in medium artillery into the 20th century. The Elswick conical screw breech is very similar in concept.\n\nThe German company Krupp in contrast, adopted \"Horizontal sliding block\" breeches, rather than screw breeches, for all artillery calibres up to 16 in (410 mm) naval guns. This was similar in some ways to the original \"Armstrong screw\"; the shot and powder cartridge were inserted through the open rear ",
+  "url": "https://en.wikipedia.org/wiki/Rifled_breech_loader",
+  "revision_id": 1334829079,
+  "article_id": 1054294,
+  "section_path": "shared_text[0:12203]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 77366,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "9fc95d203717d29d0d1dab0902784f7d35cf0ce3d2f1882f9c672a4a6d5b8527",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334829079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1054294",
+    "revision_id": "1334829079",
+    "retrieved_at": "2026-10-18T12:41:57.411308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12203,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3611942-1347882685-51c22fff03a2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Thoughts on the True Estimation of Living Forces",
+  "text": "Thoughts on the True Estimation of Living Forces (German: Gedanken von der wahren Schätzung der lebendigen Kräfte) is Immanuel Kant 's first published work, published in 1749. It is the first of Kant's works on natural philosophy.\n\nThe True Estimation is divided into a preface and three chapters. Chapter One is titled \"Of the force of bodies in general\". Chapter Two is titled \"Examination of the theorems of the Leibnizian party concerning living forces\" and is a critique of Leibniz and his followers' position on living forces. Chapter Three, titled \"Presenting a new estimation of living forces, as the true measure of force in nature\", presents Kant's resolution of the conflict between the Cartesian and the Leibnizian measures of force.\n\nAlthough written in 1744–46 when Kant was a young student, it was published in 1749 (not 1747, as is often claimed) since publication was delayed for three years due to financial issues. Kant’s aim in the True Estimation was to settle the vis viva debate amongst Descartes and Leibniz as well as their respective followers. It reflected Kant's position as a metaphysical dualist at the time. In it he argues against the vis motrix (\"moving force\") view supported by Wolff and other post- Leibnizian German rationalists that proposed that bodies have no essential force, and claimed that, instead, the existence of an essential force can be proven by metaphysical arguments. Kant criticized Leibniz's followers for looking \"no further than the senses teach,\" and stayed close to Leibniz's original vis activa (\"active force\"; also known as vis viva, \"liv",
+  "url": "https://en.wikipedia.org/wiki/Thoughts_on_the_True_Estimation_of_Living_Forces",
+  "revision_id": 1347882685,
+  "article_id": 3611942,
+  "section_path": "shared_text[0:1626]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 36981,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "73173b5cb0e98ac4a4b178d3d1f28ab5a2ba7f52b3ffb6afd506e434e200a530",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347882685",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3611942",
+    "revision_id": "1347882685",
+    "retrieved_at": "2026-10-18T12:37:35.985024+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1626,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

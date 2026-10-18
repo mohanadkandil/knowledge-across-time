@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1354210-1345748773-05c90eb03f83",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Lava (disambiguation)",
+  "text": "st Hits TV\n\nLinaro Automated Validation\n\nLAVA - Laboratory for Visionary Architecture\n\nLAVA - Lesser Antilles Volcanic Arc, a chain of volcanoes and volcanic islands in the eastern Caribbean\n\nLava steatite, one of the names of soapstone\n\nLava cake, another name of molten chocolate cake",
+  "url": "https://en.wikipedia.org/wiki/Lava_(disambiguation)",
+  "revision_id": 1345748773,
+  "article_id": 1354210,
+  "section_path": "shared_text[0:1726]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1726
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8cd10b1d4e9b71d127ae5b059e5081c7efff5a97bba4e97ca3340a35783ea532",
+    "source_row_idx": 78279,
+    "source_shard": "enwiki/data/enwiki_namespace_0_36.parquet",
+    "text_sha256": "eb6d506cd773f6149da73ac63fadceede13eace598713cc047534b8b2e4b0447",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345748773",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1354210",
+    "revision_id": "1345748773",
+    "retrieved_at": "2026-10-18T12:41:12.441648+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1726,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

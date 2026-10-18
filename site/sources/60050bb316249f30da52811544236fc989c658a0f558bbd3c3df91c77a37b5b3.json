@@ -1,0 +1,36 @@
+{
+  "id": "bri-0995-217a04a6ceda:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0995-217a04a6ceda",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+  "text": "To produce this quantity, 48 evt. of cannal or coal fitted for the purposes will be required, and which, in the coal districts, may be calculated at 20% per ton, giving for the annual charge _about_ L. 880 Common coal for fuel, say half the weight of the above, and at half the price, 220 Lilled water for justifying the gas. 270 Management, wages and sundur charges, 1,090 Annual renewal of sixteen or seventeen reforts, 293 Two and a half _per cent._ on the amount of main pipes, &c. 260 Ter prepaid, on the amount of the other parts of the apparatus to cover repairs and ordinary wear and tear, 1,070 Annual expenditure, L. 4,020 Which amounts to L. 11 per day as the cost of 25,000 cubic feet of gas, or about 8s. 10d: for the cost of each 1000 cubic feet, exclusive of interest on capital, y that added, it will amount to 11s. 24, and as 20 cubic feet of gas will give the same light that 1 lb. of tallow does, the cost of it will be",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+  "provenance": {
+    "page_id": "bri-0995-217a04a6ceda",
+    "row_index": 995,
+    "volume_id": "193696082",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+    "label": 0,
+    "sha256": "217a04a6ceda3cc388e2fd1874ff3238e29721f1a34fb4286e24ecb5084ebd24",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-0995-217a04a6ceda.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0479,
+    0.0938,
+    0.4424,
+    0.4203
+  ],
+  "offsets": [
+    0,
+    938
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

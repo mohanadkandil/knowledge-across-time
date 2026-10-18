@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1389140-1343112245-6399fde365f8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Electrotherapy",
+  "text": "Electrotherapy is the use of electrical energy as a medical treatment. In medicine, the term electrotherapy can apply to a variety of treatments, including the use of electrical devices such as deep brain stimulators for neurological disease. Electrotherapy is a part of neurotherapy aimed at changing the neuronal activity. The term has also been applied specifically to the use of electric current to speed up wound healing. The use of electromagnetic stimulation or EMS is also very wide for dealing with muscular pain. Additionally, the term \"electrotherapy\" or \"electromagnetic therapy\" has also been applied to a range of alternative medical devices and treatments. Evidence supporting the effectiveness of electrotherapy is limited (see section Medical uses below).\n\nElectrotherapy is primarily used in physical therapy for:\n\nrelaxation of muscle spasms\n\nprevention and retardation of disuse atrophy\n\nincrease of local blood circulation\n\nmuscle rehabilitation and re-education\n\nelectrical muscle stimulation\n\nmaintaining and increasing range of motion\n\nmanagement of chronic and intractable pain including diabetic neuropathy\n\nacute post-traumatic and post-surgical pain\n\npost-surgical stimulation of muscles to prevent venous thrombosis\n\nwound healing\n\ndrug delivery\n\nThere is limited evidence supporting electrotherapy, specifically in treating musculoskeletal, osteoarthritis, fibromyalgia, neck pain, lumbopelvic pain, and ulcer conditions. Some of the treatment effectiveness mechanisms are little understood. The natural neurostimulation hypothesis explains the therapeutic effect by the",
+  "url": "https://en.wikipedia.org/wiki/Electrotherapy",
+  "revision_id": 1343112245,
+  "article_id": 1389140,
+  "section_path": "shared_text[0:8275]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "052a205be6e305039c6f7ed831b88a9bdd01ed15cdeb1236a4b1c8a87610095e",
+    "source_row_idx": 74645,
+    "source_shard": "enwiki/data/enwiki_namespace_0_34.parquet",
+    "text_sha256": "aa6a57458d1726a43b4ed5d95c887a14fc0a5d2163e4a4f527f005ea83f7a628",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343112245",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1389140",
+    "revision_id": "1343112245",
+    "retrieved_at": "2026-10-18T12:28:32.198333+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8275,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

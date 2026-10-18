@@ -1,0 +1,44 @@
+{
+  "id": "wiki-55351999-1323365652-a03231ef93e9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cynanchum acidum",
+  "text": "Cynanchum acidum is a species of flowering plant in the family Apocynaceae, typically found in the arid parts of peninsular India where it is used in religious sacrifices. The plant is religiously linked to Hinduism and is believed to be a major ingredient of the Soma in Ancient India.\n\nCynanchum acidum is a perennial leafless, jointed shrub with green, cylindrical, fleshy glabrous with twining branches having milky white latex and with its leaves reduced to scales. Its flowers are white or pale greenish white, are fragrant and grow in umbels on branch extremities. The fruits follicles taper at both ends; seeds are flat, ovate, comose. This leafless plant grows in rocky, sterile places all over India.\n\nThe plant yields an abundance of a mildly acidulous milky juice, and travellers like nomadic cowherds suck its tender shoots to allay thirst. Outdated accounts hold that Cynanchum acidum is the Soma plant of the Vedas. The Rigveda, ix. says the purifying Soma, like the sea rolling its waves, has poured forth songs, hymns, and thoughts.\n\nIn classical Indian medicine it is considered useful in vitiated conditions of pitta, dipsia, viral infection, hydrophobia, psychopathy and general debility.",
+  "url": "https://en.wikipedia.org/wiki/Cynanchum_acidum",
+  "revision_id": 1323365652,
+  "article_id": 55351999,
+  "section_path": "shared_text[0:1208]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1208
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 22376,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "c1e3f5b8e3e1dc6fed76c42b4e87316a061e2d4714437b4dc1fea89aac8249f6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323365652",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "55351999",
+    "revision_id": "1323365652",
+    "retrieved_at": "2026-10-18T12:38:48.991677+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1208,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

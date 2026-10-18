@@ -1,0 +1,49 @@
+{
+  "id": "wiki-39361535-1348191975-3ecc7b4a68ed",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of pharmacy colleges in India",
+  "text": "ogy\n\nIndukaka Ipcowala College of Pharmacy\n\nInstitute of Ayurvedic Pharmaceutical Sciences, Irwin Hospital Road\n\nK.B. Institute of Pharmaceutical Education & Research\n\nL.B. Rao Institute Of Pharmaceutical Education & Research\n\nL.J. Institute of Pharmacy, Ahmedabad\n\nL. M. College of Pharmacy\n\nMaliba Pharmacy College\n\nNIPER Ahmedabad, Thaltej\n\nGandhinagar Institute of Pharmacy, Gandhinagar University\n\nNoble Pharmacy College, Junagadh\n\nParul Institute of Pharmacy\n\nPharmacy Department\n\nROFEL Shri G.M. Bilakhia College of Pharmacy, VAPI-396191. (W) Ta: PARDI\n\nShantilal Shah Pharmacy College, Gaurishankar Lake Road\n\nShir B.M. Shah College of Pharmaceutical Education and Research\n\nShree Maruti Kelavani Mandal Trust Managed Diploma Pharmacy College\n\nShree S K Patel College of Pharm Edu & Res, Taluk & Dist. Mehsana\n\nShri B.M. Shah College of Pharmacy, P.O. Box No. 12\n\nShri G.M. Patel College of Pharmacy, Ramba Kanya Chhatralaya Campus, Highway\n\nShri Sarvajanik Pharmacy College\n\nSmt. B.N.B. Swaminarayan Pharmacy College, Salvav, Vapi 396191 GJ\n\nSmt. Rupaben B. Patel Mahila Pharmacy College, Bhavnagar Road, Atkot, Jasdan Taluk\n\nTolani Institute of Pharmacy, Nursery Garden, Ward 2/A, Adipur\n\nVidyabharti Trust College of Pharmacy\n\nBhagwan Mahavir College of Pharmacy, Surat.\n\nCK Pithawala Pharmacy College, Surat.\n\nPuran Murti College of Pharmacy, Sonipat (Delhi- NCR)\n\nB.P.S. Mahila Polytechnic, Somepat Dist\n\nPM College of Pharmacy, Sonipat\n\nJhankar Pharmacy College Gurgaon, Haryana India.\n\nPuran Murti Campus, Sonipat (Delhi-NCR)\n\nB.S. Anangpuria Institute of Pharmacy\n\nBharat Institute of",
+  "url": "https://en.wikipedia.org/wiki/List_of_pharmacy_colleges_in_India",
+  "revision_id": 1348191975,
+  "article_id": 39361535,
+  "section_path": "shared_text[0:32821]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 34163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "0aa5456859680e73ce11343c99f387da9a2c893951c6da5c7cc965dd1e134705",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348191975",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39361535",
+    "revision_id": "1348191975",
+    "retrieved_at": "2026-10-18T12:28:56.445727+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 12821,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

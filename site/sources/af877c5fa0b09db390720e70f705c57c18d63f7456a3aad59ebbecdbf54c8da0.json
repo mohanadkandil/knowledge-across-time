@@ -1,0 +1,44 @@
+{
+  "id": "wiki-79248633-1353706992-968b02e1af48",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "The Battle of Lodi",
+  "text": "The Battle of Lodi (French: La Bataille de Lodi) is an oil on canvas history painting by the French artist Louis-François Lejeune, from 1804. It is held at the Palace of Versailles, in Versailles.\n\nOne of a number of battle scenes produced by Lejeune during his career, it depicts the Battle of Lodi fought on 10 May 1796 during the Italian Campaign of the French Revolutionary Wars. Forces of the French Republic under General Napoleon Bonaparte won a victory over an Austrian army near Lodi in Northern Italy.\n\nNapoleon is shown mounted in the foreground directing French troops who are seeing storming a bridge over the Adda River. To his right side, lie some wounded and dead Austrian soldiers, near a destroyed canon. The same year the painting was produced, Napoleon proclaimed himself as Emperor.\n\nThe painting was exhibited at the Salon of 1804 at the Louvre in Paris, along with Lejeune's The Battle of Aboukir and a sketch of The Battle of Mount Tabor. Today it is in the collection of the Palace of Versailles, having been acquired in 1861.",
+  "url": "https://en.wikipedia.org/wiki/The_Battle_of_Lodi",
+  "revision_id": 1353706992,
+  "article_id": 79248633,
+  "section_path": "shared_text[0:1051]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1051
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ca5ebcacf9149b244d89424f670f0940e612fcc0c67d04bc4727ae771b76e80",
+    "source_row_idx": 23090,
+    "source_shard": "enwiki/data/enwiki_namespace_0_84.parquet",
+    "text_sha256": "34a1a511242551f6a9d12b3577ee697e4e7f0005be814f3708a11234f21828ac",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353706992",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "79248633",
+    "revision_id": "1353706992",
+    "retrieved_at": "2026-10-18T12:22:19.824646+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1051,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

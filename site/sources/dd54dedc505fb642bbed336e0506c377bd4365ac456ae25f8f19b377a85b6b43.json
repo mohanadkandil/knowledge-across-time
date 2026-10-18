@@ -1,0 +1,36 @@
+{
+  "id": "bri-0417-c8ee936d8958:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0417-c8ee936d8958",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+  "text": "Obatelite, however, Captain Cook, in 1773; turned about 14 cats on the island, which have probably reduced the men for of these vermin. No few times, tosj, scons, contipides, or any kind of serpent, has been found here i) the ants, however, are troublesome, but not very nu-menon. When the Bodeswore first arrived here an 1769, the first were found excessively troublesome, but mosqueto nets and fly flaps in some measure removed the inconvenience. Sydney Parkinsone, in his journal, says that natristhishing these flies as no great a nuisance, the natives, from a religious principle, will not kill them. But there is a strange disagreement in the counts of different weapons concerning this matter. For M. Bougainville says, \"this island is not infected with those myriads of troutlesome insects are the plague of other tropical countries\". And Mr Foster says, \"not a grant or mosquito homemed uplessantly about us, or made us aprehensive of its bite? This inconvence must therefore be felt at certain season of the year, and in certain districts of the country, more sensibly than an other times and places. There's great westernly of excellent fish i) and evening on Arizona, a native who embarked with M. de Bougainville, there are sea-snakes on the shore of Obtaetic, whose bite is mortal.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+  "provenance": {
+    "page_id": "bri-0417-c8ee936d8958",
+    "row_index": 417,
+    "volume_id": "192015837",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+    "label": 0,
+    "sha256": "c8ee936d8958d80dfedb7e7f07c63379f7f9a7bfa2ba9f6d639458ff73fc536c",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0417-c8ee936d8958.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.041,
+    0.068,
+    0.5098,
+    0.4055
+  ],
+  "offsets": [
+    0,
+    1295
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

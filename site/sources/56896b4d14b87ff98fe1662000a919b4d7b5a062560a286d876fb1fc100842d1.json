@@ -1,0 +1,36 @@
+{
+  "id": "bri-0608-5cb01932cdde:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0608-5cb01932cdde",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+  "text": "QUARLES, FRANGES, the fun of James Querles clerk to the board of green cloth, and purveyon in Queen Elizabeth, was born in 293. He was educated Cummings because a member of Lincoln's him; and was for none time cupcurecer to the poem of Hobo- man, and encourages the city of London. It was probably on the run of her affairs that he went to Tre- land a secretary of Archibal Village, but the tracks in that kingdom facing him to name, and not find- ing affairs more as passes in England, four discipline the same, with were thought in the real behind his death, which happened in 164. His works both in profes and wife wrote a memory, and not formerly in great science, presumably his Chinese Emblemant that the co- folets mainman of this flyb has caused them to full into insects, exposing many pesticides claims of diseases, conflict.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+  "provenance": {
+    "page_id": "bri-0608-5cb01932cdde",
+    "row_index": 608,
+    "volume_id": "191320558",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+    "label": 0,
+    "sha256": "5cb01932cddebc17e7f873ed9584f937a9c07d1c84bec2d58b28d1c0620146a1",
+    "width": 600,
+    "height": 784,
+    "image_file": "../images/bri-0608-5cb01932cdde.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.4814,
+    0.1531,
+    0.8906,
+    0.357
+  ],
+  "offsets": [
+    0,
+    835
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-59854533-1350003978-3b8be30e6de8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arsenic (disambiguation)",
+  "text": "Arsenic is the chemical element with symbol As and atomic number 33.\n\nArsenic may also refer to:\n\nArsenic trioxide, a poison commonly referred to as simply as \"arsenic\"\n\nArsenic acid, a chemical compound with the formula H AsO\n\nArsenic Lake, a lake in Ontario, Canada\n\nÄrsenik, a French rap group\n\nMr. Arsenic, an America anthology television series\n\nZoran Arsenić, a Croatian footballer",
+  "url": "https://en.wikipedia.org/wiki/Arsenic_(disambiguation)",
+  "revision_id": 1350003978,
+  "article_id": 59854533,
+  "section_path": "shared_text[0:387]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    387
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 53567,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "c21f730ddff1de8b873c0dc676b294e8520432d047ccb0ba92473efda252ac2b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350003978",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "59854533",
+    "revision_id": "1350003978",
+    "retrieved_at": "2026-10-18T12:40:34.665553+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 387,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

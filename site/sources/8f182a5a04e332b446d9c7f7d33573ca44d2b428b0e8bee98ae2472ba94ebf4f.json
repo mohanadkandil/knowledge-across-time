@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "On the 16th Angeeau attacked the redouts which covered this camp, and took out of them it which in closed the Piemontees to execute it during the night, and on the 13th then was entered by Serrurier. Comt Colli now retreated to cover Thairs making choice houses of the thought polls, and fighting in them all. He was able, on the 20th, to rapide Serrature; but on the 24t Bonaparte, fill pelling on the Pied-moned general, defend him near Mondolori, and entered that place. The retreating army next endeavoured to make a stand, with in bed quarters at Polifano, and its wings at Coni and Caralos. On the 29th Maffena advanced again! Cherafco, which was specily excavated. Folfano furrednered to Serrurier, and Alba to Agereau.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0742,
+    0.5086,
+    0.4697,
+    0.7164
+  ],
+  "offsets": [
+    0,
+    726
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

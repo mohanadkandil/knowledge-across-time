@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16285814-1340136739-7b0e8f16fa08",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Ukraine",
+  "text": "in the Russian invasion of Ukraine\n\nYachts impacted by international sanctions following the Russian invasion of Ukraine\n\nHistory of Crimea\n\nHistory of Kyiv\n\nHistory of Sevastopol\n\nHistory of Cherkasy Oblast\n\nHistory of Chernihiv Oblast\n\nHistory of Chernivtsi Oblast\n\nHistory of Dnipropetrovsk Oblast\n\nHistory of Donetsk Oblast\n\nHistory of Kharkiv Oblast\n\nHistory of Kherson Oblast\n\nHistory of Khmelnytskyi Oblast\n\nHistory of Kyiv Oblast\n\nHistory of Kirovohrad Oblast\n\nHistory of Luhansk Oblast\n\nHistory of Lviv Oblast\n\nHistory of Mykolaiv Oblast\n\nHistory of Odesa Oblast\n\nHistory of Poltava Oblast\n\nHistory of Sumy Oblast\n\nHistory of Ternopil Oblast\n\nHistory of Vinnytsia Oblast\n\nHistory of Volyn Oblast\n\nHistory of Zakarpattia Oblast\n\nHistory of Zaporizhzhia Oblast\n\nHistory of Zhytomyr Oblast\n\nMilitary history of Ukraine\n\nCulture of Ukraine\n\nArchitecture of Ukraine\n\nUkrainian Baroque\n\nCuisine of Ukraine\n\nFestivals in Ukraine\n\nLanguages of Ukraine\n\nMedia in Ukraine\n\nMuseums in Ukraine\n\nNational symbols of Ukraine\n\nCoat of arms of Ukraine\n\nFlag of Ukraine\n\nNational anthem of Ukraine\n\nPeople of Ukraine\n\nProstitution in Ukraine\n\nPublic holidays in Ukraine\n\nReligion in Ukraine\n\nBuddhism in Ukraine\n\nChristianity in Ukraine\n\nHinduism in Ukraine\n\nIslam in Ukraine\n\nJudaism in Ukraine\n\nWorld Heritage Sites in Ukraine\n\nCinema of Ukraine\n\nUkrainian dance\n\nLiterature of Ukraine\n\nContemporary Ukrainian literature\n\nMusic of Ukraine\n\nUkrainian folk music\n\nPop music in Ukraine\n\nRock music in Ukraine\n\nTelevision in Ukraine\n\nSports in Ukraine\n\nFootball in Ukraine\n\nUkraine at the Olympics\n\nEconomy of ",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Ukraine",
+  "revision_id": 1340136739,
+  "article_id": 16285814,
+  "section_path": "shared_text[0:9288]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 81840,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "0a336979a9f74cdbbfd23fe80554502677a24c32d3fa545fc26e6b226355e25b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340136739",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16285814",
+    "revision_id": "1340136739",
+    "retrieved_at": "2026-10-18T12:24:49.303455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9288,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

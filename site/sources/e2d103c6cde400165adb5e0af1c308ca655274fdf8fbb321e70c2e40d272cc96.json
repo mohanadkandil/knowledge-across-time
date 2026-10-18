@@ -1,0 +1,36 @@
+{
+  "id": "bri-2566-97b13565fdc3:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-2566-97b13565fdc3",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+  "text": "ALRERUS, ALREAD, or ALREDES, of Beverley, one of the most ancient English historians, was born of Berech in Yorkshire. He wrote in the reign of Henry I. There are no circumstances of his life known with any degree of certainty. It is generally believed that he was educated at Cambridge, and that be afterment because one of the ancient and treasurer of S. Jakhs at Bereley. And we learn in a note of Bishop Tanner’s, thus, for the sake of improvement, he travelled through France and Italy; and at Home became donated chapital to Cardinal Othboni. He died in the year 1238 or 1212 leaving behind him the following works: 1. The Annals of Altered of Beverly, which was published at Oxford in 7/16; My Mr. Bratme, from a managerie which belonged to Thomas Navibean, Eqg. It contains an abriegement of our history from Boston to Henry L. written in Latin, and with great accuracy, adequacy, and perspiuity. 2. _Liberties ecclesiais S. Johannis de Beerien, Sec._ a manusyure in the Cottonan library. It is a collection of records relative to the church of Bereverly, translated from the Saaxon language. These are the only work which were written by Alfredus (_Elig Ditc_).",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+  "provenance": {
+    "page_id": "bri-2566-97b13565fdc3",
+    "row_index": 2566,
+    "volume_id": "192547781",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+    "label": 0,
+    "sha256": "97b13565fdc3129f0c09f0566406d4f70d1b65ae004d1ad31989c042d748b21d",
+    "width": 600,
+    "height": 756,
+    "image_file": "../images/bri-2566-97b13565fdc3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1016,
+    0.3047,
+    0.4727,
+    0.6273
+  ],
+  "offsets": [
+    0,
+    1170
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

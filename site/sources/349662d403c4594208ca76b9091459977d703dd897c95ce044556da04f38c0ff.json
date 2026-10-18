@@ -1,0 +1,36 @@
+{
+  "id": "bri-0764-77b1fdd53710:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0764-77b1fdd53710",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+  "text": "remarkable exception. It was ascertained by Mr Scoresby, and is confirmed by the observations made in the late polar expedition, that in the Greenland sea the temperature increases with the depth. The increased of heat does not follow any determination ratio, being from 1° to 5° in 100 fathoms; but it is constantly impressive, and at the depth 2750 fa thorn (at. 79’s long: 5’8 E).) I was found to be 8°. In fact, the bottom waters at Spitsbergen, as Mr Scorbsy observers, are from 10° to 20° above the mean temperature of the climate. The most plausible explanation of this anomaly is, that the westerly current from Now Zenbia, residual specifically light in the field water of the great rivers of Northern Asia, may rise above the branch of the Gulf Stream which penetrates to these latitude, and the warm waters of the latter will thus be found on the bottom. The specific graphics observed by Mr Scorbsy, however, do not tend much to confirm this hypothesis.*",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+  "provenance": {
+    "page_id": "bri-0764-77b1fdd53710",
+    "row_index": 764,
+    "volume_id": "192547787",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+    "label": 0,
+    "sha256": "77b1fdd53710167a89c29ecf566920a6912a5b4a6af00ef6f54b522c995d327b",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0764-77b1fdd53710.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1074,
+    0.0563,
+    0.4912,
+    0.3211
+  ],
+  "offsets": [
+    0,
+    966
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

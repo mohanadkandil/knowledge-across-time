@@ -1,0 +1,36 @@
+{
+  "id": "bri-1161-90380c2d7915:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1161-90380c2d7915",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+  "text": "_Linn in the Celtic or ancient British language signified a lake, and for an town or a harbour in ships. A small recent dates the Surrey side of the river was often a lake in some parts, and a swamp in others, the name might be easily changed the Linden in London, and be descriptive of its local position. It could not, however, No a place of very great importance at the time of the invasion of Engeland by Julian Essas; for thought that comments must have passed near it, he has now noticed it in his Comentertains.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+  "provenance": {
+    "page_id": "bri-1161-90380c2d7915",
+    "row_index": 1161,
+    "volume_id": "193108323",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+    "label": 0,
+    "sha256": "90380c2d7915178053a04da73b000737a5abf3aac98da2af8d03e9e4f1b22791",
+    "width": 600,
+    "height": 823,
+    "image_file": "../images/bri-1161-90380c2d7915.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0391,
+    0.3117,
+    0.4492,
+    0.4391
+  ],
+  "offsets": [
+    0,
+    518
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

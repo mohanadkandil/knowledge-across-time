@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2416557-1298006157-f7be0b0b2c7d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Northwest Passage (disambiguation)",
+  "text": "The Northwest Passage is a historical sea route between the Pacific and Atlantic Oceans, through the Arctic waters of Canada, Alaska, and Greenland.\n\nNorthwest Passage may also refer to:\n\nNorthwest Passage (children's book), a 2013 illustrated children's book written by Stan Rogers and illustrated by Matt James\n\nNorthwest Passage (novel), a 1937 historical novel by Kenneth Roberts\n\nNorthwest Passage (album), a 1981 album by Stan Rogers\n\n\"Northwest Passage\" (song), its title track\n\nNorthwest Passage, a 1997 album by Oregon\n\n\"Northwest Passage\", a big band tune by Ralph Burns\n\nNorthwest Passage (TV series), a 1958-1959 television series starring Keith Larsen and Buddy Ebsen\n\n\"Northwest Passage\" (Fringe), a 2010 episode of Fringe\n\n\"Northwest Passage\" (Twin Peaks) or \"Pilot\", a 1990 episode of Twin Peaks\n\nNorthwest Passage (film), a 1940 film starring Spencer Tracy and Robert Young\n\nNorthwest Passage (newspaper), an underground newspaper of the 1960s\n\nThe North-West Passage, an 1874 painting by John Everett Millais",
+  "url": "https://en.wikipedia.org/wiki/Northwest_Passage_(disambiguation)",
+  "revision_id": 1298006157,
+  "article_id": 2416557,
+  "section_path": "shared_text[0:1026]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1026
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 49102,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "8728dc426cb0fe75087ac9cc2e79a323a9dbb57bcf0aead61713a5e38fdae178",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1298006157",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2416557",
+    "revision_id": "1298006157",
+    "retrieved_at": "2026-10-18T12:28:45.921120+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1026,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

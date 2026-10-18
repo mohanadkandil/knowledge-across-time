@@ -1,0 +1,44 @@
+{
+  "id": "wiki-26025764-1352820097-e8b73d2b4053",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of preserved historic blast furnaces",
+  "text": ", the degree of accurate preservation versus integration into new structures, or even re-purposing, differs between the various sites. Colorful illumination installations at night are common.\n\nThese installations all date from the 20th century. They are supported by outer frames made of metal, were supplied with pre-heated blast air from external Cowper stoves, were typically part of large industrial compounds where, at one point, multiple blast furnaces were typically standing and operating side by side for efficiency reasons, raw materials were delivered by external elevating mechanisms, and the entire site was accessible by freight trains which delivered the raw materials and carried off the freshly smelted pig iron in ladles.\n\nIn many cases, the preserved sites have been deliberately stripped down to minimize maintenance costs; namely, some blast furnaces and related installations have been demolished. The goal was to only retain one or two blast furnaces including the relevant related installations (such as Cowper stoves, cast house, winch house etc.), which are considered sufficient to explain the blast furnace process and all related functions to visitors.\n\nThe first such decommissioned blast furnace that wasn't demolished and has been preserved to this very day stands in Starachowice, Poland, and has ceased operation as early as 1968.",
+  "url": "https://en.wikipedia.org/wiki/List_of_preserved_historic_blast_furnaces",
+  "revision_id": 1352820097,
+  "article_id": 26025764,
+  "section_path": "shared_text[0:2804]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2804
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c8787f86488e8e3e87f007654e4b5e79e9d5ac80438a5f5bc9a1b7cbf23232e7",
+    "source_row_idx": 32281,
+    "source_shard": "enwiki/data/enwiki_namespace_0_67.parquet",
+    "text_sha256": "1270e384873e1b4df06a097264ae34a393ada5efae4ca959f69e97ab27e86ffa",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352820097",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "26025764",
+    "revision_id": "1352820097",
+    "retrieved_at": "2026-10-18T12:42:09.383467+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2804,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

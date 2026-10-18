@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1791543-1333251199-da27639556b8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angrivarii",
+  "text": "-varii, meaning \"the men of Engern\", parallel to Ampsi-varii, \"the men of the Ems\". Engern, their region, is related to a word for meadows, as in modern German \" Anger \", and appears as a component in placenames around Germany.\n\nJulius Pokorny derives the first element from an Indo-European root *ang-, \"to bend, bow.\" From this root are also derived German Anger, English dialect ing, Danish eng, Swedish äng, Dutch eng / enk, and many other forms in Germanic languages, all meaning \"meadow, pasture.\" Cf. the similar element Angeln.\n\nThe second element -varii is most prolific among Germanic tribal names, commonly taken to mean \"inhabitants of\", \"dwellers in\". Its precise etymology remains unclear, but there is a consensus that it cannot be derived from the PIE root *wih rós, \"man\", surviving in English \" were -wolf\".\n\nTheir geographical-based name is associated with the 8th century region called Angria (Angaria, Angeriensis, Aggerimensis, and Engaria), which was one of four subdivisions of Old Saxony (the others were Westfalahi, Ostfalahi, and Nordalbingia). This region is now referred to in modern German as Engern, and it corresponds reasonably well with the area where the Angrivarii lived, comprising most of the country surrounding the middle Weser, including both flat land, as around Minden, and low hills (Holzminden).\n\nAlthough the Angrivarii receive brief mention in Ptolemy (2.10) and the Germania of Tacitus (33), they appear mainly at several locations in Annales. They were involved marginally in the wars fought by the talented Germanicus Caesar on behalf of his uncle Ti",
+  "url": "https://en.wikipedia.org/wiki/Angrivarii",
+  "revision_id": 1333251199,
+  "article_id": 1791543,
+  "section_path": "shared_text[0:7705]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 16861,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "57e5dd6854fc1424e355c38d8d2da9d2d87824440a4dfc2e5b2d8d7f15a5957b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333251199",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1791543",
+    "revision_id": "1333251199",
+    "retrieved_at": "2026-10-18T12:35:25.445703+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7705,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

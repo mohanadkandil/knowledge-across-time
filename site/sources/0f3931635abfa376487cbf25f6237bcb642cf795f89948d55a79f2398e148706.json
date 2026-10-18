@@ -1,0 +1,44 @@
+{
+  "id": "wiki-288471-1323877685-500c4ff88ea9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mordant",
+  "text": "A mordant or dye fixative is a substance used to set (i.e., bind) dyes on fabrics. It does this by forming a coordination complex with the dye, which then attaches to the fabric (or tissue). It may be used for dyeing fabrics or for intensifying stains in cell or tissue preparations. Although mordants are still used, especially by small batch dyers, they have been largely displaced in industry by substantive dyes.\n\nThe term mordant comes from the Latin mordere, \"to bite\". In the past, it was thought that a mordant helped the dye \"bite\" onto the fiber so that it would hold fast during washing. A mordant is often a polyvalent metal ion, and one example is chromium (III). The resulting coordination complex of dye and ion is colloidal and can be either acidic or alkaline.\n\nMordants include tannic acid, oxalic acid, alum, chrome alum, sodium chloride, and certain salts of aluminium, chromium, copper, iron, iodine, potassium, sodium, tungsten, lead, and tin.\n\nIodine is often referred to as a mordant in Gram stains, but is in fact a trapping agent.\n\nThe three methods used for mordanting are:\n\nPre-mordanting (onchrome): The substrate is treated with the mordant and then the dye. The complex between the mordant and dye is formed on the fibre.\n\nMeta-mordanting (metachrome): The mordant is added in the dye bath itself. The process is simpler than pre- or post-mordanting, but is applicable to only a few dyes. Mordant red 19 shown above is applied in this manner\n\nPost-mordanting (afterchrome): The dyed material is treated with a mordant. The complex between the mordant and dye is formed ",
+  "url": "https://en.wikipedia.org/wiki/Mordant",
+  "revision_id": 1323877685,
+  "article_id": 288471,
+  "section_path": "shared_text[0:4234]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 61801,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "e1d7134d41c1c171ddf68fb8b765e5e52839c6cb708f568ee3f5e07597159c5b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323877685",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "288471",
+    "revision_id": "1323877685",
+    "retrieved_at": "2026-10-18T12:23:23.500889+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4234,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

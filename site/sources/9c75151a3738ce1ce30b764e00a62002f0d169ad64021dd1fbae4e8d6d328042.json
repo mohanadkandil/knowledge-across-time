@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2629-1335326573-093cfb6c2896",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegisthus",
+  "text": "Aegisthus (/ ɪ ˈ dʒ ɪ s θ ə s /; Ancient Greek: Αἴγισθος; also transliterated as Aigisthos,) was a figure in Greek mythology. Aegisthus is known from two primary sources: the first is Homer 's Odyssey, believed to have been first written down by Homer at the end of the 8th century BC, and the second from Aeschylus 's Oresteia, written in the 5th century BC. Aegisthus also features heavily in the action of Euripides 's Electra (c. 420 BC), although his character remains offstage.\n\nAegisthus was the son of Thyestes and Thyestes's own daughter Pelopia, an incestuous union motivated by his father's rivalry with the house of Atreus for the throne of Mycenae. Aegisthus murdered Atreus in order to restore his father to power, ruling jointly with him, only to be driven from power by Atreus's son Agamemnon. In another version, Aegisthus was the sole surviving son of Thyestes after Atreus killed his brother's children and served them to Thyestes in a meal.\n\nWhile Agamemnon laid siege to Troy, his estranged queen Clytemnestra took Aegisthus as a lover. The couple killed Agamemnon upon the king's return, making Aegisthus king of Mycenae once more. Aegisthus ruled for seven more years before his death at the hands of Agamemnon's son Orestes.\n\nThyestes felt he had been deprived of the Mycenean throne unfairly by his brother, Atreus. The two battled back and forth several times. In addition, Thyestes had an affair with Atreus's wife, Aerope. In revenge, Atreus killed Thyestes's sons and served them to him unknowingly. After realizing he had eaten his own sons' corpses, Thyestes asked an o",
+  "url": "https://en.wikipedia.org/wiki/Aegisthus",
+  "revision_id": 1335326573,
+  "article_id": 2629,
+  "section_path": "shared_text[0:6583]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 34952,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "e1259396cc84c193de234ba67f6b4108d8adb07a4ff52741d3aeddf965ac3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335326573",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2629",
+    "revision_id": "1335326573",
+    "retrieved_at": "2026-10-18T12:37:03.912407+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6583,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

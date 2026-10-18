@@ -1,0 +1,44 @@
+{
+  "id": "wiki-36175076-1293538481-6d76a1678967",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Neptis melicerta",
+  "text": "Neptis melicerta, the original club-dot sailer or streaked sailer, is a butterfly in the family Nymphalidae. It is found in Guinea-Bissau, Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Nigeria, Cameroon, Gabon, the Republic of the Congo, Angola, the Democratic Republic of the Congo and western Uganda. The habitat consists of forests.\n\nThe white longitudinal stripe in the cell of the forewing with a very prominent, small, free, triangular white spot at the end. Discal spot 4 on the forewing is small and triangular and placed quite free on the first marginal line. The marginal lines of the forewing more or less broadly interrupted in cellule 3.Discal spots 5 and 6 on the forewing narrow and completely separated or only touching at the inner angle; median band of the hindwing 3—-4 mm. in breadth; the second marginal line on the underside of the hindwing much thickened. A common species, occurring from Sierra Leone to Angola and Abyssinia. — ab. melicertula Strand differs in the purer white markings and the somewhat larger discal spots on the forewing. Cameroons48a Images BOLD\n\nThe larvae feed on Acacia ataxacantha, Dalbergia hostilis, Abrus canescens, Abrus pulabellus and Allophylus species\n\nSpecies groups sensu Seitz melicerta Group. The cell of the forewing is entirely filled up with white or has a white longitudinal stripe, which follows its hindmargin and leaves the anterior part of the cell free. Discal spot 4 on the forewing is absent or quite small; hence the discal band of the forewing always consists of three separate divisions, a hindmarginal spots, two spots in",
+  "url": "https://en.wikipedia.org/wiki/Neptis_melicerta",
+  "revision_id": 1293538481,
+  "article_id": 36175076,
+  "section_path": "shared_text[0:2549]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 139897,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "96554bacbedd600e2e18494c10034e8e8523004b0a0dd95d088223a6317aa956",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1293538481",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "36175076",
+    "revision_id": "1293538481",
+    "retrieved_at": "2026-10-18T12:20:57.368395+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2549,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

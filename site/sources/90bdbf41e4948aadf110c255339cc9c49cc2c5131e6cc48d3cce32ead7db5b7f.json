@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4932764-1288338079-8d52b6ee0b84",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Knox (disambiguation)",
+  "text": "John Knox (c. 1510–1572) was a Scottish minister, theologian, and writer.\n\nJohn Knox may also refer to:\n\nJohn C. Knox (Pennsylvania judge) (1817–1880), lawyer and state judge\n\nJohn C. Knox (New York judge) (1881–1966), United States federal judge\n\nJohn Frush Knox (1907–1997), law clerk to U.S. Supreme Court Justice James Clark McReynolds\n\nJohn H. Knox, first United Nations special rapporteur on human rights and the environment\n\nJohn Knox (British Army officer) (died 1778), served in North America between 1757 and 1760 and notable for the journals he kept during this period\n\nJohn Simpson Knox (1828–1897), Scottish soldier and VC recipient\n\nJohn J. Knox, U.S. Army major during the American Civil War\n\nJohn Knox (mayor), Lord Mayor of Dublin 1685–1686\n\nJohn Knox (1728–1775), member of the Parliament of Ireland for Donegal 1761–68 and Castlebar 1768–74\n\nJohn Knox (1740–1791), member of the Parliament of Ireland for Dungannon 1769–76\n\nJohn Knox (1758–1800), member of the Parliament of Ireland for Killybegs 1777–83 and Dungannon 1790–94\n\nJohn Henry Knox (1788–1872), member of the UK Parliament for Newry\n\nJames Knox (British politician) (John James Knox, 1790–1856), member of the UK Parliament for Dungannon\n\nJohn T. Knox (1924–2017), American politician and lawyer\n\nJohn Knox (rugby union) (1880–1964), Scotland rugby union player\n\nJohn Knox (cricketer) (1904–1966), Argentine cricketer\n\nJohn Knox (footballer) (born 1941), Australian rules footballer\n\nJohn Knox (baseball) (born 1948), American baseball infielder\n\nJohnny Knox (born 1986), American football player\n\nJohn Knox (rebel mini",
+  "url": "https://en.wikipedia.org/wiki/John_Knox_(disambiguation)",
+  "revision_id": 1288338079,
+  "article_id": 4932764,
+  "section_path": "shared_text[0:2351]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 54558,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "9e5cf6d9bf0086d0c5cca10594ad9037f151108acbe8fb207e29c57f5cd503e9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1288338079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4932764",
+    "revision_id": "1288338079",
+    "retrieved_at": "2026-10-18T12:21:03.975753+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2351,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

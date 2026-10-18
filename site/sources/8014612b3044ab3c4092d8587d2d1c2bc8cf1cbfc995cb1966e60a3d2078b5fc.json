@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5298908-1266612263-c9f01c6bf16a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "M10 highway (Russia)",
+  "text": "C. In July it is +19 °C.\n\nThe road crosses the river Sister (a tributary of the Dubna, near Klin), Volga (in Tver), Msta (near Novoselitsy), Volkhov (at Krechevitsy), etc. Bridges longer than 50 meters have a capacity of 60–80 tons. In Tver region (127 km, 132 miles), there are bridges with carrying capacity of 40 tons.\n\nThe road has from 2 to 10 lanes, mostly 2 in both directions. The width of the carriageway on the main stretch of road is 8–11 meters.The speed ranges between 30 km/h at repair and detours, to 90 km/h. However, on a segment on the territory of Moscow and Moscow region, the regular flow (traffic) rate exceeds the allowable limit by 30–50 km/h. In general, the M-10 is considered full of accidents and stressful. There is a large flow of freight transport.\n\nThe scandinavia highway",
+  "url": "https://en.wikipedia.org/wiki/M10_highway_(Russia)",
+  "revision_id": 1266612263,
+  "article_id": 5298908,
+  "section_path": "shared_text[0:3684]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3684
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 121063,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "3334d6783aab777a561321dd5f55d13a477cf87597d7864a4085efb07466f5ff",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1266612263",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5298908",
+    "revision_id": "1266612263",
+    "retrieved_at": "2026-10-18T12:35:49.268585+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3684,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

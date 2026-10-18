@@ -1,0 +1,36 @@
+{
+  "id": "bri-0966-64586d30c5c9:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0966-64586d30c5c9",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "The deck which are thus referred to the tertiary em are principally tradyant and basis: a augtis and displacible rocks greatly analogous to, or identical with, products of active volcanoes. The apparatus presented as his points where the igneous rocks have burst up are such as to leave no doubt that, in all the localities were named, the action was of the same kind as that covered by an active volcano; the forms and grouping of the hills strengthen the analogy, and we finally must conclude that the igneous active developed over a series part of Europe late in the tertiary period. Was in fact volcanic, in some cases, indeed, it is any possible clearly and certainly to separate the products of a modern volcano from those of the eruptions which took place in their tiny periods so, for example, in SiSky and central France. There is evidence that some of these tertiary volcanoes burst forth in the sea, as the Engagnes Hills, and spread has over and amongst the strata then drainage, in other cases, as in Velay, the eruptions happened amidst freshwater lake while the heartarine sediments were accumulating. The volumes of the Central general to have followed the direction of freshwater mesmoon compared to those of Paris and the lake of Wiggle. It is perhaps double ful whether any of the volcanos of this date broke forth in the mid until large tracts of data when the freshwater lakes existed; the Siebegnology and other Rheumatol hills of g- nouso rocks are no exception, for the Richelial hais evidencedly been once filled with other many hundred feet above its present here, as the lo",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "provenance": {
+    "page_id": "bri-0966-64586d30c5c9",
+    "row_index": 966,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 0,
+    "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+    "width": 600,
+    "height": 818,
+    "image_file": "../images/bri-0966-64586d30c5c9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1602,
+    0.1742,
+    0.5566,
+    0.5188
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

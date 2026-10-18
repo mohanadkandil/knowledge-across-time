@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": "every rumour of holility or lacuntion from English in Scotland vaders. No art, however, or argument, could recom- mend thefe measures. A perpetual tax and a funding army were conceived to be the genuine characteristics of depoistim. All main of men considered themselves infulted and abuded; and 30 tenants of the crown affinning at Edinburgh, and giving way to their in- digation, fort their ensandtenes to the queen regret in such fittog and exspective language, as induced her to abandon the science. Yet filife attempts which the had made left an proportion in the minds of the people. They fulpefed her to be a feeret enemy to their go- vermament and liberties; and they were convinced that Henry II, was engaging her in redemants and artic- fices, that the might reduce Scotland to be a province of France.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5322,
+    0.0484,
+    0.9658,
+    0.2703
+  ],
+  "offsets": [
+    0,
+    812
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4885240-1069378554-99aac2be725a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Horizontal plate of palatine bone",
+  "text": "The horizontal plate of palatine bone is a quadrilateral part of the palatine bone, and has two surfaces and four borders.\n\nThe superior surface, concave from side to side, forms the back part of the floor of the nasal cavity.\n\nThe inferior surface, slightly concave and rough, forms, with the corresponding surface of the opposite bone, the posterior fourth of the hard palate. Near its posterior margin may be seen a more or less marked transverse ridge for the attachment of part of the aponeurosis of the tensor veli palatini.\n\nThe anterior border is serrated. It articulates with the palatine process of maxilla.\n\nThe posterior border is concave, free, and serves for the attachment of the soft palate. Its medial end is sharp and pointed, and, when united with that of the opposite bone, forms a projecting process, the posterior nasal spine for the attachment of the musculus uvulae.\n\nThe lateral border is united with the lower margin of the perpendicular plate, and is grooved by the lower end of the greater palatine canal.\n\nThe medial border, the thickest, is serrated for articulation with its fellow of the opposite side; its superior edge is raised into a ridge, which, united with the ridge of the opposite bone, forms the nasal crest for articulation with the posterior part of the lower edge of the vomer.",
+  "url": "https://en.wikipedia.org/wiki/Horizontal_plate_of_palatine_bone",
+  "revision_id": 1069378554,
+  "article_id": 4885240,
+  "section_path": "shared_text[0:1322]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1322
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 40539,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "8e37c053eec91f14cdaec7c119e0890cf639c5a34fd0038834f38e96271ea995",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1069378554",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4885240",
+    "revision_id": "1069378554",
+    "retrieved_at": "2026-10-18T12:21:59.916451+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1322,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

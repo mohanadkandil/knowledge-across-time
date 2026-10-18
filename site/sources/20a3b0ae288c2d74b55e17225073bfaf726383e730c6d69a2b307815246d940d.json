@@ -1,0 +1,36 @@
+{
+  "id": "bri-1776-5ed864a29d36:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-1776-5ed864a29d36",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "We might now proceed to investigate the distribution of the electric fluid in bodies expelled to the action of others, and particularly in the doing conduction made ufc of in our preparatory propositions. The problem is determines, when the helium and diameter of cylinder disc conductors are given; but even when the electric employed for inducing the electricity is in the form of a globe, we must meet any functions of the distances that are pretty complex, and obliges us to have execute to record flux.The most actions of two along conductors, of considerable diameters, give a problem that will occupy the first mathematics; but which is quite interpose for the factory attached. Not is a minor knowledge of the disposition of the fluid of very important service. We may therefore content ourselves where a general representation of the face of the fluid in the following manner, which will give us a pretty di- field notion how it will ask in mok cells.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+  "provenance": {
+    "page_id": "bri-1776-5ed864a29d36",
+    "row_index": 1776,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1776-5ed864a29d36.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+    "manual_seed": true
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.54,
+    0.1938,
+    0.9414,
+    0.4305
+  ],
+  "offsets": [
+    0,
+    960
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

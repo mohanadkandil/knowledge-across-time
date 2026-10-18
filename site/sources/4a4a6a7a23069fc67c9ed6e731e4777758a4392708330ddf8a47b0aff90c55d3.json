@@ -1,0 +1,36 @@
+{
+  "id": "bri-0100-b6ab9e4b2894:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-0100-b6ab9e4b2894",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+  "text": "To this class belong the Common, the Roman, the Chinese or Indian, the Danish or Swedish, already described under BALANCE and MECHANICS, pp. 358 and 370; and Magdalas, Mr Hale's, and Dr Black's, under Machenius, pp. 371 and 456.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=100",
+  "provenance": {
+    "page_id": "bri-0100-b6ab9e4b2894",
+    "row_index": 100,
+    "volume_id": "193819045",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+    "label": 1,
+    "sha256": "b6ab9e4b28947b0e6c21285181c4a6a71c7f2de785e8eac103f7607ff0d6959f",
+    "width": 600,
+    "height": 874,
+    "image_file": "../images/bri-0100-b6ab9e4b2894.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=100",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5557,
+    0.3742,
+    0.9473,
+    0.4383
+  ],
+  "offsets": [
+    0,
+    228
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

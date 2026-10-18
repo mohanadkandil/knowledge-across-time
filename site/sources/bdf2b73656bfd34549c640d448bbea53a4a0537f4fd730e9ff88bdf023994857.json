@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "\" This experiment led me, fonce time afterwards, upply a wind gauge that I construct, to ascertain precisely the fate of the condensation of the thrown into the furnaces. I found that a column of quick-fliver was small free lines, and functions though fellam, fix inches, and, in the interval of the engine to receive air into the air pump, it fell only half of a inch. At this time only one furnace were worked. But when two firmances were in blat, the engine only risified the maternal gage about four inches, because the Devon company are fewer reasons, old men, while I continued a partner, think proper to allow the blowing machinery to be completed, by putting to wow their friend boiler of a few different for the fire regime, according to my original design, which, by shifting the machinery would have enabled us to blow two furnaces, with two bolice, with a much effect, in proportion, a one furnace with one bolice. This infrurised had the advantage of enabling the work people to difcover the real power of their bluff, and know the ones could confidence of the six valves, and the gearring of the blowing pilbys, for if their home not tight, and in order, (although the engine might, to aparrace, be doing well), by making the frame number of disdisarray of the air pump as usual per minute, yet the wind gauge would start fire a high, and would flown that there was an inspection famowards, by reason of a quantity of air elevating at the valves, or pillow, that could not be easily otherwise be known. The maintenance was considered as of manuls, and was afterwards always quoted in th",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1299,
+    0.475,
+    0.498,
+    0.8992
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7173282-1299126827-ccc9bb12e66d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Storekeeper of the Ordnance",
+  "text": "The Principal Storekeeper of the Ordnance was a subordinate of the Master-General of the Ordnance and a member of the English (and later British) Board of Ordnance from its constitution in 1597. He was responsible for the care and maintenance of ordnance stores. The office was abolished in 1855.\n\nbef. 1558: John Leame\n\n12 February 1558: William Watson\n\n3 February 1574: Richard Bowland\n\n16 January 1589: Thomas Bedwell\n\n15 November 1595: John Lee\n\n22 December 1603: Sir Amyas Preston\n\n16 July 1609: Sir Roger Ayscough\n\n1 June 1612: Samuel Hales and John Hamond (joint)\n\n2 June 1614: Nedtracey Smart and Shakerley Tracy (d. bef. 1620) (joint)\n\n26 November 1620: Thomas Powell and John Gooding (joint)\n\n19 June 1627: Thomas Powell (d. 1635) and Richard Marsh (joint)\n\n2 January 1643: Richard Marsh and Thomas Withins (d. bef. 1649) (joint)\n\n1643: John Falkener\n\n1660 Richard Marsh (restored)\n\n17 March 1672 George Marsh\n\n1 December 1673 Edward Conyers\n\n1 August 1683: William Bridges\n\n2 April 1685: Thomas Gardiner\n\n27 March 1691: William Meesters\n\n15 February 1701: James Lowther\n\n27 September 1708: Robert Lowther\n\n26 April 1710: Edward Ashe\n\n28 June 1712: Dixie Windsor\n\n8 March 1717: Sir Thomas Wheate, 1st Baronet\n\n9 March 1722: George Gregory\n\n23 April 1746: Andrew Wilkinson\n\n31 December 1762: Sir Edward Winnington, 1st Baronet\n\n12 September 1765: Andrew Wilkinson\n\n20 June 1778: Benjamin Langlois\n\n16 October 1780: Henry Strachey\n\n13 May 1782: John Clater Aldridge\n\n18 April 1783: Henry Strachey\n\n1 March 1784: John Clater Aldridge\n\n1 July 1795: Mark Singleton\n\n22 February 1806: John McMaho",
+  "url": "https://en.wikipedia.org/wiki/Storekeeper_of_the_Ordnance",
+  "revision_id": 1299126827,
+  "article_id": 7173282,
+  "section_path": "shared_text[0:1876]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 161477,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "006fbd6b7e9d17f3ef29d653a8abaa7eec5f3883dd6b35a5cbfaa20ffa8feb16",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299126827",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7173282",
+    "revision_id": "1299126827",
+    "retrieved_at": "2026-10-18T12:36:22.575778+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1876,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

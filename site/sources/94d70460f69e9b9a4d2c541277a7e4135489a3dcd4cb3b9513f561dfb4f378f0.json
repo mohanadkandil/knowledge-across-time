@@ -1,0 +1,36 @@
+{
+  "id": "bri-2020-9a9f280ac3d1:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2020-9a9f280ac3d1",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 4 Part 1, Book-keeping-BRE - EB.9",
+  "text": "equal, attached at the flame height to the tube of the peal, alternate with its airflow, and opposite to hide of the calyx. The anthem are generally erect, and frequently approach do so to form a compel body by the middle of the flames. The feed-shell in these ringle or double. In fome the flyle is wanting. The figure is frequent double. The feed-shell in fome genera is as a pulpity find, of the berryer and cherry kind; but molt frequently that species termed by lanumos con- _expiration_, and _fullcider_, which has one writes or extertal resolution, open lengthways on one side, and has not the feeds flattened to fix. Two of these dry fruits: with a guide can, complete the feed-shell without plant plants of this order. The feeds are generally numerous, and alla forced geane covered with a long papura’s downy wing like thate of the compact flowers, by means of which they eatly differite and love themselves. — the plants of this case being cut, past a juice which is generally milky, and fromimeine of a garanti while. From the circumstance of their choosing in this milky juice, the greater part are deemed obvious having ethabified: this aphorim. That milkily plastic, except biofed of the plan compound flowers, are generally of a benefit definitive nature, and might at least to be administered with caution. With respect to their flexible qualities, they are bitter, particularly the feed roots and bark, it, which yields their pina-egal virtues.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2020",
+  "provenance": {
+    "page_id": "bri-2020-9a9f280ac3d1",
+    "row_index": 2020,
+    "volume_id": "191253825",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 4 Part 1, Book-keeping-BRE - EB.9",
+    "label": 0,
+    "sha256": "9a9f280ac3d1c3da613287e0208e9fdee44e946fde9a6073a3317fbe26b6cb20",
+    "width": 600,
+    "height": 808,
+    "image_file": "../images/bri-2020-9a9f280ac3d1.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2020",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0918,
+    0.0813,
+    0.4629,
+    0.4266
+  ],
+  "offsets": [
+    0,
+    1462
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

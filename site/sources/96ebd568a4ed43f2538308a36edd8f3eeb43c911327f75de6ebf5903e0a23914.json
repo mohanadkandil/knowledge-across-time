@@ -1,0 +1,36 @@
+{
+  "id": "bri-1693-0903c198e683:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-1693-0903c198e683",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+  "text": "overfeer of all the inferior officers, and fees that all the money is made to the job still affect. 4. The alloy malter, who weighs the gold and silver, and fees that it is ascending to the flatandard. 5. The two auditors who take the counts. 5. The furryer of the meltingting, who, after the alloy malter must made full of the bulan, fees that it is salt out, and not altered after it is delivered to the melter. 7. The engrave; who engrave the flampy and dies for the orange of the monkey. 8. The clerk of the irons who fees that the irons are clean and did not work with. 9. The malter, who come the balloon before it be counted. 10. The provoft of the mint; who provides for and overfees all the monyses. 1. The blanchers, who arrived and clean the money. 12. The monyses form of whom forge the money, force flare it, fono round and milk it, and foam stamp and can it. 23. The protests who keep the gate of the mint.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+  "provenance": {
+    "page_id": "bri-1693-0903c198e683",
+    "row_index": 1693,
+    "volume_id": "192200900",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+    "label": 0,
+    "sha256": "0903c198e683b236afc4609d39b509117a0107601824e2ffe47a0ada06c90c52",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1693-0903c198e683.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4668,
+    0.0617,
+    0.8545,
+    0.3008
+  ],
+  "offsets": [
+    0,
+    920
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

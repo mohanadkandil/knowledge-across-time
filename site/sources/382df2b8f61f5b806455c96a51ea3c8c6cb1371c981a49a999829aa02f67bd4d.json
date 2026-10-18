@@ -1,0 +1,49 @@
+{
+  "id": "wiki-4628401-1353291710-ac30710507db",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mining in Cornwall and Devon",
+  "text": "ere Crown property. During the first half of the 12th century Dartmoor provided most of the tin for Europe, exceeding the production of Cornwall. The Pipe Roll of Henry II gives the annual tin production of Dartmoor as about 60 tons. In 1198 he agreed that \"all the diggers and buyers of black tin, and all the smelters of tin, and traders of tin in the first smelting shall have the just and ancient customs and liberties established in Devon and Cornwall.\" This shows that mining had been going on for a long time. A charter confirming the miners' rights was granted by King John in 1201. The alluvial silt record in the Erme Valley, Devon, shows a build-up of tin waste between 1288 and 1389.\n\nFollowing the transfer of power to the Norman lord Robert, Count of Mortain, who held the manor of Trematon, silver mining became a major industry, particularly in the Tamar valley around Bere Ferrers in Devon. Established in 1292 by the Crown under Edward I, skilled labour was initially imported from Derbyshire and North Wales, with specialist expertise from Germany and capital from Italy. Profits from rights to the silver mines for the Crown led to the rise of the ancient Cornish Edgcumbe family at Cotehele and later Mount Edgcumbe.\n\nIn 1305 King Edward I established separate stannaries for Devon and Cornwall. Water was used to operate stamps to crush the ore, the lighter waste being washed away. The mineral \"black tin\" was placed in furnaces and layered with peat. The molten metal was poured into granite moulds which produced ingots of tin. These were taken on pack horses to the stannary",
+  "url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon",
+  "revision_id": 1353291710,
+  "article_id": 4628401,
+  "section_path": "shared_text[0:28711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+    "source_row_idx": 22171,
+    "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+    "text_sha256": "d0e4ab7df6438e34a6a93c49745da579b36bc4e198d3bc604e6080dcc55b29a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353291710",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4628401",
+    "revision_id": "1353291710",
+    "retrieved_at": "2026-10-18T12:42:29.762223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

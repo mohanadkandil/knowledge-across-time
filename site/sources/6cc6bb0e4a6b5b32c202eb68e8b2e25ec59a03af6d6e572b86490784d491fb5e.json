@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-3:1440",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "ery different eliminations of moving forces by Mr Lebinbiz; and have flewm how, by very partial consideration of the action of those natural powers called _prefecture_, but has attempted to prove, that moving forces are proportional to the figures of the velocities, and we freeluedly, in what manner a right understanding of what pasties when motion is produced by measurable prefigures, proves that the forces really carried are as the velocities predicted. But the melt Spons good is bad from the perfect observation, that, in fact, the mutual actions of bodies de-pond on their relative motions alone.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1416,
+    0.1625,
+    0.5449,
+    0.6547
+  ],
+  "offsets": [
+    1440,
+    2045
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

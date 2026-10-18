@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1151144-1352966900-89292a35fd4b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swan (disambiguation)",
+  "text": "orth, a former inn in Oxfordshire\n\nThe Swan, West Wycombe, a pub in Buckinghamshire\n\nThe Swan, York, a pub in Yorkshire\n\nWycombe Swan, a theatre in High Wycombe, Buckinghamshire\n\nWalt Disney World Swan, a US resort hotel\n\nSwan (beer), a beer label, Western Australia\n\nSwan (chair), designed in 1958 by Arne jacobsen\n\nSwan (Dungeons & Dragons)\n\nSwan (Exalted), a role-playing game published by White Wolf Publishing\n\nSwan (Fabergé egg), commissioned in 1906 by Tsar Nicholas II\n\nSwan Bells, a set of bells in Perth, Australia\n\nSwan diagram, an economics model\n\nSwan Soap, a brand of soap introduced by the Lever Brothers Company\n\nSwanCon, a science fiction convention",
+  "url": "https://en.wikipedia.org/wiki/Swan_(disambiguation)",
+  "revision_id": 1352966900,
+  "article_id": 1151144,
+  "section_path": "shared_text[0:4986]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    4986
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a0fdd500947a3e69a27c09533d7647e283004f8100f83d90f5e8622bf49b95e7",
+    "source_row_idx": 7836,
+    "source_shard": "enwiki/data/enwiki_namespace_0_73.parquet",
+    "text_sha256": "ce12eb189ac8b4bbbf308f2031cc70dd8c6fa661916d18830351eda3ab77833e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352966900",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1151144",
+    "revision_id": "1352966900",
+    "retrieved_at": "2026-10-18T12:42:00.661063+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4986,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

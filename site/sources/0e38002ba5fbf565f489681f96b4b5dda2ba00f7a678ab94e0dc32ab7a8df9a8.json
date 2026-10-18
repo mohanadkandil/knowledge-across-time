@@ -1,0 +1,44 @@
+{
+  "id": "wiki-62392354-1335523584-3a059b8d409a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Alexander Croll (merchant)",
+  "text": "t 353 Grange Road, Upper Norwood, but still employed six servants, two of whom were nurses, one described as a \"sick nurse\".\n\nCroll died on 13 April 1881. The cause of death was recorded as jaundice. He was buried at West Norwood Cemetery as was his wife on her death in 1912. He left an estate of under £140,000.",
+  "url": "https://en.wikipedia.org/wiki/Alexander_Croll_(merchant)",
+  "revision_id": 1335523584,
+  "article_id": 62392354,
+  "section_path": "shared_text[0:1753]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1753
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 1760,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "4a9c1edaccdea420bd34e6728109f9ef8d4ceb7aa498e9258946528e70176524",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335523584",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "62392354",
+    "revision_id": "1335523584",
+    "retrieved_at": "2026-10-18T12:22:53.890035+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1753,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

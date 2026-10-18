@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38348383-1341673293-aaa504f5676a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arrow (disambiguation)",
+  "text": "An arrow is a projectile launched from a bow.\n\nArrow or Arrows may also refer to:\n\nArrow (symbol)\n\nArrow, Kentucky, an unincorporated community and former coal town\n\nArrow Peak, Colorado\n\nArrow Peak (California)\n\nArrow Creek (Fresno County, California)\n\nArrow Creek (Lake County, Minnesota)\n\nArrow Lake (Flathead County, Montana)\n\nArrow Lake (Western Australia) - see List of lakes of Western Australia, A–C\n\nArrow Lakes, British Columbia, Canada\n\nArrow, Warwickshire, England, a village\n\nRiver Arrow, Worcestershire, England\n\nLough Arrow, Ireland, a freshwater lake\n\nArrow River (New Zealand)\n\nArrow Rock (New Zealand), an island in Tasman Bay\n\nArrow Rocks, New Zealand, a group of islands\n\nArrow Glacier, Mount Kilimanjaro, Tanzania\n\nRiver Arrow, Wales\n\nArrow (surname)\n\nArrows Fitz (born 1989), American model, vlogger, television personality, and film producer\n\nArrow (character), a superhero character, first appearing in 1938\n\nArrow, a character from Rudolph the Red-Nosed Reindeer: The Movie\n\nThe Arrow, a fictional location, the first Dharma Initiative station in the television series Lost\n\nOliver Queen (Arrowverse), a superhero character, originally known as the Arrow, in the TV series Arrow\n\nArrows (Australian band), an indie rock band established 2006\n\nArrows (British band), a 1970s Anglo-American glam rock-pop band\n\nDelphian Complex, a British alternative band now known as Arrows\n\nThe Arrow (band), a Russian heavy metal band\n\nThe Arrows (Canadian band), a 1980s new wave band\n\nThe Arrows, the backing group of guitarist Davie Allan\n\nArrow (musician), stage name of Montserratian c",
+  "url": "https://en.wikipedia.org/wiki/Arrow_(disambiguation)",
+  "revision_id": 1341673293,
+  "article_id": 38348383,
+  "section_path": "shared_text[0:7415]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 80390,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "1f0f4fc21fc8ba95fab0aaad4297d9adbd4dcf12b905e0c95c488b0e03c6a76b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341673293",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38348383",
+    "revision_id": "1341673293",
+    "retrieved_at": "2026-10-18T12:41:27.177853+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7415,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

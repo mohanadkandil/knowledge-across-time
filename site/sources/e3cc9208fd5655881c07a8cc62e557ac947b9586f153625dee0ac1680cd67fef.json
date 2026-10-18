@@ -1,0 +1,44 @@
+{
+  "id": "wiki-51987433-1334834884-edde937a6ea6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "2016 World Mixed Curling Championship",
+  "text": "00\n\nDraw 11 12:00\n\nDraw 12 16:00\n\nDraw 13 20:00\n\nDraw 15 12:00\n\nDraw 15 12:00\n\nDraw 16 16:00\n\nDraw 17 20:00\n\nDraw 17 20:00\n\nDraw 19 12:00\n\nDraw 19 12:00\n\nDraw 21 20:00\n\nDraw 21 20:00\n\nDraw 24 16:00\n\nDraw 24 16:00\n\nDraw 24 16:00\n\nDraw 24 16:00\n\nDraw 1 18:30\n\nDraw 2 08:00\n\nDraw 2 08:00\n\nDraw 3 12:00\n\nDraw 3 12:00\n\nDraw 6 08:00\n\nDraw 6 08:00\n\nDraw 7 12:00\n\nDraw 7 12:00\n\nDraw 10 08:00\n\nDraw 10 08:00\n\nDraw 11 12:00\n\nDraw 11 12:00\n\nDraw 13 20:00\n\nDraw 14 08:00\n\nDraw 14 08:00\n\nDraw 15 12:00\n\nDraw 15 12:00\n\nDraw 16 16:00\n\nDraw 17 20:00\n\nDraw 18 08:00\n\nDraw 20 16:00\n\nDraw 20 16:00\n\nDraw 21 20:00\n\nDraw 23 12:00\n\nDraw 23 12:00\n\nDraw 23 12:00\n\nDraw 24 16:00\n\nThursday, October 20, 20:00\n\nFriday, October 21, 09:30\n\nFriday, October 21, 13:30\n\nFriday, October 21, 19:00\n\nSaturday, October 22, 09:00\n\nSaturday, October 22, 14:00\n\nSaturday, October 22, 14:00",
+  "url": "https://en.wikipedia.org/wiki/2016_World_Mixed_Curling_Championship",
+  "revision_id": 1334834884,
+  "article_id": 51987433,
+  "section_path": "shared_text[0:2290]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2290
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 108536,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "63b639167d88b1c61a2ea4a3d263b4b70529e21b6f2cfa5f99bc3a68d531c2ad",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334834884",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51987433",
+    "revision_id": "1334834884",
+    "retrieved_at": "2026-10-18T12:23:39.452219+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2290,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

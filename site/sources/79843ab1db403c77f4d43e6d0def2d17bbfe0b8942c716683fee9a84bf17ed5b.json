@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21062639-1328873961-4873ec28e890",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "St. Thomas' Church",
+  "text": "dleton, Salford\n\nSt Thomas' Church, Plaistow, Plaistow, Newham\n\nSt Thomas' Church, Preston, Lancashire\n\nChurch of St Thomas, Redwick, Newport, Wales\n\nSt Thomas' Church, St Anne's-on-the-Sea, Lancashire\n\nSt Thomas' Church, Stockport, Greater Manchester\n\nSt Thomas' Church, Stockton Heath, Warrington, Cheshire\n\nSt Thomas Church, Swansea, Wales\n\nChurch of St Thomas, Thurlbear, Somerset\n\nChurch of St Thomas, Thurstonland, West Yorkshire\n\nChurch of St Thomas, Wells, Somerset\n\nSt Thomas's Church, West Ham, London\n\nSt Thomas Church, Winchester, Hampshire\n\nSt Thomas the Apostle Rural, a civil parish in Cornwall\n\nSt. Thomas Syro Malabar Catholic Forane Church, Philadelphia, PA\n\nSt. Thomas Anglican Church (Mountain Home, Arkansas)\n\nSt. Thomas the Apostle Hollywood, California\n\nSt. Thomas the Apostle Catholic Church (Los Angeles)\n\nSt. Thomas Episcopal Church (Alamosa, Colorado)\n\nSt. Thomas Episcopal Church (Newark, Delaware)\n\nSt. Thomas African Methodist Episcopal Church, Hawkinsville, Georgia\n\nSt. Thomas Catholic Church (Coeur d'Alene, Idaho), National Register of Historic Places in Kootenai County, Idaho\n\nSt. Thomas Church and Convent, Chicago, Illinois\n\nSt. Thomas Episcopal Church (Sioux City, Iowa)\n\nChurch of St Thomas, the Apostle and Howard-Flaget House, Bardstown, Kentucky\n\nSt. Thomas Episcopal Church (Beattyville, Kentucky)\n\nSt. Thomas Church (Owings Mills, Maryland)\n\nSt. Thomas' Church (Upper Marlboro, Maryland)\n\nSt. Thomas Episcopal Church (Taunton, Massachusetts)\n\nSt. Thomas the Apostle Catholic Church (Ann Arbor, Michigan)\n\nSt. Thomas the Apostle Catholic Church (Detroit)\n\n",
+  "url": "https://en.wikipedia.org/wiki/St._Thomas%27_Church",
+  "revision_id": 1328873961,
+  "article_id": 21062639,
+  "section_path": "shared_text[0:7232]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 271,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "d5a5105550f105122bc8b3aadc501e849e4341f3a849e5d976069fcde23f5d25",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1328873961",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21062639",
+    "revision_id": "1328873961",
+    "retrieved_at": "2026-10-18T12:36:16.645898+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7232,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

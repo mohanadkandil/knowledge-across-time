@@ -1,0 +1,36 @@
+{
+  "id": "bri-1161-90380c2d7915:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-1161-90380c2d7915",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+  "text": "In the origin of Alfred the Great, London soon began to recover from the minors을 condition in which the attempts of the Danish irwares had left it. He restored the ruined defence, supplied those of the Dunes who had been settled there, afforded the privileges which had been conferred, added to them others, and contributed much to ornament the whole city. Having made it a place of security by its walls, and capable of a powerful defence, it was placed under the government of his son-in-low, Ethelred dake of Mer",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+  "provenance": {
+    "page_id": "bri-1161-90380c2d7915",
+    "row_index": 1161,
+    "volume_id": "193108323",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+    "label": 0,
+    "sha256": "90380c2d7915178053a04da73b000737a5abf3aac98da2af8d03e9e4f1b22791",
+    "width": 600,
+    "height": 823,
+    "image_file": "../images/bri-1161-90380c2d7915.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.4639,
+    0.8234,
+    0.8643,
+    0.9383
+  ],
+  "offsets": [
+    0,
+    515
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

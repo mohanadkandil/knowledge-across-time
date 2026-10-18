@@ -1,0 +1,44 @@
+{
+  "id": "wiki-285241-1337717876-e7dc52be7659",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Phonolite",
+  "text": "da, Norway, Greenland, Sweden, the United Kingdom, the Ural Mountains, the Pyrenees, Italy, Eifel and Kaiserstuhl in Germany, Brazil, the Transvaal region, the Magnet Cove igneous complex of Arkansas, the Beemerville Complex of New Jersey, as well as on oceanic islands such as the Canary Islands.\n\nPhonolite is common across Europe, particularly within the Eifel Plateau and the Laacher See. It is also found in the Czech Republic and the Mediterranean area near Italy. For localities in the United States, phonolite can be found in the Black Hills Forest in South Dakota. The most well known phonolite-composed natural structure is the Devil's Tower, found in Wyoming.\n\nNepheline-normative rocks occur in close association with the Bushveld Igneous Complex, possibly formed from partial melting of the wall rocks adjacent to that large ultramafic layered intrusion. Phonolite occurs in the related Pilanesberg Complex and Pienaars River Complex.\n\nCape Verde volcanoes off the coast of Africa in the Atlantic Ocean erupt phonolitic–trachytic lavas.\n\nJebel Nefusa, Libya\n\nTeide, a stratovolcano on the island of Tenerife\n\nPico Cão Grande, a needle-shaped volcanic plug peak in São Tomé and Príncipe\n\nBass Rock, North Berwick Law and Traprain Law in southeast Scotland, UK\n\nBořeň, northwestern Czech Republic\n\nMont Gerbier de Jonc, Ardèche, France\n\nMontiferru, Sardinia\n\nWolf Rock, Cornwall\n\nCripple Creek & Victor Gold Mine phonolite pipe in Colorado\n\nBaldface Mountain, west-central British Columbia, Canada\n\nDevils Tower, Wyoming, United States, an example of columnar-jointed phonolite\n\nHoodoo Mou",
+  "url": "https://en.wikipedia.org/wiki/Phonolite",
+  "revision_id": 1337717876,
+  "article_id": 285241,
+  "section_path": "shared_text[0:5357]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 37206,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "927e4b8fe473d463624ae567e84de2ed76f396c3be6adca468fb43c72758be6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337717876",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "285241",
+    "revision_id": "1337717876",
+    "retrieved_at": "2026-10-18T12:41:11.467787+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5357,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

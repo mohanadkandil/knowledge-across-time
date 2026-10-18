@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-9577483eddf1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "or zinc plate) that are capable of holding ink. The plate is inked all over then wiped clean to leave ink only in the marks. The plate is passed through a printing press together with a sheet of paper, and strong pressure applied pushing the paper into the marks, so that a transfer of the ink to the paper occurs. This is repeated many times to produce multiple \"impressions\" (copies).\n\nLike etching, aquatint uses the application of a mordant (acid) to etch into the metal plate. Where etching uses a needle to scratch through an acid-proof resist and make lines, aquatint uses powdered rosin (resin) to create a tonal effect. The rosin is acid resistant and typically adhered to the plate by controlled heating; where the grains area will print white, with black areas around. The tonal variation is controlled by the level of mordant exposure over large areas, and thus the image is shaped by large sections at a time. The rosin is then washed off the plate before printing.\n\nVarious other substances than rosin have been used, including bitumen (asphalt). The necessary qualities are that the substance can be made into a powder, will resist acid, and can be fixed to the copper plate, usually by heating. The shallowness of the areas bitten by the acid accounts for the limited life of the plates, as the depressions in the copper are gradually flattened out.\n\nAquatint may be the only technique used on a plate, but is very often combined with a linear technique such as etching, especially for outlines, figures and buildings.\n\nAnother tonal technique, mezzotint, begins with a plate surface ",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

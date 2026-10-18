@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-9786270df8be",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": "during World War II. Several radio and meteorological stations operate on the island nowadays.\n\nThe climate is Arctic and varies significantly across the vast sea area.Air temperatures fluctuate between −49 °C (−56 °F) near Spitsbergen in winter and 25 °C (77 °F) off Greenland in summer. Averages are −10 °C (14 °F) in the south and −26 °C (−15 °F) in the north in February, which is the coldest month. The corresponding values for the warmest month, August, are 5 °C (41 °F) in the south and 0 °C (32 °F) in the north. The summer is very short: The number of days per year when the temperature rises above 0 °C (32 °F) varies between 225 in the north to 334 in the south. The annual precipitation is 250 mm (10 in) in the north, but 500 mm (20 in) in the south.\n\nNorthern winds continue through the whole year, cooling the surface water and bringing ice to the south. The average surface water temperature is about −1 °C (30 °F) or lower in the north and 1–2 °C (34–36 °F) in the south; the corresponding summer temperatures are about 0 and 6 °C (32 and 43 °F) respectively. The bottom water temperatures are below −1 °C (30 °F). The surface water salinity is 3.30–3.45% in the eastern and below 3.20% in the western parts, increasing to 3.49% toward the bottom. The water is green. Tides are semidiurnal with the average height of 4.4 m (14.4 ft). Together with the water currents, they break up the floating ice sheets and mix various water layers both laterally and along the depth.\n\nThe progressively colder waters of North Atlantic Current sink in the Arctic Ocean, returning south in the form",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

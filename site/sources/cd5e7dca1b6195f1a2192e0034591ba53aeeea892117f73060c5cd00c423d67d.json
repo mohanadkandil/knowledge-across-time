@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7882755-973771422-23fbc00bc136",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Coëtlogon",
+  "text": "Coëtlogon can refer to:\n\nAlain Emmanuel de Coëtlogon, Marshal of France\n\nMarine de Carné de Trécesson de Coëtlogon, French diplomat\n\nCoëtlogon, Côtes-d'Armor, a French commune\n\nCoëtlogon, a French Navy frigate under the command of Abel-Nicolas Bergasse du Petit-Thouars during the Boshin war in Japan.",
+  "url": "https://en.wikipedia.org/wiki/Co%C3%ABtlogon",
+  "revision_id": 973771422,
+  "article_id": 7882755,
+  "section_path": "shared_text[0:301]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    301
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 175164,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "ba8dedfbff4a195a7c399ce6c3ff927aa5c422cd50880a8c183768b7ada9316f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=973771422",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7882755",
+    "revision_id": "973771422",
+    "retrieved_at": "2026-10-18T12:31:00.232523+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 301,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

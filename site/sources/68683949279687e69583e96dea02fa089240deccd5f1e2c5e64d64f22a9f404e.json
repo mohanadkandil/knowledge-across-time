@@ -1,0 +1,36 @@
+{
+  "id": "bri-1119-6038f74f3508:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1119-6038f74f3508",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+  "text": "THOUGH the Saxa, and forthially commonly called _Patrifaites_, cannot, in fierisefs, be ranked in a mineral lyffen, for the reasons formerly given yet as thefe bodies, especially the latter, occupy its con-fabricable a place in most natural conditions, and the former multi excellently be taken notice of by the miners in the oberations they make in information geo-graphy. It appeared proper to faighon them in fact an order as might an/wer the purpfor for which they are regarded by miners and mineraloguils.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+  "provenance": {
+    "page_id": "bri-1119-6038f74f3508",
+    "row_index": 1119,
+    "volume_id": "190273372",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+    "label": 0,
+    "sha256": "6038f74f350870163df4765405fd995f18c6929275fe77a7a46f4e71558fb87c",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1119-6038f74f3508.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1084,
+    0.1219,
+    0.4795,
+    0.2594
+  ],
+  "offsets": [
+    0,
+    510
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2399-112d3fdfaec9:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2399-112d3fdfaec9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+  "text": "The actual pollure in feminning is lying on the back. When you wish to swim in this pollure, lay yourself easily on your back, and ask your heart to the further of the water, keeping your body extended in the lane line. That you hands only were the upper part of your skips, and throw out your keys and then them in alternately, keeping them within two feet of the furface. In this way you may advance an any direction you prefer. You may perhaps use like having to much of your head under water; there is, however, no way of feminning to rely, fo life, and fo little firging. If you wish to",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+  "provenance": {
+    "page_id": "bri-2399-112d3fdfaec9",
+    "row_index": 2399,
+    "volume_id": "191678900",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+    "label": 0,
+    "sha256": "112d3fdfaec9e4914178a7fbdea212d1ae192617740b0b9b6724a09270f9cee7",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2399-112d3fdfaec9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0742,
+    0.6023,
+    0.4473,
+    0.7484
+  ],
+  "offsets": [
+    0,
+    591
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

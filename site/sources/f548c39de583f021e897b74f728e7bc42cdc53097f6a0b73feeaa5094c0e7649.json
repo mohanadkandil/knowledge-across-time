@@ -1,0 +1,36 @@
+{
+  "id": "bri-2292-93b4d1f3ff8c:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-2292-93b4d1f3ff8c",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "To properties, hydrated oxide of tetrehylum is so very like caustic potash, that were it not for the action of heat, in might, in addition, both confounded with it. It has an exotic alkaline taste, feels soapy to the fingers, as potash does, attracts water and carbon acid from the atmosphere, pre- epittive the salts of metals in potash does, converts oils into easy work boiled with them, and forms insoluble or sparingly soluble salts, with herbicarbonate and other tests, exactly as potash does. The chief difference is, that besides the counter alkalinate state, it has a bitter taste; and this is not of the whole class of bases of which it belongs. This and the action of heat distinguish them from potash and soda. But those some characters connect them with the fixed vegetable bases, such asquining morphins, crych-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+  "provenance": {
+    "page_id": "bri-2292-93b4d1f3ff8c",
+    "row_index": 2292,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 0,
+    "sha256": "93b4d1f3ff8c91cea76506298710cd1ef022efe47dc5ba2ebe8650a7496fc589",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2292-93b4d1f3ff8c.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5352,
+    0.7633,
+    0.9238,
+    0.9313
+  ],
+  "offsets": [
+    0,
+    825
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1682-143b68d96f54:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1682-143b68d96f54",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.12",
+  "text": "Belel Knox, who passed many years in opritivity on the island of Ceylon most people going abroad carry a small box of gold or silver, containing the ingredients for compounding betet) and the poor keep a constant supply about them (in horses of cultural straw, we severely lodged in a fold of their garments. The stand or box containing it is often the subject of elegant workmanship; it consists of silver gold, tortoisell, and forms a piece of communal furniture in the houses of the wealthy. It is sufficiently valuable to contribute a present between severalings.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1682",
+  "provenance": {
+    "page_id": "bri-1682-143b68d96f54",
+    "row_index": 1682,
+    "volume_id": "193108319",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.12",
+    "label": 0,
+    "sha256": "143b68d96f541580d44b67779708018fed631870bbb153694427ceb7f177e058",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-1682-143b68d96f54.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1682",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0703,
+    0.0641,
+    0.5234,
+    0.2102
+  ],
+  "offsets": [
+    0,
+    567
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

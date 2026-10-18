@@ -1,0 +1,44 @@
+{
+  "id": "wiki-376566-1353543034-1d8f2c752af4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel nut beauty",
+  "text": "ains the lips and gums. According to the government's Council of Agriculture, around seventy farms have joined this lucrative industry by planting betel nut trees, which has made the betel nut the most economically important crop in Taiwan since the 1990s. However, the increase in betel nut planting has caused problems with soil and water conservation on the hillside land. It has also been found that the Taiwanese method of consuming betel nut significantly enhances its potential to cause cancer.\n\nControversy surrounding betel nut beauties generally centers on two questions:\n\nthe propriety of their revealing dress in public places\n\nwhether their dress marks them as victims of exploitation\n\nBetel nut beauties often come from agricultural and working-class sectors of Taiwanese society. This has led some critics to regard their revealing dress as a sign of exploitation. Other observers, such as Josephine Ho, coordinator of the Center for the Study of Sexuality at National Central University, see betel nut beauties as self-empowering: young women with few resources who better their economic situation by employing a marketing technique that requires confidence.\n\nIn 2002, local governments in Taiwan started to impose laws or regulations covering the dress code of betel nut beauties, prohibiting the wearing of over-revealing clothes. Taipei was the first to initiate the change.\n\nOn 17 September 2002, Taoyuan County (now Taoyuan City) implemented a \"three nos\" policy which prevented betel nut beauties from wearing outfits which exposed their bellies, breasts, and buttocks. The poli",
+  "url": "https://en.wikipedia.org/wiki/Betel_nut_beauty",
+  "revision_id": 1353543034,
+  "article_id": 376566,
+  "section_path": "shared_text[0:4979]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "63bf49ee93b73298549a18ce72ee76973ea4d618a6cd0f70cd117128ae33a244",
+    "source_row_idx": 22280,
+    "source_shard": "enwiki/data/enwiki_namespace_0_78.parquet",
+    "text_sha256": "de9e69a52416545d05efa0ee69d195aa923890f6b2522476a1ddff691e98333a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353543034",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "376566",
+    "revision_id": "1353543034",
+    "retrieved_at": "2026-10-18T12:37:16.212612+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4979,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

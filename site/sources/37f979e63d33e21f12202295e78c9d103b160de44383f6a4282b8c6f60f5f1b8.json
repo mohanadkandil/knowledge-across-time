@@ -1,0 +1,44 @@
+{
+  "id": "wiki-57209-1218028610-4b09b2d21b37",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Attica (disambiguation)",
+  "text": "Attica is an historical region of Greece.\n\nAttica may also refer to:\n\nAttica (region), a modern administrative region of Greece\n\nAttica Prefecture, a former prefecture of Central Greece\n\nAttica Province, a former province of Greece\n\nAttica (constituency), a former electoral district of Greece\n\nAttica, Georgia\n\nAttica, Indiana\n\nAttica, Iowa\n\nAttica, Kansas\n\nAttica, Michigan\n\nAttica Township, Michigan\n\nAttica, New York\n\nAttica (village), New York\n\nAttica, Ohio\n\nAttica, Wisconsin\n\nAttica, Saskatchewan, Canada\n\nAttica Correctional Facility, a maximum security prison in Upstate New York\n\nAttica Prison uprising of 1971\n\nAttica (1974 film), a documentary film by Cinda Firestone\n\nAttica (1980 film), a television film\n\nAttica (2021 film), a documentary film\n\nAttica!, a 2014 album by Wussy\n\nAttica (automobiles), a Greek manufacturer of microcars\n\nAttica (novel), a novel by the British writer Garry Kilworth\n\nAttica (restaurant), a restaurant owned and operated by chef Ben Shewry\n\n1138 Attica, an asteroid",
+  "url": "https://en.wikipedia.org/wiki/Attica_(disambiguation)",
+  "revision_id": 1218028610,
+  "article_id": 57209,
+  "section_path": "shared_text[0:1008]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1008
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 150569,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "12fb81e1a841ce0cee9488d2817afcb7fbeb01f907ae1451d6541c72d75bc783",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1218028610",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "57209",
+    "revision_id": "1218028610",
+    "retrieved_at": "2026-10-18T12:36:40.562993+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1008,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

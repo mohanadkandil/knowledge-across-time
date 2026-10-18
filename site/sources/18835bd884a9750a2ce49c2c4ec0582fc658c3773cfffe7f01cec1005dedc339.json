@@ -1,0 +1,44 @@
+{
+  "id": "wiki-143021-1191185825-05c5952eadb9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Centers of gravity in non-uniform fields",
+  "text": "eory.\n\nOne way to define the center of gravity of a body is as the unique point in the body if it exists, that satisfies the following requirement: There is no torque about the point for any positioning of the body in the field of force in which it is placed. This center of gravity exists only when the force is uniform, in which case it coincides with the center of mass. This approach dates back to Archimedes.\n\nWhen a body is affected by a non-uniform external gravitational field, one can sometimes define a center of gravity relative to that field that will act as a point where the gravitational force is applied. Textbooks such as The Feynman Lectures on Physics characterize the center of gravity as a point about which there is no torque. In other words, the center of gravity is a point of application for the resultant force. Under this formulation, the center of gravity r is defined as a point that satisfies the equation\n\nr c g × F = τ, {\\displaystyle \\mathbf {r} _{\\mathrm {cg} }\\times \\mathbf {F} ={\\boldsymbol {\\tau }},}\n\nwhere F and τ are the total force and torque on the body due to gravity.\n\nOne complication concerning r is that its defining equation is not generally solvable. If F and τ are not orthogonal, then there is no solution; the force of gravity does not have a resultant and cannot be replaced by a single force at any point. There are some important special cases where F and τ are guaranteed to be orthogonal, such as if all forces lie in a single plane or are aligned with a single point.\n\nIf the equation is solvable, there is another complication: its solution",
+  "url": "https://en.wikipedia.org/wiki/Centers_of_gravity_in_non-uniform_fields",
+  "revision_id": 1191185825,
+  "article_id": 143021,
+  "section_path": "shared_text[0:6420]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 120331,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "1a88593ef9974f5627bf438a6d3a9189dbc00ec3bab50322391c6fa3a4f3eb9c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1191185825",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "143021",
+    "revision_id": "1191185825",
+    "retrieved_at": "2026-10-18T12:22:42.584400+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6420,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

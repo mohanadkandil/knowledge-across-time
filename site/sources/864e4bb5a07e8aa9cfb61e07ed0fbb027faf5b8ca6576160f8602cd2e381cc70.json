@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2005767-1306192550-ca6b84903028",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arabis",
+  "text": "Arabis / ˈ ær ə b ɪ s /, or rockcress, is a genus of flowering plants, within the family Brassicaceae.\n\nThe species are herbaceous, annual or perennial plants, growing to 10–80 cm tall, usually densely hairy, with simple entire to lobed leaves 1–6 cm long, and small white four-petaled flowers. The fruit is a long, slender capsule containing 10-20 or more seeds. Natural habitat for Arabis species is rocky mountain/cliff sides or dry sites. Cultivation of Arabis is best suited for rock gardens or container gardens. This genus is pollinated by members of Apieae and Lepidoptera.\n\nThough traditionally recognized as a large genus with many Old World and New World members, more recent evaluations of the relationships among these species using genetic data suggest there are two major groups within the old genus Arabis. These two groups are not each other's closest relatives, so have been split into two separate genera. Most of the Old World members remain in the genus Arabis, whereas most of the New World members have been moved into the genus Boechera, with only a few remaining in Arabis.\n\nSelected species\n\nArabis aculeolata Greene\n\nArabis alpina L. – alpine rockcress\n\nArabis armena N.Busch – Armenian rockcress\n\nArabis auriculata Lam.\n\nArabis blepharophylla Hook. & Arn. – coast rockcress\n\nArabis caucasica Willd.\n\nArabis cypria Holmboe\n\nArabis glabra – tower mustard\n\nArabis hirsuta (L.) Scop. – hairy rockcress\n\nArabis kazbegi Mtshkvet. – Kazbegian rockcress\n\nArabis kennedyae Meilke\n\nArabis mcdonaldiana Eastw.\n\nArabis procurrens Waldst. & Kit. – spreading rock cress\n\nArabis pycnocar",
+  "url": "https://en.wikipedia.org/wiki/Arabis",
+  "revision_id": 1306192550,
+  "article_id": 2005767,
+  "section_path": "shared_text[0:1794]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 55517,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "bbf923eac9f5af732fc2d6d5089a06197fd56b7ec628345eb61a1b2b11de2fe2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1306192550",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2005767",
+    "revision_id": "1306192550",
+    "retrieved_at": "2026-10-18T12:40:54.077754+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1794,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

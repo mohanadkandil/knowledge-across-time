@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-36826d7c60ba",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "wilde man in the 13th century, once in a lyrical poem alluding to the story of the giant Sigenot, i.e., an epic featuring both giant and wild man, from the Dietrich von Bern cycle. Another attestation occurs in the Arthurian romance Wigamur which gives wilde man (v. 203), as well as the female form wildez wîp (vv. 112, 200, 227ff.) (For additional examples in MHG literature cf. § German epics below).\n\nIn Old High German, the term wildaz wîp (lit. ' wild wife, wild woman ') together with holzmuoja, holzmoia (lit. ' wood maiden ') occurs in a glossary under the heading of the Latin term lamia (female monster). The same glossary under the heading of Latin ulula (lit. ' screech owl ' but here understood to be equivalent to strix of mythology) gives the gloss wildiu wîp. There are also the forms holzwib (holzwîb), as well as holzvrouwe and numerous others.\n\nAnother old example is the mention of \" ad domum wildero wîbo \" (\"house of the wild women\"), a piece of landmark or toponymy somewhere in Hessen, mentioned in Codex Eberhardi (c. 1150) by the monk Eberhard of Fulda or a redaction given by Johann Pistorius the Younger (d. 1608).\n\nThe wild man is referred to as waltluoder in Wolfdietrich, and in the same work, the title hero must deal with the advances of Rauhe Else (\"Shaggy Else\"), classified as a wild woman (cf. § German epic below).\n\nIn the epic Laurin the wild man is referred to as a waltmann (lit. ' wood man '). The same term waltman is used in Iwein to characterize the herdsman as a wild man, and he is also described as being as hairy as a walttôren (lit. ' wood fool ') (",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

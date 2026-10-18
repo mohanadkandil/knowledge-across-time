@@ -1,0 +1,36 @@
+{
+  "id": "bri-0744-fcdb217a9ba5:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0744-fcdb217a9ba5",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+  "text": "Asia, extending from the equator to the Aretie Sea, necessarily possesses great variety of climatic. But though here as its over other country, the climate is regulated by the distance from the equator, this general law is modified by accidental causes. In the wide extent of Africa versus recent production on temperate cover, which cannot be very clearly explained. To such inquiry some uncertainty will always attack, and anomalies may appear of which we can offer no solution. Tests are not only sure guides it and unless thereby, in the following observations, we will endeavour to address.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+  "provenance": {
+    "page_id": "bri-0744-fcdb217a9ba5",
+    "row_index": 744,
+    "volume_id": "193696085",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+    "label": 0,
+    "sha256": "fcdb217a9ba5e3b917823cdc39f41c29fcfee28beaacefc676ceeef419d1b70f",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-0744-fcdb217a9ba5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.0596,
+    0.4164,
+    0.5293,
+    0.5508
+  ],
+  "offsets": [
+    0,
+    595
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

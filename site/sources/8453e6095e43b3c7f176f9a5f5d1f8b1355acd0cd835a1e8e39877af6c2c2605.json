@@ -1,0 +1,44 @@
+{
+  "id": "wiki-68705110-1349782735-c4e77227b6f9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Metropolitan Hospital Sunday Fund",
+  "text": "t early financial supporter was Mr George Herring.\n\nThe Sunday Fund idea reached as far as Geelong in Victoria, Australia.\n\nThe Fund continues to exist, changing its name in 2002 to London Catalyst Each monarch following Queen Victoria has been the patron of the Fund, with King Charles III its current patron.",
+  "url": "https://en.wikipedia.org/wiki/Metropolitan_Hospital_Sunday_Fund",
+  "revision_id": 1349782735,
+  "article_id": 68705110,
+  "section_path": "shared_text[0:3190]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3190
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "355b0895b1deb8e0eadc62962c71072e627bf5aa353b4d76424eb4b880e3a0b0",
+    "source_row_idx": 40819,
+    "source_shard": "enwiki/data/enwiki_namespace_0_52.parquet",
+    "text_sha256": "b05793868dd62d3fa2412f125537cde5964a0a5621a4009ac542d2b172d38639",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349782735",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "68705110",
+    "revision_id": "1349782735",
+    "retrieved_at": "2026-10-18T12:36:58.914156+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3190,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -56,11 +56,17 @@ def parsed_content(raw: str) -> dict:
                               "coordinate_system":"normalized_0_1","bbox_within_page":all(0<=v<=1 for v in bbox) and bbox[0]<bbox[2] and bbox[1]<bbox[3],
                               "coordinates_verified":False,"reading_order":index})
     if token_regions:
-        if not any(region["text"].strip() for region in token_regions):
-            raise ValueError("Parser produced regions without readable text; retain this page as a parse failure")
+        readable=any(region["text"].strip() for region in token_regions)
+        layout_only=not readable and all(region["type"].casefold() in {"picture","image","figure","illustration"} for region in token_regions)
+        if not readable and not layout_only:
+            raise ValueError("Parser produced text regions without readable text; retain this page as a parse failure")
         residual=re.sub(pattern,"",raw,flags=re.S).strip()
+        note="Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+        if layout_only:
+            note+=" No readable text was extracted; only picture/layout regions were returned. This does not establish that the original scan is blank."
         return {"text":"\n\n".join(r["text"] for r in token_regions),"regions":token_regions,"raw":raw,
-                "unparsed_residual":residual,"note":"Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."}
+                "readable_text":readable,"extraction_status":"text_extracted" if readable else "layout_only",
+                "unparsed_residual":residual,"note":note}
     try:
         value = json_answer(raw)
     except ValueError:
@@ -81,13 +87,13 @@ def parsed_content(raw: str) -> dict:
             text = "\n\n".join(r["text"] for r in regions)
     else:
         parser = _Text(); parser.feed(raw)
-        text = "\n".join(parser.parts).strip() if "<" in raw and parser.parts else raw.strip()
+        text = "\n".join(parser.parts).strip() if "<" in raw else raw.strip()
     if not str(text).strip():
         raise ValueError("Parser produced no readable text; retain this page as a parse failure")
     if not regions:
         regions = [{"region_id": "page", "text": str(text), "bbox_raw": None,
                     "type": "whole_page", "coordinates_verified": False}]
-    return {"text": str(text), "regions": regions, "raw": raw,
+    return {"text": str(text), "regions": regions, "raw": raw, "readable_text":True,"extraction_status":"text_extracted",
             "note": "Boxes are unverified raw provider coordinates; whole-page fallback is explicit."}
 
 
@@ -131,13 +137,18 @@ class Models:
             if self.trace_dir:
                 write_json(self.trace_dir / f"{len(self.events):03d}-{role}-{uuid.uuid4().hex[:12]}.json", event)
 
-    def chat(self, messages: list[dict], max_tokens: int = 6144) -> str:
+    def chat(self, messages: list[dict], max_tokens: int = 6144, *, enable_thinking: bool = False,
+             response_schema: dict | None = None) -> str:
         s = self.settings
         if not s.token_factory_api_key.get_secret_value():
             raise ConfigurationError("Set TOKEN_FACTORY_API_KEY in the local .env")
+        payload={"model":s.nemotron_agent_model,"messages":messages,"max_tokens":max_tokens,"temperature":0,
+                 "chat_template_kwargs":{"enable_thinking":enable_thinking}}
+        if response_schema is not None:
+            payload["response_format"]={"type":"json_schema","json_schema":{
+                "name":"source_comparison","strict":True,"schema":response_schema}}
         result = self.post("agent", s.token_factory_base_url.rstrip("/")+"/chat/completions", s.nemotron_agent_model,
-                           s.token_factory_api_key.get_secret_value(),
-                           {"model": s.nemotron_agent_model, "messages": messages, "max_tokens": max_tokens, "temperature": 0})
+                           s.token_factory_api_key.get_secret_value(),payload)
         content = result["choices"][0]["message"].get("content")
         if result.get("model")!=s.nemotron_agent_model or result["choices"][0].get("finish_reason")!="stop":
             raise ValueError("Agent model identity differs or generation is incomplete; inspect saved response")

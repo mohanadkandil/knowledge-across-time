@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2335721-1325578488-8534951adef1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Battle of Millesimo",
+  "text": "been, and how close he had been to having his plans seriously compromised. There was, in fact, no real battle at Millesimo itself, but rather a confused action on 13 April, in which a number of small enemy units were driven back, followed by a short but very costly siege of the castle of Cosseria, which was defended by only about a thousand Austrians and Piedmontese under Provera and Del Carretto. It was only after the defenders had been forced to surrender the castle on 14 April, due to lack of ammunition, food and water, that the French advance inland could continue in safety. Bonaparte later admitted to the Piedmontese chief-of-staff, Colonel Joseph Costa that the siege of Cosseria had been a mistake and had been due to his impatience. It was probably because he wanted to cover up this mistake that Bonaparte's report of the \"Battle of Millesimo\" was so misleading.\n\nThe French lost 700 men in their fruitless attacks on 13 April. Provera's 988 men suffered only 96 killed and wounded, but the remainder became prisoners of war. The French Adjutant General Jean Quenin and General of Brigade Pierre Banel were killed, as was the Sardinian Del Carretto. Louis Suchet received promotion when his colonel was killed in the attack. Losses in the brief action earlier in the day are not known. The surrender of the castle allowed the French offensive to continue. On 14 April, Masséna won the Second Battle of Dego. Soon after, Bonaparte launched his army in a relentless westward drive against Colli's Austro-Sardinian forces.",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Millesimo",
+  "revision_id": 1325578488,
+  "article_id": 2335721,
+  "section_path": "shared_text[0:4416]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4416
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 88269,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "520c82192717cfb5a34f49c45918f003e7f5a1751bc2fe5976e755c17ede1a62",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325578488",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2335721",
+    "revision_id": "1325578488",
+    "retrieved_at": "2026-10-18T12:22:18.169197+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4416,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

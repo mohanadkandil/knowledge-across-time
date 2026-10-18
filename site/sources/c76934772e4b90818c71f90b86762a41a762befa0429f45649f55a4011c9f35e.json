@@ -1,0 +1,36 @@
+{
+  "id": "bri-0107-3570cc46e9ae:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0107-3570cc46e9ae",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+  "text": "\\begin{tabular}{cc}\nOffice & Founded.\\\\\nRegits professionals of divinity... & 1097\\\\\n— of civil and canon law ... & 1068\\\\\n— of feudal and English law & 1714\\\\\nof global ... & 1437\\\\\nof Greek ... & 1741\\\\\nKing's lecturedly life divinity ... & 1729\\\\\nLori Donegal's lecturing in mathematics ... & 1671\\\\\nReveri astronaut of female ... & 1733\\\\\nSmith of professionals of natural philosophy ... & 1724\\\\\n— of ordinary ... & 1724\\\\\nof unheantical ... & 1722\\\\\nof history ... & 1723\\\\\nLectetorship in natural history ... & 1616\\\\\nProfessorially of French and German ... & 1777\\\\\nof Indian and Spanish ... & 1777\\\\\nWhistety's professionals of political economy ... & 1832\\\\\nProfessorially of novel philosophy ... & 1807\\\\\nto fulfilled thereby ... & 1828\\\\\n\\end{tabular}",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+  "provenance": {
+    "page_id": "bri-0107-3570cc46e9ae",
+    "row_index": 107,
+    "volume_id": "193819045",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+    "label": 0,
+    "sha256": "3570cc46e9ae7b4e2457fd195c7ce9cfa8598bd3ebab3c8e9c4489066acfbcda",
+    "width": 600,
+    "height": 869,
+    "image_file": "../images/bri-0107-3570cc46e9ae.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1455,
+    0.1523,
+    0.5693,
+    0.4141
+  ],
+  "offsets": [
+    0,
+    763
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

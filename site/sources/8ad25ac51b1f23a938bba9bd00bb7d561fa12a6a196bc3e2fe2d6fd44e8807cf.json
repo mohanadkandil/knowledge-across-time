@@ -1,0 +1,44 @@
+{
+  "id": "wiki-333499-1333438457-9a7e74909f33",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "James Cook (disambiguation)",
+  "text": "nd critic\n\nJames Cook (broadcaster), Scottish journalist for the BBC\n\nJames B. Cook (fl. 1851–1899), English-trained architect in Memphis, Tennessee\n\nJames Dunbar Cook (1921–2007), British rear admiral\n\nJames Hume Cook (1866–1942), Australian politician\n\nJames M. Cook (1807–1868), New York State Comptroller, 1854–1855\n\nJames Pringle Cook (born 1947), American painter\n\nJames Wilfred Cook (1900–1975), English chemist, Vice-Chancellor of the University of Exeter (1954–1966)\n\nJames William Cook (1820–1875), Canadian businessman and political figure\n\nR. James Cook (born 1937), American phytopathologist\n\nJim Cook Jr. (born 1987), American writer\n\nJames H. Cook, discoverer of a Miocene bone bed in Sioux County, Nebraska\n\nJames Cook, murderer gibbeted in 1832\n\nJames Cook (Skins), a character from Skins\n\nJames Cook Boys Technology High School, Kogarah, Australia\n\nJames Cook High School, South Auckland, New Zealand\n\nJames Cook University, Queensland, Australia\n\nJames Cook University Hospital, a teaching hospital in Marton, Middlesbrough, England\n\nJames Cook railway station, a station being built primarily to serve the hospital\n\nRRS James Cook, a 2005 British research ship\n\nCaptain James Cook (miniseries), a 1989 Australian mini series",
+  "url": "https://en.wikipedia.org/wiki/James_Cook_(disambiguation)",
+  "revision_id": 1333438457,
+  "article_id": 333499,
+  "section_path": "shared_text[0:2684]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2684
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 81257,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "490ead055cc8e78fa2a1bc236100faa9c4e2a4b602ab4d6072357de502fb96d2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333438457",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "333499",
+    "revision_id": "1333438457",
+    "retrieved_at": "2026-10-18T12:22:46.184454+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2684,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

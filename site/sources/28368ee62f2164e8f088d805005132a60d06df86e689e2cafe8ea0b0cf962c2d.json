@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2782814-1346398101-dd30f72925ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Regulatory agency",
+  "text": "ormation and decision-making on part of the regulated company; and\n\nmonitor the performance and investigate the compliance of the regulated company, with the regulator publishing the findings of its investigations.\n\nIn the event that the regulated company is not in compliance with its license obligations or the law, the regulatory agency may be empowered to:\n\nrequire that administrators of the regulated company explain their actions;\n\nundertake enforcement action, such as directing the regulated company to comply through orders, imposing financial penalties and/or revoking its license to operate; or\n\nrefer the regulated company to a competition authority, in instances where it may have breached competition law, or prosecute the company (via civil courts).\n\nIn some instances, it is deemed in the public interest (by the legislative branch of government) for regulatory agencies to be given powers in addition to the above. This more interventionist form of regulation is common in the provision of public utilities, which are subject to economic regulation. In this case, regulatory agencies have powers to:\n\nrequire the provision of particular outputs and/or service levels; and\n\nset price controls or a rate-of-return for the regulated company.\n\nThe functions of regulatory agencies in prolong \"collaborative governance\" provide for generally non-adversarial regulation. Ex post actions taken by regulatory agencies can be more adversarial and involve sanctions, influencing rulemaking, and creating quasi-common law. However, the roles of regulatory agencies as \"regulatory monitors\" pro",
+  "url": "https://en.wikipedia.org/wiki/Regulatory_agency",
+  "revision_id": 1346398101,
+  "article_id": 2782814,
+  "section_path": "shared_text[0:5467]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 20262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "719e92d50c6495e86d39966c8583c3b5a959298c62ee5f9dd13aa996e4c5c502",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346398101",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2782814",
+    "revision_id": "1346398101",
+    "retrieved_at": "2026-10-18T12:22:55.040938+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5467,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

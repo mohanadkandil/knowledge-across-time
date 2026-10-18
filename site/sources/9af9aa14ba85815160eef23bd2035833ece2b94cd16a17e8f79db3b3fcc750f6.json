@@ -1,0 +1,36 @@
+{
+  "id": "bri-2281-ff9c4373e498:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2281-ff9c4373e498",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "cumference of the circle in the point F; join FD and FA. It is obvious, that the angle BAD is the half of DAC, the remaining part of the whole angle, and therefore, equal to the angle DFG at the circumference. But AD and EC being parallel, the angle BAD is equal to AEF, which is hence equal to DFG; and subsequently FD is parallel to EB. Wherefore, the are BD is equal to GF, and the angle BAD equal to GAF. The angle AEF is thus equal to EAF, and hence the side EF is equal to AF, the radius of the circle.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+  "provenance": {
+    "page_id": "bri-2281-ff9c4373e498",
+    "row_index": 2281,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 1,
+    "sha256": "ff9c4373e498cf1488dade04b3ed25c7d5c4da4a09a1e102e863f69b1e53fdca",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-2281-ff9c4373e498.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1348,
+    0.5375,
+    0.5254,
+    0.6852
+  ],
+  "offsets": [
+    0,
+    508
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

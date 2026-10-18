@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23159504-1318177268-6926431d0b4d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of chocolate",
+  "text": "oating\n\nChocolate crackles – Confection in Australia and New Zealand made of puffed rice\n\nChocolate truffle – Type of chocolate confectionery\n\nRum ball – Truffle-like confection of cookie butter flavored with chocolate and rum\n\nCookie – Small, flat and sweetened baked food\n\nAfghan biscuit – Traditional biscuit in New Zealand\n\nBlack and white cookie – Round cookie with chocolate and vanilla frosting\n\nChocolate biscuit – Biscuit flavoured with or covered in chocolate\n\nChocolate brownie – Baked chocolate confection\n\nChocolate chip – Small chunk of chocolate used as an ingredient\n\nChocolate chip cookie – Drop cookie featuring chocolate chips\n\nList of cookies – List of notable cookie (biscuit) types\n\nDessert – Sweet course that concludes a meal\n\nChocolate salami – Italian, Portuguese and Romanian chocolate dessert\n\nMolten chocolate cake – Dessert\n\nMousse – Soft creamy prepared food using air bubbles for texture\n\nIce cream – Frozen dessert\n\nChocolate chip – Small chunk of chocolate used as an ingredient\n\nMint chocolate chip – Ice cream flavor\n\nCafe mocha – A chocolate-flavored variant of a caffè latte\n\nChocolate milk – Sweetened chocolate-flavoured milk\n\nBanania – Chocolate drink\n\nNesquik – Brand of products made by Nestlé\n\nSwiss Miss – American cocoa powder and pudding brand\n\nYoo-hoo – American brand of chocolate beverage\n\nCrème de cacao – A sweet liqueur that tastes like chocolate.\n\nHot chocolate – Heated chocolate beverage in milk or water\n\nList of chocolate beverages – A list of notable beverages flavoured with chocolate\n\nHistory of chocolate\n\nChocolataire – Social gathering ",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_chocolate",
+  "revision_id": 1318177268,
+  "article_id": 23159504,
+  "section_path": "shared_text[0:9287]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 111828,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "d27b94eb7e648adb0cd98875b936fcf5f60a3d760368185a7f037b9f1b49b80f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318177268",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23159504",
+    "revision_id": "1318177268",
+    "retrieved_at": "2026-10-18T12:16:14.053579+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9287,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

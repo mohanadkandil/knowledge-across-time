@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7095838-1330903550-f8949d860567",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Steelyard balance",
+  "text": "et long and used to weigh sacks of flour and other commodities. Even larger steelyards were three stories tall and used to weigh fully laden horse-drawn waggons.\n\nA steelyard could be used to measure electric current. in 1856 Wildman Whitehouse announced his method of using magnetic coils, representing the load be measured, at one end of a steelyard balance. The position of the moving weight on the balance was adjusted in the usual way to counter the pull of the coils. Whitehouse claimed that his invention gave a steadier reading of current passing through telegraph cables under test than the galvanometers then commonly used.\n\nA horizontal cart balance or cart steelyard has grooved plates, mounted on pivoted frames, to receive the wheels of a cart. The movement of the frames is transferred to a conventional steelyard, mounted on a post, by a horizontal chain. In 1870, a patent was granted to the North British Railway for a similar apparatus to weigh railway waggons. A printed paper chart is mounted behind the steelyard weight, which has a pin attached. When the waggon is in place the pin is made to strike the chart, providing an automatic record of the weight.\n\nA Scandinavian steelyard is a variant which consists of a bar with a fixed weight attached to one end, a movable pivot point, and an attachment point for the object to be weighed at the other end. Once the object to be weighed is attached to its end of the bar, the pivot point, which is frequently a loop at the end of a cord or chain, is moved until the bar is balanced. The bar is calibrated so that the object's weig",
+  "url": "https://en.wikipedia.org/wiki/Steelyard_balance",
+  "revision_id": 1330903550,
+  "article_id": 7095838,
+  "section_path": "shared_text[0:4597]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 112138,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "ff2887aa4de3fb1960c82e29250ddf73539fc8c8ef9fa604fa6310be00be702a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330903550",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7095838",
+    "revision_id": "1330903550",
+    "retrieved_at": "2026-10-18T12:21:11.243656+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4597,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

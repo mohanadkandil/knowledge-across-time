@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5850228-1353554990-5ead1f9a446a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tara (given name)",
+  "text": "Tara is a given name with multiple meanings in different cultures.\n\nIn Ireland, it is derived from The Hill of Tara, an archaeological site located near the River Boyne in County Meath, which according to tradition was the seat of the High King of Ireland. The name was popular in the United States during the 1970s, probably due to Tara being the name of the O'Hara's plantation in the 1939 film Gone with the Wind, and the characters Tara King in the 1960s British television series The Avengers and Tara Martin on the American soap opera All My Children in the early 1970s. In Ireland, from 2000 to 2005 it ranked between the 30th and 40th most popular girl's name.\n\nIn South Asian countries, such as India and Nepal, Tara derives from a Sanskrit word meaning \"star'\" and symbolizes the light of the soul. It is often considered a feminine name due to its connection to several goddesses; for instance, the female Buddha and the Hindu goddess.\n\nThe name is popular in India, Ireland, the United States, Iran and Australia.\n\nThe name Tara is accepted as being a feminine name in Western societies, although there have been men, such as Tara Browne, who carried the name.\n\nIrish Gaelic: Irish Princess or Irish Queen, also refers to the Hill of Tara, or Teamhair na Rí, the legendary seat of the High King of Ireland\n\nIn Serbia the name is often associated with the mountain of Tara and national park in Serbia and river Tara in Montenegro and Bosnia and Herzegovina\n\nSanskrit, Hindi, Urdu, Nepali, Marathi, Persian, Punjabi, Kurdish, Tamil, Bengali, Telugu, Sinhalese: \"Star\"\n\nTara (Assamese actres",
+  "url": "https://en.wikipedia.org/wiki/Tara_(given_name)",
+  "revision_id": 1353554990,
+  "article_id": 5850228,
+  "section_path": "shared_text[0:10978]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4ddb308459323163b83c0758c11dbaee347c4ab9275d48b7d8e597f3a291abd4",
+    "source_row_idx": 3571,
+    "source_shard": "enwiki/data/enwiki_namespace_0_71.parquet",
+    "text_sha256": "e18842313c18e1e4a46b66ef20fff4fe49a397734fa651617f49ae78d6fc44df",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353554990",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5850228",
+    "revision_id": "1353554990",
+    "retrieved_at": "2026-10-18T12:38:31.760378+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10978,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

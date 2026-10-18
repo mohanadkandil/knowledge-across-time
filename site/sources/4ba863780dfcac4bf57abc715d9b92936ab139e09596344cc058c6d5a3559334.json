@@ -1,0 +1,44 @@
+{
+  "id": "wiki-19556079-1338221392-1759771c2a10",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Dye (surname)",
+  "text": "Dye is a surname. Notable people with the surname include:\n\nAlbert A. Dye (1845–1934), American politician from Wisconsin\n\nAlice Dye (1927–2019), American golfer and golf course designer; wife of Pete Dye\n\nBabe Dye (1897–1962), Canadian ice hockey player\n\nBianca Dye (born 1973), Australian radio presenter\n\nBobby Dye (born 1937), American basketball coach\n\nBrad Dye (1933–2018), American politician\n\nCameron Dye (born 1959), American actor\n\nAunt Caroline Dye (1810 or c. 1843–1918), African American Hoodoo woman and investor\n\nCharles Dye, American record producer\n\nChristopher Dye, British biologist and epidemiologist\n\nClarissa F. Dye (1832–1921), American nurse\n\nCourtney King-Dye (born 1977), American equestrian\n\nCrispin Dye (1952–1993), Australian musician and band manager\n\nDale Dye (born 1944), American actor and writer\n\nDaniel Dye (born 2003), American stock car racing driver\n\nDave Dye (born 1945), American college football coach\n\nDavid Dye (broadcaster), American radio broadcaster\n\nDavid Dye (metallurgist), British metallurgist\n\nDavid William Dye (1887–1932), English physicist\n\nDonteea Dye (born 1993), American football player\n\nDoug Dye (1921–2005), New Zealand microbiologist\n\nErnest Dye (born 1971), American football player\n\nEva Emery Dye (1855–1947), American writer, historian and suffragist\n\nFrank Dye (1928–2010), English dingy sailor\n\nGladden Dye (born c. 1934), American college football coach\n\nGraham Dye (born 1961), English musician\n\nHenry Dye (1926–1986), American mathematician\n\nIssi Dye (born 1946), Australian entertainer\n\nJack Dye (1876–1944), American college foot",
+  "url": "https://en.wikipedia.org/wiki/Dye_(surname)",
+  "revision_id": 1338221392,
+  "article_id": 19556079,
+  "section_path": "shared_text[0:3587]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 27753,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "e30fa9eaea17d0e876a39490ef79ca28f58925e96748f9664bce76d79fa5ff31",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338221392",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "19556079",
+    "revision_id": "1338221392",
+    "retrieved_at": "2026-10-18T12:23:21.758636+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3587,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

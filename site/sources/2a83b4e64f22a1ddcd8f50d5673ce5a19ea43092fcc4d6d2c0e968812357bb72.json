@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "The purified vegetable alkali has been known in our phumaspeasia under inefficient names of _lafi of warn_- _monds, fali of tortor_, lec. Bustli these being now known to be really the flame, the terms as leading to errors have been with julitice engaged; i and it has been deildetsum to doowone force more equally applicable to the whole. The term employed by the Edinburgh college is too long, being rather a decription than a name but to that employed by the London College, _Fully,_ of children have also been made. And it mult bc allowed, that besides the inconvenience which urine from to being an individual word, the folfil kiki is equally limited to the false population. Bedles this, as a considerable portion of the folial alkali is prepared from bringing a vegetable growing, the the roads, which has the name of kain, the kali fireofum of lairie, fome apparent contradiction and ambiguity may therefore arise. And one London college would perhaps have done better, if they had adopted the time _Portfolio_ a name which has been appropriated to this fall by home of the moll element modern chemifits.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1348,
+    0.3469,
+    0.501,
+    0.6422
+  ],
+  "offsets": [
+    0,
+    1111
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

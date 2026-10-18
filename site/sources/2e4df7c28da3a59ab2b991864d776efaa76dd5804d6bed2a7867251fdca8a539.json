@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39804937-1350184204-6852bd872923",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Weir (surname)",
+  "text": "e Armstrong Custer at Custer's Last Stand\n\nTom Weir (1914–2006), Scottish mountain climber, author and broadcaster\n\nWalter Weir (1929–1985), Canadian politician\n\nWilliam Weir (disambiguation), multiple people\n\nBrett Weir, in The Jerky Boys: The Movie\n\nElizabeth Weir (Stargate), in the television series Stargate Atlantis and Stargate SG-1\n\nLindsay Weir (Freaks and Geeks), in the television series Freaks and Geeks\n\nDr. William Weir, in Event Horizon",
+  "url": "https://en.wikipedia.org/wiki/Weir_(surname)",
+  "revision_id": 1350184204,
+  "article_id": 39804937,
+  "section_path": "shared_text[0:3331]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3331
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "351ee65aa683fc2e65fc2cb6c0e70fbb1ddbaaf57fbd16630b2878c2de84e546",
+    "source_row_idx": 20530,
+    "source_shard": "enwiki/data/enwiki_namespace_0_54.parquet",
+    "text_sha256": "d8879b8f76f77c93ebc1358c544710a9bf38d6b54c1bbc9f18917d544e788a0a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350184204",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39804937",
+    "revision_id": "1350184204",
+    "retrieved_at": "2026-10-18T12:35:44.883803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3331,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60914716-1345083304-7303e474ee3c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Batch dyeing",
+  "text": "tion.\n\nThe jigger dyeing machine is a large closed dye vat with two main rollers located in the top half of the machine. The fabric is wound onto one roller and then fed onto the other. The dye liquor is located at the bottom of the dye vat below the two main rollers, it is specially designed to require a low liquor ratio. A number of smaller rollers are located through the dye liquor to guide the fabric through the solution. These are referred to as guide rollers. A steam heating coil is located at the base of the dye vat and is used to control the heating of the dye liquor. Having the dye vat closed also controls the temperature of the dye solution, keeping it a constant temperature at the top and bottom of the vat as no heat is lost to the outside atmosphere. To prevent the dripping of condensation created from the trapped steam, there are special steam coils located at the hood of the machine.\n\nThe winch dyeing machine is a large dye vat that has a winch reel and a jockey roller located above the dye liquor in the top of the machine. The reel and roller aid in the movement of the fabric loop through the dye liquor. The winch reel controls how fast the fabric moves through the solution. This aids in the circulation of the fabric loop through the dye liquor by hauling it out of the solution and over the roller. The jockey roller acts as a guide for the fabric, helping it move through the width of the solution. To achieve this stimulation, the jockey roller is free moving. The winch machine also has a front compartment, that is separate from the main dye vat. The front com",
+  "url": "https://en.wikipedia.org/wiki/Batch_dyeing",
+  "revision_id": 1345083304,
+  "article_id": 60914716,
+  "section_path": "shared_text[0:9937]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 71316,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "d0ac73aa6b316a310431d2b0101e9b000db135e4ca3e360c9d26d32d08b91682",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345083304",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60914716",
+    "revision_id": "1345083304",
+    "retrieved_at": "2026-10-18T12:23:25.209831+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9937,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

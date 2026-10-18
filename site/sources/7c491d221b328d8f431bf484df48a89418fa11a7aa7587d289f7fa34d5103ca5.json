@@ -1,0 +1,44 @@
+{
+  "id": "wiki-690575-1346891065-ee0b60d5952b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of Church of the Nazarene schools",
+  "text": "azarene University in Nashville, Tennessee (Southeast)\n\nThere are, in addition to the liberal arts colleges, a Bible college and a seminary:\n\nNazarene Bible College in Colorado Springs, Colorado\n\nNazarene Theological Seminary in Kansas City, Missouri\n\nSeminario Nazareno Sudamericano, Buenos Aires\n\nSeminario Teologico Nazareno de Bolivia, La Paz\n\nFaculdade Nazarena do Brasil, Campinas\n\nSeminario Biblico Nazareno, Santiago\n\nSeminario Teologico Nazareno Sudamericano, Quito\n\nInstituto Biblico Nazareno, Bagua Chica\n\nSeminario Teologico Nazareno, Chiclayo",
+  "url": "https://en.wikipedia.org/wiki/List_of_Church_of_the_Nazarene_schools",
+  "revision_id": 1346891065,
+  "article_id": 690575,
+  "section_path": "shared_text[0:3435]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3435
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 136795,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "df348f72d0f0bd321868dca556ba5f0ba3efdd8d39b8c73d84a246a93bb82521",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346891065",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "690575",
+    "revision_id": "1346891065",
+    "retrieved_at": "2026-10-18T12:35:36.956509+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3435,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

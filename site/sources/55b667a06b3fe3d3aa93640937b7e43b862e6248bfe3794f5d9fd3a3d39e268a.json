@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1317097-1258682069-87f01a209b8f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anti-Slavery Reporter",
+  "text": "ublished since 1825 and continues to be a leading source of news and analysis in relation to slavery issues\".\n\nUnder Macaulay and its subsequent editors, the journal campaigned vigorously for the abolition of slavery throughout the world in the late 19th century. Its articles include detailed reports of the activities of the abolitionists; reports of the Parliamentary procedures which ultimately led to the abolition of slavery throughout Britain and her colonies; and details of the political activities of pro- and anti-slavery supporters in other countries.",
+  "url": "https://en.wikipedia.org/wiki/Anti-Slavery_Reporter",
+  "revision_id": 1258682069,
+  "article_id": 1317097,
+  "section_path": "shared_text[0:3443]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3443
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 75980,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "be2d2fc501499cf3a799c5e4871b625b0d1ad0b6d0fa7594a53ae7f01b16010b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1258682069",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1317097",
+    "revision_id": "1258682069",
+    "retrieved_at": "2026-10-18T12:39:58.945474+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3443,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

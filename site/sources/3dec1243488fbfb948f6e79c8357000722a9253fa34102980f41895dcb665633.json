@@ -1,0 +1,36 @@
+{
+  "id": "bri-2286-bf2427da4447:region-28:0",
+  "kind": "britannica",
+  "page_id": "bri-2286-bf2427da4447",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+  "text": "_Soldier laricaria. Siluras callicklay of Limnus—callicb-\nbrown will dependful rounded head, and low offgs.,\nfales on each fide, and roundtail tail. Native of South\nAmmer, where it is its considerable offers as a food.\nSpekkel laricaria—Yellow with bismuth buck pancillats,\ndouble row of fales on each fide ; fins freckilled with\nblacks; and darked tail, why fire out of inches long,\nbut very elegant. Native of the river of Siberian.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+  "provenance": {
+    "page_id": "bri-2286-bf2427da4447",
+    "row_index": 2286,
+    "volume_id": "191679019",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+    "label": 0,
+    "sha256": "bf2427da444769a49359f48f9473754cb83b2796c186caccae883280aea98d72",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-2286-bf2427da4447.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+    "manual_seed": false
+  },
+  "region_id": "region-28",
+  "bbox_raw": [
+    0.4707,
+    0.6391,
+    0.8828,
+    0.7367
+  ],
+  "offsets": [
+    0,
+    434
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

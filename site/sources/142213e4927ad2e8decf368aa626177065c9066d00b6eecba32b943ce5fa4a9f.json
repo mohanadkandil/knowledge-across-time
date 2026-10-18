@@ -1,0 +1,36 @@
+{
+  "id": "bri-1001-6dc406c9bf02:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1001-6dc406c9bf02",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+  "text": "This confection alone is sufficient to flow, that if there was a deluge at all; it muff have been univerful with regard to the world as well as the human race; and the publicity of fish is obliged by natural means has already been wivined. Under the article AverKD- EXYASF is it done, , that much, thus according to the molt word derte composition, the world must have been really more full of people than at preferent. The leaf calculation there made indeed forms incredible, fines, acording to it, the world shall have continued upwards of 68,719 times as many inhabitants as are at prefent to do not want in the one of the China, the mail po-polous country in the world? but China bbers a much larger proportion to the habitable port of the world than this. The Vietnamese scientist is thanked upon one another have always been the means of thinking their numbers, and preventing the earth from being overlooked with inhabitsly and it and strong expatriation in Sicureure, like the \"Got\" was filled with via Jence 3'! flows that it mull have gone to an extraordinary might. But that this obvious will have one doubly through the old world of its inhabitants, it mull likewise have different home of them into difant regions. There is therefore no reason for fupppling that before the flood the human race were two drivers into the remotell regions of the habitable world, or that Amazon was definite of inhabitants have more than it is at prefent. At say rate, the fileness of Vollus and Coetlegon, who would confine the whole range of mandated to a final part of Afs, multispace evidently faith a",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+  "provenance": {
+    "page_id": "bri-1001-6dc406c9bf02",
+    "row_index": 1001,
+    "volume_id": "191678897",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+    "label": 0,
+    "sha256": "6dc406c9bf0283353802ff585a62b3fc16c241b290149978292c4854d694bd3d",
+    "width": 600,
+    "height": 791,
+    "image_file": "../images/bri-1001-6dc406c9bf02.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0166,
+    0.4781,
+    0.4697,
+    0.9422
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

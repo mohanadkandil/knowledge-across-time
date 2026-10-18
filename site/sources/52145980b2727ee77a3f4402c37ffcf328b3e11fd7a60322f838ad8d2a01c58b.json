@@ -1,0 +1,44 @@
+{
+  "id": "wiki-29883902-1293971846-931aa1708d23",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Francis Clater",
+  "text": "on of 'Every Man his own Farrier' by Mayhew, published in 1850, and of the 'Cattle Doctor' by Armytage, published in 1870 — much exploded conjecture has been omitted, and the text almost entirely rewritten.",
+  "url": "https://en.wikipedia.org/wiki/Francis_Clater",
+  "revision_id": 1293971846,
+  "article_id": 29883902,
+  "section_path": "shared_text[0:1646]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1646
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 54685,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "3bad8da43d22bd890c8b55ba74eb0e9b57585544940ffdee6fb8873f97e9344b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1293971846",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "29883902",
+    "revision_id": "1293971846",
+    "retrieved_at": "2026-10-18T12:36:20.854368+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1646,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

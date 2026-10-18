@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10835813-1309941098-34a495e8c527",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of swimming competitions",
+  "text": "wim\n\nCole Classic, since 1982\n\nCruce a Nado Internacional, since 1980\n\nLake Zurich Swim\n\nLucky's Lake Swim, since 1989\n\nMeis–Kaş Swim, since 2005\n\nMidmar Mile, since 1974\n\nOceans Seven, since 2008\n\nPier to Pub, since 1981\n\nRace to Prince's Bridge, 1913 to 1963 and 1987 to 1991\n\nRottnest Channel Swim\n\nSanta Fe-Coronda Marathon, since 1961\n\nShark Island Swim Challenge, since 1987\n\nVansbrosimningen, since 1950\n\nGay Games\n\nParalympic Games, since 1960\n\nWorld Para Swimming Championships, 1990 to 2015 as IPC Swimming Championships, since 2017 as World Para Swimming Championships, for example 2017 World Para Swimming Championships\n\nIPC Swimming World Championships (Short Course), held once, 2009 IPC Swimming World Championships 25 m\n\nWorld Deaf Swimming Championships\n\nINAS World Swimming Championships\n\nCommonwealth Games, included as part of the swimming program, since 2002\n\nWorld Para Swimming European Championships\n\nAustralian Swimming Championships, included as part of the swimming program as multi-class events, for example 2019 Australian Swimming Championships\n\nTelkom SA National Aquatic Championships, included as part of the swimming program as multi-class events, open to international competition\n\nWorld Games, since 1981, for example finswimming at the 2022 World Games\n\nFinswimming World Championships, since 1976\n\nTexas Open Finswimming Invitational, since 1999\n\nArab Swimming Championships, for example 2018 Arab Swimming Championships\n\nBrazil Swimming Trophy, since 1962\n\nCommonwealth Games, since 1930\n\nCommonwealth Youth Games, since 2000\n\nDuel in the Pool between USA and A",
+  "url": "https://en.wikipedia.org/wiki/List_of_swimming_competitions",
+  "revision_id": 1309941098,
+  "article_id": 10835813,
+  "section_path": "shared_text[0:9693]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4e988165bf3b9cc83db148a357a1a6f440b7273e3c57eaec4e4e45cb461e1797",
+    "source_row_idx": 106825,
+    "source_shard": "enwiki/data/enwiki_namespace_0_7.parquet",
+    "text_sha256": "dfb582151ce5be0bb53393a6bf0fad3a9558d0e25521f0c1e6b7522509b97c61",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1309941098",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10835813",
+    "revision_id": "1309941098",
+    "retrieved_at": "2026-10-18T12:41:21.330347+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9693,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wiki-39361535-1348191975-be4f9b3e24a1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of pharmacy colleges in India",
+  "text": "armacy\n\nPallavan Pharmacy College\n\nPandyan College of Pharmacy, Virattipathu\n\nPearl Peace Medical Mission College of Pharmacy, Nellai Kattabomman Dt.\n\nPeriyar College of Pharmaceutical Sciences for Girls\n\nPGP College of Pharmaceutical Science & Research Institute\n\nPSG College of Pharmacy\n\nR V S College of Pharmaceutical Sciences\n\nRoyal College of Pharmacy & Paramedical Science, Madukkarai\n\nS A Raja Pharmacy College\n\nS Chattanatha Karayalar College of Pharmacy\n\nS R M College of Pharmacy, Kanchipuram District\n\nS. B. College of Pharmacy\n\nShoba College of Pharmacy, near Railway Station\n\nSri Ramachandra College of Pharmacy, Sri Ramachandra Institute of Higher Education and Research (DU)\n\nSri Ramakrishna Institute of Paramedical Science College, New Sidhapur\n\nSubbarayalu College of Pharmacy, Industrial Estate P.O.\n\nSSM College of Pharmacy\n\nSwamy Vivenkanandha College of Pharmacy.\n\nT.K. College of Pharmacy, Dharapuram Road.\n\nTexcity College of Pharmacy, Podanur Main road\n\nThanjavur Medical College\n\nThanthai Roever College of Pharmacy\n\nTrichy College of Pharmacy\n\nUltra College of Pharmacy\n\nVEL's College of Pharmacy\n\nVenkateswara College of Pharmacy, Chennai main road, Anaikkarai, Thanjavur District\n\nVinayaka Mission's College of Pharmacy\n\nAnwarul Uloom College of Pharmacy, New Mallepally, Hyderabad\n\nA.S.R. Govt. Junior College\n\nBalaji Institute of Pharmacy\n\nBalaji College of Pharmacy\n\nBojjam Narasimhulu Pharmacy College for Women\n\nCare College of Pharmacy\n\nDeccan School of Pharmacy, Kanchanbagh\n\nG. Pulla Reddy College of Pharmacy\n\nGokaraju Rangaraju College of Pharmacy\n\nGovt. Junio",
+  "url": "https://en.wikipedia.org/wiki/List_of_pharmacy_colleges_in_India",
+  "revision_id": 1348191975,
+  "article_id": 39361535,
+  "section_path": "shared_text[0:32821]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    25920,
+    27520
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 34163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "0aa5456859680e73ce11343c99f387da9a2c893951c6da5c7cc965dd1e134705",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348191975",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39361535",
+    "revision_id": "1348191975",
+    "retrieved_at": "2026-10-18T12:28:56.445727+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 12821,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

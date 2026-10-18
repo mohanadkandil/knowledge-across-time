@@ -1,0 +1,49 @@
+{
+  "id": "wiki-4628401-1353291710-f847885be152",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mining in Cornwall and Devon",
+  "text": "n, gaining supporters as they went, but were defeated at the Battle of Deptford Bridge.\n\nQuarrying was of very limited importance in medieval Cornwall. Stone for church building was very rarely imported from outside the county: they used whatever stone could be found within a short distance. For some ornamental features such as doorways, pillars and fonts good use was made of varieties of elvan (e.g. Polyphant and Catacleuze). The granite was not quarried but collected from the moorlands and worked on site. Quarrying of slate developed in north Cornwall in the later Middle Ages and later developed in early modern times into larger undertakings.\n\nAfter the 1540s, Cornwall's production increased rapidly and Devon's production was only about 10–11% of that of Cornwall. From the mid-16th century the Devon stannaries generated very little income for the Crown, and they were sidelined under the Privilege of Parliament Act 1512. The first Crockern Tor stannary parliament in Devon was held in 1494 and the last in 1748. At Combe Martin several disused silver mines are located on the eastern ridge and evidence of tunnels can still be seen, as well as the remains of a wheelhouse used to lift ore from the mine. There are items in the Crown Jewels made from Combe Martin silver.\n\nA second tin boom came around the 16th century when open cast mining was used. German miners who had knowledge of the techniques were employed. In 1689, Thomas Epsley, a Somerset man, developed a method to blast the very hard granite rock loose, using gunpowder with quill fuses. It revolutionised hard rock minin",
+  "url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon",
+  "revision_id": 1353291710,
+  "article_id": 4628401,
+  "section_path": "shared_text[0:28711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    14560
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+    "source_row_idx": 22171,
+    "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+    "text_sha256": "d0e4ab7df6438e34a6a93c49745da579b36bc4e198d3bc604e6080dcc55b29a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353291710",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4628401",
+    "revision_id": "1353291710",
+    "retrieved_at": "2026-10-18T12:42:29.762223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

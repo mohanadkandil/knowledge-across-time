@@ -97,3 +97,23 @@ def test_truncated_or_wrong_parse_response_is_not_a_success(configured, monkeypa
     assert responses[0]["skip_special_tokens"] is False
     assert responses[0]["add_special_tokens"] is False
     assert responses[0]["model"] == PARSE_MODEL
+
+
+def test_structured_baseline_chat_disables_thinking_by_default(configured, monkeypatch):
+    from pydantic import SecretStr
+    configured.token_factory_api_key=SecretStr('FAKE-TEST-KEY')
+    model=Models(configured);payloads=[]
+    def post(role,url,name,key,payload):
+        payloads.append(payload)
+        return {'model':configured.nemotron_agent_model,'choices':[{'finish_reason':'stop','message':{'content':'{"queries":["capacitance"]}'}}]}
+    monkeypatch.setattr(model,'post',post)
+    assert model.chat([{'role':'user','content':'Fixture'}])=='{"queries":["capacitance"]}'
+    assert payloads[0]['chat_template_kwargs']=={'enable_thinking':False}
+    model.chat([{'role':'user','content':'Fixture'}],enable_thinking=True)
+    assert payloads[1]['chat_template_kwargs']=={'enable_thinking':True}
+    from kat.schemas import Comparison
+    schema=Comparison.model_json_schema()
+    model.chat([{'role':'user','content':'Fixture'}],response_schema=schema)
+    assert payloads[2]['response_format']=={'type':'json_schema','json_schema':{
+        'name':'source_comparison','strict':True,'schema':schema}}
+    assert 'response_format' not in payloads[0]

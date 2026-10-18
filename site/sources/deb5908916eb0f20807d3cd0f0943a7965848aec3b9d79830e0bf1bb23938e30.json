@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23280884-1297695424-22ee99e48271",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Blowing engine",
+  "text": "iving a flywheel). Both of these were used as blowing engines, usually by coupling an air cylinder to the far end of the beam from the steam cylinder. Joshua Field describes an 1821 trip to Foster, Rastrick & Co. of Stourbridge, where he observed eight large beam engines, one of 30 hp working a blowing cylinder of 5 feet diameter and 6 feet stroke.\n\nWhere the later beam engines drove flywheels, this was useful for providing a more even action to the engine. The air cylinder was still driven by the beam alone and the flywheel was used solely as a flywheel, not driving an output shaft. A well-known surviving example of this type are the paired beam engines \"David & Sampson\", now preserved at Blists Hill open-air museum, Ironbridge Gorge. These are a pair of single-cylinder condensing beam engines, each driving an air cylinder by their own beam, but sharing a single flywheel between them. They are notable for their decorative Doric arches. The engines had a long working life: 50 years of primary service from 1851 providing the blast for the Priors Lee furnaces of the Lilleshall Company, then a further 50 years until the plant's closure as reserve engines, still being worked occasionally.\n\nThe large vertical blowing engine illustrated at the top was built in the 1890s by E. P. Allis Co. of Milwaukee (later to form part of Allis-Chalmers). The steam cylinder (lower) is 42 inches (1.1 m) diameter, the air cylinder (upper) 84 inches (2.1 m) and both with a stroke of 60 inches (1.5 m).\n\nThe steam cylinder has Reynolds-Corliss valve gear, driven via a bevel -driven auxiliary shaft b",
+  "url": "https://en.wikipedia.org/wiki/Blowing_engine",
+  "revision_id": 1297695424,
+  "article_id": 23280884,
+  "section_path": "shared_text[0:5557]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 158408,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "4999dec62689b2b86ddb20ec79a9e4e1680cc599124e60e15f8b8c5ea659030e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1297695424",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23280884",
+    "revision_id": "1297695424",
+    "retrieved_at": "2026-10-18T12:42:10.320270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5557,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

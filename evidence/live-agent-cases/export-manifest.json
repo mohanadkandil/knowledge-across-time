@@ -1,0 +1,242 @@
+{
+  "created_at": "2026-10-18T12:41:03.013543+00:00",
+  "scope": "Curated evidence for docs/actual-cases.md only. Ten actual Hermes runs, six evaluation/review records, three selected case-page manifest records. No .env, database, unrelated configuration, batch model-call files or virtual environments copied.",
+  "reviewer_status": "Automated source inspection only; no human review records were created.",
+  "original_answers": "Preserved as recorded except exact credential/private-path redactions. No factual/citation/quotation corrections applied to answers.",
+  "source_passages": "Actual returned source passages remain in each run tool_trace and messages. Original scans are linked through the repository static archive.",
+  "redaction_rules": [
+    "Recursively replace every known Settings.secrets() value; secret values never printed.",
+    "Credential-valued fields retained with [REDACTED] values.",
+    "Local project/home/private filesystem paths replaced by markers; selected scan paths rewritten to public archive links.",
+    "Bearer credentials and sensitive URL-query values redacted.",
+    "No timing, outcome, run identity or source identity changed."
+  ],
+  "redaction_totals": {
+    "secret_value_replacements": 0,
+    "credential_fields_redacted": 0,
+    "local_path_replacements": 0
+  },
+  "files": [
+    {
+      "original_file": "data/runs/question-028ac4f0b57c47a1aa417dcceaee9729/run.json",
+      "export_file": "runs/question-028ac4f0b57c47a1aa417dcceaee9729/run.json",
+      "original_sha256": "efcf95a4a214b3c8251484450acef32e5cbbbfaf3bf943f2be724d1ea2969330",
+      "export_sha256": "18169f3f5507cc2f58639854e8fed81d1b08c16f7f226eb84fec8f00d1fc7d24",
+      "bytes": 213137,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-13fdb2048b3743d698ee05457d5dd7e5/run.json",
+      "export_file": "runs/question-13fdb2048b3743d698ee05457d5dd7e5/run.json",
+      "original_sha256": "2d9aa1a72cb2ab646182d252098d2d463ad06f79be40104ec029f438f3792647",
+      "export_sha256": "52f778552d937a2c6784a43a0cba401041d694c8f8913e478aa49785477508a2",
+      "bytes": 562573,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-1a622a3bd02d4f14bf4e731b437f0c9a/run.json",
+      "export_file": "runs/question-1a622a3bd02d4f14bf4e731b437f0c9a/run.json",
+      "original_sha256": "219c6bd98cad284542d339b2dd96a7da5f7d4bd33fa7fb3ba3cb1b9e6a02394b",
+      "export_sha256": "df01dbc83a60b7c432f6b115c475ec90c4f1761dd0f95022aa6ed698897dd04b",
+      "bytes": 461917,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-3332b00b3e3148be9ba3c018c1fca1a9/run.json",
+      "export_file": "runs/question-3332b00b3e3148be9ba3c018c1fca1a9/run.json",
+      "original_sha256": "1f3042cd63eaab12f57b9b9a573c6a94bb6a4889bd6f545b3849daf92125dd0c",
+      "export_sha256": "5325871a82974323f63f1a068353a81da3a0fd5ec3c0bd463e061e33f7f018b4",
+      "bytes": 606702,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-48b092cd09014a209aac88510e46f112/run.json",
+      "export_file": "runs/question-48b092cd09014a209aac88510e46f112/run.json",
+      "original_sha256": "9718652ac4ed4573ffa4f3b6ccb15394bc00684ab9c7ea84c01d257e6a9565b7",
+      "export_sha256": "43b2c2e3540b2ea6bfdfaf62c69350184fe58110efa6f3d73c838989d1435a46",
+      "bytes": 355762,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-57b1254298f9463c8c41cce409043eb0/run.json",
+      "export_file": "runs/question-57b1254298f9463c8c41cce409043eb0/run.json",
+      "original_sha256": "f1bbbd3daeccffb23cc832fb7b393284ef2361d367bb904afaecdbec399d2a43",
+      "export_sha256": "7b492d732eec248961a76e72cdd812fb8c5bd2a2694adbe1625ab17d7bafc9cf",
+      "bytes": 384871,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-59a6e97878184e419dae4d4e72636c5b/run.json",
+      "export_file": "runs/question-59a6e97878184e419dae4d4e72636c5b/run.json",
+      "original_sha256": "6010ede4e164c3fc505bfb9aedfb6233ce2cfc8259f5d6a29f708d3621c60536",
+      "export_sha256": "831d91fd3837c3cd54ef117526c774536a6e642ebb3b05e6ebea044c5ddea2e2",
+      "bytes": 112740,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-bab7865574f24a39aa9163a3be24cce2/run.json",
+      "export_file": "runs/question-bab7865574f24a39aa9163a3be24cce2/run.json",
+      "original_sha256": "da7971efbe066037ca3e6a135b9b2df8d2b6ecb435854c2b549c7a403b9912bc",
+      "export_sha256": "f8255043c4f35deb95a38206f1a64d108ded71573de139212e0e297ba952d6d6",
+      "bytes": 138403,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-cefb61162d604ae3bdf2cdf988298baa/run.json",
+      "export_file": "runs/question-cefb61162d604ae3bdf2cdf988298baa/run.json",
+      "original_sha256": "6b689899a9e52edb560f5fb689b02c52307a4cdbf87f519daa291536f60a1af7",
+      "export_sha256": "5cfbc8c1c1ffcda7989245edd01c8b16d011a393bcc72506427d72baceab8996",
+      "bytes": 191115,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/runs/question-f5daaeb5501d48c3bb2996c50d5c2281/run.json",
+      "export_file": "runs/question-f5daaeb5501d48c3bb2996c50d5c2281/run.json",
+      "original_sha256": "459c0c014bfbe5c1a5e29c01fc4daf05be02f436945cb9f942b7cb79404889c8",
+      "export_sha256": "2d23afd17052f69f4ac13b81ed5701a15250950a77078e0df3bd33675e775c6a",
+      "bytes": 206373,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/proposed-cases.json",
+      "export_file": "evaluation/proposed-cases.json",
+      "original_sha256": "77b83aaf3515ca666adb0e0c913a2bbb592bfb8424b41ed40b47b90edb113256",
+      "export_sha256": "77b83aaf3515ca666adb0e0c913a2bbb592bfb8424b41ed40b47b90edb113256",
+      "bytes": 21441,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/actual-cases.json",
+      "export_file": "evaluation/actual-cases.json",
+      "original_sha256": "43330594678ca26c6982f0c9bbac12a681b7ebdb2904e67793f6bb4ac6fccbd2",
+      "export_sha256": "95adcb5e36ae97fc9ddc6ec58fe62f53d16710a54ac51b9f40977df429ebe0d0",
+      "bytes": 20670,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/source-review.json",
+      "export_file": "evaluation/source-review.json",
+      "original_sha256": "30fd5978eb1c4fdfadc8dcd997b1ccdfdb3b60488606a4b224054e4b9e495bb8",
+      "export_sha256": "30fd5978eb1c4fdfadc8dcd997b1ccdfdb3b60488606a4b224054e4b9e495bb8",
+      "bytes": 24959,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/source-review.md",
+      "export_file": "evaluation/source-review.md",
+      "original_sha256": "3e33a77d1903e219c369e1c879395b9a31896fc55f5363e632289e76b1759096",
+      "export_sha256": "3e33a77d1903e219c369e1c879395b9a31896fc55f5363e632289e76b1759096",
+      "bytes": 10655,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/concise-cases.json",
+      "export_file": "evaluation/concise-cases.json",
+      "original_sha256": "945dee2c75b3cf6dd9858982d99804e8940675e9cf21dda09333574655404b9c",
+      "export_sha256": "75335429b209971e9a6b4c8aba3d5bb559961b05e3b36e5e85a9cf2adc77251c",
+      "bytes": 3968,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/evaluation/cloud-citation-recheck.json",
+      "export_file": "evaluation/cloud-citation-recheck.json",
+      "original_sha256": "1ec41c69ce561429d2678bf3c108a7685225aa15bb80956dbee3808637db2dc0",
+      "export_sha256": "be63cc79a51b0eb0d7091ba8bd9055128c69d1b8f06c61cfacc75c97fb3c5bf6",
+      "bytes": 215537,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": null
+    },
+    {
+      "original_file": "data/britannica/manifest.json",
+      "export_file": "selected-pages-manifest.json",
+      "original_sha256": "861a40cd626b2c289fb4c40a1132014477fc193c18541fb6853bf9adfd043d61",
+      "export_sha256": "f172bbe332986a84a723df3d80ac8e1f14f833eba169ce4190ccc613bf8ec9fa",
+      "bytes": 3537,
+      "redactions": {
+        "secret_value_replacements": 0,
+        "credential_fields_redacted": 0,
+        "local_path_replacements": 0
+      },
+      "projection_note": "Only the three case-page records retained; original selection metadata retained separately."
+    }
+  ]
+}

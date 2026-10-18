@@ -1,0 +1,44 @@
+{
+  "id": "wiki-22089253-793115768-a040a5e088d9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mademoiselle de Guise",
+  "text": "Mademoiselle de Guise may refer to:\n\nMary of Guise (1515–1560) mother of Mary, Queen of Scots.\n\nCatherine of Lorraine (1552–1596) daughter of Francis of Lorraine, Duke of Guise and Anne d'Este, wife of Louis, Duke of Montpensier.\n\nLouise Marguerite of Lorraine (1588–1631) daughter of Henri, Duke of Guise and Catherine of Cleves, wife of François, Prince of Conti.\n\nMarie of Lorraine, Duchess of Guise (1615–1688) daughter of Charles of Lorraine, Duke of Guise and Henriette Catherine de Joyeuse.\n\nLouise Henriette Françoise of Lorraine (1707–1737) daughter of Anne, Count of Harcourt and Marie Louise Jeannin de Castille, wife of Emmanuel Théodose de La Tour d'Auvergne, Duke of Bouillon.",
+  "url": "https://en.wikipedia.org/wiki/Mademoiselle_de_Guise",
+  "revision_id": 793115768,
+  "article_id": 22089253,
+  "section_path": "shared_text[0:690]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    690
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 141747,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "260a814efcd43a7c5b9adecec5796b107ad3ed6f28e82b55a8832c1568a6db5f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=793115768",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "22089253",
+    "revision_id": "793115768",
+    "retrieved_at": "2026-10-18T12:21:03.238758+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 690,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

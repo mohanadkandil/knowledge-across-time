@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33429243-1350225078-e391dc5026ec",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of types of marble",
+  "text": "teado Rio\n\nEmperador\n\nNegro Fantasia\n\nSaltador\n\nSwedish green marble\n\nEkeberg marble\n\nProkonnesos marble\n\nPavonazzo marble\n\nGreco scritto\n\nAshford Black Marble\n\nCotham Marble\n\nDent Marble\n\nFrosterley Marble\n\nPurbeck Marble\n\nSussex Marble\n\nIona marble\n\nCockeysville marble\n\nCreole marble\n\nEtowah marble\n\nMurphy marble\n\nPotomac marble\n\nSt. Genevieve marble\n\nSylacauga marble\n\nTennessee marble\n\nTuckahoe marble\n\nVermont marble\n\nYule marble\n\nTakaka marble\n\nAtacama Black Marble",
+  "url": "https://en.wikipedia.org/wiki/List_of_types_of_marble",
+  "revision_id": 1350225078,
+  "article_id": 33429243,
+  "section_path": "shared_text[0:3353]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3353
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "51adfa31a73f2788555c59715133f3dfa0dfbe3ca06db96f6d2f1735bd1f664c",
+    "source_row_idx": 10200,
+    "source_shard": "enwiki/data/enwiki_namespace_0_55.parquet",
+    "text_sha256": "53358b72afc50a170faf9519fab68cc6d22b0a7d02207f97c9317dce86b3c0fd",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350225078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33429243",
+    "revision_id": "1350225078",
+    "retrieved_at": "2026-10-18T12:31:41.564536+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3353,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-ba40aad743c6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": ", including a pack engraved by the Master of the Playing Cards (active in the Rhineland c. 1430–1450), some of the earliest European engravings. A set of four miniatures on the estates of society by Jean Bourdichon of about 1500 includes a wild family, along with \"poor\", \"artisan\" and \"rich\" ones.\n\nThe wild folk are featured in the marginal paintings (drollery) in a number of illuminated manuscripts. There are wild men and women painted in the narrative border around the miniature of the Coronation of the Blessed Virgin Mary in the Book of hours at Syracuse University Library (cf. fig. left).\n\nIn the Taymouth Hours (14th century), there are a series of miniatures (bas-de-page illustrations) recounting a story of a wild man abducting a maiden. Though the captions in this work are written in Anglo-Norman French, the wild man is called wodewose, which is a Middle English term.\n\nThere is also the drollery of a wild man being baited by three dogs, in the Queen Mary Psalter (14th century).\n\nThe herdsman character who is only a mere peasant (vilain) in Chrétien 's Old French Yvain, the Knight of the Lion (though described as a \"wild man\" in modern scholarship) is literally a wild man (waltman, \"man of the woods\") in Hartmann 's Middle High German Iwein. The wild herdsman is depicted as a club-carrying wild man on one of the early 13th century fresco murals of the Iwein cycle at Rodenegg Castle (Castello di Rodengo) in South Tyrol (cf. image right). The wild man is similarly painted on the mural at Schmalkalden Castle (Wilhelmsburg Castle). The man wears a skin with two paws attach",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    28800,
+    30400
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6570228-1254623689-12628b3096c4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Millesimo",
+  "text": "Millesimo (Ligurian: Millëximo or Merexo, locally Merezu or Mresciu, Piedmontese: Mresù) is a comune (municipality) in the Province of Savona in the Italian region Liguria, located about 60 kilometres (37 mi) west of Genoa and about 25 kilometres (16 mi) northwest of Savona.\n\nMillesimo borders the following municipalities: Cengio, Cosseria, Murialdo, Osiglia, Pallare, Plodio, and Roccavignale. It is one of I Borghi più belli d'Italia (\"The most beautiful villages of Italy\").",
+  "url": "https://en.wikipedia.org/wiki/Millesimo",
+  "revision_id": 1254623689,
+  "article_id": 6570228,
+  "section_path": "shared_text[0:479]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    479
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "825834ec9a34e3b6f89f1890ba2d5935d8a31e2d3ae923ea571f350dbe932a82",
+    "source_row_idx": 64234,
+    "source_shard": "enwiki/data/enwiki_namespace_0_17.parquet",
+    "text_sha256": "54d8bf90bfdad3a9baad4ccef37732e44492392f22cb13a1528379dbed2a170c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1254623689",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6570228",
+    "revision_id": "1254623689",
+    "retrieved_at": "2026-10-18T12:22:21.318685+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 479,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

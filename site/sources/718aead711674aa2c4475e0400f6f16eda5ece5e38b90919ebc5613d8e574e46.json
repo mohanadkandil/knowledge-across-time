@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17273443-1350262818-a4d0b4ff0976",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Roman–Parthian Wars",
+  "text": "upations obliged him to withdraw, and the whole region passed under Parthian control.\n\nUnder the threat of an impending war between the two powers, Gaius Caesar and Phraataces worked out a rough compromise between the two powers in 1 AD. According to the agreement, Parthia undertook to withdraw its forces from Armenia, and to recognize a de facto Roman protectorate over the country. Nonetheless, Roman-Parthian rivalry over control and influence in Armenia continued unabated for the next several decades.\n\nThe decision of the Parthian king Artabanus II to place his son, Arsaces, on the vacant Armenian throne nearly led to a war with Rome in 36 AD. Artabanus II reached an understanding with the Roman general, Lucius Vitellius, renouncing Parthian claims to a sphere of influence in Armenia.\n\nA new crisis was triggered in 58, when the Romans invaded Armenia after the Parthian king Vologases I forcibly installed his brother Tiridates on the throne there. Roman forces under Corbulo overthrew Tiridates and replaced him with a Cappadocian prince. This prompted Parthian retaliation and an inconclusive series of campaigns in Armenia ensued. The war came to an end in 63, when the Romans agreed to allow Tiridates and his descendants to rule Armenia on condition that they received the kingship from the Roman emperor.\n\nArmenia would henceforth be ruled by a Parthian dynasty, and despite its nominal allegiance to Rome, it would come under increasing Parthian influence. In the judgment of later generations, \"Romans had lost Armenia\", and although the Peace of Rhandeia ushered in a period of",
+  "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars",
+  "revision_id": 1350262818,
+  "article_id": 17273443,
+  "section_path": "shared_text[0:13315]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 3055,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "abe5f9f3488d2c0c4994873c482b5422d17a452c6700b0a2f3316396a3d664e0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350262818",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17273443",
+    "revision_id": "1350262818",
+    "retrieved_at": "2026-10-18T12:38:56.863559+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13315,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

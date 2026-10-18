@@ -1,0 +1,36 @@
+{
+  "id": "bri-2286-bf2427da4447:region-27:0",
+  "kind": "britannica",
+  "page_id": "bri-2286-bf2427da4447",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+  "text": "_Loyal berriesites—One dorlat fin, two beards] length case-\nabout ten o twelve inches. Much alles to the pec-phroda,\nceding, but has a rounded tail. Native of the Ameri-\ncan fees.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+  "provenance": {
+    "page_id": "bri-2286-bf2427da4447",
+    "row_index": 2286,
+    "volume_id": "191679019",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+    "label": 0,
+    "sha256": "bf2427da444769a49359f48f9473754cb83b2796c186caccae883280aea98d72",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-2286-bf2427da4447.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+    "manual_seed": false
+  },
+  "region_id": "region-27",
+  "bbox_raw": [
+    0.4727,
+    0.5906,
+    0.876,
+    0.6383
+  ],
+  "offsets": [
+    0,
+    179
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

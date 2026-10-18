@@ -1,0 +1,44 @@
+{
+  "id": "wiki-376566-1353543034-f26cda60f84c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel nut beauty",
+  "text": "ary target consumers are mostly truckers and other working-class people. Some shop owners started to hire girls dressed in revealing outfits to grab customers' attention, and rivals followed suit.\n\nApart from being scantily clothed, some betel nut beauties also offered \"drive-through\" sex services for their customers. For an extra charge, a betel nut beauty would enter a customer's car and perform oral sex on them.\n\nAside from the fear that these practices would generate crime, the presence of betel nut beauties is said to also distract drivers and cause more car accidents.\n\nThe betel nut, also known as the areca nut, is the seed of Areca catechu, the betel palm. This tree, like the coconut palm (Cocos nucifera), belongs to the Arecaceae family. The betel palm is an evergreen tree whose trunk can grow to a height of up to 20 metres (66 ft). The word binlang is derived from the Indonesian word for the nut, pinang. The betel nut was once used primarily as a herbal remedy, although in modern times it is mostly taken for its stimulant properties.\n\nBetel nut chewing is a widespread practice in Taiwan, first introduced to the majority Han population by the native Taiwanese indigenous peoples. It is estimated that over a hundred billion New Taiwan dollars are spent annually on this product which has the colloquial name of \"Taiwanese chewing gum\". Frequent users are often called the \"red-lip clan\", since the residue often stains the lips and gums. According to the government's Council of Agriculture, around seventy farms have joined this lucrative industry by planting betel nut tre",
+  "url": "https://en.wikipedia.org/wiki/Betel_nut_beauty",
+  "revision_id": 1353543034,
+  "article_id": 376566,
+  "section_path": "shared_text[0:4979]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "63bf49ee93b73298549a18ce72ee76973ea4d618a6cd0f70cd117128ae33a244",
+    "source_row_idx": 22280,
+    "source_shard": "enwiki/data/enwiki_namespace_0_78.parquet",
+    "text_sha256": "de9e69a52416545d05efa0ee69d195aa923890f6b2522476a1ddff691e98333a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353543034",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "376566",
+    "revision_id": "1353543034",
+    "retrieved_at": "2026-10-18T12:37:16.212612+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4979,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

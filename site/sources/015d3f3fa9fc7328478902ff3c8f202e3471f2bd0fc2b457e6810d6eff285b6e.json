@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "LIBELI _(thlolisi Emmais)_, taken in its largest and more effective fuels, figliative writing, pictures, the likes, of an immond or illegal tendency, but, in a peculiar lenfe, is ufet to denote a malicious dehuma tion of any person, and especially a magnificate, made public by either printing, writing, type, or pictures, in order to provoke him to wrath, or expole him to public hautet, contempt, and ridiculite. The direct tendency of these labels is the breach of the public peace, by filring up the objects of them to revenge and perhaps to bloodified. The communication of a libed in any one person is a publication in the eye of the law: and therefore the finding an abusive private letter to a man is so much a land a if is were equally printed, for frequently reads to breach of the piece.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.0811,
+    0.5375,
+    0.4688,
+    0.7406
+  ],
+  "offsets": [
+    0,
+    798
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

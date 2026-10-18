@@ -1,0 +1,36 @@
+{
+  "id": "bri-0386-e88a0bad3b83:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0386-e88a0bad3b83",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+  "text": "have committed great milhkes by not attending to this; and it is necesfary to notice if jul many, bequels calls will occur in the protection of this fubjeb, where we shall be very apt to confound our realonings by a confusion in the ufe of those reactions. These mathematics who are secondoured to the geometrical consideration of cavrili-neal motions, are generally diploed to take the _defined de_- _filers than the tangent as the measured of the deflecting force: ; while while what treat the fun fulgled algestralically, by the afflance of flusions, _take_ _the change of velocity_, which is mediated by reader the definition. The reason to this, when a body suffer through the point B of a curve ABC, fig. 1. iF the deflecting force were to cease in that nation, the body would describe the agent BD in the time but in which it describes the arch BC of the curve, and DC is the deflection, and is therefore taken for the mediums of the defuding force. But the algebraic is continuous to onder the curve by means of an equation between the abdiffe H, A, H, F, and their respective estimates for , B, K C, e, and he measures the deflection by the changes made on the increments of the ordinates. Thus the increment of the ordinary A, or while the body describes the arch AB of the curve, is BG. If the deflections force were to cease when the body is at B, the next increment would have been equal to BG, that is, it would be seen SIF; but in consequence of the deflection, his only CW there– face the takes EC for the measure of the deflection, and of the deflecting force. Now DO is ultimately o",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+  "provenance": {
+    "page_id": "bri-0386-e88a0bad3b83",
+    "row_index": 386,
+    "volume_id": "191689062",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+    "label": 0,
+    "sha256": "e88a0bad3b83cbcd801cb8e1dd3b2b724b96138db2a5ed2929d39f59203f6f7d",
+    "width": 600,
+    "height": 797,
+    "image_file": "../images/bri-0386-e88a0bad3b83.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1289,
+    0.0617,
+    0.5107,
+    0.5062
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5298908-1266612263-f18b118e8d17",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "M10 highway (Russia)",
+  "text": "The M10 \"Russia\" (Russian: \"Россия\") is a federal highway in Russia connecting the country's two largest cities, Moscow and Saint Petersburg. Other than in the vicinity of Moscow and Saint Petersburg, the M10 is basically a two-lane highway (one lane for each direction), with an occasional third centre lane to allow overtaking or for left-turning traffic at intersections.\n\nThe highway Moscow - Tver - Novgorod existed even before the founding of Saint Petersburg. Along the way there were special checkpoints (Yam) in particular Yedrovo, Valday, Yazhelbitsy, Krestsy, and Bronnitsa. The first 778 kilometres (483 mi) long road in this area was built between 1712 and 1746, by order of Peter the Great.\n\nThe construction of this road was run by an office that formed for this purpose. After the completion of the road in 1755, it was transformed into the Office of the structure of public roads. It was later known as the Commission on the Roads in the State.\n\nThe distance from Moscow to St. Petersburg by M10 is approximately 700 km.\n\nThe route runs through or near the cities and settlements of Khimki, Zelenograd, Solnechnogorsk, Klin, Tver, Torzhok, Vyshny Volochyok, Valdai, Kresttsy, Veliky Novgorod, Chudovo, Tosno and reaches the city border of Saint Petersburg in Pushkinsky District. It is known as \"Russia\" (Russian: Россия) highway and is part of European route E105.\n\nIn Moscow, the Leningrad Highway (Russian: Ленинградское шоссе), begins from a junction of Leningradsky Prospekt avenue with the Volokolamsk Highway To the Moscow centre, the avenue continues into 1st Tverskaya-Yamsk",
+  "url": "https://en.wikipedia.org/wiki/M10_highway_(Russia)",
+  "revision_id": 1266612263,
+  "article_id": 5298908,
+  "section_path": "shared_text[0:3684]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 121063,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "3334d6783aab777a561321dd5f55d13a477cf87597d7864a4085efb07466f5ff",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1266612263",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5298908",
+    "revision_id": "1266612263",
+    "retrieved_at": "2026-10-18T12:35:49.268585+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3684,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

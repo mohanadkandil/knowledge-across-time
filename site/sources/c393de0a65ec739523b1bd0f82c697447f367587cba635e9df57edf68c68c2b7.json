@@ -1,0 +1,44 @@
+{
+  "id": "wiki-289655-1339939382-a69192e898bf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Earl of Selkirk",
+  "text": "erson who would otherwise inherit the title was already duke of Hamilton (or would inherit that dukedom at the same time), the titles would pass instead to that duke's next surviving brother;\n\nif the titles were ever held by a duke of Hamilton (either because an earl of Selkirk succeeded as duke of Hamilton, or because provision 2 was unable to operate because the heir was a duke of Hamilton who had no surviving younger brothers), the titles would pass on that duke's death to his second surviving son;\n\nif the titles had passed to a younger brother or younger son under provisions 2 or 3, they would then pass to his heirs male on his death; but\n\nif such a younger son or younger brother's heirs male died out, the title would not pass to his own younger brothers and their heirs male, but would instead revert to the senior male line, with provisions 2 and 3 operating as before.\n\nThis remainder is so unusual that \"Hamilton House\", a Scottish country dance, reputedly was created around it.\n\nThe second earl died childless in 1739, and his younger brother, John Hamilton, 1st Earl of Ruglen (who had been so created on 14 April 1697), succeeded as the third earl. He outlived his son and heir, and when he died in 1744 the Earldom of Ruglen and its subsidiary titles passed to his daughter Anne Douglas, Countess of March, and on her death in 1748 to William Douglas, 3rd Earl of March (later 4th Duke of Queensberry).\n\nThe earldom of Selkirk and its subsidiary title, being limited to male heirs, passed to Dunbar Hamilton, grandson of Lord Basil Hamilton, sixth son of the first earl. Upon s",
+  "url": "https://en.wikipedia.org/wiki/Earl_of_Selkirk",
+  "revision_id": 1339939382,
+  "article_id": 289655,
+  "section_path": "shared_text[0:8106]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 10667,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "aa4969d43916d764cfd7c3bd9c787cfbbc19dd9b6d5f7b487832aaac8981453e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339939382",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "289655",
+    "revision_id": "1339939382",
+    "retrieved_at": "2026-10-18T12:23:15.081290+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8106,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

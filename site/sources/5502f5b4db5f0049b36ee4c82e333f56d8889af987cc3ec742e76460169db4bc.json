@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7173282-1299126827-71fb8adcb858",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Storekeeper of the Ordnance",
+  "text": "13 May 1782: John Clater Aldridge\n\n18 April 1783: Henry Strachey\n\n1 March 1784: John Clater Aldridge\n\n1 July 1795: Mark Singleton\n\n22 February 1806: John McMahon\n\n7 April 1807: Mark Singleton\n\n8 July 1829: Frederick Trench\n\n13 January 1831: Henry Duncan\n\n30 December 1834: Francis Robert Bonham\n\n1 May 1835: George Anson\n\n28 June 1841: James Hanway Plumridge\n\n13 September 1841: Francis Robert Bonham\n\n4 August 1845: Sir Thomas Hastings",
+  "url": "https://en.wikipedia.org/wiki/Storekeeper_of_the_Ordnance",
+  "revision_id": 1299126827,
+  "article_id": 7173282,
+  "section_path": "shared_text[0:1876]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1876
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 161477,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "006fbd6b7e9d17f3ef29d653a8abaa7eec5f3883dd6b35a5cbfaa20ffa8feb16",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299126827",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7173282",
+    "revision_id": "1299126827",
+    "retrieved_at": "2026-10-18T12:36:22.575778+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1876,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

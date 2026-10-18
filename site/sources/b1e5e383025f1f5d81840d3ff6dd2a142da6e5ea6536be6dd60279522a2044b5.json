@@ -1,0 +1,44 @@
+{
+  "id": "wiki-41186031-1275919243-5be6e520625d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gypsum recycling",
+  "text": "ss, materials such as wood, metals, and trash are removed on-site where a dozer is used to crush the materials.\n\nAmerican Gypsum Recycling American Gypsum Recycling was founded in 2018 by Chris Stapleton. His vision for the company is to transform the Northwest drywall waste stream into a valuable product for agriculture and industry.\n\nUSA Gypsum located in Denver, PA provides both closed loop recycling and up-cycling reclaimed gypsum to higher value gypsum products such as agricultural gypsum.",
+  "url": "https://en.wikipedia.org/wiki/Gypsum_recycling",
+  "revision_id": 1275919243,
+  "article_id": 41186031,
+  "section_path": "shared_text[0:7699]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    7699
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 93019,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "e27fad9f20c5680b24db0a62f2bc2e7c543ef88fe41d9232d3a6905738a173d5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1275919243",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "41186031",
+    "revision_id": "1275919243",
+    "retrieved_at": "2026-10-18T12:35:20.161790+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7699,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

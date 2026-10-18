@@ -1,0 +1,44 @@
+{
+  "id": "wiki-50802526-1334564171-611a1b2f03c5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Basalt (disambiguation)",
+  "text": "Basalt is a common igneous rock.\n\nBasalt may also refer to:\n\nBasalt, Queensland, a locality in the Charters Towers Region, Australia\n\nBasalt, Victoria, a locality in Shire of Hepburn, Australia\n\nBasalt River, Queensland, Australia\n\nBasalt, Colorado, a city in the US\n\nBasalt, Idaho, a city in the US\n\nBasalt, Nevada, a populated place in the US\n\nBasalt Falls, British Columbia, Canada\n\nBasalt Headlands, Nova Scotia, Canada\n\nBasalt Island, in Hong Kong\n\nBasalt Lake, in Antarctica\n\nBasalt, a type of black pottery pioneered by the 18th-century potter Josiah Wedgwood\n\nCitroën Basalt, a subcompact crossover SUV\n\nOperation Basalt, the World War II raid\n\nOperation Basalt, the Syrian civil war 2018 Southern Syria offensive",
+  "url": "https://en.wikipedia.org/wiki/Basalt_(disambiguation)",
+  "revision_id": 1334564171,
+  "article_id": 50802526,
+  "section_path": "shared_text[0:721]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    721
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 55933,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "a893b91a59c1b555be8185a4cf907e1232174ef748280ace5b71c091350234ad",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334564171",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "50802526",
+    "revision_id": "1334564171",
+    "retrieved_at": "2026-10-18T12:41:09.174896+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 721,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

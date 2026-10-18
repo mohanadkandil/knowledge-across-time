@@ -1,0 +1,36 @@
+{
+  "id": "bri-0410-851ddf04c85e:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-0410-851ddf04c85e",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+  "text": "\"In this example, the deldefic power has been frp- pofed to act perpendicularly on the gunwale at B; but if the veffel is navigated by falls, the centre volume must be found, with which, and the angle of effe-tion, the projected distance stored on the line SV may be obtained; and then the power, calculated as above",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+  "provenance": {
+    "page_id": "bri-0410-851ddf04c85e",
+    "row_index": 410,
+    "volume_id": "191253809",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+    "label": 0,
+    "sha256": "851ddf04c85ebf619e92cdec1a9ea77fbf9eba816274961431054080c35eaf40",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-0410-851ddf04c85e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.5264,
+    0.8477,
+    0.915,
+    0.9273
+  ],
+  "offsets": [
+    0,
+    316
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

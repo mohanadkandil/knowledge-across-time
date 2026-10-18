@@ -1,0 +1,44 @@
+{
+  "id": "wiki-52956308-1322990969-4dcd6d866f87",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluxion",
+  "text": ", a prominent philosopher of the time, denounced Newton's fluxions in his essay The Analyst, published in 1734. Berkeley refused to believe that they were accurate because of the use of the infinitesimal o {\\displaystyle o}. He did not believe it could be ignored and pointed out that if it was zero, the consequence would be division by zero. Berkeley referred to them as \"ghosts of departed quantities\", a statement which unnerved mathematicians of the time and led to the eventual disuse of infinitesimals in calculus.\n\nTowards the end of his life Newton revised his interpretation of o {\\displaystyle o} as infinitely small, preferring to define it as approaching zero, using a similar definition to the concept of limit. He believed this put fluxions back on safe ground. By this time, Leibniz's derivative (and his notation) had largely replaced Newton's fluxions and fluents, and remains in use today.",
+  "url": "https://en.wikipedia.org/wiki/Fluxion",
+  "revision_id": 1322990969,
+  "article_id": 52956308,
+  "section_path": "shared_text[0:2348]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2348
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 17619,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "19d5d3b02263f595c08c3e339554cf660cfd171bc6cb3999f50c4af40e95afee",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1322990969",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "52956308",
+    "revision_id": "1322990969",
+    "retrieved_at": "2026-10-18T12:22:33.112497+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2348,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

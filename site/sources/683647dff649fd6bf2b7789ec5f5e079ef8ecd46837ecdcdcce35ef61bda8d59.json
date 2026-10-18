@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2782814-1346398101-904013dc5903",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Regulatory agency",
+  "text": "gulator. This license will set out the conditions by which the companies or organizations operating within the industry must abide. Regulatory agency actions are often open to legal review.\n\nSome regulatory bodies are not statutory agencies, examples include quangos, industry-led initiatives, or 'voluntary organisations'. They may be not-for-profit organisations or limited companies. They derive their authority from members' commitments to abide by the standards applied by the regulator, for instance as the UK's Advertising Standards Authority says \"The self-regulation system works because it is powered and driven by a sense of corporate social responsibility amongst the advertising industry.\"\n\nRegulatory regimes vary by country and industry and by the degree of their involvement in organisations' actions, for example there are \"light-touch\" or \"proportionate\" forms of regulation. Regulatory agencies are typically charged with overseeing a defined industry. Usually they will have two general tasks:\n\ncreating, reviewing and amending standards expected of individuals and organisations within the industry, and\n\nintervening when there is a reasonable suspicion that a regulated individual/organisation may not be complying with its obligations. Under such an intervention regime, regulatory agencies typically have powers to:\n\noblige individuals or firms entering the industry to obtain a license;\n\nrequire transparency of information and decision-making on part of the regulated company; and\n\nmonitor the performance and investigate the compliance of the regulated company, with the re",
+  "url": "https://en.wikipedia.org/wiki/Regulatory_agency",
+  "revision_id": 1346398101,
+  "article_id": 2782814,
+  "section_path": "shared_text[0:5467]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 20262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "719e92d50c6495e86d39966c8583c3b5a959298c62ee5f9dd13aa996e4c5c502",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346398101",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2782814",
+    "revision_id": "1346398101",
+    "retrieved_at": "2026-10-18T12:22:55.040938+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5467,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

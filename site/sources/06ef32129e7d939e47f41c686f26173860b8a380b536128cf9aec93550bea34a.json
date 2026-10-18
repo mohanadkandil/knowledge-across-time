@@ -1,0 +1,36 @@
+{
+  "id": "bri-1372-b18f304e47d5:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-1372-b18f304e47d5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+  "text": "R O M [ 181] R OM",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+  "provenance": {
+    "page_id": "bri-1372-b18f304e47d5",
+    "row_index": 1372,
+    "volume_id": "192015834",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+    "label": 0,
+    "sha256": "b18f304e47d59eec1b3ff2c9fb3879e2c88ec8a425aa7a521fe202396b68ddff",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-1372-b18f304e47d5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.1807,
+    0.0453,
+    0.7461,
+    0.0664
+  ],
+  "offsets": [
+    0,
+    17
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

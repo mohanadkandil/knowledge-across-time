@@ -1,0 +1,36 @@
+{
+  "id": "bri-1230-4f96d9bebe42:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1230-4f96d9bebe42",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+  "text": "Mr Schebel has made feered experiments to differver the properties of alum when mixed with other fullerenes. A Solution of alum, he finds, is decon- points by limonwater, and if no more of the water be added than Is exactly requisite for the precipitation, the earth of alum forms a treatment precipitate like boiled freshly, and if the shear water be filtered, it is found to be a foliation of gypfum. On adding more lime-water than a secretory for precipitation, the pro-ipitated barrier is almost of the gelatinates appara- nace jult mentioned. If the whole be allowed to fland for a quarter of an hour, and frequently adjusted during that time, too pygmy area, even lines, is found in the filtered liquor, unless too much lime-water has been used. On examining the precipitate in this effect, our author found it to could end of some, fetonic, and lime. This was discovered frill by treating it with miruistic acid, which differed the aluminum earth, leaving the gapion behind. The addition of confine volatile alkali throw down a transparent gelatinations may, which on the earth of alum, i and on finishing it again, and then adding a fixed alkaline lisivium, the lime was thrown down y wherece it appeared, that the lime and gyprum had separated from the water, and united with the earth of alum.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+  "provenance": {
+    "page_id": "bri-1230-4f96d9bebe42",
+    "row_index": 1230,
+    "volume_id": "149979156",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+    "label": 0,
+    "sha256": "4f96d9bebe421b6d59e2a525f5b1a686601a8468f7bf92ed458f450ebd6e14b3",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1230-4f96d9bebe42.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.083,
+    0.2789,
+    0.4648,
+    0.6133
+  ],
+  "offsets": [
+    0,
+    1303
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

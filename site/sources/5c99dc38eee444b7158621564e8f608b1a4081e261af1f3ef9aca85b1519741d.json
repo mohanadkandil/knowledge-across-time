@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5763642-1344046848-a3857f3a9141",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Barkcloth",
+  "text": "tion, modernization, and the prevalence of washable woven textiles.\n\nBarkcloth has been manufactured in Buganda, Uganda, for centuries and is Uganda's sole representative on the UNESCO Intangible Cultural Heritage Lists.\n\nIn Uganda, the Barkcloth is made from the bark of the ficus natalensis tree. Barkcloth was the main cloth worn by people in Buganda, Bunyoro, etc until the introduction of cotton and silk cloth by Arab traders in the early 1840s around the time of Kabaka Ssuuna II.\n\nThe production of barkcloth may have originated in Southeastern China, in a region adjacent to Vietnam. South East China was the origins to the ancestors of many people, including those who migrated to Vietnam. Throughout ancient Vietnam, the bark-cloth was widely made; this practice of producing barkcloth has survived in modern times in a few rural areas in Vietnam.\n\nToday, what is commonly called barkcloth is a soft, thick, slightly textured fabric, so named because it has a rough surface like that of tree bark. This barkcloth is usually made of densely woven cotton fibers. Historically, the fabric has been used in home furnishings, such as curtains, drapery, upholstery, and slipcovers. It is often associated with 1940s through 1960s home fashions, particularly in tropical, abstract, \"atomic\" and \"boomerang\" prints, the last two themes being expressed by images of atoms with electrons whirling, and by the boomerang shape which was very popular in mid-century cocktail tables and fabrics and influenced by the Las Vegas \"Atomic City\" era. Waverly, a famed design house for textiles and wall cover",
+  "url": "https://en.wikipedia.org/wiki/Barkcloth",
+  "revision_id": 1344046848,
+  "article_id": 5763642,
+  "section_path": "shared_text[0:4834]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 49076,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "e51d7bd8b25334507899f6019a7baabba03db3bb26a6b11b39b9fbae46bcea22",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344046848",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5763642",
+    "revision_id": "1344046848",
+    "retrieved_at": "2026-10-18T12:22:47.994042+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4834,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

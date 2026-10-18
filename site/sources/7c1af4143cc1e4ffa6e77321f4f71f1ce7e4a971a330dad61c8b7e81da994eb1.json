@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7143596-1319418536-5fa07b6f715b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Subdivisions of British India",
+  "text": "For administrative purposes, British India was divided into the following administrative divisions:\n\nProvinces of British India\n\nPresidencies of British India\n\nDivisions of British India\n\nDistricts of British India\n\nWhile British India did administratively not include the princely states, which remained nominally outside the British Raj, under the administration of their own rulers, the relationship of the British with these states was managed by:\n\nAgencies of British India\n\nResidencies of British India\n\nStill, the British authorities recurred to the doctrine of lapse when they decided to interfere in the internal matters of a princely state.",
+  "url": "https://en.wikipedia.org/wiki/Subdivisions_of_British_India",
+  "revision_id": 1319418536,
+  "article_id": 7143596,
+  "section_path": "shared_text[0:650]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    650
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 4870,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "9c15c8ae1feb90eff84f7e40b8437ade198c7be89dd19195ae2e294bbbc1fece",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1319418536",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7143596",
+    "revision_id": "1319418536",
+    "retrieved_at": "2026-10-18T12:36:36.144144+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 650,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

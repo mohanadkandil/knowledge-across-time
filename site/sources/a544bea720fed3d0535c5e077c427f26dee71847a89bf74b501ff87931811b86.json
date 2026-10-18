@@ -1,0 +1,36 @@
+{
+  "id": "bri-2263-b5ad7bf6945b:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2263-b5ad7bf6945b",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 5 - EB.12",
+  "text": "It is needless to say, that neither Leibnitz nor Collins admitted the fairness of the infer-ences which Clarke conceived to follow from the scheme of necessity: But almost every page in the subsequent history of this controversy may be regarded as an additional illus-tration of the soundness of Clarke's reasonings, and of the sagacity with which he anticipat-ed the fatal errors likely to issue from the system which he opposed.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2263",
+  "provenance": {
+    "page_id": "bri-2263-b5ad7bf6945b",
+    "row_index": 2263,
+    "volume_id": "192547786",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 5 - EB.12",
+    "label": 0,
+    "sha256": "b5ad7bf6945bf79046c219ca7afbc543669e9d587851209753c99b9bfbcb84ad",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2263-b5ad7bf6945b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2263",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.1387,
+    0.0852,
+    0.9619,
+    0.2102
+  ],
+  "offsets": [
+    0,
+    430
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

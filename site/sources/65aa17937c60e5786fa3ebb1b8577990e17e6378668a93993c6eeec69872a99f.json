@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-647c1c78c840",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": "g binary relations.\n\nOrdered geometry\n\na form of geometry omitting the notion of measurement but featuring the concept of intermediacy. It is a fundamental geometry forming a common framework for affine geometry, Euclidean geometry, absolute geometry and hyperbolic geometry.\n\nOscillation theory\n\np-adic analysis\n\na branch of number theory that deals with the analysis of functions of p-adic numbers.\n\np-adic dynamics\n\nan application of p-adic analysis looking at p-adic differential equations.\n\np-adic Hodge theory\n\nParabolic geometry\n\nParaconsistent mathematics\n\nsometimes called inconsistent mathematics, it is an attempt to develop the classical infrastructure of mathematics based on a foundation of paraconsistent logic instead of classical logic.\n\nPartition theory\n\nPerturbation theory\n\nPicard–Vessiot theory\n\nPlane geometry\n\nPoint-set topology\n\nsee general topology\n\nPointless topology\n\nPoisson geometry\n\nPolyhedral combinatorics\n\na branch within combinatorics and discrete geometry that studies the problems of describing convex polytopes.\n\nPossibility theory\n\nPotential theory\n\nPrecalculus\n\nPredicative mathematics\n\nProbability theory\n\nProbabilistic combinatorics\n\nProbabilistic graph theory\n\nProbabilistic number theory\n\nProjective geometry\n\na form of geometry that studies geometric properties that are invariant under a projective transformation.\n\nProjective differential geometry\n\nProof theory\n\nPseudo-Riemannian geometry\n\ngeneralizes Riemannian geometry to the study of pseudo-Riemannian manifolds.\n\nPure mathematics\n\nthe part of mathematics that studies entirely abstract concepts.\n\nQ",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    38880,
+    40480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

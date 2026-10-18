@@ -1,0 +1,36 @@
+{
+  "id": "bri-0744-fcdb217a9ba5:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0744-fcdb217a9ba5",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+  "text": "The height of the land above the level of the sea is an sure it cause of cold as distance from the equator; and counter one not only cold in proportion to their height, but a mass of cold air is accumulated above them, which, being dispersed, is carried towards the equator, or extends the dominion of cold into the regions of heat. Land and water, also, or the causes either of heat or cold, according to their situation. The green areas of the oceans is little affected by the changes of the seasons; and is consequently preserves the medium temperature of the whole year. Hence the vicinity of the ocean ends the temperature of the equinoctial regions and in higher latitudes it underlies the extreme both of heat and cold, being the winter of a higher temperature, and in summer of a lower temperatures, than the momentumbratir. The two surface of the earth, again, imbishes heat or cold, much more readily than the ocean; and it is only a considerable depth that is found to give the median temperature of the year. The vicinity of land, therefore, in the polar countries, is the cause of cold, while in the southern regions where the equator it is an equally power-ful cause of heat. Thus Africa, which extends so far to the S, and which contains a greater proportion of land within",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+  "provenance": {
+    "page_id": "bri-0744-fcdb217a9ba5",
+    "row_index": 744,
+    "volume_id": "193696085",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+    "label": 0,
+    "sha256": "fcdb217a9ba5e3b917823cdc39f41c29fcfee28beaacefc676ceeef419d1b70f",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-0744-fcdb217a9ba5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0635,
+    0.5516,
+    0.5254,
+    0.8273
+  ],
+  "offsets": [
+    0,
+    1288
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

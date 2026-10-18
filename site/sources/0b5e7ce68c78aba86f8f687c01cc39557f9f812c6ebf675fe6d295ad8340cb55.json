@@ -1,0 +1,44 @@
+{
+  "id": "wiki-76258405-1341783197-e213e3ffc5ea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Weather friar",
+  "text": "hygrometer, with the shape of a Capuchin friar as well, from the late 18th century, in the Museum of Arts and Crafts in Paris, built by Charles Alexandre Clair and belonging to the physics office of Jacques Charles, who would bequeath his collection of gadgets to the State on January 15, 1792, with the National Assembly preparing an inventory of it where the existence of this object, very popular circa 1842, according to the first volume of the book Maison rustique du XIXe siècle, Encyclopédie d'Agriculture pratique, published under the direction of the scientific popularizer Charles-François Bailly de Merlieux, where a hygrometer is also mentioned in which the image of a Turk moves a saber to indicate the weather, similar to the friar moving the pointer and the hood of the habit.: 7 Similarly, at the Palaiseau Polytechnic School there is a hair hygrometer from 1809 in which a female figure moves her right arm to indicate on a scale the amount of water vapor in the air, dating the use of human hair to measure humidity to the year 1775, when Horace-Bénédict de Saussure decided has used it to develop what is considered the first precise hygrometer (perfected in 1824 by Jacques Babinet with a microscopic reading system). By the way, Santorio Santorio had already described a thread hygrometer in 1623. Likewise, an illustration of two hygrometers represented respectively by the figures of a monk and a cat stands out in Arthur Mangin's book L'air et le monde aérien (1865), both described as popular hygrometers.: 219 There was a clear tendency in the xix century to have hygrometer",
+  "url": "https://en.wikipedia.org/wiki/Weather_friar",
+  "revision_id": 1341783197,
+  "article_id": 76258405,
+  "section_path": "shared_text[0:8240]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "052a205be6e305039c6f7ed831b88a9bdd01ed15cdeb1236a4b1c8a87610095e",
+    "source_row_idx": 14301,
+    "source_shard": "enwiki/data/enwiki_namespace_0_34.parquet",
+    "text_sha256": "b6fca0a61f9cf68cde5cb73f0442c35f80a139eb46474a90be2e3556d50db08b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341783197",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "76258405",
+    "revision_id": "1341783197",
+    "retrieved_at": "2026-10-18T12:23:00.849811+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8240,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

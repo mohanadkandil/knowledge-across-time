@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-134350ed94ea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "A hygrometer is an instrument that measures humidity, that is, how much water vapor is present in the air. Humidity measurement instruments usually rely on measurements of some other quantities, such as temperature, pressure, mass, and mechanical or electrical changes in a substance as moisture is absorbed. By calibration and calculation, these measured quantities can be used to indicate the humidity. Modern electronic devices use the temperature of condensation (called the dew point), or they sense changes in electrical capacitance or resistance.\n\nThe maximum amount of water vapor that can be present in a given volume (at saturation) varies greatly with temperature; at low temperatures a lower mass of water per unit volume can remain as vapor than at high temperatures. Thus a change in the temperature changes the relative humidity.\n\nA prototype hygrometer was invented by Leonardo da Vinci in 1480. Major improvements occurred during the 1600s; Francesco Folli invented a more practical version of the device, and Robert Hooke improved a number of meteorological devices, including the hygrometer. A more modern version was created by Swiss polymath Johann Heinrich Lambert in 1755. Later, in the year 1783, Swiss physicist and geologist Horace Bénédict de Saussure invented a hygrometer that uses a stretched human hair as its sensor.\n\nIn the late 17th century, some scientists called humidity-measuring instruments hygroscopes; that word is no longer in use, but hygroscopic and hygroscopy, which derive from it, still are.\n\nCrude hygrometers were devised and developed during the Shan",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

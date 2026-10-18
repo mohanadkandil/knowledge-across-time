@@ -1,0 +1,49 @@
+{
+  "id": "wiki-4628401-1353291710-ecd165f18de2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mining in Cornwall and Devon",
+  "text": "in furnaces and layered with peat. The molten metal was poured into granite moulds which produced ingots of tin. These were taken on pack horses to the stannary towns for assaying. Usable deposits in Devon became worked out, and so Cornwall became the centre of tin production. In 1337 Cornish tin production was 650 tons, but in 1335 it had been reduced to 250 tons. In 1400 Cornish production rose to 800 tons. The production in Devon was only 25% of that of Cornwall in 1450–1470.\n\nThe tin works of Devon and Cornwall were of such importance that the medieval kings established stannary courts and stannary parliaments to administer the law in Cornwall and part of Devon. Up to the mid 16th century, Devon produced about 25–40% of the amount of tin that Cornwall did, but the total amount of tin production from both Cornwall and Devon during this period was relatively small.\n\nUnder the stannary system, tin was brought to coinage towns to be coined in coinage halls. The stannary towns in Cornwall were originally: Helston, Liskeard, Truro, Lostwithial and later Penzance. In Devon, the coinage towns were: Ashburton, Plympton, Chagford and Tavistock.\n\nThe Cornish Rebellion of 1497 originated among Cornish tin miners who opposed the raising of taxes by Henry VII to make war on Scotland. This levy was resented for the economic hardship it would cause; it also intruded on a special Cornish tax exemption. The rebels marched on London, gaining supporters as they went, but were defeated at the Battle of Deptford Bridge.\n\nQuarrying was of very limited importance in medieval Cornwall. Stone fo",
+  "url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon",
+  "revision_id": 1353291710,
+  "article_id": 4628401,
+  "section_path": "shared_text[0:28711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+    "source_row_idx": 22171,
+    "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+    "text_sha256": "d0e4ab7df6438e34a6a93c49745da579b36bc4e198d3bc604e6080dcc55b29a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353291710",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4628401",
+    "revision_id": "1353291710",
+    "retrieved_at": "2026-10-18T12:42:29.762223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

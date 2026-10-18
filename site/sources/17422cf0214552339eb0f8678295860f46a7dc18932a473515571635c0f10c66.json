@@ -1,0 +1,44 @@
+{
+  "id": "wiki-334670-1185318467-ff9745065be2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Thomas Ruddiman",
+  "text": "Thomas Ruddiman (October 1674 – 19 January 1757) was a Scottish classical scholar.\n\nRuddiman was born on a farm near Boyndie, three miles from Banff in Banffshire, where his father was a farmer.\n\nHe was educated locally and then studied at the University of Aberdeen. Initially from 1695, he was schoolmaster in Laurencekirk. Then in 1700, through the influence of Dr Archibald Pitcairne, he became an assistant in the Advocates' Library, Edinburgh. He founded (1715) a successful printing business, and in 1728 was appointed printer to the University of Edinburgh. He acquired the Caledonian Mercury in 1729, and in 1730 was appointed keeper of the Advocates' Library, resigning in 1752.\n\nHe is buried at Greyfriars Kirkyard, Edinburgh. The monument was erected in 1801 by his relative, Dr William Ruddiman. It stands in the north-west section of the graveyard.\n\nHe was married to Anna Smith (1694–1769).\n\nHis nephew Walter Ruddiman (1719–1781) also from Banff, similarly established a successful business in Edinburgh as a printer and publisher.\n\nHis main early writings were editions of Florence Wilson 's De Animi Tranquillitate Dialogus (1707), and the Cantici Solomonis Paraphrasis Poetica (1709) of Arthur Johnston (1587–1641), editor of the Deliciae Poetarum Scotorum. On the death of Dr Pitcairne he edited his friend's Latin verses, and arranged for the sale of his valuable library to Peter the Great of Russia.\n\nIn 1714 he published Rudiments of the Latin Tongue, which was long used in Scottish schools. In 1715 he edited, with notes and annotations, the works of George Buchanan in two ",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Ruddiman",
+  "revision_id": 1185318467,
+  "article_id": 334670,
+  "section_path": "shared_text[0:2657]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 148500,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "d0b55d52ec1f4c04ded4d6433498d6a7f3f271f49fc09786ce8386ea6d3add8b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1185318467",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "334670",
+    "revision_id": "1185318467",
+    "retrieved_at": "2026-10-18T12:21:30.370593+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2657,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

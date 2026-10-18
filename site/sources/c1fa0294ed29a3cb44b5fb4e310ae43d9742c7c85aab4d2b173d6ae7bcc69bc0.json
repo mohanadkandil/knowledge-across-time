@@ -1,0 +1,36 @@
+{
+  "id": "bri-0880-44d798724e1f:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0880-44d798724e1f",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+  "text": "3 7 SCO",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+  "provenance": {
+    "page_id": "bri-0880-44d798724e1f",
+    "row_index": 880,
+    "volume_id": "191253800",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+    "label": 0,
+    "sha256": "44d798724e1f312abd92caaf5ee58d36a1e8250b055cfdbc3387e4b59c34ae2c",
+    "width": 600,
+    "height": 754,
+    "image_file": "../images/bri-0880-44d798724e1f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.5137,
+    0.007,
+    0.75,
+    0.0375
+  ],
+  "offsets": [
+    0,
+    7
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

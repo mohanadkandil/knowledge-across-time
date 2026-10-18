@@ -1,0 +1,44 @@
+{
+  "id": "wiki-41186031-1275919243-0ee16b771938",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gypsum recycling",
+  "text": "sum materials used on the site. Such waste is generally referred to as new construction gypsum waste, and can be reduced by ordering boards “made-to-measure”, but in most markets less than 10% of all orders are “made-to-measure”.\n\nGypsum waste from demolition and reconstruction\n\nThis waste arises when already installed plasterboards (drywalls, wallboards or gyprock boards), that usually have been installed many years ago, are taken out in connection with that the building is demolished or renovated. For this reason some refer to this waste as “old gypsum waste”, whereas the trade usually refer to this waste as “demolition waste”. Different from the two other types of gypsum waste described above, this type of gypsum waste from renovation, refurbishment and demolition works is more likely to present a certain degree of contamination, which can be in the form of nails, screws, wood, insulation, wall coverings etc. For this waste to be recyclable it is required that the equipment processing the waste is capable of separating such contamination from the gypsum to arrive at a pure recycled gypsum. New construction and demolition gypsum waste are both generated after the gypsum products have left the manufacturer, and together these two waste types are referred to as post consumer gypsum waste.\n\nGypsum waste can be turned into recycled gypsum by processing the gypsum waste in such a way that the contaminants are removed and the paper facing of the plasterboard is separated from the gypsum core through mechanical processes including grinding and sieving in specialised equipment. G",
+  "url": "https://en.wikipedia.org/wiki/Gypsum_recycling",
+  "revision_id": 1275919243,
+  "article_id": 41186031,
+  "section_path": "shared_text[0:7699]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 93019,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "e27fad9f20c5680b24db0a62f2bc2e7c543ef88fe41d9232d3a6905738a173d5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1275919243",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "41186031",
+    "revision_id": "1275919243",
+    "retrieved_at": "2026-10-18T12:35:20.161790+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7699,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0504-f34cf1fc8349:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0504-f34cf1fc8349",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+  "text": "Mr Heller,\nhypothle\ndiperced.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+  "provenance": {
+    "page_id": "bri-0504-f34cf1fc8349",
+    "row_index": 504,
+    "volume_id": "144850375",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+    "label": 0,
+    "sha256": "f34cf1fc83499701f722e1e77ec94d731ed921002b4d0256cc72ebd889ce2676",
+    "width": 600,
+    "height": 808,
+    "image_file": "../images/bri-0504-f34cf1fc8349.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0156,
+    0.7516,
+    0.0889,
+    0.8047
+  ],
+  "offsets": [
+    0,
+    29
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

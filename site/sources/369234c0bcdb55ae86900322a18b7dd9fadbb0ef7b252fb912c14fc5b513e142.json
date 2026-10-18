@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-edb4f507c0a4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": "l geometry that integrates constructible functions and more recently definable functions by integrating with respect to the Euler characteristic as a finitely-additive measure.\n\nExperimental mathematics\n\nan approach to mathematics in which computation is used to investigate mathematical objects and identify properties and patterns.\n\nExterior algebra\n\nExterior calculus\n\nExtraordinary cohomology theory\n\nExtremal combinatorics\n\na branch of combinatorics, it is the study of the possible sizes of a collection of finite objects given certain restrictions.\n\nExtremal graph theory\n\na branch of mathematics that studies how global properties of a graph influence local substructure.\n\nField theory\n\nThe branch of algebra dedicated to fields, a type of algebraic structure.\n\nFinite geometry\n\nFinite model theory\n\na restriction of model theory to interpretations on finite structures, which have a finite universe.\n\nFinsler geometry\n\na branch of differential geometry whose main object of study is Finsler manifolds, a generalisation of a Riemannian manifolds.\n\nFirst order arithmetic\n\nFourier analysis\n\nthe study of the way general functions may be represented or approximated by sums of trigonometric functions.\n\nFractal geometry\n\nFractional calculus\n\na branch of analysis that studies the possibility of taking real or complex powers of the differentiation operator.\n\nFractional dynamics\n\ninvestigates the behaviour of objects and systems that are described by differentiation and integration of fractional orders using methods of fractional calculus.\n\nFredholm theory\n\npart of spectral theory studying ",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    21600,
+    23200
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

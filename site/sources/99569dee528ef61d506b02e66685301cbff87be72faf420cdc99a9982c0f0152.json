@@ -1,0 +1,36 @@
+{
+  "id": "bri-0654-ec99c922eee3:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0654-ec99c922eee3",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+  "text": "geona), who puncture with the needle, giving drugs, or performing operations contrary to the established rules and practice, and thereby killing the patient, the guilty of hominities; here, if proved to have been merely an error in judgment, the officers is recenable by fine, but the doctor and the barher must quit their professions for ever, but if the medicine were given intentionally to kill or injure the patients, the practitioner must suffer death by decapitation. All persons guilty of killing in an airsy, though without any express or implied design to kill, the whether the blow be given with the hand or the foot, will a meat weapon or instrument of any fault, shall suffer death by strungitation. There is a clause, however, by which all persons killing another in play, by error, or purely by accident, may be permitted to redeem themselves from the punishment of killing or wounding in an affray, by the payment of a fine to the family of the deceased person, but has some of more evidence to very carefully defined and exemplified. It must be one \"of which no sufficient previous warning could be given, either directly, by the perception of sight and hearing, or indirectly, by the inferences drawn from judgment and reflection.\"",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+  "provenance": {
+    "page_id": "bri-0654-ec99c922eee3",
+    "row_index": 654,
+    "volume_id": "192016360",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+    "label": 0,
+    "sha256": "ec99c922eee303aef57a84b0f045fda58f6e22139e9dbb3956ebb01e61369b10",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0654-ec99c922eee3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5029,
+    0.0523,
+    0.9014,
+    0.382
+  ],
+  "offsets": [
+    0,
+    1248
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

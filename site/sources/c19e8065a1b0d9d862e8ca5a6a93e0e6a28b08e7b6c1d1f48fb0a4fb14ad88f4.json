@@ -1,0 +1,36 @@
+{
+  "id": "bri-0386-e88a0bad3b83:region-3:1440",
+  "kind": "britannica",
+  "page_id": "bri-0386-e88a0bad3b83",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+  "text": "fluxionisme experiment on the hill and wait to the lift, and, by fo doing, he com-pletely destroyed all coincidence between his critical the planetary motions. We mention this influence, not only as a curious to our mathematical readers, but alfo as a very curious literary anecdote. This dissertation of",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+  "provenance": {
+    "page_id": "bri-0386-e88a0bad3b83",
+    "row_index": 386,
+    "volume_id": "191689062",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+    "label": 0,
+    "sha256": "e88a0bad3b83cbcd801cb8e1dd3b2b724b96138db2a5ed2929d39f59203f6f7d",
+    "width": 600,
+    "height": 797,
+    "image_file": "../images/bri-0386-e88a0bad3b83.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0684,
+    0.5047,
+    0.5391,
+    0.9383
+  ],
+  "offsets": [
+    1440,
+    1744
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

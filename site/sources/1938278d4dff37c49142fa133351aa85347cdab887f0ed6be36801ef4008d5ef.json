@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5749371-1296733421-14e34f98112d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chronicles of the Kings of Israel",
+  "text": "The Chronicles of the Kings of Israel is a book that gives a more detailed account of the reigns of the kings of ancient Kingdom of Israel than that presented in the Hebrew Bible, and may have been the source from which parts of the biblical account were drawn. The book was likely compiled by or derived from the kings of Israel's own scribes, and is likely the source for the basic facts presented in the Bible.\n\nThe book is referred to a number of times in the Hebrew Bible, but was either not included in the corpus of the biblical text or was removed from it at some stage. The book is counted as one of the lost books of the Old Testament. The text is sometimes called The Book of the Chronicles of the Kings of Israel or The Book of the Annals of the Kings of Israel (Biblical Hebrew: ספר דברי הימים למלכי ישראל, romanized: sêp̄er diḇrê hayyāmîm lə-malḵê Yiśrā'êl).\n\nA complementary book detailing the reigns of the kings of ancient Judah is the Chronicles of the Kings of Judah, a book which has also been lost. Another lost book dealing with the reigns of the kings of ancient Israel is the Book of the Kings of Judah and Israel. This book is referred to in 2 Chronicles and may be the same as the other two Chronicles named in Kings.\n\nReferences to the Chronicles appear in the Books of Kings and imply that the description of the reign of the kings of Israel presented in the Bible is only a brief summary, and that a fuller account is to be found in the Chronicles. Throughout both books, a number of Israel's kings are mentioned, and their reigns briefly summarised, before the author st",
+  "url": "https://en.wikipedia.org/wiki/Chronicles_of_the_Kings_of_Israel",
+  "revision_id": 1296733421,
+  "article_id": 5749371,
+  "section_path": "shared_text[0:1703]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 4850,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "aac4f4f565e2a46ec18b8b193189237bdfeff45681e032990a6876fd0259fbc7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296733421",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5749371",
+    "revision_id": "1296733421",
+    "retrieved_at": "2026-10-18T12:39:03.662864+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1703,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-93d024b29ad5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "tres de la Guerra (1810–1819); La Tauromaquia (1816); and Los disparates (c. 1816–1823).\n\nMaster engraver Robert Havell used aquatint for John James Audubon 's Birds of America (1826–1838).\n\nDavid Hockney, known for his many paintings of the Los Angeles lifestyle in the 1960s, has created a number of aquatints and etchings used with color in his \"The Blue Guitar\" series of prints.\n\nLa Belle Assemblée, a British women's magazine published from 1806 to 1837 had many aquatint colored plates.",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    12013
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

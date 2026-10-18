@@ -1,0 +1,44 @@
+{
+  "id": "wiki-69429042-1253868735-e1b039c06d72",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Otahite",
+  "text": "Otahite or Otaheite may refer to:\n\nOtaheite, the former name of Tahiti\n\nOtahite, a Florida ghost town in what is now Blackwater River State Forest\n\nOtaheite cane, a variety of sugar cane\n\nOtaheite Apple, name for Malay apple",
+  "url": "https://en.wikipedia.org/wiki/Otahite",
+  "revision_id": 1253868735,
+  "article_id": 69429042,
+  "section_path": "shared_text[0:224]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    224
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 10193,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "908279b7e84a544e8a185ac7b0be7c87c908d2d9e244eb845900e0bcb9cf2ed4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1253868735",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "69429042",
+    "revision_id": "1253868735",
+    "retrieved_at": "2026-10-18T12:22:45.332540+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 224,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

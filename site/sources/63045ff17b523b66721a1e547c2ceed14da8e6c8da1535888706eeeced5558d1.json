@@ -1,0 +1,36 @@
+{
+  "id": "bri-0417-c8ee936d8958:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0417-c8ee936d8958",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+  "text": "of distinction, since only such people as have no occasion to work can suffer them to grow on that length. This causes they have in common with the Chinese, but the nail of the middle finger on the right hand is always kept short, the moment for which scientifically could be learned. Only one single crpley was met with among them, and he appeared to have been named by a fall.\" The women always cut their her short round their heads. Both trees leave a custom of starting their bodies, which they call _tattooing_ 2 both men and women have the binder part of their thighs and lions marked every thick with black. lines in various forms ; these marks are made by striking the teeth of an instrument somewhat like a comb just through the skin, and rubbing into the punctures a kind of pawns make sost and oil, which leaves an indelible stain. The boys and girls under twelve years of age are not marked, a few of the men, whose legs were marked in severe by the same method, appeared to be persons of superior rank and authority. Mr Banks say the operation of attotoring informed upon the backside of a girl about thirteen years old. The instrument used upon this occasion had thirty teeth i and every stroke, of which in least a luma died were done in a minute, drew an action a little tinged with blood. The girl bore it with most stoicial resolution for about a quarter of an hour, just the pain of so many hundred parents as had the received in that time, then became motorable. She first complained in murman, than wept, and at last bursts into the landamentations, carrying the operator to deci",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+  "provenance": {
+    "page_id": "bri-0417-c8ee936d8958",
+    "row_index": 417,
+    "volume_id": "192015837",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+    "label": 0,
+    "sha256": "c8ee936d8958d80dfedb7e7f07c63379f7f9a7bfa2ba9f6d639458ff73fc536c",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0417-c8ee936d8958.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.5234,
+    0.0633,
+    0.9297,
+    0.9664
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2230524-1341185396-e9c217fc06f2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Edmond-Charles Genêt",
+  "text": "Edmond-Charles Genêt (January 8, 1763 – July 14, 1834), also known as Citizen Genêt, was the French envoy to the United States appointed by the Girondins during the French Revolution. His actions on arriving in the United States led to a major political and international incident termed the \"Citizen Genêt Affair.\" Because of his actions, President George Washington asked the French government to recall him. The Montagnards, having risen to power at the same time, replaced Genêt and issued a warrant for his arrest. Fearing for his life, Genêt asked for asylum in America, which was granted by Washington. Genêt stayed in the United States until his death. Historian Carol Berkin argues that the Genêt affair bolstered popular respect for the president and strengthened his role in dealing with foreign affairs.\n\nGenêt was born in Versailles in 1763. He was the ninth and final child of a French civil servant, Edmond Jacques Genêt (1726–1781), who was a head clerk in the ministry of foreign affairs. The elder Genêt analyzed British naval strength during the Seven Years' War and monitored the progress of the American Revolutionary War. His eldest sister was Jeanne-Louise-Henriette Campan, a lady-in-waiting to Queen Marie-Antoinette and later an educator and author. Aglaé-Louise Auguié, who was the wife of Marshal Ney of France, was Genêt's niece.\n\nGenêt was a prodigy who could read French, English, Italian, Latin, Swedish, Greek, and German by the age of 12.\n\nAt 18, Genêt was appointed court translator, and in 1788 he was sent to the French embassy in Saint Petersburg to serve as amb",
+  "url": "https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt",
+  "revision_id": 1341185396,
+  "article_id": 2230524,
+  "section_path": "shared_text[0:7552]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 68761,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "088b34743edc3a4a448daf3221c25446499e66a11b6299d0430b934c0852b7c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341185396",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2230524",
+    "revision_id": "1341185396",
+    "retrieved_at": "2026-10-18T12:39:09.981481+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7552,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

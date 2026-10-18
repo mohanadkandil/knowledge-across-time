@@ -1,0 +1,36 @@
+{
+  "id": "bri-2399-112d3fdfaec9:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-2399-112d3fdfaec9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+  "text": "How to fixim on the back",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+  "provenance": {
+    "page_id": "bri-2399-112d3fdfaec9",
+    "row_index": 2399,
+    "volume_id": "191678900",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+    "label": 0,
+    "sha256": "112d3fdfaec9e4914178a7fbdea212d1ae192617740b0b9b6724a09270f9cee7",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2399-112d3fdfaec9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0195,
+    0.6047,
+    0.0713,
+    0.6445
+  ],
+  "offsets": [
+    0,
+    24
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0795-19d3c2691629:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-0795-19d3c2691629",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+  "text": "**Part VI.** **ELECT RICITY. 803**",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+  "provenance": {
+    "page_id": "bri-0795-19d3c2691629",
+    "row_index": 795,
+    "volume_id": "192692190",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+    "label": 0,
+    "sha256": "19d3c2691629ee34e9c8b03b68981563ab13865ea52b674707da58406aa010fa",
+    "width": 600,
+    "height": 774,
+    "image_file": "../images/bri-0795-19d3c2691629.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.0342,
+    0.0398,
+    0.8877,
+    0.0602
+  ],
+  "offsets": [
+    0,
+    34
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

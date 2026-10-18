@@ -1,0 +1,36 @@
+{
+  "id": "bri-0148-d2bd224be86b:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0148-d2bd224be86b",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+  "text": "BLINKS, among ancient sportsmen, denoted boughs broken and from names, and thrown in the way where deer are likely to pass, to hinder their running, or er ther to mark which way a deer runs, in order to guide the home.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+  "provenance": {
+    "page_id": "bri-0148-d2bd224be86b",
+    "row_index": 148,
+    "volume_id": "193696080",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+    "label": 0,
+    "sha256": "d2bd224be86b5c44f1e37343f9b0a5440cebf92c95e7917fa3fcae9e12afdb5f",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0148-d2bd224be86b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1152,
+    0.1195,
+    0.502,
+    0.1914
+  ],
+  "offsets": [
+    0,
+    218
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

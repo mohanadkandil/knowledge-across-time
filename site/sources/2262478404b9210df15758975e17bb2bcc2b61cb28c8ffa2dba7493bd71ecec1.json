@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "\" My experiments had the good effect to remove all the prejudices against the plan I had adopted of blowing the furnaces, and likewise prevented the other partner on laying out a large fan of money, by flopping the works, and altering the blowing machinery. Indeed, has since been admitted, by all who have feet it at work, to be the most finding and effective method of evaluating the bluff which has yet been put a specific.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1289,
+    0.3617,
+    0.4961,
+    0.4742
+  ],
+  "offsets": [
+    0,
+    426
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

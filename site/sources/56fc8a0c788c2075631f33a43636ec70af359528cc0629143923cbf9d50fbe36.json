@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38348383-1341673293-031cc68069c7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arrow (disambiguation)",
+  "text": "band\n\nThe Arrows (Canadian band), a 1980s new wave band\n\nThe Arrows, the backing group of guitarist Davie Allan\n\nArrow (musician), stage name of Montserratian calypso and soca musician Alphonsus Cassell (1949–2010)\n\nArrow Benjamin, stage name of English singer and songwriter Dean McIntosh (fl. 2015–present)\n\nArrow (Heartless Bastards album), 2012\n\nArrows (Stonegard album), 2006\n\nArrows (The Lonely Forest album), 2011\n\n\"Arrow\" (Gackt song), 2015\n\n\"Arrow\", a song from the debut album Candlebox by Candlebox\n\n\"Arrows\" (song), 2014 song by Fences featuring Macklemore and produced by Ryan Lewis\n\n\"Arrows\", a song from the 2011 album Gospel by Fireworks\n\nThe Arrow (newspaper), an Australian newspaper published between 1896 and 1933\n\nThe Arrow, a British newsletter in the 1930s, edited in 1939 by Frederick Augustus Voigt\n\nArrow (radio format), playing 1970s classic rock\n\n90.7 Arrow Jazz FM, a Dutch jazz radio station\n\n94.5 The Arrow, a Florida radio station, see WARO\n\n91.9 The Arrow, a New York radio station, see WSHR\n\nArrow Classic Rock, a Dutch rock radio station\n\nArrow FM (Hastings), UK\n\nThe Arrow (radio station), a former digital radio station in the United Kingdom\n\nArrow (TV series), a 2012 television series about the comic book superhero Green Arrow\n\nArrows (TV series), the Arrows pop band's 1976–77 weekly ITV TV series\n\nThe Arrow Show, a 1948–49 American variety show\n\nThe Arrow (miniseries), a 1996 Canadian television miniseries\n\n\"Arrow\" (Smallville), an episode of the TV series Smallville\n\nArrow Books, an imprint of Random House\n\nWar of the Arrows, or Arrow: The Ultimate Wea",
+  "url": "https://en.wikipedia.org/wiki/Arrow_(disambiguation)",
+  "revision_id": 1341673293,
+  "article_id": 38348383,
+  "section_path": "shared_text[0:7415]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 80390,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "1f0f4fc21fc8ba95fab0aaad4297d9adbd4dcf12b905e0c95c488b0e03c6a76b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341673293",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38348383",
+    "revision_id": "1341673293",
+    "retrieved_at": "2026-10-18T12:41:27.177853+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7415,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

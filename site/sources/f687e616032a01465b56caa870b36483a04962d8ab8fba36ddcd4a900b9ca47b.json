@@ -1,0 +1,44 @@
+{
+  "id": "wiki-91111-1346228572-f486ae09915d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angle trisection",
+  "text": "Angle trisection is the construction of an angle equal to one third of a given arbitrary angle, using only two tools: an unmarked straightedge and a compass. It is a classical problem of straightedge and compass construction of ancient Greek mathematics.\n\nIn 1837, Pierre Wantzel proved that the problem, as stated, is impossible to solve for arbitrary angles. However, some special angles can be trisected: for example, it is trivial to trisect a right angle.\n\nIt is possible to trisect an arbitrary angle by using tools other than straightedge and compass. For example, neusis construction, also known to ancient Greeks, involves simultaneous sliding and rotation of a marked straightedge, which cannot be achieved with the original tools. Other techniques were developed by mathematicians over the centuries.\n\nBecause it is defined in simple terms, but complex to prove unsolvable, the problem of angle trisection is a frequent subject of pseudomathematical attempts at solution by naive enthusiasts. These \"solutions\" often involve mistaken interpretations of the rules, or are simply incorrect.\n\nUsing only an unmarked straightedge and a compass, Greek mathematicians found means to divide a line into an arbitrary set of equal segments, to draw parallel lines, to bisect angles, to construct many polygons, and to construct squares of equal or twice the area of a given polygon.\n\nThree problems proved elusive, specifically, trisecting the angle, doubling the cube, and squaring the circle. The problem of angle trisection reads:\n\nConstruct an angle equal to one-third of a given arbitrary angl",
+  "url": "https://en.wikipedia.org/wiki/Angle_trisection",
+  "revision_id": 1346228572,
+  "article_id": 91111,
+  "section_path": "shared_text[0:14700]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 50196,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "e908650253b10099b5416141c04ec4e463f654589360793aabd4faf5c52dbf9e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346228572",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "91111",
+    "revision_id": "1346228572",
+    "retrieved_at": "2026-10-18T12:40:09.908163+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 14700,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17273443-1350262818-be045fc5c777",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Roman–Parthian Wars",
+  "text": "nvasion of Mesopotamia began under the Emperor Septimius Severus, who occupied Seleucia and Babylon, however he was unable to take Hatra. Parthia ultimately was taken by a Persian rebellion led by Ardashir I, who entered Ctesiphon in 226. Under Ardashir and his successors, Persian-Roman conflict continued between the Sassanid Empire and Rome.\n\nAfter triumphing in the Seleucid–Parthian Wars and annexing large amounts of the Seleucid Empire, the Parthians began to look west for more territory to expand into. Parthian enterprise in the West began in the time of Mithridates I; during his reign, the Arsacids succeeded in extending their rule into Armenia and Mesopotamia. This was the beginning of an \"international role\" for the Parthian empire, a phase that also entailed contacts with Rome. Mithridates II conducted unsuccessful negotiations with Sulla for a Roman–Parthian alliance (c. 105 BC).\n\nBy the same time the Parthians started their rise, they established eponymous branches in the Caucasus, namely the Arsacid dynasty of Armenia, the Arsacid dynasty of Iberia, and the Arsacid dynasty of Caucasian Albania.\n\nAfter 90 BC, the Parthian power was diminished by dynastic feuds, while at the same time, Roman power in Anatolia collapsed. Roman–Parthian contact was restored when Lucullus invaded Southern Armenia and defeated Tigranes in 69 BC, however, again no definite agreement was made.\n\nWhen Pompey took charge of the war in the East, he re-opened negotiations with Phraates III; they came to an agreement and Roman–Parthian troops invaded Armenia in 66/65 BC, but soon a dispute aro",
+  "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars",
+  "revision_id": 1350262818,
+  "article_id": 17273443,
+  "section_path": "shared_text[0:13315]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 3055,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "abe5f9f3488d2c0c4994873c482b5422d17a452c6700b0a2f3316396a3d664e0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350262818",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17273443",
+    "revision_id": "1350262818",
+    "retrieved_at": "2026-10-18T12:38:56.863559+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13315,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

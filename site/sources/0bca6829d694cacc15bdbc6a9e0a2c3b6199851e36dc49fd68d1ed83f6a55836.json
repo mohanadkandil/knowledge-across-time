@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1793641-1349485777-defa334da9d0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Proclamation of Neutrality",
+  "text": "y carrying to any of them those articles which are deemed contraband by the modern usage of nations, will not receive the protection of the United States against such punishment or forfeiture; and further, that I have given instructions to those officers to whom it belongs to cause prosecutions to be instituted against all persons who shall, within the cognizance of the courts of the United States, violate the law of nations with respect to the powers at war, or any of them.\n\nIn testimony whereof I have caused the seal of the United States of America to be affixed to these presents, and signed the same with my hand. Done at the city of Philadelphia, the 22nd day of April, one thousand, seven hundred and ninety-three, and of the Independence of the United States of America the seventeenth.\n\n— George Washington\n\nThe proclamation started a war of pamphlets between Alexander Hamilton (writing for the Federalists) and James Madison (writing for the Democratic-Republicans), commonly known as the Pacificus–Helvidius Debates. In his seven essays, written under the pen name \"Pacificus\", Hamilton dealt with objections to the proclamation. Among his arguments were:\n\nThe decree was, in fact, constitutional; for while Congress has the sole right to declare war, it is \"the duty of the executive to preserve peace till the war is declared.\"\n\nThe Proclamation of Neutrality did not violate the United States' 1778 Treaty of defensive alliance with France, as the Democratic-Republicans were claiming. The treaty, Hamilton pointed out, was a defensive alliance and did not apply to offensive wars",
+  "url": "https://en.wikipedia.org/wiki/Proclamation_of_Neutrality",
+  "revision_id": 1349485777,
+  "article_id": 1793641,
+  "section_path": "shared_text[0:6337]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 44945,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "73630ababe9f26123717b57337ba8808d4c341b12c2b7f694d5526d158b6e5d7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349485777",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1793641",
+    "revision_id": "1349485777",
+    "retrieved_at": "2026-10-18T12:39:12.939452+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6337,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

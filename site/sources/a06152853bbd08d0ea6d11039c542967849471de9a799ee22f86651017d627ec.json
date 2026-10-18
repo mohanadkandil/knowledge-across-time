@@ -1,0 +1,44 @@
+{
+  "id": "wiki-217643-1352921805-c7ca7b36b39a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Sizar",
+  "text": "At Trinity College Dublin and the University of Cambridge, a sizar / ˈ s aɪ z ər / is an undergraduate who receives some form of assistance such as meals, lower fees or lodging during their period of study, in some cases in return for doing a defined job.\n\nThe word is thought to derive from the \"sizes\" or \"sizings\" (in turn a shortened form of \" assize \"), which were the specified portions of food and drink made available at a fixed price at the college. One of the sizar's duties was, historically, to fetch the \"sizes\" for his colleagues.\n\nAt Cambridge, a sizar was originally an undergraduate student who financed his studies by undertaking more or less menial tasks within his college but, as time went on, was increasingly likely to receive small grants from the college. Certain colleges, including St John's and Trinity, distinguished between two categories of sizar: there were specific endowments for specific numbers of sizars who were called \"proper sizars\"; those who were not so endowed, but who were maintained by fellow-commoners and fellows were called subsizars. Isaac Newton matriculated as subsizar at Trinity College.\n\nRichard S. Westfall noted that sizars were considerably more successful in gaining degrees than the gentlemen who entered Cambridge in the seventeenth century. Whereas only 30% of the latter (and 68% of the sons of professionals) continued to the degree, around 80% of the sons of tradesmen and yeomen, who made up most of the sizars, took their degree.\n\nChurchill College, Cambridge offers four sizarships per year, with the recipients being expected to pr",
+  "url": "https://en.wikipedia.org/wiki/Sizar",
+  "revision_id": 1352921805,
+  "article_id": 217643,
+  "section_path": "shared_text[0:4692]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "86bbf7cab491a2555b89e129d4fe82f4ee49fb8ac437d3dec936e83ed11c4b2b",
+    "source_row_idx": 29793,
+    "source_shard": "enwiki/data/enwiki_namespace_0_65.parquet",
+    "text_sha256": "da5d5b1f51365b87577c04493b43265fd1bbf860fbe14060d5c74896563be748",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352921805",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "217643",
+    "revision_id": "1352921805",
+    "retrieved_at": "2026-10-18T12:21:21.323277+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4692,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

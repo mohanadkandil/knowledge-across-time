@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33964814-1187723800-642332dc09bb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Alsace (disambiguation)",
+  "text": "Alsace is a cultural and historical region in eastern France and until 2016 an administrative région of France.\n\nAlsace may also refer to:\n\nAlsace, Queensland, a locality in the Central Highlands Region\n\nAlsace wine region\n\nAlsace-Lorraine\n\nDuchy of Alsace\n\nAlsace, California\n\nAlsace Township, Pennsylvania\n\nAlsace (automobile), an American automobile\n\nAlsace wine\n\nAlsace (film), a 1916 French film\n\nAlsace, an Aquitaine class frigate of French navy\n\nAlsace class battleship, a French project in 1939, not built",
+  "url": "https://en.wikipedia.org/wiki/Alsace_(disambiguation)",
+  "revision_id": 1187723800,
+  "article_id": 33964814,
+  "section_path": "shared_text[0:513]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    513
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 169190,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "650f828478d519576495b23ccc961766a6b3f4872d17c35f377a67814eb0d229",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1187723800",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33964814",
+    "revision_id": "1187723800",
+    "retrieved_at": "2026-10-18T12:42:31.600697+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 513,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

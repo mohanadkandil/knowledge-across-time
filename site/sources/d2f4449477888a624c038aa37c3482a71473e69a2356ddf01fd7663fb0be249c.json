@@ -1,0 +1,44 @@
+{
+  "id": "wiki-35941887-1349503748-78d0d5d5159b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Preston (surname)",
+  "text": "multiple people\n\nJean R. Preston (1935–2013), American politician\n\nJenico Preston, 14th Viscount Gormanston (1837–1907)\n\nJessie Preston (1872–1962), American metalsmith\n\nNicholas Preston, 17th Viscount Gormanston (born 1939)\n\nJimmy Preston (1913–1984), American musician\n\nJohn Preston (disambiguation), multiple people\n\nJohnny Preston (1939–2011), American singer\n\nJoseph Preston (disambiguation), multiple people\n\nJosiah Preston (1885–unknown), English footballer\n\nJosiah Johnston Preston (1855–1937), Canadian businessman and politician\n\nJune Preston (1928–2022), American actress and singer\n\nKaren Preston (born 1971), Canadian figure skater\n\nKatherine K. Preston (born 1950), American musicologist\n\nKeith Preston (1884–1927), American journalist\n\nKelly Preston (1962–2020), American actress\n\nKenneth Preston (born 1957), American soldier\n\nKiki Preston (1898–1946), American socialite\n\nLewis Preston (disambiguation), multiple people\n\nLionel Preston (1875–1971), Royal Navy officer\n\nLuke Preston (born 1976), Welsh judoka\n\nMargaret Preston (1875–1963), Australian artist\n\nMargaret Junkin Preston (1820–1897), American poet and author\n\nMark Preston (disambiguation), multiple people\n\nMatilee Loeb-Evans Preston (1879–1963), American composer\n\nMatt Preston (born 1961), Australian journalist\n\nMaurice A. Preston (1912–1983), United States Air Force general\n\nMichael Preston (disambiguation), multiple people\n\nNatalie Preston (born 1977), English footballer\n\nNatasha Preston (born 1988), English novelist\n\nNigel Preston (1959–1992), British musician\n\nNoel Preston (1941–2020), ethicist, theologian an",
+  "url": "https://en.wikipedia.org/wiki/Preston_(surname)",
+  "revision_id": 1349503748,
+  "article_id": 35941887,
+  "section_path": "shared_text[0:6342]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 14348,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "7a4f5af1885073e75d2516b4f79c499baf62396b561ecac18889a6677e38c329",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349503748",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "35941887",
+    "revision_id": "1349503748",
+    "retrieved_at": "2026-10-18T12:36:08.112232+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6342,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

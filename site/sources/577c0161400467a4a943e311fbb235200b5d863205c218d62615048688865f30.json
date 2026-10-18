@@ -1,0 +1,36 @@
+{
+  "id": "bri-0148-d2bd224be86b:region-19:0",
+  "kind": "britannica",
+  "page_id": "bri-0148-d2bd224be86b",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+  "text": "a good genius; which induced his parents to place him as a disciple with Jacob Shivers, a master capable of giving him the best directions, to qualify him for proceeding successfully in his profession. He chiefly painted portraits, in which (according to Sandest) he says very common, and had the honor to paint the portraits of Christian IV. King of Denmark, and of Gustave Adolphus king of Sweden. The extractor-dinary merits of this matter memoranded him in the esteem of the phrase of Mechkahung, who retained him in his service for 44 years; and by order of that princes, he painted the portraits of his whole family is full length, as large as life, and in the unique limit; by which works his reputation was established effectively. By the agreeable manner of his courning, and the easy attributes of his figure, his paintings because so acceptable to all persons of rank, that before the decline of life, he had acquired a very large fortune; but unfortunately be lost it all, in the compass of a few hours, by the sudden traption of a plundering party, and with great difficulty his own life was preserved. He died in 1661.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+  "provenance": {
+    "page_id": "bri-0148-d2bd224be86b",
+    "row_index": 148,
+    "volume_id": "193696080",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+    "label": 0,
+    "sha256": "d2bd224be86b5c44f1e37343f9b0a5440cebf92c95e7917fa3fcae9e12afdb5f",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0148-d2bd224be86b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+    "manual_seed": false
+  },
+  "region_id": "region-19",
+  "bbox_raw": [
+    0.5156,
+    0.0633,
+    0.9043,
+    0.357
+  ],
+  "offsets": [
+    0,
+    1132
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

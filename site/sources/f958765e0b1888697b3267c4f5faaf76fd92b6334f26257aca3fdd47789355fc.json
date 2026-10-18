@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24635138-1346842368-5b8f52f91dfd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Germanicus (disambiguation)",
+  "text": "Germanicus Julius Caesar (24 BC–19 AD) was a Roman general.\n\nGermanicus may also refer to:\n\nGermanicus of Smyrna (died 155), Christian martyr\n\nGermanicus Kent (1791–1862), co-founder of Rockford, Illinois\n\nGermanicus Mantica (died 1639), Roman Catholic bishop\n\nGermanicus Mirault (1796–1879), French surgeon\n\nGermanicus Young Tigner (1856–1938), American lawyer and judge\n\nGermanicus (opera), a 1704 opera by Telemann\n\nGermanicus trilogy, an alternate-history book series by Kirk Mitchell\n\nGermanicus, Ontario, a community in Canada\n\n10208 Germanicus, an asteroid",
+  "url": "https://en.wikipedia.org/wiki/Germanicus_(disambiguation)",
+  "revision_id": 1346842368,
+  "article_id": 24635138,
+  "section_path": "shared_text[0:563]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    563
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 52448,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "b7f8fe119c79905e855d2de7868760e651b4b4ffbfbdc618926588bb2e9a2ab2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346842368",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24635138",
+    "revision_id": "1346842368",
+    "retrieved_at": "2026-10-18T12:35:26.367529+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 563,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

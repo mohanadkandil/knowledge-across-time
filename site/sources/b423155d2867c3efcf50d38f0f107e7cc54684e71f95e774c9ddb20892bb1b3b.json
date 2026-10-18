@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-5:1440",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": " the kingdom should be valued and entered in- to registers; and that a proportional payment should be made by each. The application of this fund was no maintain regular and finding body of soldiers. This guard or army, it was urged, being at all times in medi- niefa to meet again’t an enemy, would protect effective ally the footrest and there would no longer be any necessity for the nobles to be continually in motion on",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1318,
+    0.393,
+    0.5332,
+    0.8703
+  ],
+  "offsets": [
+    1440,
+    1863
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

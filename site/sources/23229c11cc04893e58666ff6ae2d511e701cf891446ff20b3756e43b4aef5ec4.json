@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2586411-1317149477-7fa48999b86a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluid theory of electricity",
+  "text": "Fluid theories of electricity are outdated theories that postulated one or more electrical fluids which were thought to be responsible for many electrical phenomena in the history of electromagnetism. The \"two-fluid\" theory of electricity, created by Charles François de Cisternay du Fay, postulated that electricity was the interaction between two electrical 'fluids.' An alternate simpler theory was proposed by Benjamin Franklin, called the unitary, or one-fluid, theory of electricity. This theory claimed that electricity was really one fluid, which could be present in excess, or absent from a body, thus explaining its electrical charge. Franklin's theory explained how charges could be dispelled (such as those in Leyden jars) and how they could be passed through a chain of people. The fluid theories of electricity eventually became updated to include the effects of magnetism, and electrons (upon their discovery).\n\nIn the 1700s many physical phenomena were thought of in terms of an aether, which was a fluid that could permeate matter. This idea had been used for centuries, and was the basis of thinking about physical phenomena, such as electricity, as liquids. Other 18th century examples of imponderable fluid models are Lavoisier's caloric and the magnetic fluids of Coulomb and Aepinus.\n\nBy the 18th century, one of a few theories explaining observed electrical phenomena was the two-fluid theory. This theory is generally attributed to Charles François de Cisternay du Fay. du Fay's theory suggested that electricity was composed of two liquids, which could flow through solid bod",
+  "url": "https://en.wikipedia.org/wiki/Fluid_theory_of_electricity",
+  "revision_id": 1317149477,
+  "article_id": 2586411,
+  "section_path": "shared_text[0:7950]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 103205,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "2f2f9838aa0ef86707b1bd97e71bd1e007bbc5bbed5c7c604aff0a408cbff3c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317149477",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2586411",
+    "revision_id": "1317149477",
+    "retrieved_at": "2026-10-18T12:17:07.837918+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7950,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

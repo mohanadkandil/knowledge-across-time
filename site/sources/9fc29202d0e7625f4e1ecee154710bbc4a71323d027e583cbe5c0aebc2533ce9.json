@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-337a980f90dc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "The wild man (German: Wilder Mann, der Wilde Mann), or wild man of the woods, is a mythical figure and motif resembling a hairy human that appears in the art and literature of medieval Europe. Generally they are considered a large-statured race of humans who are hairy all over their body, and live in the wilderness or woodlands. They are often thought to be covered with moss, or wear green or vegetative clothing, and iconically wield a club or hold an uprooted tree as a staff. They also occur in female versions as wild women.\n\nThe Wilde Mann (Middle High German: wilde man) is attested in Middle High German literature, particularly German heroic epics, while the female Wilde Weib (wildez wîp) figures in the Arthurian works, typically appear as adversaries. These beings are also called by names meaning \"wood men\" and in older forms of the language, \"wood maiden\", \"wood wife\", or \"wood woman\". In Middle English a corresponding term for the wild man is woodwose or wodewose.\n\nIn the folklore of German-speaking areas collected mainly in the 19th century, there are especially the Alpine wild men and wild women. These beings could be man-hunters or otherwise be sinister, but could also endow luck or bounty, exhibiting aspects of woodland spirits.\n\nThe folklore that had developed in the mining areas around Harz or Ore Mountains by the 16th century regarded the wild man of the mines (also known as \"mountain monk\") as potentially both dangerous and beneficent, guiding humans to the discovery of ore deposits. The house of the Princes of Brunswick-Wolfenbüttel (Brunswick-Lüneburg), whic",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2471517-1336706071-885f5083cba5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hotel Indigo",
+  "text": "l Indigo Spokane Downtown\n\nHotel Indigo Detroit Downtown\n\nHotel Indigo Traverse City\n\nHotel Indigo Jacksonville-Deerwood Park",
+  "url": "https://en.wikipedia.org/wiki/Hotel_Indigo",
+  "revision_id": 1336706071,
+  "article_id": 2471517,
+  "section_path": "shared_text[0:1565]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1565
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 97496,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "6c25a58fe43115d9a532084a0a4fa3c18dc91d32d244df63980313045e6b65f0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336706071",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2471517",
+    "revision_id": "1336706071",
+    "retrieved_at": "2026-10-18T12:23:27.245635+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1565,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

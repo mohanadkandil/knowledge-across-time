@@ -1,0 +1,36 @@
+{
+  "id": "bri-2376-3186638c36ec:region-29:0",
+  "kind": "britannica",
+  "page_id": "bri-2376-3186638c36ec",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 14 Part 1, MIC-Moral philosophy - EB.9",
+  "text": "_Ester. Char-—This mineral is generally of a porous\ntexture, with cavities of different fizes 3 hufre glimmer-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2376",
+  "provenance": {
+    "page_id": "bri-2376-3186638c36ec",
+    "row_index": 2376,
+    "volume_id": "191253838",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 14 Part 1, MIC-Moral philosophy - EB.9",
+    "label": 0,
+    "sha256": "3186638c36ec3130d3decfa69873aa475fe99668ea59127f1fd0d3903592b126",
+    "width": 600,
+    "height": 795,
+    "image_file": "../images/bri-2376-3186638c36ec.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2376",
+    "manual_seed": false
+  },
+  "region_id": "region-29",
+  "bbox_raw": [
+    0.4785,
+    0.8469,
+    0.8398,
+    0.875
+  ],
+  "offsets": [
+    0,
+    110
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

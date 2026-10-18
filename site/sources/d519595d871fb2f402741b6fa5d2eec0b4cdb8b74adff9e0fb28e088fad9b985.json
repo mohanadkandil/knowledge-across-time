@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4677223-1348721815-91cb9cd98b3a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Norman Macdougall",
+  "text": "Norman Macdougall (born 20th century) is a Scottish historian who is known for writing about Scottish crown politics. He was a senior lecturer in Scottish history at the University of St Andrews.\n\nMacdougall has written biographies of the kings James III of Scotland and James IV of Scotland. He was also responsible for editing a biography of James V of Scotland. Other publications include a work on the Auld Alliance, and editing Scotland and War, to which he also contributed an article on James IV's Great Michael.\n\nScotland and War AD 79–1918 (1991). ISBN 9780389209478\n\nJames IV – The Stewart Dynasty in Scotland (1997). Tuckwell Press Ltd. ISBN 9781898410416",
+  "url": "https://en.wikipedia.org/wiki/Norman_Macdougall",
+  "revision_id": 1348721815,
+  "article_id": 4677223,
+  "section_path": "shared_text[0:666]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    666
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bf2b808ddd2ef9f1d6b4c3d30e1afe0f8f9f2bc165b0f7f1e1522fa97d6e2c51",
+    "source_row_idx": 3705,
+    "source_shard": "enwiki/data/enwiki_namespace_0_49.parquet",
+    "text_sha256": "507fd2a8e582b33ba21fdffbcea31ce9e16e406244e33e2ae625b7ccbc7792f4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348721815",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4677223",
+    "revision_id": "1348721815",
+    "retrieved_at": "2026-10-18T12:28:36.876614+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 666,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

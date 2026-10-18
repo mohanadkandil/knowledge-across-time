@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5749718-1334074721-5158a7e8a75e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chronicles of the Kings of Judah",
+  "text": "The Chronicles of the Kings of Judah is a lost work that gives a more detailed account of the reigns of the kings of the ancient Kingdom of Judah that appears in the Hebrew Bible. It is not believed to be Books of Chronicles since it is implied by the writer of Books of Kings that it could be used as a significant supplement to the writings contained in that book itself and Books of Chronicles adds little information at best and there is also a discrepancy in the dates of certain events between the two books.\n\nThe book is initially referred to at 1 Kings 14:29. The passage reads: \"Now the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?\" There are 15 biblical references in total.\n\nThis text is sometimes called The Book of the Chronicles of the Kings of Judah or The Book of the Annals of the Kings of Judah (Hebrew: ספר דברי הימים למלכי יהודה, romanized: sêp̄er diḇrê hayyāmîm lə-malḵê Yəhūḏāh).",
+  "url": "https://en.wikipedia.org/wiki/Chronicles_of_the_Kings_of_Judah",
+  "revision_id": 1334074721,
+  "article_id": 5749718,
+  "section_path": "shared_text[0:981]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    981
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 103834,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "d581e4a6720c15d9dd7858b7fdf080fcf844dd578a7d9718d33d392821f0d704",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334074721",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5749718",
+    "revision_id": "1334074721",
+    "retrieved_at": "2026-10-18T12:39:02.784407+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 981,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

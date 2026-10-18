@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "NAZARRUH, a new or village of Palestin, celebrated in holy writ as the residents of our Season. I it is situated in a deep valley, on the side of a light hill, in a deeper to his summit than the base, and having a rocky eminence along it. It contains about the buildings of stone, a major tel always a land, and very own, but sufficiently spacious for the cosmome dation of the immense poor families by whom they are inhabited. The streets areas steep and narrowy, and from the loostees of the soil, ascendingly dirty. Of the public buildings the mosque is the most conspicuous, and is a nest editor. It is enclosed with a good wall of masonry, so that Mil Buckingham, who visited the only one of its sides, on which these were five inches. It has a plain whitelant minutes, surrounded by a gallery, and are mounted by a crescent. The Godians have a church on the south-eastern edge of the towns at the foot of all until and the Monticine have also a church in front of a Fumcion covered. This site serves, Mr Buckingham mentions, is one of the largest and most condonions the had seen anywhere, being superior to those of Sargyna, Alexandria, or Gato. It is still adored with some precious remains of uniquely. Two more shells of red granite columns we used as peat to us the date-way. Within is a court, and now she gets at further extremely is the fragment of a death of another granite column, lying on the ground. White pilares form the portals of entrance to the original building, destroyed by the Tork's, and of others the remains are still too large. On the wall, both within and without, th",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.1572,
+    0.4773,
+    0.5605,
+    0.9367
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

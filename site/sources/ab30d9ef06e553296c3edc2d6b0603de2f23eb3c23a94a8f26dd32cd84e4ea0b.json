@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17317038-1258633799-533322896f0c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Kockar Ata",
+  "text": "legend told by a man from Cholpon Ata, who said that Arslanbab (a mazar in Southern Kyrgyzstan) had seven children. And the seven mazars, Oisul Ata, Karakol Ata, Shïng Ata, Manzhïl Ata, Cholpon Ata, Kochkor Ata, Oluia Ata, were built in their honor. In the Soviet period, as part of the effort to discourage Islamic practice, the authorities undertook severe measures to prevent worship at mazars.\n\nKyrgyzstan: 1.Kochkor-Ata, 2.Kochkor, 3.Ak-Kochkor, 4.Kochkar\n\nTajikistan: Khodzha-Kochkari\n\nRussia: Kochkari (near Kazan in Tatarstan)\n\nSyria: Kouchkar (area of the Sis Afshars between the 14th and 16th centuries)\n\nTurkey: Koçgiri area (in Sivas), Koçkiran (in Iğdır)",
+  "url": "https://en.wikipedia.org/wiki/Kockar_Ata",
+  "revision_id": 1258633799,
+  "article_id": 17317038,
+  "section_path": "shared_text[0:2107]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2107
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 128399,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "de03723b514780604ffb5a2aa317d99197a7b27564846924a1a301ba8089522a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1258633799",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17317038",
+    "revision_id": "1258633799",
+    "retrieved_at": "2026-10-18T12:24:29.227375+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2107,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

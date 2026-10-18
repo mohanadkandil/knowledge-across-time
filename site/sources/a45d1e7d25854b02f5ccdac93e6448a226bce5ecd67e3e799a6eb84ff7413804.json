@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "NAXIESS are the majority of the Malabra coast. We may with truth affirm that they are the oldest notably in the world, for the mean ancient written mention them, and onto the far which permits the Mayre ladies to have several islands, ever once being allowed four.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.1553,
+    0.418,
+    0.541,
+    0.4805
+  ],
+  "offsets": [
+    0,
+    264
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

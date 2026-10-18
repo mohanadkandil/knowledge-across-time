@@ -1,0 +1,44 @@
+{
+  "id": "wiki-14521090-1287164129-a7c7a8f76b9e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Abacus (disambiguation)",
+  "text": "An abacus is a counting frame.\n\nAbacus may also refer to:\n\nAbacus (architecture), a flat slab forming the uppermost member or division of the capital of a column\n\nAbacus (journal), a peer-reviewed academic accounting journal\n\nAbacus school, a type of Renaissance-era Italian trade school\n\nLogical abacus, an early mechanical digital computer\n\nMental abacus, a system involving visualization of an abacus to carry out arithmetical calculations\n\nAbacus Harmonicus, an ancient diagram showing the structure and placement of the keys of a particular musical instrument\n\nOperation Abacus, the Canadian military operation to restore vital services if the year 2000 caused disruption\n\nAbacus Federal Savings Bank, an overseas Chinese bank in the United States\n\nAbacus: Small Enough to Jail, 2016 documentary about the bank, which was the only financial institution to face criminal charges following the subprime mortgage crisis\n\nAbacus Data, a Canadian polling firm\n\nAbacus, an imprint of Little, Brown and Company\n\nAbacus Recordings, a defunct imprint of Century Media Records\n\nAbacus Jasper's Management Group, owned by chef Kent Rathbun",
+  "url": "https://en.wikipedia.org/wiki/Abacus_(disambiguation)",
+  "revision_id": 1287164129,
+  "article_id": 14521090,
+  "section_path": "shared_text[0:1133]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1133
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 86663,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "b74118b04ed729825fa64baeda91d64cf212c667f9f02efb25a6b7012249c9c7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1287164129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "14521090",
+    "revision_id": "1287164129",
+    "retrieved_at": "2026-10-18T12:36:54.007041+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1133,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

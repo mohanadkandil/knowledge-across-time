@@ -1,0 +1,44 @@
+{
+  "id": "wiki-74325640-1353598766-9951e4db35ea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mark Antony (2023 film)",
+  "text": "reshing entertainer that delivers what it promises.\" Krishna Selvaseelan of Tamil Guardian gave 3/5 stars and wrote, \"Overall, although oftentimes headache inducing and downright nonsensical, Ravichandran should be lauded for a unique and entertaining film\". Janani K of India Today gave 2.5/5 stars and wrote \" Mark Antony is a valiant effort and, with certain shortcomings, it still manages to engage the audience and leave them in splits.\" Kirubhakar Purushothaman of The Indian Express gave 2.5/5 stars and wrote \"SJ Suryah single handedly saves Mark Antony from becoming a redundant mess.\"\n\nGautaman Bhaskaran of News18 gave 2/5 stars and wrote, \"Vishal and SJ Suryah are wasted in a whacky and crazy script.\" Sangeetha P of OTTPlay gave 2.5/5 stars and wrote, \" Mark Antony, packed with many exciting and mass moments, and despite its many flaws, makes for an entertaining watch. While Vishal is back with a bang, SJ Suryah turns out to be the star of this commercial entertainer.\" Bharathy Singaravel of The News Minute gave 2/5 stars and wrote, \"While actor Vishal plays a predictable double role as Mark and Antony, director Adhik Ravichandran has thrown in a generous helping of sexualising trans women, and homophobia.\" Priyanka Sundar of Firstpost gave 2/5 stars and wrote, \" Mark Antony squandered its potential, leaving us with a lingering sense of dissatisfaction.\"",
+  "url": "https://en.wikipedia.org/wiki/Mark_Antony_(2023_film)",
+  "revision_id": 1353598766,
+  "article_id": 74325640,
+  "section_path": "shared_text[0:8580]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8580
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7b629e6f7f330f34765c0c941e787f1d06f1caaaf060583a9284690086784b7d",
+    "source_row_idx": 21672,
+    "source_shard": "enwiki/data/enwiki_namespace_0_79.parquet",
+    "text_sha256": "0d98b31f18c53fb1c6c61786c98874033595810d13ba4db6926431ec5ef3d356",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353598766",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "74325640",
+    "revision_id": "1353598766",
+    "retrieved_at": "2026-10-18T12:35:55.110199+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8580,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

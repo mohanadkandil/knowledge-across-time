@@ -1,0 +1,44 @@
+{
+  "id": "wiki-64358239-1352154759-9e806d6f3cf5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Andrew Melville of Garvock",
+  "text": "nburgh.\n\nMelville received a pension from the lands of Crossraguel Abbey, and in June 1590 his servants James Boswall and David Ardeis witnessed his receipt for payment. In October 1590 he made an inventory of silver plate used in the king and queen's household with Jerome Bowie, the Master of Wine Cellar. This includes two silver ships or nefs and an ostrich egg cup, described as an \"ostrix eg coupe garnessit in silver dowble overgilt\".\n\nIn 1591 he was on hand to protect the King at Holyroodhouse when he was surprised by Francis Stewart, Earl of Bothwell. Melville had a house on the north side of Holyrood close. He armed himself and entered the palace through the Abbey using a secret passage. Melville and the other Masters of Household complained of planned economies in the royal household and asked for greater remuneration due to their onerous duties.\n\nIn July 1594 he and his brothers entertained the Danish and German ambassadors who had arrived for the baptism of Prince Henry. In August, he received £214 from money managed by the goldsmith Thomas Foulis, for the expenses of the King's household, in addition to £8,718 Scots which he had been given in 1593.\n\nMelville continued to correspond with Bess of Hardwick, who had been Mary's keeper, and her family. In 1607 he sent news of the trial of Margaret Hartsyde a servant of Anne of Denmark accused of stealing her jewels. In November 1608 he wrote to the Earl of Shrewsbury mentioning an earthquake felt at Garvock. In that year he hosted Louis Frederick, Duke of Württemberg-Montbéliard during his visit to Scotland.\n\nHe died o",
+  "url": "https://en.wikipedia.org/wiki/Andrew_Melville_of_Garvock",
+  "revision_id": 1352154759,
+  "article_id": 64358239,
+  "section_path": "shared_text[0:8121]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d0540913175bf0bf226ae4161368d8569964a19a5302fff11da3e05c21e361c8",
+    "source_row_idx": 37790,
+    "source_shard": "enwiki/data/enwiki_namespace_0_63.parquet",
+    "text_sha256": "f605274244e16e79fd74fa5a9d1ff6513643a6e79d20784de846a47c9cefae94",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352154759",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "64358239",
+    "revision_id": "1352154759",
+    "retrieved_at": "2026-10-18T12:38:23.014911+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8121,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

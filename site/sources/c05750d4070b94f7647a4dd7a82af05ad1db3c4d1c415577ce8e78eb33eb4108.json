@@ -1,0 +1,36 @@
+{
+  "id": "bri-0032-2ebcde0b7a34:region-16:0",
+  "kind": "britannica",
+  "page_id": "bri-0032-2ebcde0b7a34",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+  "text": "MELITO (comonized), billop of Sardis in Lydia, in the forced century; remarkable for the apology he preferred to the Emperor Azurelia, in favour of the parirars; on which Eulebisha and the other ancient ecollefallical writers below great praises: but that apo-loys are all Militia’s where works are loll.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+  "provenance": {
+    "page_id": "bri-0032-2ebcde0b7a34",
+    "row_index": 32,
+    "volume_id": "192200898",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+    "label": 0,
+    "sha256": "2ebcde0b7a34c9d11c91c2e0c77bce71941ab576ca45017075b58e3eebe9f94c",
+    "width": 600,
+    "height": 827,
+    "image_file": "../images/bri-0032-2ebcde0b7a34.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+    "manual_seed": false
+  },
+  "region_id": "region-16",
+  "bbox_raw": [
+    0.4756,
+    0.5281,
+    0.8457,
+    0.6047
+  ],
+  "offsets": [
+    0,
+    304
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

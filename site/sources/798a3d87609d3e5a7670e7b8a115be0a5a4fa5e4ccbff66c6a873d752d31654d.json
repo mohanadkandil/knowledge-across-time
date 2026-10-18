@@ -1,0 +1,44 @@
+{
+  "id": "wiki-57629198-1343333826-263f6c454bd2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Gottfried Wilhelm Leibniz",
+  "text": "The following outline is provided as an overview of and topical guide to Gottfried Wilhelm Leibniz.\n\nGottfried Wilhelm (von) Leibniz (1 July 1646 – 14 November 1716); German polymath, philosopher logician, mathematician. Developed differential and integral calculus at about the same time and independently of Isaac Newton. Leibniz earned his keep as a lawyer, diplomat, librarian, and genealogist for the House of Hanover, and contributed to diverse areas. His impact continues to reverberate, especially his original contributions in logic and binary representations.\n\nLeibniz calculator\n\nAlphabet of human thought\n\nCalculus ratiocinator\n\nBinary number\n\nCalculus\n\nGeneral Leibniz rule\n\nLeibniz formula for π\n\nLeibniz integral rule\n\nBest of all possible worlds\n\nCharacteristica universalis\n\nIdentity of indiscernibles\n\nPre-established harmony\n\nPrinciple of sufficient reason\n\nLeibniz's political views\n\nLeibniz's religious views\n\nDe Arte Combinatoria\n\nDiscourse on Metaphysics, (text at wikisource)\n\nMonadology, (text at wikisource)\n\nNew Essays on Human Understanding\n\nNova Methodus pro Maximis et Minimis\n\nProtogaea\n\nThéodicée\n\nLeibniz Archive (Hannover) at the Leibniz Research Center - Hannover\n\nLeibniz Archive (Potsdam) at the Brandenburg Academy of Humanities and Sciences\n\nLeibniz Archive (Munster), Leibniz-Forschungsstelle Münster digital edition\n\nLeibniz Archive (Berlin), digital edition\n\nDonald Rutherford 's translations at UCSD\n\nLloyd Strickland 's translations at leibniz-translations.com\n\nThe Leibniz Review\n\nStudia Leibnitiana\n\nLeibniz Association\n\nLeibniz College, affiliated with ",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Gottfried_Wilhelm_Leibniz",
+  "revision_id": 1343333826,
+  "article_id": 57629198,
+  "section_path": "shared_text[0:2324]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 9684,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "ba386ff7fe494ea53386e9b4bac1a8257e2a6216d4fda5cd660eff1061fc3ced",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343333826",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "57629198",
+    "revision_id": "1343333826",
+    "retrieved_at": "2026-10-18T12:40:06.994337+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2324,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21720815-1066334731-22f70c45fc11",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anthony Collins",
+  "text": "Anthony Collins may refer to:\n\nAnthony Collins (philosopher) (1676–1729), English philosopher and deist\n\nAnthony Collins (American football) (born 1985), American football player\n\nAnthony Collins (composer) (1893–1963), British film score composer and conductor\n\nAnthony Collins (cricketer) (born 1949), New Zealand cricketer\n\nAnthony Collins (judge) (born 1960), Irish judge\n\nAnthony G. Collins (born 1949), Australian-American academic administrator",
+  "url": "https://en.wikipedia.org/wiki/Anthony_Collins",
+  "revision_id": 1066334731,
+  "article_id": 21720815,
+  "section_path": "shared_text[0:451]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    451
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 40762,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "600f33f6d652b2cc896aebb24d89225d35228b8d6228bb53bea29c00cc25314b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1066334731",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21720815",
+    "revision_id": "1066334731",
+    "retrieved_at": "2026-10-18T12:40:04.129262+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 451,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

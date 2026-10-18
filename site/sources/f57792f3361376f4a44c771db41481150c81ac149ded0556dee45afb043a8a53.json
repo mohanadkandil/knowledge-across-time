@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "PRETRIBITE. See Gazakata.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.54,
+    0.8859,
+    0.7764,
+    0.8961
+  ],
+  "offsets": [
+    0,
+    25
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

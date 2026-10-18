@@ -1,0 +1,36 @@
+{
+  "id": "bri-1843-f53bf32c975b:region-32:0",
+  "kind": "britannica",
+  "page_id": "bri-1843-f53bf32c975b",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "KL: KL= Hä: LI= HP:lop, hence the parallelograms KHPM, KlpN are similar. Now they have a common angle at K; therefore they are about the same diameter, that is the points K, P, p are in the same straight line (20, 6, E.).",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1843",
+  "provenance": {
+    "page_id": "bri-1843-f53bf32c975b",
+    "row_index": 1843,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 1,
+    "sha256": "f53bf32c975bfa37eca80f791ffd0a101655e8736fe3ad5096fa5d028ca659ab",
+    "width": 600,
+    "height": 833,
+    "image_file": "../images/bri-1843-f53bf32c975b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1843",
+    "manual_seed": false
+  },
+  "region_id": "region-32",
+  "bbox_raw": [
+    0.5156,
+    0.7641,
+    0.8311,
+    0.8234
+  ],
+  "offsets": [
+    0,
+    221
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

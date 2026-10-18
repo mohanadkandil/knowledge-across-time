@@ -1,0 +1,44 @@
+{
+  "id": "wiki-34752603-1336619611-196eb9df3bf9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Real contracts in Roman law",
+  "text": " stipulatio, an additional contract. Rates of interest were heavily regulated by the state. As a mutuum did not place on the borrower any specific date on which to return the equivalent thing, this would also be given in a stipulatio if required. In the later law, the stipulatio replaced mutuum completely.\n\nThe borrower was bound to return the equivalent thing. As owner, he bore liability for loss, theft, or damage; they were irrelevant to his liability for the thing. Two exceptions were made, where repayment would be dependent on the success of the operation: the financing of a cargo ship, and the sponsorship of a professional athlete. Neither was liable if they did not succeed; the risk was born by the lender. Mutuum was unilateral and did not place the lender under any obligations or duties.\n\nA commodatum was a loan for use. It did not transfer ownership nor possession, and was also gratuitous (no interest could be charged). If interest was included, the agreement was instead either one of hire or an innominate contract. It was assumed to be for a \"reasonable time\" if this was not specified at the time of the agreement. Land could be the subject of a commodatum during the Classical period and later, though this was doubted before that. Perishables could not be loaned for use, unless they were to be used for display purposes only, or a small number of other exceptions. The lender under a commodatum did not have to be owner, since ownership was not transferred.\n\nA borrower was held (in most juristic texts) to a standard of culpa levis in abstracto – the borrower was liable",
+  "url": "https://en.wikipedia.org/wiki/Real_contracts_in_Roman_law",
+  "revision_id": 1336619611,
+  "article_id": 34752603,
+  "section_path": "shared_text[0:10233]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 72214,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "1715210e302f42e214cfde3db22b793b0010b9a062ff148d399427ceaf16b4de",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336619611",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34752603",
+    "revision_id": "1336619611",
+    "retrieved_at": "2026-10-18T12:31:25.952975+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10233,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

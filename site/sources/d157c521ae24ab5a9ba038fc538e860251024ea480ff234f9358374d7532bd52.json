@@ -1,0 +1,36 @@
+{
+  "id": "bri-1682-143b68d96f54:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1682-143b68d96f54",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.12",
+  "text": "BEETTRELLI (Xavan), one of the most celebrated Italian literals of the subsequent century, was torn at Mantu, the 18th of July 1718. After studying under the Jesuits in his native city and as Bologna, the central in 1750 upon the noviate of this society. He then undertook a new course of study; and afterwards taught the belle letters, from two years 1729 to 174s, at Brown, where the Cor- dinal Quirin, Count Mazzuchelli, Count Duranti, and other scholars, formed in illustrian academy, has there began to distinguish himself by some pieces of poetry, composed as scholastic exercises. Being sent to Bologna or pursue his identity, he continued, at the same time, to cultivate its practical talent, and wrote also, for the theatre of the college, his tragedy old _Jonathan_. The number of learned and were presented collected in this way exceeded by far what he had met with at Bracia. The _Institute_, recently founded by the Count Masjegl, the Clemensine Academy of Design, the Soloni of the astronomical poet Manfredi, the growing reputation of his ingresso and learned pupils, Zanota, Algorotti, and others, at this true fixed the attention of the literary world on Bologna. It was in the middle of this society, to which he was admitted, that Bettedral concluded his education, and attained the age of thirty. He went in 1748 to Venice, where to become Professor of rhetoric. He left it for various missions, and returned to it again often. We may see by his epistles in freevose or coldly, that he was convicted on friendly terms with all that the city and state could boast most illustrious.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1682",
+  "provenance": {
+    "page_id": "bri-1682-143b68d96f54",
+    "row_index": 1682,
+    "volume_id": "193108319",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.12",
+    "label": 0,
+    "sha256": "143b68d96f541580d44b67779708018fed631870bbb153694427ceb7f177e058",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-1682-143b68d96f54.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1682",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5312,
+    0.0984,
+    0.9268,
+    0.9031
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

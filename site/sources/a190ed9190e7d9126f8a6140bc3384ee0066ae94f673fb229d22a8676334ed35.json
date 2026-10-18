@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-69ab0cc0f22e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "ent, in addition to the hydrogen that would be produced regardless by the zinc reacting with the acid. Igniting this gas mixture would oxidize any arsine present into arsenic and water vapor. This would cause a cold ceramic bowl held in the jet of the flame to be stained with a silvery-black deposit of arsenic, physically similar to the result of Metzger's reaction. The intensity of the stain could then be compared to films produced using known amounts of arsenic. Not only could minute amounts of arsenic be detected (as little as 0.02 mg), the test was very specific for arsenic. Although antimony (Sb) could give a false-positive test by forming stibine (SbH) gas, which decomposes on heating to form a similar black deposit, it would not dissolve in a solution of sodium hypochlorite (NaOCl), while arsenic would. Bismuth (Bi), which also gives a false positive by forming bismuthine (BiH), similarly can be distinguished by how it resists attack by both NaOCl and ammonium polysulfide (the former attacks As, and the latter attacks Sb).\n\nThe Marsh test treats the sample with sulfuric acid and arsenic-free zinc. Even if there are minute amounts of arsenic present, the zinc reduces the trivalent arsenic (As 3+). Here are the two half-reactions:\n\nOxidation: Zn → Zn 2+ + 2 e −\n\nReduction: As O + 12 e − + 6 H + → 2 As 3− + 3 H O\n\nThey combine into this reaction:\n\nAs O + 6 Zn + 6 H + → 2 As 3− + 6 Zn 2+ + 3 H O\n\nIn an acidic medium, As 3− is protonated to form arsine gas (AsH), so with adding sulphuric acid (H SO) to each side of the equation and by eliminating the common ions:\n\nAs O + ",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

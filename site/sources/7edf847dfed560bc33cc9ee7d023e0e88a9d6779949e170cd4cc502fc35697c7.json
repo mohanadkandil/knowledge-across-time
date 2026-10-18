@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-a1b9e09d2554",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "led to conditions known as the Second Great Fire of London. Bomb damage revealed a section of wall at Noble Street, near the Museum of London.\n\nIn 1957, a 64-metre section of the wall was uncovered during works on the London Wall road; the section was then destroyed to accommodate the road changes and to make way for a new car park. An 11-metre section has been preserved.\n\nIn 1984, the Museum of London set up a Wall Walk from the Tower of London to the museum, using 23 tiled panels. A number of these have been destroyed in subsequent years. At Noble Street, the panels were replaced by etched glass panels. These were intended as a prototype for new panels along the entire walk, but no further replacements have been made. One of the largest and most readily accessed fragments of the wall stands just outside Tower Hill tube station, with a replica statue of the Emperor Trajan standing in front of it. There is a further surviving section preserved in the basement of the One America Square building. There are further remains in the basement of the Old Bailey.\n\nThe layout of the Roman and medieval walls have had a profound effect on the development of London, even down to the present day. The walls constrained the growth of the city, and the location of the limited number of gates and the route of the roads through them shaped development within the walls, and in a much more fundamental way, beyond them. With a few exceptions, the parts of the modern road network heading into the former walled area are the same as those which passed through the former medieval gates.\n\nPart of the",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    14560
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

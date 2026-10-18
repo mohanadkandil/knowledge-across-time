@@ -1,0 +1,36 @@
+{
+  "id": "bri-0744-fcdb217a9ba5:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0744-fcdb217a9ba5",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+  "text": "China.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+  "provenance": {
+    "page_id": "bri-0744-fcdb217a9ba5",
+    "row_index": 744,
+    "volume_id": "193696085",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+    "label": 0,
+    "sha256": "fcdb217a9ba5e3b917823cdc39f41c29fcfee28beaacefc676ceeef419d1b70f",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-0744-fcdb217a9ba5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0605,
+    0.1273,
+    0.1016,
+    0.1406
+  ],
+  "offsets": [
+    0,
+    6
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

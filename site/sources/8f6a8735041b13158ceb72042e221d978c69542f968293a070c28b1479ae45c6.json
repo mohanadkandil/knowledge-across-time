@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1151144-1352966900-03f7c35c232a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swan (disambiguation)",
+  "text": "own idiopathic disease\n\nSwan (nuclear primary), a prototype thermonuclear primary\n\nScottish Wide Area Network (SWAN), the secure network for Scotland’s public services\n\nState Wide Area Network, in the National e-Governance Plan of India\n\nHMAS Swan, several Royal Australian Navy ships\n\nHMS Swan, several British Royal Navy ships\n\nNautor's Swan, a line of Finnish luxury sailing yachts\n\nSwan boat (racing), a long and narrow human-powered boat\n\nSwan Boats (Boston, Massachusetts), a fleet of pleasure boats\n\nSwan Boats (Magic Kingdom), a ride at the Magic Kingdom, Walt Disney World, (1973–1983)\n\nSwan Hellenic, a cruise line\n\nSwan (sternwheeler), a stern-wheel steamboat\n\nUSS Swan, several United States Navy ships\n\nSwan Districts Football Club, an Australian rules football club based in Bassendean, Australia\n\nSwan Racing, a NASCAR racing team\n\nSwan United FC, a football club based in Swan Valley, Australia\n\nSydney Swans, an Australian rules football club\n\nSwan Hotel, Bedford, a pub in Bedfordshire\n\nSwan Inn, Dobcross, a pub in Saddleworth, Greater Manchester\n\nThe Swan Inn, Ruislip, former pub in the London Borough of Hillingdon\n\nSwan Inn, Westminster, a pub in London\n\nThe Swan Inn, Worlingworth, a pub in Suffolk\n\nSwan Theatre, Stratford-upon-Avon, a theatre belonging to the Royal Shakespeare Company\n\nThe Swan (theatre), in London\n\nThe Swan, Hammersmith, a pub in London\n\nThe Swan, Little Totham, a pub in Essex\n\nThe Swan, Tetsworth, a former inn in Oxfordshire\n\nThe Swan, West Wycombe, a pub in Buckinghamshire\n\nThe Swan, York, a pub in Yorkshire\n\nWycombe Swan, a theatre in High Wycombe",
+  "url": "https://en.wikipedia.org/wiki/Swan_(disambiguation)",
+  "revision_id": 1352966900,
+  "article_id": 1151144,
+  "section_path": "shared_text[0:4986]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a0fdd500947a3e69a27c09533d7647e283004f8100f83d90f5e8622bf49b95e7",
+    "source_row_idx": 7836,
+    "source_shard": "enwiki/data/enwiki_namespace_0_73.parquet",
+    "text_sha256": "ce12eb189ac8b4bbbf308f2031cc70dd8c6fa661916d18830351eda3ab77833e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352966900",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1151144",
+    "revision_id": "1352966900",
+    "retrieved_at": "2026-10-18T12:42:00.661063+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4986,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

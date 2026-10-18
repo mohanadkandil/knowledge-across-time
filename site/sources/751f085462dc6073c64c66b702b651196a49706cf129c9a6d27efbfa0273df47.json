@@ -1,0 +1,36 @@
+{
+  "id": "bri-2061-6248f3be377e:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2061-6248f3be377e",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+  "text": "About this time frame internal disorders broke out in Rebellion one part of Amerinis, and, as political actions render at Fridberg. every event differentiates to hear mutual barted, the fe-results secured their advertisers, though evidently without reason, of being the convivers and authors of the disturbance, the history of which was thus -A-Along the different object of taxation which preferred themselves to congrés during the fiflon of 1790, neon appeared now proper than the difficulties through-out the United States. As a revenue from this there could only be collected by an exotic, the short man was adopted. The duty was high, and the objekt once-ceptionable. But at all times this form of collecting a person has been unaccryable to the people in general. By fixing the duty and on the raw material, but on the manufactured commodity, the capital of the trailer is left deeply involved, and the prices to commonly renders life tendencies, to the southern) but from the right which, under this form of taxation, it is needling to cease upon the beyond officers, of enter up into private buildings, and of interfering with the operations theregoing on, it has always been submitted to with relatives at its first introduction. This isa, however, was peacefully dismissed to throughout the whole American continent, escaping in one quarter, that is to day, in the four welfare counties of Penelylvania beyond the Alleghay mountains, near the junction of the three great river. Alleghany, Yolongany, and Monmouthela, for the conditions at Net PLR forms the river Ohio. This difirit had been",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+  "provenance": {
+    "page_id": "bri-2061-6248f3be377e",
+    "row_index": 2061,
+    "volume_id": "191689063",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+    "label": 0,
+    "sha256": "6248f3be377e8f5a5ce7edae7a3016a4fe147caab749bad8e012ed5221d95805",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2061-6248f3be377e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.4531,
+    0.4023,
+    0.8359,
+    0.9008
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

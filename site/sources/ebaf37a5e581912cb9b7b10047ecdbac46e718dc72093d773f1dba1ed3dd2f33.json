@@ -1,0 +1,36 @@
+{
+  "id": "bri-2030-4f986deb2184:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2030-4f986deb2184",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 18 Part 2, RUS-SCR - EB.9",
+  "text": "\\begin{tabular}{cccc}\n & **Before Clerft.** & **Kings of Judah.** & **Kings of IJrael.**\\\\\nJonab, & Between 856 and 784. & & Jehu, and Jehoahar, accad- ing to Lloyd's, but Joah and Jeroboam the Second according to Blair.\\\\\nAmos, & Between 810 and 783. & Uzziah, chap. i. r. & Jeroboam the Second, chap. i. r.\\\\\nHofea, & Between 810 and 725. & Uzziah, Johtam, Abaz, the third year of Hezekiah. & Jeroboam the Second, chap. i. r.\\\\\nIfalah, & Between 810 and 698. & Uzziah, Johtam, Abaz, and Hezekiah, chap. i. r. and perhaps Manafleh. & \\\\\nJoel, & Between 810 and 660, or liter. & Uzziah, or poffibly Manaf- ich. & \\\\\nMicah, & Between 758 and 699. & Joham, Abaz, and Heza- kiah, chap. i. r. & Pekah and Hofa.\\\\\nNahum, & Between 720 and 698. & Probably towards the clofs of Hezekiah's reign. & \\multirow{3}{*}{}\\\\\nZephianlah, & Between 640 and 669. & In the eight of Joliah, chap. i. r. & \\\\\nJeremiah, & Between 628 and 586. & In the thirteenth year of Jolah. & \\\\\nHubakkuk, & Between 612 and 598. & Probably in the reign of Jehoinkim. & \\\\\nDaniel, & Between 626 and 534. & During all the Captivity. & \\\\\nObadiah, & Between 588 and 583. & Between the taking of Jera- liking by Nebendadezzer and the delineation of the Edomites by him. & \\\\\nEeckiel, & Between 595 and 536. & During part of the Capti- vity. & \\\\\nHaggai, & About 520 to 518. & After the return from Baby- lon. & \\\\\nZechariah, & From 520 to 518, or longer. & & \\\\\nMalachi, & Between 436 and 597. & & \\\\\n\\end{tabular}",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2030",
+  "provenance": {
+    "page_id": "bri-2030-4f986deb2184",
+    "row_index": 2030,
+    "volume_id": "192692195",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 18 Part 2, RUS-SCR - EB.9",
+    "label": 0,
+    "sha256": "4f986deb2184b8e874157e1e0bdb6c3ea9f5ca3e54c3c8fcbaa58221973ab9f7",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-2030-4f986deb2184.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2030",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1709,
+    0.1313,
+    0.7695,
+    0.832
+  ],
+  "offsets": [
+    0,
+    1476
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

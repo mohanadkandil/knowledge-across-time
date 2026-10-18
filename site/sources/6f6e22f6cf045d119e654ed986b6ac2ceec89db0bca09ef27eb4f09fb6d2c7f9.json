@@ -1,0 +1,44 @@
+{
+  "id": "wiki-56077778-1191935501-e3a1c77609f4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gunnery Division (Royal Navy)",
+  "text": "cellaneous Weapons Development (1941–1945)\n\nInspectorate of Anti-Aircraft Weapons and Devices (1940)\n\nWeapons Department (1962–1964)\n\nRoyal Navy Gunnery Training Schools\n\nHM Gunnery School, Devonport.\n\nHM Gunnery School, Portsmouth.\n\nHM Gunnery School, Sheerness.\n\nRoyal Navy Gunnery Ranges\n\nHM Gunnery Range, Eastney.\n\nHM Gunnery Range, Wembury.\n\nRoyal Navy Gunnery and Anti-Aircraft Training Ships\n\nHMS Caroline: Gunnery Training, Belfast.\n\nHMS Carrick: Gunnery Training, Greenock.\n\nHMS Chrysanthemum II: Gunnery Training ship, moored on the Thames, in London.\n\nHMS Claverhouse: Gunnery Training, Leith\n\nHMS Eaglet: Gunnery Training, Liverpool.\n\nHMS President: Gunnery Training, Thames Area, London.\n\nBoard of Admiralty, Naval Ordnance Department (1866–1917)\n\nBoard of Admiralty, Admiralty Naval Staff, Gunnery and Torpedo Division (1918–1920).\n\nBoard of Admiralty, Admiralty War Staff, Gunnery Division (1920–1941).\n\nBoard of Admiralty, Admiralty Naval Staff, Gunnery and Anti-Aircraft Warfare Division (1941–1964)\n\nThe primary source for this article is by Harley. Simon and Lovell Tony http://www.dreadnoughtproject.org/ Gunnery Division Royal Navy and http://www.dreadnoughtproject.org/tfs/index.php/Instructions for the Director of Naval Artillery and Torpedoes\n\nBlack, Nicholas (2009). The British Naval Staff in the First World War. Boydell Press. ISBN 9781843834427.\n\nFriedman, Norman (2014). Naval Anti-Aircraft Guns and Gunnery. Seaforth Publishing. ISBN 9781473853089.\n\nMackie, Colin. (2011). \"Royal Navy Senior Appointments from 1865\". http://www.gulabin.com.\n\nRodger N. A. M. (1979), T",
+  "url": "https://en.wikipedia.org/wiki/Gunnery_Division_(Royal_Navy)",
+  "revision_id": 1191935501,
+  "article_id": 56077778,
+  "section_path": "shared_text[0:10327]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 11106,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "26dddecf185bc53627e923b69c8da37449f4c35b504265db7051d1fd4d680dbd",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1191935501",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "56077778",
+    "revision_id": "1191935501",
+    "retrieved_at": "2026-10-18T12:36:25.525712+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10327,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

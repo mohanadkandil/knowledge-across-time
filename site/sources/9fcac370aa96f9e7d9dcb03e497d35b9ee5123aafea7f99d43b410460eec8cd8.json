@@ -1,0 +1,36 @@
+{
+  "id": "bri-0328-4588acdac3cf:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0328-4588acdac3cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+  "text": "21. _L Louane_, Leonardo Monkey. Black, with callotion behind, very large whistle heard, and very long tufed tail--23. _S. Gymalofar_, Harv-tipped B. Long, tailed, bearded, with colulates behind, rifup blind notifir, and schectail all--23. _Yeter_, Purple-faced M. Long-tailed, witch, with black bears--24. _Rolony_ Polkovny or Ralston. Born-tatalized, like iih; white beneath, with triangular face, furrounded by a white divided and cross--25. _S. Chiana_ Pinus and Spotted M. Long-tailed, blackibh, frechedk with white; the bar of the forehead and lizard growing, a potato form with a tunated band scrut the fore-head--26. _S. Naivia_, Long-nodel M. Long-tailed, blackibh's ply-p ath-coloured bereats, with long naked fish-colored faces. _S. Peregione_, Yellow ib M. Long-tailed, bearded, cineensely yellow, with black face and onto--28. _S. Salute_ Green Tue. Long, tailed, yellowish gray, with black face, and callions belined--29. _Zhlaya_, Mangbay on White-eyal M. Long-tailed, bearded, with black face, white eyelids, white frontal band, and the hair on the fore-head upple--20. _G Gehofer_ Multheck M. Long, tailed, blackibh rally, whithb breath, with bearded check and yellowblow crowns red eyelid and whittle marine--31. _S. Niltonen_ Willemed M. Long-tailed, beardife, thick, frechedk with white; the than of the hauled and teard growing, a potato form with a tunated band scrut the fore-head--26. _S. Naivia_, Long-nodel M. Long-tailed, olive coloured, bearded checks, and black ears, node, and foles--33. _S. Mason_ Negro M. Long-tailed, blackibh, free flyerfly fish-coloured face and br",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+  "provenance": {
+    "page_id": "bri-0328-4588acdac3cf",
+    "row_index": 328,
+    "volume_id": "192545786",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+    "label": 0,
+    "sha256": "4588acdac3cf6445b62cc57af5bf31589799caacfc5eebab02fdbedab2a528ad",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-0328-4588acdac3cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0225,
+    0.4367,
+    0.4502,
+    0.8781
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

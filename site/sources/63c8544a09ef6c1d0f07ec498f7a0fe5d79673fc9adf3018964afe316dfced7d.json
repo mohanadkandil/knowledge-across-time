@@ -1,0 +1,44 @@
+{
+  "id": "wiki-717244-1299345160-d9faf2cb7538",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julius Caesar (disambiguation)",
+  "text": "Julius Caesar (Gaius Julius Caesar, 100 BC – 44 BC) was a Roman general and statesman.\n\nJulius Caesar may also refer to:\n\nJulius Caesar (judge) (1557/8–1636), English judge and politician\n\nJulius Caesar (cricketer) (1830–1878), Surrey cricketer\n\nJulii Caesares, ancient Roman branch of the Julii gens\n\nGaius Julius Caesar (name)\n\nDrusus Julius Caesar (disambiguation)\n\nLucius Julius Caesar (disambiguation)\n\nSextus Julius Caesar (disambiguation)\n\nJulius C. Alford (Julius Caesar Alford, 1799–1863), American politician\n\nJulius Caesar Aranzi (1529–1589), Italian anatomist\n\nDon Julius Caesar d'Austria (1584–1609), illegitimate son of Holy Roman Emperor Rudolf II\n\nJulius C. Burrows (Julius Caesar Burrows, 1837–1913), American politician\n\nJulius Caesar Cantelmi (1457–after 1491), Roman Catholic bishop\n\nJulius Capaccio (Julius Caesar Capaccio, 1552–1631), learned Italian humanist\n\nJulius Caesar Chappelle (1852–1904), American politician\n\nJulius Caesar Czarnikow (1838–1909), British-German businessman\n\nJulius Caesar Herrera (born 1954), Filipino politician\n\nJulius Caesar Ibbetson (1759–1817), British painter\n\nJulius Caesar de Miranda (1906–1956), Surinamese politician\n\nJulius Caesar Scaliger (1484–1558), Italian physician\n\nJ. C. Strauss (Julius Caesar Strauss, 1857–1924), American photographer\n\nJules Bass (Julius Caesar Bass, 1935–2022), American director, composer and author\n\nJ. C. Watts (Julius Caesar Watts Jr., born 1957), American politician\n\nCultural depictions of Julius Caesar\n\nJulius Caesar (Shakespeare character), the title character in Shakespeare's play Julius Caesar\n\nGaius J",
+  "url": "https://en.wikipedia.org/wiki/Julius_Caesar_(disambiguation)",
+  "revision_id": 1299345160,
+  "article_id": 717244,
+  "section_path": "shared_text[0:2593]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 129301,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "a3d27d445896214bddb5902c320f43e124a15ef60c4642e90e1ae49e068100c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299345160",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "717244",
+    "revision_id": "1299345160",
+    "retrieved_at": "2026-10-18T12:39:40.280578+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2593,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

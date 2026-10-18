@@ -1,0 +1,49 @@
+{
+  "id": "wiki-1506160-1323010285-4820721ee226",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julian Symons",
+  "text": "ancis Quarles)\n\nKidnap Plot. Collected in Francis Quarles Investigates (Francis Quarles)\n\nBy the Sea. Collected in Francis Quarles Investigates (Francis Quarles)\n\nThe Hiding Place. Collected in Murder! Murder! (Francis Quarles)\n\nComedy in Venice. Collected in Murder! Murder! (Francis Quarles)\n\nLittle Man Lost. Collected in Murder! Murder! (Francis Quarles)\n\nThe Tigers of Subtopia. Collected in The Tigers of Subtopia\n\nThe Dupe. Collected in The Tigers of Subtopia\n\nSomebody Else. Collected in The Tigers of Subtopia\n\nThe Flowers that Bloom in the Spring. Collected in The Tigers of Subtopia\n\nThe Boiler. Collected in The Tigers of Subtopia\n\nThe Murderer. Collected in The Tigers of Subtopia\n\nThe Last Time. Collected in The Tigers of Subtopia\n\nThe Flaw. Collected in The Tigers of Subtopia\n\nThe Best Chess Player in the World. Collected in The Tigers of Subtopia\n\nExperiment in Personality. Collected in How to Trap a Crook\n\nA Theme for Hyacinth. Collected in How to Trap a Crook and The Tigers of Subtopia\n\n' Twixt the Cup and the Lip. Collected in How to Trap a Crook\n\nHow to Trap a Crook. Collected in How to Trap a Crook (Francis Quarles)\n\nThe Tiger's Stripe. Collected in How to Trap a Crook\n\nLove Affair. Collected in How to Trap a Crook and The Tigers of Subtopia\n\nThe Main Chance. Collected in How to Trap a Crook\n\nThe Sensitive Ears of Mr Small. Collected in How to Trap a Crook\n\nPickup on the Dover Road. Collected in How to Trap a Crook\n\nThe Case of the Frightened Promoter. (London) Evening Standard, 9 May 1950. Collected in Murder! Murder! (Francis Quarles)\n\nAffection Unlimited. (Lo",
+  "url": "https://en.wikipedia.org/wiki/Julian_Symons",
+  "revision_id": 1323010285,
+  "article_id": 1506160,
+  "section_path": "shared_text[0:30404]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 17869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "c1943e2d6de5cd44100db2cea968bf9e3a781fa85f0cee9c4f3d7ad3cec48c6d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323010285",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1506160",
+    "revision_id": "1323010285",
+    "retrieved_at": "2026-10-18T12:24:02.424223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 10404,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wiki-16959258-1270912128-00977f6b674a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of vascular plants of the Karelian Isthmus",
+  "text": "d, common\n\nSisymbrium wolgense – introduced, rare\n\nSubularia aquatica\n\nThlaspi alpestre – introduced\n\nThlaspi arvense – introduced, common\n\nTurritis glabra – common\n\nCampanula cervicaria\n\nCampanula glomerata - common\n\nCampanula latifolia\n\nCampanula patula - common\n\nCampanula persicifolia - common\n\nCampanula rapunculoides - introduced\n\nCampanula rotundifolia - common\n\nCampanula trachelium\n\nJasione montana\n\nHumulus lupulus - common\n\nCannabis ruderalis - introduced, rare\n\nLinnaea borealis - common\n\nLonicera xylosteum - common\n\nArenaria serpyllifolia\n\nCerastium arvense - common\n\nCerastium holosteoides - common\n\nCoccyganthe flos-cuculi - common\n\nDianthus arenarius\n\nDianthus deltoides - common\n\nGypsophila fastigiata - rare\n\nHerniaria glabra\n\nHonckenya peploides\n\nMelandrium album - introduced, common\n\nMelandrium dioicum - common\n\nMoehringia trinervia - common\n\nMyosoton aquaticum\n\nOberna behen - common\n\nPsammophiliella muralis introduced\n\nSagina nodosa\n\nSagina procumbens - common\n\nScleranthus annuus - common\n\nScleranthus perennis - rare\n\nSilene nutans - common\n\nSilene rupestris - rare\n\nSilene tatarica - introduced, rare\n\nSpergula arvensis - introduced, common\n\nSpergula morisonii\n\nSpergularia marina - rare\n\nSpergularia rubra - common\n\nStellaria alsine\n\nStellaria crassifolia - rare\n\nStellaria graminea - common\n\nStellaria holostea - common\n\nStellaria longifolia\n\nStellaria media - common\n\nStellaria nemorum - common\n\nStellaria palustris - common\n\nViscaria alpina\n\nViscaria viscosa - common\n\nCeratophyllum demersum - common\n\nHypericum maculatum - common\n\nHypericum perforatum - common\n\nCaly",
+  "url": "https://en.wikipedia.org/wiki/List_of_vascular_plants_of_the_Karelian_Isthmus",
+  "revision_id": 1270912128,
+  "article_id": 16959258,
+  "section_path": "shared_text[0:28917]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    15840,
+    17440
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 136721,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "5584b21d828753c82494883fcb976e4d0be4ef2e5c9c1aae87417742c99c0703",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1270912128",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16959258",
+    "revision_id": "1270912128",
+    "retrieved_at": "2026-10-18T12:31:21.924957+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8917,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

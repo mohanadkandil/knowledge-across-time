@@ -1,0 +1,44 @@
+{
+  "id": "wiki-81691045-1347620770-81723ca85798",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Brooklyn Bridge architectural drawings",
+  "text": "ect of \"caisson disease\", aka \"the bends\". He completed the project in absentia with the help of his wife Emily Warren Roebling, from an apartment in Columbia Heights near the work site, from which he continued to produce architectural drawings and plans.\n\nNearly 100 years after the bridge was built, in 1967, a city engineer named Frank Valentine came to a city carpentery shop on Kent Avenue underneath the Williamsburg Bridge, to look for original drawings of an item that was needed for repair work. While going through the prints stored there, he accidentally came across the entire collection of the Brooklyn Bridge drawings, which until that time were not considered to be of great consequence, and at one point had even been ordered to be destroyed, to save space. The documents were stored in huge wooden file drawers as well as piled in rolls, all with an accumulation of decades of dust and dirt. Most of them were done on linen and heavy paper with canvas backing. They include detailed plans and images of components of the bridge and the equipment used, to include cable-making equipment, boiler houses, compressors, hoisting apparatus, elevation, depth, cables, piers, drainage, masonry, tram lines, railroad lines, and pedestrian walkways.\n\nValentine reported the find to his immediate supervisor, who encouraged him to keep sorting through them, but it was not until the mid 1970s that the value of the drawings was appreciated. In an article in 1975, The New York Times described the documents as a \"scientific bonanza, a remarkable testimony to the master bridge builder.\" The Tra",
+  "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge_architectural_drawings",
+  "revision_id": 1347620770,
+  "article_id": 81691045,
+  "section_path": "shared_text[0:5696]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 69058,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "104d68ece384820ddbaf8056afb3926fe89d384ec577c5ee357fb3d310f8dd1f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347620770",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "81691045",
+    "revision_id": "1347620770",
+    "retrieved_at": "2026-10-18T12:23:41.186778+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5696,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

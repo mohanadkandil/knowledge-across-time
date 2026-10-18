@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2377911-1339123781-d49b31403675",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cassiterides",
+  "text": "ead; Pénestin and the tin headland are just north of them; and there can be no doubt that the famous tin islands were there.\" De Beer confirms the location from Strabo: the Cassiterides are ten islands in the sea, north of the land of the Artabrians in the northwest corner of Hispania.\n\nE. Thomas from the French BRGM showed in a 2004 report that tin mines were probably operated by the Romans at La Hye, near Ploërmel. This tin might have transited down the Oust river and the Vilaine river to the sea, where it could be transferred on seagoing ships, possibly at Pénestin, giving some support to de Beer's suggestion above.",
+  "url": "https://en.wikipedia.org/wiki/Cassiterides",
+  "revision_id": 1339123781,
+  "article_id": 2377911,
+  "section_path": "shared_text[0:7826]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    7826
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 82849,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "cbf597aeaf716be7ba56a0cb0c05de4b74a9ec71a726b648128d2495c6c48808",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339123781",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2377911",
+    "revision_id": "1339123781",
+    "retrieved_at": "2026-10-18T12:39:41.290107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7826,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

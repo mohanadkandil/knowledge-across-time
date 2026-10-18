@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-28124d2884c0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": " strategy of introducing new products with the Britannica name. In March 2012, Britannica's president, Jorge Cauz, announced that it would not produce any new print editions of the encyclopaedia, with the 2010 15th edition being the last. The company will focus only on the online edition and other educational tools.\n\nBritannica ' s final print edition was in 2010, a 32-volume set. Britannica Global Edition was also printed in 2010, containing 30 volumes and 18,251 pages, with 8,500 photographs, maps, flags, and illustrations in smaller \"compact\" volumes, as well as over 40,000 articles written by scholars from across the world, including Nobel Prize winners. Unlike the 15th edition, it did not contain Macro- and Micropædia sections, but ran A through Z as all editions up through the 14th had. The following is Britannica ' s description of the work:\n\nThe editors of Encyclopædia Britannica, the world standard in reference since 1768, present the Britannica Global Edition. Developed specifically to provide comprehensive and global coverage of the world around us, this unique product contains thousands of timely, relevant, and essential articles drawn from the Encyclopædia Britannica itself, as well as from the Britannica Concise Encyclopedia, the Britannica Encyclopedia of World Religions, and Compton's by Britannica. Written by international experts and scholars, the articles in this collection reflect the standards that have been the hallmark of the leading English-language encyclopedia for over 240 years.\n\nIn 2020, Encyclopædia Britannica, Inc. released the Britannica All N",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    14560
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

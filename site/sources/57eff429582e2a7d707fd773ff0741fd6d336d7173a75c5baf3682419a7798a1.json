@@ -1,0 +1,44 @@
+{
+  "id": "wiki-29883980-1286933005-138fa45c2e0f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Thomas Clater",
+  "text": "Thomas Clater (1789–1867) was a painter.\n\nClater was the third son of Francis Clater, farrier, of East Retford, Nottinghamshire, and Anne his wife. Thomas Clater was baptised on 9 June 1789 at East Retford.\n\nHe first exhibited in London in 1819 at the British Institution, sending two pictures, 'Children at a Spring' and 'Puff and Dart, or the Last Shilling—a Provincial Game,’ and at the Royal Academy, to which he sent 'The Game at Put, or the Cheat detected.' In 1820 he exhibited at the Royal Academy a portrait of his brother John Clater, and in 1823 portraits of Mr. C. Warren and of his father Francis Clater; the latter picture was subsequently engraved by Lupton.\n\nClater continued to send many pictures to the Royal Academy, British Institution. Suffolk Street Gallery, and all the principal exhibitions in the country every year up to 1863. In 1843 he was elected a fellow of the Society of British Artists. They were usually of a quietly humorous character, scenes from domestic and provincial life, and executed in a manner based on that of the Dutch genre painters. In the Walker Art Gallery at Liverpool there is a picture by him representing 'A Chief of Gipsies dividing Spoil with his Tribe.' Others which attracted attention were 'The Fortune-Teller Dressing for a Masquerade,’ 'The Morning Lecture,’ 'Christmas in the Country,’ 'Sir Roger de Coverley,’ 'The Music Lesson,’ 'The Smugglers' Cave,’ 'Sunday Morning,’ 'Preparing for the Portrait,’ &c. Clater resided for the latter portion of his life in Chelsea.\n\nSo prolific a painter as he was is always liable to incur difficultie",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Clater",
+  "revision_id": 1286933005,
+  "article_id": 29883980,
+  "section_path": "shared_text[0:1972]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 83769,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "378ba3a6e874291eb810035295a210b0e757e699e4a39c6afd19a7b73efe5841",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1286933005",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "29883980",
+    "revision_id": "1286933005",
+    "retrieved_at": "2026-10-18T12:36:19.955708+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1972,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

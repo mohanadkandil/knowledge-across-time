@@ -1,0 +1,44 @@
+{
+  "id": "wiki-22812-1305487909-5a6d754fdf4e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Octavian (disambiguation)",
+  "text": "r and activist\n\nOctavian Popescu (born 1938), Romanian footballer\n\nOctavian Popescu (born 1985), Romanian footballer\n\nOctavian Smigelschi (1866–1912), Austro-Hungarian Romanian painter\n\nOctavian Codru Tăslăuanu (1876-1942), Romanian magazine editor and politician\n\nOctavian Țîcu (born 1972), Moldovan politician\n\nOctavian Utalea (1868–?), Romanian politician\n\nOctavian Vintilă (born 1938), Romanian fencer\n\nOctavian Zidaru (born 1953), Romanian fencer\n\nOctavian, birth name of Pope John XII\n\nOctavian, the Antipope Victor IV (1159–1164)",
+  "url": "https://en.wikipedia.org/wiki/Octavian_(disambiguation)",
+  "revision_id": 1305487909,
+  "article_id": 22812,
+  "section_path": "shared_text[0:1976]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1976
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 49232,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "eb95ad575a2dd1c95c3d6764c2cadcc317e238be4493224233834de48c9aee19",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1305487909",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "22812",
+    "revision_id": "1305487909",
+    "retrieved_at": "2026-10-18T12:35:54.235083+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1976,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

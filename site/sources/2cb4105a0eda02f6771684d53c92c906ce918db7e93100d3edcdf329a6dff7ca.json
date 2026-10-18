@@ -1,0 +1,44 @@
+{
+  "id": "wiki-531186-1351433388-5baf9db84529",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Regius Professor",
+  "text": "egius Professor of Laws (1668)\n\nRegius Professor of Feudal and English Law (1761–1934)\n\nRegius Professor of Greek (1761)\n\nRegius Professor of Surgery (1852/1868)\n\nRegius Professor of Life Sciences (2013)\n\nRegius Professor of Public Law and the Law of Nature and Nations (1707)\n\nRegius Professor of Rhetoric and English Literature (1762)\n\nRegius Professor of Astronomy (1785)\n\nRegius Professor of Clinical Surgery (1803)\n\nRegius Professor of Medical Science\n\nRegius Professor of Forensic Medicine (1807)\n\nRegius Professor of Sanskrit (1862) (now the Regius Professor of South Asian Language, Culture and Society)\n\nRegius Professor of Engineering (1868)\n\nRegius Professor of Geology (1871)\n\nRegius Chair of Plant Science\n\nThe first Professor of Greek (1708) at Edinburgh, Wiliam Scott Primus, was referred to with the honorific 'Regius Professor' but was, ultimately, unable to secure a grant from the Crown. However, both of the inaugural professors of Greek and Humanity at Edinburgh were appointed by Royal Warrant.\n\nRegius Professor of Political Science (2013)\n\nRegius Professor of Medicine and Therapeutics (1637/1713)\n\nRegius Professor of Materia Medica (1831–1989) (merged with the Regius chair in Medicine and Therapeutics)\n\nRegius Professor of Law (1713)\n\nRegius Professor of Anatomy (1718)\n\nRegius Professor of Astronomy (1760)\n\nRegius Professor of Zoology (1807)\n\nRegius Professor of Obstetrics and Gynaecology (1815)\n\nRegius Professor of Surgery (1815)\n\nRegius Professor of Chemistry (1817)\n\nRegius Professor of Botany (1818)\n\nRegius Professor of Forensic Medicine (1839)\n\nRegius Professor ",
+  "url": "https://en.wikipedia.org/wiki/Regius_Professor",
+  "revision_id": 1351433388,
+  "article_id": 531186,
+  "section_path": "shared_text[0:6133]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "236ff3663033d64cb75517a4df05bcd42dc6ef59325ee86bdd71d9a96771eacd",
+    "source_row_idx": 11733,
+    "source_shard": "enwiki/data/enwiki_namespace_0_59.parquet",
+    "text_sha256": "ad8789f8447176654d8ed31a0a02fbfedd61e3338b0ea5cf229f75324c4540a8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351433388",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "531186",
+    "revision_id": "1351433388",
+    "retrieved_at": "2026-10-18T12:21:23.636261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6133,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

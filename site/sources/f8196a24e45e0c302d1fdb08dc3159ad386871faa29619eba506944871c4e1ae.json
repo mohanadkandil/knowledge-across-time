@@ -1,0 +1,36 @@
+{
+  "id": "bri-0494-1a757f9cb1e5:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0494-1a757f9cb1e5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "text": "by the debt, or deed, of any of the heirs succeeding thereto, in prejudice of the substitutes. It was long doubted, whether such tailzies ought to be effected, even where the superior’s consent was obligated; be cause they mark the property of estates, and created a perpetuity of lifecents. They were first explicitly antherized by 1485, c. 22. By this status, the truth must be registered in a special register established for that purpose; and the irritant and resulative clauses must be inserted, not only in the promocatories, precepts as security, by which the tailzies are first contested, but in all the after conveyances thereof; other wise they can have no force against singular successors. But a tailzie, even without those recipients, is the against the heir of the granter, or against the institute who accepts of it. I has been found, that an entail though completed by interference before the act 1485, was infectical, because not recorded in terms of the act.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+  "provenance": {
+    "page_id": "bri-0494-1a757f9cb1e5",
+    "row_index": 494,
+    "volume_id": "192984257",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+    "label": 0,
+    "sha256": "1a757f9cb1e56f46b1937b849db98e86309900575fbe0a9f92cfcd391ec7f8bc",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0494-1a757f9cb1e5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1201,
+    0.057,
+    0.5078,
+    0.3109
+  ],
+  "offsets": [
+    0,
+    976
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

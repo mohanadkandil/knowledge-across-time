@@ -1,0 +1,44 @@
+{
+  "id": "wiki-46863701-1331212470-8379751b50cd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Volatolomics",
+  "text": "Volatolomics is a branch of chemistry that studies volatile organic compounds (VOCs) emitted by a biological system, under specific experimental conditions.\n\nAccording to the Oxford English Dictionary, the suffix ‘omics’ refers to ‘the totality of some sort’. In biology, ‘omics’ techniques are used for the high-throughput analysis of DNA sequences and epigenetic modifications (genomics), mRNA and miRNA transcripts (transcriptomics), expressed proteins (proteomics), as well as synthesised metabolites (metabolomics) in a biological system (cell, tissue, organism, etc.) under a given set of experimental conditions.\n\nDue to the high number of variables that are measured simultaneously, these techniques provide large and complex datasets that require adapted tools for data analysis and interpretation.\n\nThe European Council directive 1999/13/EC defines volatile organic compounds (VOCs) as “ any organic compound having at 293.15 K a vapor pressure of 0.01 kPa or more, or having a corresponding volatility under the particular conditions of use ”.\n\nIn our daily life, these molecules are notably responsible for the flavor of food products, as well as of the fragrance of essential oils used in the cosmetics industry.\n\nIn nature, these molecules are produced by bacteria and fungi.\n\nThey are also synthesized by plants (flowers, fruits, leaves and roots) and animals (humans, insects, etc.).\n\nThe profiling of VOCs emitted by living organisms takes an increasing importance in various scientific domains like in medicine, in food sciences or in chemical ecology.\n\nFor instance, in medicine, n",
+  "url": "https://en.wikipedia.org/wiki/Volatolomics",
+  "revision_id": 1331212470,
+  "article_id": 46863701,
+  "section_path": "shared_text[0:2111]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 116861,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "474e7adb2b2ab4e2db1324a35b8eeb03dc3f6ceeb0527fd40bd1941c8f832b67",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1331212470",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "46863701",
+    "revision_id": "1331212470",
+    "retrieved_at": "2026-10-18T12:40:46.820830+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2111,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

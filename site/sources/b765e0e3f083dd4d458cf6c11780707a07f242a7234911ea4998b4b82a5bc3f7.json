@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3738755-1337301720-0a96bee2a7e8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tertiary",
+  "text": "Tertiary (from Latin, meaning \"third\" or \"of the third degree/order\") may refer to:\n\nTertiary period, an obsolete geologic period spanning from 66 to 2.6 million years ago\n\nTertiary (chemistry), a term describing bonding patterns in organic chemistry\n\nTertiary care, specialized consultative healthcare\n\nTertiary color, a color made up by mixing one primary color with one secondary color, in a given color space\n\nTertiary consumer, in ecology\n\nTertiary education, educational levels following the completion of secondary education such as university or trade school\n\nTertiary feathers or tertials, feathers attached to humerus or inner portion of the wings of birds\n\nTertiary sector of the economy, or the service sector\n\nTertiary source, in research\n\nTertiary stress, a proposed level of stress in phonetics\n\nIn biochemistry, the tertiary structure of a protein is its overall shape, also known as its fold\n\nTertiary, a member of a third order religious group",
+  "url": "https://en.wikipedia.org/wiki/Tertiary",
+  "revision_id": 1337301720,
+  "article_id": 3738755,
+  "section_path": "shared_text[0:961]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    961
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 75622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "204594a9e19ae8e2bf9053555829c9c8a4b3ce46f9ed4e89211171eec21dc0ee",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337301720",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3738755",
+    "revision_id": "1337301720",
+    "retrieved_at": "2026-10-18T12:29:38.025086+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 961,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

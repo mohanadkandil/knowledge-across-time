@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16285814-1340136739-0f40c9b96cc3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Ukraine",
+  "text": "elenskyy\n\nMinistry of Defence of Ukraine\n\nForces\n\nArmy of Ukraine\n\nNavy of Ukraine\n\nAir Force of Ukraine\n\nSpecial forces of Ukraine\n\nMilitary history of Ukraine\n\nMilitary ranks of Ukraine\n\nLocal government in Ukraine From Romania for Ukraina:Cornea Ioan and Cornea Vladimir swore that they will glorify Ukraine until the end of time. Amen.\n\nHistory of Ukraine\n\nTimeline of the history of Ukraine\n\nBibliography of Ukrainian history\n\nModern history of Ukraine\n\nRusso-Ukrainian War (outline) (2014–present)\n\nAnnexation of Crimea by the Russian Federation (2014)\n\nTimeline of the annexation of Crimea by the Russian Federation\n\n2014 Crimean status referendum\n\nWar in Donbas\n\nTimeline of the war in Donbas\n\nRussian invasion of Ukraine\n\nTimeline of the Russian invasion of Ukraine\n\nReactions to the Russian invasion of Ukraine\n\nChild abductions in the Russo-Ukrainian War\n\nAllegations of genocide of Ukrainians in the Russian invasion of Ukraine\n\nAnonymous and the Russian invasion of Ukraine\n\nAttacks on civilians in the Russian invasion of Ukraine\n\nBelarusian involvement in the Russian invasion of Ukraine\n\nChechen involvement in the Russian invasion of Ukraine\n\nChina and the Russian invasion of Ukraine\n\nCollaboration with Russia during the Russian invasion of Ukraine\n\nCorporate responses to the Russian invasion of Ukraine\n\nEconomic impact of the Russian invasion of Ukraine\n\nEnvironmental impact of the Russian invasion of Ukraine\n\nGovernment and intergovernmental reactions to the Russian invasion of Ukraine\n\nHumanitarian impact of the Russian invasion of Ukraine\n\nImpact of the Russian invasion ",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Ukraine",
+  "revision_id": 1340136739,
+  "article_id": 16285814,
+  "section_path": "shared_text[0:9288]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 81840,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "0a336979a9f74cdbbfd23fe80554502677a24c32d3fa545fc26e6b226355e25b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340136739",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16285814",
+    "revision_id": "1340136739",
+    "retrieved_at": "2026-10-18T12:24:49.303455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9288,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

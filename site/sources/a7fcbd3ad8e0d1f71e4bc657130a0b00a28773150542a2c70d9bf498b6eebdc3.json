@@ -1,0 +1,44 @@
+{
+  "id": "wiki-494100-1338037541-d9aad131f3f1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of tectonic plates",
+  "text": "Pacific plate\n\nBalmoral Reef plate – Small tectonic plate in the south Pacific north of Fiji\n\nBird's Head plate – Small tectonic plate in New Guinea\n\nConway Reef plate – Small tectonic plate in the south Pacific west of Fiji\n\nEaster microplate – Very small tectonic plate to the west of Easter Island\n\nGalápagos microplate – Very small tectonic plate at the Galápagos triple junction\n\nJuan de Fuca plate – Small tectonic plate in the eastern North Pacific – 250,000 km 2\n\nExplorer plate – Northeast Pacific tectonic plate\n\nGorda plate – One of the northern remnants of the Farallon plate\n\nJuan Fernández plate – Very small tectonic plate in the southern Pacific Ocean\n\nManus plate – Tiny tectonic plate northeast of New Guinea\n\nNorth Bismarck plate – Small tectonic plate in the Bismarck Sea north of New Guinea\n\nNorth Galápagos microplate – Very small tectonic plate at the Galápagos triple junction\n\nSolomon Sea plate – Minor tectonic plate near the Solomon Islands archipelago in the Pacific Ocean\n\nSouth Bismarck plate – Small tectonic plate in the southern Bismarck Sea\n\nTrobriand plate – Small tectonic plate located to the east of the island of New Guinea\n\nPhilippine Sea plate\n\nMariana plate – Small tectonic plate west of the Mariana Trench\n\nPhilippine Mobile Belt, also known as Philippine microplate – Tectonic boundary\n\nScotia plate\n\nSouth Sandwich plate – Small tectonic plate south of the South American plate\n\nSomali plate\n\nMadagascar plate – Tectonic plate formerly part of the supercontinent Gondwana\n\nSouth American plate\n\nAltiplano plate\n\nFalklands microplate\n\nNorth Andes plate – ",
+  "url": "https://en.wikipedia.org/wiki/List_of_tectonic_plates",
+  "revision_id": 1338037541,
+  "article_id": 494100,
+  "section_path": "shared_text[0:16157]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 22900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "e35f46b80bf3abbae1b6b97429e6cab10fcdd00dc57bfddf341217e550cf4b85",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338037541",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "494100",
+    "revision_id": "1338037541",
+    "retrieved_at": "2026-10-18T12:28:28.120096+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 16157,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

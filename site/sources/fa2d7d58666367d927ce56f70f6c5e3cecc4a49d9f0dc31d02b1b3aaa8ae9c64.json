@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "Early in 1810 the cause of independence in Venezuela assumed its beyond the Apostles, like Moriblasseand the royalist divisions of La Forve, Galataki, and Morales, and advanced on San Fernando de Apur, which, although exeuty fordled, as the strongest position demanding the plains west of the Orinoco, the patriots were obliged to abandon all of destroy it by fire, as it was used to say, a face of 5000 marchic again as it said that yet needed behind the Apur and Aranco, having nearly assured their families and other values and the legom of Co- snatch, on the banks of the Orinoco. Bolters, with the patriot ministry and artillery, visited to a place of security on the opposite side of the Orinoco, such forces being useless on these plains. The whole of the patriotavaly were left under the command of the intepal Franz, who had also will him some of the British troops who had recently opposed the cause of independence and who with his followers nobly acquitted themselves of the duties-impulsed upon them. Face with his army crossed the Apur",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1514,
+    0.6906,
+    0.5479,
+    0.9211
+  ],
+  "offsets": [
+    0,
+    1049
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

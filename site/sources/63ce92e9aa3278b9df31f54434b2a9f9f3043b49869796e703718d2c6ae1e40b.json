@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3317736-1340089899-c5facc4eb9e4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint mark",
+  "text": "A mint mark is a letter, symbol or an inscription on a coin indicating the mint where the coin was produced. It is distinct from a mintmaster mark, the mark of the mintmaster.\n\nMint marks were first developed to locate a problem. If a coin was underweight, or overweight, the mint mark would immediately tell where the coin was minted, and the problem could be located and fixed. Another problem which could occur would be a dishonest mint official debasing the coin, or putting less precious metal in the coin than specified. The first mint marks, called \"Magistrate Marks\" were developed by the Greeks, and named the Magistrate in charge of producing that coin. Debasing a coin, or otherwise tampering with it, was a very serious crime, often punishable by death in many civilizations. For example, in 1649, the directors of the Spanish colonial American Mint at Potosí, in what is today Bolivia, were condemned to death for seriously debasing the coinage. The initials of the assayer as well as the mint mark were immediate identifiers when the coins were inspected.\n\nIn some cases the symbols found in the field of ancient Greek coins indicated mints, not magistrates. Mints in territories conquered by Alexander the Great struck coins with the types he used in Macedon but marked with a local symbol. For example, Rhodes struck coins with Alexander's types marked with a rose, a local symbol previously used on its own coins.\n\nA reform of Diocletian made mint marks a regular feature of ancient Roman coinage. These mint marks were placed at the bottom of the reverse of the coin and contained t",
+  "url": "https://en.wikipedia.org/wiki/Mint_mark",
+  "revision_id": 1340089899,
+  "article_id": 3317736,
+  "section_path": "shared_text[0:9990]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 42204,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "ffd911e1f1ff0e17c7001481d703f5040fdb330b7ec6a5b5a95a2da948bfa811",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340089899",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3317736",
+    "revision_id": "1340089899",
+    "retrieved_at": "2026-10-18T12:37:25.086600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9990,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

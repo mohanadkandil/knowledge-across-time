@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7206824-1345019337-51a5823cb396",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Truck scale",
+  "text": "tended by the manufacturer for use in commercialapplications where products are sold by weight. NTEP Approved is also known as Legal for Trade or complies with Handbook 44. NTEP scales are commonly used for applications ranging from weighing coldcuts at the deli, to fruit at the roadside farm stand, shipping centers for determining shipping cost to weighing gold and silver and more.\n\nA rail weighbridge is used to weigh rollingstock including railroad cars, railroad cars, goods wagons and locomotives, empty or loaded. When loaded, the net weight of the cargo is the gross weight less the tare weight when known. These are calibrated using scale test cars, which are often old freight cars rebuilt to have a very precise and exact weight. It is also used to weigh trams.\n\nThere are different types, but all of them have electronic sensors built into the track that measure the weight. All designs have in common that there must be a sufficient approach and departure distance in front of and behind the respective scale. All of them can measure independently of the direction of travel and whether the train is being pushed or pulled.\n\nIn principle, a distinction is made between three different types of construction:\n\nThe dynamic weighbridge consists of one or more weighbridges that can be connected together. The construction of the weighbridge is similar to the static track scales with load cells and weighing platform. The rails are applied to the weighing platform and are designed with rail bevelling. Rail switches are integrated into the rails to detect the position of the wagons on t",
+  "url": "https://en.wikipedia.org/wiki/Truck_scale",
+  "revision_id": 1345019337,
+  "article_id": 7206824,
+  "section_path": "shared_text[0:9536]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "825834ec9a34e3b6f89f1890ba2d5935d8a31e2d3ae923ea571f350dbe932a82",
+    "source_row_idx": 55199,
+    "source_shard": "enwiki/data/enwiki_namespace_0_17.parquet",
+    "text_sha256": "6ac42e7ab88f2c6e923996ecee4b67e6b27c85b70db86a67270133cf867c0e17",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345019337",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7206824",
+    "revision_id": "1345019337",
+    "retrieved_at": "2026-10-18T12:21:15.999149+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9536,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

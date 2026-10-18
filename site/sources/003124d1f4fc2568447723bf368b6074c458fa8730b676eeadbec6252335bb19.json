@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7535-1332241235-bf9478b813a7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Commodore",
+  "text": "\n\nHudson Commodore, an automobile produced from 1941 to 1952 in the US by Hudson Motor Car Company\n\nOpel Commodore, an automobile produced from 1967 to 1982 in Germany by Adam Opel AG\n\nHolden Commodore, an automobile produced from 1978 to 2017 in Australia by the Holden division of General Motors\n\nCommodore (shipwreck), an American steamboat shipwrecked off the coast of Florida\n\nCommodore 17, an American sailboat design\n\nUSS Commodore, the name of various United States Navy ships\n\nConsolidated Commodore, a flying boat used for passenger travel in the 1930s\n\nCommodore International (also named Commodore Business Machines), a computer company that operated from 1954 to 1994\n\nCommodore 64, an 8-bit home computer introduced in January 1982 by Commodore International\n\nCommodore USA, a computer company that operated from 2010 to 2013 after purchasing the classic brand name\n\nSeveral genera or species of brush-footed butterflies, in particular:\n\nPrecis\n\nAuzakia danava\n\nJunonia artaxia\n\nVanderbilt Commodores, intercollegiate athletics teams for Vanderbilt University",
+  "url": "https://en.wikipedia.org/wiki/Commodore",
+  "revision_id": 1332241235,
+  "article_id": 7535,
+  "section_path": "shared_text[0:2513]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2513
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 9016,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "a168544dcbce2b3a81ad76863030921d15b1286b253718075f60f8adfb28dbe7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1332241235",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7535",
+    "revision_id": "1332241235",
+    "retrieved_at": "2026-10-18T12:31:19.453589+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2513,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

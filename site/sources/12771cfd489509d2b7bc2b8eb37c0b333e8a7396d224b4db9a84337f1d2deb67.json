@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6115284-1292078736-4e5303a6f06f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Vomer flap surgery",
+  "text": "omer flap technique in the nasal lining of patients with cleft palate. A study that compared the effects of vomerine flap closure of the hard palate at the time of lip repair with non-closure of the hard palate in subjects with a unilateral cleft lip and palate found that the decrease of alveolar arch gap width at palate repair (6 months) in the vomerine flap group was significantly more than the decrease observed in the non-vomerine flap group, and there was no significant decrease in the anterior and posterior arch width or anteroposterior length of the hard palate in the vomerine flap group compared with the non-vomerine flap group (Maggiulli et al., 2014).\n\nFew advantages of the vomer flap procedure include the relative simple execution compared to other palatoplasties, amount of surgery time, and similarity between the vomer tissue and the nasal mucosa. A major disadvantage of the vomer flap surgery is the varying size and visibility of the vomer in different patients. If the vomer is not visible or too small to cover the cleft, the procedure cannot be done. Another disadvantage of the use of the vomer flap in the oral cavity is that the vomer tissue does not aesthetically match the oral mucosa. The color and texture of the vomer mucosa matches the nasal mucosa much better than the oral mucosa. Sometimes, patients are displeased and uncomfortable with the visible vomer flap in the oral cavity.",
+  "url": "https://en.wikipedia.org/wiki/Vomer_flap_surgery",
+  "revision_id": 1292078736,
+  "article_id": 6115284,
+  "section_path": "shared_text[0:2861]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2861
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 26968,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "4001011b0944cd1dd05146da9b00ea968be5e97ebf3325b1e9b4a645bec03be8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1292078736",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6115284",
+    "revision_id": "1292078736",
+    "retrieved_at": "2026-10-18T12:21:57.789138+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2861,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

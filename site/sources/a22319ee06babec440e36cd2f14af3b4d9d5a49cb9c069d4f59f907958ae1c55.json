@@ -1,0 +1,44 @@
+{
+  "id": "wiki-67618221-1326416212-ab570d339832",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "2021–22 Mohammedan SC (Dhaka) season",
+  "text": "ganj MFS in the away match.\n\nOn 25 April Dhaka Mohammedan have drew by 1–1 goals in the away game versus Sheikh Russel KC.\n\nOn 1 May Dhaka Mohammedan have won against Swadhinata KS by 3–2 at home ground.\n\nOn 8 May Dhaka Mohammedan have drew by 3–3 goals against Chittagong Abahani at home venue.\n\nOn 12 May Dhaka Mohammedan have lost to Saif Sporting Club by 1–3 goals at home ground.\n\nOn 22 June Dhaka Mohammedan have lost against Dhaka Abahani by 2–4 goals at home venue.\n\nOn 27 June Dhaka Mohammedan have won versus Sheikh Jamal DC the score 3–1 goals at home ground.\n\nOn 2 July Dhaka Mohammedan have drew versus Bashundhara Kings by 1–1 goals at home stadium.\n\nOn 15 July Dhaka Mohammedan have won by 3–0 goals against Uttar Baridhara Club at home ground.\n\nOn 21 July Dhaka Mohammedan have lost against Muktijoddha Sangsad KC 2–1 goals in the away match.\n\nOn 27 July Dhaka Mohammedan have drew against Bangladesh Police FC by 1–1 goals in the away match.\n\nOn 2 August Dhaka Mohammedan have won versus Rahmatganj MFS by 7–0 goals in the home game.\n\nMohammedan SC squad for 2021–22 season.\n\nAs of 24 November 2021\n\nNote: Flags indicate national team as defined under FIFA eligibility rules; some limited exceptions apply. Players may hold more than one non-FIFA nationality.\n\nWin Draw Loss Fixture\n\nSource: Competitions\n\nSource: Soccerway\n\nAs of match played till 2 August 2022\n\nSource: Matches",
+  "url": "https://en.wikipedia.org/wiki/2021%E2%80%9322_Mohammedan_SC_(Dhaka)_season",
+  "revision_id": 1326416212,
+  "article_id": 67618221,
+  "section_path": "shared_text[0:7156]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7156
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 128989,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "41590bf7f1422f76c1a20352c14285706bb4af781e35902a4aa3a45cbe174283",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326416212",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "67618221",
+    "revision_id": "1326416212",
+    "retrieved_at": "2026-10-18T12:36:37.974770+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7156,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

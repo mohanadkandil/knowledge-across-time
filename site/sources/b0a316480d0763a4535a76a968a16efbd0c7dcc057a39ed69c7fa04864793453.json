@@ -1,0 +1,36 @@
+{
+  "id": "bri-2566-97b13565fdc3:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-2566-97b13565fdc3",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+  "text": "Those on the side of Switzerland are less high; and fernished with all sorts of wood, as well for fuel as building. The country itself is diversified with rising hills and fertile value, besides large forests; but that between the rivers III, Hart, and the Rhins, so far as Strasburg, is inferior to the next, on account of the freqents overhanging of the Rhin. In High Alaska there are mines of silver, copper, and lead. They however work none but those of Gromany, from which are usually drawn 1600 marks of dryers each mark being eight corners; and 2and provide of dryer; but the expense of working them is equal almost to the profit. There are many ways to several parts of Alaska, and particularly at Betford. There is a mineral spring at Silbulbub, near Mutter, in High Al- sace, which is an great reputation for the safety, weakness of the nerves, and the gravel—The original inhabitants of Abasce o houses and pool-stained, but welded in their own manner and customs. The fruitfulness of their country renders them indolent and in- activity for the Swiss make their hay and keep their corn, as well as immense the village of High Alice, which sends a great deal of money out of the province. The common language is the German; but the better sort of people in the towns gained French; and, even in the country, they speak French well enough to be understood.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+  "provenance": {
+    "page_id": "bri-2566-97b13565fdc3",
+    "row_index": 2566,
+    "volume_id": "192547781",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+    "label": 0,
+    "sha256": "97b13565fdc3129f0c09f0566406d4f70d1b65ae004d1ad31989c042d748b21d",
+    "width": 600,
+    "height": 756,
+    "image_file": "../images/bri-2566-97b13565fdc3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4951,
+    0.0664,
+    0.8672,
+    0.4289
+  ],
+  "offsets": [
+    0,
+    1366
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

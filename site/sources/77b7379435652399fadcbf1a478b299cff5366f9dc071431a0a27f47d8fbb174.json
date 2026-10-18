@@ -1,0 +1,36 @@
+{
+  "id": "bri-2030-4f986deb2184:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2030-4f986deb2184",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 18 Part 2, RUS-SCR - EB.9",
+  "text": "Solquire,\nPeople\nNovember’s\nIvy for of\nMiner\nProphees,\nProfers\nP-43-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2030",
+  "provenance": {
+    "page_id": "bri-2030-4f986deb2184",
+    "row_index": 2030,
+    "volume_id": "192692195",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 18 Part 2, RUS-SCR - EB.9",
+    "label": 0,
+    "sha256": "4f986deb2184b8e874157e1e0bdb6c3ea9f5ca3e54c3c8fcbaa58221973ab9f7",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-2030-4f986deb2184.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2030",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.8359,
+    0.0789,
+    0.9072,
+    0.1727
+  ],
+  "offsets": [
+    0,
+    68
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

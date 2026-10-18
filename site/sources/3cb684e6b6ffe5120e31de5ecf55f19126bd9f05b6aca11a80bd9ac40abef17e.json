@@ -1,0 +1,36 @@
+{
+  "id": "bri-1693-0903c198e683:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1693-0903c198e683",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+  "text": "Ministrel, int. duven : and yet his thirt after the new trink, with muffs fair farched, deked, and glittering like a pair of two fingers, marshalled in good order with a feeling flick, and dints , that \"very cuffed up like a wafer.\" A ride [i, e long] gown of Kendalle green, after the fretiefs who gave me, gathered at the woods with a nice now gegey, followed them with a white clafp and a keeper close up to the chin / but easily, for hust to under when he lift. Seamingly begrities a red cuald girdies · from that a pair of crowd Sheffal knives hanging a two sides. Out of his bolon drawn from a llepet of his napkin elged with a then face, men marked with a D for Bruman y for be was but a bachelor yet.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+  "provenance": {
+    "page_id": "bri-1693-0903c198e683",
+    "row_index": 1693,
+    "volume_id": "192200900",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+    "label": 0,
+    "sha256": "0903c198e683b236afc4609d39b509117a0107601824e2ffe47a0ada06c90c52",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1693-0903c198e683.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0078,
+    0.0672,
+    0.4521,
+    0.2523
+  ],
+  "offsets": [
+    0,
+    708
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-217643-1352921805-41d235f9656a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Sizar",
+  "text": " sizer wears a black gown of coarse stuff without sleeves, a plain black cloth cap without a tassel, and dines at the fellows' table after they have retired. It was at that period far worse; they wore red caps to distinguish them, and were compelled to perform derogatory offices; to sweep the courts in the morning, carry up the dishes from the kitchen to the fellows' table, and wait in the hall till they had dined. No wonder that a mind like that of Goldsmith's writhed under the degradation! He has recorded his own feelings and opinions on this custom: \"Sure pride itself has dictated to the fellows of our colleges the absurd fashion of being attended at meals, and on other public occasions, by those poor men who, willing to be scholars, come in upon some charitable foundation. It implies a contradiction, for men to be at once learning the liberal arts and at the same time treated as slaves; at once studying freedom and practising servitude.\" A spirited fellow at length caused the abolition of the practice of the sizers acting as waiters, and that, too, on grand occasions before the public, by flinging the dish he was carrying on Trinity Sunday, at the head of a citizen in the crowd, assembled to witness the scene, who made some jeering remarks on the office he had to perform.\n\nSizarships are still awarded at Dublin, to new entrants of limited means who have shown merit in their school-leaving examinations. They receive their evening meal (commons) free of charge, normally for the first two years of an undergraduate course. The word sizarship is also still used elsewhere to ",
+  "url": "https://en.wikipedia.org/wiki/Sizar",
+  "revision_id": 1352921805,
+  "article_id": 217643,
+  "section_path": "shared_text[0:4692]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "86bbf7cab491a2555b89e129d4fe82f4ee49fb8ac437d3dec936e83ed11c4b2b",
+    "source_row_idx": 29793,
+    "source_shard": "enwiki/data/enwiki_namespace_0_65.parquet",
+    "text_sha256": "da5d5b1f51365b87577c04493b43265fd1bbf860fbe14060d5c74896563be748",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352921805",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "217643",
+    "revision_id": "1352921805",
+    "retrieved_at": "2026-10-18T12:21:21.323277+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4692,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

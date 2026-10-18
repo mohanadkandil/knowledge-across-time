@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-a00125667a33",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "ditions. Hygrometers play a big part in firefighting as the lower the relative humidity, the more vigorously fuels may burn. In residential settings, hygrometers are used to assist in humidity control (too low humidity can damage human skin and body, while too high humidity favors growth of mildew and dust mite). Hygrometers are also used in the coating industry because the application of paint and other coatings may be very sensitive to humidity and dew point.\n\nHumidity measurement is among the most difficult problems in basic metrology. According to the WMO Guide, \"The achievable accuracies listed in the table refer to good quality instruments that are well operated and maintained. In practice, these are not easy to achieve.\" Two thermometers can be compared by immersing them both in an insulated vessel of water (or alcohol, for temperatures below the freezing point of water) and stirring vigorously to minimize temperature variations. A high-quality liquid-in-glass thermometer if handled with care should remain stable for some years. Hygrometers must be calibrated in air, which is a much less effective heat transfer medium than is water, and many types are subject to drift so need regular recalibration. A further difficulty is that most hygrometers sense relative humidity rather than the absolute amount of water present, but relative humidity is a function of both temperature and absolute moisture content, so small temperature variations within the air in a test chamber will translate into relative humidity variations.\n\nIn a cold and humid environment, ice may sublimate o",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

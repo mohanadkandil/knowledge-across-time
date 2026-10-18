@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-42087d89c777",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "s; that word is no longer in use, but hygroscopic and hygroscopy, which derive from it, still are.\n\nCrude hygrometers were devised and developed during the Shang dynasty in Ancient China to study weather. The Chinese used a bar of charcoal and a lump of earth: its dry weight was taken, then compared with its damp weight after being exposed in the air. The differences in weight were used to tally the humidity level.\n\nOther techniques were applied using mass to measure humidity, such as when the air was dry, the bar of charcoal would be light, while when the air was humid, the bar of charcoal would be heavy. By hanging a lump of earth on one end of a staff and a bar of charcoal on the other end and attaching a fixed lifting string to the middle point to make the staff horizontal in dry air, an ancient hygrometer was made.\n\nThe metal-paper coil hygrometer is very useful for giving a dial indication of humidity changes. It appears most often in inexpensive devices, and its accuracy is limited, with variations of 10% or more. In these devices, water vapor is absorbed by a salt-impregnated paper strip attached to a metal coil, causing the coil to change shape. These changes (analogous to those in a bimetallic thermometer) cause an indication on a dial. There is usually a metal needle on the front of the gauge that points to a scale.\n\nThese devices use a human or animal hair under some tension. (Whalebone and other materials may be used in place of hair.) The hair is hygroscopic (tending toward retaining moisture); its length changes with humidity, and the length change may be mag",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

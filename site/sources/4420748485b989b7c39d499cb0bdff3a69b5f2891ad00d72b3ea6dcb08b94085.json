@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2053213-1333044928-83186e98e4a5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Laurencekirk",
+  "text": "oath and Montrose Railway north of Montrose at Kinnaber Junction and Arbroath and Forfar Railway at the triangular junctions at Friockheim and Guthrie.\n\nLaurencekirk has two public houses; The Crown and The Royal.\n\nLaurencekirk Primary School was built in 1999 and Mearns Academy, the senior school, opened in a new building in August 2014, at a cost of £23 million. The Community Centre, Library and Police Station are housed within the Mearns Academy Campus. There are two public parks, both with children's play areas, and in addition the memorial park houses a bowling green and a skate-board facility.\n\nThere are three Christian congregations in the town: Laurencekirk Church of Scotland - which is linked with Aberluthnott Parish Church (comprising Marykirk and Luthermuir communities), St Laurence's Church, an Episcopalian Church which is part of the Diocese of Brechin; and also the Mearns congregation of the Catalyst Vineyard Church. In 1693 the Episcopalians had been driven from the parish kirk in the aftermath of the Glorious Revolution. A new meeting house was built at nearby Redmyre, though this was destroyed in 1746.\n\nThe Episcopalians built a chapel dedicated to St Laurence in Laurencekirk 1791 which took in the congregations of Redmyre and Luthermuir. The current St Laurence' was opened in 1873 and now also serves the congregations of Drumtochty, Fasque and Drumlithie. its archives are held at the University of Dundee as part of the Brechin Diocese's Archives.\n\nJohnston Tower was built to commemorate the Duke of Wellington 's victory over Napoleon in the Peninsular War.",
+  "url": "https://en.wikipedia.org/wiki/Laurencekirk",
+  "revision_id": 1333044928,
+  "article_id": 2053213,
+  "section_path": "shared_text[0:7417]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 80403,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "a2bcd736ade10dbabd4322ea87f24cc9cbc6f16dc13fd7d3b5b94e8795d206a5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333044928",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2053213",
+    "revision_id": "1333044928",
+    "retrieved_at": "2026-10-18T12:21:33.164770+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7417,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

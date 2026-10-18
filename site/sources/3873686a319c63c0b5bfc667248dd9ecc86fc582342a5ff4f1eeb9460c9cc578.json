@@ -1,0 +1,44 @@
+{
+  "id": "wiki-973344-1350285628-72f040674197",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of rivers by discharge",
+  "text": "Rivers are natural drainage channels. They collect runoff from precipitation and groundwater and discharge it into oceans or lakes. The main watercourse is determined by its water volume, length, or highest source. River size is determined by three factors: discharge, length, and drainage basin.\n\nThe global annual runoff into the oceans (38,500–44,200 km 3 /year) is dominated by runoff into the South Atlantic from eastern South America, into the western Pacific from east Asia, and into the Indian Ocean from India, and southeast Asia. Depending on the estimate, the Amazon alone accounts for 15–18% of the annual freshwater runoff into the oceans.\n\nWater discharge may be expressed as mean annual discharge (denoted MQ), or as annual discharge (denoted Q). The units for measuring mean annual discharge (MQ) are m³/sec, and can be measured over a period of one or more years. The annual discharge (Q) is measured in units of km³/year. For large rivers, these values difficult to measure (see ADCP), and they also vary considerably from year to year. The very large variation between low and high flow is often not apparent from the average runoff volume.\n\nThe discharge values shown in the tables below are mean annual discharge (units m 3 /sec). To convert to annual discharge (units km 3 /year) multiply by 0.031536.",
+  "url": "https://en.wikipedia.org/wiki/List_of_rivers_by_discharge",
+  "revision_id": 1350285628,
+  "article_id": 973344,
+  "section_path": "shared_text[0:1323]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1323
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "51adfa31a73f2788555c59715133f3dfa0dfbe3ca06db96f6d2f1735bd1f664c",
+    "source_row_idx": 22588,
+    "source_shard": "enwiki/data/enwiki_namespace_0_55.parquet",
+    "text_sha256": "00a261931d37daa47439cc0ddc778795b0fe5acfde0b93370f60804dc5bdbcf6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350285628",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "973344",
+    "revision_id": "1350285628",
+    "retrieved_at": "2026-10-18T12:35:40.331957+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1323,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0972-ce59a815d4c2:region-16:0",
+  "kind": "britannica",
+  "page_id": "bri-0972-ce59a815d4c2",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "lova >-1. The _hezachedron_, contained under six squares. 2. The _octahedron_, fig. 12, contained under eight equila",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+  "provenance": {
+    "page_id": "bri-0972-ce59a815d4c2",
+    "row_index": 972,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 1,
+    "sha256": "ce59a815d4c28c3a4d410b825a682bf7290bdbbd522c299e84d0e5fb89f0e3a6",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0972-ce59a815d4c2.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+    "manual_seed": false
+  },
+  "region_id": "region-16",
+  "bbox_raw": [
+    0.4492,
+    0.8773,
+    0.8271,
+    0.9031
+  ],
+  "offsets": [
+    0,
+    116
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

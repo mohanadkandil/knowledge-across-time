@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "During the fitting of the court of fellow he attended the library for ten until three. But this confinement did not prevent him from engaging in utter laborious duties -A part of his time was occupied in reaching young children the Latin language. Some he attended at their badgeay, force waited upon him and forms relied in his own house. An each lift of the names of those who attend him, expelling the date of their entry, and the fans which he was to receive from each, has been found in his pocket-book; a cu- rious echts, which is fill preferred.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.5156,
+    0.6781,
+    0.8994,
+    0.832
+  ],
+  "offsets": [
+    0,
+    552
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

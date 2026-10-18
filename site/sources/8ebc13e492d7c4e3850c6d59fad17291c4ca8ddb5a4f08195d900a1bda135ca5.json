@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-15:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "A preventative finding to this had a place in the former edition of the London phamaspects, under the title of _opay_. Quickline, by depriving the milk alkali of his small shell, renders it could hence this key it much more astronautous, and acts more powerfully as a neatrium of oils, fats, &c, than a foliulose of the potaffa alone. The heat should be ruled fresh from the kala; by long keeping, even in close within, it lofa its strength; if huchould be made choices of as a thoroughly heart or exclined, which may be known by its comparative lightents.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-15",
+  "bbox_raw": [
+    0.5186,
+    0.4945,
+    0.8975,
+    0.6445
+  ],
+  "offsets": [
+    0,
+    556
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1307-2eff05e65514:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1307-2eff05e65514",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "This is by no means so easily solved as the discharge over a wrist and for course do it with the same degree of evidence. We imagine, however, that the following observations will not be very far from a true account of the matter.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+  "provenance": {
+    "page_id": "bri-1307-2eff05e65514",
+    "row_index": 1307,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 1,
+    "sha256": "2eff05e655141179817b1383e508dae67a3ed33f9e40dc8e1f2cfcddcbbb9595",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1307-2eff05e65514.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.04,
+    0.0578,
+    0.4297,
+    0.1461
+  ],
+  "offsets": [
+    0,
+    230
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-40809862-1333939658-b74e40b13086",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Centrifugal pendulum absorber",
+  "text": "he previous designs, the centrifugal pendulum absorber was not attached to the combustion engine but attached to a dual mass flywheel.\n\nThe function of a centrifugal pendulum absorber is as with any tuned mass absorbers based on an absorption principle rather than a damping principle. The distinction is significant since dampers reduce the vibration amplitude by converting the vibration energy into heat. Absorbers store the energy and return it to the vibration system at the appropriate time. Centrifugal pendulum absorbers like tuned mass absorbers are not part of the force/torque flow.\n\nThe centrifugal pendulum absorber differs from the tuned mass absorber in the absorption range. It is effective for an entire order instead of a narrow frequency range.\n\nInternal combustion engines follow a development trend towards being more efficient. Aspects of making an engine design more efficient include reducing its number of cylinders, increasing energy output per cylinder, and driving at lower engine speeds. This leads to an increased engine efficiency but causes the engine's torsional vibrations to increase. The vibrations lead to durability concerns as well as a comfort reduction for the passengers and have to be avoided through the use of harmonic dampers and absorbers. This situation moves the balance between the cost of the centrifugal pendulum absorber technology and the benefit for the drive train efficiency. Centrifugal pendulum absorbers are used in the following applications:\n\nBMW 320D\n\nMercedes E250 Diesel\n\nChevrolet Colorado Diesel\n\nGM Products Equipped with the 2.7L L",
+  "url": "https://en.wikipedia.org/wiki/Centrifugal_pendulum_absorber",
+  "revision_id": 1333939658,
+  "article_id": 40809862,
+  "section_path": "shared_text[0:3095]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+    "source_row_idx": 88976,
+    "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+    "text_sha256": "3e89e4779149bd4913371e9a983b55f5b4b2db1b7fa5dacc7f2ed319214064b7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333939658",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "40809862",
+    "revision_id": "1333939658",
+    "retrieved_at": "2026-10-18T12:39:26.118289+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3095,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

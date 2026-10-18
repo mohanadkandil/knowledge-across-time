@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278553-1340135747-214d3a001d9f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Colombia",
+  "text": "The following outline is provided as an overview of and topical guide to Colombia:\n\nColombia – tropical equatorial country located in northern South America. It is the most megadiverse country in the world (per square kilometer). The majority of its urban centres are located in the highlands of the Andes mountains, but Colombian territory also encompasses Amazon rainforest, tropical grassland and both Caribbean and Pacific coastlines. Colombia is a middle power, and is the third largest economy in Latin America, and the second largest in South America.\n\nPronunciation: / k ə ˈ l ʌ m. b i ə /\n\nSpanish:\n\nCommon English country name: Colombia\n\nOfficial English country name: The Republic of Colombia\n\nCommon endonym (s): Colombia\n\nOfficial endonym(s): República de Colombia\n\nAdjectival (s): Colombian\n\nDemonym (s): Colombian\n\nEtymology: Name of Colombia\n\nInternational rankings of Colombia\n\nISO country codes: CO, COL, 170\n\nISO region codes: See ISO 3166-2:CO\n\nInternet country code top-level domain:.co\n\nGeography of Colombia\n\nColombia is: a megadiverse country\n\nLocation:\n\nWestern Hemisphere, on the Equator\n\nSouth America\n\nTime in Colombia\n\nTime zone: UTC-05\n\nExtreme points of Colombia\n\nHigh: Pico Cristóbal Colón 5,700 m (18,701 ft) or Pico Simón Bolívar 5,700 m (18,701 ft)\n\nLow: North Pacific Ocean and Caribbean Sea 0 m\n\nLand boundaries: 6,309 km\n\nVenezuela 2,050 km\n\nPeru 1,800 km\n\nBrazil 1,644 km\n\nEcuador 590 km\n\nPanama 225 km\n\nCoastline: 3,208 km\n\nCaribbean Sea 1,760 km\n\nNorth Pacific Ocean 1,448 km\n\nPopulation of Colombia: 44,603,000 (October 13, 2008) - 29th most populous country",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Colombia",
+  "revision_id": 1340135747,
+  "article_id": 16278553,
+  "section_path": "shared_text[0:7266]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 63239,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2533a1cfe684802ab9be31e7e19c6ed7d6fa2e64e4d23de455603c7d71cdf1e5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340135747",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278553",
+    "revision_id": "1340135747",
+    "retrieved_at": "2026-10-18T12:38:13.052270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7266,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "But, further, they have not attended to the agree-ment of our experiments, when the discharges of cannon are made in a direction transfer to that of the common motion. Here the numerosity of the common motion, and the minutter of our experimental velocities, can have no effect in diminishing the difference of the results of the two doctrines. This will appear dif-tinently",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5479,
+    0.8391,
+    0.9463,
+    0.95
+  ],
+  "offsets": [
+    0,
+    374
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-7e1769ae6ccf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": "tures (e.g. groups, fields, graphs, universes of set theory) from the perspective of mathematical logic.\n\nModern algebra\n\nOccasionally used for abstract algebra. The term was coined by van der Waerden as the title of his book Moderne Algebra, which was renamed Algebra in the latest editions.\n\nModern algebraic geometry\n\nthe form of algebraic geometry given by Alexander Grothendieck and Jean-Pierre Serre drawing on sheaf theory.\n\nModern invariant theory\n\nthe form of invariant theory that analyses the decomposition of representations into irreducibles.\n\nModular representation theory\n\na part of representation theory that studies linear representations of finite groups over a field K of positive characteristic p, necessarily a prime number.\n\nModule theory\n\nMolecular geometry\n\nMorse theory\n\na part of differential topology, it analyzes the topological space of a manifold by studying differentiable functions on that manifold.\n\nMotivic cohomology\n\nMultilinear algebra\n\nan extension of linear algebra building upon concepts of p-vectors and multivectors with Grassmann algebra.\n\nMultiplicative number theory\n\na subfield of analytic number theory that deals with prime numbers, factorization and divisors.\n\nMultivariable calculus\n\nthe extension of calculus in one variable to calculus with functions of several variables: the differentiation and integration of functions involving several variables, rather than just one.\n\nMultiple-scale analysis\n\nNeutral geometry\n\nSee absolute geometry.\n\nNevanlinna theory\n\npart of complex analysis studying the value distribution of meromorphic functions. It is",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    36000,
+    37600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

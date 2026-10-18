@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-65c65d15d4a6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "s may be used in place of hair.) The hair is hygroscopic (tending toward retaining moisture); its length changes with humidity, and the length change may be magnified by a mechanism and indicated on a dial or scale. Swiss physicist and geologist Horace Bénédict de Saussure was the first to build such a hygrometer, in 1783. The traditional folk art device known as a weather house also works on this principle.\n\nIt consists of a human hair eight or ten inches long, b c, Fig. 37, fastened at one extremity to a screw, a, and at the other passing over a pulley, c, being strained tight by a silk thread and weight, d.\n\n— John William Draper, A Textbook on Chemistry (1861)\n\nThe pulley is connected to an index which moves over a graduated scale (e). The instrument can be made more sensitive by removing oils from the hair, such as by first soaking the hair in diethyl ether.\n\nA psychrometer, or a wet and dry-bulb thermometer, consists of two calibrated thermometers, one that is dry and one that is kept moist with distilled water on a sock or wick. At temperatures above the freezing point of water, evaporation of water from the wick lowers the temperature, such that the wet-bulb thermometer will be at a lower temperature than that of the dry-bulb thermometer. When the air temperature is below freezing, however, the wet-bulb must be covered with a thin coating of ice, in order to be accurate. As a result of the heat of sublimation, the wet-bulb temperature will eventually be lower than the dry bulb, although this may take many minutes of continued use of the psychrometer.\n\nRelative humid",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

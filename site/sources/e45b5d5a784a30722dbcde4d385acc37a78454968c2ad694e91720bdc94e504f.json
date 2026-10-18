@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "In a civil action, then, a libed mail appears to be fairly, as well as famduous jar, if the charge be true, the plaintiff has received no private injury, and has no ground to demand a comportation for him- felf, whatever offers it may be against the public peace: and therefore, upon a civil action, the truth of the sacrifice may be pleaded in bar of the futi. But, is a criminal proof, the tendency which all libels have to create amigotities, and to dit disturb the public peace, is the folk condication of the law. And therefore, in both professionals, the only points to be considered are, firly, the making or publishing of the book or writing and, secondly, whether the matter to the criminals, and, if both their point are a gainfit the defendant, the offence againfit the public is complete. The punishment of fault-holders, for either making, repetizing, nothing, or publishing the libel, is a fine, and fich corporal puniment as the court in its allocation fluid infield, regarding the quantity of defense, and the quality of the officials. By this law of the twelve tables at Rome, libels, which affect the reputation of auditors, were made a capital of fener's but, before the steps of August, the punith- ment because corporal only. Under the emperor Va- tentain it was again made capital, nor way to write, but to publish, or even to one defraying them. Our law, in this and many other respects, corportiss rather with the middle age of Roman juniprocency, when liberty, learning, and humanity, were in their full vigour, than with the credil edits that were elita- bilind in the trade",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4766,
+    0.1828,
+    0.8711,
+    0.6188
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

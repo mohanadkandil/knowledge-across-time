@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23280884-1297695424-abf9268b01b4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Blowing engine",
+  "text": "84 inches (2.1 m) and both with a stroke of 60 inches (1.5 m).\n\nThe steam cylinder has Reynolds-Corliss valve gear, driven via a bevel -driven auxiliary shaft beneath, at right-angles to the crankshaft. This also means that the Corliss' wrist plate is at right-angles to the flywheel, rather than parallel as is usual. Edwin Reynolds was the designer of the Allis company and in 1876 had developed an improved version of the Corliss valvegear, with improved trip gear capable of working at higher speeds. The air valves are also driven by eccentrics from this same shaft.\n\nLike the beam engines, the main force of the piston is transmitted to the air cylinder by a purely reciprocating action and the flywheels exist to smooth the action of the engine. To permit adjustment, the steam piston rod only goes as far as the crosshead. Above this are twinned rods to the air piston. The flywheel shaft is mounted below the steam piston, the paired connecting rods driving downwards and backwards to make this a return connecting rod engine.\n\nIn the late 1800s, internal combustion gas engines were developed to burn gasses produced from blast furnaces, eliminating the need for fuel for steam boilers and increasing efficiency. Bethlehem Steel was one such company to employ this technology. Huge, usually single-cylinder horizontal engines burned blast furnace gas. SA John Cockerill of Belgium and Körting of Hannover were both noted makers of such engines.\n\nThere are some efforts underway to restore a few of these engines. A few firms still manufacture and install multi cylinder internal combustion ",
+  "url": "https://en.wikipedia.org/wiki/Blowing_engine",
+  "revision_id": 1297695424,
+  "article_id": 23280884,
+  "section_path": "shared_text[0:5557]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 158408,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "4999dec62689b2b86ddb20ec79a9e4e1680cc599124e60e15f8b8c5ea659030e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1297695424",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23280884",
+    "revision_id": "1297695424",
+    "retrieved_at": "2026-10-18T12:42:10.320270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5557,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

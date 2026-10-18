@@ -1,0 +1,36 @@
+{
+  "id": "bri-1504-156070e3dad3:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1504-156070e3dad3",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+  "text": "Before systems of what were unpuestionally moulded and fashioned by their political institutions. They were able, possible, like to another years of possession, or easily ap-pressed; inconsistent in their affections, but not impossible in their harvest; jsoious, actions, turbulent, impaired of con- and, and you to recover the assumption of superiority; attention to the information of attention afforded them by the citizens, yet citizens yet the best days, ready to express our progress and dangerous patronism; i and of factors, and too good to find a difficulted or to be adulation of sycophants or demagages, but not trans- able to virtue, our unwilling to listen to those domestic parties who proved their diversity by counnguously exposing the vices and folkses of their country to, have in the field and liable to be necessary itself with victory or depressers with performance but seldom chargestically thibonoming success by thibonality to the warspanled, or desperating the defense of defeat by humiliation or subject corrections to the victor; generous in their experiments, hold and me in their opinions inaritable in their property with and admiration of grains; constant in their love of liberty and their country; and now backsee to respect the terms or injustice committed under the influence of periconsidence, passionate excitement, or the heading impressed if an ancient and uncomfortable movement, in their private conduct they were contro, mild, humans, polished, liberal, and collaborated, simple in their manner, popul in their labeling, and has little additional to any kind",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+  "provenance": {
+    "page_id": "bri-1504-156070e3dad3",
+    "row_index": 1504,
+    "volume_id": "193696086",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+    "label": 0,
+    "sha256": "156070e3dad300ba2fa2b6f175c65e79096dc312a3cee317aaf2661174ba1b46",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-1504-156070e3dad3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.543,
+    0.4867,
+    0.9785,
+    0.9258
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

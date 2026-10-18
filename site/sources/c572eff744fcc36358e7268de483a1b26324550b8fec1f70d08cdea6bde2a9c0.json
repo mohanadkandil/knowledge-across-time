@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6570038-1238774907-456f66a970a0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Vasia",
+  "text": "Vasia is a comune (municipality) in the Province of Imperia in the Italian region Liguria, located about 100 kilometres (62 mi) southwest of Genoa and about 9 kilometres (6 mi) northwest of Imperia.\n\nVasia borders the following municipalities: Borgomaro, Dolcedo, Imperia, Lucinasco, Pontedassio, and Prelà.",
+  "url": "https://en.wikipedia.org/wiki/Vasia",
+  "revision_id": 1238774907,
+  "article_id": 6570038,
+  "section_path": "shared_text[0:307]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    307
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "55c414932f60dce72c1fbb0a3faba7b0f5d845d8f0c00e3386bbeabe09307561",
+    "source_row_idx": 94243,
+    "source_shard": "enwiki/data/enwiki_namespace_0_15.parquet",
+    "text_sha256": "4a6fc24e9c2c9e92218c35dce2e2e6e19d8e28ace198a933e9e7f74356d8e070",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1238774907",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6570038",
+    "revision_id": "1238774907",
+    "retrieved_at": "2026-10-18T12:24:21.682614+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 307,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

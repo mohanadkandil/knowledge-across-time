@@ -1,0 +1,44 @@
+{
+  "id": "wiki-76259802-1338748777-5c3232726e7b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel chewing in China",
+  "text": "ncy for Research, a group sponsored by the World Health Organization, has listed areca nuts and betel leaves as carcinogens causing agents. It said that long-term use can cause dental ulcers, gum degeneration and cancers of the mouth and esophagus. The Kinmen coast guard intercepted 12,000 kg of betel nut being smuggled to Kinmen from China in mid-June 2004. In 2021, The Consulate-General of the People's Republic of China in Istanbul, Turkey, announced that several Chinese travelers entering Turkey with betel nuts had been arrested, for the nut is illegal in Turkey.\n\nThe city of Xiamen in Fujian banned the production, sales and consumption of the nuts in 1996. In 2013, a series of special reports, collectively titled The Disfigured Face of the Betel Nut Industry, drew the public's attention toward the link between betel nuts and oral cancer. The former national food and drug administration listed betel nut as a top carcinogen in 2017. According to a 2019 report in The Lancet, a peer-reviewed medical journal, a study that looked back at 8,222 people with oral cancer in Hunan province found that 90 per cent of these patients chewed areca nuts. The report called on the Chinese government to use advertising restrictions as a step towards a “wider ban on the nut in the future”. In the year, Ding Xiaobing, a deputy to the National People's Congress, proposed cancer warnings on packages of betel nut products. Betel nuts were removed from the updated version of the food production permit catalog released by the State Administration for Market Regulation in 2020, and an advertising ",
+  "url": "https://en.wikipedia.org/wiki/Betel_chewing_in_China",
+  "revision_id": 1338748777,
+  "article_id": 76259802,
+  "section_path": "shared_text[0:5056]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 70548,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "7db4d84d4b6316c647c0bd1074de26f107a3a740121154b2a2ba1ec0b2912327",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338748777",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "76259802",
+    "revision_id": "1338748777",
+    "retrieved_at": "2026-10-18T12:37:13.537480+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5056,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

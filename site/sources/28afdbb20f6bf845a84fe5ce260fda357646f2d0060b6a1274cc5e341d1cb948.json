@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-5:1440",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "- said that entered from foreign ports, tomacy 3141, taking engaged in the casting trader. Besides weekly markets, and annual data are held at Preston and there are races, which take place on the other side of the river. A celebrationscalled the \"Gulle\" held at Preston once every twenty years, primarily the east of August. It consists of a precession of the corporants and the various tracks the town, and is a recession of great activity. The borough is governed by a mayor, twelve aldmenen, and thirty-six councilors. It returns two members to the use of Cumanna. The origin of Preston seems to do from the decye of Rhobhester, which saw a mere village, I tried another torther and the Prieste town was probably given to is on account of its ecclesialized address, some remains of which still exist. In 1823 it was taken and partly burned by the South under Robert Hoe Bruce. In her last war Preston allowed to the royal cause, but was besigned and taken by the military forces. In 1715 the Jacobsites took possession of the town, and creased terrorised for its defense, and alter a horse resistance wereldged to surmirate. In January 1954 a strike of the workout on Preston occurred, which lasted seventy-wide weeks, causing a great retirement and much distress among the work-people. Sir Richard Arkwright, his invasion of the spinning journs, was born at Preston in 1722. Pop. (1851) 69,642.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5381,
+    0.0773,
+    0.9219,
+    0.6961
+  ],
+  "offsets": [
+    1440,
+    2838
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

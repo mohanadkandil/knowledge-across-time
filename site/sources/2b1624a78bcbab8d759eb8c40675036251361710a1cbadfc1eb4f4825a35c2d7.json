@@ -1,0 +1,44 @@
+{
+  "id": "wiki-37398107-1343213946-d9b3b117d732",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Simón Bolívar (disambiguation)",
+  "text": "Simón Bolívar (1783–1830) was a Venezuelan military and political leader.\n\nSimón Bolívar or Simon Bolivar may also refer to:\n\nBust of Simón Bolívar (Houston), U.S.\n\nSimón Bolívar (1942 film), a Mexican film\n\nSimón Bolívar (1969 film), a Spanish film\n\nSimón Bolívar (opera), by Thea Musgrave\n\nSimón Bolívar (Tadolini), three bronze statues in various locations\n\nStatue of Simón Bolívar, London, England\n\nEquestrian statue of Simón Bolívar (Central Park), New York, U.S.\n\nEquestrian statue of Simón Bolívar (Washington, D.C.), U.S.\n\nCantata infantil Simón Bolívar, a work by Rubén Cedeño\n\nOrquesta Sinfónica Simón Bolívar, a Venezuelan orchestra\n\nSimón Bolívar University (Colombia)\n\nSimón Bolívar University (Mexico)\n\nSimón Bolívar University (Venezuela)\n\nSimón Bolívar United World College of Agriculture, in Venezuela\n\nInstituto Simón Bolívar, a school in Mexico City\n\nColegio Simón Bolívar (Simon Bolivar University), a school in Mexico City\n\nVilla Simón Bolívar, Santa Cruz, Bolivia\n\nEnsanche Simón Bolívar, a sector in Santo Domingo, Dominican Republic\n\nSimón Bolívar Canton, Ecuador\n\nSimón Bolívar, Ecuador, a town\n\nGeneral Simón Bolívar Municipality, Durango, Mexico\n\nGeneral Simón Bolívar, a city\n\nSimón Bolívar District, Paraguay\n\nSimón Bolívar District, Peru\n\nSimón Bolívar Municipality, Anzoátegui, Venezuela\n\nSimón Bolívar Municipality, Miranda, Venezuela\n\nSimón Bolívar Municipality, Zulia, Zulia, Venezuela\n\nSimon Bolivar, Tehran, Iran\n\nCopa Simón Bolívar, a football league in Bolivia\n\nCopa Simón Bolívar (Venezuela), a football league\n\nSimón Bolívar (barque), a Venezuelan Navy trainin",
+  "url": "https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_(disambiguation)",
+  "revision_id": 1343213946,
+  "article_id": 37398107,
+  "section_path": "shared_text[0:2040]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 843,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "d58d88561e29ac2bff03935331b442b3b25e6f74e510ad39780f07413adc127d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343213946",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "37398107",
+    "revision_id": "1343213946",
+    "retrieved_at": "2026-10-18T12:38:14.990231+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2040,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

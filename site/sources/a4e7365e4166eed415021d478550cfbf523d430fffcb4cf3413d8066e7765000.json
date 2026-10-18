@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5857544-1352061597-af49f6f0d00b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carron Company",
+  "text": "ted on methods to produce malleable iron, anticipating the puddling process. Benjamin Franklin visited the factory, leaving works and is said to have left a design for a stove called 'Dr Franklin's stove or the Philadelphia stove'.\n\nThe company produced pig iron throughout the 19th century, together with cast-iron products such as balustrades, fire grates, and the Carron bathtub. It ran its own shipping line, and produced munitions in both World Wars. It later became one of several foundries producing pillar boxes and was one of five foundries casting Sir Giles Gilbert Scott 's classic Red telephone boxes. In the 1960s, it produced cast-iron rings to line the Tyne Tunnel under the River Tyne from Jarrow to Howdon and the Clyde Tunnel under the River Clyde from Whiteinch to Govan near Glasgow.\n\nThe company diversified into plastics and stainless steel, but the works went into receivership in 1982.\n\nThe company was taken over and operates today under the name of Carron Phoenix, part of the Franke corporation. Like its predecessor, The Carron Company, Carron Phoenix's headquarters are at the Carron Works in Falkirk.\n\nCarron Phoenix produces stainless steel, ceramic and granite moulded sinks which are sold around the world but some areas of production have been moved to China and Slovakia.",
+  "url": "https://en.wikipedia.org/wiki/Carron_Company",
+  "revision_id": 1352061597,
+  "article_id": 5857544,
+  "section_path": "shared_text[0:7066]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7066
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 29772,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "567e0a0dcbdfa3c7369b7f0fcfb1b7a35b9e89f85f4e12a35f877abd14f14b24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352061597",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5857544",
+    "revision_id": "1352061597",
+    "retrieved_at": "2026-10-18T12:23:54.738575+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7066,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

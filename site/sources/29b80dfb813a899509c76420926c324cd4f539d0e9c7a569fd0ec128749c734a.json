@@ -1,0 +1,36 @@
+{
+  "id": "bri-0328-4588acdac3cf:region-5:1440",
+  "kind": "britannica",
+  "page_id": "bri-0328-4588acdac3cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+  "text": "ilky M. Long-tailed, nifky, with the black limbs and tail--46. _S. Amalata_ Ammuhalted M. Early brown, whichbened the hair amabulated, tail, horses than the body--49. _S. Pichea_ Fox-tailed M. Blackikh brown, with the tips of the hair which, and very gray tail--48. _S. Lucenia_ Siratrician M. Long, tailed, with fireaginary dairy ears; crooked hairy tail and the leaves, thin on the bone being rounded--49. _S. George_. Kulto, called M. Long red-tailed, bearded left, with the hair of the head breaking downwards, and thus pastall--20. _S. Naiphi_, silky M. Long-tailed, riby, with, only, reddish green, orange-colored feet, and point- ed tail--21. _S. Aprquarie_, Fair M. Long-tailed, bearded, white, with red face and brown tail--32. _S. Berladeki_, Precher M. Bearded, black, the feet and off the oil brown, tail prebehand--44. _So- Anisia_, Royal M. Long-tailed, bearded red jail prebeilk--47. _S. Kaniya_ Your-fingerend M. Long-tailed, black, with Rainangered Feet, tail prebeñike--56. _S. Fatualis_, Horned M. Long-tailed, bearded, with worma like rats on the head- tail prebeñike--47. _S. Pirpida_ Pearl M. Long-tailed, everdefts, with upright hair on the head, and bluish, tail prebeñike--56. _S. Adege_ Weger M. Long-tailed, bearded’s brown body, black feet, and without calides, jail prebeñike--50. _S. Capu-cina_, Copacidin M. Long-tailed, beautiful, without calides, with black crown and limbs, and infloria pre-hedlin tail--60. _S. Sherner_, Squirit M. Long-tailed, yellowignity, beardedits, with orange-colored bands and feet, four of the clean, and the that feet, pointed out. _S. Ala",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+  "provenance": {
+    "page_id": "bri-0328-4588acdac3cf",
+    "row_index": 328,
+    "volume_id": "192545786",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+    "label": 0,
+    "sha256": "4588acdac3cf6445b62cc57af5bf31589799caacfc5eebab02fdbedab2a528ad",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-0328-4588acdac3cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.4561,
+    0.0586,
+    0.835,
+    0.7891
+  ],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

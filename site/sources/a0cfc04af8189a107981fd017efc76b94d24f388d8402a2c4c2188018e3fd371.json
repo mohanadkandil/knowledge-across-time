@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "ROEMER, OLAs, a celebrated Danish mathematician and an afternoon, was born at Arhinton in Jutheni, in the year 1643, and was first to the recently of Copenhagen at the age of 18. By his affidano applica- tion to the flyd of almony and mathematics, be become one element in those cleans, that Picard was also- nulhed and delighted with him, when making obvar- loss in the north, by the order of Lees XIV. He prevailed to to accompany Picard to France, and being pretended to the king, he was chofen the dual- phlints times in the study of mathematics. He was alt-wards united with Picard and Coffin in making altroons- mial observations, and became a member of the Académy of Sciences in 169.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5254,
+    0.2469,
+    0.9092,
+    0.4336
+  ],
+  "offsets": [
+    0,
+    691
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

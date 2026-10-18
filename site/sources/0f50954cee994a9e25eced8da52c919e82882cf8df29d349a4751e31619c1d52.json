@@ -1,0 +1,36 @@
+{
+  "id": "bri-1492-a7c7c0af0bdc:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1492-a7c7c0af0bdc",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": "\"Eenough, however, had been done to fix an indelible stain on the memory of lasting impression on the minds of the Hindons, who, to the latest period of the Mogul government, were kept in constant dead of doctrines, which, to the figure princessians, seemed to inspire the Mohammedans with scardiegism cruelty. Holistry is best an aluminium to a Muslimouth as it was to the Jews when they most strictly revered the ethnic command which prohibits it; and most of the Hindons determined being insidered by the Mohammedans as acts of dolators, and all their pagodas as temples of idiots, a religious principle excited mutual sentimentos of abborres and antipathy between the conquorers and their subjects. The rest of the character of the Mohammedans may be summed up in the concise and emplacer words of Mr. Enafino, who says, \"their distinguishing qualities are probably and meaning.\"",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+  "provenance": {
+    "page_id": "bri-1492-a7c7c0af0bdc",
+    "row_index": 1492,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 0,
+    "sha256": "a7c7c0af0bdcd12962c97882980fe05660cc78ca4ec454094a75d51bac7bbc86",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-1492-a7c7c0af0bdc.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.4707,
+    0.4766,
+    0.8721,
+    0.7164
+  ],
+  "offsets": [
+    0,
+    883
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

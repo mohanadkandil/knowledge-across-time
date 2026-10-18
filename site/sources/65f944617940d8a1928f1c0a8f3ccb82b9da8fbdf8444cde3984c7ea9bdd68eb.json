@@ -1,0 +1,44 @@
+{
+  "id": "wiki-25199477-1314154084-5e81c8931fc7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Coma blister",
+  "text": "ts such as the ankles, heels, knees, elbows, fingers, and toes.\n\nAdministration of antidepressants, antipsychotics, barbiturates, benzodiazepines, ethanol, or opioids are often connected to drug overdose-induced comas because of their vasoactive properties and possible toxicity on eccrine sweat glands. Due to the over usage of vasoactive drugs, more pressure is applied to the arterial walls, thereby increasing the risk of tissue damage, loss of oxygen to local tissue, and blister formation.\n\nBlisters occur specifically at vasoactive pressure sites between 48 and 72 hours after the start of unconsciousness. Although some lesions may heal on their own, the diagnosis of coma blisters are aided with specific histological characteristics.\n\nComa blisters usually develop on pressure point sites within a few days on individuals who have been immobilized due to external events. Barbiturate overdose is the most frequent predisposing event, but coma or any other condition that renders an individual unconscious can lead to the formation of coma blisters. These blisters resolve on their own within one to two weeks and its diagnosis can be further characterized by histological evidence such as subepidermal bullae, focal necrosis of epidermis, dermis, subcutaneous tissue and all epidermal appendages. For non-drug induced coma blisters, the absence of inflammation along with the presence of thrombosis in dermal wall vessels are the two most significant differences from drug overdose-induced coma blisters. Necrosis on sweat glands and ducts usually occur in coma blisters, but its absence do",
+  "url": "https://en.wikipedia.org/wiki/Coma_blister",
+  "revision_id": 1314154084,
+  "article_id": 25199477,
+  "section_path": "shared_text[0:8388]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8cd10b1d4e9b71d127ae5b059e5081c7efff5a97bba4e97ca3340a35783ea532",
+    "source_row_idx": 62284,
+    "source_shard": "enwiki/data/enwiki_namespace_0_36.parquet",
+    "text_sha256": "c59cf7d321afa710e9522623920bab5dabc35eaecb62c94177dccae924eefac2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1314154084",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "25199477",
+    "revision_id": "1314154084",
+    "retrieved_at": "2026-10-18T12:21:47.245885+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8388,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

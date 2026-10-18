@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3322718-1269940005-6fe158a673d5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Clerk of the Green Cloth",
+  "text": "The Clerk of the Green Cloth was a position in the British Royal Household. The clerk acted as secretary of the Board of Green Cloth, and was therefore responsible for organising royal journeys and assisting in the administration of the Royal Household. From the Restoration, there were four clerks (two clerks and two clerks comptrollers). Two additional clerks comptrollers were added in 1761, but one of these was redesignated a clerk in 1762.\n\nEach clerk had a salary of £500, with lodgings, diet, fees on the signing of contracts and ancient rights of 'Wast, Command and Remaines', i.e., leftover provisions, which was replaced with an allowance of £438 in 1701, increased to £518 in 1761 (making a total of £1018). Each clerk had a clerk or writer, who was paid £50 with other fees and allowances, fixed at £150 in 1761 and converted to a salary of £180 in 1769. The offices were all abolished by statute, the Civil List and Secret Service Money Act 1782 (22 Geo. 3. c. 82), in 1782.\n\n'All Bills of Comptrolments, &c. relating to the Office, are allotted and allow'd by the Clerks Comptrollers, and summ'd up and Audited by the Clerks of the Green-Cloth'. They also sat with the other officers as part of the board.\n\nData from 'The household below stairs: Clerks of the Green Cloth 1660-1782', Office-Holders in Modern Britain: Volume 11 (revised): Court Officers, 1660-1837 (2006), pp. 403–40. British History online.\n\nThe position was held by a number of people including George Stonhouse during the 16th century, though it later became disused.\n\nIn addition, several supernumerary clerks com",
+  "url": "https://en.wikipedia.org/wiki/Clerk_of_the_Green_Cloth",
+  "revision_id": 1269940005,
+  "article_id": 3322718,
+  "section_path": "shared_text[0:1908]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 175072,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "e49d3561d9552d2d8459be17a203a8c34dfdb077f5b43a30df599105adb5b5a5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1269940005",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3322718",
+    "revision_id": "1269940005",
+    "retrieved_at": "2026-10-18T12:28:48.178536+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1908,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

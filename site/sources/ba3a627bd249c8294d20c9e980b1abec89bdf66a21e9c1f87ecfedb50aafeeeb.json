@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17273443-1350262818-e981cb6b06a3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Roman–Parthian Wars",
+  "text": "in Rome's interest to re-establish the Euphrates as the limit of its direct control, and willingly returned to the status quo ante, surrendering the territories of Armenia, Mesopotamia, and Adiabene back to their previous rulers and client-kings. Once again, at least for another half century, Rome was to avoid active intervention east of the Euphrates.\n\nWar over Armenia broke out again in 161, when Vologases IV defeated the Romans there, captured Edessa and ravaged Syria. In 163, a Roman counter-attack under Statius Priscus defeated the Parthians in Armenia and installed a favored candidate on the Armenian throne. The following year Avidius Cassius began an invasion of Mesopotamia, winning battles at Dura-Europos and Seleucia and sacking Ctesiphon in 165. An epidemic, possibly of smallpox, which was sweeping Parthia at the time now spread to the Roman army, leading to their withdrawal.\n\nIn 195, another Roman invasion of Mesopotamia began under the Emperor Septimius Severus, who occupied Seleucia and Babylon, and then sacked Ctesiphon yet again in 197. These wars led to the Roman acquisition of northern Mesopotamia, as far as the areas around Nisibis and Singara. A final war against the Parthians was launched by the emperor Caracalla, who sacked Arbela in 216, but after his assassination, his successor Macrinus lost a battle against the Parthians at Nisibis and was forced to pay tribute to Parthia, that was the last engagement of the Parthian Wars.\n\nParthia was finally destroyed by Ardashir I when he entered Ctesiphon in 226. The Sassanids were more centralized than the Part",
+  "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars",
+  "revision_id": 1350262818,
+  "article_id": 17273443,
+  "section_path": "shared_text[0:13315]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 3055,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "abe5f9f3488d2c0c4994873c482b5422d17a452c6700b0a2f3316396a3d664e0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350262818",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17273443",
+    "revision_id": "1350262818",
+    "retrieved_at": "2026-10-18T12:38:56.863559+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13315,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

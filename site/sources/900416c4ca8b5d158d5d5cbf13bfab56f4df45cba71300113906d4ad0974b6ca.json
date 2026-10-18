@@ -1,0 +1,36 @@
+{
+  "id": "bri-1442-e57a7203c4cb:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1442-e57a7203c4cb",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+  "text": "Vol. VI. Part II.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+  "provenance": {
+    "page_id": "bri-1442-e57a7203c4cb",
+    "row_index": 1442,
+    "volume_id": "149979622",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+    "label": 0,
+    "sha256": "e57a7203c4cb43bce59f52e0f7a2e3e9d5845c8986f17f2418095dc8f1f88ada",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1442-e57a7203c4cb.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0898,
+    0.9148,
+    0.2217,
+    0.9289
+  ],
+  "offsets": [
+    0,
+    17
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

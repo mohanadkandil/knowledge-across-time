@@ -1,0 +1,44 @@
+{
+  "id": "wiki-43685690-1333396362-baf26d143b9a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Christian Diener",
+  "text": " 50m backstroke\n\nRank 6 in 100m backstroke\n\n2011 European Junior Swimming Championships in Belgrad (Serbia)\n\nGold in 50m backstroke (mit Deutschen Altersklassenrekord und JEM-Rekord)\n\nGold in 100m backstroke\n\nGold in 200m backstroke\n\nSilver in 4 × 100 m European Aquatics Championships (as backstroke swimmer)\n\n2010 European Junior Swimming Championships in Helsinki (Finland)\n\nGold in 50m Rücken\n\nBronze in 4 × 100 m medley relay (as backstroke swimmer)\n\n2014 German National Short Course Championships in Wuppertal (Germany)\n\nGold in 50m backstroke\n\nGold in 100m backstroke\n\nGold in 200m backstroke\n\nGold in 4 × 50 m freestyle relay\n\nGold in 4 × 50 m medley relay (as backstroke swimmer)\n\n2014 German National Championships in Berlin (Germany)\n\nSilver in 100m backstroke\n\nSilver in 200m backstroke\n\nBronze in 50m backstroke\n\n2013 German National Short Course Championships in Wuppertal (Germany)\n\nGold in 50m backstroke\n\nGold in 100m backstroke\n\nGold in 200m backstroke\n\n2012 German National Championships in Berlin (Germany)\n\nRank 4 in 100m backstroke\n\nRank 4 in 200m backstroke\n\n2011 German National Short Course Championships in Wuppertal (Germany)\n\nGold in 50m backstroke\n\nGold in 100m backstroke\n\nGold in 200m backstroke\n\n2011 German National Championships in Berlin (Germany)\n\nSilver in 50m backstroke\n\n2010 German National Short Course Championships in Wuppertal (Germany)\n\nSilver in 50m backstroke",
+  "url": "https://en.wikipedia.org/wiki/Christian_Diener",
+  "revision_id": 1333396362,
+  "article_id": 43685690,
+  "section_path": "shared_text[0:4287]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4287
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 54943,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "1cdb707776f871717758608af07be133bd694c280ca9b96ac16ccc0a18bc2b4f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333396362",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "43685690",
+    "revision_id": "1333396362",
+    "retrieved_at": "2026-10-18T12:41:20.249486+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4287,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

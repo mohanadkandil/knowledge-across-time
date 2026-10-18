@@ -1,0 +1,36 @@
+{
+  "id": "bri-2263-b5ad7bf6945b:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-2263-b5ad7bf6945b",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 5 - EB.12",
+  "text": "3 See Note (U.)",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2263",
+  "provenance": {
+    "page_id": "bri-2263-b5ad7bf6945b",
+    "row_index": 2263,
+    "volume_id": "192547786",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 5 - EB.12",
+    "label": 0,
+    "sha256": "b5ad7bf6945bf79046c219ca7afbc543669e9d587851209753c99b9bfbcb84ad",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2263-b5ad7bf6945b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2263",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.1738,
+    0.8422,
+    0.3105,
+    0.8594
+  ],
+  "offsets": [
+    0,
+    15
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

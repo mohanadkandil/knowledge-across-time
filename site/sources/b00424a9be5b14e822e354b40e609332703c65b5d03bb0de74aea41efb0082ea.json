@@ -1,0 +1,44 @@
+{
+  "id": "wiki-55528050-1329245203-fa1afaf57495",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Prism lighting",
+  "text": " by a variety of angles.\n\nOlder glass elements were cast, and might be cut and polished. Prism tiles were often made of single prisms joined with zinc, lead, or electroglazed copper strips (rather like the methods used to join traditional European stained glass). Sidewalk prisms were cast in one piece as single or multiple-prism lenses, and inserted into load-bearing frames. Daylight redirecting film is made of acrylic.\n\nDamaged prism tiles may be repaired, and as they came in standard designs, there is a salvage market in replacements. Replacements for one-piece castings can be commissioned. Weakened prism tiles may be reinforced with hidden bars, much like those used to reinforce stained glass.\n\nSophisticated systems for lighting different sorts of spaces with prism tiles were developed. Generally, the goal was to send the available light across the room nearly horizontally. One company sold tiles with nine prescriptions, giving different angles of refraction. Different prescriptions were often used in different parts of the same window transom, sometimes to disperse the light vertically, and sometimes to bend light horizontally around obstacles like pillars.\n\nPrism tiles sometimes have elaborate artistic designs moulded into the outside; Frank Lloyd Wright created over forty prism tile designs.\n\nPrism lighting works more effectively in light, open spaces. Some believe that it contributed to the trend away from dark, subdivided Victorian interiors to open-plan, light-coloured ones. The removal or covering of old prism transom lights often leaves characteristically tall si",
+  "url": "https://en.wikipedia.org/wiki/Prism_lighting",
+  "revision_id": 1329245203,
+  "article_id": 55528050,
+  "section_path": "shared_text[0:5209]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 90956,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "88be77166c99713a1afa20821fac39acfe9d29f7824055fe2a92d2f48515326e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329245203",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "55528050",
+    "revision_id": "1329245203",
+    "retrieved_at": "2026-10-18T12:29:51.011766+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5209,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0410-851ddf04c85e:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-0410-851ddf04c85e",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+  "text": "Again : Let us ifuppo the mean length of the vefcl left to the 40 feet or 480 inches, and one full have the weight of the whole refil equal to the area of the fac- tion MMDD = 49567808 multiplied by 480 = 256664784 cubic inches of water, which weights se- acfly 85768 pounds avondapon, allowing the cubic foot to weight 02.5 pounds.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+  "provenance": {
+    "page_id": "bri-0410-851ddf04c85e",
+    "row_index": 410,
+    "volume_id": "191253809",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+    "label": 0,
+    "sha256": "851ddf04c85ebf619e92cdec1a9ea77fbf9eba816274961431054080c35eaf40",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-0410-851ddf04c85e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5244,
+    0.6727,
+    0.9131,
+    0.7672
+  ],
+  "offsets": [
+    0,
+    332
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

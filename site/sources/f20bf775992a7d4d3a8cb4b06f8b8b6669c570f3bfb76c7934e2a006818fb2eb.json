@@ -1,0 +1,36 @@
+{
+  "id": "bri-2074-d43e4278eb9d:region-25:0",
+  "kind": "britannica",
+  "page_id": "bri-2074-d43e4278eb9d",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 13, MAT-MIC - EB.11",
+  "text": "and if the retarding forces are such, that at each oscilla- tion, the amplitude is a little diminished, we shall have for the approximate value of A--M",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2074",
+  "provenance": {
+    "page_id": "bri-2074-d43e4278eb9d",
+    "row_index": 2074,
+    "volume_id": "192200323",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 13, MAT-MIC - EB.11",
+    "label": 0,
+    "sha256": "d43e4278eb9dfae4b0b0c99f2735aa0e223dbe518a7ee9fb465cf46135364a04",
+    "width": 600,
+    "height": 794,
+    "image_file": "../images/bri-2074-d43e4278eb9d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2074",
+    "manual_seed": false
+  },
+  "region_id": "region-25",
+  "bbox_raw": [
+    0.4629,
+    0.4945,
+    0.8584,
+    0.5383
+  ],
+  "offsets": [
+    0,
+    151
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

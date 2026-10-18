@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "Some years before his death, Dr Roebuck who signed with a disorder that required a dangerous operation and which he bore with his ufulal spirit and reflution. He was reduced to a comfortable flare of his worst health and advisory but his offside never wholly held him. He vifted his works till within a few weeks of his decade, in order to give instructions to his clerks and overferts, and was confined to bed only a few days. He departed",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1309,
+    0.8109,
+    0.5195,
+    0.9211
+  ],
+  "offsets": [
+    0,
+    439
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

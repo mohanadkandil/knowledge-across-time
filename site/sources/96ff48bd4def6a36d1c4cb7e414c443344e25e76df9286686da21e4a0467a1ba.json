@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-0c84bbbcfc53",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "p into the air of the box. A window allows the engraver to see the density of flowing powder and to place the plate in the box using a drawer. When the powder covers the plate, it can be extracted from the box for the next operations.\n\nThe plate is then heated; if the plate is covered with powder, the resin melts forming a fine and even coat; if it is in spirits, the spirits evaporate and the result is essentially the same. Now the plate is dipped in acid, producing an even and fine level of corrosion (the \"bite\") sufficient to hold ink. At this point, the plate is said to carry about a 50% halftone. This means that, were the plate printed with no further biting, the paper would display a gray color more or less directly in between white (no ink) and black (full ink).\n\nAt some point the artist will then etch an outline of any aspects of the drawing they wish to establish with line; this provides the basis and guide for the later tone work. They may also have applied (at the very start, before any biting occurs) an acid-resistant \"stop out\" (also called an asphaltum or hard ground) if they intend to keep any areas totally white and free of ink, such as highlights.\n\nThe artist then begins immersing the plate in the acid bath, progressively stopping out (protecting from acid) any areas that have achieved the designed tonality. These tones, combined with the limited line elements, give aquatints a distinctive, watery look. Also, aquatints, like mezzotints, provide ease in creating large areas of tone without laborious cross-hatching; but aquatint plates, it is noted, are genera",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1070923-1318525241-999726a90986",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Germania (disambiguation)",
+  "text": "onsin\n\nGermania, Iron County, Wisconsin\n\nGermania, Marquette County, Wisconsin\n\nGermania, Wyoming\n\nGermania (city), also known as Welthauptstadt Germania, the projected renewal of Berlin, Germany during the Nazi period\n\nGermania, Ontario, Canada\n\nGermania District, Siquirres Canton, Costa Rica\n\nGermania Land, Greenland\n\nGermania, Djursholm, Sweden\n\nGermania, Buenos Aires, Argentina\n\nBFC Germania 1888, from Berlin\n\nGermania Bieber\n\nGermania Bietigheim (disambiguation)\n\nGermania Bochum, defunct\n\nSC Germania 1899 Bremen, defunct\n\nGermania Breslau, defunct\n\nGermania Brötzingen\n\n1. FC Germania Egestorf/Langreder\n\nVfL Germania 1894, from Frankfurt am Main\n\nFC Germania Friedrichstal\n\nVfB Germania Halberstadt\n\nGermania Kattowitz, defunct\n\nMannheimer FG Germania 1897, defunct\n\nFC Germania 1899 Mühlhausen, now SV 1899 Mühlhausen\n\n1. FC Germania 08 Ober-Roden\n\nDFC Germania Prag, defunct\n\nSV Germania Schöneiche\n\nFC Germania 06 Schwanheim\n\nGermania Teveren\n\nSG Germania Wiesbaden\n\nTSV Germania Windeck\n\nFC Germania Helsinki, a sports club in Finland\n\nSC Germânia, now Esporte Clube Pinheiros, in São Paulo, Brazil\n\nSC Germania List, a German rugby union club\n\nGermania F.V., a defunct Mexican football club\n\nGermania Königshütte, a former German football club, now Polish club AKS Chorzów\n\nGermania (ship), 1869–1891\n\nGermania (yacht), 1908–1930\n\nSS Germania, a number of steamships with this name\n\nFV Germania, a German trawler in service 1934–39 and as the vorpostenboot V 403 Germania and V 410 Germania 1939–44\n\nGermania (airline), a defunct German airline\n\nGermania Flug, now Chair Airlines, a ",
+  "url": "https://en.wikipedia.org/wiki/Germania_(disambiguation)",
+  "revision_id": 1318525241,
+  "article_id": 1070923,
+  "section_path": "shared_text[0:3564]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 35998,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "d83be33eb89b34e542ed8ca7a6759c0fd44e114ec68e43a5183bbe92a3ad2b67",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318525241",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1070923",
+    "revision_id": "1318525241",
+    "retrieved_at": "2026-10-18T12:35:24.566168+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3564,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

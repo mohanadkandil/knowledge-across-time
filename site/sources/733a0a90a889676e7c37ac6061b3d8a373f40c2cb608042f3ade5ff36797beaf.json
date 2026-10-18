@@ -1,0 +1,44 @@
+{
+  "id": "wiki-143830-1341377041-9387af4dbd44",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Projectile point",
+  "text": "he known point types of that time. Perino followed this several years later with a three-volume study of \"Selected Preforms, Points and Knives of the North American Indians\". Another recent set of typological studies of North American projectile points has been produced by Noel Justice.\n\nBare Island projectile point\n\nBarnes projectile point\n\nCascade point\n\nClovis point\n\nCumberland point\n\nEden point\n\nElko point\n\nFolsom point\n\nGreene projectile point\n\nJack's Reef pentagonal projectile point\n\nLamoka projectile point\n\nLevanna projectile point\n\nNeville projectile point\n\nSusquehanna broad projectile point\n\nPlano point\n\nKimberley points\n\nAterian points\n\nStillbay\n\nKlasies River Caves\n\nPorc Epic",
+  "url": "https://en.wikipedia.org/wiki/Projectile_point",
+  "revision_id": 1341377041,
+  "article_id": 143830,
+  "section_path": "shared_text[0:3575]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3575
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 87061,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "ec9d56d0043bd86840de29bdfa3dc3198af91efef496b520d41ab6e1c4754088",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341377041",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "143830",
+    "revision_id": "1341377041",
+    "retrieved_at": "2026-10-18T12:22:25.524916+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3575,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

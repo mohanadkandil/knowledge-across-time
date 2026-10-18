@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-15:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "_Coenzyme Nuclear*. See GAGO._",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-15",
+  "bbox_raw": [
+    0.5391,
+    0.7422,
+    0.8223,
+    0.757
+  ],
+  "offsets": [
+    0,
+    30
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

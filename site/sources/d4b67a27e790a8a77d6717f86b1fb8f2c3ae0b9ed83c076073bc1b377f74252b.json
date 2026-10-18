@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-4ea9aa9c0341",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "on between the term \"sylvan\" (\"of the woods\"), the French term sauvage meaning \"wild\", and the Sal- group of names for the wild men used in the Italian Alps (Trentino-Alto Adige/Südtirol) region under § Other aliases below. Cf. also \"woodwose\" under § English terms.\n\nFolklore in Tyrol and German-speaking Switzerland into the 20th century refers to the wild woman called Fänge (var. Fängge/Faengge, Fankke, Fang, Fange, Fangge, Fangga, Fanggin), commented as being equivalent to Selige Fräulein (Salige Frau) This name is thought to be post-medieval neologism deriving from the Latin fauna, the feminine form of faun. The wild women of the Alpine region are \"identical to or closely related to\" the Fänggen or the Salige (Salige Frauen). The extended form Wild-Fang is considered a male noun (ein Wild-fang), but Wild-fang (var. Wildfangg) is still applied to a female.\n\nThe wild man is called a Bilmon (corruption of \"wild man\"), Salvadegh, or Salvanel in Wälsch-Tirol (present-day Trento Province), which may be spelt Salvan or Salvang, with usage extending to Lombardy. The wild man is called l'om salvadegh by Ladin language -speakers in Folgrait (Folgaria) and Trambileno; this is readily recognizable as equivalent to French l'homme sauvage, where Old French salvage derives from Latin silvāticus \"sylvan, pertaining to forest\". Hence the names in this grouping are related to Silvanus, the Roman tutelary god of gardens and the countryside. The (medieval Latin) term silvaticus was in fact used in the sense of \"wild woman\" by Burchard of Worms in the 10th century, and it has been suggested ",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-c82e8ea0a743",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "ons, the parts of the modern road network heading into the former walled area are the same as those which passed through the former medieval gates.\n\nPart of the route originally taken by the northern wall is commemorated, although now only loosely followed, by the road also named London Wall. The modern road starts in the west with the Rotunda junction at Aldersgate, then runs east past Moorgate, from which point it runs parallel to the line of the City Wall, and eventually becomes Wormwood Street before it reaches Bishopsgate. This alignment, however, is the result of rebuilding between 1957 and 1976. Before this, London Wall was narrower, and ran behind the line of the City Wall for its entire length, from Wormwood Street to Wood Street. The western section is now St Alphage Garden.\n\nThe eastern section of the wall starts in what is now the Tower of London. Within the grounds of the Tower remains of the eastern most wall can still be seen along with a line in the paths heading North within the Tower grounds to outline where it used to run before most of it was demolished to expand the fortification of the Tower. This followed on with a junction at the Tower of London's moat to the Tower Hill Postern, Gate 1, a medieval fortified entrance. The foundation to this entrance can still be seen today within the Tower Hill pedestrian subway. Other large sections of the wall can also be seen further ahead within the Tower Hill gardens.\n\nThe wall from Tower Hill then runs east of Walbrook toward the second historic gate, Aldgate – Gate 2. These would have led onto the Roman road ne",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    14400,
+    16000
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

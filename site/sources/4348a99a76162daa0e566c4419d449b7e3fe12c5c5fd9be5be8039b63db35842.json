@@ -1,0 +1,36 @@
+{
+  "id": "bri-1313-28d6fe660d84:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-1313-28d6fe660d84",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "\\begin{tabular}{cccc}\n**Description.** & **Quantities.** & **Value.**\\\\\nCoffee .... cwt. & 31,392 & 1,123,642\\\\\nSpices .... value & 42,701 & 470,813\\\\\nDitto ditto... bottles & 184,066 & 470,813\\\\\nChampagne... bottles & 472,365 & 142,381\\\\\nFish .... value & 180,136 & \\\\\nSilt .... cwt. & 1,106,955 & 212,216\\\\\nTobacco .... cwt. & 29,700 & 222,144\\\\\nFruits .... value & 283,605 & \\\\\nCotton .wv .... cwt. & 66,835 & 306,481\\\\\nDitto, twrt. & 1,585,622 & 1,517,072\\\\\nDitto, ditto, dyed .... & 2,732 & 63,787\\\\\nInhilogy .... cwt. & 8,810 & 297,637\\\\\nCoochined .... cwt. & 1,135 & 44,599\\\\\nMaidler .... cwt. & 83,619 & 130,311\\\\\nLeopard .... cwt. & 129,655 & 109,834\\\\\nDyceeds, various .... value & 71,827 & 7\\\\\nDesign .... value & 73,676 & \\\\\nOlive oil .... cwt. & 76,797 & 223,588\\\\\nHardware .... value & 59,068 & \\\\\nLoal .... cwt. & 54,890 & 303,121\\\\\nSugar, raw .... cwt. & 441,944 & 1,179,889\\\\\nManufacture, cotton .... value & 233,823 & \\\\\nDitto, silk .... value & - & 329,066\\\\\nDitto, worsted .... value & - & 283,526\\\\\nCloth .... cwt. & 1,159 & 85,099\\\\\nPrecious stone .... value & - & 103,115\\\\\nMicellanone .... value & - & 1,388,517\\\\\nTotal value & - & 8,563,461\\\\\n\\end{tabular}",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+  "provenance": {
+    "page_id": "bri-1313-28d6fe660d84",
+    "row_index": 1313,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 0,
+    "sha256": "28d6fe660d849522d3712f68e812e6b595ca94f451c83b16df77ce570cb5f25f",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-1313-28d6fe660d84.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.0703,
+    0.5078,
+    0.4492,
+    0.9102
+  ],
+  "offsets": [
+    0,
+    1181
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

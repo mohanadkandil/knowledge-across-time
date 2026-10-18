@@ -1,0 +1,44 @@
+{
+  "id": "wiki-29883919-1279769724-7016522500e7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Clater",
+  "text": "Clater is a surname. Notable people with the surname include:\n\nFrancis Clater (1756–1823), British farrier and writer\n\nJohn Clater Aldridge, MP\n\nThomas Clater (1789–1867), English painter",
+  "url": "https://en.wikipedia.org/wiki/Clater",
+  "revision_id": 1279769724,
+  "article_id": 29883919,
+  "section_path": "shared_text[0:187]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    187
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 174181,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "0ae6aa836e715b237e2414282000cd53749e5eefad017785f9635ea36a8574ff",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1279769724",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "29883919",
+    "revision_id": "1279769724",
+    "retrieved_at": "2026-10-18T12:36:19.183617+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 187,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

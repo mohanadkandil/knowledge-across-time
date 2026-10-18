@@ -1,0 +1,36 @@
+{
+  "id": "bri-0654-ec99c922eee3:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0654-ec99c922eee3",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+  "text": "In the next section, entitled to “Carrrolling and Fighting,” there is a minute and circumstantial detail of blows given under every conceivable case and situation, and in every possible relation in width the parties could stand towards each other. If fixes the periods of responsibility for the consequences of a wound; it asserts the penalty of death on a new who shall strike his master; in a new way shall strike his father or mother, on a grandson who shall strike his paternal grandfather or grandmother; on a wild who shall strike her husband's father, mother, paternal grandfather or grandmother; but, if a father, mother, paternal grandfather, or grandmother, shall dissasise abandon date or grandchild in a severe and uncustomy manner, so that he or she dies, the party to offloading shall be punished only when handled blows, which is reality are no more than forty; and, when any of the aforesaid relations are guilty of falling such disbloodiest child or grandchild de- signedy, the punishing shall be extended to sixxy blows, and one year’s banishment. A parent may, at any time, sell his children, with the exception only to stalling players, and possesses of the magic art. This distinction which the law makes between the parent and child, and the almost unlimited authority which is given to the forever over the latter, would lead one to conclude, that, if the crime of infanticide be not sanctioned, it is at that moment as, by the movement. There is a very reason, however, to believe the extent of it has been grossly exaggerated, and that the greater part of infants taken up in",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+  "provenance": {
+    "page_id": "bri-0654-ec99c922eee3",
+    "row_index": 654,
+    "volume_id": "192016360",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+    "label": 0,
+    "sha256": "ec99c922eee303aef57a84b0f045fda58f6e22139e9dbb3956ebb01e61369b10",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0654-ec99c922eee3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.502,
+    0.3828,
+    0.9023,
+    0.8836
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

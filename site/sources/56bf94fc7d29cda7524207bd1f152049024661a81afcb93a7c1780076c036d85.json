@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-747626680767",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": "o (Norway). The southern part of the Greenland Sea, roughly the area south of the Jan Mayen Francture Zone or the line Cape Brewster – Jan Mayen is sometimes referred to as Iceland Sea.\n\nThe bottom of the Greenland Sea is a depression bounded to the south by the underwater Greenland-Iceland ridge and to the east by the Mohns Ridge and Knipovich Ridge (parts of the Mid-Atlantic Ridge). To the west, the bottom rises first slowly, but then rapidly toward the wide Greenland coastal strip. Silts fill the submarine hollows and gorges; silty sands, gravel, boulders, and other products of erosion coat the shelves and ridges.\n\nAlthough the deepest point inside of the sea is 4,846 m (15,899 ft), depths down to 5,570 m (18,270 ft) have been measured in the Molloy Deep of the Fram Strait which connects the sea to the Arctic Ocean on the north. The Greenland ice sheet reaches down to the sea at Jøkel Bay.\n\nMajor islands of the Greenland Sea include the Svalbard archipelago, Jan Mayen as well as coastal islands off the NE Greenland shores, such as Hovgaard, Ella, Godfred Hansen, Île-de-France, Lynn, Norske, Gamma and Schnauder islands. Of those, only the Svalbard islands are inhabited, and Jan Mayen has only temporal military staff. After the League of Nations gave Norway jurisdiction over the island, in 1921 Norway opened the first meteorological station there, which was a subject of contention between Germany and United Kingdom during World War II. Several radio and meteorological stations operate on the island nowadays.\n\nThe climate is Arctic and varies significantly across the vast s",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

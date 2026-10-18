@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "PRESTON, a parliamentary and municipal borough, seators, and marketown of England, in the country of Lancaster, and the N Bank of the Ribblah, here created by three fine bridges, 19 miles S. of Lancaster, and 217 N.W., by K. of London. It is well built for the most part of thick, on a rising ground about 120 feet than the river, and the princelight streets, one of which called Ful-\negate, is about a milet long, one bread and wol agreed. In the neighbourhood there are many villas, and some beautiful public value. One of the latter, since Arvenham Walk, on the top of the hill on which Preston is build, a much frequented, and has been you laid and by the competition. There are in line now a spacious marker, place, and many elegant ternes and spaces. Among the public buildings are the global), a brick edible with a tartret and cupola, in the centre of the town; the coun-\nhouse, built in 1826, in the Greater style of architecture; the match-housew, corn exchange, bolschal, custom-houses, thayers, and assembly-rooms. Or the places of worship in Preston, ten belong to the BehlithMarch. The parish church, rebuilt in 1770, has a lofty spire. Those of 3A Peter and B. Paul, erected in 1885 and 1825, both in the modern Gothic style; and Christ church is a fine specimen of pure Norman architecture. The Roman Catholics have done character here; one of which is a building of great elegance. There are also places of worship belonging to Velevign Printman, Episcopoint Primitive, and Associated Methodologies; Baptists, Independence Unitatani Quakers, Speechenabians, and Moromanists, to the n",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1465,
+    0.3875,
+    0.5264,
+    0.9187
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

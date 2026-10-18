@@ -1,0 +1,44 @@
+{
+  "id": "wiki-55589278-1317848006-495f9e77ba97",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Oxford Camerata",
+  "text": "2006 (Naxos 8.557732)\n\nHildegard von Bingen: Celestial Harmonies, May 2008 (Naxos 8.557983)\n\n* First release of Oxford Camerata recording of Miserere; reissue of Palestrina Lesson I for Maundy Thursday from Naxos 8.550572 † Compilation of recordings previously released on Naxos 8.550574 and Naxos 8.550576 ‡ Compilation of recordings previously released on Naxos 8.550575, Naxos 8.550682 (Schola Cantorum of Oxford/Summerly) and Naxos 8.550842 § Reissue of Naxos 8.550573 with addition of Schola Cantorum of Oxford/Summerly recording of Palestrina Stabat mater from Naxos 8.550836 and Oxford Camerata recording of Allegri Miserere from Naxos 8.550827",
+  "url": "https://en.wikipedia.org/wiki/Oxford_Camerata",
+  "revision_id": 1317848006,
+  "article_id": 55589278,
+  "section_path": "shared_text[0:4971]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    4971
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 23809,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "b1401adb4b3f3c9f804f8c6df379fe308365d2aa61b7f675d849bc0f48edb999",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317848006",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "55589278",
+    "revision_id": "1317848006",
+    "retrieved_at": "2026-10-18T12:35:35.046604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4971,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

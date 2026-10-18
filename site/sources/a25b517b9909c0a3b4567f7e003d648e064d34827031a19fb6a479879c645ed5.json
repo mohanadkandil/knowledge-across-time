@@ -1,0 +1,36 @@
+{
+  "id": "bri-1515-1277093efdef:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1515-1277093efdef",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 1, A-AME - EB.10",
+  "text": "EGISTHUS, in ancient bifory, was the fun of Thyelles by his own daughter Pilipicia, who, to come cell her thumb, expeded him in the woods, from Fay he was born up by a shaped, and tackled by a gent, whence he was called _Egifkar_. He feded Cytyen notifts the wife of Angamama and lived with her dur- ing the way of Troy. Afterwards with her alliance he flew her husband, and reigned Seven years in Myceems. He was, together with the Cytecenneira, this One Profes. Tempoy died to call Black Cefar _Egifhas_, on account of his having reduced his wife Muta, whom an afterwards put away, though he had three children by her.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1515",
+  "provenance": {
+    "page_id": "bri-1515-1277093efdef",
+    "row_index": 1515,
+    "volume_id": "192016229",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 1, A-AME - EB.10",
+    "label": 0,
+    "sha256": "1277093efdefb66474612a43c8bea0ade41a2802356d10378c7e3a0aa7631168",
+    "width": 600,
+    "height": 822,
+    "image_file": "../images/bri-1515-1277093efdef.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1515",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.0625,
+    0.3953,
+    0.4512,
+    0.5648
+  ],
+  "offsets": [
+    0,
+    620
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

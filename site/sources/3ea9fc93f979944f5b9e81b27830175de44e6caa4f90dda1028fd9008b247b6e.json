@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-3:1440",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "rom which to keep up a correspondence with the friends of the cause in the mountainous districts, into which they made frequent hostile locations. When my of them fell into the hands of the royalists, they were immediately put to death. Sa-man intended to have invaded, Dassame with a large force, has was demanded from doing so by Morillo. He, however, sent money those areas and large expectations under Barryroy and others; but such as did not know their lives, or desert during these expeditions, were always in a few weeks obliged to return to the mountain in greater loss in new, horses, and maintain than the parties whom they invaded, and who maintained against them desdeery and harassure, writing, cutting their provisions and other resources. On his arrival, Sandauer pursued a similar policy, avoiding any great engagement, has already being to preserve his army, lost any experience should belief that of Bolivar. He issued a proclamation, calling on his coun- trymen to join this situation, and placed himself in com-mation with the patient guards, who had seen up in Poyangan, on the banks of the Mugdalena, and other parts of the neighboring provinces.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1309,
+    0.1258,
+    0.5439,
+    0.6922
+  ],
+  "offsets": [
+    1440,
+    2608
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

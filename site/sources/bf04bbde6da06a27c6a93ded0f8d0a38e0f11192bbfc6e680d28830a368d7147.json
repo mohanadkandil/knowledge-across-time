@@ -1,0 +1,44 @@
+{
+  "id": "wiki-79521527-1292744242-a95a17876b2d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Silurus joergi",
+  "text": "Silurus joergi is an extinct species of catfish in the genus Silurus that lived during the Late Miocene.\n\nSilurus joergi is known from Germany.",
+  "url": "https://en.wikipedia.org/wiki/Silurus_joergi",
+  "revision_id": 1292744242,
+  "article_id": 79521527,
+  "section_path": "shared_text[0:143]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    143
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 89163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "c64758ea5e45b164be9763aaf03b75dc71d343ba95aad058733d801159eddbdc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1292744242",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "79521527",
+    "revision_id": "1292744242",
+    "retrieved_at": "2026-10-18T12:40:30.579621+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 143,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

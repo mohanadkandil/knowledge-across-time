@@ -1,0 +1,49 @@
+{
+  "id": "wiki-21433728-1325213456-8037f1e071c8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Air gun laws",
+  "text": "night, he may be committing a crime if he is generating much noise). It's still illegal to open carry an air gun, and even when someone carry his air gun in a concealed way of inside the case, he must prove his ownership of the air gun, likely with a copy of the receipt. All this information can be seen at the Brazilian's army website. As of 2024, the restrictions on caliber returned, albeit in a more mild aspect.Airguns over 6mm caliber or boasting more than 500 joules of muzzle energy must be registered as firearms by a licensed sport shooter.Launchers or weapons that are adequate to launch paintball balls are not subjected to the caliber restriction and do not need to be registered, even if they can also launch other projectiles.Scopes, red dots and laser sights remain unregulated as long as they aren't military grade, but both airguns and optic devices need to be accompanied by proof of legal ownership (the sale slip/receipt) during use.The use of any gas/propellant, such as CO, springs or helium, isn't relevant any longer, as long as the regulations are met.Permitted uses of airguns include sports shooting, plinking at safe areas, training and authorized hunting of exotic fauna, as long as the other legal requirements for the hunt are also met.\n\nAir guns can be freely bought and owned by any person older than 18 years old. Only pistols with muzzle energy exceeding 7.5 joules (5.5 ft⋅lbf) are not allowed. There is no maximum muzzle energy limit for rifles. Open carry of air guns is not allowed. The use of air guns is restricted non-public places, being shooting ranges, ",
+  "url": "https://en.wikipedia.org/wiki/Air_gun_laws",
+  "revision_id": 1325213456,
+  "article_id": 21433728,
+  "section_path": "shared_text[0:28666]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 51146,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "7976d44222958b6c3ad7ad51170fb71e4c2af881b9bb1d8416a285f92a39b805",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325213456",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21433728",
+    "revision_id": "1325213456",
+    "retrieved_at": "2026-10-18T12:41:04.281100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8666,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

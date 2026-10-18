@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-20e8f513cc64",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": "alysis that extends upon the generalized Fourier transforms that can be defined on locally compact groups.\n\nAbstract homotopy theory\n\nA part of topology that deals with homotopic functions, i.e. functions from one topological space to another which are homotopic (the functions can be deformed into one another).\n\nActuarial science\n\nThe discipline that applies mathematical and statistical methods to assess risk in insurance, finance and other industries and professions. More generally, actuaries apply rigorous mathematics to model matters of uncertainty.\n\nAdditive combinatorics\n\nThe part of arithmetic combinatorics devoted to the operations of addition and subtraction.\n\nAdditive number theory\n\nA part of number theory that studies subsets of integers and their behaviour under addition.\n\nAffine geometry\n\nA branch of geometry that deals with properties that are independent from distances and angles, such as alignment and parallelism.\n\nAffine geometry of curves\n\nThe study of curve properties that are invariant under affine transformations.\n\nAffine differential geometry\n\nA type of differential geometry dedicated to differential invariants under volume -preserving affine transformations.\n\nAhlfors theory\n\nA part of complex analysis being the geometric counterpart of Nevanlinna theory. It was invented by Lars Ahlfors.\n\nAlgebra\n\nOne of the major areas of mathematics. Roughly speaking, it is the art of manipulating and computing with operations acting on symbols called variables that represent indeterminate numbers or other mathematical objects, such as vectors, matrices, or elements o",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

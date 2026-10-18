@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "LIBATION, amongst the Greeks and Romanes, was an official part of clean families. It was also per- formed alone, as a drink offering, by way of procuring the protection and throwor of the gods, in the ordinary affairs of life. Librations according to the different nature of the gods in honour of whom they were made, modified of different liquids, but none we the most usual. The wine offered to the gods are al- ways unmixed with water. We meet with libations of water, libations of heavy libations of milk, all libations of oil, theirs are called waves to .. The li- bation was made with a ferious department and foloma prayer. The facilities of libations, after it had been tatled by the greift, and handed to the hydraulers, was poured upon the victim. At entertainments, a little wine was generally poured out of the cup, be- therefore began to consider, to those their gra- gratitude to the gods for the blofings they enjoyed.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.082,
+    0.1844,
+    0.4707,
+    0.4273
+  ],
+  "offsets": [
+    0,
+    933
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

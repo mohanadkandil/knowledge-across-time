@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1054294-1334829079-f3d471b9418e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Rifled breech loader",
+  "text": " were relatively simple to operate were developed.\n\nAmerican engineer Lewis Wells Broadwell who worked as sales agent for the Gatling Gun Company in Europe replaced a papier-mache obturating cup in bag-loaded RBLs with a metallic gas ring and patented his invention in 1861, later perfecting it in 1864 and 1866; most countries paid royalties to Broadwell for the design, but in Germany the Krupp company stole it and used it for free.\n\nIn the meantime the French persevered with trying to develop breechloaders which combined faster loading than muzzle-loaders, high power, safety and solved the problem of obturation. The Lahitolle 95 mm cannon of 1875 with an interrupted screw breech met the first three requirements to a great extent and partially solved the obturation problem.\n\nFinally the de Bange system introduced in 1877 solved the obturation problem with an asbestos pad impregnated with grease which expanded and sealed the breech on firing. The de Bange system formed the obturation system for all subsequent screw breeches to the present day. Britain adopted the de Bange breech when it returned to breechloaders in the early 1880s after some initial experiments with the inferior \"Armstrong cup\" obturation system.\n\nBritain, France, and the United States preferred screw breeches for most calibres, but the major drawback of the de Bange interrupted screw as first implemented was that only half of the circumference of the breech block could be threaded, and hence it needed to be fairly long to achieve safe locking of the breech, which required three separate motions to open after",
+  "url": "https://en.wikipedia.org/wiki/Rifled_breech_loader",
+  "revision_id": 1334829079,
+  "article_id": 1054294,
+  "section_path": "shared_text[0:12203]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 77366,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "9fc95d203717d29d0d1dab0902784f7d35cf0ce3d2f1882f9c672a4a6d5b8527",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334829079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1054294",
+    "revision_id": "1334829079",
+    "retrieved_at": "2026-10-18T12:41:57.411308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12203,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

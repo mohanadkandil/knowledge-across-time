@@ -1,0 +1,44 @@
+{
+  "id": "wiki-311333-1345347067-eec3c35aa624",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ethmoid bone",
+  "text": "The ethmoid bone (/ ˈ ɛ θ m ɔɪ d /; from Ancient Greek: ἡθμός, romanized: hēthmós, lit. ' sieve ') is an unpaired bone in the skull that separates the nasal cavity from the brain. It is located at the roof of the nose, between the two orbits. The cubical (cube-shaped) bone is lightweight due to a spongy construction. The ethmoid bone is one of the bones that make up the orbit of the eye.\n\nThe ethmoid bone is an anterior cranial bone located between the eyes. It contributes to the medial wall of the orbit, the nasal cavity, and the nasal septum. The ethmoid has three parts: cribriform plate, ethmoidal labyrinth, and perpendicular plate. The cribriform plate forms the roof of the nasal cavity and also contributes to formation of the anterior cranial fossa, the ethmoidal labyrinth consists of a large mass on either side of the perpendicular plate, and the perpendicular plate forms the superior two-thirds of the nasal septum. Between the orbital plate and the nasal conchae are the ethmoidal sinuses or ethmoidal air cells, which are a variable number of small cavities in the lateral mass of the ethmoid.\n\nThe ethmoid articulates with thirteen bones:\n\ntwo bones of the neurocranium—the frontal, and the sphenoid (at the sphenoidal body and at the sphenoidal conchae).\n\neleven bones of the viscerocranium—, two nasal bones, two maxillae, two lacrimals, two palatines, two inferior nasal conchae, and the vomer.\n\nThe ethmoid is ossified in the cartilage of the nasal capsule by three centers: one for the perpendicular plate, and one for each labyrinth.\n\nThe labyrinths are first developed, ",
+  "url": "https://en.wikipedia.org/wiki/Ethmoid_bone",
+  "revision_id": 1345347067,
+  "article_id": 311333,
+  "section_path": "shared_text[0:3744]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "825834ec9a34e3b6f89f1890ba2d5935d8a31e2d3ae923ea571f350dbe932a82",
+    "source_row_idx": 58265,
+    "source_shard": "enwiki/data/enwiki_namespace_0_17.parquet",
+    "text_sha256": "ad9f5d5fb52b78322584a877843b89d09080c90550fab571e303a3d06fcc23c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345347067",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "311333",
+    "revision_id": "1345347067",
+    "retrieved_at": "2026-10-18T12:21:58.638650+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3744,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

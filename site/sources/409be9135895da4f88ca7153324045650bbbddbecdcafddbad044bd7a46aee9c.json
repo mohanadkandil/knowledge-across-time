@@ -1,0 +1,36 @@
+{
+  "id": "bri-1504-156070e3dad3:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1504-156070e3dad3",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+  "text": "Alfistic the huse of those republican institutions to which it had originally given birth; yet and the blending and intermingling with its natural lights and shadows, produced a composite mass, which novel analysis information has as pre-matic power of resolving their de primary elements. Love of liberty, however, all liberty was then understood, formed the principle so well as passion of the people. To equality of political rights, or, in other words, an equal right in all five citizens to appear to be executed of political powers, constituted the expansion of the situation form of government. Civil liberty, the beauty discovery of modern themes, was then unknow, on and last unemployed. Political equality was that only species of liberty underder employed, the ancient realistic, and in those of day during the middle ages. It was this which had each powerful charms for the citizens of those democracies; it was this of which they were so pas",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+  "provenance": {
+    "page_id": "bri-1504-156070e3dad3",
+    "row_index": 1504,
+    "volume_id": "193696086",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+    "label": 0,
+    "sha256": "156070e3dad300ba2fa2b6f175c65e79096dc312a3cee317aaf2661174ba1b46",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-1504-156070e3dad3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1123,
+    0.7312,
+    0.5557,
+    0.9344
+  ],
+  "offsets": [
+    0,
+    954
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

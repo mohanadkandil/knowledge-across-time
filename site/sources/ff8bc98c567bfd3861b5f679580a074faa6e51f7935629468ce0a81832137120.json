@@ -1,0 +1,44 @@
+{
+  "id": "wiki-31156558-1351036341-3a10a2a9379c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mark Antony (2000 film)",
+  "text": "Mark Antony is a 2000 Indian Malayalam action film, directed by T. S. Suresh Babu and produced by Safeel and Minraj. Story by Shaji T Nedumkallel and screenplay and dialogue By Kaloor Dennis. The film stars Suresh Gopi, Divya Unni, Janardanan and Lalu Alex in lead roles. The film had musical score by Berny-Ignatius.\n\nSuresh Gopi as Parel Antony aka Mark Anthony\n\nJanardanan as Parel Pappu Chathu, Antony's father\n\nDivya Unni as Mambally Nimmy, Antony's love intrest\n\nLalu Alex as Fr. Parel Urumees\n\nN. F. Varghese as Mullakka\n\nK. P. A. C. Lalitha as Kunjoutha, Antony's mother & Pappu's wife\n\nMadhupal as Parel Pappachan, Antony's youngest brother\n\nBaiju as Parel Kariyachan, Antony's Younger brother\n\nKaveri as Kunjipennu/Reeja, Pappu's daughter and Antony's younger sister\n\nAdoor Bhavani as Kunjeli\n\nIndrans as Isaac, Antony's aide\n\nVK Sreeraman as Mambally Chakkappan\n\nBheeman Raghu as Mambally Kuriachen\n\nJagannatha Varma as Bishop\n\nAugustine as Sexton Devassy\n\nSadiq as Mambally Babu\n\nMala Aravindan as C.K. Ayyappan\n\nMohan Jose as Ravikuttan, Ayyappan's son\n\nShammi Thilakan as Rajan, ayyappan's son\n\nKeerikkadan Jose as Muthala Varkey, The main antagonist\n\nVimal Raj as Bhairavan, Varkey's assistant and secondary antagonist\n\nBindu Panicker as Nimmi's mother\n\nKollam Ajith as SI Jagathnathan\n\nRavi Menon as Nair\n\nShaju as Unnikrishna Varma\n\nMani C. Kappen as Pankajakshan\n\nVijayan Peringod as Radhakrishnan, Unnikrishna Varma's Father",
+  "url": "https://en.wikipedia.org/wiki/Mark_Antony_(2000_film)",
+  "revision_id": 1351036341,
+  "article_id": 31156558,
+  "section_path": "shared_text[0:1443]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1443
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 42704,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "3b32ad5f5c0bc9d7011761e7b5052463e77987871b71c311aa4d4c70338d6c17",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351036341",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "31156558",
+    "revision_id": "1351036341",
+    "retrieved_at": "2026-10-18T12:36:00.212640+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1443,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

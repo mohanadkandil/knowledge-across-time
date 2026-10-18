@@ -1,0 +1,44 @@
+{
+  "id": "wiki-250787-1338273276-b166902891ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Roebuck",
+  "text": "John Roebuck of Kinneil FRS FRSE (1718 – 17 July 1794) was an English industrialist, inventor, mechanical engineer, and physician who played an important role in the Industrial Revolution and who is known for developing the industrial-scale manufacture of sulphuric acid.\n\nJohn Roebuck was born in Sheffield, where his father, also John Roebuck, had a prosperous manufacturing business.\n\nAfter attending Sheffield Grammar School and Dr. Philip Doddridge 's academy at Northampton, Roebuck studied medicine at Edinburgh, where he developed a taste for chemistry from the lectures of William Cullen and Joseph Black. He finally graduated M.D. at the University of Leiden in 1742. Roebuck started medical practice at Birmingham, but devoted much of his time to chemistry, especially its practical applications. Among the most important of his early achievements in this field was the introduction, in 1746, of leaden condensing chambers for the manufacture of sulphuric acid. Together with Samuel Garbett, in 1749 he built a factory at Prestonpans, in Scotland, for the production of the acid, and for some years they enjoyed a monopoly. Having neglected to take out patents, Roebuck's was unable to prevent others from making use of his methods as they eventually became known.\n\nRoebuck next became involved in the manufacture of iron, and in 1759 founded the Carron Company ironworks at Carron, Stirlingshire with Garbett and other partners (Ebenezer Roebuck, Thomas Roebuck, William Cadell, William Cadell and Benjamin Roebuck). There he introduced various improvements in methods of production, incl",
+  "url": "https://en.wikipedia.org/wiki/John_Roebuck",
+  "revision_id": 1338273276,
+  "article_id": 250787,
+  "section_path": "shared_text[0:3721]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 85622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "c113a8a232a4e5ead9cfafdc9abc493657bfa8e9d2ac81ee6a3a563377077c4c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338273276",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "250787",
+    "revision_id": "1338273276",
+    "retrieved_at": "2026-10-18T12:23:49.193803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3721,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-18214394-1328170237-677aaa3437e0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chlamys (bivalve)",
+  "text": "Chlamys is a genus of small scallops, marine bivalve molluscs in the family Pectinidae. The name is taken from the Ancient Greek, χλαμΰς or Chlamys, a cloak worn by soldiers.\n\nNumerous taxa previously included in this genus are now considered synonyms and/or moved to other genera (e.g., Mimachlamys, Talochlamys). Indeed, Chlamys has been used as a \"catch-all\" genus for many scallops. As currently defined, it is limited to the northern hemisphere.\n\nThere are 11 recognized extant species:\n\nChlamys albida (Arnold, 1906) – white scallop\n\nChlamys asiatica Scarlato, 1981\n\nChlamys behringiana (Middendorff, 1849) – Bering scallop\n\nChlamys biarritzensis † (d'Arciac, 1846) - Spain\n\nChlamys chosenica Kuroda, 1932\n\nChlamys farreri (K. H. Jones & Preston, 1904)\n\nChlamys hastata (G. B. Sowerby II, 1842) – spear scallop, spiny scallop\n\nChlamys islandica (O. F. Müller, 1776) – Iceland scallop\n\nChlamys lioica (Dall, 1907)\n\nChlamys rubida (Hinds, 1845) – reddish scallop\n\nChlamys ruschenbergerii (Tryon, 1870)\n\nThere are also a large number of species only known from fossil record.",
+  "url": "https://en.wikipedia.org/wiki/Chlamys_(bivalve)",
+  "revision_id": 1328170237,
+  "article_id": 18214394,
+  "section_path": "shared_text[0:1078]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1078
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 6285,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "53bf0bb5f53b5330171099daa7efeaebbc9620b520a8c61bcce31d5be0b6b567",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1328170237",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "18214394",
+    "revision_id": "1328170237",
+    "retrieved_at": "2026-10-18T12:16:15.248016+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1078,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

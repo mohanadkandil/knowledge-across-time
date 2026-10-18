@@ -1,0 +1,36 @@
+{
+  "id": "bri-1119-6038f74f3508:region-36:0",
+  "kind": "britannica",
+  "page_id": "bri-1119-6038f74f3508",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+  "text": "c. Light gray.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+  "provenance": {
+    "page_id": "bri-1119-6038f74f3508",
+    "row_index": 1119,
+    "volume_id": "190273372",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+    "label": 0,
+    "sha256": "6038f74f350870163df4765405fd995f18c6929275fe77a7a46f4e71558fb87c",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1119-6038f74f3508.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+    "manual_seed": false
+  },
+  "region_id": "region-36",
+  "bbox_raw": [
+    0.5615,
+    0.4023,
+    0.5625,
+    0.4148
+  ],
+  "offsets": [
+    0,
+    14
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

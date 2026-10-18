@@ -1,0 +1,44 @@
+{
+  "id": "wiki-376566-1353543034-295bb59f0d01",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel nut beauty",
+  "text": "yuan City) implemented a \"three nos\" policy which prevented betel nut beauties from wearing outfits which exposed their bellies, breasts, and buttocks. The policy sparked backlash from those operating in the industry and resulted in groups protesting in front of the Taoyuan County Hall.\n\nRegulations were also imposed in Taichung, Tainan, and Kaohsiung.\n\nSome betel nut beauties are high school dropouts and their jobs represent the principal source of income for their families. Most have difficulty finding a job in a convenience store because they lack an educational qualification or because of age restrictions; some choose this work for its higher pay.",
+  "url": "https://en.wikipedia.org/wiki/Betel_nut_beauty",
+  "revision_id": 1353543034,
+  "article_id": 376566,
+  "section_path": "shared_text[0:4979]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    4979
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "63bf49ee93b73298549a18ce72ee76973ea4d618a6cd0f70cd117128ae33a244",
+    "source_row_idx": 22280,
+    "source_shard": "enwiki/data/enwiki_namespace_0_78.parquet",
+    "text_sha256": "de9e69a52416545d05efa0ee69d195aa923890f6b2522476a1ddff691e98333a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353543034",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "376566",
+    "revision_id": "1353543034",
+    "retrieved_at": "2026-10-18T12:37:16.212612+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4979,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

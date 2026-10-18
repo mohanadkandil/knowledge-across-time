@@ -1,0 +1,44 @@
+{
+  "id": "wiki-48794256-1274765712-773ec15886d5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Listed buildings in Cumbria",
+  "text": "ngs in Middleton, Cumbria\n\nListed buildings in Milburn, Cumbria\n\nListed buildings in Milnthorpe\n\nListed buildings in Morland, Cumbria\n\nListed buildings in Mungrisdale\n\nListed buildings in Murton, Cumbria\n\nListed buildings in Musgrave, Cumbria\n\nListed buildings in Nateby, Cumbria\n\nListed buildings in Natland\n\nListed buildings in Nether Staveley\n\nListed buildings in Newbiggin, Kirkby Thore\n\nListed buildings in Newby, Cumbria\n\nListed buildings in New Hutton\n\nListed buildings in Old Hutton and Holmescales\n\nListed buildings in Ormside\n\nListed buildings in Orton, Eden\n\nListed buildings in Ousby\n\nListed buildings in Over Staveley\n\nListed buildings in Patterdale\n\nListed buildings in Pennington, Cumbria\n\nListed buildings in Penrith, Cumbria\n\nListed buildings in Preston Patrick\n\nListed buildings in Preston Richard\n\nListed buildings in Ravenstonedale\n\nListed buildings in Satterthwaite\n\nListed buildings in Scalthwaiterigg\n\nListed buildings in Sedbergh\n\nListed buildings in Sedgwick, Cumbria\n\nListed buildings in Shap\n\nListed buildings in Shap Rural\n\nListed buildings in Skelton, Cumbria\n\nListed buildings in Skelsmergh\n\nListed buildings in Skelwith\n\nListed buildings in Sleagill\n\nListed buildings in Sockbridge and Tirril\n\nListed buildings in Soulby\n\nListed buildings in Stainmore\n\nListed buildings in Stainton (near Kendal)\n\nListed buildings in Staveley-in-Cartmel\n\nListed buildings in Strickland Ketel\n\nListed buildings in Strickland Roger\n\nListed buildings in Tebay\n\nListed buildings in Temple Sowerby\n\nListed buildings in Threlkeld\n\nListed buildings in Thrimby\n\nListed buildings in Torver\n\nList",
+  "url": "https://en.wikipedia.org/wiki/Listed_buildings_in_Cumbria",
+  "revision_id": 1274765712,
+  "article_id": 48794256,
+  "section_path": "shared_text[0:10711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 178466,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "688c68ec78241601afc7e718f236a148f0d1aeab520ccbde9884f64aa1f1b4d1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1274765712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "48794256",
+    "revision_id": "1274765712",
+    "retrieved_at": "2026-10-18T12:39:50.044317+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

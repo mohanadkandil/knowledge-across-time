@@ -1,0 +1,36 @@
+{
+  "id": "bri-0202-d974d662c888:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0202-d974d662c888",
+  "title": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+  "text": "Below the fpongy bones already mentioned, there are\nfonestines two others, one in each match), which fresh\nto be a production of the fides of the maxillary films\nturned downwards. When this third fort of fpongy\nbones is found, the middle one of the three in each noif\nis the largest, and the bowl is the finish!——Be\nfides all blefs, there are often several other small boxes\nflanding out into the nofrils, that, from their shape,",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+  "provenance": {
+    "page_id": "bri-0202-d974d662c888",
+    "row_index": 202,
+    "volume_id": "144850366",
+    "metadata": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+    "label": 0,
+    "sha256": "d974d662c888e8d1ae2a25821b645143aacf1c162948d297f96fe9f1694777b6",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-0202-d974d662c888.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.0264,
+    0.7633,
+    0.4404,
+    0.8727
+  ],
+  "offsets": [
+    0,
+    429
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

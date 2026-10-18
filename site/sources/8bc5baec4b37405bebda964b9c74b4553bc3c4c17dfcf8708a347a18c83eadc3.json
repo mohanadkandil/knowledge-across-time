@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "Thus all the classes of officers, semen, and marines, who have faithfully served in the many, are provided for by the state; and the children of such as may be in indigent circumstances receive an education at the public expense, suited to their condition in life.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1641,
+    0.057,
+    0.5391,
+    0.1266
+  ],
+  "offsets": [
+    0,
+    264
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

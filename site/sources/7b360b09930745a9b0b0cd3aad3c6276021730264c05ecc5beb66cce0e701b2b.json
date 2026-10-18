@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-a0865d314331",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": " plaice), birds, and mammals (including various species of seals, whales, and dolphins) all feed on the smaller invertebrates and small organisms. Mosses, lichens, and scanty bushes around the coasts serve as food to the deer and musk oxen, which in turn are hunted by the polar bear.\n\nThe Greenland Sea was formerly home to a large population of various whale species, especially bowhead whales, but the whaling industry decimated them greatly from the beginning of the 1600s till 1911. In the last few decades there have been a few signs indicating a beginning recovery.\n\nUS Geological Survey has estimated that at least 13% of the world's undiscovered oil deposits and 30% of the world's undiscovered gas pockets are located in the Arctic, with the Greenland Sea potentially holding large amounts of natural gas and lesser amounts of natural gas liquids and crude oil. This has led the Greenland's minister and provincial council to offer a large number of off-shore concessions to potential hydrocarbon (oil and gas) extraction. The majority of the concessions are located in seas west of Greenland (primarily the Davis Strait and Baffin Bay), but with 19 concessions in the Greenland Sea.\n\nIn late 2013, a total of three consortia obtained hydrocarbon extraction rights to four large areas of the Greenland Sea from the Greenland Bureau of Mineral and Petroleum. The consortia are led by the oil companies of Statoil, Chevron, and Eni, but includes several other smaller companies such as Shell, BP, DONG Energy and Nunaoil. Since then, a fifth hydrocarbon concession has been sold. ExxonMobil, ",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

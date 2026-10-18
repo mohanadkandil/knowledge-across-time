@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1701910-1351122651-8f0b443e3658",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Faculty of Advocates",
+  "text": "nd representation to clients of accredited advice agencies (including CAS) across Scotland. (In order to devil a person has to first undergo a period of training in a solicitor 's office.)\n\nThe Faculty includes practising and non-practising members. The current practising Bar includes an increasing proportion of women. Women make up approximately one quarter practising membership. Total numbers now stand at just over 460, of whom approximately one fifth are King's Counsel. The taking of Silk, as assumption of the title of King's Counsel is commonly known, depends upon the prerogative of His Majesty. This is exercised through the First Minister of Scotland upon the recommendation of the Lord Justice General. The Dean of Faculty is consulted in the course of this process. As a general rule, silk is awarded to experienced Counsel, who are considered to have achieved distinction in full-time practice. The process of awarding silk has been the subject of some criticism.\n\nFor more than 300 years, the Faculty has maintained within Parliament House the Advocates Library, often regarded as the finest working law library in the United Kingdom.\n\nA comprehensive range of materials has been built up over the last three hundred years, and a modern library management system utilising the latest technology, ensure that the Advocates Library is able to meet the increasingly complex needs of members of the Faculty of Advocates. In addition, the library's stock is made available to others via the National Library of Scotland.\n\nThe Library was formally inaugurated in 1689. From the start the c",
+  "url": "https://en.wikipedia.org/wiki/Faculty_of_Advocates",
+  "revision_id": 1351122651,
+  "article_id": 1701910,
+  "section_path": "shared_text[0:5996]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cb1f23182061a449568a2d80e0b37881a2055db9ea3954928d31c2735cd53759",
+    "source_row_idx": 44995,
+    "source_shard": "enwiki/data/enwiki_namespace_0_57.parquet",
+    "text_sha256": "982deaea93d968cb2259e0cb3eb54e3c3d51209561555f2320d2f1060cefa0b0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351122651",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1701910",
+    "revision_id": "1351122651",
+    "retrieved_at": "2026-10-18T12:21:32.149439+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5996,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

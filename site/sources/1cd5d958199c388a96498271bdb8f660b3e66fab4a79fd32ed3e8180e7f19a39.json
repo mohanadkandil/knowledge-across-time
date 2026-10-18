@@ -1,0 +1,36 @@
+{
+  "id": "bri-2292-93b4d1f3ff8c:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2292-93b4d1f3ff8c",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "The three series just mentions of all of which ammo- nis is the type, include all the known _volatile organic_ bases, nutrient or artificial, that is, all such as are not decomposed but volatilised, unclaged by a due application of heat. An amide base is easily converted into an inside base by the acting of the iodide of one of the radicals of series I, and an inside base is converted by the measure insulin a nitryle base. J, and all of them are for delivery from anemia by the action, in successive steps, of such an iodide. Let us take iodide of ethyla, AcI. The first action is NH1+ AcI +NH1A,H1 That Is, the iodine takes 1 eq of hydrogen, forming hydroxide acid, while the ethylene replaces that as of hydrogen, forming the amino acids, synthetic which combines with theabolonic acid. The next step is the action of iodide of ethylen or ethylamin, NH1, Ae+Ac I LNH1A, HI1, the result is ivhydrate diethylaminas. And in the third stage, when iodide of ethylb acts or diethylsilylte volume in hydroxide of diethylaminas, NH Ac+AcI=N AAC, HT. Poyaling can show more mainly that if these bases are simply ammonia, by hydrogen of which is replaced in part of an whole, by positive malaria of series I. It is also evident, that since there are only 3 eps, of hydrogen in ammonia, we cannot push further the substitution of these radicals in hydrogen, as we have replaced the whole 3 equivalents. If we attempt to do so, we find that we obtain natural new bases, but of a different type, being no longer volatile, but decompound by heat, and containing oxygen. The explanation of this is very intere",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+  "provenance": {
+    "page_id": "bri-2292-93b4d1f3ff8c",
+    "row_index": 2292,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 0,
+    "sha256": "93b4d1f3ff8c91cea76506298710cd1ef022efe47dc5ba2ebe8650a7496fc589",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2292-93b4d1f3ff8c.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1426,
+    0.3711,
+    0.5303,
+    0.7719
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

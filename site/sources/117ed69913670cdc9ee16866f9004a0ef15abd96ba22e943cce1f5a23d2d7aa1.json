@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2230524-1341185396-f03c09565156",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Edmond-Charles Genêt",
+  "text": "in, having taken power in France by January 1794, issued an arrest warrant for Genêt. Genêt, knowing that he would likely be sent to the guillotine, asked Washington for asylum. Hamilton, Genêt's fiercest opponent in the cabinet, convinced Washington to grant him safe haven in the United States.\n\nAfter obtaining asylum in the United States from Washington, Genêt moved to New York State. On June 26, 1808, Genêt wrote an article, \"Madison as a 'French Citizen,'\" for the New York Register in an attempt to promote the prospects of his father-in-law, the incumbent Vice President George Clinton, over James Madison in the presidential election of 1808. Noting the honorary French citizenship afforded to Madison in 1792, Genêt reasoned that the Embargo Act of 1807 had been intended by Secretary of State Madison to aid Napoleon in the enforcement of the Berlin Decree, especially seeing that American trade with Britain was more important than that with France. Playing to a northeastern audience, Genêt continued that, judging by Jefferson's glorification of an agricultural lifestyle in Notes on the State of Virginia, the Embargo was also acting as a covert means to destroy New England's commercial heritage. As such, New Englanders would be forced to turn to agriculture, and Virginia's dominance of American politics would continue.\n\nGenêt married Cornelia Tappen Clinton in 1794, the daughter of New York Governor George Clinton. Genêt lived on a farm he called Prospect Hill located in East Greenbush, New York, overlooking the Hudson River. Living the life of a gentleman farmer, he wrote ",
+  "url": "https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt",
+  "revision_id": 1341185396,
+  "article_id": 2230524,
+  "section_path": "shared_text[0:7552]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 68761,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "088b34743edc3a4a448daf3221c25446499e66a11b6299d0430b934c0852b7c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341185396",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2230524",
+    "revision_id": "1341185396",
+    "retrieved_at": "2026-10-18T12:39:09.981481+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7552,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1492-a7c7c0af0bdc:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1492-a7c7c0af0bdc",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": "verment; with the following extract from the treating lately quoted. A about Review of the British Government men in India. \"A more detectable or detected race of people never appeared than the Mohameman con-perso or India, y whether we consider the instability of their passion, the bigity of their religion, the compor-tion of their manners, the barbarity of their education, and the primary of their governments.\" It all these respects they were the inverse and ababerence of the Hindons whose country they invaded, and whose dominion they unserpe.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+  "provenance": {
+    "page_id": "bri-1492-a7c7c0af0bdc",
+    "row_index": 1492,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 0,
+    "sha256": "a7c7c0af0bdcd12962c97882980fe05660cc78ca4ec454094a75d51bac7bbc86",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-1492-a7c7c0af0bdc.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.4688,
+    0.0617,
+    0.8838,
+    0.2086
+  ],
+  "offsets": [
+    0,
+    551
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

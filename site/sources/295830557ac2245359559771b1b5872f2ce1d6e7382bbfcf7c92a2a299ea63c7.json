@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2053213-1333044928-df54ec32d059",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Laurencekirk",
+  "text": "k's status as a commuter town providing links to Aberdeen, Dundee and beyond.\n\nThe Laurencekirk bypass opened in 1985 as part of the project to dual the road between Perth and Aberdeen. The bypass is now part of the A90 where a reduced speed limit is in operation for part of the bypass. A grade-separated (flyover) junction, which has been campaigned for several years by local residents, is planned for access to Laurencekirk, eliminating a flat crossing where numerous accidents have occurred. However, in 2021 it was revealed the project had been delayed indefinitely.\n\nLewis Grassic Gibbon wrote much about The Mearns and the surrounding area in his book Sunset Song. A tribute centre can be visited at the Grassic Gibbon Centre at Arbuthnott, a few miles from Laurencekirk.\n\nFred Urquhart worked on the land in the Laurencekirk district during the Second World War, and his short stories make use of his observations of rural life there.\n\nJames Beattie (1735–1803), poet, moralist, and philosopher was born in Laurencekirk.\n\nReverend George Cook (1772–1845), minister of Laurencekirk and Moderator of the General Assembly of the Church of Scotland\n\nFrancis Garden, Lord Gardenstone (1721–1793), founder of Laurencekirk.\n\nJames Henderson (1823–1906), influential newspaper and magazine publisher.\n\nSir Robert Pearson (1871–1954), cricketer, advocate and chairman of the London Stock Exchange.\n\nJames Andrew Robbie (1910–1977), geologist.\n\nThomas Ruddiman (1674–1757) served as the parish schoolmaster from 1695 to 1700.\n\nAlexander Charles Stephen (1893–1966), zoologist.\n\nFred Urquhart (1912–199",
+  "url": "https://en.wikipedia.org/wiki/Laurencekirk",
+  "revision_id": 1333044928,
+  "article_id": 2053213,
+  "section_path": "shared_text[0:7417]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 80403,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "a2bcd736ade10dbabd4322ea87f24cc9cbc6f16dc13fd7d3b5b94e8795d206a5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333044928",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2053213",
+    "revision_id": "1333044928",
+    "retrieved_at": "2026-10-18T12:21:33.164770+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7417,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

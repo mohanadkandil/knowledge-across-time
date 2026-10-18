@@ -1,0 +1,44 @@
+{
+  "id": "wiki-64166656-1309505924-18d7ce3c44e9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Kaolin (disambiguation)",
+  "text": "Kaolin is a rock rich with kaolinite.\n\nKaolin may also refer to:\n\nKaolin (band), a French rock band from the 2000s\n\nKaolin, Pennsylvania\n\nKaolin Creek",
+  "url": "https://en.wikipedia.org/wiki/Kaolin_(disambiguation)",
+  "revision_id": 1309505924,
+  "article_id": 64166656,
+  "section_path": "shared_text[0:150]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    150
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 13052,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "4c421a86a8ca9b58671f0c7ea5824eb512326005ac1b5ca2f376e0adc3c7ecb4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1309505924",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "64166656",
+    "revision_id": "1309505924",
+    "retrieved_at": "2026-10-18T12:35:18.640195+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 150,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

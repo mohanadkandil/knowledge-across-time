@@ -1,0 +1,44 @@
+{
+  "id": "wiki-65979057-1317437968-dded0343a0fa",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Block (surname)",
+  "text": "n newspaper publisher\n\nPeter Block (disambiguation), list of multiple people\n\nPriscilla Block (born 1995), American singer\n\nRalph Block (1889–1974), American film producer\n\nRichard Earl Block (born 1931), American mathematician\n\nRon Block (born 1964), American musician\n\nRory Block (born 1949), American musician\n\nRudolph Edgar Block (1870–1940), Jewish American journalist\n\nRyan Block (born 1982), American technology entrepreneur\n\nSamuel Block (disambiguation), list of multiple people\n\nSandy Block (1917–1985), American musician\n\nSharon Block (politician) (born 1941), American politician\n\nSharon Block (government official), American attorney, government official, labor policy advisor and law professor\n\nSharon Block (scholar), American academic specializing in the history of race in early American history\n\nSherman Block (1924–1998), American sheriff\n\nSherry Block (born 1971), American archer\n\nSimon Block, British screenwriter and producer\n\nSpencer Block (1908–1979), English cricketer\n\nStanley Block (born 1939), American academic\n\nStefan Merrill Block (born 1982), American writer\n\nStephanie J. Block (born 1972), American actress and singer\n\nSteven Block (born 1952), American biophysicist and Professor\n\nStu Block (born 1977), Canadian singer and songwriter\n\nStuart Block (born 1979), English cricketer\n\nSusan Block, American sexologist\n\nVanessa Block, American film director, screenwriter and producer\n\nWalter Block (born 1941), American economist and author\n\nMr. Block, American comics character created in 1912",
+  "url": "https://en.wikipedia.org/wiki/Block_(surname)",
+  "revision_id": 1317437968,
+  "article_id": 65979057,
+  "section_path": "shared_text[0:5846]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5846
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 12258,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "9ef46857e5409e4020e3b0e4afc10f14075ad0614775e77e82f51011ba39d621",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317437968",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "65979057",
+    "revision_id": "1317437968",
+    "retrieved_at": "2026-10-18T12:21:50.644282+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5846,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

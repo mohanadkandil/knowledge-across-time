@@ -1,0 +1,44 @@
+{
+  "id": "wiki-379483-1352506212-9ace307b8ac7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Plate",
+  "text": "a deposition of metallic layers\n\nHome plate, location on a baseball field\n\nSeveral trophies, e.g.,\n\nAnnapolis Subscription Plate, in horse racing\n\nCounty Championship Plate, in rugby union\n\nMandela Challenge Plate, in rugby union\n\nWeight plate, flat, heavy object, usually made of iron, used in strength training or weightlifting\n\nPlate (surname)\n\nPlate, in heraldry, Roundel argent (white/silver)",
+  "url": "https://en.wikipedia.org/wiki/Plate",
+  "revision_id": 1352506212,
+  "article_id": 379483,
+  "section_path": "shared_text[0:3277]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3277
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "dca333a0d755c68611dcabb24f57a5f169173cc3b46effe0228da2c57b513235",
+    "source_row_idx": 13847,
+    "source_shard": "enwiki/data/enwiki_namespace_0_64.parquet",
+    "text_sha256": "8a2cf6f720b2498a8f2fce5e993f829c84e58c69e9e26f629b6119c0fe34a729",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352506212",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "379483",
+    "revision_id": "1352506212",
+    "retrieved_at": "2026-10-18T12:23:40.274966+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3277,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

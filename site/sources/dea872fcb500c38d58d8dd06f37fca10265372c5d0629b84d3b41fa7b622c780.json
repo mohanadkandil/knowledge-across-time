@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-3d0e08959761",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "um, As 3− is protonated to form arsine gas (AsH), so with adding sulphuric acid (H SO) to each side of the equation and by eliminating the common ions:\n\nAs O + 6 Zn + 6 H SO → 2 AsH + 6 ZnSO + 3 H O\n\nAlthough the Marsh test was efficacious, its first publicly documented use—in fact, the first time evidence from forensic toxicology was ever introduced—was in Tulle, France in 1840 with the celebrated Lafarge poisoning case. Charles Lafarge, a foundry owner, was suspected of being poisoned with arsenic by his wife, Marie. The circumstantial evidence was great: it was shown that she bought arsenic trioxide from a local chemist, supposedly to kill rats that infested their home. In addition, their maid swore that she had mixed a white powder into his drink. Although the food was found to be positive for the poison using the old methods as well as the Marsh test, when the husband's body was exhumed and tested, the chemists assigned to the case were not able to detect arsenic. Mathieu Orfila, the renowned toxicologist and an acknowledged authority of the Marsh test, examined the results. He performed the test again, and demonstrated that the Marsh test was not at fault for the misleading results, but rather, those who performed it did so incorrectly. Orfila thus proved the presence of arsenic in Lafarge's body using the test. As a result, Marie Lafarge was found guilty and sentenced to life imprisonment.\n\nThe Lafarge case proved to be controversial, for it divided the country into factions who were convinced or otherwise of Mme. Lafarge's guilt; nevertheless, the impact of the Mars",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

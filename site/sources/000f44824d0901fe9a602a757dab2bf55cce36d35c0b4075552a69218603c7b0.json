@@ -1,0 +1,36 @@
+{
+  "id": "bri-2291-e0d1aa12247a:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2291-e0d1aa12247a",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "Chemistry, with metals, such as cobalt and nickel. It likewise occurs are arsenic acid, AsO<sub>2</sub>, combined with various oxides. When the mineral containing it are no source part of its is outlined in the metallic state, and part a arsenion acid ASO<sub>2</sub>, which is consequently obtained in very few quantities from the ones of cobalt and nickel. To obtain the metal from this acid, it is simply heated with ultracold, when the metal sublines and form at bright metallic crusts. Its density is 5800. Under the ordinary pressure; it is converted into vapor before extending the melting point. The vapour has a strong garlic dobup, and is very poisonous. It burns when heated in air for forming arsenions acid, which also sublimes as a white crystalline powder.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+  "provenance": {
+    "page_id": "bri-2291-e0d1aa12247a",
+    "row_index": 2291,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 1,
+    "sha256": "e0d1aa12247af94bfb9b86b673552ab1d4917278601568b971e8292c624b9564",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2291-e0d1aa12247a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0059,
+    0.0859,
+    0.4502,
+    0.2414
+  ],
+  "offsets": [
+    0,
+    771
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "When Ruddiman arrived in Edinburgh, the advocate library, which had been blended tighten years before by Sir George Macenzie, attended his coun- y and attention, and he was from after appointed af- filank became under No Speedth should the principal liraa huma office was 8: 6: 8. He had besides a small honary protest from all who were admitted advocate for correcting their clients he was able paid for copying manuscripts for the ufc of the library. And the faculty, before he had held the office copy years, were highly pleated with his conduct, that they made him a prefect of 50 pounds Scots, or 4: 4 : 3 : 4 Sterling.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.5146,
+    0.5016,
+    0.8984,
+    0.6805
+  ],
+  "offsets": [
+    0,
+    624
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

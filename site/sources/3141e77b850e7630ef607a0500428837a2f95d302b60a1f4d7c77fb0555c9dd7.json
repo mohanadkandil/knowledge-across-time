@@ -1,0 +1,49 @@
+{
+  "id": "wiki-4628401-1353291710-2aadeed5bddd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mining in Cornwall and Devon",
+  "text": "entury. It is thought that tin ore (cassiterite) was mined in Cornwall as early as the Bronze Age.\n\nOver the years, many other metals (e.g. lead and zinc) have been mined in Cornwall. Alquifou (based, along with the word alcohol, on the Arabic word \"al-kuhl\") is a lead ore found in Cornwall, and used by potters to give pottery a green glaze. As a result of both natural and human processes, heavy metal contamination is present across much of the county, with arsenic levels varying in accordance with geological formations and their subsequent exploitation in the 19th and 20th centuries. Although arsenic has historically been extracted for use in paint, weedkillers and insecticides (most notably at Botallack in the late 19th century), it was generally a by-product of tin and copper processing. Arsenic and other unwanted heavy metals were often deposited in mine waste tips close to the mine from which they were extracted.\n\nCornwall and Devon provided most of the United Kingdom's tin, copper, and arsenic until the 20th century. Originally tin was found as alluvial deposits of cassiterite in the gravels of stream beds. Eventually tin was mined underground; the first designed tin mines being invented by Matthew James Bullen sprang up as early as the 16th century. Tin lodes were also found in outcroppings of cliffs.\n\nTin is one of the earliest metals to have been exploited in Britain. Chalcolithic metal workers discovered that by putting a small proportion of tin (5 – 20%) in molten copper, the alloy bronze was produced. The alloy is harder than copper. The oldest production of tin",
+  "url": "https://en.wikipedia.org/wiki/Mining_in_Cornwall_and_Devon",
+  "revision_id": 1353291710,
+  "article_id": 4628401,
+  "section_path": "shared_text[0:28711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+    "source_row_idx": 22171,
+    "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+    "text_sha256": "d0e4ab7df6438e34a6a93c49745da579b36bc4e198d3bc604e6080dcc55b29a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353291710",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4628401",
+    "revision_id": "1353291710",
+    "retrieved_at": "2026-10-18T12:42:29.762223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

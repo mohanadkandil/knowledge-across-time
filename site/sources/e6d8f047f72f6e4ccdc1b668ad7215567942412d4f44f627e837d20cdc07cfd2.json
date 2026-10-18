@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2230524-1341185396-a70725313cd5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Edmond-Charles Genêt",
+  "text": "rd Mangourit, Genêt organized American volunteers to fight Britain's Spanish allies in Florida. After raising a militia, Genêt set sail toward Philadelphia, stopping along the way to marshal support for the French cause and arriving on May 16. He encouraged Democratic-Republican societies, but President Washington denounced them and they quickly withered away. He was also hosted by the Democratic-Republican Tammany Society in 1793.\n\nHis actions endangered American neutrality in the war between France and Great Britain, which Washington had pointedly declared in his Neutrality Proclamation of April 22. When Genêt met with Washington, he asked for what amounted to a suspension of American neutrality to support the cause of France. When turned down by Secretary of State Thomas Jefferson and informed that his actions were unacceptable, Genêt protested. Meanwhile, Genêt's privateers were capturing British ships, and his militia was preparing to move against the Spanish.\n\nGenêt continued to defy the wishes of the United States government, capturing British ships and rearming them as privateers. Washington sent Genêt an 8,000-word letter of complaint on Jefferson's and Hamilton's advice – one of the few situations in which the Federalist Alexander Hamilton and the Republican Jefferson agreed. Genêt replied obstinately. President Washington and his Cabinet then demanded that France recall Genêt as its Ambassador.\n\nThe Mountain, having taken power in France by January 1794, issued an arrest warrant for Genêt. Genêt, knowing that he would likely be sent to the guillotine, asked Washi",
+  "url": "https://en.wikipedia.org/wiki/Edmond-Charles_Gen%C3%AAt",
+  "revision_id": 1341185396,
+  "article_id": 2230524,
+  "section_path": "shared_text[0:7552]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 68761,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "088b34743edc3a4a448daf3221c25446499e66a11b6299d0430b934c0852b7c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341185396",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2230524",
+    "revision_id": "1341185396",
+    "retrieved_at": "2026-10-18T12:39:09.981481+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7552,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-245984-1318957624-448223772bdf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Float",
+  "text": "ance float, available reserve\n\nFishing float, a bite indicator\n\nFishing net float, attached to a net\n\nGlass float, to keep fishing nets afloat\n\nFloat (oceanography), an oceanographic instrument platform\n\nFloat voltage, an external electric potential required to keep a battery fully charged\n\nFloat or a floater, a piece of rock transported away from original outcrop\n\nFloat (liquid level), a fluid-level indicator used in process engineering and plumbing\n\nFloat (woodworking), a tool used to cut, flatten and/or smooth wood via abrasion\n\nConcrete float, a finishing tool for smoothing wet concrete surfaces\n\nFloat, a rasp -like tool sporting sharp cutting teeth, sometimes used on horse teeth\n\nFloat (horse-drawn), a type of cart\n\nFloat (nautical), a buoyant part to keep something afloat\n\nFloat (parade), a decorated vehicle\n\nFloat shifting or \"floating gears\", shifting gears without using the clutch\n\nMilk float, battery milk-delivery vehicle\n\nValve float, a condition of an internal combustion engine\n\nFloat (project management), a time-management device\n\nFormer Float railway station, County Westmeath, Ireland\n\nSwimming float or pool float, to aid swimmers\n\nFloat, a group of crocodiles, an animal name",
+  "url": "https://en.wikipedia.org/wiki/Float",
+  "revision_id": 1318957624,
+  "article_id": 245984,
+  "section_path": "shared_text[0:2648]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2648
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 5925,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "0b266011b53283bbe08303a7c7b699ded1c10dee5786df7db15619f59950c0a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318957624",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "245984",
+    "revision_id": "1318957624",
+    "retrieved_at": "2026-10-18T12:22:37.867361+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2648,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

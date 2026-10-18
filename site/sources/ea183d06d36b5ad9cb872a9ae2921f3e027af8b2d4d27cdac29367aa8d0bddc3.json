@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7206824-1345019337-bc94447fb809",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Truck scale",
+  "text": "are applied to the weighing platform and are designed with rail bevelling. Rail switches are integrated into the rails to detect the position of the wagons on the scale. Together with the weighing terminal and the software, the weight of the individual wagons or the bogies is determined dynamically during the passage at up to 10 km/h.\n\nAdvantages:\n\nWeighing accuracy class up to 0.2 for individual wagon weights in accordance with calibration regulations and OIML-R 106,\n\nDue to the modular design, liquids can also be dynamically weighed in a verifiable manner,\n\nSuitable as a static reference scale for calibration, thus saving costs with every recalibration,\n\nA weighbridge is very robust and durable due to its construction like a static track scale.\n\nDisadvantages:\n\nNo determination of wheel load and axle loads, however, the design can be expanded to include integrated axle load and wheel load measurement with force sensors in the track.\n\nFor dynamic track scales with force sensors, several force sensors are drilled and pressed into the track. When a train passes over the scales at up to 30 km/h, the rail is deformed by the mass of the vehicle (deformation). The change in material stress deforms the sensor, in which strain gauges are mounted as in a classic load cell. Thus, the weight of the individual wheelset or bogie can be calculated from the specific deformation behaviour of the rail.\n\nAdvantages:\n\nCan be used as a wheel load scale and axle load scale,\n\nHigher measuring speeds possible than with the other two designs,\n\nComparatively inexpensive due to the use of only a sm",
+  "url": "https://en.wikipedia.org/wiki/Truck_scale",
+  "revision_id": 1345019337,
+  "article_id": 7206824,
+  "section_path": "shared_text[0:9536]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "825834ec9a34e3b6f89f1890ba2d5935d8a31e2d3ae923ea571f350dbe932a82",
+    "source_row_idx": 55199,
+    "source_shard": "enwiki/data/enwiki_namespace_0_17.parquet",
+    "text_sha256": "6ac42e7ab88f2c6e923996ecee4b67e6b27c85b70db86a67270133cf867c0e17",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345019337",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7206824",
+    "revision_id": "1345019337",
+    "retrieved_at": "2026-10-18T12:21:15.999149+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9536,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

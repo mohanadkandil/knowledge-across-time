@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60144273-1335498068-af3a33001de1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Nicolai Tangen",
+  "text": "Nicolai Tangen (born 10 August 1966) is a Norwegian hedge fund manager and, since September 2020, the CEO of Norges Bank Investment Management (NBIM). He is tasked with managing the Norwegian Sovereign Wealth Fund, which is the largest publicly held financial fund in the world and owns approximately 1.5% of the world's listed companies.\n\nBefore joining NBIM, Tangen lived in London, where he founded and managed the hedge fund AKO Capital. The Sunday Times Rich List in 2020 estimated Tangen's net worth at £550 million, an increase of £50 million from the previous year.\n\nTangen has actively funded initiatives within arts and education through the AKO Foundation. He is credited with holding the biggest private collection of modernist Nordic art in the world. In 2019, he was placed 6th in The Sunday Times Giving List, which ranks philanthropists from the UK based upon the proportion of personal wealth that they have given away each year.\n\nIn 2020, his appointment as the chief executive officer (CEO) at NBIM proved controversial with some sources describing it as “the biggest crisis in the fund’s 24-year history.”\n\nTangen was trained in interrogation and translation in Russian in the Norwegian Intelligence Services, before he attended the Norwegian School of Economics and the Wharton School of the University of Pennsylvania as an undergraduate during 1988–92. He holds master's degrees in art history from the Courtauld Institute of Art, London and in organisational psychology from the London School of Economics. He has education as a cook.\n\nTangen was an analyst at Cazenove & Co. ",
+  "url": "https://en.wikipedia.org/wiki/Nicolai_Tangen",
+  "revision_id": 1335498068,
+  "article_id": 60144273,
+  "section_path": "shared_text[0:4310]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 70296,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "b6ff3f9b1256df0b79c7227739deb1d7d26ba8228d28fd8603834e8e1b199162",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335498068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60144273",
+    "revision_id": "1335498068",
+    "retrieved_at": "2026-10-18T12:36:55.908765+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4310,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

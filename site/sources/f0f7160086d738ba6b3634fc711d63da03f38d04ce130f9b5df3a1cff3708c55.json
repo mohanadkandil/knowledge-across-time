@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60914716-1345083304-220757385911",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Batch dyeing",
+  "text": "chieve this stimulation, the jockey roller is free moving. The winch machine also has a front compartment, that is separate from the main dye vat. The front compartment is separated by a perforated partition and is the location where the dyestuff and dye auxiliaries are added to the dyeing process. To control the heat of dye liquor during this method, heating coils are positioned along the side of the front compartment.\n\nThe jet dyeing machine is a large vat that has a closed tubular system called a venturi. Unlike the jigger and winch dyeing methods which use a reel system, the venturi guides the fabric. The venturi is where the jets pulsates the dye. The jet dyeing machine consists of a large dye tank that is connected to a heat chamber through pumps that filter and control the temperature of the dye solution. Another pressurised pump moves the dye from the heat chamber to the venturi. The fabric is then formed into a loop and moves through the dye chamber into the venturi. Next the fabric is moved around the venturi and the dye chamber by the pressurised dye solution. This movement is aided by a reel that helps guide the fabric into the venturi, however the jet system remains the dominant form of movement.\n\nThe beam dyeing machine is a large dye vat that consists of a perforated beam that an open width of fabric is wound around. The perforated beam sits within the dye beam carrier. The machine consists of a number of high pressure pumps that transfer the dye liquor in and out of the machine. The dye liquor moves through the perforated holes in the beam into the high pres",
+  "url": "https://en.wikipedia.org/wiki/Batch_dyeing",
+  "revision_id": 1345083304,
+  "article_id": 60914716,
+  "section_path": "shared_text[0:9937]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 71316,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "d0ac73aa6b316a310431d2b0101e9b000db135e4ca3e360c9d26d32d08b91682",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345083304",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60914716",
+    "revision_id": "1345083304",
+    "retrieved_at": "2026-10-18T12:23:25.209831+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9937,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

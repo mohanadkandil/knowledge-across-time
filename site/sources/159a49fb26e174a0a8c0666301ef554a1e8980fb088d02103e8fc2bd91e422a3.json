@@ -1,0 +1,36 @@
+{
+  "id": "bri-2061-6248f3be377e:region-0:2880",
+  "kind": "britannica",
+  "page_id": "bri-2061-6248f3be377e",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+  "text": " were extremely violent ( and the people with our doors were greatly adjusted throughout the whole extent of the United States. The general truth was, to prefere peace and mentally ( but the complaints against British were very loud, especially so the cartenfe traders who were not attached to the British interests over the chief fathers by the interruption of commerce. The antidisabilities on this occasion became still more attached to France, the costation of whofo anarchy among a virtuous people they declared",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+  "provenance": {
+    "page_id": "bri-2061-6248f3be377e",
+    "row_index": 2061,
+    "volume_id": "191689063",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+    "label": 0,
+    "sha256": "6248f3be377e8f5a5ce7edae7a3016a4fe147caab749bad8e012ed5221d95805",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2061-6248f3be377e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.0625,
+    0.0492,
+    0.4463,
+    0.9016
+  ],
+  "offsets": [
+    2880,
+    3396
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

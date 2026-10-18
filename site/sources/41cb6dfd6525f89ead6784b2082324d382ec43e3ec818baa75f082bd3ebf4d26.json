@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-55610e4e3a87",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": "deep currents known as the thermohaline circulation. Since the 1990s, the Odden ice tongue rarely develops.\n\nWater from the Atlantic passes through the Greenland Sea and enters the Arctic ocean via Atlantic Meridional Overturning Circulation. The Greenland Sea is connected to these other oceans via eddies that redistribute warm water from the Atlantic Ocean and cold water from the Arctic Ocean. These eddies have been found to bring the temperature of the nearby regions of the ocean closer together, even as far away as the Indian Ocean, since 2000. These temperature changes have been linked to the slowing of water passing through the Greenland Sea from the Atlantic and Arctic oceans, however it is unclear how this flow might change in the future. This warming has also been linked to an increase in rains and monsoon intensity in India. Ice in the Greenland Sea has been recorded to be in decline as the water in the region has warmed. Reduction of sea ice in the Greenland Sea has been linked to increased volumes of precipitation that forms in the ocean around both India and Korea, precipitation intensity on Svalbard, and to temperature instability during summer in European Russia. Some of this melting is due to warming foehn winds from the northeast.\n\nThe Greenland Sea is densely inhabited by the organisms that form the base of the oceanic food chain. Large invertebrates, fish (such as cod, herring, redfish, halibut, and plaice), birds, and mammals (including various species of seals, whales, and dolphins) all feed on the smaller invertebrates and small organisms. Mosses, liche",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

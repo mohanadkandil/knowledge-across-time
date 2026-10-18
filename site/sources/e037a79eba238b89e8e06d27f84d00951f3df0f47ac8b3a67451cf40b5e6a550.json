@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "He was from after engaged as a textor to the fun of Robert Young, Eliy of them, the great grandion of Sir Peter Young, who under the direction of Bucha- nua had been prepped of James VI. His income we must have been very family, or his function suppleant a for within a year he accepted the office of Schol- maelne the parth of Laurence-kir. The proftion of schoolmother is a country-parth is that period could open no field for ambition, nor project of great emalismus for by an act of a palmature pulled in 633s, the flattery opportunities to their office could not be im- erred above 200 merks Soms, 41: 1 : 2 : 2: 3 Sterling. In Edinburgh the dates of this month, because there, it is probable that he died Simina a _Rudimena Grammatica_, which was the genelinty might in the northern (behobus, and by which he himself had been influenced in the people of Latin grammar.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4932,
+    0.1164,
+    0.8857,
+    0.3555
+  ],
+  "offsets": [
+    0,
+    874
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

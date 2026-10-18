@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23159504-1318177268-fb06b580e30f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of chocolate",
+  "text": "eria\n\nCocoa production in São Tomé and Príncipe\n\nCocoa production in Sri Lanka\n\nTypes of chocolate – Classification of different chocolate types\n\nAerated chocolate – Chocolate containing tiny gas bubbles\n\nBaking chocolate – Chocolate intended for use in baking\n\nBittersweet chocolate – Term for dark chocolate used in the United States to indicate the amount of added sugar\n\nCioccolato di Modica – Italian specialty chocolate\n\nCompound chocolate – Combination of cocoa, vegetable fat and sweeteners\n\nCouverture – Chocolate with more cocoa butter\n\nDark chocolate – Chocolate with high cocoa solid content\n\nGianduja – Confection made of chocolate and hazelnut\n\nMilk chocolate – Solid chocolate containing added milk\n\nModeling chocolate – Classification of different chocolate types\n\nOrganic chocolate – Certified-organic chocolate\n\nRaw chocolate – Chocolate made from unroasted cocoa beans\n\nRuby chocolate – Variety of chocolate\n\nWhite chocolate – Chocolate made without cocoa solids\n\nBy country\n\nBelgian chocolate – Chocolate produced in Belgium\n\nFrench chocolate – Chocolate produced in France\n\nSwiss chocolate – Chocolate processed in Switzerland\n\nBroma process – Method of extracting cocoa butter from cocoa beans\n\nConching – Process for refining chocolate by stirring at high temperature\n\nDutch process cocoa – Cocoa that has been treated with an alkalizing agent\n\nEnrober – Machine to coat a food item\n\nFederal Specification for Candy and Chocolate Confections – US standard for products made for use by the federal government\n\nSugar crust – Method to prepare liquid filled chocolates\n\nTempered c",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_chocolate",
+  "revision_id": 1318177268,
+  "article_id": 23159504,
+  "section_path": "shared_text[0:9287]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 111828,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "d27b94eb7e648adb0cd98875b936fcf5f60a3d760368185a7f037b9f1b49b80f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318177268",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23159504",
+    "revision_id": "1318177268",
+    "retrieved_at": "2026-10-18T12:16:14.053579+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9287,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

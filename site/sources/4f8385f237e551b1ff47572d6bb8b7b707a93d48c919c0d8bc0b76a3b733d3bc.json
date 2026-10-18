@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "376 BRITAIN.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.0908,
+    0.0734,
+    0.6357,
+    0.0875
+  ],
+  "offsets": [
+    0,
+    12
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

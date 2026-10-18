@@ -1,0 +1,36 @@
+{
+  "id": "bri-0148-d2bd224be86b:region-22:0",
+  "kind": "britannica",
+  "page_id": "bri-0148-d2bd224be86b",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+  "text": "BLOCKLAND, ANTHORY DE MONSTORT, histo-ryal portraits, painter, was born of a noble family at Montien in 1532. He became the art of painting in the school of Francis Floris, whose manner he always followed, and became an artist of great distinction, by endeavoring principally in outside the state of the Ro- man school in design and composition. His genius was best adapted to grand compositions, if which he de- signed many; seems at Delft, but more of Utrecht. His designs had grandeur, the size of his heads were noble, and the profiles of his female figures approached you to the taste of Farmigians. Several of the works are in so good a tastes, and particularly a Venus, and the history of clouds and his brothers, that they seem to have been painted by a matter educated in the school of Florence. He died in 1585.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+  "provenance": {
+    "page_id": "bri-0148-d2bd224be86b",
+    "row_index": 148,
+    "volume_id": "193696080",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 3, ASS-BOO - EB.11",
+    "label": 0,
+    "sha256": "d2bd224be86b5c44f1e37343f9b0a5440cebf92c95e7917fa3fcae9e12afdb5f",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0148-d2bd224be86b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=148",
+    "manual_seed": false
+  },
+  "region_id": "region-22",
+  "bbox_raw": [
+    0.5127,
+    0.45,
+    0.9014,
+    0.6648
+  ],
+  "offsets": [
+    0,
+    821
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

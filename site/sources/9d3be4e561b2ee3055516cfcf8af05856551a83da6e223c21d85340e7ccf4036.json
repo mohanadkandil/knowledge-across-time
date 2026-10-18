@@ -1,0 +1,44 @@
+{
+  "id": "wiki-32345983-1347878826-1d4f6e55df84",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Lists of Hindu temples",
+  "text": "This is a list of lists of Hindu temples. List is in alphabetical order in three types: based on geographic locations and by continents; by theme; and by prime deity.\n\nList of Hindu temples in Mauritius\n\nList of Hindu temples in South Africa\n\nList of Hindu temples in Tanzania\n\nList of Hindu temples in Afghanistan\n\nList of Hindu temples of Kabul\n\nList of Hindu temples in Bangladesh\n\nList of Hindu temples in Cambodia\n\nList of Hindu temples in Pakistan\n\nList of Hindu temples in India\n\nBy state:\n\nList of Hindu temples in Andhra Pradesh\n\nList of Hindu temples in Tirupati\n\nList of Hindu temples in Bihar\n\nList of Hindu temples in Goa\n\nList of Hindu temples in Kerala\n\nGoud Saraswat Brahmin temples in Kerala\n\nList of Hindu temples in Tamil Nadu\n\nList of temples in Kanchipuram\n\nList of Hindu temples in Kumbakonam\n\nTemples of Telangana\n\nList of temples in Uttarakhand\n\nBy non-states:\n\nList of Hindu temples in Bareilly\n\nList of Chola temples in Bangalore\n\nList of Hindu temples in Bhubaneswar\n\nList of Hindu temples in Bishnupur\n\nList of temples in Tulu Nadu\n\nList of Hindu temples in Indonesia\n\nList of Hindu temples in Japan\n\nList of Hindu temples in Laos\n\nList of Hindu temples in Malaysia\n\nList of Hindu temples in Mongolia\n\nList of Hindu temples in Nepal\n\nList of Hindu temples in Myanmar\n\nList of Hindu temples in Pakistan\n\nList of temples in Lahore\n\nList of Hindu temples in Multan\n\nList of Hindu temples in Sindh\n\nList of Hindu temples in Philippines\n\nList of Hindu temples in Singapore\n\nList of Hindu temples in South Korea\n\nList of Hindu temples in Sri Lanka\n\nList of Hindu temples in Thai",
+  "url": "https://en.wikipedia.org/wiki/Lists_of_Hindu_temples",
+  "revision_id": 1347878826,
+  "article_id": 32345983,
+  "section_path": "shared_text[0:3642]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "89bb7bee9a19e5e9cabd57d6bed9f2d1cc5522d3c306f919e8925ec783877cd4",
+    "source_row_idx": 5544,
+    "source_shard": "enwiki/data/enwiki_namespace_0_47.parquet",
+    "text_sha256": "ba9ad78fecec08b233d926358a11ae06217d277c7dab23bbcbc1f397ee28a747",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347878826",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "32345983",
+    "revision_id": "1347878826",
+    "retrieved_at": "2026-10-18T12:36:36.927444+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3642,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

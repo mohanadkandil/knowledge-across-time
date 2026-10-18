@@ -1,0 +1,44 @@
+{
+  "id": "wiki-32345983-1347878826-cc8bc25cb28b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Lists of Hindu temples",
+  "text": "ples in Philippines\n\nList of Hindu temples in Singapore\n\nList of Hindu temples in South Korea\n\nList of Hindu temples in Sri Lanka\n\nList of Hindu temples in Thailand\n\nList of Hindu temples in Vietnam\n\nList of Hindu temples in England\n\nList of Hindu temples in France\n\nList of Hindu temples in Germany\n\nList of Hindu temples in Poland\n\nList of Hindu temples in Switzerland\n\nList of Hindu temples in the United Kingdom\n\nList of Hindu temples in the United States\n\nList of Hindu temples in Canada\n\nList of Hindu temples in Trinidad and Tobago\n\nList of Hindu temples in Guyana\n\nBiggest\n\nList of largest Hindu temples\n\nList of large temple tanks\n\nList of tallest Gopurams\n\nList of largest Hindu ashrams\n\nCaves and rocks\n\nList of India cave temples\n\nList of rock-cut temples in India\n\nList of Hindu deities\n\nRigvedic deities\n\nSun worship in Hinduism\n\nList of solar deities in Hinduism\n\nList of Sun temples in Hinduism\n\nJyotisha\n\nNakshatra\n\nSaptarishi\n\nList of Natchathara temples\n\nNavagraha\n\nList of Navagraha temples\n\nAdityas\n\nList of Sun temples in Hinduism\n\nSurya Namaskar\n\nChandra\n\nArdha Chandrasana\n\nList of Chandra temples\n\nShani\n\nList of Shani temples\n\nShaivism\n\nChar Dham\n\nChota Char Dham\n\n64 original Jyotirlinga\n\nList of 12 Maha Jyotirlinga\n\nList of 108 Shiva Temples\n\nList of Bhairava temples\n\nList of Ganesha temples\n\nList of Shiva temples in India\n\nList of Indus Valley Civilization sites (Proto-haivism and Proto-Shaktism)\n\nShaktism\n\nList of 51 Shakti Pitha\n\nList of Mansa Devi temples\n\nList of Shakti peeth in Bengal\n\nList of Indus Valley Civilization sites (Proto-haivism and Proto-Shaktism)",
+  "url": "https://en.wikipedia.org/wiki/Lists_of_Hindu_temples",
+  "revision_id": 1347878826,
+  "article_id": 32345983,
+  "section_path": "shared_text[0:3642]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "89bb7bee9a19e5e9cabd57d6bed9f2d1cc5522d3c306f919e8925ec783877cd4",
+    "source_row_idx": 5544,
+    "source_shard": "enwiki/data/enwiki_namespace_0_47.parquet",
+    "text_sha256": "ba9ad78fecec08b233d926358a11ae06217d277c7dab23bbcbc1f397ee28a747",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347878826",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "32345983",
+    "revision_id": "1347878826",
+    "retrieved_at": "2026-10-18T12:36:36.927444+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3642,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

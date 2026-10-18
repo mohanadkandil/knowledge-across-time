@@ -1,0 +1,36 @@
+{
+  "id": "bri-1442-e57a7203c4cb:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1442-e57a7203c4cb",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+  "text": "that his subjects were entirely at his command, refol- england.\nto operate totally from the church of Rome. In the years 1534, he was declared that of the church by declared parliament; the minority of the pope was completely abolition in England; all athletes formerly paid to the Italy few were declared illegal, and the king was ex- tuted with the coalition to all eeclicalfished besides. The nation came into the king’s western and they could took an with each die and the end of frequency, and the credit which the popes had maintained over England for ages, was now overflown at once; and none formed to repine at the change, except those who were immediately intercepted by their dependence on Rome. But thought the king thus farpassed from the church of Naz., lie by on means allowed to do doctrines of Luther which had been lately published. He had written a book gap with the celebrated reform, which the pope pretended greatly to aimners and honoured King Henry, on its account, with the title of \"De- feute of the faith\". This character he formed to be determined to maintain, and therefore protected the reformer mold violently. Many were burst for denying the people debeties, and fans alfo were used for maintaining the frequency of the pope. The counters box not which fide to take, as both the new and del religious were equally protected, and as both parties equally counted to the favor of the king, he was by that means enabled to affune an absolute authority over the nation. As the model had all and going thou the greatest rifiutness to Henry’s ecdefault chanca-ter, he relived",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+  "provenance": {
+    "page_id": "bri-1442-e57a7203c4cb",
+    "row_index": 1442,
+    "volume_id": "149979622",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 6, DIA-ETH - EB.5",
+    "label": 0,
+    "sha256": "e57a7203c4cb43bce59f52e0f7a2e3e9d5845c8986f17f2418095dc8f1f88ada",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1442-e57a7203c4cb.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1442",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.4551,
+    0.0477,
+    0.998,
+    0.932
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

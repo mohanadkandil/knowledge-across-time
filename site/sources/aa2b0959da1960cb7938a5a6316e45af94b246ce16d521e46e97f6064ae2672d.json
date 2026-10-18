@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16285814-1340136739-93d8ccfebfa1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Ukraine",
+  "text": " Ukraine\n\nThe judicial system of Ukraine consists of four levels of courts of general jurisdiction:\n\nSupreme Court of Ukraine – the court of final appeal, covers all cases\n\nHigh courts with specialized jurisdiction\n\nThe High Administrative Court of Ukraine – covers administrative cases\n\nThe High Arbitration Court of Ukraine – covers economic and commercial cases\n\nAppeals courts of Ukraine\n\nAppeals Court of the Autonomous Republic of Crimea\n\nRegional appeals courts of Ukraine\n\nAppeals courts of the cities of Kyiv and Sevastopol\n\nAppeals Court of the Ukrainian Navy\n\nRegional military appeals courts of Ukraine\n\nEconomic appeals courts of Ukraine (known also as arbitration courts)\n\nAdministrative appeals courts of Ukraine\n\nThe Appeals Court of Ukraine – currently does not exist\n\nLocal courts of general jurisdiction of Ukraine – includes criminal and civil jurisdiction\n\nDistrict, urban district and town courts of Ukraine\n\nRegional courts of Ukraine\n\nCity courts in Kyiv and Sevastopol\n\nAdministrative local courts of Ukraine\n\nForeign relations of Ukraine\n\nDiplomatic missions in Ukraine\n\nList of diplomatic missions of Ukraine\n\nInternational organization membership of Ukraine Ukraine is a member of:\n\nLaw of Ukraine\n\nConstitution of Ukraine\n\nCrime in Ukraine\n\nHuman rights in Ukraine\n\nLGBT rights in Ukraine\n\nFreedom of religion in Ukraine\n\nLaw enforcement in Ukraine\n\nMilitary of Ukraine\n\nCommand\n\nCommander-in-chief: Volodymyr Zelenskyy\n\nMinistry of Defence of Ukraine\n\nForces\n\nArmy of Ukraine\n\nNavy of Ukraine\n\nAir Force of Ukraine\n\nSpecial forces of Ukraine\n\nMilitary history of Ukraine",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Ukraine",
+  "revision_id": 1340136739,
+  "article_id": 16285814,
+  "section_path": "shared_text[0:9288]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 81840,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "0a336979a9f74cdbbfd23fe80554502677a24c32d3fa545fc26e6b226355e25b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340136739",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16285814",
+    "revision_id": "1340136739",
+    "retrieved_at": "2026-10-18T12:24:49.303455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9288,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

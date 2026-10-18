@@ -1,0 +1,36 @@
+{
+  "id": "bri-2061-6248f3be377e:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2061-6248f3be377e",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+  "text": "they did not fear. If falsified could not be obtained from Britain, they propoded a lequattration of Britli property in America, an interruption of all commerce with Britain, and they imported, but by aming American privateers, prohibiting the conveyance of provision to the British lands, and firing on Canada, they afforded more certain means of injuring Britain, if the was relolved upon war, than any fire had with which to make republican the States. The fee-mality, on the other hand, were eager to save all connection with France, and propelled the mildelt mea-fires of emontances and negotiation with regard to England, deprecating the data of entering into a con-telf with her ( and the predit appears a length to have adopted the redefinition of going, fully into the creation of this half party. He disifinal Thomas Leferfrom from the office of forestry of fans, be being of this party that had always allowed an attachment to pure republicanism, and that was at perfect molt ho-litto Great Britain. He is the famine time referred to lead Dr. Jay to England for the pursuit of negotiating with the British government. This lait gentlemain being known to be decidedly attached to the fe-familiary, indicated to the public in very clear terms the measures which the government had relfeded to adopt",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+  "provenance": {
+    "page_id": "bri-2061-6248f3be377e",
+    "row_index": 2061,
+    "volume_id": "191689063",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 2, AME-ASS - EB.10",
+    "label": 0,
+    "sha256": "6248f3be377e8f5a5ce7edae7a3016a4fe147caab749bad8e012ed5221d95805",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2061-6248f3be377e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2061",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.4521,
+    0.0672,
+    0.835,
+    0.4031
+  ],
+  "offsets": [
+    0,
+    1307
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

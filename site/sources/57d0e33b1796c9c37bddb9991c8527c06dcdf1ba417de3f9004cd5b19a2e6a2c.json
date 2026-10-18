@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8825475-1310119841-014c51138412",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of goose breeds",
+  "text": "ische Landgans)\n\nBenkov goose (Бяла Бенковска гъска)\n\nBilgorey goose\n\nBogdanovski goose (= Javakhetian goose)\n\nBourbon goose (Oie du Bourbonnais, Blanche de Bourbonnais)\n\nBrecon buff goose\n\nBuff back goose\n\nCelle goose (Celler Gans)\n\nCotton Patch goose\n\nCurly breasted Sebastopol goose\n\nCzech goose (Česká husa)\n\nCzech crested goose (Česká chocholatá hus)\n\nDanish landrace goose (Danske gæs: grå, gråbroget)\n\nDaoxian goose\n\nDiepholz goose (Diepholzer Gans)\n\nDrava goose (Dravska guska)\n\nEmden goose (Emdener Gans)\n\nEmporda goose (Emporda-Gans)\n\nEnglish saddleback goose (→ Buff back goose)\n\nEuskal Antzara goose\n\nFaroese goose (Færøske gæs)\n\nFighting goose (= Steinbacher Goose)\n\nFlemish goose (Oie flamande)\n\nFranconian goose (Fränkische Landgans)\n\nGarbonosa goose\n\nGerman laying goose (Deutsche Legegans)\n\nGorki goose (Горьковская or Линдовская)\n\nGorkowska goose\n\nGreyback goose\n\nHan Tah Pra goose\n\nHawaiian goose (Nene)\n\nHungarian goose\n\nHwo goose\n\nJavakhetian goose\n\nKaluga goose\n\nKangan goose\n\nKars goose\n\nKartuzy landrace (Kartuska)\n\nKholmogory goose (Холмогорская)\n\nKielce landrace (Kielecka)\n\nKoean goose\n\nKrasnozerskoye goose (Краснозёрская, Krasnozy, Skoye)\n\nKuban goose (Кубанская)\n\nLandes goose (Oie des Landes)\n\nLarge grey goose\n\nLeine goose (Leinegans)\n\nLingzian goose\n\nLikewu goose\n\nLionhead goose\n\nLippe goose (Lippegans)\n\nLocal geese of Karal and Massakory\n\nLocal goose of Mandelia\n\nLubelska goose\n\nMongolian local geese\n\nNormandy goose (Oie normande; including Crested Normandy goose)\n\nNorwegian white goose (Norsk hvit gås)\n\nNungan Mieu goose\n\nObroshino goose (Оброшинська)\n\nÖland ",
+  "url": "https://en.wikipedia.org/wiki/List_of_goose_breeds",
+  "revision_id": 1310119841,
+  "article_id": 8825475,
+  "section_path": "shared_text[0:5156]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 59971,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "59e3b673d69b826651170eaa5cfd9171ffd0117a26104b9d353e2b29d2ce0031",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1310119841",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8825475",
+    "revision_id": "1310119841",
+    "retrieved_at": "2026-10-18T12:42:01.881582+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5156,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

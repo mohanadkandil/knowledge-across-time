@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "Company, member of any other company ; not any retail-denker at all. That no merchant qualified be admitted with out paying for pounds thirteen thillings and fixpence. This is a member of another company defining to re-nance the privileges thereof, and to be received into that of the Eft shall be admitted _greriz_’ provided he presents the form favor for a merchant of the Eft willing to fill his place. That the merchant-detvente rest who never draft in the Eft, in the places streetfed in the charter, may be received as members of the company on paying one marks ; that, readwithfishing this union of the adventurers of England with the company of the Eft, each half remain its rights and privileges. That they fault export two clubs that what are dyed and prefix), except a hundred pieces per un, many, which are allowed them _grerir._ This charter was confirmed by Charles II: in 1639, with this addition, that no person, of what quality favors, living in London, should be admitted a member, which we were free of the city. This company was complained of as a monopoly, soft felt controlled by legal authority in 1672,3 and three the declaration of rights in 1680, exift only in name ; but fill continue to elect their annal officers, who are a governor, a deputy, and twenty-five class affiants.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0908,
+    0.0727,
+    0.5459,
+    0.3984
+  ],
+  "offsets": [
+    0,
+    1304
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

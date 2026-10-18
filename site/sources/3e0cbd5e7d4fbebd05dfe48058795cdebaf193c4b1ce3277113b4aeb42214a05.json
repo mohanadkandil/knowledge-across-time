@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-6:1440",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": " energy velocity; that is to day, whether or not the fame quantity of air was forced, in the fame time, into the furnace through a small pipe, or therefore one of larger dimensions; for, in attending to the proect of a common air furnace for something of Iron, where there is every large quantity of air admitted through the large areas between the bars, it's wet known, thus a much greater identity of hen is produced than takes place in a blast furnaces, and yet the air does not enter into the freq through the bars with increased density or great velocity, i therefore thought probably, that increasing the quantity of air thermown into the blast furnace in a comfortable degree, although the velocity or and its deploy might be much hot, would have the effect of its quantity creating in beer, and operations, and produce. And ordered, as, from the pinnacle above flares, with regard to the machinery, i how I could greatly increase the quantity of air thrown into the furnace, by enlarging the diameter of the blow-pipe, and regulating the engine accordingly, without being obliged to employ more power, I was anxious to make this experiment.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5107,
+    0.1156,
+    0.9414,
+    0.7281
+  ],
+  "offsets": [
+    1440,
+    2588
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

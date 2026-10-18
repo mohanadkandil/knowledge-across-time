@@ -1,0 +1,36 @@
+{
+  "id": "bri-0795-19d3c2691629:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0795-19d3c2691629",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+  "text": "\"This treatment reported upon other plants floured the effects, and it was remained that the interac-tion, occasioned by a fitung discharge of the electri- city, produced an attention different since the placenta. Those which are also wound, more herbaceous, more aqueous, experience in proportion, properties that are longer and much more freely in their operation.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+  "provenance": {
+    "page_id": "bri-0795-19d3c2691629",
+    "row_index": 795,
+    "volume_id": "192692190",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+    "label": 0,
+    "sha256": "19d3c2691629ee34e9c8b03b68981563ab13865ea52b674707da58406aa010fa",
+    "width": 600,
+    "height": 774,
+    "image_file": "../images/bri-0795-19d3c2691629.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.8037,
+    0.475,
+    0.8232,
+    0.5734
+  ],
+  "offsets": [
+    0,
+    366
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

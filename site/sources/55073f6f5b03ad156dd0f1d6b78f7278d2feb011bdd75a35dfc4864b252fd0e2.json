@@ -1,0 +1,44 @@
+{
+  "id": "wiki-593754-1320064819-e7c593baee1f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cloud (disambiguation)",
+  "text": "uds\", a song by Chaka Khan from Naughty\n\n\"Clouds\", a song by Level 42 from Retroglide\n\n\"Clouds\", an interlude by Janet Jackson from All for You\n\n\"Clouds\", a song by Kasabian from 48:13\n\n\"Clouds\", a song by One Direction from Four\n\n\"Clouds\", a song by Redrama (feat. A. J. McLean) from Reflection\n\n\"Clouds\", a song by Spires That in the Sunset Rise from This Is Fire\n\n\"Clouds\", a track by Slayyyter from her album Troubled Paradise\n\n\"Clouds\", a 2013 song by Travis Garland from Travis Garland\n\n\"Clouds\" (NF song), 2021\n\n\"Clouds\", a 2020 song by Steps from the album What the Future Holds\n\n\"Cloudy\", a song by Average White Band from Cut the Cake\n\n\"Clouds\" (J. Cole song), 2025\n\nCloud (film), a 2024 Japanese film by Kiyoshi Kurosawa\n\nCloud (video game), a 2005 third-person computer puzzle game\n\nClouds (2000 film), an American film by Don Thompson\n\nClouds (2020 film), an American drama film by Justin Baldoni\n\n\"Cloudy\", a 2017 episode of \"Elements\" from Adventure Time\n\nClouds (sculpture), a 2000 stainless steel abstract sculpture by Hans Van de Bovenkamp\n\nCloud computing, Internet-based development and use of computer technology stored on servers rather than the client computers\n\nCloud storage, a model of networked online storage\n\nGoogle Cloud, a name used by Google for several different offerings from time to time\n\nCloud (operating system), an operating system by Good OS\n\nCloud.com, software developer of Apache CloudStack\n\nCloud (dancer) (born 1983), American dancer\n\nCloud (surname)\n\nClodoald or Cloud (522–560), son of King Chlodomer of Orleans\n\nCloud County, Kansas\n\nClouds, Tennessee,",
+  "url": "https://en.wikipedia.org/wiki/Cloud_(disambiguation)",
+  "revision_id": 1320064819,
+  "article_id": 593754,
+  "section_path": "shared_text[0:3567]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 4484,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "cfe41c0979eeffc90028f60957972c7354301d92156e1ce1fea6e8c027170998",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1320064819",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "593754",
+    "revision_id": "1320064819",
+    "retrieved_at": "2026-10-18T12:16:57.938183+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3567,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

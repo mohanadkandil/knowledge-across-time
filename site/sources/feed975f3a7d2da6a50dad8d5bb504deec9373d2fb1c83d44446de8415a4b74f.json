@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-9:1440",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "ddle age of Roman juniprocency, when liberty, learning, and humanity, were in their full vigour, than with the credil edits that were elita- bilind in the trade and衰ad ages of the ancient decrements, or the latter expressors.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4766,
+    0.1828,
+    0.8711,
+    0.6188
+  ],
+  "offsets": [
+    1440,
+    1665
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

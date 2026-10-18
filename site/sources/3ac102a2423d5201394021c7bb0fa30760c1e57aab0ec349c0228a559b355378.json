@@ -1,0 +1,36 @@
+{
+  "id": "bri-1161-90380c2d7915:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-1161-90380c2d7915",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+  "text": "During those civil warts which the saw Saxon masters of England created on against each other the secret king- doms were united under one head in the press of Egbert, 9119, the city of Lonón, if I did not maintain a neutrality, youere to have sufficiently increased in importance to induce that prince to make it the capital of his whole king- deny, which in this command to be over since that reign.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+  "provenance": {
+    "page_id": "bri-1161-90380c2d7915",
+    "row_index": 1161,
+    "volume_id": "193108323",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 13, LAB-Magnetism - EB.15",
+    "label": 0,
+    "sha256": "90380c2d7915178053a04da73b000737a5abf3aac98da2af8d03e9e4f1b22791",
+    "width": 600,
+    "height": 823,
+    "image_file": "../images/bri-1161-90380c2d7915.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1161",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.4541,
+    0.6023,
+    0.8672,
+    0.6891
+  ],
+  "offsets": [
+    0,
+    400
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

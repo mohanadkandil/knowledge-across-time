@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-ee9d766a4003",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": "The Encyclopædia Britannica (Latin for ' British Encyclopaedia ') is a general-knowledge English-language encyclopaedia. It has been published since 1768, and after several ownership changes is currently owned by Encyclopædia Britannica, Inc. The 2010 version of the 15th edition, which spans 32 volumes and 32,640 pages, was the last printed edition. Since 2016, it has been published exclusively as an online encyclopaedia at the website Britannica.com.\n\nPrinted for 245 years, the Britannica was the longest-running in-print encyclopaedia in the English language. It was first published between 1768 and 1771 in Edinburgh, Scotland, in weekly instalments that came together to form three volumes. At first, the encyclopaedia, from edition to edition, grew quickly in size. The second edition was extended to 10 volumes, and by its fourth edition (1801–1810), the Britannica had expanded to 20 volumes. Since the beginning of the twentieth century, its size (at least in terms of total word length) has remained roughly steady, at about 40 million words.\n\nThe Britannica ' s rising stature as an authoritative and scholarly work helped recruit eminent contributors, and the 9th (1875–1889) and 11th editions (1911) are landmark encyclopaedias for scholarship and literary style. Starting with the 11th edition and following its acquisition by an American firm, the Britannica shortened and simplified articles to broaden its appeal to the North American market. Though published in the United States since 1901, the Britannica has for the most part maintained British English spelling.\n\nIn 1932, th",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

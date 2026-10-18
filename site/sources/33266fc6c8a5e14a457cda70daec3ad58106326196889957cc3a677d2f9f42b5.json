@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8056615-1088510552-ca2962f7bce0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Drowning (disambiguation)",
+  "text": "Drowning is death by suffocation caused by a liquid that enters the lungs.\n\nDrowning may also refer to:\n\nDrowning EP or the title song, by Lahannya, 2000\n\nII—Drowning, by Plasma Pool, 1997\n\n\"Drowning\" (Armin van Buuren song), 2011\n\n\"Drowning\" (Backstreet Boys song), 2001\n\n\"Drowning\" (Banks song), 2014\n\n\"Drowning\" (The Beat song), 1981\n\n\"Drowning\" (A Boogie wit da Hoodie song), 2017\n\n\"Drowning\" (Chris Young song), 2019\n\n\"Drowning\" (Crazy Town song), 2002\n\n\"Drowning\" (Hootie & the Blowfish song), 1995\n\n\"Drowning\" (Mario song), 2018\n\n\" Drowning (Face Down) \", by Saving Abel, 2009\n\n\"Drowning\", by Adema from Adema, 2001\n\n\"Drowning\", by Arca from Sheep\n\n\"Drowning\", by Jay Brannan from In Living Cover, 2009\n\n\"Drowning\", by John Entwistle from Mad Dog, 1975\n\n\"Drowning\", by Richard Wright from Broken China, 1996\n\n\"Drowning\", by Screaming Jets from World Gone Crazy, 1997\n\n\"Drowning\", by Six Feet Under from Alive and Dead, 1996\n\n\"Drowning\", by Stabbing Westward from Darkest Days, 1998\n\n\"Drowning\", by Stereophonics from Pull the Pin, 2007\n\n\"A Drowning\", by How to Destroy Angels from How to Destroy Angels, 2010\n\nDrowning (film), a 2020 American film by Melora Walters\n\nDrowning (play), a 1987 play by María Irene Fornés\n\nDrowning Fork, a stream in Illinois, US",
+  "url": "https://en.wikipedia.org/wiki/Drowning_(disambiguation)",
+  "revision_id": 1088510552,
+  "article_id": 8056615,
+  "section_path": "shared_text[0:1265]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1265
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 119081,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "610c44d3d79663a9774f16dbb97362d3146c03eedd5001fc478e5c763c01dfc0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1088510552",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8056615",
+    "revision_id": "1088510552",
+    "retrieved_at": "2026-10-18T12:41:18.459485+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1265,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

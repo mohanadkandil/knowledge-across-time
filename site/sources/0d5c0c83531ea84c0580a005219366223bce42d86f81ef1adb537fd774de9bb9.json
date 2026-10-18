@@ -1,0 +1,44 @@
+{
+  "id": "wiki-47266228-1320258907-0d0cab8c0cb5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of rivers of the United States by discharge",
+  "text": "This is a list of rivers in the continental United States by average discharge (streamflow) in cubic feet per second. All rivers with average discharge more than 15,000 cubic feet per second are listed. Estimates are approximate, because data are variable with time period measured and also because many rivers lack a gauging station near their point of outflow.",
+  "url": "https://en.wikipedia.org/wiki/List_of_rivers_of_the_United_States_by_discharge",
+  "revision_id": 1320258907,
+  "article_id": 47266228,
+  "section_path": "shared_text[0:362]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    362
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+    "source_row_idx": 51810,
+    "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+    "text_sha256": "74bb3001cc5d6a9bdb70c17696cd803660dcf912a27bac62bfc84dab8cde1568",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1320258907",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "47266228",
+    "revision_id": "1320258907",
+    "retrieved_at": "2026-10-18T12:35:44.177611+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 362,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

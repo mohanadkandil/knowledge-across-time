@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5657929-1334330523-5f503c212f1d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scottish Gas Board",
+  "text": "ion\n\nKeith Gas Company\n\nKelso Gas Company\n\nKelty Gas Company\n\nKennoway and Largo Gas Company\n\nKettle and District Gas Company\n\nKilmacolm Gas Company\n\nKilmarnock Corporation\n\nKilsyth Corporation\n\nKilwinning Gas Company\n\nKinghorn Gas-Light Company\n\nKinross and Milnathorf Gas Light Company\n\nKirkcaldy Corporation\n\nKirkconnel Gas Company\n\nKirkcudbright Corporation\n\nKirkintilloch Corporation\n\nKirkwall Corporation\n\nKirriemuir Gas Company\n\nLanark Corporation\n\nLanarkshire County Council\n\nLangholm Gas and Electricity Supply Company\n\nLargs Corporation\n\nLasswade and Bonnyrigg Gas Light Company\n\nLaurencekirk Lighting Society Limited\n\nLerwick Gas Company\n\nLeslie Gas Company\n\nLesmahagow Gas Light Company\n\nLinlithgow Gas Company\n\nLoanhead Gas Company\n\nLochgelly Gas Company\n\nLochwinnoch Gas Light Company\n\nLockerbie Corporation\n\nMarkinch Gas Light Company\n\nMaybole Gas Light Company\n\nMelrose Gas Company\n\nMillport Corporation\n\nMoffat Gas Light Company\n\nMonifieth Corporation\n\nMontrose Gas Company\n\nMotherwell and Wishaw Corporation\n\nMuirkirk Gas-Light Company\n\nMusselburgh Gas Company\n\nNairn Gas Light Company\n\nNeilston Gas Light Company\n\nNewburgh Gas Company\n\nNew Cumnock Gas Company\n\nNewmilns and Greenholm Corporation\n\nNewport Corporation\n\nNewton-on-Ayr Gas Company\n\nNewton-Stewart Gas Company\n\nNorth Berwick Corporation\n\nOban & District Gas Company\n\nOldmeldrum Corporation\n\nPaisley Corporation\n\nPeebles Corporation\n\nPenicuik and District Gas Company\n\nPerth Corporation\n\nPeterhead Corporation\n\nPitlochry New Gas Light Company\n\nPrestonpans and District Gas Company\n\nPolmont District Gas Company\n\nPort Gla",
+  "url": "https://en.wikipedia.org/wiki/Scottish_Gas_Board",
+  "revision_id": 1334330523,
+  "article_id": 5657929,
+  "section_path": "shared_text[0:5320]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 3231,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "042df5ea76a233aafab62ed0ac06c2e763699159b2ba9e98c4473479d627599d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334330523",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5657929",
+    "revision_id": "1334330523",
+    "retrieved_at": "2026-10-18T12:30:10.899768+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5320,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

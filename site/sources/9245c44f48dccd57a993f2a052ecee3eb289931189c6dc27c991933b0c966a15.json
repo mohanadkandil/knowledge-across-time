@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24559769-1271933277-2d8f1edbcc12",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anabas",
+  "text": "Anabas is a genus of climbing gouramies native to southern and eastern Asia. In the wild, Anabas species grow up to 30 cm (1 ft) long. They inhabit both brackish and fresh water. Anabas species possess a labyrinth organ, a structure in the fish's head which allows it to breathe atmospheric oxygen, so it can be out of water for an extended period of time (6–8 hr), hence its name from the Greek anabainein ‘walk up’, from ana- ‘up’ + bainein ‘go’. They are carnivorous, living on a diet of water invertebrates and their larvae, and - in contrast to most of their relatives - are scatter spawners with no parental care. Species are found in South Asia, including India, Sri Lanka, Bangladesh, Burma, Indonesia, Malaysia, Thailand, Cambodia, and the Philippines.\n\nThere are two recognized species in the genus Anabas:\n\nAnabas cobojius (F. Hamilton, 1822) (Gangetic koi)\n\nAnabas testudineus (Bloch, 1792) (climbing perch)",
+  "url": "https://en.wikipedia.org/wiki/Anabas",
+  "revision_id": 1271933277,
+  "article_id": 24559769,
+  "section_path": "shared_text[0:919]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    919
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 120657,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "7735168c23b95f9eda048c9e291dc30840f498b1134ca229cb7339d8fe5a8f3d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1271933277",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24559769",
+    "revision_id": "1271933277",
+    "retrieved_at": "2026-10-18T12:40:29.029428+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 919,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0410-851ddf04c85e:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0410-851ddf04c85e",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+  "text": "• Moreover, as the fact of 15’?: radius 1:56075 = RT: 12013 kg RS, to which, the use add 24934, the altitude of the point R, we fall have 46'947 for the height of the metacentes, which taken from, y), the whole altitude, there remains 55053 from which, and the half width = 54 inches, the distance BS is found = 1037a inches very easily, and the angle SBV = No~=66–44’s from where SV = 58'd45 inches.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+  "provenance": {
+    "page_id": "bri-0410-851ddf04c85e",
+    "row_index": 410,
+    "volume_id": "191253809",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+    "label": 0,
+    "sha256": "851ddf04c85ebf619e92cdec1a9ea77fbf9eba816274961431054080c35eaf40",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-0410-851ddf04c85e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.5166,
+    0.5664,
+    0.9141,
+    0.6734
+  ],
+  "offsets": [
+    0,
+    400
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

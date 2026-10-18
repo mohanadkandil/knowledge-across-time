@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4932764-1288338079-6fa65b7915dc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Knox (disambiguation)",
+  "text": "ralian rules footballer\n\nJohn Knox (baseball) (born 1948), American baseball infielder\n\nJohnny Knox (born 1986), American football player\n\nJohn Knox (rebel minister) (active 17th c) a non-conforming Scottish minister who founded the John Knox Church and was exiled as a slave to New Jersey\n\nJohn Knox (philanthropist) (1720–1790), Scottish bookseller and philanthropist\n\nJohn Knox (artist) (1778–1845), Scottish landscape painter who painted a depiction of the Nelson Monument, Glasgow\n\nJohn Jay Knox Jr. (1828–1892), American financier\n\nJohn Leonard Knox (1925–2015), British High Court judge\n\nJohn Knox (chemist) (1928–2018), professor of physical chemistry\n\nJohn Knox (meteorologist) (fl. 1980s–2010s), American meteorologist and mathematician, found new method of calculating the mathematical constant e\n\nJohn H. Knox (fl. 1980s–2010s), United Nations special rapporteur\n\nJohn Knox, a character from Lantana",
+  "url": "https://en.wikipedia.org/wiki/John_Knox_(disambiguation)",
+  "revision_id": 1288338079,
+  "article_id": 4932764,
+  "section_path": "shared_text[0:2351]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2351
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 54558,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "9e5cf6d9bf0086d0c5cca10594ad9037f151108acbe8fb207e29c57f5cd503e9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1288338079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4932764",
+    "revision_id": "1288338079",
+    "retrieved_at": "2026-10-18T12:21:03.975753+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2351,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

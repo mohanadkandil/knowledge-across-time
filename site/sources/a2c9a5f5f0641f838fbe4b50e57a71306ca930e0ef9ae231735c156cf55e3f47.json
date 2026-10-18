@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3595969-1244665724-36597ea59c7f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Vesuvius (disambiguation)",
+  "text": "Vesuvius, also known as Mount Vesuvius, is a volcano in Italy that destroyed the Roman city of Pompeii.\n\nVesuvius may also refer to:\n\nVesuvius, British Columbia, an unincorporated settlement in Canada also known as Vesuvius Bay and named after HMS Vesuvius\n\nVesuvius, Virginia, an unincorporated community in the United States\n\nVesuvius National Park, Italy, centered on the volcano\n\n13897 Vesuvius, an asteroid\n\nBattle of Vesuvius won by Rome in 340 BC\n\nHMS Vesuvius, various Royal Navy ships (12 officially)\n\nUSS Vesuvius, several US Navy ships (5) with first directly named for the famous volcano\n\nThe code name for German World War II bases that were to launch the Wasserfall anti-aircraft missile\n\nVesuvius Airfield, an American World War II airfield in southern Italy\n\n\"Vesuvius\" (How I Met Your Mother), an episode of the TV series How I Met Your Mother\n\nVesuvius (UK record label), a British independent label\n\nA wind orchestral piece written by Frank Ticheli about the eruption of Mount Vesuvius\n\n\"Vesuvius\", a song by Sufjan Stevens, on his 2010 album The Age of Adz\n\nTCS Vesuvius, a starship in the Wing Commander science fiction universe\n\nVesuvius, a fictional band in the movie The Rocker\n\nVesuvius (band), a Canadian metal band, formed in 2012\n\nVesuvius Observatory, Italy\n\nA type of fireworks that resembles a volcano\n\nVesuvius plc a British maker of ceramic products",
+  "url": "https://en.wikipedia.org/wiki/Vesuvius_(disambiguation)",
+  "revision_id": 1244665724,
+  "article_id": 3595969,
+  "section_path": "shared_text[0:1382]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1382
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 246259,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "2efefe20070b4fb339be0990e10ac7ecb850f3cf4420ea4ef63a753a9b7d8679",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1244665724",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3595969",
+    "revision_id": "1244665724",
+    "retrieved_at": "2026-10-18T12:31:53.646370+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1382,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

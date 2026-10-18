@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2567022-1303985303-a3ad9650ee01",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Claude of Lorraine",
+  "text": "Claude of Lorraine may refer to:\n\nClaude, Duke of Guise (1496–1550), called \"Claude of Lorraine\" prior to his creation as Duke of Guise in 1528\n\nClaude, Duke of Aumale (1526–1573), French nobleman and military commander\n\nClaude, Duke of Chevreuse (1578–1657), French nobleman\n\nClaude Lorrain (1600–1682), French artist\n\nClaude Françoise de Lorraine (1612–1648), Princess and Duchess of Lorraine",
+  "url": "https://en.wikipedia.org/wiki/Claude_of_Lorraine",
+  "revision_id": 1303985303,
+  "article_id": 2567022,
+  "section_path": "shared_text[0:394]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    394
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 18909,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "b204918d341539404960fdf10f49371629e60139c819bfe382e00f00072972d8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1303985303",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2567022",
+    "revision_id": "1303985303",
+    "retrieved_at": "2026-10-18T12:37:53.085082+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 394,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

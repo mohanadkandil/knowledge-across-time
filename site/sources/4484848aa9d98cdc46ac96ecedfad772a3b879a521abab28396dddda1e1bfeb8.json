@@ -1,0 +1,59 @@
+{
+  "id": "wiki-51992830-1352878175-eb35540f30f5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Athenian democracy",
+  "text": "sand or so Greek cities could only muster 1,000–1,500 adult male citizens each; and Corinth, a major power, had at most 15,000.\n\nThe non-citizen component of the population was made up of resident foreigners (metics) and slaves, with the latter perhaps somewhat more numerous. Around 338 BC the orator Hyperides (fragment 13) claimed that there were 150,000 slaves in Attica, but this figure is probably no more than an impression: slaves outnumbered those of citizen stock but did not swamp them.\n\nOnly adult male Athenian citizens who had completed their military training as ephebes had the right to vote in Athens. The percentage of the population that actually participated in the government was 10% to 20% of the total number of inhabitants, but this varied from the fifth to the fourth century BC. This excluded a majority of the population: slaves, freed slaves, children, women and metics (foreign residents in Athens). The women had limited rights and privileges, had restricted movement in public, and were very segregated from the men. Given the exclusive and ancestral concept of citizenship held by Greek city-states, a relatively large portion of the population took part in the government of Athens and of other radical democracies like it, compared to oligarchies and aristocracies.\n\nFor the most part, Athens followed a citizenship-through-birth criterion. This criterion could be further divided into three categories: free birth from an Athenian father, free and legitimate birth from an Athenian father, and free and legitimate birth from an Athenian father and an Athenian mothe",
+  "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+  "revision_id": 1352878175,
+  "article_id": 51992830,
+  "section_path": "shared_text[0:62440]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    14560
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a214b8f29c46233087ab0a3528966ebccd2627a856cc6480fa0baaa4cd97b64a",
+    "source_row_idx": 33406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_66.parquet",
+    "text_sha256": "a58f7f53e75588f5fed12d7ae4c459fbf930505b93bccdde1207ed967e775a93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352878175",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51992830",
+    "revision_id": "1352878175",
+    "retrieved_at": "2026-10-18T12:36:47.008604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 20000,
+        "next_offset": 60000
+      },
+      {
+        "offset": 60000,
+        "returned_chars": 2440,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

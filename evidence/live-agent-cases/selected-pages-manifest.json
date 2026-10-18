@@ -1,0 +1,67 @@
+{
+  "export_scope": "Three pages referenced by the live agent casebook; not a replacement for the full 100-page sampling manifest.",
+  "original_selection": {
+    "created_at": "2026-10-18T11:13:08.000470+00:00",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "source_file_sha256": "08f167015db23cb027995b2b6a6bc953b01d7c1ddf667de950465cc2b601af5c",
+    "total_dataset_rows": 2573,
+    "selected_count": 100,
+    "selection_method": "Three disclosed manual seeds (57,59,1776), then deterministic SHA-256-seeded round-robin over volume groups to reach 80 label-0 and 20 label-1 rows; seed 20261018. Fixed before model evaluation; no dropping failed parses/matches.",
+    "bias": "Manual seeds favor known scientific content; illustration strata do not imply topic or historical truth. This is not a representative estimate of all Britannica."
+  },
+  "exported_page_count": 3,
+  "pages": [
+    {
+      "page_id": "bri-0057-7d7650d5d60f",
+      "row_index": 57,
+      "volume_id": "192200322",
+      "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+      "label": 0,
+      "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+      "width": 600,
+      "height": 796,
+      "image_file": "../../site/images/bri-0057-7d7650d5d60f.jpg",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+      "split": "train",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+      "manual_seed": true,
+      "archive_page": "../../site/pages/bri-0057-7d7650d5d60f.html"
+    },
+    {
+      "page_id": "bri-0059-891965a7ca3e",
+      "row_index": 59,
+      "volume_id": "192200322",
+      "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+      "label": 0,
+      "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+      "width": 600,
+      "height": 800,
+      "image_file": "../../site/images/bri-0059-891965a7ca3e.jpg",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+      "split": "train",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+      "manual_seed": true,
+      "archive_page": "../../site/pages/bri-0059-891965a7ca3e.html"
+    },
+    {
+      "page_id": "bri-1776-5ed864a29d36",
+      "row_index": 1776,
+      "volume_id": "191253807",
+      "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+      "label": 0,
+      "sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+      "width": 600,
+      "height": 836,
+      "image_file": "../../site/images/bri-1776-5ed864a29d36.jpg",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+      "split": "train",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+      "manual_seed": true,
+      "archive_page": "../../site/pages/bri-1776-5ed864a29d36.html"
+    }
+  ]
+}

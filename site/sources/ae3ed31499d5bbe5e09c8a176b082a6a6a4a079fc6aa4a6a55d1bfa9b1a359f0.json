@@ -1,0 +1,59 @@
+{
+  "id": "wiki-51992830-1352878175-b1c189d0837c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Athenian democracy",
+  "text": "s. The shadow of the old constitution lingered on and archons and Areopagus survived the fall of the Roman Empire.\n\nIn 88 BC, there was a revolution under the philosopher Athenion, who, as tyrant, forced the Assembly to agree to elect whomever he might ask to office. Athenion allied with Mithridates of Pontus and went to war with Rome; he was killed during the war and was replaced by Aristion. The victorious Roman general, Publius Cornelius Sulla, left the Athenians their lives and did not sell them into slavery; he also restored the previous government, in 86 BC.\n\nAfter Rome became an Empire under Augustus, the nominal independence of Athens dissolved and its government converged to the normal type for a Roman municipality, with a Senate of decuriones.\n\nEstimates of the population of ancient Athens vary. During the 4th century BC, there might well have been some 250,000–300,000 people in Attica. Citizen families could have amounted to 100,000 people, and out of these some 30,000 would have been adult male citizens entitled to vote in the assembly. In the mid-5th century, the number of adult male citizens was perhaps as high as 60,000, but this number fell precipitously during the Peloponnesian War. This slump was permanent, due to the introduction of a stricter definition of citizen described below. From a modern perspective, these figures may seem small, but among Greek city-states Athens was huge: most of the thousand or so Greek cities could only muster 1,000–1,500 adult male citizens each; and Corinth, a major power, had at most 15,000.\n\nThe non-citizen component of th",
+  "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+  "revision_id": 1352878175,
+  "article_id": 51992830,
+  "section_path": "shared_text[0:62440]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a214b8f29c46233087ab0a3528966ebccd2627a856cc6480fa0baaa4cd97b64a",
+    "source_row_idx": 33406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_66.parquet",
+    "text_sha256": "a58f7f53e75588f5fed12d7ae4c459fbf930505b93bccdde1207ed967e775a93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352878175",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51992830",
+    "revision_id": "1352878175",
+    "retrieved_at": "2026-10-18T12:36:47.008604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 20000,
+        "next_offset": 60000
+      },
+      {
+        "offset": 60000,
+        "returned_chars": 2440,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

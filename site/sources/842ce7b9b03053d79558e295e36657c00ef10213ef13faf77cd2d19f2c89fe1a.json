@@ -1,0 +1,44 @@
+{
+  "id": "wiki-44096282-1332044207-258b7a5d7420",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Maddox rod",
+  "text": "o fixate on light source at 33 cm, which is held at eye level. When testing at distance, the patient is to fixate on a light source at 6m.\n\nPatient is instructed to fixate on the light source with both eyes opened.\n\nThe Maddox rod is then placed over the fixating eye.\n\nTo measure the horizontal deviation, the Maddox rod is placed in front of the right eye (it is done on both eyes) with the cylinder horizontal, making the red line vertical. The patient is then asked whether the white light is superimposed on the red line, or if it is to the left or right of the red line.\n\nIf the patient saw a red line to the right and white light to the left, they are said to have esotropia or esophoria (uncrossed diplopia) in which base out (BO) prisms of increasing strength are used until the lines are superimposed.\n\nIf the patient saw a red line to the left and white light to the right, they are said to have exotropia or exophoria (crossed diplopia) in which base in (BI) prisms of increasing strength are used until the lines are superimposed.\n\nMethod for measuring vertical deviations:\n\n1. The Maddox Rod is held in front of the patient's right eye with the cylinders vertical, making the red line horizontal. 2. The patient is then asked whether the white light is superimposed on the red line or if it appears above or below the red line.\n\nIf the line appears below the light, there will be a hyper-deviation in which base down prisms are used to measure and correct the deviation.\n\nIf the line appears above the light, there will be a hypo-deviation and base up prisms are used measure and correc",
+  "url": "https://en.wikipedia.org/wiki/Maddox_rod",
+  "revision_id": 1332044207,
+  "article_id": 44096282,
+  "section_path": "shared_text[0:4397]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+    "source_row_idx": 8053,
+    "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+    "text_sha256": "dfdfd239411d4d9b0477cc54cb286e330a4127282718731bc7b53f27dd86bd5f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1332044207",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "44096282",
+    "revision_id": "1332044207",
+    "retrieved_at": "2026-10-18T12:29:57.275574+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4397,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

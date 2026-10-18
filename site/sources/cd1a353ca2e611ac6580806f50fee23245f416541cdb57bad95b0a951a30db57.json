@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-14:0",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "to it. That had accordingly been given by S. Bec- certa as the cause of the formation of all clouds what sewer, whether of thumping, rain, half, or snow. The first, he thinks, are produced by a very great power of electricity, and the others to see more moderate. But though the certain that all clouds, or cane fog, and rain, are electrified in some degree, it still remains a question, whether the clouds are formed in consequence of the vapore wherever they are compounded using first electrically, or whether they become electrified in consequence of the edges of using first separated from the atmophores, and in some measure condensed. This bath not yet, as far as we know, been ascertained by the experiments of Because, or any other means, and indeed, notwithstanding the multitude of electrical discories that have lately been made, there seems to be little or no foundation for ascertaining it. Electricity is known to be in many cases a promoice of evapora- tion is, but no experiments have yet been brought to prove that electrified the parts with its moisture, more readily than such as is not electrified , so that, till the properties of electrified air near further investigated, it is impossible to buy down any natural theory of the fer- mation of clouds upon this principle.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-14",
+  "bbox_raw": [
+    0.4619,
+    0.5539,
+    0.8467,
+    0.8547
+  ],
+  "offsets": [
+    0,
+    1293
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

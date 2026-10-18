@@ -1,0 +1,44 @@
+{
+  "id": "wiki-68705110-1349782735-a6fcbee178b8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Metropolitan Hospital Sunday Fund",
+  "text": "The Metropolitan Hospital Sunday Fund was formed in London in 1873 at a time when all hospitals were voluntary - with no government health services. This situation meant that the poor could not always afford treatment and also that hospitals often did not have equipment that they needed. The Lancet suggested to the Lord Mayor of London, Sir Sydney Waterlow, that churches may be able to raise money to help. Sir Sydney called church leaders to a meeting. At that meeting, it was agreed that annually in June the churches would have one Sunday when they held a collection - and that the funds would be used to help the poor access healthcare, and also assist hospitals with equipment..\n\nThe Fund was inaugurated at St Paul's Cathedral by Prince Edward the Prince of Wales (later King Edward VII), with his wife, on the fifteenth of June 1873. Queen Victoria was the Fund's first patron, and gave a hundred guineas toward the Fund.\n\nOn the first Sunday 16 June 1873 the total collections from all places of worship was 27,000 pounds. This included collections at Synagogues, Roman Catholic churches, Unitarian church, Church of England and Baptist. Sermons for the Fund were preached at almost 1,100 places of worship The amount raised varied, but over the 14 years from 1873 to 1886 the Fund raised 300,679 pounds from 10,214 collections.\n\nThe Lancet continued to support the Fund with annual supplements. The 1898 supplement stated that the Fund raised over £41,000 in the previous year.\n\nCommittee meetings continued to be held at either the Mansion House, London, with the current Lord Mayor as p",
+  "url": "https://en.wikipedia.org/wiki/Metropolitan_Hospital_Sunday_Fund",
+  "revision_id": 1349782735,
+  "article_id": 68705110,
+  "section_path": "shared_text[0:3190]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "355b0895b1deb8e0eadc62962c71072e627bf5aa353b4d76424eb4b880e3a0b0",
+    "source_row_idx": 40819,
+    "source_shard": "enwiki/data/enwiki_namespace_0_52.parquet",
+    "text_sha256": "b05793868dd62d3fa2412f125537cde5964a0a5621a4009ac542d2b172d38639",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349782735",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "68705110",
+    "revision_id": "1349782735",
+    "retrieved_at": "2026-10-18T12:36:58.914156+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3190,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1514-d67fd60c50db:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1514-d67fd60c50db",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 1, A-AME - EB.10",
+  "text": "Fig. 1.\nE\nC\nA\nB\nD\nB\nC\nD\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nI\nI\nA\nE\nF\nP\nR.\nD\nE\nF\nP\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1514",
+  "provenance": {
+    "page_id": "bri-1514-d67fd60c50db",
+    "row_index": 1514,
+    "volume_id": "192016229",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 1, A-AME - EB.10",
+    "label": 1,
+    "sha256": "d67fd60c50db58c6610e203e6381e50d87d44695b8cfff68ea512a9f1e17ffc9",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-1514-d67fd60c50db.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1514",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0215,
+    0.3695,
+    0.9023,
+    0.9094
+  ],
+  "offsets": [
+    0,
+    404
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7453420-1089326271-7e4008f8c71d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Parabola (disambiguation)",
+  "text": "A parabola is a mathematical curve.\n\nParabola or Parabole may also refer to:\n\nParabolic arch\n\nParabola (album), an album by Gil Evans\n\n\"Parabola\" (song), a song by Tool\n\n\"Parabola\", a song by Jawbreaker from Bivouac\n\nParabola (magazine), a magazine published by The Society for the Study of Myth and Tradition\n\nParabola (moth), a genus of moth\n\nParabola (operating system), a GNU/Linux-libre distribution\n\nParabola Allegory, a Rosicrucian allegory attributed to Hinricus Madathanus",
+  "url": "https://en.wikipedia.org/wiki/Parabola_(disambiguation)",
+  "revision_id": 1089326271,
+  "article_id": 7453420,
+  "section_path": "shared_text[0:481]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    481
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 87045,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "d569aa11d737b570a651f7b3b9d66c30e7422fe75dd28ef5d95cc83c4ccae481",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1089326271",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7453420",
+    "revision_id": "1089326271",
+    "retrieved_at": "2026-10-18T12:38:06.718486+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 481,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

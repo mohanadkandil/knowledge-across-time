@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2745589-1329092972-9d53db0903be",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegis (disambiguation)",
+  "text": "Aegis is the shield used by Athena and Zeus.\n\nAegis may also refer to:\n\nAegis (Trey Rollins), in Marvel Comics\n\nAegis (Lady of All Sorrows), in Marvel Comics\n\nA.E.G.I.S., a fictional organisation in the anime Gate Keepers\n\nAegis, the shield of Thalia Grace in Rick Riordan's 2007 novel The Titan's Curse\n\nAigis (Persona), or Aegis, in role-playing game Persona 3\n\nAegis, the shield wielded by Gallantmon in the Digimon series\n\nAegis VII, a planet in the video game Dead Space\n\nAEGIS, a government organisation in the role-playing game Conspiracy X\n\nThe Aegis, a pair of characters in Xenoblade Chronicles 2\n\nAEGIS (Aperture Employee Guardian and Intrusion System), in Portal Stories: Mel\n\nAegis (newspaper), in Oakland, California, U.S.\n\nThe Aegis (newspaper), a local newspaper in Harford County, Maryland, U.S.\n\nThe Aegis, a Dartmouth College publication\n\nAégis (album), by Theatre of Tragedy, 1998\n\nAegis (band), a Filipino rock band\n\nAEGIS: Guardian of the Fleet, a 1994 video game\n\nAegis Defence Services, a British security services company\n\nAegis Group, now Dentsu International\n\nAfrica-Europe Group for Interdisciplinary Studies, a research network\n\nAegis the Union, a British trade union\n\nAegis Trust, a British anti-genocide NGO\n\nAllied Employees Guild Improving Sega, a video game trade union\n\nAssociation for the Education and Guardianship of International Students, a British organisation\n\nAid for the Elderly in Government Institutions, a British pressure group\n\nAIDS Education Global Information System, a database of AIDS information\n\nAEGIS (astronomy) (All-Wavelength Extended Groth ",
+  "url": "https://en.wikipedia.org/wiki/Aegis_(disambiguation)",
+  "revision_id": 1329092972,
+  "article_id": 2745589,
+  "section_path": "shared_text[0:2310]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 107622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "cfe4028920d4f690a7b6c8a38cecf1379bff01a5f4eb1a84bda3d7d6bbba070d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329092972",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2745589",
+    "revision_id": "1329092972",
+    "retrieved_at": "2026-10-18T12:37:03.043607+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2310,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

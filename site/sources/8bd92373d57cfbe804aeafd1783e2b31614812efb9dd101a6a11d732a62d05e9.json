@@ -1,0 +1,44 @@
+{
+  "id": "wiki-57646424-1340351890-ecbc7d9c35b0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gottfried Wilhelm Leibniz bibliography",
+  "text": "Gottfried Wilhelm Leibniz was a major contributor to mathematics, physics, philosophy, theology, logic, and early computer science; independent inventor of calculus in mathematics; inventor of energy and the action principle in physics; jurist, genealogist, diplomat, librarian; worked towards reunification of Catholic and Protestant faiths.\n\nThis in-progress article will list all his published and unpublished works primarily based on the Leibniz Library in Hannover, and its online catalog.\n\nNotes:\n\n1. Dates in the table refer to the estimated date of completion of manuscripts if first publication occurred after Leibniz's death (1716).\n\n2. Title and description link to English Wikipedia article if available.",
+  "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz_bibliography",
+  "revision_id": 1340351890,
+  "article_id": 57646424,
+  "section_path": "shared_text[0:716]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    716
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 10088,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "8d6c6eac3759f461b9abd184decfaec4c76f64754446c243f82472eae3021ab1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340351890",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "57646424",
+    "revision_id": "1340351890",
+    "retrieved_at": "2026-10-18T12:40:03.370615+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 716,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

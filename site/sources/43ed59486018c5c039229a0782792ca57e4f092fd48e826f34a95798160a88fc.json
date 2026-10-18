@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1054294-1334829079-b407e51460d6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Rifled breech loader",
+  "text": "s in the mid-19th century, gunpowder propellant charges for artillery were typically loaded in cloth bags, which combusted totally on firing. Hence, unlike with a metal rifle cartridge, the breech mechanism itself somehow needed to provide obturation.\n\nThe early \"screw\" mechanisms for sealing the breech consisted of threaded blocks which were screwed tightly into the breech after loading, but the threads themselves were insufficient to provide a gas-tight seal. This was further complicated by the need to screw and unscrew the breech as quickly as possible; this was met by the \" interrupted thread \" breech block, where the block circumference was alternately threaded and left unthreaded at a slightly smaller diameter to allow the whole block to be fully inserted and rotated a fraction to lock it. Hence if the block circumference was divided into two sets of threads and gaps, the block only needed to be rotated ¼ turn to lock it instead of several turns. The tradeoff was that only ½ the block's circumference was threaded, reducing the security accordingly.\n\nThe other possibility of sealing the breech was to enclose the propellant charge in a metal cartridge case which expanded on firing and hence sealed the breech, leaving the breech-block merely needing to lock the cartridge case in place. This was more easily accomplished by sliding the block in behind the cartridge case through a vertical or horizontal slot cut through the rear of the breech : the \"sliding wedge\" or \"sliding block\" breech.\n\nThe very first cannons of the Middle Ages were breech loaded, with gunpowder and sh",
+  "url": "https://en.wikipedia.org/wiki/Rifled_breech_loader",
+  "revision_id": 1334829079,
+  "article_id": 1054294,
+  "section_path": "shared_text[0:12203]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 77366,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "9fc95d203717d29d0d1dab0902784f7d35cf0ce3d2f1882f9c672a4a6d5b8527",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334829079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1054294",
+    "revision_id": "1334829079",
+    "retrieved_at": "2026-10-18T12:41:57.411308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12203,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

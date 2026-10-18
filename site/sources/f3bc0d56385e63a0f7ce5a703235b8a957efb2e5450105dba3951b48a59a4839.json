@@ -1,0 +1,36 @@
+{
+  "id": "bri-1071-d24d0fd09823:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-1071-d24d0fd09823",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+  "text": "COMMODUS, LALAN AND AUTOUNDS, for Mr. Attorimus, fascinated his father in the Roman empire. He was naturally cured and food of India giving his freedom uponstylkes. He unlined to the call ed Hercules, and his that hire, he adomed his bookers with a blood, kins, and armed his hand with a hunted chain. His phillyated with the glute story, and boathed of his decryin in killing the wild bearish in the amphitheters. He required driven his honor from the fence, and they were granted. He was worn to put dish an amored quantity of gold dull in his hiring, that when he prepared here heated in the families, his head gilttered as if forwarded with fun beans. Morris, one of his concedores, whole death he had prepared, poised him; her as the pun- fon did not pickly operate, he was thrangled by a weriler. He died in the 31th year of his age, and the 13th of his reign. It has been obfered, that he never tulled himself to a barter, he is always burnt his beach, in imitation of the tryman Dioras. A. D. 192.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+  "provenance": {
+    "page_id": "bri-1071-d24d0fd09823",
+    "row_index": 1071,
+    "volume_id": "192547776",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+    "label": 0,
+    "sha256": "d24d0fd098237eeb0479d8675ed1388c6ec6806c51819810dc13332feacfd194",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1071-d24d0fd09823.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.1504,
+    0.5836,
+    0.5176,
+    0.8422
+  ],
+  "offsets": [
+    0,
+    1005
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

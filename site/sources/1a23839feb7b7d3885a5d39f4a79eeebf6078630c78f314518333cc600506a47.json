@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "French Drego, while La Høype, with his division in three chocolate-columns, turned the right flank of the fans wing. One column kept in ave the centre of the Authraina a second attacked the shunk of their left wing, while the third column gained its rear. Thus was that left wing of the combined army completely furnonted and thrown into confition. Eight thousand men were, on this occasion, taken prisoners, and General Provera at half alfs forwarded.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0088,
+    0.0398,
+    0.4814,
+    0.1672
+  ],
+  "offsets": [
+    0,
+    452
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

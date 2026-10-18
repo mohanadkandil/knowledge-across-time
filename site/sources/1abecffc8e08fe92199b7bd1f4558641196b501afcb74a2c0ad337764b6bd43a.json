@@ -1,0 +1,36 @@
+{
+  "id": "bri-1313-28d6fe660d84:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1313-28d6fe660d84",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "statistics at the different firm in 1896 was 284,010,191 roubles and ..... in 1897 it was 277,103,986 robles, or L,105000 more and The internal commerce of Russia is greatly facilitated by the vast system of initial navigation, which forms so striking a feature of this country. All the great rates like lakes, and we have been connected with one another by mostly of candle, as that a few common reason exists for teen the most remote parts of the empire. The Black Sea and the Pacific communities by means of the realt i the Baltic and the Captain Sea are united by means of the Vedge aircraft cuts; and the same great river is con- nected with the White Sea and other lakes. Important undertakings are in progress to perfect the junction of such rivers as the Marts and the Vedge, the Oka and the Dhe the Prerequire, the Nomen, the Pays had others. In 1817 the Emperor Alexandre created an office of \"short-go-neck\" of the varied communication, including smale roads, and bridges. From that period the works of this description has been vigorously prosecuted. The two of Rusis are in proper land, but, a number of our high roads are in progress. This from his Peterburg to Moscow, which has long been in existence, is a remarkable year. It is can clevated causeway of timber, running in one long, level, varying, straight lines over much and long, through formal and thicken. Many other important publishers have been undertaken, of which number is the introduction of quarry along the Oka, and from the Volga to NusaAwood, and the works upon the river Seyru. Steam-boats have been established upo",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+  "provenance": {
+    "page_id": "bri-1313-28d6fe660d84",
+    "row_index": 1313,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 0,
+    "sha256": "28d6fe660d849522d3712f68e812e6b595ca94f451c83b16df77ce570cb5f25f",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-1313-28d6fe660d84.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0146,
+    0.0625,
+    0.4473,
+    0.4344
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

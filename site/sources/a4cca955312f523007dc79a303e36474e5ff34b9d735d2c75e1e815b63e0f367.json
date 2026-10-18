@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-f4885cc83fbe",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": "ater layers both laterally and along the depth.\n\nThe progressively colder waters of North Atlantic Current sink in the Arctic Ocean, returning south in the form of cold East Greenland Current, an important part of the Atlantic conveyor belt, which flows along the western part of the sea. Along the eastern part flows the warm Spitsbergen Current, a part of Gulf Stream. Mixtures of cold, freshwater ice melt and the warm, salty Spitsbergen Current may experience cabbeling, which might contribute to thermohaline circulation. The combination of those currents creates a counter-clockwise water flow in the central part of the sea.\n\nBecause of frequent fogs, winds, and currents, which continuously transport ice and icebergs through the Greenland Sea to the south, the Greenland Sea has a narrow window for commercial navigation: The ice season starts in October and ends in August. Three types of floating ice are distinguished: Arctic pack ice (several meters thick), sea ice (about a meter thick), and freshwater icebergs.\n\nIn winter, a large area north of Iceland between Greenland and Jan Mayen, called West Ice, is covered by continuous ice. It is a major breeding ground for seals, including harp seal, hooded seal, and gray seal. It was discovered in the early 18th century by British whalers and since late 1750s was used for seal hunting. The hunting was especially intensive in the 19th century, but declined in the 20th century because of hunting restrictions and lower market demand. Around 5 April 1952, a major storm resulted in disappearance of ships with 79 Norwegian seal hunters o",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

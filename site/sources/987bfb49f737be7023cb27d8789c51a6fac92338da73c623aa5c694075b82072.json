@@ -1,0 +1,36 @@
+{
+  "id": "bri-2026-4065cd59de40:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-2026-4065cd59de40",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+  "text": "Artabanus, who had a numerous army as his devro- tion, did not meet with any opposition in fearing the throws, vacant by the death of his brother, though Thirhates had a letter title to), as being his older brother. He had Grace fetted the affairs of his king- dom, when the Emperor Granalla, defence to figure like himself, as terror of his predecessor had done, by four memorable exploit against the Parthians, font a folema embaly to him, defining his daughter in marriage. Artabanus, overjoyed at this propololi, which",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+  "provenance": {
+    "page_id": "bri-2026-4065cd59de40",
+    "row_index": 2026,
+    "volume_id": "191253798",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+    "label": 0,
+    "sha256": "4065cd59de408978ce50cdb477e57ffa479fda8619211cd870863fdb1403b493",
+    "width": 600,
+    "height": 785,
+    "image_file": "../images/bri-2026-4065cd59de40.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.541,
+    0.807,
+    0.9209,
+    0.957
+  ],
+  "offsets": [
+    0,
+    522
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

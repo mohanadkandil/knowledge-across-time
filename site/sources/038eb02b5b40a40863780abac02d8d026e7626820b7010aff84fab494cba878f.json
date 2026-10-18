@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "When we have made ufe of life arguments within BoS forms zalous parzations of Mr Lebinbiz’s doctrine, they B is here have answered, that if indeed this independence of the relative motions, of credited bodies were deferred to join Robin exactly, it would be a conclusive argument for. But the motion with which all is carried along is to great: in comparison with the motions which we can produce in our experiments that the final additions or diminutions that we can make to the velocity of this common motion null observer very nearly the proportions of the addition to diminution of their fareures. The differences of the figures of 2_x_ 3 and 4_x_ are very unequal, but the differences of the figures of 9_x_10_,_13, are much aware on the ratio of equality , and the differences of the figures of 10000017, 0000020, 000020, do not finally deviate from this ratio. But it is not fed, that we cannot produce motions which have a very fertile proportion of the common motion. The motion of a canonn ball, discharged with one-third of its weight of powder, is nearly equal to that of the rotation of the earth’s reason. When, therefore, we discharge the ball eastward, we double its motion when to the wellered, we fishery it. Therefore, according to the exhibits, the section in the first cafe is three times the action in the found. In the first cafe is changes the figure of the velocity (which we see call 1) from it to 2_x_ and, in the found, it changes it from it to 0. Our day the Lebinbizians, the velocity of rotation is but 2_x_ of the orbital velocity of the earth, and our observations of",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5488,
+    0.243,
+    0.9502,
+    0.6789
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-12:1440",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "appen in very warm weather, when the union of the vapors with the atmosphere might rather be the pronounced than alolved, if cold were the only agent in their condensation. The severity of the atmosphere, also, the most severe fevers, particularly shows that some other cause besides mere heat or cold is concerned in the formation of clouds, and condensation of the atmospheric popups.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.4609,
+    0.0625,
+    0.8457,
+    0.5047
+  ],
+  "offsets": [
+    1440,
+    1826
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

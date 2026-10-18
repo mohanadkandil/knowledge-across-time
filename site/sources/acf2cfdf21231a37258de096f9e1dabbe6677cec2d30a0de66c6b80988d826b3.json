@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2745589-1329092972-714fc3dbef82",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegis (disambiguation)",
+  "text": "titutions, a British pressure group\n\nAIDS Education Global Information System, a database of AIDS information\n\nAEGIS (astronomy) (All-Wavelength Extended Groth Strip International Survey)\n\nArtificially Expanded Genetic Information System, a synthetic DNA analog experiment\n\nAEGIS (SuperCam), (Autonomous Exploration for Gathering Increased Science) on the Perseverance rover\n\nAEgIS experiment, the Antimatter Experiment: Gravity, Interferometry, Spectroscopy\n\nAEGIS SecureConnect, a network authentication system\n\nAEGIS, or Domain/OS, the original Apollo operating system\n\nLG Aegis, a mobile phone\n\nAEGIS Authenticator, a one-time password application for Android\n\nAegis (moon), a moon of asteroid 93 Minerva\n\nAegis Combat System, an American integrated naval weapons system\n\nAegis Ballistic Missile Defense System, an American program\n\nKimber Aegis, a series of pistols",
+  "url": "https://en.wikipedia.org/wiki/Aegis_(disambiguation)",
+  "revision_id": 1329092972,
+  "article_id": 2745589,
+  "section_path": "shared_text[0:2310]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2310
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 107622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "cfe4028920d4f690a7b6c8a38cecf1379bff01a5f4eb1a84bda3d7d6bbba070d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329092972",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2745589",
+    "revision_id": "1329092972",
+    "retrieved_at": "2026-10-18T12:37:03.043607+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2310,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

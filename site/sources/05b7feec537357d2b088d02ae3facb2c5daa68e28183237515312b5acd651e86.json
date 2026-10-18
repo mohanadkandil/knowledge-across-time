@@ -1,0 +1,49 @@
+{
+  "id": "wiki-193600-1334719026-3b07b9ff339b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Jay Treaty",
+  "text": "t to the British fleet, which provided a protective shield of incalculable value throughout the nineteenth century. Mostly, it postponed war with England until America was economically and politically more capable of fighting one.\n\nIn the HBO miniseries John Adams, Vice President John Adams is shown casting the tiebreaker vote in favor of ratifying the Jay Treaty. In reality, his vote was never required as the Senate passed the resolution by 20–10. Furthermore, the Vice President would never be required to cast a vote in a treaty ratification, because the Vice President votes only in case of a tie, and Article II of the Constitution requires that treaties receive a two-thirds vote for approval. Vice President Adams had however earlier cast a tie-breaking vote in opposition to a trade embargo on the British in 1794.",
+  "url": "https://en.wikipedia.org/wiki/Jay_Treaty",
+  "revision_id": 1334719026,
+  "article_id": 193600,
+  "section_path": "shared_text[0:23866]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    23040,
+    23866
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 79242,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "f3a69e04830310a7b79a2cf1919554f4834d64e9d33a7dbca796c9bb4436eb42",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334719026",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "193600",
+    "revision_id": "1334719026",
+    "retrieved_at": "2026-10-18T12:39:16.183131+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 3866,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

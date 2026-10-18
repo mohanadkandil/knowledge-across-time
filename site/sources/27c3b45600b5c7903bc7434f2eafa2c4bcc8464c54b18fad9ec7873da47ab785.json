@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "Notling remarkable occurs in the history of Germa-ry from this time till the reign of the emperor Claudius. A war indeed it fails to have been carried to by Lucas Domitina, father to the empero Necro. But of his exploits we know nothing more than that he penetrated beyond the river Elbe, and led his arm farther into the country than any of the Romans had ever done. In the reign of Claudius, however, the German territories were invaded by Cn. Domitina Cuchabh, one of the greatest potential of his age. But when he was on the past of forcing them to found to the Roman yoke, he was recalled by Claudius, who was jelous of the reputation he had acquired.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0889,
+    0.7172,
+    0.459,
+    0.8836
+  ],
+  "offsets": [
+    0,
+    656
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

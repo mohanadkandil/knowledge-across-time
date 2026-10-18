@@ -1,0 +1,44 @@
+{
+  "id": "wiki-18104240-1231802361-a2477d22d19c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anne Boleyn (disambiguation)",
+  "text": "Anne Boleyn (c. 1501 – 1536) was the second wife of Henry VIII of England.\n\nAnne Boleyn may also refer to:\n\nAnne Shelton (courtier) (c. 1483–1556), née Boleyn, aunt of Queen Anne Boleyn\n\nAnne Boleyn (play), a 2010 play by Howard Brenton\n\nAnne Boleyn (TV series), a 2021 series\n\nAnne Boleyn (The Tudors), a character in The Tudors",
+  "url": "https://en.wikipedia.org/wiki/Anne_Boleyn_(disambiguation)",
+  "revision_id": 1231802361,
+  "article_id": 18104240,
+  "section_path": "shared_text[0:329]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    329
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 20465,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "147996185a03bcdbdbd185137ffe4145d7720b58aaa9f6fd564fcf38880a1c54",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1231802361",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "18104240",
+    "revision_id": "1231802361",
+    "retrieved_at": "2026-10-18T12:36:14.230201+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 329,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

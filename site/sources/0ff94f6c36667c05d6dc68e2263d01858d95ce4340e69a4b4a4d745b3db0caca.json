@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3450633-1325997605-c18598a3fba1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Prestonpans railway station",
+  "text": "Prestonpans railway station is a railway station serving the mining town of Prestonpans, East Lothian, Scotland. It is located on the North Berwick Line, 9.75 miles (15.69 km) east of Edinburgh Waverley. It serves the town of Cockenzie and Port Seton, 1.37 miles (2.20 km) away.\n\nOn Monday to Friday daytimes there is an hourly service westbound to Edinburgh and eastbound to North Berwick, with extra trains at peak periods. On Saturdays, a half-hourly service operates during the day, dropping to hourly in the evening. Trains also call hourly each way on Sundays from mid-morning.",
+  "url": "https://en.wikipedia.org/wiki/Prestonpans_railway_station",
+  "revision_id": 1325997605,
+  "article_id": 3450633,
+  "section_path": "shared_text[0:583]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    583
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 94847,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "9b6e001f4b42c52920f43956fa43e4deaa626e9a13d44843fa8fd241630ec430",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325997605",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3450633",
+    "revision_id": "1325997605",
+    "retrieved_at": "2026-10-18T12:36:04.481201+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 583,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

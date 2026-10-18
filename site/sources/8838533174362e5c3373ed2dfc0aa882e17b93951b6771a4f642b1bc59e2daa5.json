@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "The chocolate made in Portugal and Spain is not near so well prepared as the Englishly depending per-haps on the machine employed there, yet, the double cylinder, which seems very well attributed for exact tritore. If perfectly prepared, no oil appears on the solution. London choicot gives up no oil like the foreign; and it is also may in some measure depend on the thickness of the preparation. The solution requires more than is commonly imagined. It is proper to break it down, and dissolve it thoroughly in cold water by milling it with the chocolate trick. If heat is applied, it should be done slowly; for, if suddenly the heat will not only congolate it, but separate the oil y and therefore much boiling after it is dissolved in turful. Choicots is commonly required by people of weak stomachs; but often rejected for want of proper preparation. Which property prepared, is easily dis-aired i, and an excellent food from a liquid nutritive vegetable one is required, and is less flatlant than any of the dinmaces.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5371,
+    0.2687,
+    0.9248,
+    0.5305
+  ],
+  "offsets": [
+    0,
+    1023
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

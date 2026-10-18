@@ -1,0 +1,36 @@
+{
+  "id": "bri-1776-5ed864a29d36:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1776-5ed864a29d36",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "Refreshing on this valuable proposition of Mr Caven- dih, we fee clearly why an overcharged electric is only specifically for) and that this will be the case even though we attempt to accumulate a great quantity of electricity in it, by melting it in a thin glass globo, and elechifying its while liquidy and keeping up the acne making force still it because quite cold. The perfect writer, not having considered the fubject with that jurdicions accuracy on Mr Cavendillic exercise, had hopes of producing a powerful and permanent electric in this way, and was mortified and puzzled by the disappointment, till be few his milthake on reading Mr Cavendill’s differentiation.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+  "provenance": {
+    "page_id": "bri-1776-5ed864a29d36",
+    "row_index": 1776,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1776-5ed864a29d36.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+    "manual_seed": true
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1211,
+    0.2273,
+    0.5254,
+    0.4062
+  ],
+  "offsets": [
+    0,
+    673
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

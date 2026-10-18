@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "but it is no easy matter to account for the long continuance of some very opaque clouds without dissolving; or to give a reason why the exposure, when they have once begun to condense, do not continue to do so till they are that fall to the ground in the form of rain are snow,&c. The general cause of the formation of clouds, it has been supposed, is a separation of the latent heat from the water of which the vapor is composed. The consequence of this separation must be the condensation of that vapours, in some degree at least: in such case, it will first appear as a smoke, mist, or fog; which, if interposed betwitx the sun and earth, will form a cloudy and the same causes continuing to act, the dust will produce rain or snow. But though the separation of this latent heat in a certain degree is the immediate cause of the formation of clouds, the remote cause, and the changes produced in the atmosphere, whereby such a separation may be induced, are much more difficult to be discovered. In common observation, we see that vapours is most potentially condensed by cold substances, such as metals, water,&c. But Notalways cold alone cannot in all cases cause the contamination of them, and the atmospheric popups, otherwise the night before cold. Indeed to be always foggy or cloudy, owing to the vapours, raised throughout the day by the best of the sea, being considered by the supercycle collapse of the night. Greatrains may happen in very warm weather, when the union of the vapors with the atmosphere might rather be the pronounced than alolved, if cold were the only agent in their c",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.4609,
+    0.0625,
+    0.8457,
+    0.5047
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

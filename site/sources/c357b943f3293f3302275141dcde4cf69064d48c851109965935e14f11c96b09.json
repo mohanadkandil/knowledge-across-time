@@ -1,0 +1,59 @@
+{
+  "id": "wiki-51992830-1352878175-186f7b368948",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Athenian democracy",
+  "text": "Athenian democracy developed around the 6th century BC in the Greek city-state (known as a polis) of Athens, comprising the city of Athens and the surrounding territory of Attica, and focusing on supporting liberty, equality, and security.\n\nAlthough Athens is the most familiar of the democratic city-states in ancient Greece, it was not the only one, nor was it the first; multiple other city-states adopted similar democratic constitutions before Athens. By the late 4th century BC, as many as half of the over one thousand existing Greek cities might have been democracies.\n\nAthens practiced a political system of legislation and executive bills. Participation was open to adult, free male citizens (i.e., not minors, metics, women or slaves). Adult male citizens probably constituted no more than 30 percent of the total adult population.\n\nSolon (in 594 BC), Cleisthenes (in 508–07 BC), and Ephialtes (in 462 BC) contributed to the development of Athenian democracy. Cleisthenes broke up the unlimited power of the nobility by organizing citizens into ten groups based on where they lived, rather than on their wealth.\n\nThe longest-lasting democratic leader was Pericles. After his death, Athenian democracy was twice briefly interrupted by oligarchic revolutions in 411 and 404 BC, towards the end of the Peloponnesian War.\n\nIt was modified somewhat after it was restored under Eucleides; the most detailed accounts of the system are of this fourth-century modification, rather than the Periclean system.\n\nDemocracy was suppressed by the Macedonians in 322 BC. The Athenian institutions were lat",
+  "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+  "revision_id": 1352878175,
+  "article_id": 51992830,
+  "section_path": "shared_text[0:62440]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a214b8f29c46233087ab0a3528966ebccd2627a856cc6480fa0baaa4cd97b64a",
+    "source_row_idx": 33406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_66.parquet",
+    "text_sha256": "a58f7f53e75588f5fed12d7ae4c459fbf930505b93bccdde1207ed967e775a93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352878175",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51992830",
+    "revision_id": "1352878175",
+    "retrieved_at": "2026-10-18T12:36:47.008604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 20000,
+        "next_offset": 60000
+      },
+      {
+        "offset": 60000,
+        "returned_chars": 2440,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

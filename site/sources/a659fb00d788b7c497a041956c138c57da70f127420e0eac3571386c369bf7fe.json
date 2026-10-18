@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24068342-1298525645-7034201d34b2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scriptural geologist",
+  "text": "stories, a literature which enjoyed surprising vogue, but which is too absurd to disinter\". Gillispie describes their views, along with their \"reasonably respectable\" colleagues (such as Edward Bouverie Pusey and William Cockburn, Dean of York), as clerical \"fulminations against science in general and all its works\", and listed the works of Cockburn and Fairholme as among \" clerical attacks on geology and uninformed attempts to frame theoretical systems reconciling the geological and scriptural records.\" Martin J. S. Rudwick initially dismissed them as mere 'dogmatic irritants', but later discerned a couple of points of consilience: a concern with time and sequence; and an adoption of the pictorial conventions of some scriptural geologists by the mainstream.\n\n1820, Rodd, Thomas (Philobiblos), A Defence of the Veracity of Moses\n\n1822, Penn, Granville, A Comparative Estimate of the Mineral and Mosaical Geologies\n\n1822, Young, George, A Geological Survey of the Yorkshire Coast\n\n1826, Bugg, George, Scriptural Geology\n\n1829, Ure, Andrew, A New System of Geology\n\n1831, Murray, John, The Truth of Revelation (276 pages), 2nd Ed. 1840, (380 Pages)\n\n1833, Brown, James Mellor, Reflections on Geology\n\n1833, Fairholme, George, General View of the Geology of Scripture\n\n1833, Nolan, Frederick, Analogy of Revelation and Science Established\n\n1834, Cole, Henry, Popular Geology Subversive of Divine Revelation\n\n1836, Gisborne, Thomas, Considerations on the Modern Theory of Geology\n\n1837, Fairholme, George, The Mosaic Deluge\n\n1838, Cockburn, William, A Letter to Professor Buckland Concerning th",
+  "url": "https://en.wikipedia.org/wiki/Scriptural_geologist",
+  "revision_id": 1298525645,
+  "article_id": 24068342,
+  "section_path": "shared_text[0:16274]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    14400,
+    16000
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 75065,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "9ea526b339c494bae7c343d11dbdb6bafdb10c7d8db336632f474774af47c687",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1298525645",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24068342",
+    "revision_id": "1298525645",
+    "retrieved_at": "2026-10-18T12:31:02.808530+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 16274,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

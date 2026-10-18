@@ -1,0 +1,44 @@
+{
+  "id": "wiki-72995010-1306466686-f9a7e48ce54f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of wars involving the Mughal Empire",
+  "text": "The Mughal Empire was an early modern empire that dominated the Indian subcontinent between 1526 and 1857 and fought a series of wars with neighbouring empires and kingdoms. The following is a list of wars involving the Mughal empire:\n\nMughal–Rajput Wars (1526–1779)\n\nMughal–Afghan Wars (1526–1752)\n\nMughal–Persian Wars (1605–1739)\n\nMughal–Ahom Wars (1616–1682)\n\nMughal–Danish East India Company Wars (1642–1698)\n\nMughal–Tibet Wars (1679–1684)\n\nMughal–Maratha Wars (1680–1707)\n\nMughal–British East India Company Wars (1686–1857)\n\nMughal Civil Wars (1627–1720)",
+  "url": "https://en.wikipedia.org/wiki/List_of_wars_involving_the_Mughal_Empire",
+  "revision_id": 1306466686,
+  "article_id": 72995010,
+  "section_path": "shared_text[0:559]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    559
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4e988165bf3b9cc83db148a357a1a6f440b7273e3c57eaec4e4e45cb461e1797",
+    "source_row_idx": 25210,
+    "source_shard": "enwiki/data/enwiki_namespace_0_7.parquet",
+    "text_sha256": "670f3bb08aa66555dfb1758a690f968bb116b52b735867a94d9d1d77ff418fc6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1306466686",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "72995010",
+    "revision_id": "1306466686",
+    "retrieved_at": "2026-10-18T12:36:35.327757+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 559,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

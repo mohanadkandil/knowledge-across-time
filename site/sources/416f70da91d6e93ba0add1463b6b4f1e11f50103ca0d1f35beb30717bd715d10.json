@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60144273-1335498068-3dddffac481f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Nicolai Tangen",
+  "text": "itute of Art, London and in organisational psychology from the London School of Economics. He has education as a cook.\n\nTangen was an analyst at Cazenove & Co. before moving to Egerton Capital in 1997. Tangen left Egerton Capital in 2002. In 2005, he launched AKO Capital, a London-based hedge fund, which has £10.8 billion of assets under management. The Sunday Times ranked him among the 20 most successful hedge fund managers in the UK in its 2018 Rich List.\n\nIn March 2020, it was announced that Tangen would replace Yngve Slyngstad as CEO of Norges Bank Investment Management in September 2020, which manages the Norwegian Sovereign Wealth Fund, the largest in the world. His appointment became extremely controversial as a result of circumstances around the appointment. The Norwegian parliament's finance committee unanimously decided to instruct the minister of finance to intervene, making sure there would be no conflict of interests. Tangen then decided to sell out of AKO Capital, transferring the values and ownership to the charity organisation AKO Foundation. He also started transferring his personal fortune to a Norwegian bank account, meeting the public political demands at his own expense, being able to start as CEO in September 2020.\n\nTangen founded the AKO Foundation in April 2013, which focuses on education and the arts. The AKO Foundation has provided funding for the Jamie Oliver Food Foundation, Teach First, the London School of Economics, The Wharton School of the University of Pennsylvania, and The Courtauld Institute of Art. The Sunday Times reported in May 2019 t",
+  "url": "https://en.wikipedia.org/wiki/Nicolai_Tangen",
+  "revision_id": 1335498068,
+  "article_id": 60144273,
+  "section_path": "shared_text[0:4310]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 70296,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "b6ff3f9b1256df0b79c7227739deb1d7d26ba8228d28fd8603834e8e1b199162",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335498068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60144273",
+    "revision_id": "1335498068",
+    "retrieved_at": "2026-10-18T12:36:55.908765+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4310,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

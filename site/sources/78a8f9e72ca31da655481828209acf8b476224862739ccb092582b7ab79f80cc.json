@@ -1,0 +1,44 @@
+{
+  "id": "wiki-25540195-1235235965-eafe3645c2e7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Samuel Clarke of St Albans",
+  "text": "Samuel Clark (1684–1750), usually known as Samuel Clarke of St Albans, was an English Nonconformist pastor and theological writer, known for his Collection of the Promises of Scripture. He is not to be confused with his near-contemporary Samuel Clarke (1675–1729), philosopher and Anglican clergyman.\n\nSamuel Clarke was born on 16 December 1684 at Chelsea, into an extended family of clergy. His father Benjamin Clarke (1653–1722) was the youngest son of Daniel Clarke (1609–1654), vicar of Kirkburton in Yorkshire, brother of Samuel Clarke (1599–1683), the Puritan biographer. Benjamin had married Elizabeth (1656–1736), daughter of his first cousin Samuel Clarke (1626–1701), annotator of the Bible. After reading the works of the elder Samuel Clark, who was both his paternal great-uncle and maternal great-grandfather, he went through a course of preparation for the ministry.\n\nClarke declined preferment in the Church of England, on grounds of conscience, as a Dissenter. He became the pastor of a Nonconformist congregation in Dagnall Lane, St Albans (now Lower Dagnall Street). The first charity school outside London, in connection with a dissenting congregation, was instituted by Clarke about 1715, giving free education in reading, writing, and arithmetic to thirty boys and ten girls (see Dissenting academies).\n\nClarke was on intimate terms with Isaac Watts, Job Orton, and Philip Doddridge, the last of whom he had informally adopted as a recently orphaned thirteen-year-old. The four men were of the same theological school. It was in going to preach Clarke's funeral sermon that Doddr",
+  "url": "https://en.wikipedia.org/wiki/Samuel_Clarke_of_St_Albans",
+  "revision_id": 1235235965,
+  "article_id": 25540195,
+  "section_path": "shared_text[0:2697]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 81546,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "19e9a38b0d7cc6eea22a04ecb53646459f913281e4ec9c7c5c66c37ec43b24a3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1235235965",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "25540195",
+    "revision_id": "1235235965",
+    "retrieved_at": "2026-10-18T12:40:05.893051+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2697,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

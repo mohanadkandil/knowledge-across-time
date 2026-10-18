@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2949602-1326382532-faa0c3b87c5d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scalene muscles",
+  "text": "mn to insert by a broad attachment into the upper surface of the first rib, posterior to the subclavian groove. The brachial plexus and the subclavian artery pass anterior to it.\n\nThe posterior scalene, (Latin: scalenus posterior) is the smallest and most deeply seated of the scalene muscles. It arises, by two or three separate tendons, from the posterior tubercles of the transverse processes of the fourth, fifth and sixth cervical vertebrae, and is inserted by a thin tendon into the outer surface of the second rib, behind the attachment of the anterior scalene. It is supplied by cervical nerves C5, C6 and C7. It is occasionally blended with the middle scalene.\n\nA fourth muscle, the scalenus minimus (Sibson's muscle), is sometimes present behind the lower portion of the anterior scalene.\n\nThe anterior and middle scalene muscles lift the first rib and bend the neck to the same side as the acting muscle; the posterior scalene lifts the second rib and tilts the neck to the same side.\n\nBecause they elevate the upper ribs, they also act as accessory muscles of respiration, along with the sternocleidomastoids.\n\nThe scalene muscles have an important relationship to other structures in the neck. The brachial plexus and subclavian artery pass between the anterior and middle scalenes. The subclavian vein and phrenic nerve pass anteriorly to the anterior scalene as the muscle crosses over the first rib. The phrenic nerve is oriented vertically as it passes in front of the anterior scalene, while the subclavian vein is oriented horizontally as it passes in front of the anterior scalene",
+  "url": "https://en.wikipedia.org/wiki/Scalene_muscles",
+  "revision_id": 1326382532,
+  "article_id": 2949602,
+  "section_path": "shared_text[0:4524]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 103362,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "13e46e3af7854148021339f8093500d85b222bdb6d1b768b9cd77e7a480720a7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326382532",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2949602",
+    "revision_id": "1326382532",
+    "retrieved_at": "2026-10-18T12:29:53.575311+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4524,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

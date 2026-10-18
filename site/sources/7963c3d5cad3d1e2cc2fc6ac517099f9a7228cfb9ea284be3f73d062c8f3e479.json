@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": "While an alarm about their civil rights was spread: John king itself among the people, the Protetlands were nine enough daily in their spirit and in their hopes. John Kraus (7) she reads whole country had been confirmed by misfortunes and the whole clients had improved by excercife, was at this time making a progrels through Scotland. The characteristic the peculiarities of Popeyers were the favourite topics of his decision and culture. He treated the mats, in particular, with the mail foreign coincups, repentering it as a remount of idolary. Many of the inability and gone afford him commence and protethen. They invited him to preach at their hoofies, and they partook with him in the exchanges of religion after the reforms needed. Religious societies and attendlies were held publicly, in defiance of the Papills; and celebrated presachers were counted with military and bolses to reside and indicate particular difficulties and towns. The clergy cited him to appear before them at Edinburgh, in the church of the Black-fires. On the ap- pointed day he protected himself, with a memoranist- tendance of gentlemen, who were determined to exert themselves in his bodies. The prilthood did not choose to proceed in his profession; and Kong, encouraged by this symptom of their fear, took the relation to explain and moderate his doctrine repeatedly and opelly in the capital year of Scotland. In 1930 the earliest Glencarers allured the earl Marifichal to hear the exhorations of this celebrated prescher; and they were wrong to much affected with his realtorings and historians, that neither ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5391,
+    0.2656,
+    0.9902,
+    0.8094
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

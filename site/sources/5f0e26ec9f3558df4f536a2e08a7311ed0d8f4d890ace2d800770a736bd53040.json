@@ -1,0 +1,44 @@
+{
+  "id": "wiki-22850636-1305451622-83e385a2ba00",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Generalized trigonometry",
+  "text": "n the gyrovector space approach to hyperbolic geometry, with applications to special relativity and quantum computation.\n\nTrigonometry for taxicab geometry\n\nSpacetime trigonometries\n\nFuzzy qualitative trigonometry\n\nOperator trigonometry\n\nLattice trigonometry\n\nTrigonometry on symmetric spaces\n\nSchläfli orthoschemes - right simplexes (right triangles generalized to n dimensions) - studied by Schoute who called the generalized trigonometry of n Euclidean dimensions polygonometry.\n\nPythagorean theorems for n -simplices with an \"orthogonal corner\"\n\nTrigonometry of a tetrahedron\n\nDe Gua's theorem – a Pythagorean theorem for a tetrahedron with a cube corner\n\nA law of sines for tetrahedra\n\nPolar sine\n\nTrigonometric functions can be defined for fractional differential equations.\n\nIn time scale calculus, differential equations and difference equations are unified into dynamic equations on time scales which also includes q-difference equations. Trigonometric functions can be defined on an arbitrary time scale (a subset of the real numbers).\n\nThe series definitions of sin and cos define these functions on any algebra where the series converge such as complex numbers, p -adic numbers, matrices, and various Banach algebras.\n\nPolar/Trigonometric forms of hypercomplex numbers\n\nPolygonometry – trigonometric identities for multiple distinct angles\n\nThe Lemniscate elliptic functions, sinlem and coslem",
+  "url": "https://en.wikipedia.org/wiki/Generalized_trigonometry",
+  "revision_id": 1305451622,
+  "article_id": 22850636,
+  "section_path": "shared_text[0:2845]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2845
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 102904,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "fc43f459843287ec3ed1acd09f0d39068a0f26f14a6f4e8c66695761fc7065c4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1305451622",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "22850636",
+    "revision_id": "1305451622",
+    "retrieved_at": "2026-10-18T12:28:24.285930+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2845,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

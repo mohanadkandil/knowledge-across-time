@@ -1,0 +1,36 @@
+{
+  "id": "bri-1852-99329ba2a533:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1852-99329ba2a533",
+  "title": "Encyclopaedia Britannica - Seventh edition, General index - EB.15",
+  "text": "Taat on Morter XX, 316. Toimmon, lake, XVII 5.\nTarason, Dallintii, XXX 516.\nTara, in Dalintii, XXX 516.\nXatavoror, XXX 516.\nTara, in veteranyn zen, XXI 629.\nTara, and other words of effect on\nbells, 513. Textbook, XL 317.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, Invitation zen, XXI 629.\nTara, and XIX 818.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 818.\nToday, XXX 518.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1852",
+  "provenance": {
+    "page_id": "bri-1852-99329ba2a533",
+    "row_index": 1852,
+    "volume_id": "192547789",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, General index - EB.15",
+    "label": 0,
+    "sha256": "99329ba2a5333801c6c887be176f9ec6eb6fbe65c1c40086004a70f3f7173f17",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1852-99329ba2a533.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1852",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0879,
+    0.0875,
+    0.2822,
+    0.2844
+  ],
+  "offsets": [
+    0,
+    595
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

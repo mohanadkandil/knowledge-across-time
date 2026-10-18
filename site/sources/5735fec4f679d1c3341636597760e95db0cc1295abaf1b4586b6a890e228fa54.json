@@ -1,0 +1,36 @@
+{
+  "id": "bri-2026-4065cd59de40:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2026-4065cd59de40",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+  "text": "However, Venus, who had never filtered during the whole time of the war from Antoch and Daph- ne, took upon him the lobily titles of _Parthius_ and _Armenians_, as if he had acquired them judify in the multi of his platform and Geberabrities. After the revolt and death of Callius, Antesina the Phi- delpherated line Syria is little the affirm of that province. On his arrival there, to, was met by ambulations from Vologoefers, who having recovered molto of the provinces fledglad by Callius, and being unwilling ge- the to part with them for engages in a new area, fully cited the emperor to confirm him in the poddffion of them, promising to hold them of him, and acknowledge the forward yet of Rome. To the term Anton- nius readily agreed, and a peace was accordingly concluded between the two empires; which Vologes did not long enjoy, being from after carried off by a diflemper, and not murdered by his own fulgets, as he read in Confantinu Manafés, who calls him _Beleg._",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+  "provenance": {
+    "page_id": "bri-2026-4065cd59de40",
+    "row_index": 2026,
+    "volume_id": "191253798",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+    "label": 0,
+    "sha256": "4065cd59de408978ce50cdb477e57ffa479fda8619211cd870863fdb1403b493",
+    "width": 600,
+    "height": 785,
+    "image_file": "../images/bri-2026-4065cd59de40.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5391,
+    0.1016,
+    0.9189,
+    0.3609
+  ],
+  "offsets": [
+    0,
+    979
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

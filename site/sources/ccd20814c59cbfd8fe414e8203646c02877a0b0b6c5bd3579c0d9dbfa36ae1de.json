@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "The prevalence of such a system is, even under the most favorable circumstances, incompatible with an advanced state of civilization; and in Britain is expected with a condition of society which, anterior to the Roman occupation, was one little detected about the Islam. The south-western shore of the island had, it is true, been early reacted to by foreigners for purposes to trading, the Pheriaceae has Muslimsism, for example trailed in the tin of Cornwall, and from them gourgepakes spoke of the Castlestone of T. Belanés, but this truth was too limited to extent, and too confined in its sphere, have any material influence on the general character of the people, who according to derived small benefits from their occasional incurrence with foreigners. Their country clothing consisted of unnamed kira, and the parts of the body left exposed were bedabed with an azure colouring matter extracted from particularbody. Things, which had been introduced by the Belgian Guala, was not altogether unknown, but the the principle articles of food were the milk and fade of their levels. Superson, with its usual blind absurdity, had forbidden them the use of fish, which abundant due to coasts of the island. Their towns were rarely clusters of opgrams, covered with turf, boughs, or skins, as situated in the area of some forest or oceans, with its avenues defected by rampments of earth and felled trees. In their person they were large and talk, exciting the Guala alike, in stature and is strongly, but their features ever heavy, their figures chamy, and, accorded to Songs, they find not same fi",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1631,
+    0.1867,
+    0.5557,
+    0.7828
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39080641-1350387420-67f23095992d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flanders (surname)",
+  "text": "Flanders is an English surname. Notable people with the surname include:\n\nAngela Flanders (1927–2016), British perfumer\n\nBenjamin Flanders (1816–1896), American politician\n\nDennis Flanders (1915–1994), British artist\n\nEd Flanders (1934–1995), American actor\n\nHarley Flanders (1925–2013), American mathematician\n\nJames E. Flanders (c.1849–1928), American architect\n\nJohn W. Flanders Sr. (born 1927), American politician\n\nJudith Flanders (born 1959), British historian and author\n\nLaura Flanders (born 1961), English journalist\n\nMichael Flanders (1922–1975), English actor, broadcaster, and writer\n\nPeter Flanders, Australian rugby league player\n\nRalph Edward Flanders (1880–1970), American engineer and politician\n\nStephanie Flanders (born 1968), English journalist\n\nWalter Flanders (1871–1923), American industrialist\n\nFictional characters:\n\nMoll Flanders\n\nNed Flanders, a character on The Simpsons\n\nOther uses:\n\nJohn Flanders, pseudonym of the Belgian writer Jean Ray (author) (1887–1964)\n\nJohn Buchanan (cricketer, born 1953) (born 1953), former coach of the Australia cricket team, has the nickname Ned Flanders, due to a supposed resemblance to the character on The Simpsons",
+  "url": "https://en.wikipedia.org/wiki/Flanders_(surname)",
+  "revision_id": 1350387420,
+  "article_id": 39080641,
+  "section_path": "shared_text[0:1178]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1178
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "355b0895b1deb8e0eadc62962c71072e627bf5aa353b4d76424eb4b880e3a0b0",
+    "source_row_idx": 65275,
+    "source_shard": "enwiki/data/enwiki_namespace_0_52.parquet",
+    "text_sha256": "ac3c803746f92ca630a9f383278230b5c77e2aeaacfe0e5ae232e3b29899c7b6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350387420",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39080641",
+    "revision_id": "1350387420",
+    "retrieved_at": "2026-10-18T12:38:42.157490+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1178,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

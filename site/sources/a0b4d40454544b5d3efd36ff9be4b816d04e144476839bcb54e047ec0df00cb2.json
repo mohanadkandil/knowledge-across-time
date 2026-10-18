@@ -1,0 +1,36 @@
+{
+  "id": "bri-0202-d974d662c888:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-0202-d974d662c888",
+  "title": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+  "text": "Part I.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+  "provenance": {
+    "page_id": "bri-0202-d974d662c888",
+    "row_index": 202,
+    "volume_id": "144850366",
+    "metadata": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+    "label": 0,
+    "sha256": "d974d662c888e8d1ae2a25821b645143aacf1c162948d297f96fe9f1694777b6",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-0202-d974d662c888.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.0205,
+    0.043,
+    0.0889,
+    0.0602
+  ],
+  "offsets": [
+    0,
+    7
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

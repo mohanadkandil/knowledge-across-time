@@ -1,0 +1,44 @@
+{
+  "id": "wiki-272629-1340248289-17b9d0aab811",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Preston",
+  "text": "gumber parish\n\nPreston, Tyne and Wear\n\nPreston, Aldbourne and Ramsbury, Wiltshire\n\nPreston, Lyneham, Wiltshire\n\nPreston Bagot, Warwickshire\n\nPreston Bissett, Buckinghamshire\n\nPreston Brook, Cheshire\n\nPreston Candover, Hampshire\n\nPreston Capes, Northamptonshire\n\nPreston Crowmarsh, Oxfordshire\n\nPreston Deanery, Northamptonshire\n\nPreston Gubbals, Shropshire\n\nPreston-le-Skerne, County Durham\n\nPreston-next-Faversham, Kent\n\nPreston-next-Wingham, Dover, Kent; better known as Preston\n\nPreston on Stour, Warwickshire\n\nPreston-on-Tees, Stockton-on-Tees, County Durham\n\nPreston on the Hill, Cheshire\n\nPreston on Wye, Herefordshire\n\nPreston Plucknett, Somerset\n\nPreston St Mary, Suffolk\n\nPreston-under-Scar, North Yorkshire\n\nPreston upon the Weald Moors, Shropshire\n\nPreston Wynne, Herefordshire\n\nGreat Preston, West Yorkshire\n\nLong Preston, North Yorkshire\n\nPreston, East Linton, East Lothian\n\nPreston, Prestonpans, East Lothian\n\nPreston, Scottish Borders, near Duns\n\nPreston Island, reclaimed land in the Firth of Forth\n\nPrestonkirk or Preston, near East Linton, East Lothian\n\nPreston Mill, a watermill near East Linton, East Lothian\n\nPreston, Alabama, see List of places in Alabama: N–R#P\n\nPreston, Arkansas, see List of places in Arkansas: P\n\nPreston, California\n\nPreston, Colorado\n\nPreston, Connecticut\n\nPreston, Georgia\n\nPreston, Idaho\n\nPreston, Illinois\n\nPreston, Indiana\n\nPreston, Iowa\n\nPreston, Kansas\n\nPreston, Kentucky\n\nPreston, Maryland\n\nPreston, Michigan\n\nPreston, Minnesota\n\nPreston, Mississippi\n\nPreston, Missouri (in Hickory County)\n\nPreston, Jasper County, Missouri\n\nPreston, Nebraska\n\nPres",
+  "url": "https://en.wikipedia.org/wiki/Preston",
+  "revision_id": 1340248289,
+  "article_id": 272629,
+  "section_path": "shared_text[0:6296]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 77005,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "31799b3f80a43ad037a4d67d17d19777f59e113c8504b60a0193518debe58c8d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340248289",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "272629",
+    "revision_id": "1340248289",
+    "retrieved_at": "2026-10-18T12:36:03.525728+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6296,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

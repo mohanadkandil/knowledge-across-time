@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2377911-1339123781-1dc03c88bc35",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cassiterides",
+  "text": "The Cassiterides (Ancient Greek: Κασσιτερίδες, meaning \"tin place\", from κασσίτερος, kassíteros \" tin \") are an ancient geographical name used to refer to a group of islands whose precise location is unknown, but which was believed to be situated somewhere near the west coast of Europe.\n\nΚασσιτερίδας simply means \"places of tin\", but Herodotus (5.115) describes them as \" νήσους οἶδα Κασσιτερίδας \" or \"tin islands\". Modern theories hold the islands to be the British Isles.\n\nHerodotus, whilst a subject of the Achaemenid empire in 5th century BC Halicarnassus, wrote in Ancient Greek about how his civilization received its tin and amber from western Europe, with whose geography he was unfamiliar (Hist. 3.115):\n\nαὗται μέν νυν ἔν τε τῇ Ἀσίῃ ἐσχατιαί εἰσι καὶ ἐν τῇ Λιβύῃ. περὶ δὲ τῶν ἐν τῇ Εὐρώπῃ τῶν πρὸς ἑσπέρην ἐσχατιέων ἔχω μὲν οὐκ ἀτρεκέως λέγειν· οὔτε γὰρ ἔγωγε ἐνδέκομαι Ἠριδανὸν καλέεσθαι πρὸς βαρβάρων ποταμὸν ἐκδιδόντα ἐς θάλασσαν τὴν πρὸς βορέην ἄνεμον, ἀπʼ ὅτευ τὸ ἤλεκτρον φοιτᾶν λόγος ἐστί, οὔτε νήσους οἶδα Κασσιτερίδας ἐούσας, ἐκ τῶν ὁ κασσίτερος ἡμῖν φοιτᾷ.\n\nEnglish translation:\n\nThese then are the most distant lands in Asia and Libya. But concerning those in Europe that are the farthest away towards evening, I cannot speak with assurance; for I do not believe that there is a river called by foreigners Eridanus issuing into the northern sea, where our amber is said to come from, nor do I have any knowledge of Tin Islands, where our tin is brought from.\n\nStrabo's passage on the Cassiterides is quite detailed, placing them in an Iberian context, separate from Britain (Ge",
+  "url": "https://en.wikipedia.org/wiki/Cassiterides",
+  "revision_id": 1339123781,
+  "article_id": 2377911,
+  "section_path": "shared_text[0:7826]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 82849,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "cbf597aeaf716be7ba56a0cb0c05de4b74a9ec71a726b648128d2495c6c48808",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339123781",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2377911",
+    "revision_id": "1339123781",
+    "retrieved_at": "2026-10-18T12:39:41.290107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7826,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

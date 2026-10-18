@@ -1,0 +1,36 @@
+{
+  "id": "bri-2330-cd9ad26429d1:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2330-cd9ad26429d1",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+  "text": "Though the two armies did not come to a general engagement, yet they had frequent kirimilles, in which the Arabia always spot the better, and inom the Greek used every considerably. They together with the feverity of the fealon, which was then uncommonly cold, to depleted the soldiers, that they began to differ in great numbers. Confinement before, finding his troops to diminith daily, and the Arabs to grow fronger and firegrory roads the advantage of a temperature night to campe to Caferno, which Yezd had not been able to take, leaving his camp to be plondered by the enemy. This city are four often after involved by Armus, and at the Newokana from time Youkka, having made himselfment of takes Tri- Tripoli by teachers, feized 50 days from Cyprus and pol. Crete, which carried a flipply of arms and provins for",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+  "provenance": {
+    "page_id": "bri-2330-cd9ad26429d1",
+    "row_index": 2330,
+    "volume_id": "144850370",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+    "label": 0,
+    "sha256": "cd9ad26429d1ff54c029d20d1c534d9322d59bc9c3037369e6a715816c005887",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2330-cd9ad26429d1.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5059,
+    0.6984,
+    0.9043,
+    0.8953
+  ],
+  "offsets": [
+    0,
+    819
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2284-33471bbe8055:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2284-33471bbe8055",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "\" But how,\" said Telemachus to Narbal, \" can such a commerce as this of Tyre be esta­blished at Ithaca 2\" \" By the same means,\" said Narbal, \" that have established it here. Receive all strangers with readiness and nospitality ; let them find convenience and liberty in your ports ; and be careful never to disgust them by avarice or pride : above all, never restrain the freedom of commerce, by rendering it subservient to your own immediate gain. The pecuniary advantages of commerce should be left wholly to those by whose labour it subsists ; lest this labour, for want of a sufficient motive, should cease. There are more than equivalent advantages of another kind, which must necessarily result to the Prince from the wealth which a free commerce will bring into his state ; and commerce is a kind of spring, which to divert from its natural channel is to lose.\"' Had the same question",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+  "provenance": {
+    "page_id": "bri-2284-33471bbe8055",
+    "row_index": 2284,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 0,
+    "sha256": "33471bbe8055216dff3be2c57a051fd04caf12126ecf736755ae78d39ca78c15",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2284-33471bbe8055.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0645,
+    0.6273,
+    0.873,
+    0.8648
+  ],
+  "offsets": [
+    0,
+    891
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

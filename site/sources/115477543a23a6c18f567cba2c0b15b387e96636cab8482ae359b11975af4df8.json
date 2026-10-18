@@ -1,0 +1,36 @@
+{
+  "id": "bri-1307-2eff05e65514:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1307-2eff05e65514",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "To avoid this complication of conditions, we may first compute the discharge of the line in the meaner now point of out, without the consideration of the previous velocity of the term. This discharge will be a little too small. If we divide is by the section 13, it will give a primary velocity too small, but not in from the time. Therefore, we shall get the height PE, no means of which we shall be able to determine velocity intermediate between DG and CH, which would correspond to a wear, as also the velocity CH, which corresponds to the type of the section C4, which is wholly under water. Then we correct all these quantities by repeating the operation with them instead of our first assumptions.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+  "provenance": {
+    "page_id": "bri-1307-2eff05e65514",
+    "row_index": 1307,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 1,
+    "sha256": "2eff05e655141179817b1383e508dae67a3ed33f9e40dc8e1f2cfcddcbbb9595",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1307-2eff05e65514.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.042,
+    0.4437,
+    0.4229,
+    0.6023
+  ],
+  "offsets": [
+    0,
+    704
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

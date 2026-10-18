@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60748911-1299722214-3359b0fc09d6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swedish Levant Company",
+  "text": "The Swedish Levant Company (Swedish: Levantiska kompaniet) was a Swedish chartered company founded on 20 February 1738 with the exclusive right to trade in the Levant for a period of ten years.\n\nFollowing the surrender at Perevolochna, King Charles XII was exiled to Bendery in the Ottoman Empire. It was during this time that Charles began to seek closer ties with the Ottomans, and Sweden's interest in the empire began to rise.\n\nThe primary backer for trade with the Ottoman Empire was Swedish Board of Trade member Johan Silfvercrantz. He proposed following the example of the English Levant Company to import goods such as silk while exporting Swedish products to the region. Charles sent Silfvercrantz to the Levant to explore a future trade relationship, but he was unable to complete his work before his death the next year in 1712.\n\nIn 1718, Charles died, and this marked the end of autocratic kingship in Sweden. The subsequent Age of Liberty saw a shift of power from the crown to the Riksdag of the Estates. It was at this time that Sweden had ambitions to expand its influence in the Mediterranean.\n\nIn 1737, a trade agreement between the Ottomans and Sweden was signed. A direct result of the treaty was the formation of the Swedish Levant Company.\n\nThe establishment of the company was a controversial issue. Major issues included which powers the Riksdag should grant the company. Members of the Hat Party generally argued for the English Levant Company structure, but this strategy was criticized by some merchants who favored a freer Dutch method while trading with the Ottomans.\n\nT",
+  "url": "https://en.wikipedia.org/wiki/Swedish_Levant_Company",
+  "revision_id": 1299722214,
+  "article_id": 60748911,
+  "section_path": "shared_text[0:2978]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 106546,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "fa036dafda49ab1c01ea45f7eba0c1e71285811b041281a31759261117524847",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299722214",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60748911",
+    "revision_id": "1299722214",
+    "retrieved_at": "2026-10-18T12:22:52.330988+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2978,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

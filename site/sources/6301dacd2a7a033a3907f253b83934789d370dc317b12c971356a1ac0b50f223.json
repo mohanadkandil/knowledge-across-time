@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5463545-1313633924-260c9830b95d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Argand lamp",
+  "text": "p of 1836 avoided these problems.\n\nThe same principle was also used for cooking and boiling water due to its 'affording much the strongest heat without smoke'.\n\nThe Argand lamp was introduced to Thomas Jefferson in Paris in 1784 and according to him gave off \"a light equal to six or eight candles.\"\n\nThese new lamps, much more complex and costly than the previous primitive oil lamps, were first adopted by the wealthy, but soon spread to the middle classes and eventually the less well-off as well. Argand lamps were manufactured in a great variety of decorative forms and quickly became popular in America. They were much used as theatrical footlights.\n\nIt was the lamp of choice until about 1850 when kerosene lamps were introduced. Kerosene was cheaper than vegetable oil, it produced a whiter flame, and as a liquid of low viscosity it could easily travel up a wick eliminating the need for complicated mechanisms to feed the fuel to the burner.",
+  "url": "https://en.wikipedia.org/wiki/Argand_lamp",
+  "revision_id": 1313633924,
+  "article_id": 5463545,
+  "section_path": "shared_text[0:2391]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2391
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 75540,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "d9694e0d69778b814fac804dedf3cdf6de773a8713b408b9ef7ccfe6ef3519e8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1313633924",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5463545",
+    "revision_id": "1313633924",
+    "retrieved_at": "2026-10-18T12:30:33.036387+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2391,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

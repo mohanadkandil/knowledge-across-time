@@ -1,0 +1,36 @@
+{
+  "id": "bri-1854-36bca28d19d7:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1854-36bca28d19d7",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "text": "FLANDERS, a province of the Netherlands, founded by the German feal and the United Frontiers on the north, by the province of Bratson on the end, by Hain- auth and Arthis on the fourth, and by another part of Artoin and the German fea on the wells being about 60 miles long and go broad.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "provenance": {
+    "page_id": "bri-1854-36bca28d19d7",
+    "row_index": 1854,
+    "volume_id": "191320561",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+    "label": 0,
+    "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-1854-36bca28d19d7.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1123,
+    0.7617,
+    0.4951,
+    0.8391
+  ],
+  "offsets": [
+    0,
+    287
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

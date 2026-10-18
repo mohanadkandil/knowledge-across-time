@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5763642-1344046848-8c7932b4feb7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Barkcloth",
+  "text": " popular in mid-century cocktail tables and fabrics and influenced by the Las Vegas \"Atomic City\" era. Waverly, a famed design house for textiles and wall coverings between 1923 and 2007, called their version of this fabric rhino cloth, possibly for the rough, nubbly surface. American barkcloth shot through with gold Lurex threads was called Las Vegas cloth, and contained as much as 65% rayon as well, making it a softer, more flowing fabric than the stiffer all-cotton rhino cloth or standard cotton barkcloth.",
+  "url": "https://en.wikipedia.org/wiki/Barkcloth",
+  "revision_id": 1344046848,
+  "article_id": 5763642,
+  "section_path": "shared_text[0:4834]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    4834
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 49076,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "e51d7bd8b25334507899f6019a7baabba03db3bb26a6b11b39b9fbae46bcea22",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344046848",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5763642",
+    "revision_id": "1344046848",
+    "retrieved_at": "2026-10-18T12:22:47.994042+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4834,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

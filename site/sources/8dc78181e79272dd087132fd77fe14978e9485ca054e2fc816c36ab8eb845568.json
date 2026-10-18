@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "The constructive else of injuries end in chemistry led many to various methods of obtaining it, and Dr Roeback attempted to repense in its rich manner as tove done the prices, for which people be fullstituted burden wefeels in the room of glafs; and he had the good for- time to effect his benevolent design. He established manufacturer of this useful articles on Preferences in Scot- land, in the year 1729, which was oppofed by Dr Ward, but without licceedly, as Reachute’s discovery did not come with Dr Ward's patents. By consentement and fercey Dr Roebuck and his partner preferred the advantages of their industry and especially are number of years, fungying the public will fidigraphic and at a much cheaper rate than had been formerly done.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1182,
+    0.1117,
+    0.5068,
+    0.3008
+  ],
+  "offsets": [
+    0,
+    748
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

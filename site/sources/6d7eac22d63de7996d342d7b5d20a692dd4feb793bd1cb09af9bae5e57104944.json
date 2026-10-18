@@ -1,0 +1,44 @@
+{
+  "id": "wiki-26220852-964729268-456f66a970a0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Woodcutting",
+  "text": "Woodcutting may refer to:\n\nLogging - cutting and loading of trees or logs onto trucks or skeleton cars\n\nWoodcut, a relief printing technique in printmaking\n\nCoppicing, a traditional method of woodland management\n\nA woodcutter may refer to:\n\nA gatherer of firewood\n\nA lumberjack\n\nAn artist producing woodcuts",
+  "url": "https://en.wikipedia.org/wiki/Woodcutting",
+  "revision_id": 964729268,
+  "article_id": 26220852,
+  "section_path": "shared_text[0:307]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    307
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 109735,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "bf6f9d7bb6c1bbf19b85c76417fa2308ce0e3f7007a9dcf07824f9cf2e337c4e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=964729268",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "26220852",
+    "revision_id": "964729268",
+    "retrieved_at": "2026-10-18T12:42:17.354775+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 307,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

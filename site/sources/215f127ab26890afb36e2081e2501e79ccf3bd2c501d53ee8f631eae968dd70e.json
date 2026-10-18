@@ -1,0 +1,36 @@
+{
+  "id": "bri-0608-5cb01932cdde:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0608-5cb01932cdde",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+  "text": "This famous dispute (the only one in the circle of mathematical fiction) has led us somewhat safer. But we have little more to connect with respect to reasonable quantity . We cannot say what varies of quantity are fulceptible of their medium or not his is impossible to give accuratement of every thing fotely false sug-mentation and diminution. We affirm, however, with confidence they pleats, joy. See, are not made up of their own parts, which can be consequated legal ratably but they may chance to be allocated by an instance with identifying that it is needed; and we may one day the able to align their degrees with as much pre- efficient as weare often the affected warmth by the separation of the field in the thermometer. There are some finite in which they were still the mostent, vice moment\\- velity in Newton mentions clearly on matters. See. We can conceive the pain of each of a dozen men to be the time. \"There is a evidence that the pain of digital of bad men is too that of the terming him as we come ome but from facts iminformation we do not farece any benefit files or write.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+  "provenance": {
+    "page_id": "bri-0608-5cb01932cdde",
+    "row_index": 608,
+    "volume_id": "191320558",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+    "label": 0,
+    "sha256": "5cb01932cddebc17e7f873ed9584f937a9c07d1c84bec2d58b28d1c0620146a1",
+    "width": 600,
+    "height": 784,
+    "image_file": "../images/bri-0608-5cb01932cdde.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0996,
+    0.1977,
+    0.4629,
+    0.4555
+  ],
+  "offsets": [
+    0,
+    1098
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

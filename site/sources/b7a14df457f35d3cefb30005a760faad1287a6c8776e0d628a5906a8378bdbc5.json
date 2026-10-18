@@ -1,0 +1,36 @@
+{
+  "id": "bri-2281-ff9c4373e498:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-2281-ff9c4373e498",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "Let it be required to triest the angle BAC or the arc BC. Suppose the thing already done, and the angle BAD to be the third part of the given angle. From the point CE draw CE parallel to AD, meeting the extended diameter in _E_, and cutting the cir-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+  "provenance": {
+    "page_id": "bri-2281-ff9c4373e498",
+    "row_index": 2281,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 1,
+    "sha256": "ff9c4373e498cf1488dade04b3ed25c7d5c4da4a09a1e102e863f69b1e53fdca",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-2281-ff9c4373e498.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1377,
+    0.3008,
+    0.5293,
+    0.3695
+  ],
+  "offsets": [
+    0,
+    249
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

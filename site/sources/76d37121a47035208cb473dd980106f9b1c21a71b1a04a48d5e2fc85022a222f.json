@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-8c70205d4f94",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "l.\n\nExcavation work has traced a significant development of 980 feet (300 m) of timber-framed waterfronts to the east and west of the modern site of London Bridge, with a piece of wooden bridge found at the end of Fish Street Hill. The constructions advancing around 115 feet (35 m) into the River Thames took place between the late 1st and mid-3rd centuries, highlighting that between these periods no wall stood against the river.\n\nAfter Londinium was raided on several occasions by Saxon pirates in the late 3rd century, construction of an additional riverside wall, built in phases, began in 280 and was repaired c. 390. The existence of this riverside section was long doubted due to a lack of evidence, but excavations at the Tower of London in 1977 showed that the section of the inner curtain wall between the Lanthorne and Wakefield Towers, to the south of the White Tower, was originally the eastern part of the Roman riverside wall that was built or rebuilt in the late 4th century. The riverside wall may have limited access to the Thames, both commercial and otherwise, so it may have reflected a diminished level of activity within the city.\n\nIt is not clear how long the riverside wall survived, but there are references to a part of it near the dock of Queenhithe, in two charters of 889 and 898. There is currently no evidence of post-Roman restoration, so surviving sections are not likely to have been part, or an important part, of defences much after the Roman period.\n\nThe end of Roman rule in Britain in c. 410 resulted in the wall slowly falling into disrepair, though the sur",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

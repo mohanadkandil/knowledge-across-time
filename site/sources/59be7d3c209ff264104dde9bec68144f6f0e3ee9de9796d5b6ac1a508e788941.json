@@ -1,0 +1,49 @@
+{
+  "id": "wiki-39361535-1348191975-2fffc42bc39d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of pharmacy colleges in India",
+  "text": "of Pharmacy, Survey No.326/2 Pathardi Road\n\nGondia Education Society's Manoharbhai Patel Institute of Pharmacy\n\nGovernment College of Pharmacy, Amravati\n\nGovernment College of Pharmacy, Aurangabad\n\nGovernment College of Pharmacy, Karad\n\nGovernment College of Pharmacy, Ratnagiri\n\nGovt. Polytechnic\n\nGulabrao Patil College of Pharmacy, near Govt. Milk Scheme, Miraj\n\nGurunanak Technical Institute (Diploma in Pharmacy), Foundry & Namagar Nagar\n\nH K College of Pharmacy, Jogeshwari, Mumbai\n\nIndira College of Pharmacy, New Pune Mumbai Highway Tathwade\n\nInstitute of Diploma in Pharmacy\n\nInstitute of Pharmaceutical Education and Research\n\nInstitute of Pharmacy\n\nInstitute of Pharmacy\n\nInstitute of Pharmacy, Deopur\n\nInstitute of Pharmacy\n\nInstitute of Pharmacy, Station Road Yavatmal\n\nJ L Chaturvedi College of Pharmacy\n\nJ.B.S.P. Mandar's Institute of Pharmacy\n\nJ.E.S.'s Institute of Pharmacy, Durga Mata Road\n\nJijamata Education Society's College of Pharmacy, Nandurbar\n\nK.D. Pawar College of Pharmacy\n\nK.D.C.A's Institute of Pharmacy, Ujalaiwadi\n\nK.E.S's College of Pharmacy, Manwad Road\n\nKamala Nehru Polytechnic (pharmacy)\n\nKamla Nehru Pharmacy\n\nLokmanya Tilak Institute of Pharmaceutical Studies, Laxmi Nagar\n\nM.A.H. College of Pharmacy\n\nMaharashtra Shikshan Samiti's 'Maharashtra College of Pharmacy\n\nMahatma Basweshwar Education Society's College Pharmacy, MIDC Area, Barshi Road\n\nMGV Mandal's College of Pharmacy, Panchvati\n\nModern College of Pharmacy, Sector 21, Yamunanagar, Nigdi\n\nModern College of Pharmacy (Ladies Only), Borhadewadi, A/P Moshi, Taluk. Haveli\n\nMoze college of Pharmacy, Wag",
+  "url": "https://en.wikipedia.org/wiki/List_of_pharmacy_colleges_in_India",
+  "revision_id": 1348191975,
+  "article_id": 39361535,
+  "section_path": "shared_text[0:32821]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    17280,
+    18880
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 34163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "0aa5456859680e73ce11343c99f387da9a2c893951c6da5c7cc965dd1e134705",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348191975",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39361535",
+    "revision_id": "1348191975",
+    "retrieved_at": "2026-10-18T12:28:56.445727+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 12821,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

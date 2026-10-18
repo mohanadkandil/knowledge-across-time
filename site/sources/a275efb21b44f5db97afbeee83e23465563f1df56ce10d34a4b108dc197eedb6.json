@@ -1,0 +1,44 @@
+{
+  "id": "wiki-49227424-1145222643-ea38bf2c820b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mysore betel leaf",
+  "text": "Mysore betel leaf is a variety of heart shaped betel (Piper betel) leaf grown in and around the region of Mysore. It is consumed as a betel quid or as paan, with or without tobacco. A sheaf of betel leaves is traditionally offered as a mark of respect and auspicious beginnings. Areca nut are kept on top of the sheaf of betel leaves and offered to the elders for their blessings and during wedding ceremonies.\n\nMysore betel leaves are said to differ from other betel leaves because of their smooth texture and hot taste. They are protected by the government of India.\n\nThe betel leaf, which is native to the Indian subcontinent, has been used for 5000 years. About 50 years ago, the Mysore betel leaves were grown in the gardens of the Mysore Maharaja and were later spread to 100 acres from Poorniah Choultry in Old Agrahara to Vidyaranyapuram junction, which connects the Mysore-Nanjangud Road in Mysore. Gradually, it was spread to about 500 acres around Mysore. Unique climate and soil in this stretch is thought to have given the leaves a unique taste that earned it the name ‘Mysore Chigurele’ (Mysore sprout leaf). The leaf has a smooth texture and hot taste.\n\nThe betel plant is a tropical plant, so it needs a warm and humid climate to grow properly. It thrives best under shade and in a temperature ranging from 10 to 40 degrees. The presence of black clay in the soil along with the hot, humid climate gives the Mysore betel leaf special characteristics.\n\nThe Department for Horticulture under the government of Karnataka proposed the registration of the Mysore betel leaf to the Office o",
+  "url": "https://en.wikipedia.org/wiki/Mysore_betel_leaf",
+  "revision_id": 1145222643,
+  "article_id": 49227424,
+  "section_path": "shared_text[0:1930]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 7059,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "3fdfa7d446286311600ef4c5237ca84b1d7cb8c3b99154408a2b978d9d46ade4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1145222643",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "49227424",
+    "revision_id": "1145222643",
+    "retrieved_at": "2026-10-18T12:37:17.135273+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1930,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

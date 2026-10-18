@@ -1,0 +1,36 @@
+{
+  "id": "bri-0032-2ebcde0b7a34:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0032-2ebcde0b7a34",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+  "text": "MELICERTA: Mericarays, or _Meliteria_, in fa-bakho history, a fan of Athama and Iran. He was fared by his mother from the fury of his father, who prepared to both him against it will be he had done his brother Laachou. The mother was for terrified that the threw benefit into the fea with Melicerta in her arms. Nephine had competition on the misfortunes of hins and her fun. He changed them both into for duties. Ino was called Leucoloid at Manita; and Melicerta was known among the Greekly the one Peatures and among the Latinas by that of Portamans. Some fuppods that the Ithmian games were infiltrated in bo-nose the Melicerta.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+  "provenance": {
+    "page_id": "bri-0032-2ebcde0b7a34",
+    "row_index": 32,
+    "volume_id": "192200898",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+    "label": 0,
+    "sha256": "2ebcde0b7a34c9d11c91c2e0c77bce71941ab576ca45017075b58e3eebe9f94c",
+    "width": 600,
+    "height": 827,
+    "image_file": "../images/bri-0032-2ebcde0b7a34.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0605,
+    0.1062,
+    0.4492,
+    0.2586
+  ],
+  "offsets": [
+    0,
+    631
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-65979057-1317437968-509c1fd11e5f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Block (surname)",
+  "text": "Block is a German, Dutch and English surname. Notable people with the surname include:\n\nAdam Block (disambiguation), list of multiple people\n\nAdriaen Block (1567–1627), Dutch trader and navigator\n\nAgnes Block (1629–1704), Dutch botanist and art collector\n\nAmanda Roth Block (1912–2011), American artist\n\nAnna Katharina Block (1642–1719), German painter\n\nAustin Block (born 1989), American ice hockey player\n\nAxel Block (born 1947), German cinematographer\n\nBarbara Block, American marine biologist\n\nBenjamin Block (1631–1690), German painter\n\nBill Block (born 1954), American film producer\n\nBilly Block (1955–2015), American musical artist\n\nBob Block (1921–2011), British scriptwriter\n\nBrandon Block (born 1967), British DJ\n\nBrett Ellen Block (born 1973), American novelist\n\nBruce Block (born 1967), American entertainer\n\nBruce A. Block, American film producer\n\nBruno Block (1885–1937), American baseball player\n\nCarl Block (1874–1948), Swedish bishop\n\nCarson Block (born 1977), American businessman\n\nCy Block (1919–2004), American baseball player\n\nDan Block, American musician\n\nDaniel Block (1802–1853), American Jewish leader\n\nDaniel I. Block (born 1943), American scholar\n\nDavid Block (1908–2001), British army officer\n\nDorothy Block (1904–1984), American artist\n\nDoug Block (born 1953), American filmmaker\n\nEric Block (born 1942), American chemist\n\nFrancesca Lia Block (born 1962), American writer\n\nFrank Block (American politician)\n\nFrank Block (Australian politician) (1899–1971), Australian politician\n\nFred L. Block (born 1947), American sociologist\n\nFrederic Block (born 1934), American judge",
+  "url": "https://en.wikipedia.org/wiki/Block_(surname)",
+  "revision_id": 1317437968,
+  "article_id": 65979057,
+  "section_path": "shared_text[0:5846]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 12258,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "9ef46857e5409e4020e3b0e4afc10f14075ad0614775e77e82f51011ba39d621",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317437968",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "65979057",
+    "revision_id": "1317437968",
+    "retrieved_at": "2026-10-18T12:21:50.644282+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5846,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

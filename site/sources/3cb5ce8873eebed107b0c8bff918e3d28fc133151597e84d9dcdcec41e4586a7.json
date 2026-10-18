@@ -1,0 +1,44 @@
+{
+  "id": "wiki-392605-1277852766-b8c978680b56",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Directrix",
+  "text": "In mathematics, a directrix is a curve associated with a process generating a geometric object, such as:\n\nDirectrix (conic section)\n\nDirectrix (ellipse)\n\nDirectrix (generatrix)\n\nDirectrix (rational normal scroll)\n\nDirectrix is a spaceship in the Lensman series of novels by E. E. Smith.\n\nDirectrix is the name of an indie alternative band in Chicago.\n\nDirectrix - a feminine form of director in the context of grammatical gender.",
+  "url": "https://en.wikipedia.org/wiki/Directrix",
+  "revision_id": 1277852766,
+  "article_id": 392605,
+  "section_path": "shared_text[0:429]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    429
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 238309,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "19e9c835367160923dda28754e37ffdfe0cb3facabc45db4d872149d8edc044b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1277852766",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "392605",
+    "revision_id": "1277852766",
+    "retrieved_at": "2026-10-18T12:38:08.583906+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 429,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

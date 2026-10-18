@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7167423-1226301021-57b166feb42f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Pompeii (disambiguation)",
+  "text": "Pompeii is a ruined Roman city near modern Naples in the Italian region of Campania.\n\nPompeii, Pompei may also refer to:\n\nPompei, a modern Italian city near the ruins of the Roman city\n\nPompeii, Michigan, an unincorporated community in Gratiot County, Michigan, U.S.\n\nPink Floyd: Live at Pompeii, a 1972 concert documentary film by Pink Floyd\n\nPompeii: The Last Day, a 2003 UK television docudrama\n\nApocalypse Pompeii, a 2014 action-adventure-disaster film by Ben Demaree\n\nPompeii (film), a 2014 action-adventure-romance-disaster film by Paul W. S. Anderson\n\nLive at Pompeii, a 2017 live album and film by David Gilmour\n\nPompei (2019 film), a 2019 French language film\n\nPompeii (band), an American indie rock band\n\nPompeii (Cate Le Bon album), 2022\n\nPompeii (Triumvirat album), 1977\n\nPompeii (EP), a 2007 EP by Beirut\n\n\"Pompeii\" (song), a 2013 song by British band Bastille\n\n\"Pompeii\", a 2001 song by E.S. Posthumus from Unearthed\n\n\"Pompeii\", a 2000 song by Sleater-Kinney from All Hands on the Bad One\n\nPompeii (novel), a 2003 novel by Robert Harris, or the cancelled film adaptation\n\nPompei: The Legend of Vesuvius, a 2000 historical adventure video game\n\nSS Pompeji, a Second World War German merchant ship\n\nRoberto Pompei (born 1970), Argentine footballer\n\nPompeii, a version of the Ancient Roman Gladius sword",
+  "url": "https://en.wikipedia.org/wiki/Pompeii_(disambiguation)",
+  "revision_id": 1226301021,
+  "article_id": 7167423,
+  "section_path": "shared_text[0:1314]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1314
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 160599,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "c47d6410aba9a60213aa3e7bf5a525deee2b4dffcdf5ad1b6152438d24d4771e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1226301021",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7167423",
+    "revision_id": "1226301021",
+    "retrieved_at": "2026-10-18T12:21:13.478522+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1314,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

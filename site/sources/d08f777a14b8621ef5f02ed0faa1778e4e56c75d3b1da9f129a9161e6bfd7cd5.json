@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30253-1346760679-a2742599a8ba",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tertiary period",
+  "text": "status by 2009. In 2006 it was remarked that despite the ICS elimination of the term over a decade earlier, at that time, \"Tertiary\" was still more common than Paleogene and Neogene.\n\nThe Tertiary period lies between the Mesozoic Era and the Quaternary Period, although it is no longer recognized as a formal unit by the International Commission on Stratigraphy.\n\nThe span of the Tertiary is subdivided into the Paleocene (66–56 million years BP), the Eocene (56–33.9 million years BP), the Oligocene (33.9–23.04 million years BP), the Miocene (23.04–5.333 million years BP) and the Pliocene (5.333–2.58 million years BP), extending to the first stage of the Pleistocene, the Gelasian Stage.",
+  "url": "https://en.wikipedia.org/wiki/Tertiary_period",
+  "revision_id": 1346760679,
+  "article_id": 30253,
+  "section_path": "shared_text[0:3571]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3571
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 80421,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "380fea40248bab52f4fbc39dcd6d222872981e6ec53207fbf453b3118742e866",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346760679",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30253",
+    "revision_id": "1346760679",
+    "retrieved_at": "2026-10-18T12:29:32.371774+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3571,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

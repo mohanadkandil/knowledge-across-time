@@ -1,0 +1,36 @@
+{
+  "id": "bri-1854-36bca28d19d7:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1854-36bca28d19d7",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "text": "Having taken the degree of M. A. at Cambridges, he formed the reflation of entering into holy orders, when Sir Jonas seems to have to come to London, where he had an appointment for him very different from that of the church. But as he found that nothing could make him abandon the reflation do had learned, he obtained its fixation for him which was perfectly conflicten with the character of a Georgramis. This was the new day of all common to the king, with a day of 100l, per annum. He received ordination at Ely-hour by Biology Guining: in Earlier 1673, and on the 12th of August in the first few years the foundation lines of the royal observatory at Greenwich was laid, which recriced the delegation of Flamintel bands, in honor of the full astronomer royal. Till this edition was erected, he made his observation in the quarter's house of Greenwich, and in 1681 the Dehnera of the Sphone was published by Sir Jonas Moore in his flytlem of the mathematics. Notwihrithanding his extraordinary merit, he never role higher in the church than to the living of Pauline in Storry, although he was deferally effetened by the greatest men in the nation. He coneptioned with the great Newton, Dr Haley, Mr VK, McNeveux, the Wal-lis, and many others I and M. Calini and he imparted their discoveries to each other with the small confidence and creativity. But none of his works contributed for much to render his fame immortal as his \"Hir torki Celeith Britumic,\" in three volumes folks. Mr Flanfired was fidelity carried off by a framgency on the 31ft of December 1719; and notwiththanding the extreme ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "provenance": {
+    "page_id": "bri-1854-36bca28d19d7",
+    "row_index": 1854,
+    "volume_id": "191320561",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+    "label": 0,
+    "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-1854-36bca28d19d7.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1094,
+    0.3578,
+    0.4941,
+    0.7625
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-62848222-1339521856-c878ceba79b1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cardinal Wolsey (film)",
+  "text": "Cardinal Wolsey is a 1912 silent short film drama directed by Laurence Trimble, written by and starring Hal Reid. It was based on the play Henry VIII by William Shakespeare. It was produced by the Vitagraph Company of America and distributed through the General Film Company.\n\nAn incomplete copy of the film is preserved in the National Film and Television Archive, British Film Institute.\n\nHal Reid - Cardinal Wolsey\n\nJulia Swayne Gordon - Catherine of Aragon\n\nClara Kimball Young - Anne Boleyn\n\nTefft Johnson - King Henry VIII\n\nRobert Gaillard - Gardiner, later Bishop of Winchester\n\nLogan Paul - Thomas Cranmer, Archbishop of Canterbury\n\nGeorge Ober - Bishop of Essex\n\nHal Wilson - King's friend (*Harold Wilson)",
+  "url": "https://en.wikipedia.org/wiki/Cardinal_Wolsey_(film)",
+  "revision_id": 1339521856,
+  "article_id": 62848222,
+  "section_path": "shared_text[0:715]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    715
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 94614,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "b212e04aba7464e0876783b7d56ba2ed1c8c488a0b5d76b36fccf7b93b9909b5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339521856",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "62848222",
+    "revision_id": "1339521856",
+    "retrieved_at": "2026-10-18T12:36:15.891097+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 715,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

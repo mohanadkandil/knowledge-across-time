@@ -1,0 +1,44 @@
+{
+  "id": "wiki-15421530-990408048-c878ceba79b1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Nazarene University",
+  "text": "Nazarene University may refer to:\n\nPoint Loma Nazarene University, formerly Nazarene University, in San Diego, California, U.S.\n\nAfrica Nazarene University in Nairobi, Kenya\n\nAmbrose University, formerly Nazarene University College, in Calgary, Alberta, Canada\n\nEastern Nazarene College in Quincy, Massachusetts, U.S.\n\nKorea Nazarene University in Cheonan, South Korea\n\nMidAmerica Nazarene University in Olathe, Kansas, U.S.\n\nMount Vernon Nazarene University in Mount Vernon, Ohio, U.S.\n\nNorthwest Nazarene University in Nampa, Idaho, U.S.\n\nOlivet Nazarene University in Bourbonnais, Illinois, U.S.\n\nSouthern Nazarene University in Bethany, Oklahoma, U.S.\n\nTrevecca Nazarene University in Nashville, Tennessee, U.S.",
+  "url": "https://en.wikipedia.org/wiki/Nazarene_University",
+  "revision_id": 990408048,
+  "article_id": 15421530,
+  "section_path": "shared_text[0:715]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    715
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 72670,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "63c90588fbdda8d23e3da21e7a96024dfafb97f2c9ac7644f9250e776ed2f992",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=990408048",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "15421530",
+    "revision_id": "990408048",
+    "retrieved_at": "2026-10-18T12:35:33.469025+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 715,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

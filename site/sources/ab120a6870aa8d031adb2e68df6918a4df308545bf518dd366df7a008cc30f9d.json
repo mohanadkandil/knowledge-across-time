@@ -1,0 +1,36 @@
+{
+  "id": "bri-1803-0b6da50e5c8a:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1803-0b6da50e5c8a",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 1, ELE-FAI - EB.9",
+  "text": "Chartshin has been termed a mannerit to his draw-ings, but he will certainly be allowed to be an excellent one on his etching are watery field. Peeling in the department of ceahman no arilt has for happily rendered the picture of Claude. Lorraine as Francis Vivares’s than its with reflects to serial, perspective, the peculiar characteristic of Claude. But his merits are not confined to this matter above, for he followed Raydulla, Bergheim Gaulannosph, and Guyya, with green forests. He has ficha a few delivery of they, that almost every one who examines his works is irrepments with us idea of performing the very time. Two artily, it is then mentioned, have excelled in the etching department. We cannot, however, until the name of Parnentes ywho, to originality of style, which is apparently fontuences, joints or certain granden which between being stipulated. He has remained to perfectly in figured a representation of the Greek and Roman colonies and ruins, that travellers were often embedded that they have ruled their ideas beyond the magnitude of the superfluitudes themselves. It is utterly that to work of this insufenduous nature, a degree of regarded in the execution cererotions and the fullizory of the folghe's and that probation a fili greater power over the mining, than if they had been more polished. Some have suffered his fingers and was inclined could. \"I find each best seen in geniously painted by an excellent arti. All Bartolucci. B For[ tied by if thepurchades of the works of Pernnezzi, get to mind me for their money in the building way. I figures may be grouped o",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1803",
+  "provenance": {
+    "page_id": "bri-1803-0b6da50e5c8a",
+    "row_index": 1803,
+    "volume_id": "191320560",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 1, ELE-FAI - EB.9",
+    "label": 0,
+    "sha256": "0b6da50e5c8a63c331ace8127e04d5cdf23a5dfe27e0eb0d868fa2220e33f47e",
+    "width": 600,
+    "height": 782,
+    "image_file": "../images/bri-1803-0b6da50e5c8a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1803",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1338,
+    0.1531,
+    0.4932,
+    0.5813
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

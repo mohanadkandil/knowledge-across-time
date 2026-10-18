@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "The company has a court or board at London, which is compelled at a governem, deputy-governor, and fifteen directors or affiliates, who are all actually to live in London or the futurbs. They have also a deputy-governor in every day and part, where there are any members of the company. The entirely at London fends out the veffels, regulates the tariff for the price at which the European merchandise from to the Levant are to be fold, and for the quality of their returned. It rates taxes on merchandise, to defray impolitions, and the common expenses of the compa",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1621,
+    0.7734,
+    0.5479,
+    0.9203
+  ],
+  "offsets": [
+    0,
+    566
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

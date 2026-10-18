@@ -1,0 +1,36 @@
+{
+  "id": "bri-0995-217a04a6ceda:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-0995-217a04a6ceda",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+  "text": "In the above calculation for the expense of coal gas, no mention is made, of the color, tar, oils, and ammonia produced. The value of the coke depends much upon the nature of the coal employed; that obtained from such as the Newcastle coal mares well for house free, drying kins, screws, etc., but the Cannel coal, which is used for making gas to a great extent in many parts of the Kingdom, gives a very inferior choice, of frequently not more than 1-6th to 1-6th the value of the coal which produced it. The tar, when boiled and mixed with chopping oil and other substances, press a paint which may be used for common purposes; it may also be converted into pitch, and by burning it in clean vessels, species of lampashk is produced. On the whole, this and the other liquid products have, however, not been considered as of much cooking, and has getting rid of them and of the reflux line, which has been used in purifying the gas, is often attended with an expence which the own value, and that of the charcoal, will use more than compensate.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+  "provenance": {
+    "page_id": "bri-0995-217a04a6ceda",
+    "row_index": 995,
+    "volume_id": "193696082",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+    "label": 0,
+    "sha256": "217a04a6ceda3cc388e2fd1874ff3238e29721f1a34fb4286e24ecb5084ebd24",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-0995-217a04a6ceda.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.4512,
+    0.0437,
+    0.8438,
+    0.3242
+  ],
+  "offsets": [
+    0,
+    1045
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

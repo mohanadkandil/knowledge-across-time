@@ -1,0 +1,44 @@
+{
+  "id": "wiki-32345983-1347878826-07c2333699fe",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Lists of Hindu temples",
+  "text": "\nList of 51 Shakti Pitha\n\nList of Mansa Devi temples\n\nList of Shakti peeth in Bengal\n\nList of Indus Valley Civilization sites (Proto-haivism and Proto-Shaktism)\n\nVaishnavism\n\nDivya desam\n\nWorship of sacred objects:\n\nSacred rivers\n\nRigvedic rivers\n\nSapta Sindhu\n\nTriveni Sangam of Ganga, Yamuna, and Sarasvati rivers.\n\nNarmada\n\nSacred groves of India\n\nList of largest sacred Banyan trees in India\n\nTriveni, Panchvati and sacred plants and flowers in Hinduism\n\nSacred mountains of Hinduism\n\nMount Kailash\n\nSarasvatotri mountain\n\nGangotri mountain\n\nYamunotri mountain\n\nDhosi Hill (where Chyavanprash originated)\n\nNanda Devi\n\nOm Parvat\n\nSaraswati Parbat I\n\nSaraswati Parbat II\n\nSacred pre-historic megaliths of India\n\nSacred dolmens of India\n\nSacred menhirs of India",
+  "url": "https://en.wikipedia.org/wiki/Lists_of_Hindu_temples",
+  "revision_id": 1347878826,
+  "article_id": 32345983,
+  "section_path": "shared_text[0:3642]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3642
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "89bb7bee9a19e5e9cabd57d6bed9f2d1cc5522d3c306f919e8925ec783877cd4",
+    "source_row_idx": 5544,
+    "source_shard": "enwiki/data/enwiki_namespace_0_47.parquet",
+    "text_sha256": "ba9ad78fecec08b233d926358a11ae06217d277c7dab23bbcbc1f397ee28a747",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347878826",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "32345983",
+    "revision_id": "1347878826",
+    "retrieved_at": "2026-10-18T12:36:36.927444+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3642,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

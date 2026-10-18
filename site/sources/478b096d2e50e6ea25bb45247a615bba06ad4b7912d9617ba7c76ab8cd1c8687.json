@@ -1,0 +1,36 @@
+{
+  "id": "bri-1801-cb1efd626dfe:region-15:0",
+  "kind": "britannica",
+  "page_id": "bri-1801-cb1efd626dfe",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 1, A-ANG - EB.5",
+  "text": "Though this application of algebra appears to be\nindeted, yet fun as the simplicity of the operations,\nand the general nature of its theorems, that investiga\ntions, especially in the higher parts of geometry, are\ngenerally order and more expeditions by the alge-\nbracel method, though lef elegant than by what is\npurely commented. The comentations albo, and ana-\nlegies of the two fiences established by this application, have given rifle to many curious tpecutions.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1801",
+  "provenance": {
+    "page_id": "bri-1801-cb1efd626dfe",
+    "row_index": 1801,
+    "volume_id": "190273291",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 1, A-ANG - EB.5",
+    "label": 0,
+    "sha256": "cb1efd626dfe512b99ee297ecf32f9c54d220d34efffac9442dbf2ed561195ac",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1801-cb1efd626dfe.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1801",
+    "manual_seed": false
+  },
+  "region_id": "region-15",
+  "bbox_raw": [
+    0.1514,
+    0.575,
+    0.5264,
+    0.6937
+  ],
+  "offsets": [
+    0,
+    466
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

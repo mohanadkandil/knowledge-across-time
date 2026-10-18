@@ -1,0 +1,44 @@
+{
+  "id": "wiki-59166058-1291857282-a15fcf1b2086",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Margaret Flamsteed",
+  "text": "Margaret Flamsteed (née Cooke) (c. 1670-1730) is the first woman on record to be associated with astronomy in Britain. She was married to John Flamsteed, the Astronomical Observer (a post that later became known as Astronomer Royal). After John Flamsteed's death she oversaw publication of both of his most famous works: Historia Coelestis Britannica in 1725 and Atlas Coelestis in 1729. Without her, neither of these two important works would have been published.\n\nMargaret appeared as a character in a play by Kevin Hood called The Astronomer's Garden.\n\nDaughter of a London lawyer she was a well-educated woman, both literate and numerate.\n\nMargaret Flamsteed was 22 years old when she married the 46 year-old John Flamsteed; they were married 27 years.\n\nNotebooks in her handwriting and from soon after the marriage, show a competency in, and willingness to learn, mathematics and astronomy. In one entry from John Flamsteed's notes it states the observation was done “solus cum sponsa” (alone with wife). This, and other clues, suggest that while Margaret was not a regular assistant, she was clearly able and willing to assist her husband in his nighttime observations. She also spent daylight hours copying or writing letters for her husband, especially later when his hand became shaky.\n\nMargaret Flamsteed also acted as housekeeper for John, ensuring that his assistants, pupils, and visitors were cared for.\n\nAfter John Flamsteed’s death in 1719, Margaret oversaw the publication of both the Historia Coelestis Britannica in 1725 and the Atlas Coelestis in 1729. Margaret was assisted by Jo",
+  "url": "https://en.wikipedia.org/wiki/Margaret_Flamsteed",
+  "revision_id": 1291857282,
+  "article_id": 59166058,
+  "section_path": "shared_text[0:2025]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 122869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "59c7bc8238086e8b245e726cf10e66db3e005aa2de4c182cfb75897d0bf1534c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1291857282",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "59166058",
+    "revision_id": "1291857282",
+    "retrieved_at": "2026-10-18T12:38:40.933787+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2025,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

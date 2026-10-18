@@ -1,8 +1,8 @@
 {
   "status": "compiled",
-  "tex_sha256": "78f6dc3bbf344fe1154c861ae7771283c7f1cc6e9fa6895a5e708648bed29fd0",
+  "tex_sha256": "47b41bef4f480ad4b59841791863dab21cdb0c15d83440e15adbb5480be691a4",
   "compiler": "tectonic",
   "exit_code": 0,
-  "output": "note: Running TeX ...\nnote: Rerunning TeX because \"bri-2077-b2d54e4a68a4.aux\" changed ...\nnote: Running xdvipdfmx ...\nnote: Writing `data/site/documents/bri-2077-b2d54e4a68a4.log` (16.38671875 KiB)\nnote: Writing `data/site/documents/bri-2077-b2d54e4a68a4.pdf` (20.6982421875 KiB)\nnote: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)\nwarning: bri-2077-b2d54e4a68a4.tex:29: Underfull \\hbox (badness 10000) in paragraph at lines 28--29\nwarning: bri-2077-b2d54e4a68a4.tex:29: Underfull \\hbox (badness 10000) in paragraph at lines 28--29\nwarning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.\n",
-  "at": "2026-10-18T11:32:00.454733+00:00"
+  "output": "note: Running TeX ...\nnote: Rerunning TeX because \"bri-2077-b2d54e4a68a4.aux\" changed ...\nnote: Running xdvipdfmx ...\nnote: Writing `[home]/Desktop/hacks/knowledge-across-time/data/site/documents/bri-2077-b2d54e4a68a4.log` (16.3876953125 KiB)\nnote: Writing `[home]/Desktop/hacks/knowledge-across-time/data/site/documents/bri-2077-b2d54e4a68a4.pdf` (21.6123046875 KiB)\nnote: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)\nwarning: bri-2077-b2d54e4a68a4.tex:31: Underfull \\hbox (badness 10000) in paragraph at lines 30--31\nwarning: bri-2077-b2d54e4a68a4.tex:31: Underfull \\hbox (badness 10000) in paragraph at lines 30--31\nwarning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.\n",
+  "at": "2026-10-18T12:45:56.043250+00:00"
 }

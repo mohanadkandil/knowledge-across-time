@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "This peace was of no long duration. Four years after (A.D. 10;). Decebahus, unable to live in fer-virtude as he called it, began, contrary to the late treaty to male men, provide any entertain deterres, family his calles, and invite the neighbouring nations to join him again the Romans as a common enemy. The Seythuan bankersed to his ridiculous; but the Jayges, a neighbouring nation, writing to bear arms against Korea, Decebahis invaded their country. Here upon Trajan marthed against him; but the Dician, finding himself unable to withstand him by open forces, laid reconforts to teachers, and attempts to get the emperor murdered. His design, however, proved positive, and Trajin parted his insure the Ducia. That his troops might the more readily pfs and re-pals the Danube, he built a bridge over that river; see which by the ancient is flyled the most magnificent and relatively wonderful of all his works. To guard the bridges? \"130-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.4746,
+    0.6656,
+    0.9062,
+    0.8969
+  ],
+  "offsets": [
+    0,
+    943
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

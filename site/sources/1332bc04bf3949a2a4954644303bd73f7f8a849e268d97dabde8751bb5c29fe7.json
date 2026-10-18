@@ -1,0 +1,44 @@
+{
+  "id": "wiki-41288742-1316445173-6da521512704",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mucuna bracteata",
+  "text": "s on its own, individually, for direct consumption. The foliage of the plant creates a shade covering over the soil it occupies, having a height of approximately 30–50 cm off the ground. This plant is a creeping type which grows rapidly and controls weed population in planted areas. With a release of leave foliage, the plant provides good mulching and composting properties to the soil surrounding it.\n\nMucuna bracteata originates from North India in forest areas of the Tripura State, which is part of Bangladesh and southwest from China. India specifically utilizes this cover crop in Kerala, India, on local rubber plantations to sustain their rubber tree crop with its primary purpose to increase nitrogen levels in the soil, in turn improving soil health and fertility.\n\nThis is a cover crop that grows rapidly, and is a leguminous vine. M. bracteata grows in conditions of high humidity and high temperature of an average of 28 degrees Celsius, with a constant annual rainfall.\n\nMucuna bracteata is a durable seed, but it is susceptible to a few pests. It is susceptible to insects prior to germination. There are some caterpillar species that infiltrate M. bracteata seeds to feed on the cotyledon within the seed. These problems can be avoided by storing the seeds in areas closed off from any insect access and keeping them away from any moisture. The plant however, has a high level of phenolic acids allowing M. bracteata to combat most insects and cattle disturbances.",
+  "url": "https://en.wikipedia.org/wiki/Mucuna_bracteata",
+  "revision_id": 1316445173,
+  "article_id": 41288742,
+  "section_path": "shared_text[0:2922]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2922
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 78999,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "3b2653d6999691b7ea8884883a09de073ee65f0a3feed4b4d13fde717811f57b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1316445173",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "41288742",
+    "revision_id": "1316445173",
+    "retrieved_at": "2026-10-18T12:38:46.421729+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2922,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

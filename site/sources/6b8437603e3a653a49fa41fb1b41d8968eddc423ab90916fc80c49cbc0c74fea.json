@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38348383-1341673293-04d037dc5fc1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arrow (disambiguation)",
+  "text": " Hillman Hunter\n\nMitsubishi Lancer (A70), a car also marketed as the Dodge Arrow\n\nPlymouth Arrow, a Chrysler import (1976–1980)\n\nProject Arrow, a Canadian electric vehicle project\n\nApollo Arrow, a German sports car concept\n\nAriel Arrow, a British motorcycle first produced in 1959\n\nAmtrak Arrow Reservation System, used by Amtrak employees for passenger reservations\n\nArrow (rail service), a commuter rail service in San Bernardino County, California, United States\n\nArrow (Milwaukee Road train), an American Midwestern route that ran until the mid-1960s\n\nPowhatan Arrow or Arrow for short, a named flagship passenger train of the Norfolk and Western Railway\n\nArrow (railcar), a railroad car of the Pennsylvania Railroad\n\nIE 2600 Class, also known as Arrow, a railcar of Irish Rail\n\nIE 2700 Class, also known as Arrows, a railroad car of Iarnród Éireann\n\nArrow (barque), built in 1902 for the Anglo-American Oil Co Ltd.\n\nArrow-class oil tanker, consisting of 12 steam-powered oil tankers constructed for the Standard Oil Company of New York between 1916 and 1921\n\nMS Arrow, a Seatruck Ferries ship\n\nSS Arrow, an oil built in 1948, originally named Olympic Games\n\nArrow, a New Zealand Company sailing ship, the first to enter Nelson Harbour, New Zealand\n\nArrow, a Chinese-owned lorcha, namesake of the Arrow War, better known as the Second Opium War\n\n\"Arrow\" or Strela (rocket), a Russian orbital launch rocket\n\nArrow Unit, a plainclothes unit of the Palestinian Civil Police Force\n\nArrows Grand Prix International, a former Formula One racing team\n\nArrow declaration, in UK patent litigation\n\nARROW w",
+  "url": "https://en.wikipedia.org/wiki/Arrow_(disambiguation)",
+  "revision_id": 1341673293,
+  "article_id": 38348383,
+  "section_path": "shared_text[0:7415]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 80390,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "1f0f4fc21fc8ba95fab0aaad4297d9adbd4dcf12b905e0c95c488b0e03c6a76b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341673293",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38348383",
+    "revision_id": "1341673293",
+    "retrieved_at": "2026-10-18T12:41:27.177853+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7415,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

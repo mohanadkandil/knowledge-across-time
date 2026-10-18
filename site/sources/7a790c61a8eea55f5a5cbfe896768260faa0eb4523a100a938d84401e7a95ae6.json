@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2949602-1326382532-28b42607fb24",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scalene muscles",
+  "text": "ented vertically as it passes in front of the anterior scalene, while the subclavian vein is oriented horizontally as it passes in front of the anterior scalene muscle.\n\nThe passing of the brachial plexus and the subclavian artery through the space of the anterior and middle scalene muscles constitute the scalene hiatus (the term \"scalene fissure\" is also used). The region in which this lies is referred to as the scaleotracheal fossa. It is bounded by the clavicle inferior anteriorly, the trachea medially, posteriorly by the trapezius, and anteriorly by the platysma muscle.\n\nThe anterior and middle scalene muscles can be involved in certain forms of thoracic outlet syndrome as well as myofascial pain syndrome, the symptoms of which may mimic a spinal disc herniation of the cervical vertebrae.\n\nSince the nerves of the brachial plexus pass through the space between the anterior and middle scalene muscles, that area is sometimes targeted with the administration of regional anesthesia by an anesthesia provider. The nerve block, called an interscalene block, may be performed prior to arm or shoulder surgery.\n\nAccording to the medical codes in the 2016 Procedural Coding Expert, published by the American Academy of Professional Coders, for Current Procedural Terminology (CPT) and other medical codes, the scalenus anticus muscle can be divided by reparative or reconstructive surgery, with (# 21705) or without (# 21700) resection of the cervical rib.\n\nThe scalenes used to be known as the lateral vertebral muscles.\n\nThe muscles are named from Greek σκαληνός (skalēnós), meaning 'uneve",
+  "url": "https://en.wikipedia.org/wiki/Scalene_muscles",
+  "revision_id": 1326382532,
+  "article_id": 2949602,
+  "section_path": "shared_text[0:4524]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 103362,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "13e46e3af7854148021339f8093500d85b222bdb6d1b768b9cd77e7a480720a7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326382532",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2949602",
+    "revision_id": "1326382532",
+    "retrieved_at": "2026-10-18T12:29:53.575311+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4524,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

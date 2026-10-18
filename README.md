@@ -28,13 +28,13 @@ Read [the architecture](docs/architecture.md) for the CPU/GPU layers and [the ac
 - Prefer the organizer's pre-indexed Wikipedia API: lexical candidates and paginated text with returned revision/checksum provenance, followed by our semantic retrieval and reranking. The earlier Kaggle version 5 local reader is a separate fallback, not an identical snapshot or a required initial index build.
 - Comparisons retain model calls, source IDs, quotes, uncertainty and literal-quote checks. Literal presence is not proof that a passage supports the generated claim.
 - Questions run through [real Hermes](docs/hermes.md) with exactly three local source tools. Transcript/tool traces and model configuration are retained.
-- Required evaluation cases are three successful and three failing **completed live Hermes question runs**, reviewed by a human. Configuration/service failures and readiness probes do not count.
+- Document three useful comparisons and three clear failure cases from **completed live Hermes question runs**, with source inspection. The [actual casebook](docs/actual-cases.md) labels automated inspection and qualified outcomes; the UI separately records human reviews. Configuration/service failures and readiness probes do not count.
 
 Use `uv run kat status` for actual local progress. `doctor` distinguishes configuration from execution; `doctor --live` tests catalog access and Hermes importability. Explicit `doctor --live --inference` exercises the configured adapters after organizer request schemas are known. No published performance/quality result is implied by installing this repository.
 
 ## Current limits and deliverables
 
-The [setup guide](docs/setup.md) now records actual shared Parse 3.5/Wikipedia URLs, exact model IDs and the starter's custom Docker recipe serving both retrieval models. Full execution still needs a running Nebius GPU deployment and the team's own Token Factory key. Supplied URLs are not live inference proof. Human review is necessary for OCR, semantic support and historical interpretation. The [Wikipedia notes](docs/wikipedia.md) explain the shared service and optional fallback.
+The [setup guide](docs/setup.md) now records actual shared Parse 3.5/Wikipedia URLs, exact model IDs and the starter's custom Docker recipe serving both retrieval models. A fresh installation needs a Nebius GPU deployment and its own Token Factory key. The team workspace has passed live checks for the required services; [saved execution receipts](evidence/live-services/all-services-live.json) and [GPU outputs](evidence/live-services/retrieval-gpu-smoke.json) document what ran. Supplied URLs alone are not live inference proof. Human review is necessary for OCR, semantic support and historical interpretation. The [Wikipedia notes](docs/wikipedia.md) explain the shared service and optional fallback.
 
 `kat batch --stage compare` retains failures. `kat review` records human judgments. `kat archive` builds the static scan/region/LaTeX archive. `kat export` packages generated site artifacts, observed checklist status and selected reproducibility evidence, excluding keys and bulk corpus files. Export does not establish that 100 comparisons, compilations or 3+3 valid cases are complete.
 
@@ -42,7 +42,7 @@ The new brief's **3-minute video** supersedes provisional earlier durations. Sho
 
 ## Try the saved archive
 
-The initial saved run processes all 100 selected scans. Parse 3.5 extracts 99; geometry plate row 1261 repeats figure labels and ends at its token limit. Its failed attempt stays visible. The static snapshot includes the original 100 scans and compiled LaTeX for successful extractions. It has no completed matching/comparison or Hermes evaluation cases yet. Those require the GPU retrieval service and Token Factory key.
+The saved selection contains 100 scans. Parse 3.5 completed 99 outputs: 92 contain readable text and seven contain layout/picture regions only. Geometry plate row 1261 repeats figure labels and ends at its token limit; two bounded crop trials did not rescue it. Its failed attempt stays visible. The static snapshot includes all original scans and compiled LaTeX for the 99 completed outputs, including clearly labeled layout-only documents. Generated comparisons, original/revision links and visible quote-check failures accompany the processed pages. Ten real Hermes diagnostic runs and their limitations are recorded in the [casebook](docs/actual-cases.md). These are targeted examples, not a representative accuracy benchmark.
 
 ```sh
 python3 -m http.server 8131 --directory site

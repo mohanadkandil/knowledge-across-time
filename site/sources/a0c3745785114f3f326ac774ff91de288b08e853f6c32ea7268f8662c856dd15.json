@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-39fdd5b8d93e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "oved to be controversial, for it divided the country into factions who were convinced or otherwise of Mme. Lafarge's guilt; nevertheless, the impact of the Marsh test was great. The French press covered the trial and gave the test the publicity it needed to give the field of forensic toxicology the legitimacy it deserved, although in some ways it trivialized it: actual Marsh test assays were conducted in salons, public lectures and even in some plays that recreated the Lafarge case.\n\nThe existence of the Marsh test also served a deterrent effect: deliberate arsenic poisonings became rarer because the fear of discovery became more prevalent.\n\nMarsh test is used in Bill Bergson Lives Dangerously to prove that a certain chocolate is poisoned with arsenic.\n\nLord Peter Wimsey ’s manservant Bunter uses Marsh’s test in Strong Poison to demonstrate that the culprit was secretly in possession of arsenic.\n\nIn Alan Bradley 's As Chimney Sweepers Come To Dust, 12-year old sleuth and chemistry genius Flavia de Luce uses the Marsh test to determine that arsenic was the murderer's weapon.\n\nIn the first episode of the 2017 BBC television series Taboo a mirror test, referencing the Marsh test, is used to verify the protagonist's father was killed via arsenic poisoning. As the setting of the series is between 1814-1820, however, the test's appearance is anachronistic.\n\nIn the episode \"The King Came Calling\" of the first season of Ripper Street, police surgeon Homer Jackson (Matthew Rothenberg) performs Marsh's test on the contents of a poisoning victim and determines that the fatal poison wa",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

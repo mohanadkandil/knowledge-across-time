@@ -1,9 +1,10 @@
 """Archive behavior checks without downloading or executing a LaTeX compiler."""
 from pathlib import Path
 from types import SimpleNamespace
+from html.parser import HTMLParser
 
-from kat.archive import build_archive, latex_document, tex_escape
-from kat.util import write_json
+from kat.archive import build_archive, comparison_html, latex_document, tex_escape
+from kat.util import digest, load_json, write_json
 
 
 def sample_page(tmp_path, row=57):
@@ -54,3 +55,65 @@ def test_archive_keeps_missing_parses_and_failed_compilation_visible(tmp_path, m
     assert "Not yet extracted" in pending_html
     assert not (tmp_path / "site/documents" / (pending_page["page_id"] + ".tex")).exists()
     assert not list((tmp_path / "site/documents").glob("*.pdf"))
+
+
+def test_comparison_escapes_claims_and_quotes_and_links_only_web_sources():
+    class Links(HTMLParser):
+        def __init__(self):
+            super().__init__(); self.hrefs = []
+        def handle_starttag(self, tag, attrs):
+            if tag == "a": self.hrefs.append(dict(attrs).get("href"))
+
+    malicious = '<script>alert("source")</script>'
+    source_id = 'wiki-"<unsafe>'
+    sources = {
+        source_id: {"title": malicious, "url": "https://example.org/article?a=1&b=2", "provenance": {"revision_url": "https://example.org/oldid/123"}},
+        "unsafe-url": {"title": "Bad URL", "url": "javascript:alert(1)"},
+    }
+    result = {"comparison": {
+        "summary": malicious,
+        "matches": [{"source_id": source_id, "relevance": malicious, "explanation": malicious},
+                    {"source_id": "unsafe-url", "relevance": "weak", "explanation": "Inspect URL"}],
+        "similarities": [{"claim": malicious, "evidence": [{"source_id": source_id, "quote": malicious}]}],
+        "differences": [{"kind": malicious, "historical_claim": malicious, "modern_claim": malicious, "explanation": malicious,
+                         "evidence": [{"source_id": "missing", "quote": "unregistered quotation"}]}],
+        "uncertainties": [malicious]},
+        "citation_checks": [{"source_id": source_id, "quote": malicious, "source_exists": True, "literal_quote_found": False}]}
+    rendered = comparison_html(result, sources.__getitem__)
+    links = Links(); links.feed(rendered)
+    assert "<script>" not in rendered and "&lt;script&gt;" in rendered
+    assert '<blockquote><pre>&lt;script&gt;' in rendered
+    assert "https://example.org/article?a=1&b=2" in links.hrefs
+    assert "https://example.org/oldid/123" in links.hrefs
+    assert "../sources/" + digest(source_id) + ".json" in links.hrefs
+    assert all(not href.startswith("javascript:") for href in links.hrefs)
+    assert "FAILED literal quote check" in rendered
+    assert "Source unavailable" in rendered and "Literal quote not checked" in rendered
+    assert "semantic support" in rendered and "OCR errors" in rendered
+    assert "Raw comparison JSON and audit checks</summary>" in rendered
+    assert "Historical source claim" in rendered and "Modern source claim" in rendered
+
+
+def test_archive_preserves_source_provenance_and_abstention(tmp_path, monkeypatch):
+    page = sample_page(tmp_path)
+    write_json(tmp_path / "britannica/manifest.json", {"pages": [page]})
+    folder = tmp_path / "pages" / page["page_id"]
+    write_json(folder / "parse.json", sample_parse())
+    source = {"id": "wiki-fixture", "kind":"wikipedia", "title": "Modern article", "url": "https://en.wikipedia.org/wiki/Fixture",
+              "revision_id":42,"provenance": {"revision_id": 42}}
+    write_json(folder / "comparison.json", {"comparison": {"summary": "A readable summary", "matches": [{"source_id": source["id"], "relevance": "partial", "explanation": "Only one topic overlaps."}]},
+                                           "source_ids": [source["id"]], "citation_checks": []})
+    engine = SimpleNamespace(root=tmp_path, settings=SimpleNamespace(latex_engine="missing-compiler"),
+                             store=SimpleNamespace(source=lambda _: source.copy(), cases=lambda: {"cases": []}))
+    monkeypatch.setattr("kat.archive.shutil.which", lambda _: None)
+    build_archive(engine)
+    exported = load_json(tmp_path / "site/sources" / (digest(source["id"]) + ".json"))
+    assert exported["provenance"] == source["provenance"]
+    rendered = (tmp_path / "site/pages" / (page["page_id"] + ".html")).read_text()
+    assert "A readable summary" in rendered and "Only one topic overlaps." in rendered
+    assert 'https://en.wikipedia.org/w/index.php?oldid=42' in rendered
+    abstained = comparison_html({"abstained": True, "comparison": {"summary": "No readable historical text.", "uncertainties": ["Layout only."]},
+                                "citation_checks": [], "literal_quotes_all_found": False}, engine.store.source)
+    assert "Comparison abstained" in abstained and "No readable historical text." in abstained
+    assert "No literal quote checks recorded" in abstained
+    assert "FAILED literal quote" not in abstained and "Counterparts and relevance" not in abstained

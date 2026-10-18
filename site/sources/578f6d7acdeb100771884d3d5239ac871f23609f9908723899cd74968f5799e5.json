@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-8e981c8fe77f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": " weighs it separately, for example by weighing a desiccant before and after it has absorbed the water. The temperature, pressure and volume of the resulting dry gas are also measured, providing enough information to calculate the amount of water per mole of gas.\n\nThis is considered the most accurate primary method of measuring absolute humidity, and national standards based on it have been developed in US, UK, EU and Japan. However, the inconvenience of using such devices means they are usually only used to calibrate less accurate instruments, called Transfer Standards.\n\nAn optical hygrometer measures the absorption of light by water in the air. A light emitter and a light detector are arranged with a volume of air between them. The attenuation of the light, as seen by the detector, indicates the humidity, according to the Beer–Lambert law. Types include the Lyman-alpha hygrometer (using Lyman-alpha light emitted by hydrogen), the krypton hygrometer (using 123.58 nm light emitted by krypton), and the differential absorption hygrometer (using light emitted by two lasers operating at different wavelengths, one absorbed by humidity and the other not).\n\nAside from greenhouses and industrial spaces, hygrometers are also used in some incubators, saunas, humidors and museums. They are also used in the care of wooden musical instruments such as pianos, guitars, violins, and harps which can be damaged by improper humidity conditions. Hygrometers play a big part in firefighting as the lower the relative humidity, the more vigorously fuels may burn. In residential settings, hygrometer",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

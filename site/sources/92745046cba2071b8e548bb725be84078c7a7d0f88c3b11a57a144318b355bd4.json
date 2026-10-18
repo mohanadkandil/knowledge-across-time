@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5763642-1344046848-51c3833dd686",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Barkcloth",
+  "text": "Barkcloth or bark cloth is a versatile material that was once common in Asia, Africa, and the Pacific. Barkcloth comes primarily from trees of the family Moraceae, including Broussonetia papyrifera, Artocarpus altilis, Artocarpus tamaran, and Ficus natalensis. It is made by beating sodden strips of the fibrous inner bark of these trees into sheets, which are then finished into a variety of items. Many texts that mention \"paper clothing\" are actually referring to barkcloth.\n\nSome modern cotton-based fabrics are also named \"barkcloth\" for their resemblance to these traditional fabrics.\n\nWhile woven, traditional Ainu bark cloth is produced similarly before spinning to other barkcloths. It is produced largely from fibers of the lobed elm.\n\nBefore the development of woven textiles, barkcloth made from trees belonging to the mulberry family (Moraceae) were an important aspect of the pre-Austronesian and Austronesian material culture during the Neolithic period. Stone barkcloth beaters, in particular, are considered part of the \"Austronesian toolkit.\" They have been found in abundance in the Pearl River basin in Southern China, which is considered to be part of the homelands of the Austronesian peoples before they started migrating into islands during the Austronesian expansion (c.3000 to 1500 BC). The oldest example, found in the Dingmo Site in Guangxi, has been dated back to ~5900 BC. They were spread along with Austronesian voyagers into Island Southeast Asia, Oceania (with the notable exception of Micronesia), and Madagascar. Genetic studies on the paper mulberry populations i",
+  "url": "https://en.wikipedia.org/wiki/Barkcloth",
+  "revision_id": 1344046848,
+  "article_id": 5763642,
+  "section_path": "shared_text[0:4834]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 49076,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "e51d7bd8b25334507899f6019a7baabba03db3bb26a6b11b39b9fbae46bcea22",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344046848",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5763642",
+    "revision_id": "1344046848",
+    "retrieved_at": "2026-10-18T12:22:47.994042+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4834,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

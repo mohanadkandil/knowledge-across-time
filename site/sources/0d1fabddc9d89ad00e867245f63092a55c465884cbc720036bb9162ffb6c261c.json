@@ -1,0 +1,36 @@
+{
+  "id": "bri-0386-e88a0bad3b83:region-2:1440",
+  "kind": "britannica",
+  "page_id": "bri-0386-e88a0bad3b83",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+  "text": "ut in consequence of the deflection, his only CW there– face the takes EC for the measure of the deflection, and of the deflecting force. Now DO is ultimately one DC, and thus the measure of the algebraic (derived daily from the nature of the differential method, and without any regard to physical conditions) happens to coin- cide with the ten payable markers. There is therefore",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+  "provenance": {
+    "page_id": "bri-0386-e88a0bad3b83",
+    "row_index": 386,
+    "volume_id": "191689062",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+    "label": 0,
+    "sha256": "e88a0bad3b83cbcd801cb8e1dd3b2b724b96138db2a5ed2929d39f59203f6f7d",
+    "width": 600,
+    "height": 797,
+    "image_file": "../images/bri-0386-e88a0bad3b83.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1289,
+    0.0617,
+    0.5107,
+    0.5062
+  ],
+  "offsets": [
+    1440,
+    1821
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

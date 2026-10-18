@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60099468-1311232593-8b7b1e40bb84",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatic plant management",
+  "text": "d the plants to dispose back into the lake. This method is best for bodies of water with chronic invasive plant problems in which plant disposal must be considered. Grinding plants minimizes the need for any extra boats or disposal methods to manage the cut plants. However, this method contains the same downfalls of mechanical cutting. It is a nonselective, short term solution that can resuspend sediment. Although different from standard cutting, the grinding of the plants still leaves large masses of plant material in the water creating negative effects in the remaining environment.\n\nThe Rotovating method uses rotating blades to uproot plants from the sediment. Rotovating is more likely to remove the entire plant, including the roots, with an intermediate-term effect on regrowth. This method is effective but requires expensive equipment and has negative effects on the environment. Rotovating is nonselective, and it may spread plants via fragmentation and suspend excess amounts of sediment. Rotovating is an efficient process but requires a separate disposal method.\n\nHydro-raking works similarly to rotovating. A backhoe is used to target the roots and rip the plant out of the sediment, followed by a rake to remove the vegetation. This method works best for thick, difficult plants to remove, and is effective for long-term removal since roots are removed. Hydro-rakings holds the same challenges as rotovating, with the potential to indirectly spread species, damage more plants than necessary, and create turbidity by suspending sediment.\n\nPulling by hand or suction harvesting ar",
+  "url": "https://en.wikipedia.org/wiki/Aquatic_plant_management",
+  "revision_id": 1311232593,
+  "article_id": 60099468,
+  "section_path": "shared_text[0:6640]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 68616,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "6e4968a55a9cc453836841bb2227cfd494a23138a69e77f5e49fc20cbb861c3f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1311232593",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60099468",
+    "revision_id": "1311232593",
+    "retrieved_at": "2026-10-18T12:42:22.750260+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6640,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

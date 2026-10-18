@@ -1,0 +1,44 @@
+{
+  "id": "wiki-64358239-1352154759-8cf39ae63097",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Andrew Melville of Garvock",
+  "text": "sbury mentioning an earthquake felt at Garvock. In that year he hosted Louis Frederick, Duke of Württemberg-Montbéliard during his visit to Scotland.\n\nHe died on 13 April 1617.\n\nIt has been suggested that Andrew Melville preserved a manuscript of the Scottish version of the history of Mary's times composed by John Lesley, Bishop of Ross.\n\nHis first wife was Jane Kennedy, who drowned in the Forth ferry accident in 1589.He married secondly Elizabeth Hamilton. James VI gave a ring to his wife at the christening of their eldest child in 1594.\n\nHis children with Elizabeth Hamilton included:\n\nJanet Melville (born 1600)\n\nAndrew Melville (born 1603)\n\nJohn Melville (born 1604).\n\nAnna Melville, who married Sir James Murray of Tippermuir in January 1624. He is known as the compiler of a miscellany of verse.\n\nGeorge Melville, who married the widow of the king's servant David Drummond.\n\nElizabeth Melville\n\nHelen Melvelle",
+  "url": "https://en.wikipedia.org/wiki/Andrew_Melville_of_Garvock",
+  "revision_id": 1352154759,
+  "article_id": 64358239,
+  "section_path": "shared_text[0:8121]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8121
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d0540913175bf0bf226ae4161368d8569964a19a5302fff11da3e05c21e361c8",
+    "source_row_idx": 37790,
+    "source_shard": "enwiki/data/enwiki_namespace_0_63.parquet",
+    "text_sha256": "f605274244e16e79fd74fa5a9d1ff6513643a6e79d20784de846a47c9cefae94",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352154759",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "64358239",
+    "revision_id": "1352154759",
+    "retrieved_at": "2026-10-18T12:38:23.014911+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8121,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

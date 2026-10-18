@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-d036b4e09823",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "avis in 1780, though he failed to sell his secret in his lifetime. It was bought posthumously by the Académie royale de peinture et de sculpture in 1782, who released it on an open basis.\n\nThough England was to become one of the countries using the technique most, the earliest English aquatints were not exhibited until 1772, by the cartographer Peter Perez Burdett. It was taken up by the watercolourist Paul Sandby, who also seems to have introduced technical refinements as well as inventing the name \"aquatint\". In England artists such as Sandby and Thomas Gainsborough were attracted by the suitability of etched outlines with aquatint for reproducing the popular English landscape watercolours, which at this period usually also had been given an initial outline drawing in ink. Publishers of prints and illustrations for expensive books, both important British markets at the time, also adopted the technique. In all these areas, a print with etching and aquatint gave very satisfactory results when watercolour was added by relatively low-skilled painters copying a model, with a flat wash of colour on top of the varied tones of the aquatint. After the French Revolution, one of the most successful publishers in London, the German Rudolf Ackermann, had numbers of French refugees working on the floor above his shop in The Strand in London, each brushing a single colour and then passing the sheet down a long table.\n\nOver the same period in France there was sustained interest in techniques for true colour printing using multiple plates, which used multiple printmaking techniques which ",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

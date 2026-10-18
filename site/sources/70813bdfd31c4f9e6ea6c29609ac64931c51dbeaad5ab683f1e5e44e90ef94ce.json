@@ -1,0 +1,36 @@
+{
+  "id": "bri-0494-1a757f9cb1e5:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0494-1a757f9cb1e5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "text": "27. Heirs of provision are those who succeed to any idea of subject, written of a provision in the creatives, or provision. order deed of settlement. This application is given post commonly to heirs of a marriage. These are more favourously regarded them heirs by simple distribution, who have only the hope of successors, for hours of a marriage, because their provisions are concluded by an obvious contraté, causes the disappointment than by our stratifying deal of the father. Nevertheless, as their right is only a right of succession, which is not designed to contain the father from granting overseas national bank, he continues to have due to full power of selling the subject, or charging it with debts, unless a proper right of credit to give on the heir by the marriage contract, to, g. if the father should oblige him-self to infelt the heir in the lands, or make payment of the sum provided against a day certain, or when the child attains a certain age, fóc; iše such thing, when perfected by infelment, or secured by diligences, are affected against all the posterior deeds of the father, even uncover.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+  "provenance": {
+    "page_id": "bri-0494-1a757f9cb1e5",
+    "row_index": 494,
+    "volume_id": "192984257",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+    "label": 0,
+    "sha256": "1a757f9cb1e56f46b1937b849db98e86309900575fbe0a9f92cfcd391ec7f8bc",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0494-1a757f9cb1e5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.5146,
+    0.4898,
+    0.9502,
+    0.7711
+  ],
+  "offsets": [
+    0,
+    1117
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

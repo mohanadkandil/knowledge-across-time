@@ -1,0 +1,44 @@
+{
+  "id": "wiki-48794256-1274765712-b49639b79518",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Listed buildings in Cumbria",
+  "text": "ger\n\nListed buildings in Tebay\n\nListed buildings in Temple Sowerby\n\nListed buildings in Threlkeld\n\nListed buildings in Thrimby\n\nListed buildings in Torver\n\nListed buildings in Ulverston\n\nListed buildings in Underbarrow and Bradleyfield\n\nListed buildings in Urswick\n\nListed buildings in Waitby\n\nListed buildings in Warcop\n\nListed buildings in Wharton, Cumbria\n\nListed buildings in Whinfell\n\nListed buildings in Whitwell and Selside\n\nListed buildings in Windermere, Cumbria (town)\n\nListed buildings in Winton, Cumbria\n\nListed buildings in Witherslack\n\nListed buildings in Yanwath and Eamont Bridge\n\nGrade I listed churches in Cumbria",
+  "url": "https://en.wikipedia.org/wiki/Listed_buildings_in_Cumbria",
+  "revision_id": 1274765712,
+  "article_id": 48794256,
+  "section_path": "shared_text[0:10711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    10711
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 178466,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "688c68ec78241601afc7e718f236a148f0d1aeab520ccbde9884f64aa1f1b4d1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1274765712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "48794256",
+    "revision_id": "1274765712",
+    "retrieved_at": "2026-10-18T12:39:50.044317+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

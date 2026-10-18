@@ -1,0 +1,44 @@
+{
+  "id": "wiki-26915344-1344922007-e34bda17f262",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ata (name)",
+  "text": " (died after 1533), Ottoman poet\n\nMustafa Kemal Atatürk (1881–1938), Turkish military leader and statesman, founder of Turkiye. Atatürk was an honorary name.\n\nAyla Akat Ata (born 1976), Turkish politician of Kurdish descent\n\nWasil ibn Ata (700–748), Islamic scholar\n\nRahil Ata (1826–1894), Lebanese teacher and translator\n\nMahmoud Mahmoud Atta (born 1954), American-Arab militant\n\nShahla Ata (1959–2015), Afghan politician and congresswoman\n\nMohamed Atta (1968–2001), Egyptian terrorist, ringleader of the September 11 attacks, hijacker-pilot of American Airlines Flight 11\n\nWalid Atta (born 1986), Swedish footballer\n\nAta is the commonly-abbreviated name for the Atacama skeleton, the six-inch long remains of a human with major genetic abnormalities that was discovered in 2003",
+  "url": "https://en.wikipedia.org/wiki/Ata_(name)",
+  "revision_id": 1344922007,
+  "article_id": 26915344,
+  "section_path": "shared_text[0:5099]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5099
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 246,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "b5ffe5763b8b2f8e4a25f4df692e4d281d24cf0dcc666facc52f6e941416ae6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344922007",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "26915344",
+    "revision_id": "1344922007",
+    "retrieved_at": "2026-10-18T12:24:23.017352+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5099,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

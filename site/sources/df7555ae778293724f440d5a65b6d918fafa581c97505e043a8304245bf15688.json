@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "Chillam V King of Damals, recalled former to his native country in the year 1683, when he was appointed professor of almonomy at Copenhagen; and he was alle employed in the information of the cloth and architecture of the country in regulating the weights and measures, and in laying out the high roads through out the kingdom in the discharge of whole host could be truly cerdilable to bindlings of gave the growth fatification to his royal employer. The consequence was that the king believed many digitisation upon him, and among others exploited him thereafter of the ex- chequer. In fine, he was made counsellor of flate and burgonarise at Copelandy, under Federie IV, who forced Chillam already mentioned.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.5273,
+    0.5648,
+    0.918,
+    0.7539
+  ],
+  "offsets": [
+    0,
+    711
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

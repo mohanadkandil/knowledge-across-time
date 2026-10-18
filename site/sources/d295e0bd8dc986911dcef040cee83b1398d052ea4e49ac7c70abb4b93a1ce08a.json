@@ -1,0 +1,36 @@
+{
+  "id": "bri-2566-97b13565fdc3:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-2566-97b13565fdc3",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+  "text": "The number of inhabitants since the peace in 1814, has been computed at 93/12, who am recently Lutherans and Roman Catholic. By the late direction of France this province forms two departments, viz. those of the Upper and Lower Rhine, the capital of the former being Culary, that of the last Strasburg, but formerly it was divided into Upper and Lower Alsace, the former contained 23 leapal small towns, and the lat- en 39, and in both three are upwards of 1000 meters toward villages. The Rauraci, Sequani and Melio-matrice, were the ancient inhabitants of this province. Under the Morningning Kingst in name first occurred the history of France, and it most probably is derived from the river Bill or III, the individuals on the borders of which were called Eltason, from whom the country itself was afterwards demanded Elesa, in Latin Life, Latina, Malatia, and Austria. The Roman wrestler it from the Celtic; from them is passed into the lands of the Germans; and after the famous Battle of Tolbir, passed by Givré in 600, i passed into the possession of the Panka. It was incorporated at a future period with the kingdom of Asterasia; and, ab 179, là, was subject- ed, like the rest of the monarchy, to the laws of Pepa and his successes. Lotharism, the oldest and Lewis Anthoman as the descend of his father in 820, obtained it, and united it to that part of the empire of the Panka which fell to him, and was generally known by the mano of Ledenburg, or Lorraine. Afterments it fell to his youngest son Lotharius by inheritance, and after the in 500, it became a province of Germany, and was g",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+  "provenance": {
+    "page_id": "bri-2566-97b13565fdc3",
+    "row_index": 2566,
+    "volume_id": "192547781",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+    "label": 0,
+    "sha256": "97b13565fdc3129f0c09f0566406d4f70d1b65ae004d1ad31989c042d748b21d",
+    "width": 600,
+    "height": 756,
+    "image_file": "../images/bri-2566-97b13565fdc3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.498,
+    0.4297,
+    0.8662,
+    0.8438
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

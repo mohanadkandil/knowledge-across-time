@@ -1,0 +1,38 @@
+{
+  "started_at": "2026-10-18T12:32:49.963930+00:00",
+  "status": "actual_runs_pending_source_review",
+  "reviewer": null,
+  "results": [
+    {
+      "case_id": "chlamys-sense",
+      "question": "Compare the historical CHIAMYS entry with the retrieved Chlamys (bivalve) article. Are they about the same subject, and what connection does the modern article explicitly state? Answer in at most three sentences, paraphrasing rather than quoting damaged OCR. Cite both source IDs. Do not infer why the genus was named that way.",
+      "page_id": "57",
+      "run_id": "question-59a6e97878184e419dae4d4e72636c5b",
+      "status": "complete",
+      "seconds": 34.31,
+      "answer": "No — they are not about the same subject. The historical Britannica entry for CHIAMYS is a (heavily damaged OCR) description of the chlamys, an ancient Greek military cloak, while the modern Wikipedia article describes Chlamys as a genus of small scallops, marine bivalve molluscs. [bri-0057-7d7650d5d60f:region-5:0] [wiki-18214394-1328170237-677aaa3437e0] The modern article explicitly states that the genus name is taken from the Ancient Greek χλαμύς, the cloak worn by soldiers, linking the scallop genus to the garment the historical page describes. [wiki-18214394-1328170237-677aaa3437e0]",
+      "error": null
+    },
+    {
+      "case_id": "cloud-terminology",
+      "question": "Compare the historical CLOUD definition with the available modern cloud definition. In at most three sentences, paraphrase what each says a cloud is and state whether the old entry settles the direction of causation between electrification and cloud formation. Cite both sources; avoid named attributions and unverified quotation repair.",
+      "page_id": "59",
+      "run_id": "question-028ac4f0b57c47a1aa417dcceaee9729",
+      "status": "complete",
+      "seconds": 23.55,
+      "answer": "The historical Britannica entry defines a cloud as \"a collection of vapours suspended in the atmosphere\" and holds that clouds form when previously invisible aqueous vapours become visible [bri-0059-891965a7ca3e]. Wikipedia defines a cloud as \"a visible mass of condensed droplets or frozen crystals suspended in the atmosphere\" [wiki-593754-1320064819-5941026ced18]. The old entry does not settle the direction of causation between electrification and cloud formation: it explicitly asks \"whether the clouds are produced ... by means of electricity or not,\" while only asserting that clouds certainly contain the electric fluid [bri-0059-891965a7ca3e].",
+      "error": null
+    },
+    {
+      "case_id": "fluid-theory-status",
+      "question": "Compare the electric-fluid vocabulary on this historical page with the retrieved modern article about fluid theories of electricity. In at most three sentences, explain the shared topic and any supported change in the status of that explanatory model. Paraphrase rather than repairing or quoting OCR; cite both sources and do not infer that the reported observation itself is false.",
+      "page_id": "1776",
+      "run_id": "question-1a622a3bd02d4f14bf4e731b437f0c9a",
+      "status": "complete",
+      "seconds": 20.21,
+      "answer": "Both sources center on an electrical-fluid explanatory model: the historical Britannica page treats electricity as a single excess/deficient \"fluid\" distributed through conductors, while Wikipedia describes both the one-fluid and two-fluid fluid theories of electricity. Wikipedia reports that these fluid theories are outdated, having been superseded by more modern theories (attraction between current-carrying wires describing magnetic effects, and electrons upon their discovery). The historical page's observation about fluid concentrating near sharp points and projections is not challenged by this status change.\n\nSources: bri-1776-5ed864a29d36 [britannica], wiki-2586411-1317149477-7fa48999b86a [wikipedia].",
+      "error": null
+    }
+  ],
+  "finished_at": "2026-10-18T12:34:08.036115+00:00"
+}

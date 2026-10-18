@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2586411-1317149477-99bc0df3f29c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluid theory of electricity",
+  "text": "sed a one-fluid theory.\n\nOn 11 July 1747 Benjamin Franklin composed a letter in which he outlined his new theory. This is the first record of his theory. Franklin developed this theory mainly concentrating on the charging and discharging of bodies, as opposed to du Fay, who concentrated mainly on electrical attraction and repulsion.\n\nFranklin's theory stated that electricity should be thought of as the movement of a single liquid, as opposed to the interaction between two liquids. A body would show signs of electricity when it held either too much, or too little of this liquid. A neutral object was therefore thought to contain a “normal” amount of this fluid. Franklin also outlined two possible states of electrification, positive and negative. He argued that a positively charged object would contain too much fluid, while a negatively charged object would contain too little fluid. Franklin was able to apply this thinking by explaining unexplained phenomena of the time, such as the Leyden jar, a basic charge storing device similar to a capacitor. He argued that the wire and inner surface became positively charged, while the outer surface became negatively charged. This caused an imbalance in fluid, and a person touching both portions of the jar allowed the fluid to flow normally.\n\nDespite being a simpler theory, it was heavily debated whether electricity was made up of one fluid or two for a century.\n\nThe one-fluid theory shows a significant shift in how the scientific community thought about electricity. Prior to Franklin's theory, there were many competing theories on how e",
+  "url": "https://en.wikipedia.org/wiki/Fluid_theory_of_electricity",
+  "revision_id": 1317149477,
+  "article_id": 2586411,
+  "section_path": "shared_text[0:7950]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 103205,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "2f2f9838aa0ef86707b1bd97e71bd1e007bbc5bbed5c7c604aff0a408cbff3c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317149477",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2586411",
+    "revision_id": "1317149477",
+    "retrieved_at": "2026-10-18T12:17:07.837918+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7950,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

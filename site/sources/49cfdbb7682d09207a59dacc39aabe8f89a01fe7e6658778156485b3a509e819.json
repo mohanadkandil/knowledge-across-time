@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23280884-1297695424-e1eaa8e22818",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Blowing engine",
+  "text": "A blowing engine is a large stationary steam engine or internal combustion engine directly coupled to air pumping cylinders. They deliver a very large quantity of air at a pressure lower than an air compressor, but greater than a centrifugal fan.\n\nBlowing engines were largely used to provide the air blast for furnaces, blast furnaces and other forms of smelter.\n\nThe very first blowing engines were the blowing houses: bellows, driven by waterwheels.\n\nSmelters are most economically located near the source of their ore, which may not have suitable water power available nearby. There is also the risk of drought interrupting the water supply, or of expanding demand for the furnace outstripping the available water capacity.\n\nThese restrictions led to the very earliest form of steam engine used for power generation rather than pumping, the water-returning engine. With this engine, a steam pump was used to raise water that in turn drove a waterwheel and thus the machinery. Water from the wheel was then returned by the pump. These early steam engines were only suitable for pumping water, and could not be connected directly to the machinery.\n\nThe first practical examples of these engines were installed in 1742 at Coalbrookdale and as improvements to the Carron Ironworks on the Clyde in 1765.\n\nEarly steam prime movers were beam engines, firstly of the non-rotative (i.e. solely reciprocating) and later the rotative type (i.e. driving a flywheel). Both of these were used as blowing engines, usually by coupling an air cylinder to the far end of the beam from the steam cylinder. Joshua Fi",
+  "url": "https://en.wikipedia.org/wiki/Blowing_engine",
+  "revision_id": 1297695424,
+  "article_id": 23280884,
+  "section_path": "shared_text[0:5557]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 158408,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "4999dec62689b2b86ddb20ec79a9e4e1680cc599124e60e15f8b8c5ea659030e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1297695424",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23280884",
+    "revision_id": "1297695424",
+    "retrieved_at": "2026-10-18T12:42:10.320270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5557,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

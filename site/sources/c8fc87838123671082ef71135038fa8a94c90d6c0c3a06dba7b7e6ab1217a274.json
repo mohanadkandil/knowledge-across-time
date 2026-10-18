@@ -1,0 +1,36 @@
+{
+  "id": "bri-1230-4f96d9bebe42:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-1230-4f96d9bebe42",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+  "text": "quantity of the compound earth, mixed it with a fola- tion of gypfum, and let it refl for a quarter of an hour when he found, so the farphit, that the gypforn fill imunited infepedel in the water, and that the pre- pitate was entirely fobble in muriatic acid. He now rinses to foliated of gypfum with lime-water, adding earth of alum at the home times), when he found, that the whole we presticipated as before, the lime and ala- minicous earth having fallen on the booking with the gypfum, leaving the water gone. On the whole, our author concludes, i That the vitrile acid in gyprus is capable of combining with more lime than as secretary to an exact futuration. 2. The calcareous earth capable of forming an unison with the earth of alum, i But theygripe cannot combine with the earth of alum; but that if a paperflaun quality of lime the united with virleid acid, it will then there as blood of unam a combine grydim with the earth of alum, and thus form a new compound confiling of these cartels. Pure day has so effect upon limonwater.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+  "provenance": {
+    "page_id": "bri-1230-4f96d9bebe42",
+    "row_index": 1230,
+    "volume_id": "149979156",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+    "label": 0,
+    "sha256": "4f96d9bebe421b6d59e2a525f5b1a686601a8468f7bf92ed458f450ebd6e14b3",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1230-4f96d9bebe42.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.4678,
+    0.0484,
+    0.8486,
+    0.3172
+  ],
+  "offsets": [
+    0,
+    1042
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

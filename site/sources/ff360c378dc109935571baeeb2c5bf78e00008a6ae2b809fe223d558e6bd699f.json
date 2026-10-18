@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "tem, are counterparts of each other. Since this indo-Sem and dependence is a matter of ob alteration in all terrestrial bo-is M does, we are entitled to fay, that the power which is author of Nature has imparted to natural bodies are the way different from what are compared to matter once called into confidence. And it also follows from this, that we mult always remain ignorant of the infoline motions of bodies. The fact, that it has required the uncurrent limbly of any to discover more the relative motions of our folaryliters, is an argument to prove that the influence of, this mechanic principle extends beyond the limits of this bibliamary world's nor has any phenomenon yet been exhibited which should lead to imagine that it is not material.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5508,
+    0.0586,
+    0.959,
+    0.2437
+  ],
+  "offsets": [
+    0,
+    753
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-285241-1337717876-8bb590ecf756",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Phonolite",
+  "text": "n Colorado\n\nBaldface Mountain, west-central British Columbia, Canada\n\nDevils Tower, Wyoming, United States, an example of columnar-jointed phonolite\n\nHoodoo Mountain, northwestern British Columbia, Canada\n\nMissouri Buttes, Crook County, northeast Wyoming, United States\n\nMount Cargill, Dunedin, New Zealand\n\nThe phonolitic lava lake in Mount Erebus, Ross Island, Antarctica\n\nThe 'Bellstone' in Saint Helena\n\nPhonolites can be of interest as dimension stone or as aggregate for gravels.\n\nRarely, economically mineralised phonolite-nepheline syenite alkaline complexes can be associated with rare-earth mineralisation, uranium mineralisation and phosphates, such as at Phalaborwa, South Africa.\n\nPhonolite tuff was used as a source of flint for adze heads and such by prehistoric people from Hohentwiel and Hegau, Germany.\n\nPhonolites can be separated into slabs of appropriate dimensions to be used as roofing tiles in place of roofing slate. One such occurrence is in the French Massif Central region such as the Haute Loire département.",
+  "url": "https://en.wikipedia.org/wiki/Phonolite",
+  "revision_id": 1337717876,
+  "article_id": 285241,
+  "section_path": "shared_text[0:5357]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5357
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 37206,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "927e4b8fe473d463624ae567e84de2ed76f396c3be6adca468fb43c72758be6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337717876",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "285241",
+    "revision_id": "1337717876",
+    "retrieved_at": "2026-10-18T12:41:11.467787+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5357,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

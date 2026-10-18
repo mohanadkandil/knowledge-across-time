@@ -66,6 +66,8 @@ Use `Store.review` only after that review. Enter expected behavior, actual obser
 
 ## What offline tests establish
 
+Seven of the initial 99 cached Parse outputs contained only an empty Picture region (source rows15,179,568,802,876,886,2077). These scans remain in the fixed100-page selection. A layout-only extraction is not evidence that its original image is blank. Matching records an explicit unmatched result; comparison records a deterministic abstention with preserved scan and parser provenance. Neither step calls the agent, embedding, reranking or Wikipedia service for these pages. These abstentions are extraction limitations, not completed Hermes question cases. Parser-output, readable-text, comparison and abstention counts are reported separately. `tests/test_blank_handling.py` verifies this behavior with forbidden model calls, retained source files and an unchanged100-page denominator.
+
 `tests/test_baseline.py` uses fake HTTP responses and temporary fixtures. It checks actual local LanceDB upsert/search and model/dimension guards; deterministic exact100 selection against an already-downloaded pinned corpus; citation presence checks without semantic claims; completed-question review eligibility; malformed embedding/reranking responses; parse fallback honesty; and credential redaction. `tests/test_wiki_remote.py` checks Unicode pagination, full-text checksums, snapshot/coverage identity, rejected inconsistent responses, cache reuse and bounded busy-service retries. Passing these tests does not establish that a live Nemotron endpoint or Hermes answer works.
 
 ## Actual shared-Wikipedia smoke observations

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2586411-1317149477-6db36a3e58cb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluid theory of electricity",
+  "text": "ory shows a significant shift in how the scientific community thought about electricity. Prior to Franklin's theory, there were many competing theories on how electricity functioned. Franklin's theory soon became the most widely accepted at the time. Franklin's theory is also notable because it is the first theory that viewed electricity as the accumulation of 'charge' from elsewhere, rather than an excitation of the matter already present in an object.\n\nFranklin's theory also provides the basis for conventional current, the thinking of electricity as being the movement of positive charges. Franklin arbitrarily thought of his electrical fluid as being of a positive charge, and therefore all thought was done in the frame of mind of a positive flow. This permeated the mindset of the scientific community to the point that electricity is still being thought of as the flow of positive charges, despite proof that electricity moving through metals (the most common conductor) is done by the electron, or negative particle.\n\nFranklin was also the first person to suggest that lightning was in fact electricity. Franklin suggested that lightning was just a larger version of the small sparks that appeared between two charged objects. He therefore predicted that lightning could be shaped and directed by using a pointed conductor. This was the basis for his famous kite experiment.\n\nAlthough the one-fluid theory marked a significant advance in discussions of electricity, it did have some deficiencies. Franklin created the theory to explain discharges, an aspect which had been mostly ignored",
+  "url": "https://en.wikipedia.org/wiki/Fluid_theory_of_electricity",
+  "revision_id": 1317149477,
+  "article_id": 2586411,
+  "section_path": "shared_text[0:7950]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 103205,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "2f2f9838aa0ef86707b1bd97e71bd1e007bbc5bbed5c7c604aff0a408cbff3c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317149477",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2586411",
+    "revision_id": "1317149477",
+    "retrieved_at": "2026-10-18T12:17:07.837918+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7950,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

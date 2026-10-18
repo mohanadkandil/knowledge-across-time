@@ -1,0 +1,36 @@
+{
+  "id": "bri-1071-d24d0fd09823:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1071-d24d0fd09823",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+  "text": "COMMODATE, COMMODATUM, in the civil ju-tifrondence, the loan or free concellion of any thing movable is immovable, for a certain time, on cane officers of referring again the fans individual faces a certain terms. The commonates is a kind of born there is this difference, however, between a line and a commonate, but the latter is grains, and does not transfer the property; she thing much he returned in effence, and without impairment, to that things which conforme by wife or time cannot be objects of a com- moother, but of the lion, I a regard they may no returns ed in kind, though not an identity. See Law In-der.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+  "provenance": {
+    "page_id": "bri-1071-d24d0fd09823",
+    "row_index": 1071,
+    "volume_id": "192547776",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+    "label": 0,
+    "sha256": "d24d0fd098237eeb0479d8675ed1388c6ec6806c51819810dc13332feacfd194",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1071-d24d0fd09823.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.1455,
+    0.0672,
+    0.5039,
+    0.2383
+  ],
+  "offsets": [
+    0,
+    621
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

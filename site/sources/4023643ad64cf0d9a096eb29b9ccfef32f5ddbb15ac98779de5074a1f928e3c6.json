@@ -1,0 +1,36 @@
+{
+  "id": "bri-2026-4065cd59de40:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2026-4065cd59de40",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+  "text": "Partha- them as his lands and forecigns. With this view he repaired to Ctefophon; and having thereaffmled the chief men of the nation, be counted one of the royal family, by name _Partham/faites_, king of Partha, obliging all who were predict to pay him their allegance. He choft Parhambafpates, because that grants have had joined me at his full entering the Partham bomi- person, conducted him with great fidelity, and flown on all conditions no extraordinary attachment to the Romans. This the Partham were as full fabled, and their kingdom made tribunty to Rome. But they did not long continue in this life of folybfeeism, for they unor honor herself if Traya’ death, which jap- penel shortly after, than, taking up arms, they drove Parthatparta from the throne; and recalling Colf- doves, who had retired the country of the Flyr- canias, openly revolved from Rome. Adrian, who was then commander in chief of all the forces in the early until from the technological governor by the se- my, did not care, though he was at the time in Syria with a very narrowest army, to engage in a new war with the Partham; but contened himself with preferring the ancient limits of the empire, without any ambitious projects of further conquedts. These five, in the beginning of his reign, he abandoned those provinces beyond the Euphrates which Yrajin had congress! They are now the Roman profions from Me- fopotami s , and for the greater fatey of other places, make the Euphrates the boundary of anil barrier in whole pares, polling his legious along the banks of that river.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+  "provenance": {
+    "page_id": "bri-2026-4065cd59de40",
+    "row_index": 2026,
+    "volume_id": "191253798",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+    "label": 0,
+    "sha256": "4065cd59de408978ce50cdb477e57ffa479fda8619211cd870863fdb1403b493",
+    "width": 600,
+    "height": 785,
+    "image_file": "../images/bri-2026-4065cd59de40.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.1211,
+    0.0742,
+    0.5312,
+    0.4883
+  ],
+  "offsets": [
+    0,
+    1567
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

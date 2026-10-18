@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-9d6626209f02",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "e as a fictional treatment of the feral child.\n\nFor the Myrddin Wyllt (mad Merlin) Suibhne Geilt (Mad Sweeney) driven to live in the wilderness and interpreted by some modern commentators as exhibiting the Wild Man of the Woods motif, cf. § Celtic mythology (under §Medieval parallels) below.\n\nAs the name implies, the main characteristic of the wild man is his wildness. Civilized people regarded wild men as beings of the wilderness, the antithesis of civilization. Such had been the medieval view through the High Middle Ages. That is to say, the wild man had been something that civilized people strove to reject.\n\nThe regard for the wild man as such an abominable fearsome character began to blunt, and by the 14th century in the example of the Bal des Sauvages held by King Charles VI of France (cf. § In dance and festival) the wild man was being employed in costume, not so much as embodiment of evil and savagery, but as a toything of court nobles.\n\nThe paradigm had reversed and the Wild Man became the Noble Savage by the time of Spenser 's The Faerie Queene (1590, 1596) and Hans Sachs 's Klag der wilden holtzleut uber die ungetrewen welt (\"Lament of the Wild Men about the Unfaithful World\", 1530) and it became an iconic model. Bernheimer analyzes this as a backlash reaction by the nobility of having to live within the constraints of aristocratic conventions and chivalric code.\n\nAlthough emergence of the concept of the \"Noble Savage\" (French: bon sauvage) had occurred post- discovery of the Americas, according to one observer not inconsistent with the foregoing 16th century exam",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    14400,
+    16000
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

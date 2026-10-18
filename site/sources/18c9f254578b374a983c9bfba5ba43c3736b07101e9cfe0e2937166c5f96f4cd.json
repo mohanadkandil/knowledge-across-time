@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4508896-1324190558-a2fff8c07c63",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tattoo (disambiguation)",
+  "text": "A tattoo is a marking made by the insertion of indelible ink into the skin.\n\nTattoo may also refer to:\n\nTattoo (comics), fictional mutant character in the Marvel Comics Universe\n\n\"Tattoo\" (poem), a poem from Wallace Stevens' first book of poetry, Harmonium\n\n\"Tattoo\" (short story), a 1996 short story by Matthew Condon\n\nTattoo (1967 film), a West German film directed by Johannes Schaaf\n\nTattoo (1981 film), an American thriller directed by Bob Brooks, starring Bruce Dern\n\nTattoo (2002 film), a German film directed by Robert Schwentke\n\nTattoo (2011 film), a short film directed by Bill Paxton\n\nTattoo (2013 film), a Brazilian film directed by Hilton Lacerda\n\nTattoo (character), portrayed by Hervé Villechaize on the TV series Fantasy Island\n\nTattoo (Prison Break), the elaborate tattoo detailing the escape plan, which belongs to the protagonist of television series, Prison Break\n\n\"Tattoo\" (Star Trek: Voyager), the 24th episode of Star Trek: Voyager\n\nTattoo (David Allan Coe album), 1977\n\nTattoo (Rory Gallagher album), 1973\n\nTattoos (Jason Derulo album), 2013\n\nTattoos (Brantley Gilbert album), 2024\n\n\"Tattoo\" (Big Mother Thruster song), 2001\n\n\"Tattoo\" (Hunter Hayes song), 2014\n\n\"Tattoo\" (Jordin Sparks song), 2007\n\n\"Tattoo\" (Loreen song), which won the Eurovision Song Contest 2023\n\n\"Tattoo\" (Mike Oldfield instrumental), 1992\n\n\"Tattoo\" (Siouxsie and the Banshees song), 1983\n\n\"Tattoo\" (Tito Double P song), 2025\n\n\"Tattoo\" (Van Halen song), 2012\n\n\"Tattoo\" (The Who song), 1967\n\n\"Tattoo\", by Ava Max from Heaven & Hell, 2020\n\n\"Tattoo\", by Faster Pussycat from Wake Me When It's Over, 1989\n\n\"Ta",
+  "url": "https://en.wikipedia.org/wiki/Tattoo_(disambiguation)",
+  "revision_id": 1324190558,
+  "article_id": 4508896,
+  "section_path": "shared_text[0:2706]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 30296,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "382c7d489fb73294c0569f13b6a5c9bd6fdc0e1b6f289635df0a6356c700784c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1324190558",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4508896",
+    "revision_id": "1324190558",
+    "retrieved_at": "2026-10-18T12:22:47.060100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2706,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

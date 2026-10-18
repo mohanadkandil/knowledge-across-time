@@ -1,0 +1,44 @@
+{
+  "id": "wiki-25540195-1235235965-1a33095c2a1c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Samuel Clarke of St Albans",
+  "text": "adopted as a recently orphaned thirteen-year-old. The four men were of the same theological school. It was in going to preach Clarke's funeral sermon that Doddridge is said to have caught the illness which caused his death. Clarke is thought to have suggested to Doddridge some of the books which he published; in particular, his Principles of the Christian Religion. Clarke was awarded the degree of Doctor of Divinity by the University of Glasgow in March 1744, 'on the united testimony of Dr Watts, Dr Guise,' and Dr Doddridge. On Sunday 2 December 1750, whilst administering the Lord's Supper in his Dagnall Street chapel, Clarke suffered a stroke. He died two days later.\n\nClarke published some sermons, but is remembered for his Collection of the Promises of Scripture, arranged systematically. It is a compilation, often reprinted, and was an enduring popular religious volume.\n\nClarke married Sarah Jones, of St Albans (1701–1757), by whom he had sons Samuel (1727–1769) and Thomas (1730–1742), and daughters Ann (1733–1804), who married Rev Jabez Hirons (1727–1812), who succeeded Clark as minister at Dagnall Lane; Elizabeth, who married Ralph Griffiths, editor of the Monthly Review; and Sarah, who married William Rose, schoolmaster of Chiswick.",
+  "url": "https://en.wikipedia.org/wiki/Samuel_Clarke_of_St_Albans",
+  "revision_id": 1235235965,
+  "article_id": 25540195,
+  "section_path": "shared_text[0:2697]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2697
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 81546,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "19e9a38b0d7cc6eea22a04ecb53646459f913281e4ec9c7c5c66c37ec43b24a3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1235235965",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "25540195",
+    "revision_id": "1235235965",
+    "retrieved_at": "2026-10-18T12:40:05.893051+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2697,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

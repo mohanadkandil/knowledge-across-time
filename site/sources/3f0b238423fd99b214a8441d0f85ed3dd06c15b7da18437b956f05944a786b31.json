@@ -1,0 +1,44 @@
+{
+  "id": "wiki-391340-1353425133-55325804e218",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluxion (disambiguation)",
+  "text": "A fluxion is a mathematical concept, first formulated by Isaac Newton.\n\nFluxion may also refer to:\n\nNewton's method for solving an equation\n\nFluxion (electronic musician), real name Konstantinos Soublis\n\nFluxion (album), the Ocean Collective's first LP",
+  "url": "https://en.wikipedia.org/wiki/Fluxion_(disambiguation)",
+  "revision_id": 1353425133,
+  "article_id": 391340,
+  "section_path": "shared_text[0:252]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    252
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b86c9466e1798909960b260e264e4de344af73171d9077024f198152c5baeafe",
+    "source_row_idx": 24986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_76.parquet",
+    "text_sha256": "999cad26436a0249c9ad9546f264ccefb98d47fbf163498467faa26a335a3805",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353425133",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "391340",
+    "revision_id": "1353425133",
+    "retrieved_at": "2026-10-18T12:22:26.419597+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 252,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

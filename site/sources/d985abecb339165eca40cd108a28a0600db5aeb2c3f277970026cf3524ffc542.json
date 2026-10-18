@@ -1,0 +1,36 @@
+{
+  "id": "bri-1489-0fc22fef766d:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1489-0fc22fef766d",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": "Fig. 2.\nA\nC\nFig. 3.\nK\nK\nK\nC\nP\nD\nI\nD\nB\nC\nA\nD\nB\nC\nA\nFig. 4.\nG\nT\nG\nF\nM\nFig. 5.\nC\nA\nT\nFig. 6.\nFig. 12.\nFig. 11.\nT\nMg\nS\nW\nP\nD C\nA\nR\nH\nA\nB\nM\nA\nB\nM\nA\nM\nM\nC\nP\nD\nH\nA\nE\nA\nFig. 8.\nFig. 7.\nA\nC\nC\nO\nK\nA\nFig. 13.\nG\nP\n9\nB\nA\nA\nB\nm1k1\nS\ndc\nP\nH\nA\nH\nA\nFig. 15.\nH\nA\nKRA\nFig. 16.\nA\nFig. 14.\nFig. 9.\nb\nA\nC\nC\nC\nC\nC\nC\nC\nC\nC\nFig. 10.\nV\nLau Culther Scale.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1489",
+  "provenance": {
+    "page_id": "bri-1489-0fc22fef766d",
+    "row_index": 1489,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 1,
+    "sha256": "0fc22fef766d3f0270650b1a7deaf9cbe0684d0790bcc48d41814d86c10d40fd",
+    "width": 600,
+    "height": 823,
+    "image_file": "../images/bri-1489-0fc22fef766d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1489",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0,
+    0.1219,
+    0.918,
+    0.9383
+  ],
+  "offsets": [
+    0,
+    328
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

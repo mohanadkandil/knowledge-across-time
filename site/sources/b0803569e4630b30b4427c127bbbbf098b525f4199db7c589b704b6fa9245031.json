@@ -1,0 +1,44 @@
+{
+  "id": "wiki-288471-1323877685-1cdcb67de008",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mordant",
+  "text": " above is applied in this manner\n\nPost-mordanting (afterchrome): The dyed material is treated with a mordant. The complex between the mordant and dye is formed on the fibre.\n\nThe type of mordant used affects the shade obtained after dyeing and also affects the fastness property of the dye. The application of mordant, either pre-mordant, meta-mordant or post-mordant methods, is influenced by:\n\nThe action of the mordant on the substrate: if the mordant and dye methods are harsh (for example, an acidic mordant with an acidic dye), pre-mordanting or post-mordanting limits the potential for damage to the substrate.\n\nThe stability of the mordant or dye lake or both: the formation of a stable dye lake means that the mordant can be added in the dye without risk of losing the dye properties (meta-mordanting).\n\nDye results can also rely on the mordant chosen as the introduction of the mordant into the dye will have a marked effect on the final color. Each dye can have different reactions to each mordant. For example, cochineal scarlet, or Dutch scarlet as it came to be known, used cochineal along with a tin mordant to create a brilliant orange-hued red.\n\nResidual iron mordant can damage or fade fabric, producing \"dye rot\".\n\nThe dye lake is an insoluble complex formed upon combining the dye and mordant, which then attaches to the substrate. Mordants increase the fastness of the dye since the higher molecular weight dye is now bonded to the fibre.\n\nThe type of mordant used can change the colour of both the dye-plus-mordant solution and influence the shade of the final product.\n\nUnlike ",
+  "url": "https://en.wikipedia.org/wiki/Mordant",
+  "revision_id": 1323877685,
+  "article_id": 288471,
+  "section_path": "shared_text[0:4234]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 61801,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "e1d7134d41c1c171ddf68fb8b765e5e52839c6cb708f568ee3f5e07597159c5b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323877685",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "288471",
+    "revision_id": "1323877685",
+    "retrieved_at": "2026-10-18T12:23:23.500889+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4234,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0902-5d7a505f7997:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0902-5d7a505f7997",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+  "text": "_GREENNAND, on GeoensA.ANO, in immense island\nking the next–went of North America, and for the now\nart comprehended within the arctic circle. Formerly it was\nresponse to form part of the continent of America, and the\necovies of recent registration may proved its entire sea\nputation from that country by the Arctic Ocean. Indeed,\nto very days of north-west passage from the Atlantic to\nte Pacific Ocean presupposed that such was the case\nfrom Cape Townell, in most southern extremity, which\nhim the mean of nine different activities in In late.\nFor 780', it stretches on the one side in a north-north-eastern\ndifferent to Smith's Sound, at the top of Buffalo Bay,\nand 7774 49. On the other side of Greenland the figure of\nto coast is exceedingly irregular. For about ten degrees\nmay be said generally to run in a north-north-south-western\nsection, describing during the first five degrees a consi-\nrable anomaly, indicating numerous lines of the sex\nfrom latitude 700 to that of 750 the direction of the east\nmore directly northerly, and from the latter parallel to\nreceks nearly duo northward Ephraberger and the\nlitude of 80\". This side of Greenland has been demoni-\nred East or Old Grounds, and the other side is distinct\nsubject by the course of West Greenland. The average\ndeath may be about 500 miles. Such are the limits usually\nslipper to this country. I does not appear to territory\nhowever, at Knit's Sound. From this point it proceeds\nsuch an far as the entrance to Lancaster Sound and\nhere Stinks, and there is itereits in a weekly discretion\nby several hundred miles. Captain Parry, the ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+  "provenance": {
+    "page_id": "bri-0902-5d7a505f7997",
+    "row_index": 902,
+    "volume_id": "193469090",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+    "label": 0,
+    "sha256": "5d7a505f7997d6119e5537ad4ee2ccd72dd104c3a767a8014470c2799d641a3d",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0902-5d7a505f7997.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0596,
+    0.3727,
+    0.4541,
+    0.9289
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

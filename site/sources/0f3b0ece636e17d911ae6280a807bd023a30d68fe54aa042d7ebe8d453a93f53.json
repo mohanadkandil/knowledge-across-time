@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "_I: The Company of Merchant trading at African efa-billed in 173/cs. Contrary to the former practice with regard to regulated companies, who were reckoned unit for fuel fast of review, this company was fully elected to the obligation of maintaining forty and girl-ions. It was expressly charged at fritt with the maintenancy of all the British forks and gararrison that lie between Cape Blanc and the Cape of Good Hoye, and afterwards with that of thole only which lie between Cape Blage and the Cape of Good Hope. The soft which debilishes this company (the 24 of George II, c. 31 ): femens to have had two difficult objects in view ; fritt, to certain defective? the approve and mono- pointing light which is natural to the direction of a regulated company ; and secondly, to force them as much as public to give an attention, which is not na-t to them, towards the maintenance of facts and garritions.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.5654,
+    0.6305,
+    0.9463,
+    0.8664
+  ],
+  "offsets": [
+    0,
+    904
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

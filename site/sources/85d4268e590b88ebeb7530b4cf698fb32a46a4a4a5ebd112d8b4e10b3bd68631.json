@@ -1,0 +1,36 @@
+{
+  "id": "bri-2410-19364d85bf49:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2410-19364d85bf49",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+  "text": "Arrow were released by whatever a steel confining cloafs on of six arrows. They were carried in a picture, called _Georis An_ also an _arrow only_, which ferved for the magazine, arrows are armmistes of were worn in the globe. The ancient times plals of options, or rather con- bubild matter, for burning hoodies on ships, ever fixed in the heads of arrows, and that from long bow. This has been allo sprawified face the ufe of gun- powder. Natalie may, he has known by experience, that an active may shoot an cause of freedom upon an arrow 12 force yards. Arrow with wildfers, and arrows for fireworks, are mentioned among the forest at Newhars and Herwick, in the 1st of El-ward II).",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+  "provenance": {
+    "page_id": "bri-2410-19364d85bf49",
+    "row_index": 2410,
+    "volume_id": "192545784",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+    "label": 0,
+    "sha256": "19364d85bf4997e5c78355cbe610b2e5e4479d2093c368e0c0e77cced484f78d",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2410-19364d85bf49.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.458,
+    0.4898,
+    0.8135,
+    0.6609
+  ],
+  "offsets": [
+    0,
+    685
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

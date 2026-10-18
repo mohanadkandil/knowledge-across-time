@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278773-1343987078-32d0d4cb36d8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Greenland",
+  "text": "land\n\nPolitical parties in Greenland\n\nGovernment of Greenland\n\nHead of state: Queen of Denmark, Queen Margrethe II, represented by High Commissioner of Greenland, Mikaela Engell\n\nHead of government: Prime Minister of Greenland, Kim Kielsen\n\nLandsting (unicameral)\n\nCourt system of Greenland\n\nLandsret\n\nForeign relations of Greenland\n\nDiplomatic missions in Greenland\n\nDiplomatic missions of Greenland\n\nGreenland and the European Union\n\nThe government of Greenland is a member of:\n\nArctic Council\n\nNordic Council (NC)\n\nNordic Investment Bank (NIB)\n\nUniversal Postal Union (UPU)\n\nHuman rights in Greenland\n\nLGBT rights in Greenland\n\nFreedom of religion in Greenland\n\nLaw enforcement in Greenland\n\nMilitary of Greenland\n\nCommand\n\nCommander-in-chief:\n\nMinistry of Defence of Greenland: None, Island Command Greenland is de facto defense command\n\nForces\n\nGreenlandic Coast Guard\n\nArmy of Greenland: None, Defense is the responsibility of Denmark\n\nNavy of Greenland: None, Defense is the responsibility of Denmark\n\nAir Force of Greenland: None, Defense is the responsibility of Denmark\n\nSpecial forces of Greenland: None, Defense is the responsibility of Denmark\n\nGreenland in World War II\n\nAdministrative divisions of Greenland\n\nMunicipalities:\n\nQaasuitsup\n\nQeqqata\n\nSermersooq\n\nKujalleq\n\nNortheast Greenland National Park\n\nMilitary history of Greenland\n\nCulture of Greenland\n\nArchitecture of Greenland\n\nCuisine of Greenland\n\nFestivals in Greenland\n\nLanguages of Greenland\n\nMedia in Greenland\n\nNational symbols of Greenland\n\nCoat of arms of Greenland\n\nFlag of Greenland\n\nNational anthem of Greenland\n\nPeop",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Greenland",
+  "revision_id": 1343987078,
+  "article_id": 16278773,
+  "section_path": "shared_text[0:5735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 41726,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "b70e845ff78947033b7ebfee205955d707ee2785d00f7612fcc94e80648903fe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343987078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278773",
+    "revision_id": "1343987078",
+    "retrieved_at": "2026-10-18T12:28:44.137261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7095838-1330903550-ab51d928a182",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Steelyard balance",
+  "text": " use among Greek craftsmen of the 5th and 4th centuries BC, even before Archimedes demonstrated the law of the lever theoretically. The Latin name statera comes from the Ancient Greek στατήρ (statḗr). Roman and Chinese steelyards were independently invented around 200 BC. Steelyards dating from AD 100 to 400 have been unearthed in Great Britain. Steelyards and their components have also been excavated from shipwrecks of the Byzantine period in the Mediterranean and the Red Sea, such as the 7th-century wreck at Yassi Ada, Turkey, and the mid-first millennium shipwreck at Black Assarca Island, Eritrea. The Oxford English Dictionary suggests that the name \"steelyard\" is derived from steel combined with yard, influenced by an allusion to the Steelyard, the main trading base of the Hanseatic League in London in the 14th century.\n\nLarge steelyard balances (known as cart steelyards), both public and private, were a common feature in agricultural areas in England from the eighteenth century forward. An example of a public cart steelyard remains at Soham, Cambridgeshire, and another is at Woodbridge, Suffolk.\n\nSteelyards of different sizes have been used to weigh loads ranging from ounces to tons. A small steelyard could be a foot or less in length and thus conveniently used as a portable device that merchants and traders could use to weigh small ounce-sized items of merchandise. In other cases a steelyard could be several feet long and used to weigh sacks of flour and other commodities. Even larger steelyards were three stories tall and used to weigh fully laden horse-drawn waggons",
+  "url": "https://en.wikipedia.org/wiki/Steelyard_balance",
+  "revision_id": 1330903550,
+  "article_id": 7095838,
+  "section_path": "shared_text[0:4597]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 112138,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "ff2887aa4de3fb1960c82e29250ddf73539fc8c8ef9fa604fa6310be00be702a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330903550",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7095838",
+    "revision_id": "1330903550",
+    "retrieved_at": "2026-10-18T12:21:11.243656+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4597,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

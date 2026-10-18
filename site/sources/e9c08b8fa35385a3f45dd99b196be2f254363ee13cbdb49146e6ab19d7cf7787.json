@@ -1,0 +1,44 @@
+{
+  "id": "wiki-286048-1245945505-379cd7b6c518",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flotation",
+  "text": "Flotation (also spelled floatation) involves phenomena related to the relative buoyancy of objects.\n\nThe term may also refer to:\n\nFlotation (archaeology), a method for recovering very small artefacts from excavated sediments\n\nFlotation (shares), an initial public offering of stocks or shares in a company\n\nFloating exchange rate – changing policy to make a fixed currency have a floating rate may be called 'flotation'.\n\nFlotation, any material added to the hull of a watercraft to keep the hull afloat\n\nFlotation, the ability (as of a tire or snowshoes) to stay on the surface of soft ground or snow\n\n\"Floatation\", a 1990 electronic music song by The Grid\n\nFlotation process, in process engineering, a method for the separation of mixtures\n\nDissolved air flotation (DAF), a water treatment process\n\nFroth flotation, a process for separating hydrophobic from hydrophilic materials\n\nInduced gas flotation, a water treatment process that clarifies wastewaters (or other waters) by the removal of suspended matter such as oil or solids\n\nFlotation therapy, a technique whereby users 'float' in an isolation tank",
+  "url": "https://en.wikipedia.org/wiki/Flotation",
+  "revision_id": 1245945505,
+  "article_id": 286048,
+  "section_path": "shared_text[0:1108]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1108
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 130823,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "34410a61ecd4520e00ac37677d078151e623ad4cf8541b0a7fd481e24e9db6a7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1245945505",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "286048",
+    "revision_id": "1245945505",
+    "retrieved_at": "2026-10-18T12:22:41.039826+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1108,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

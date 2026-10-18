@@ -1,0 +1,44 @@
+{
+  "id": "wiki-12624133-1322628586-f88eb02b5b5a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Silurus",
+  "text": "Silurus is a genus of catfishes native to Europe and Asia.\n\nThere are currently 20 recognized species in this genus:\n\nSilurus aristotelis Garman, 1890 (Aristotle's catfish)\n\nSilurus asotus Linnaeus, 1758 (Amur catfish)\n\nSilurus biwaensis Tomoda, 1961 (Lake Biwa giant catfish)\n\nSilurus burmanensis Thant, 1967\n\nSilurus caobangensis V. H. Nguyễn, T. H. N. Vũ & T. D. P. Nguyễn, 2015 (yellow catfish)\n\nSilurus chantrei Sauvage, 1882\n\nSilurus dakrongensis V. H. Nguyễn, T. H. N. Vũ & T. D. P. Nguyễn, 2015 (Dakrong catfish)\n\nSilurus duanensis X. Y. Hu, J. H. Lan & C. G. Zhang, 2004\n\nSilurus glanis Linnaeus, 1758 (Wels catfish)\n\nSilurus grahami Regan, 1907\n\nSilurus langsonensis V. H. Nguyễn, T. H. N. Vũ & T. D. P. Nguyễn, 2015 (flower catfish)\n\nSilurus lanzhouensis H. L. Chen, 1977 (Lanzhou catfish)\n\nSilurus lithophilus Tomoda, 1961 (rock catfish)\n\nSilurus longibarbatus Li, J, Li, X. H., Zhang, G, He, Y. J., 2019\n\nSilurus mento Regan, 1904 (Kunming catfish)\n\nSilurus meridionalis H. L. Chen, 1977 (Yangtze catfish)\n\nSilurus microdorsalis (Mori, 1936) (slender catfish)\n\nSilurus soldatovi Nikolskii & Soin, 1948 (Soldatov's catfish)\n\nSilurus tomodai Y. Hibino & Tabata, 2018\n\nSilurus triostegus Heckel, 1843 (Mesopotamian catfish)\n\nFossil species\n\nSilurus joergi Gaudant, 2015 Late Miocene of Germany.\n\nSilurus spinosus Kovalchuk & Ferraris, 2016 Late Miocene of Ukraine.",
+  "url": "https://en.wikipedia.org/wiki/Silurus",
+  "revision_id": 1322628586,
+  "article_id": 12624133,
+  "section_path": "shared_text[0:1374]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1374
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 5710,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "971bb6ce9605b0b3658d5cbbc48124702b7f871492311a98b93c6ecf38fca8a9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1322628586",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "12624133",
+    "revision_id": "1322628586",
+    "retrieved_at": "2026-10-18T12:40:26.081236+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1374,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

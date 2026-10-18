@@ -1,0 +1,44 @@
+{
+  "id": "wiki-250787-1338273276-79fa1af55daf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Roebuck",
+  "text": "(Ebenezer Roebuck, Thomas Roebuck, William Cadell, William Cadell and Benjamin Roebuck). There he introduced various improvements in methods of production, including the conversion (patented in 1762) of cast iron into malleable iron \"by the action of a hollow pit-coal fire\" urged by a powerful artificial blast. Ebenezer was killed in 1771 in a \"melancholy accident: While viewing the works, a huge piece of iron fell on this gentleman, which killed him on the ſpot\". Ebenezer had been a vigorous contributor to the success of the ironworks, and quality declined after his death. Its Royal Navy contracts were cancelled in 1773 and a Royal Artillery inspection in 1774 found that \"on the death of Roebuck the Carron Guns had through the carelessness of the workmen very much deteriorated, and the firm lost ground.\"\n\nRoebuck had also leased a colliery at Bo'ness to supply coal to the Carron Works, but in sinking for new seams he encountered such quantities of water that the Newcomen engine used was unable to keep the pit clear. Hearing of James Watt 's engine, Roebuck contacted its inventor. This engine also proved inadequate, but Roebuck became a strong believer in its future. In return for a two-thirds share in the invention he assisted Watt in perfecting its details by paying Watt's debts and by providing him with a place to work. The workplace became known as James Watt's Cottage and was built in a secluded area of Kinneil House as Roebuck was worried about industrial espionage.\n\nRoebuck's troubles at the Carron Works and the colliery, aggravated by the failure of an attempt to ma",
+  "url": "https://en.wikipedia.org/wiki/John_Roebuck",
+  "revision_id": 1338273276,
+  "article_id": 250787,
+  "section_path": "shared_text[0:3721]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 85622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "c113a8a232a4e5ead9cfafdc9abc493657bfa8e9d2ac81ee6a3a563377077c4c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338273276",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "250787",
+    "revision_id": "1338273276",
+    "retrieved_at": "2026-10-18T12:23:49.193803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3721,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

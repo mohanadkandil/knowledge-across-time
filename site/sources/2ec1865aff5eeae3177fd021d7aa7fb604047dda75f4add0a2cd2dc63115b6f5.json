@@ -1,0 +1,44 @@
+{
+  "id": "wiki-284289-1353524147-530390c61149",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of rock types",
+  "text": "lcanic rock with a composition between phonotephrite and phonolite\n\nTephrite – Igneous, volcanic rock – A silica-undersaturated volcanic rock\n\nTonalite – Igneous rock – A plagioclase-dominant granitoid\n\nTrachyandesite – Extrusive igneous rock – An alkaline intermediate volcanic rock\n\nBenmoreite – Volcanic rock type - sodic trachyandesite\n\nTrachybasalt – Volcanic rock – A volcanic rock with a composition between basalt and trachyte\n\nHawaiite – Volcanic rock – a sodic type of trachybasalt, typically formed by ocean island (hot spot) volcanism\n\nTrachyte – Extrusive igneous rock – A silica-undersaturated volcanic rock; essentially a feldspathoid-bearing rhyolite\n\nTroctolite – Igneous rock – A plutonic ultramafic rock containing olivine, pyroxene and plagioclase\n\nTrondhjemite – Light-colored intrusive igneous rock – A form of tonalite where plagioclase-group feldspar is oligoclase\n\nTuff – Rock consolidated from volcanic ash\n\nVitrophyre – Glassy volcanic rock - Glassy igneous rock with phenocrysts\n\nWebsterite – Ultramafic and ultrabasic rock – A type of pyroxenite, composed of clinopyroxene and orthopyroxene\n\nWehrlite – Ultramafic rock - An ultramafic plutonic or cumulate rock, a type of peridotite, composed of olivine and clinopyroxene\n\nArgillite – Sedimentary rock, mostly of indurated clay particles\n\nArkose – Type of sandstone containing at least 25% feldspar\n\nBanded iron formation – Layered iron-rich sedimentary rock\n\nBreccia – Rock composed of angular fragments\n\nCalcarenite – Type of limestone that is composed predominantly of sand-size grains\n\nChalk – Soft carbonate rock\n\nCh",
+  "url": "https://en.wikipedia.org/wiki/List_of_rock_types",
+  "revision_id": 1353524147,
+  "article_id": 284289,
+  "section_path": "shared_text[0:15318]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "63bf49ee93b73298549a18ce72ee76973ea4d618a6cd0f70cd117128ae33a244",
+    "source_row_idx": 29489,
+    "source_shard": "enwiki/data/enwiki_namespace_0_78.parquet",
+    "text_sha256": "7ea55105bf0064527bc26cb00cc5f45981c6d1302b87a5719aef6773812b2b7f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353524147",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "284289",
+    "revision_id": "1353524147",
+    "retrieved_at": "2026-10-18T12:29:33.607646+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15318,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

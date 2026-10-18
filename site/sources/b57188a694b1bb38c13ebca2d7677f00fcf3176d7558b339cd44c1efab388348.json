@@ -1,0 +1,36 @@
+{
+  "id": "bri-2519-f242fdaba53d:region-0:0",
+  "kind": "britannica",
+  "page_id": "bri-2519-f242fdaba53d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 11, Grotius-HYD - EB.15",
+  "text": "EB 15",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2519",
+  "provenance": {
+    "page_id": "bri-2519-f242fdaba53d",
+    "row_index": 2519,
+    "volume_id": "193638940",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 11, Grotius-HYD - EB.15",
+    "label": 0,
+    "sha256": "f242fdaba53d054518c22b5bea5686eeb887deeb1b2df944a177caf79d349c86",
+    "width": 600,
+    "height": 801,
+    "image_file": "../images/bri-2519-f242fdaba53d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2519",
+    "manual_seed": false
+  },
+  "region_id": "region-0",
+  "bbox_raw": [
+    0.0,
+    0.0,
+    0.998,
+    0.9984
+  ],
+  "offsets": [
+    0,
+    5
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

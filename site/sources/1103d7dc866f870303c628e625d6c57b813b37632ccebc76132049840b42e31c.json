@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-6703cead2b0e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "., the wild men of the woods.\n\nVersions of the divyi lyudi \"wondrous folk\") from the medieval Russian romance of Alexander the Great appear in later folklore, as aforementioned.\n\nThere are medieval Welsh, Irish, and Scottish mythical narratives about men going mad and living in the wilderness, considered as part of the Celtic Wildman tradition according to scholars.\n\nThe Welsh tradition regarding Myrddin Wyllt (\"mad Merlin \") is that he went mad after the Battle of Arfderydd which took place in 573 CE in the wake of the battle that resulted in the death of Gwenddoleu ap Ceidio who was the king he served. It is recorded as such in the annals, though it may not be historically accurate. Myrddin then fled to the forest, living life as a man of the woods, according to Giraldus Cambrensis (12th century). The battleground (Arfderydd) became identified as a place near the Scottish border, making plausible the legend that Merlin's flight took him to the Caledonian Forest in Scotland. Geoffrey of Monmouth recounts the Myrddin Wyllt legend in his Latin Vita Merlini of about 1150, and the attachment of the madness motif may or may not have been Geoffrey's invention.\n\nThe legend of the Scottish Lailoken who lost his wits in battle is so similar in background to the Myrddin legend, it is considered a version of the same myth, and in fact, there is an aside comment that Lailoken might have been Merlin of Britain though that cannot be ascertained in the source itself, namely the Lailoken fragment or more precisely the Latin fragmentary The Life of Saint Kentigern. There is also a geograph",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    40320,
+    41920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

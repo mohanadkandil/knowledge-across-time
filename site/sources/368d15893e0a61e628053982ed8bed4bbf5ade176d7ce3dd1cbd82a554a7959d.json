@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "motions of the fixed flare concert in flowing, that the fun, with his attending planets, are carried along with a very great motion, which, in all probability, has a familiar ratio to the orbital motion of the earth. This mult make a prolongance change on the earth’s absolute motion, according as her orbital motion coniprices with, opples, or crodis, the other motion, the earth, may even be at absolute left in time points of the orbit. This will the composition with the motions produced in our experiments he for varied, that cafes mg/ occur when the difference of the relutis of the two meatures of force will be very flexible.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.5469,
+    0.6797,
+    0.9482,
+    0.8398
+  ],
+  "offsets": [
+    0,
+    633
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

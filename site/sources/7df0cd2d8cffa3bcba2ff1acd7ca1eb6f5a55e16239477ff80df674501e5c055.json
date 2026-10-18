@@ -1,0 +1,44 @@
+{
+  "id": "wiki-19104225-1185723299-51ea8668320d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mond gas",
+  "text": " rather than steam coal, resulting in cheaper electricity at about 1/20 of the normal price.\n\nThe Mond gas was used primarily during the early 20th century, and its process was further developed by the Power Gas Corporation as the Lymn system; however, the gas has been widely forgotten.\n\nThe use of coal gases has become far less popular due to the adoption of natural gas in the 1960s. Natural gases were better for the environment because they burned more cleanly than other fuels such as coal and oil and could also be transported more safely and efficiently over sea.",
+  "url": "https://en.wikipedia.org/wiki/Mond_gas",
+  "revision_id": 1185723299,
+  "article_id": 19104225,
+  "section_path": "shared_text[0:3452]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3452
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 72794,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "0f05f0f184d363e4130e644e3b190520cb54812377301bad91c93812f466089a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1185723299",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "19104225",
+    "revision_id": "1185723299",
+    "retrieved_at": "2026-10-18T12:30:39.724950+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3452,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-0ddc1a7fff4a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "er Street, police surgeon Homer Jackson (Matthew Rothenberg) performs Marsh's test on the contents of a poisoning victim and determines that the fatal poison was antimony, not arsenic, since the chemical residue deposited by the flames does not dissolve in sodium hypochlorite.\n\nIn episode of the 1957 television series Perry Mason, \" The Case of the Fiery Fingers \" (s01 ep31), a doctor testifying on the stand regarding the victim of a fatal poisoning is asked if he performed a Marsh test to determine that the poison used was arsenic. The doctor confirms that the Marsh test was used and allowed him to identify the poison as arsenic.",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    7838
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

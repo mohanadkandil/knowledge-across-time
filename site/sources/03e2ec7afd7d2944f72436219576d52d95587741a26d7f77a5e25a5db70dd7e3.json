@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "Rudhiman, before-mentioned licence, it can only operate to fleer a flip large (and that but very mildly), and of course, under the circumcision of a leechons, defeat the moll fell earlier tornant as a femman. Several other expeditions have been adopted, which I fault the mention here, as this fine felicles earlyly appear in all.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0264,
+    0.043,
+    0.4863,
+    0.1328
+  ],
+  "offsets": [
+    0,
+    330
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

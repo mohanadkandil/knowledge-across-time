@@ -1,0 +1,44 @@
+{
+  "id": "wiki-156997-1273550732-70f29180c884",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Omar (disambiguation)",
+  "text": "Omar, also spelled Umar (c. 584–644), was a companion of the Islamic prophet Muhammad and the second Rashidun caliph.\n\nIt also may refer to:\n\nOmar (name), Arabic name (including a list of people named Omar, Omer, Umar, Umer, or other variants)\n\nUmmer, Indian actor\n\nOmar (2013 film), a Palestinian drama film\n\nOmar (2024 film), a Bangladeshi action thriller film\n\nUmar (film), a 2006 Bollywood film directed by Karan Razdan\n\nOmar (TV series), a 2012 historical television series on MBC\n\nOmar Little, a character from The Wire, a television series\n\nOmar Zafar, a fictional villain in the 2014 Indian film Bang Bang!, portrayed by Danny Denzongpa\n\nOmar (album), 2005 album by Omar Naber\n\nOmar Lye-Fook or Omar (born 1968), British soul singer\n\nOmar (opera), 2022 American opera inspired by the writings and life of Omar ibn Said (c.1770–1864)\n\nOmar, Kunar, a village in Afghanistan\n\nOmar, Bushehr, a village in Bushehr Province, Iran\n\nOmar, Sulu, a municipality in the Philippines\n\nOmar, Delaware, an unincorporated community\n\nOmar, Ohio, an unincorporated community\n\nOmar, West Virginia, a census-designated place\n\nOmar (candy), a Finnish confectionery brand\n\nUmar (Marvel Comics), a comic book supervillain\n\nThe ICAO code for Arzanah Airport\n\nThe Oil Monopoly Alliance Regime (OMAR), a fictional organization in the Vigilante 8 vehicular combat video game series\n\nThe Omar, a fictional cult in Deus Ex: Invisible War\n\nASM-N-6 Omar, a U.S. Navy air-to-surface missile\n\nHurricane Omar, a 2008 Atlantic hurricane\n\nOrganization for Mine Clearance and Afghan Rehabilitation, a charitable non-governmental ",
+  "url": "https://en.wikipedia.org/wiki/Omar_(disambiguation)",
+  "revision_id": 1273550732,
+  "article_id": 156997,
+  "section_path": "shared_text[0:1612]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 124728,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "755e5bee688d021a6f9ae353e365e1857e6a1f8b1e9f96033b558235d0f8f58e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1273550732",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "156997",
+    "revision_id": "1273550732",
+    "retrieved_at": "2026-10-18T12:40:51.577491+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1612,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

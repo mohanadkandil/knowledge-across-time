@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "Brinin were not equally fortunate. Having imported, long before the period of record, the oriental system, with the restrictive adultusions spirit, they wanted to be taken in their own countries, where it withstand the example of a more generous policy afforded by the major bonding reptiles or Helienic origin, and only yielded at length to the inaccuracy of the language genius of the Christian religion.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1602,
+    0.0859,
+    0.5391,
+    0.1914
+  ],
+  "offsets": [
+    0,
+    406
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

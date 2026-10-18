@@ -1,0 +1,44 @@
+{
+  "id": "wiki-19227781-1340819526-8ae9f826f501",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Alexander von Humboldt (disambiguation)",
+  "text": " Humboldt Medal, awarded by the International Association for Vegetation Science\n\nAlexander von Humboldt Medal (EGU), awarded annually by the European Geosciences Union",
+  "url": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt_(disambiguation)",
+  "revision_id": 1340819526,
+  "article_id": 19227781,
+  "section_path": "shared_text[0:1608]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1608
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "052a205be6e305039c6f7ed831b88a9bdd01ed15cdeb1236a4b1c8a87610095e",
+    "source_row_idx": 26914,
+    "source_shard": "enwiki/data/enwiki_namespace_0_34.parquet",
+    "text_sha256": "afadbd7476183714b0bc6ef5d2b6cb15af57da4ddd0bd026c9b19693f71c3765",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340819526",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "19227781",
+    "revision_id": "1340819526",
+    "retrieved_at": "2026-10-18T12:31:58.402090+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1608,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

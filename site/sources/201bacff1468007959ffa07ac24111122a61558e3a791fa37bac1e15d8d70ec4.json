@@ -1,0 +1,44 @@
+{
+  "id": "wiki-41288742-1316445173-d36ca9b79be8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mucuna bracteata",
+  "text": "Mucuna bracteata is a species of leguminous plant in the family Fabaceae. It is a nitrogen -regulating plant that is used in agroecosystems operating around certain types of agricultural plant systems including: rubber trees, oil palm, citrus and coconut. M. bracteate is a cover crop which helps to cover and shield the soil from weeds or plants, as well as providing rapid growth for existing agricultural crops, preventing soil erosion, and providing nitrogen fixation. The Mucuna bracteata crop grows about 10–15 cm/day in conditions similar to those that rubber and palm oil plants thrive in.\n\nMucuna bracteata grows in a warm and humid ecosystem, at a temperature of about 20-35 degrees Celsius, and consistent annual rainfall. Originating in the North Eastern areas of India, M. bracteata has been introduced into Hevea rubber plantations in India and oil palm plantations in Malaysia. This plant has the potential to increase soil fertility and health through the processes of natural soil fertilization and aeration, furthermore, providing a sustainable water retention level for the soil beyond the current conditions of the rubber and palm oil plantation fields.\n\nMucuna bracteata has green leaf foliage with leguminous nodules producing fixed nitrogen leading to amino acids. The seed of the legume of the Mucuna bracteata weighs about 90–190 mg each and is black in colour. This seed, as it is a legume, provides health benefits on its own, individually, for direct consumption. The foliage of the plant creates a shade covering over the soil it occupies, having a height of approximatel",
+  "url": "https://en.wikipedia.org/wiki/Mucuna_bracteata",
+  "revision_id": 1316445173,
+  "article_id": 41288742,
+  "section_path": "shared_text[0:2922]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 78999,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "3b2653d6999691b7ea8884883a09de073ee65f0a3feed4b4d13fde717811f57b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1316445173",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "41288742",
+    "revision_id": "1316445173",
+    "retrieved_at": "2026-10-18T12:38:46.421729+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2922,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

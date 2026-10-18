@@ -1,0 +1,44 @@
+{
+  "id": "wiki-63993517-1340292182-6682c2ed7b2b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Escaped Chasm",
+  "text": " using the RPG Maker MV engine. Chang worked on art and animation while Fox composed the soundtrack for the game. Chang also had contributors help with additional music and sound design, with James Roach providing the supporting music. Her initial goal was to form a storyline and practice game development to create better projects in the future. Escaped Chasm was released on April 2, 2019, as freeware on Itch.io. On July 10, 2020, Chang released Dweller's Empty Path, an RPG Maker game that takes place within Escaped Chasm ' s universe; Toby Fox again helped to compose the music, joined by Japanese composer Camellia.\n\nEscaped Chasm was praised for its animation, visuals, music, and themes. Fraser Brown of PC Gamer called the game \"brief but striking\" and described the visuals as \"lonely and occasionally unsettling\". Rock Paper Shotgun ' s Dominic Tarason described it as heartfelt and liked the juxtaposition of red and blue color schemes in one of the game's cutscenes. Tarason said that it made the story feel \"too real and oppressive\" and contrasted it with the in-game pixel art. Reviewers commended Fox's music and compared the game to Undertale from its similar themes and dialogue.",
+  "url": "https://en.wikipedia.org/wiki/Escaped_Chasm",
+  "revision_id": 1340292182,
+  "article_id": 63993517,
+  "section_path": "shared_text[0:2639]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2639
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 7092,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "22ab848d64a2e708008398da5709bc152beacdbc5dacc370ce276bd1bf0a221b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340292182",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "63993517",
+    "revision_id": "1340292182",
+    "retrieved_at": "2026-10-18T12:38:33.032013+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2639,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

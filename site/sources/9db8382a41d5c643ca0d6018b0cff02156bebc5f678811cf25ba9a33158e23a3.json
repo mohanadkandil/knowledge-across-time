@@ -1,0 +1,44 @@
+{
+  "id": "wiki-76259802-1338748777-35e38c52cb46",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel chewing in China",
+  "text": "al tract or help someone feel less cold. Betel nut is also used as an offering used in Buddhist rituals and to express love.\n\nBetel nut is grown mostly in Hainan and is processed in Hunan. Hainan province is home to over 95 percent of the country's betel nut planting area, and millions of farmers rely on the industry as their main source of income. China also imports betel nuts from India.\n\nBy 2018, there were more than 60 million Chinese chewing the nuts, and the nut consumers exceeded 100 million in 2021. There are some 260,000 betel nut companies in China. From 2011 to 2018, the output value of China's betel nut industry increased from 55.8 billion yuan to 78.1 billion yuan. Chewing betel nut is most rife in more southern provinces, like Hunan, Hainan and Guizhou. A survey of 1,305 pupils and middle school students in the Hunan city of Xiangtan found that nearly 70 percent of the respondents admitted they had tried betel nuts and 8.4 percent of them said they chew them every day. The chewing rate of betel nuts among residents in Hunan was 38.40 percent in 2011. The value of betel nut production in Hunan was estimated at 30 billion yuan and growing. According to Cao Yu, a lecturer at Jinan University, the latter-day popularity of betel nuts in China is a product of the mutual influence of three stakeholders that industry, local governments, and the public.\n\nBetel nut is an addictive stimulant. The International Agency for Research, a group sponsored by the World Health Organization, has listed areca nuts and betel leaves as carcinogens causing agents. It said that long-te",
+  "url": "https://en.wikipedia.org/wiki/Betel_chewing_in_China",
+  "revision_id": 1338748777,
+  "article_id": 76259802,
+  "section_path": "shared_text[0:5056]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 70548,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "7db4d84d4b6316c647c0bd1074de26f107a3a740121154b2a2ba1ec0b2912327",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338748777",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "76259802",
+    "revision_id": "1338748777",
+    "retrieved_at": "2026-10-18T12:37:13.537480+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5056,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

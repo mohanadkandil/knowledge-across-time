@@ -1,0 +1,44 @@
+{
+  "id": "wiki-32034815-1353823839-fbfc2066ba65",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Conic Sections Rebellion",
+  "text": " which ended the Conic Sections Rebellion of 1825.\n\nPrior to the introduction of blackboards, Yale students had been allowed to consult diagrams in their textbooks when solving geometry problems pertaining to conic sections – even on exams. When the students were no longer allowed to consult the text, but were instead required to draw their own diagrams on the blackboard, they refused to take the final exam. As a result, forty-three of the ninety-six students – among them, Alfred Stillé, and Andrew Calhoun, the son of John C. Calhoun – were summarily expelled, and Yale authorities warned neighboring universities against admitting them.",
+  "url": "https://en.wikipedia.org/wiki/Conic_Sections_Rebellion",
+  "revision_id": 1353823839,
+  "article_id": 32034815,
+  "section_path": "shared_text[0:2083]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2083
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7b629e6f7f330f34765c0c941e787f1d06f1caaaf060583a9284690086784b7d",
+    "source_row_idx": 11809,
+    "source_shard": "enwiki/data/enwiki_namespace_0_79.parquet",
+    "text_sha256": "76ed1f7f81870890629c0c82eeff2884b81c49e51e1a7007cf7b0ac76dc12a77",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353823839",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "32034815",
+    "revision_id": "1353823839",
+    "retrieved_at": "2026-10-18T12:38:05.884978+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2083,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1801-cb1efd626dfe:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1801-cb1efd626dfe",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 1, A-ANG - EB.5",
+  "text": "**A L G E B R A.**",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1801",
+  "provenance": {
+    "page_id": "bri-1801-cb1efd626dfe",
+    "row_index": 1801,
+    "volume_id": "190273291",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 1, A-ANG - EB.5",
+    "label": 0,
+    "sha256": "cb1efd626dfe512b99ee297ecf32f9c54d220d34efffac9442dbf2ed561195ac",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1801-cb1efd626dfe.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1801",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.3506,
+    0.0359,
+    0.7051,
+    0.0594
+  ],
+  "offsets": [
+    0,
+    18
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

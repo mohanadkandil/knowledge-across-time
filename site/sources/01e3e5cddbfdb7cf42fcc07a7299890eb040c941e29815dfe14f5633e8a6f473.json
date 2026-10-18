@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5112159-1060581269-c5ce296a450c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Cutts",
+  "text": "John Cutts may refer to:\n\nSir John Cutts (died 1615), English MP\n\nSir John Cutts (died 1646), English MP, son of above\n\nJohn Cutts, 1st Baron Cutts (1661–1707), British soldier and author\n\nJohn Cutts (jockey) (c. 1829 – 1872), Australian jockey\n\nSir John Cutts, 1st Baronet (c. 1634 – 1670), of the Cutts baronets\n\nJohn Edward Knight Cutts (1847–1938), English ecclesiastical architect",
+  "url": "https://en.wikipedia.org/wiki/John_Cutts",
+  "revision_id": 1060581269,
+  "article_id": 5112159,
+  "section_path": "shared_text[0:385]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    385
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 134542,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "369b5a4648f32c05dcb0f389e7c50c5f6c54455ccafb0ba903d2d27efb5eb259",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1060581269",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5112159",
+    "revision_id": "1060581269",
+    "retrieved_at": "2026-10-18T12:42:19.701773+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 385,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

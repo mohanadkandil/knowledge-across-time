@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17273443-1350262818-cfb0ce08abca",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Roman–Parthian Wars",
+  "text": "n the East, he re-opened negotiations with Phraates III; they came to an agreement and Roman–Parthian troops invaded Armenia in 66/65 BC, but soon a dispute arose over Euphrates boundary between Rome and Parthia. Pompey refused to recognize the title of \"King of Kings\" for Phraates, and offered arbitration between Tigranes and the Parthian king over Corduene. Finally, Phraates asserted his control over Mesopotamia, except for the western district of Osroene, which became a Roman dependency.\n\nIn 53 BC, Crassus led an invasion of Mesopotamia, with catastrophic results; at the Battle of Carrhae, Crassus and his son Publius were defeated and killed by a Parthian army under General Surena. The bulk of his force was either killed or captured; of 42,000 men, about half died, a quarter made it back to Syria, and the remainder became prisoners of war. Rome was humiliated by this defeat, and this was made even worse by the fact that the Parthians had captured several Legionary Eagles. It is also mentioned by Plutarch that the Parthians found the Roman prisoner of war that resembled Crassus the most, dressed him as a woman and paraded him through Parthia for all to see. This, however, could easily be Roman propaganda. Orodes II, with the rest of the Parthian Army, defeated the Armenians and captured their country. However, Surena's victory invoked the jealousy of the Parthian king, and he ordered Surena's execution. Following Surena's death, Orodes II himself took command of the Parthian army and led an unsuccessful military campaign into Syria. The Battle of Carrhae was one of the fi",
+  "url": "https://en.wikipedia.org/wiki/Roman%E2%80%93Parthian_Wars",
+  "revision_id": 1350262818,
+  "article_id": 17273443,
+  "section_path": "shared_text[0:13315]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 3055,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "abe5f9f3488d2c0c4994873c482b5422d17a452c6700b0a2f3316396a3d664e0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350262818",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17273443",
+    "revision_id": "1350262818",
+    "retrieved_at": "2026-10-18T12:38:56.863559+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13315,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

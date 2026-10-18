@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "cleared from the earth or urine, is returned to the former lands to have the lesser fills, small straws, &c taken off as letters then it is returning to the fuller to be heat and pulled with hot water, wherein a suitable quantity of some been dissolved after filing, it is taken out to be smoothed on pulled by the lists lengthwise, to take out the wrinkles, crevices, &c.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0508,
+    0.0578,
+    0.4443,
+    0.1664
+  ],
+  "offsets": [
+    0,
+    372
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

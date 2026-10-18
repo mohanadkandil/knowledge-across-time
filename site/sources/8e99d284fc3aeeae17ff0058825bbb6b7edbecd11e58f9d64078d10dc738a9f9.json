@@ -1,0 +1,44 @@
+{
+  "id": "wiki-652653-1353189992-f9b74bb57057",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint",
+  "text": "Mint or The Mint may refer to:\n\nLamiaceae, the mint family\n\nMentha, the genus of plants commonly known as \"mint\"\n\nMint (facility), a facility for manufacturing coins\n\nMint condition, a state of like-new quality\n\nMint, in the video game Threads of Fate\n\nMr. Mint, a character in the board game series Candy Land\n\nMint, a Ranma ½ character\n\nMint Adnade, in the video game Tales of Phantasia\n\nMint Aizawa, in the anime and manga Tokyo Mew Mew\n\nMint Blancmanche, in the video game/anime series Galaxy Angel\n\nMint Fantôme, independent VTuber\n\nMint (film), a Japanese drama\n\nThe Mint (film), a 2015 American comedy\n\nThe Mint (Australia game show), 2007–2008\n\nThe Mint (British game show), 2006–2007\n\nMint (TV series), British crime drama series, 2026\n\nMint (band), a Belgian music group\n\nMint (singer) (born 1994), a Thai singer based in South Korea\n\nMint Records, a record label\n\nMint (Alice Merton album), 2019\n\nMint, a 1983 album by Meiko Nakahara\n\nMint, a 2003 album by Alexkid in collaboration with Liset Alea\n\n\"Mint\" (Namie Amuro song), 2016\n\n\"Mint\" (Rina Aiuchi song), 2007\n\n\"Mint\" (Lindsay Ell song), 2017\n\n\"Mint\" (Misako Uno song), 2019\n\n\"The Mint\", a song by Earl Sweatshirt from the 2018 album Some Rap Songs\n\nMint (newspaper), a business newspaper published in India\n\nThe Mint (book), by T. E. Lawrence, 1955\n\nMint (restaurant), in Dublin, Ireland\n\nIntuit Mint, formerly Mint.com, a personal financial management website and mobile app\n\nMalaysian Institute of Nuclear Technology Research, now Malaysian Nuclear Agency\n\nMinor International, a hospitality company, Stock Exchange of Thailand symb",
+  "url": "https://en.wikipedia.org/wiki/Mint",
+  "revision_id": 1353189992,
+  "article_id": 652653,
+  "section_path": "shared_text[0:2756]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4ddb308459323163b83c0758c11dbaee347c4ab9275d48b7d8e597f3a291abd4",
+    "source_row_idx": 24919,
+    "source_shard": "enwiki/data/enwiki_namespace_0_71.parquet",
+    "text_sha256": "b993737a50d1c55aa6b932942a068202d7cd84d98bdf1b1d7fecf1c1ab5f3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353189992",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "652653",
+    "revision_id": "1353189992",
+    "retrieved_at": "2026-10-18T12:37:24.166837+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2756,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

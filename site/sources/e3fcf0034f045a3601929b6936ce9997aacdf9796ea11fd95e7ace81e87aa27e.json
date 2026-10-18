@@ -1,0 +1,44 @@
+{
+  "id": "wiki-40333401-1137676329-c90804683f11",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Listed buildings in Cheshire",
+  "text": "\nListed buildings in Churton by Aldford\n\nListed buildings in Churton by Farndon\n\nListed buildings in Clotton Hoofield\n\nListed buildings in Clutton, Cheshire\n\nListed buildings in Coddington, Cheshire\n\nListed buildings in Comberbach\n\nListed buildings in Congleton\n\nListed buildings in Cotton Edmunds\n\nListed buildings in Cranage\n\nListed buildings in Crewe\n\nListed buildings in Crewe Green\n\nListed buildings in Croft, Cheshire\n\nListed buildings in Crowton\n\nListed buildings in Cuddington, Cheshire\n\nListed buildings in Culcheth and Glazebury\n\nListed buildings in Darnhall\n\nListed buildings in Davenham\n\nListed buildings in Delamere, Cheshire\n\nListed buildings in Disley\n\nListed buildings in Dodcott cum Wilkesley\n\nListed buildings in Doddington, Cheshire\n\nListed buildings in Dodleston\n\nListed buildings in Duckington\n\nListed buildings in Duddon\n\nListed buildings in Dunham on the Hill\n\nListed buildings in Dutton, Cheshire\n\nListed buildings in Eaton, Cheshire East\n\nListed buildings in Eaton, west Cheshire\n\nListed buildings in Eccleston, Cheshire\n\nListed buildings in Edge, Cheshire\n\nListed buildings in Edleston\n\nListed buildings in Ellesmere Port\n\nListed buildings in Elton, Cheshire\n\nListed buildings in Faddiley\n\nListed buildings in Farndon, Cheshire\n\nListed buildings in Foulk Stapleford\n\nListed buildings in Frodsham\n\nListed buildings in Gawsworth\n\nListed buildings in Golborne Bellow\n\nListed buildings in Golborne David\n\nListed buildings in Goostrey\n\nListed buildings in Grappenhall and Thelwall\n\nListed buildings in Great Boughton\n\nListed buildings in Great Budworth\n\nListed buildings in Great",
+  "url": "https://en.wikipedia.org/wiki/Listed_buildings_in_Cheshire",
+  "revision_id": 1137676329,
+  "article_id": 40333401,
+  "section_path": "shared_text[0:10761]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 247278,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "a67800ecb864c518292a97a36483fffd1b5e23a1faa9ed6c42727b6521473fa2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1137676329",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "40333401",
+    "revision_id": "1137676329",
+    "retrieved_at": "2026-10-18T12:39:46.286077+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10761,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

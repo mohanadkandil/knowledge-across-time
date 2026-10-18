@@ -1,0 +1,44 @@
+{
+  "id": "wiki-27019871-1325232573-cef9621c93db",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Libat, Kenya",
+  "text": "Libat is a settlement in Kenya 's Garissa County.\n\nAround 2016, a plan was conceived to build a wall to prevent cross-border attacks from Somalia. One of the proposed sections was a 445 kilometre wall extending from Elwak to Libat. Another was a 105 kilometre wall from Libat to Kiunga.",
+  "url": "https://en.wikipedia.org/wiki/Libat,_Kenya",
+  "revision_id": 1325232573,
+  "article_id": 27019871,
+  "section_path": "shared_text[0:286]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    286
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 92497,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "dbe1e5fca04c3b713b83f25c2df983b3eace32d205548181e9ba4e4c289cced2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325232573",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "27019871",
+    "revision_id": "1325232573",
+    "retrieved_at": "2026-10-18T12:29:16.697104+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 286,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3317736-1340089899-99453a75fc8a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint mark",
+  "text": "n the Spanish Milled Dollar. The United States of America established mints in Charlotte, North Carolina and Dahlonega, Georgia in 1838 after the Georgia Gold Rush and put its first mint marks on the gold coins struck there. Like other countries, the United States has since placed mint marks not only on its own coins but also those of its territories, such as the Philippines, and other countries for which it has contracts to strike coins, such as Fiji.\n\nIn the 19th century, numismatists (coin collectors) did not generally collect coins according to mint mark; rather, they attempted to obtain date sets of coins. A turnaround began after 1893, when A. G. Heaton 's \"A Treatise on Coinage of the United States Branch Mints\" was published. Heaton cited example after example of mint-marked coins that were much scarcer than Philadelphia products and that should bring high premiums. When the United States abandoned silver coinage in 1964, mint marks were removed from the new copper-nickel coins in the belief that it would reduce the removal of coins from circulation by collectors. The silver coins quickly disappeared from circulation, and it was feared that if collectors saved too many of the new coins, there would be a serious shortage of coinage. Mint marks were returned to United States coins in 1968.\n\nThe current mint marks on United States coinage are P, D, S, and W for the four currently operating U.S. Mints. The letter P is used for the Philadelphia Mint, D for the Denver Mint, S for the San Francisco Mint, and W for the West Point Mint.\n\nThere have been nine official United ",
+  "url": "https://en.wikipedia.org/wiki/Mint_mark",
+  "revision_id": 1340089899,
+  "article_id": 3317736,
+  "section_path": "shared_text[0:9990]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 42204,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "ffd911e1f1ff0e17c7001481d703f5040fdb330b7ec6a5b5a95a2da948bfa811",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340089899",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3317736",
+    "revision_id": "1340089899",
+    "retrieved_at": "2026-10-18T12:37:25.086600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9990,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1203089-1318168003-7a93dc1c9c97",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Torsional vibration",
+  "text": "ons and the track geometry (especially when driving on a curve section of the track). In many modern mechanical systems, torsional structural deformability plays an important role. Often the study of railway vehicle dynamics using the rigid multibody methods without torsionally deformable elements are used This approach does not enable analysis of the self-excited vibrations, which have an important influence on the wheel-rail longitudinal interaction. A dynamic modelling of the electrical drive systems coupled with elements of a driven machine or vehicle is particularly important when the purpose of such modelling is to obtain an information about the transient phenomena of system operation, like run-up, run-down, and the loss of adhesion in the wheel-rail zone. The modelling of an electromechanical interaction between the electric driving motor and the machine also influence the self-excited torsional vibrations in the drive system.\n\nThe most common way to measure torsional vibration is the approach of using equidistant pulses over one shaft revolution. Dedicated shaft encoders as well as gear tooth pickup transducers (induction, hall-effect, variable reluctance, etc.) can generate these pulses. The resulting encoder pulse train is converted into either a digital rpm reading or a voltage proportional to the rpm.\n\nThe use of a dual-beam laser is another technique that is used to measure torsional vibrations. The operation of the dual-beam laser is based on the difference in reflection frequency of two perfectly aligned beams pointing at different points on a shaft. Despite",
+  "url": "https://en.wikipedia.org/wiki/Torsional_vibration",
+  "revision_id": 1318168003,
+  "article_id": 1203089,
+  "section_path": "shared_text[0:11720]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 11082,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "0d57bba643dcdc9567e587963a11eafbc757dad5b6ba45f2a98c3aeb6876f411",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318168003",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1203089",
+    "revision_id": "1318168003",
+    "retrieved_at": "2026-10-18T12:39:24.775377+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 11720,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3020422-1338601062-21ae06c46637",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carl Stål",
+  "text": "pterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 4. Kongliga Svenska Vetenskaps-Akademiens Handlingar. 12(1):1-186",
+  "url": "https://en.wikipedia.org/wiki/Carl_St%C3%A5l",
+  "revision_id": 1338601062,
+  "article_id": 3020422,
+  "section_path": "shared_text[0:3051]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3051
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 32731,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "4afc781d40d8ed54ec6f0d79629a0c738d9cdbd9cb317d47a6d149a9ed75cad4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338601062",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3020422",
+    "revision_id": "1338601062",
+    "retrieved_at": "2026-10-18T12:38:02.275304+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3051,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

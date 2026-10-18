@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-16ee786329b2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "nt of Lundenwic and a revival of life and trade within the old Roman walls. This was part Alfred's policy of building an in-depth defence of the Kingdom of Wessex against the Vikings as well as creating an offensive strategy against the Vikings who controlled Mercia. The burh of Southwark was also created on the south bank of the River Thames during this time.\n\nThe city walls of London were repaired as the city slowly grew until about 950 when urban activity increased dramatically. A large Viking army that attacked the London burgh was defeated in 994.\n\nBy the 11th century, London was beyond all comparison the largest town in England. Old St Paul's Cathedral, rebuilt in the Romanesque style by King William the Conqueror and his successors, was on its completion one of the longest churches in Europe. Winchester had previously been the capital of Anglo-Saxon England, but from this time on, London was the main forum for foreign traders and the base for defence in time of war. In the view of Frank Stenton: \"It had the resources, and it was rapidly developing the dignity and the political self-consciousness appropriate to a national capital.\"\n\nThe size and importance of London led to the redevelopment of the city's defences. During the early medieval period – following the Norman Conquest of England – the walls underwent substantial work that included crenellations, additional gates and further towers and bastions. Aside from the seven City Wall gates and the four bars, there are the 13 water-gates on the Thames where goods were unloaded from ships. These include Billingsgate an",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

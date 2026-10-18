@@ -1,0 +1,44 @@
+{
+  "id": "wiki-91111-1346228572-23c3e477feee",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angle trisection",
+  "text": "o any number of equal parts.Archimedes described how to trisect an angle using the Archimedean spiral in On Spirals around 225 BC.\n\nAnother means to trisect an arbitrary angle by a \"small\" step outside the Greek framework is via a ruler with two marks a set distance apart. The next construction is originally due to Archimedes, called a Neusis construction, i.e., that uses tools other than an un-marked straightedge. The diagrams we use show this construction for an acute angle, but it indeed works for any angle up to 180 degrees.\n\nThis requires three facts from geometry (at right):\n\nAny full set of angles on a straight line add to 180°,\n\nThe sum of angles of any triangle is 180°, and,\n\nAny two equal sides of an isosceles triangle will meet the third side at the same angle.\n\nLet l be the horizontal line in the adjacent diagram. Angle a (left of point B) is the subject of trisection. First, a point A is drawn at an angle's ray, one unit apart from B. A circle of radius AB is drawn. Then, the markedness of the ruler comes into play: one mark of the ruler is placed at A and the other at B. While keeping the ruler (but not the mark) touching A, the ruler is slid and rotated until one mark is on the circle and the other is on the line l. The mark on the circle is labeled C and the mark on the line is labeled D. This ensures that CD = AB. A radius BC is drawn to make it obvious that line segments AB, BC, and CD all have equal length. Now, triangles ABC and BCD are isosceles, thus (by Fact 3 above) each has two equal angles.\n\nHypothesis: Given AD is a straight line, and AB, BC, and ",
+  "url": "https://en.wikipedia.org/wiki/Angle_trisection",
+  "revision_id": 1346228572,
+  "article_id": 91111,
+  "section_path": "shared_text[0:14700]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 50196,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "e908650253b10099b5416141c04ec4e463f654589360793aabd4faf5c52dbf9e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346228572",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "91111",
+    "revision_id": "1346228572",
+    "retrieved_at": "2026-10-18T12:40:09.908163+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 14700,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

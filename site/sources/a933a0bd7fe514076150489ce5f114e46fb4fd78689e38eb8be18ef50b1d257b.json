@@ -1,0 +1,49 @@
+{
+  "id": "wiki-1506160-1323010285-201f126e4cb3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julian Symons",
+  "text": "r 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nDeath for Mr Golightly. (London) Evening Standard, 22 December 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nA Pearl among Women. (London) Evening Standard, 26 January 1953. Collected in Murder! Murder! (Francis Quarles)\n\nThe Duke of York. (London) Evening Standard, 27 January 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Conjuring Trick. (London) Evening Standard, 28 January 1953. Collected in The Man Who Hated Television and The Detections of Francis Quarles (Francis Quarles)\n\nNo Deception. (London) Evening Standard, 29 January 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Link. (London) Evening Standard, 30 January 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nA Man with Blue Hair. (London) Evening Standard, 31 January 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Swedish Nightingale. (London) Evening Standard, 14 September 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Two Suitors. (London) Evening Standard, 15 September 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nTattoo. (London) Evening Standard, 16 September 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Collector. (London) Evening Standard, 18 September 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nJack and Jill. (London) Evening Standard, 19 September 1953; also published as Death by Drowning.",
+  "url": "https://en.wikipedia.org/wiki/Julian_Symons",
+  "revision_id": 1323010285,
+  "article_id": 1506160,
+  "section_path": "shared_text[0:30404]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    15840,
+    17440
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 17869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "c1943e2d6de5cd44100db2cea968bf9e3a781fa85f0cee9c4f3d7ad3cec48c6d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323010285",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1506160",
+    "revision_id": "1323010285",
+    "retrieved_at": "2026-10-18T12:24:02.424223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 10404,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-55490959-1334464419-735a14e27ccd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Eastern Gas Board",
+  "text": " Company\n\nEarls Colne Gas Light and Coke Company\n\nEast Dereham Urban District Council\n\nEastern Electricity Board\n\nEly Gas and Electricity Company\n\nFakenham Gas and Coke Company\n\nFirst Garden City\n\nFramlingham Gas Light Company\n\nGorleston and Southtown Gas Company\n\nGreat Yarmouth Gas Company\n\nHadleigh Gas Consumers' Company\n\nHalesworth Gas Company\n\nHalstead Gas Company\n\nHarwich Gas and Coke Company\n\nHaverhill Urban District Council\n\nHuntingdon and Godmanchester Gas and Coke Company\n\nIpswich Gas Light Company\n\nKelvedon Coggleshall Gas Company\n\nKing’s Lynn Gas Company\n\nLeiston Gas Company\n\nLittleport Gas Company\n\nLodden Gas Consumers' Company\n\nLowestoft Water and Gas Company\n\nLuton Gas Company\n\nMaldon Gas Light Company\n\nManningtree and Mistley Gas Company\n\nMarch Gas and Coke Company\n\nMundesley and Holt Gas Company\n\nNeedham Market Gas Light Company\n\nNew Hunstanton Urban District Council\n\nNewmarket Gas Company\n\nNorth Walsham Gas Light Coke Company\n\nPeterborough Gas Company\n\nPotton Gas Company\n\nRamsey Gas Company\n\nRoyston Gas Company\n\nSaffron Walden Corporation\n\nSt. Ives (Hunts) Gas Company\n\nSt. Margaret's Gas Company\n\nSt. Neots Gas and Coke Company\n\nSandy Gas Company\n\nSaxmundham Gas Company\n\nSheringham Gas and Water Company\n\nSoham and District Gas Company\n\nSouthminster Gas Company\n\nSouthwold Gas Light Company\n\nStowmarket Gas Light and Coke Company\n\nSudbury Gas and Coke Company\n\nSwaffham Gas Light and Coke Company\n\nTendring Hundred Waterworks Company\n\nTottenham and District Gas Company\n\nWatford and St. Albans Gas Company\n\nWatton Gas Coke Company\n\nWells-next-the-Sea Urban District",
+  "url": "https://en.wikipedia.org/wiki/Eastern_Gas_Board",
+  "revision_id": 1334464419,
+  "article_id": 55490959,
+  "section_path": "shared_text[0:3190]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 93289,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "758a08ff56c16f92faca113a23c09ceebf2b82dbb890cd14f786684a35ed2c1f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334464419",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "55490959",
+    "revision_id": "1334464419",
+    "retrieved_at": "2026-10-18T12:30:35.972721+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3190,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-25852931-1209761031-eb50948a54f3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Drown (disambiguation)",
+  "text": "Drowning is respiratory impairment from being in or under a liquid.\n\nDrown may also refer to:\n\nDrown (short story collection), a short-story collection by Junot Díaz\n\nDrown (surname), a surname and list of people with the surnames Drown and Drowne\n\nDROWN attack, a computer security exploit\n\n\"Drown\" (Bring Me the Horizon song), 2014\n\n\"Drown\" (Justin Timberlake song), 2024\n\n\"Drown\" (Martin Garrix song), 2020\n\n\"Drown\" (The Smashing Pumpkins song), 1992\n\n\"Drown\" (Theory of a Deadman song), 2014\n\n\"Drown\", by 40 Below Summer from Invitation to the Dance\n\n\"Drown\", by Blindspott from End the Silence\n\n\"Drown\", by Carolina Liar from Wild Blessed Freedom\n\n\"Drown\", by Front Porch Step from Aware\n\n\"Drown\", by Gravity Kills from Perversion\n\n\"Drown\", by Limp Bizkit from Results May Vary\n\n\"Drown\", by Son Volt from Trace\n\n\"Drown\", by Three Days Grace from the eponymous album\n\n\"Drown\", by Tyler Joseph from No Phun Intended",
+  "url": "https://en.wikipedia.org/wiki/Drown_(disambiguation)",
+  "revision_id": 1209761031,
+  "article_id": 25852931,
+  "section_path": "shared_text[0:918]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    918
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 11080,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "f7757dab29761c8deeb2b104887ba7754013411d7d2694d7a8114a99c463ae8b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1209761031",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "25852931",
+    "revision_id": "1209761031",
+    "retrieved_at": "2026-10-18T12:41:22.429047+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 918,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

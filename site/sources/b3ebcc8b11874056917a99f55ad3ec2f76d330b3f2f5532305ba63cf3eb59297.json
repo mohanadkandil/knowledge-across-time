@@ -1,0 +1,36 @@
+{
+  "id": "bri-1001-6dc406c9bf02:region-2:2880",
+  "kind": "britannica",
+  "page_id": "bri-1001-6dc406c9bf02",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+  "text": "mage, and after our likemek? From hence I observe this difference between the formation of an-mals and of man, that in one God gave a prolific",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+  "provenance": {
+    "page_id": "bri-1001-6dc406c9bf02",
+    "row_index": 1001,
+    "volume_id": "191678897",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+    "label": 0,
+    "sha256": "6dc406c9bf0283353802ff585a62b3fc16c241b290149978292c4854d694bd3d",
+    "width": 600,
+    "height": 791,
+    "image_file": "../images/bri-1001-6dc406c9bf02.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0166,
+    0.4781,
+    0.4697,
+    0.9422
+  ],
+  "offsets": [
+    2880,
+    3022
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

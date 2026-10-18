@@ -1,0 +1,36 @@
+{
+  "id": "bri-0107-3570cc46e9ae:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0107-3570cc46e9ae",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+  "text": "college an endowment for a professor of astronomy. A robot of medicine was established by act of parliament in 1703, consisting of three professionals and attending and faculty, two professionals of modern language were female at 1777. These with the exception of the professionally political economy, and philosophy, and bibliotkics are the only professorships which can hold by persons who are not followed. The following is a table of the professionals and lecturerships with the date of foundation, and the patronage:",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+  "provenance": {
+    "page_id": "bri-0107-3570cc46e9ae",
+    "row_index": 107,
+    "volume_id": "193819045",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+    "label": 0,
+    "sha256": "3570cc46e9ae7b4e2457fd195c7ce9cfa8598bd3ebab3c8e9c4489066acfbcda",
+    "width": 600,
+    "height": 869,
+    "image_file": "../images/bri-0107-3570cc46e9ae.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.5723,
+    0.05,
+    0.9717,
+    0.1461
+  ],
+  "offsets": [
+    0,
+    521
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

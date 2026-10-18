@@ -1,0 +1,44 @@
+{
+  "id": "wiki-37868-1252869079-14cf66fda770",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Porphyry",
+  "text": "op of Gaza\n\nPorphyrius the Charioteer (fl. 5th/6th centuries), Roman charioteer\n\nPorphyrios Dikaios (1904–1971), Greek Cypriot archaeologist\n\nPorphyrios of Kafsokalyvia (1906–1991), Greek Athonite hieromonk and Eastern Orthodox saint\n\nDemetri Porphyrios (born 1949), Greek architect\n\nPorfirije, Serbian Patriarch (born 1961), 46th Patriarch of the Serbian Orthodox Church",
+  "url": "https://en.wikipedia.org/wiki/Porphyry",
+  "revision_id": 1252869079,
+  "article_id": 37868,
+  "section_path": "shared_text[0:1811]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1811
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 49921,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "1ff9fd86492cbe1e9598ab66d4a9d8831b71884c284322eaa2536c35a18a89ca",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1252869079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "37868",
+    "revision_id": "1252869079",
+    "retrieved_at": "2026-10-18T12:31:46.808052+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1811,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0880-44d798724e1f:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0880-44d798724e1f",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+  "text": "The election or backwarded of that great men formed to make an important upon James. He has chosen a frong camp in the neighbourhood at Fork on the fate of a moment called Poddishally, and he was transported from the English army by the river Till. This advantageous finition put the end of Surry durd dergrate difficult to it renders the Scottish army inaccessible, as it was fortified by artillery, and was now well together with with previously the change of its formation. The Earl does we a martially, which he charged Rouge Crock herself, who was attended by a tromper, is contained from people for an ex chance of prisoners, which means to have been calculuel to give this July Ford the more credit with James but concluded with responsible for his jurisdiction arra-fion of England, and a defence to James to fight him in general battle. The Israel was further charged with a verbal committee in sequence James, that the Earl of Surry had filled orders that no quarter should be given to any of the Scotch army but the king himself.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+  "provenance": {
+    "page_id": "bri-0880-44d798724e1f",
+    "row_index": 880,
+    "volume_id": "191253800",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+    "label": 0,
+    "sha256": "44d798724e1f312abd92caaf5ee58d36a1e8250b055cfdbc3387e4b59c34ae2c",
+    "width": 600,
+    "height": 754,
+    "image_file": "../images/bri-0880-44d798724e1f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0732,
+    0.1508,
+    0.4932,
+    0.4188
+  ],
+  "offsets": [
+    0,
+    1040
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

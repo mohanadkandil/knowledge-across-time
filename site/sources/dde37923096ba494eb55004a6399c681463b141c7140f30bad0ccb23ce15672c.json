@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-36c4f0ea10ab",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "Aquatint is an intaglio printmaking technique, a variant of etching that produces areas of tone rather than lines. For this reason it has mostly been used in conjunction with etching, to give both lines and shaded tone. It has also been used historically to print in colour, both by printing with multiple plates in different colours, and by making monochrome prints that were then hand-coloured with watercolour. The term colour etching, frequently used in the art trade, is potentially ambiguous, but most often means one of these two options.\n\nIt has been in regular use since the later 18th century, and was most widely used between about 1770 and 1830, when it was used both for artistic prints and decorative ones. After about 1830 it lost ground to lithography and other techniques. There have been periodic revivals among artists since then. An aquatint plate wears out relatively quickly, and is less easily reworked than other intaglio plates. Many of Goya's plates were reprinted too often posthumously, giving very poor impressions.\n\nAmong the most famous prints using the aquatint technique are the major series by Goya, many of The Birds of America by John James Audubon (with the colour added by hand), and prints by Mary Cassatt printed in colour using several plates.\n\nIn intaglio printmaking techniques such as engraving and etching, the artist makes marks into the surface of the plate (in the case of aquatint, a copper or zinc plate) that are capable of holding ink. The plate is inked all over then wiped clean to leave ink only in the marks. The plate is passed through a print",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

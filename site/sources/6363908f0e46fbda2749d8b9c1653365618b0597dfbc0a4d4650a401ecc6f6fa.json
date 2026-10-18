@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33770660-1353284089-2bf431ef00d7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bhe v Magistrate, Khayelitsha",
+  "text": "ween the houses in such unions, the estate should devolve in such a way that persons in the same class or category received an equal share.\n\nThe advantage of using section 1 of the Intestate Succession Act as the basic mechanism for determining the content of the interim regime was that extra-marital children, women who were survivors in monogamous unions, unmarried women and all children would not be discriminated against. However, the section provided for only one surviving spouse and would need to be tailored to accommodate situations where there was more than one surviving spouse because the deceased was party to a polygynous union. This could be done by ensuring that sections 1(1)(c)(i) and 1(4)(f) of the Intestate Succession Act, which were concerned with providing for a child's share of the single surviving spouse and its calculation, should apply with three qualifications if the deceased is survived by more than one spouse:\n\nA child's share would be determined by having regard to the fact that there was more than one surviving spouse.\n\nProvision should be made for each surviving spouse to inherit the minimum if there was not enough in the estate.\n\nThe order had to take into account the possibility that the estate may not be enough to provide the prescribed minimum to each of the surviving spouses.\n\nThe court held that the declaration of invalidity had to be made retrospective to 27 April 1994, but that it did not apply to any completed transfer of ownership to an heir who had no notice of a challenge to the legal validity of the statutory provisions and the customar",
+  "url": "https://en.wikipedia.org/wiki/Bhe_v_Magistrate,_Khayelitsha",
+  "revision_id": 1353284089,
+  "article_id": 33770660,
+  "section_path": "shared_text[0:13621]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7b629e6f7f330f34765c0c941e787f1d06f1caaaf060583a9284690086784b7d",
+    "source_row_idx": 18974,
+    "source_shard": "enwiki/data/enwiki_namespace_0_79.parquet",
+    "text_sha256": "6e2c62de4112d68796784c193ea416f2a7d8e84e929452a43ef3f0aed1341a4f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353284089",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33770660",
+    "revision_id": "1353284089",
+    "retrieved_at": "2026-10-18T12:23:18.638771+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13621,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

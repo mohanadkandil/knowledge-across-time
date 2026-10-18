@@ -1,0 +1,44 @@
+{
+  "id": "wiki-334678-1306866700-c3d52f93fb20",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arthur Johnston (poet)",
+  "text": "s (Psalmorum Davidis paraphrasis poetica et canticorum evangelicorum, Aberdeen, 1637), and (b) his anthology of contemporary Latin verse by Scottish poets (Deliciae poetarum Scotorum huius aevi illustrium, Amsterdam, 1637).\n\nThe full version of the Psalms was the result of Laud's encouragement. It was for some time a strong rival of Buchanan's work, though not superior to the latter. The Deliciae, in two small thick volumes of 699 and 575 pages, was a patriotic effort in imitation of the various volumes (under a similar title) which had been popular on the Continent during the second decade of the century. The volumes are dedicated by Johnston to John Scot of Scotstarvet, at whose expense the collected works were published after Johnston's death, at Middelburg (1642). Selections from his own poems occupy pages 439-647 of the first volume, divided into three sections, Parerga, Epigrammata and Musae Aulicae.\n\nHe published a volume of epigrams at Aberdeen in 1632. In these pieces he shows himself at his best. His sacred poems, which had appeared in the Opera (1642), were reprinted by Lauder in his Poetarum Scotorum musae sacrae (1739). The earliest lives are by Lauder and Benson (in Psalmi Davidici, 1741). Ruddiman 's Vindication of Mr George Buchanan's Paraphrase (1745) began a pamphlet controversy regarding the merits of the rival poets.\n\nHis niece Isobel Johnston married Peter Blackburn, Bishop of Aberdeen.",
+  "url": "https://en.wikipedia.org/wiki/Arthur_Johnston_(poet)",
+  "revision_id": 1306866700,
+  "article_id": 334678,
+  "section_path": "shared_text[0:2870]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2870
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 62577,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "dcf0056640865ed02bd0b3197ad0331403306033fd0d582364b2aeb4d1b028ed",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1306866700",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "334678",
+    "revision_id": "1306866700",
+    "retrieved_at": "2026-10-18T12:38:22.066070+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2870,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

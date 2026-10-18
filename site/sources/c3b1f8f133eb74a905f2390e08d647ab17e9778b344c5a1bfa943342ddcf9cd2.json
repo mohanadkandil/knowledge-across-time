@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "fulphur, virololated tartar, and oily matter. In the large minnafacures, the alkaline part is indeed confirmed from impurities by mixing the weed allhes with water evaporating the clean ley, and burning the medium in an oven but bedleins that sharpened cell is difficult for the complete expanded the impurities, its also favorable quantity of diny mass ters, giving to the alkali-free power appearance (where it is many), and rendering it altogether until for pharmaceutical purposes. By the procedure here directed, the alkali is effectively freed from all their three groups matters, accepting perhaps a final proportion of virololated tartar, or other neutral salts, which may very generally be neglected. Avis he has proved on at ten calcination is intensely; it is probable that the fix edalkal thus prepared will not prove to coultic, that is so far, it can be considerably deprived of fixed as as in the powder directly for preparing the fait car tar. It is, however, sufficiently pure for molt pur polices and we couldn't me above proceed as the convenient and cheap method of obtaining the vegetable oil alkali in its mild flare.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1328,
+    0.0484,
+    0.502,
+    0.3477
+  ],
+  "offsets": [
+    0,
+    1139
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

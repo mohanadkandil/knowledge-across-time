@@ -1,0 +1,49 @@
+{
+  "id": "wiki-1506160-1323010285-d0343d00d5d7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julian Symons",
+  "text": "ap a Crook\n\nThe Case of the Frightened Promoter. (London) Evening Standard, 9 May 1950. Collected in Murder! Murder! (Francis Quarles)\n\nAffection Unlimited. (London) Evening Standard, 10 July 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Unhappy Piano Tuner. (London) Evening Standard, 20 July 1950. Collected in Murder! Murder! (Francis Quarles)\n\nThe Case of SW2. (London) Evening Standard, 3 August 1950. Collected in Murder! Murder! (Francis Quarles)\n\nMrs Rolleston's Diamonds. (London) Evening Standard, 10 August 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nHappy Hexing. (London) Evening Standard, 19 September 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Desk. (London) Evening Standard, 29 September 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nMurder - But How Was it Done?. (London) Evening Standard, 29 October 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nWho Killed Harrington?. (London) Evening Standard, 28 November 1950. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nCredit to William Shakespeare. (London) Evening Standard, 12 December 1950. Collected in Murder! Murder! and How to Trap a Crook (Francis Quarles)\n\nDeath in the Scillies. (London) Evening Standard, 13 March 1951. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nGhost from the Past. (London) Evening Standard, 1 October 1951. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Pepoli Case. (London) Evening Standard, 2 F",
+  "url": "https://en.wikipedia.org/wiki/Julian_Symons",
+  "revision_id": 1323010285,
+  "article_id": 1506160,
+  "section_path": "shared_text[0:30404]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    14560
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 17869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "c1943e2d6de5cd44100db2cea968bf9e3a781fa85f0cee9c4f3d7ad3cec48c6d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323010285",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1506160",
+    "revision_id": "1323010285",
+    "retrieved_at": "2026-10-18T12:24:02.424223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 10404,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

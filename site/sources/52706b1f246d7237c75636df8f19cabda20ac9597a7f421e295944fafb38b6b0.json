@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5298908-1266612263-aace69769a12",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "M10 highway (Russia)",
+  "text": " шоссе), begins from a junction of Leningradsky Prospekt avenue with the Volokolamsk Highway To the Moscow centre, the avenue continues into 1st Tverskaya-Yamskaya Street and then Tverskaya Street to Manege Square in the heart of the city.\n\nThe 'unofficial' end of the highway is since the Tsars' era commonly considered to be the Central Post Office of Saint Petersburg (Russian: Главпочтамт). Actually the Moscow Highway begins from the Victory Square in Moskovsky raion in the southern part of the city and Moskovsky Prospekt avenue which begins in the city centre on Sennaya Square, connects the highway with the centre of Saint Petersburg.\n\nThe 4 lane toll road parallel to M10 was finished in November 2019. Most parts were opened in November 2019.\n\nFrom Saint Petersburg city centre to the Finnish border the distance is approximately 210 km. The route section between Saint Petersburg, and the border with Finland is known as the \"Scandinavia\" (Russian: Скандинавия) highway and has officially been renamed to route A181. The designation M10 stayed valid until December 2017. This section is a part of the European route E18. News about the plans to expand this route section to a motorway with three lanes in each direction came out in August 2011.\n\nThe temperature range is almost unchanged: the annual average temperature throughout the section of the road may vary between 2 and 4 °C. The average temperature in January is -11 °C. In July it is +19 °C.\n\nThe road crosses the river Sister (a tributary of the Dubna, near Klin), Volga (in Tver), Msta (near Novoselitsy), Volkhov (at Krechev",
+  "url": "https://en.wikipedia.org/wiki/M10_highway_(Russia)",
+  "revision_id": 1266612263,
+  "article_id": 5298908,
+  "section_path": "shared_text[0:3684]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 121063,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "3334d6783aab777a561321dd5f55d13a477cf87597d7864a4085efb07466f5ff",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1266612263",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5298908",
+    "revision_id": "1266612263",
+    "retrieved_at": "2026-10-18T12:35:49.268585+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3684,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

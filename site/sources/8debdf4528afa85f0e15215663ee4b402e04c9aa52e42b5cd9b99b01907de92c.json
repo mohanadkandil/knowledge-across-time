@@ -1,0 +1,44 @@
+{
+  "id": "wiki-12787286-1334638262-3166b398d2b2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Duchess of Norfolk",
+  "text": "Duchess of Norfolk is a title held by the wife of the Duke of Norfolk in the peerage of England afterwards. The Duke of Norfolk is the premier duke in the peerage of England, and also, as Earl of Arundel, the premier earl. The first creation was in 1397 for Margaret, Duchess of Norfolk, who held the title in her own right.\n\n1st creation (1397)\n\nElizabeth Fitzalan, Duchess of Norfolk, wife of Thomas de Mowbray, 1st Duke of Norfolk\n\nKatherine Neville, Duchess of Norfolk, wife of John de Mowbray, 2nd Duke of Norfolk\n\nLady Eleanor Bourchier, wife of John de Mowbray, 3rd Duke of Norfolk\n\nElizabeth Talbot, Duchess of Norfolk, wife of John de Mowbray, 4th Duke of Norfolk\n\n2nd creation (1477)\n\nAnne de Mowbray, 8th Countess of Norfolk, wife of Richard of Shrewsbury, Duke of York (and Duke of Norfolk)\n\n3rd creation (1483)\n\nAgnes Howard, Duchess of Norfolk, 2nd wife of Thomas Howard, 2nd Duke of Norfolk\n\nElizabeth Stafford, Duchess of Norfolk, wife of Thomas Howard, 3rd Duke of Norfolk\n\nMary Fitzalan, 1st wife of Thomas Howard, 4th Duke of Norfolk\n\nMargaret Audley, Duchess of Norfolk, 2nd wife of Thomas Howard, 4th Duke of Norfolk\n\nElizabeth Leyburne, 3rd wife of Thomas Howard, 4th Duke of Norfolk\n\nJane Howard, Duchess of Norfolk (née Jane Bickerton), wife of Henry Howard, 6th Duke of Norfolk\n\nMary Howard, Duchess of Norfolk (died 1705) (Mary Mordaunt, 7th Baroness Mordaunt), wife of Henry Howard, 7th Duke of Norfolk\n\nMaria Howard, Duchess of Norfolk (née Maria Shireburn), wife of Thomas Howard, 8th Duke of Norfolk\n\nMary Howard, Duchess of Norfolk (died 1773) (née Mary Blount), wife o",
+  "url": "https://en.wikipedia.org/wiki/Duchess_of_Norfolk",
+  "revision_id": 1334638262,
+  "article_id": 12787286,
+  "section_path": "shared_text[0:2818]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 75573,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "ff689901e06d6926fd890b4c4741b40c0e14c6bfcd36ad0cf58bcf51c1401f24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334638262",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "12787286",
+    "revision_id": "1334638262",
+    "retrieved_at": "2026-10-18T12:28:38.492999+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2818,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "Russians had been. After fewest defects, the emperor was as half obliged to content to pay an annual tri-bore to Russian king of the Docians’s which con-tuned to the time of Trajan. But that warlike price refited to pay tributes, lading, when it was de-manded of him, that “he had never been opened by Decebahsli.” Upon this the Dacians pailed the Danang, and began to combat holidies in the Roman territories. Trajan, glad of this opportunity so humble an enemy whom he began to fear, drew to gather a migrey, and reached with the usual expeditition to the banks of the Danube. As Decebahls was not applied of his arrival, the emperor pailed the rice without oppose, and encaring Docia, had waite the country with fire, and favor. At all he was met by Decebahsla with a numerous army. A bloody engagement ruled, what the Docians were defeated ; though the victory colt the Romans dear: the wounded were in numerous, that the wanted him to bind their wounds, and to supply the defect, the emperor genessously devoted his own ward-ride. After the military, he parted December from place the place, and at full obligation to confront to a peace on the following terms: 1. That he should remember the territories which he has rapidly taken from the neighboring nations. 2. Thus he should deliver up his arms, his writable engines, with the ar-fices who make them, and all the Roman cheerter. 3.That for the future he should entertain no deferters, nor take into his service the native of any country subject to Rome. A. That he should dominate all his forteller, calles, and frong holds. And, lathy, Tha",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.4727,
+    0.1461,
+    0.8525,
+    0.5766
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

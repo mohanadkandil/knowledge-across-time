@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-ff77b924c970",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": " Quintus Curtius Rufus and Arrian (1st and 2nd centuries CE) refer to Alexander himself meeting with a tribe of fish-eating savages while on his Indian campaign.\n\nThe wild man races described in erudite writings of ancient historians may have had influence on the Medieval wild man folklore but establishing the degree would be difficult given the separation in time. But one can catalogue which ancient pieces of writing were accessible to medieval men.\n\nDistorted accounts of apes may have contributed to both the ancient and medieval conception of the wild man. In his Natural History Pliny the Elder describes a silvestres or forest tribe called the Choromandæ (Chromandi) in India, who had humanoid bodies but a coat of fur, fangs, and no capacity to speak – a description that fits gibbons indigenous to the area. The ancient Carthaginian explorer Hanno the Navigator (fl. 500 BCE) reported an encounter with a tribe of savage men and hairy women in what may have been Sierra Leone; their interpreters called them \"Gorillae,\" a story which much later originated the name of the gorilla species and could indeed have related to a great ape. Similarly, the Greek historian Agatharchides describes what may have been chimpanzees as tribes of agile, promiscuous \"seed-eaters\" and \"wood-eaters\" living in Ethiopia.\n\nThe medieval wild man lends itself to easy comparison with a number of classical woodland divinities. However, the aforementioned definition laid out by Bernheimer clearly distinguishes the faun and satyr from the wild man. Grimm states that the German shaggy wood-sprite schrat answ",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    44640,
+    46240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

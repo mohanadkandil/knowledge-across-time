@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2630-1324856752-a327736e9ee7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegospotami",
+  "text": "Aegospotami (Ancient Greek: Αἰγὸς Ποταμοί, Aigos Potamoi) or Aegospotamos (i.e. Goat Streams) is the ancient Greek name for a small river or rivers issuing into the Hellespont (Modern Turkish Çanakkale Boğazı), northeast of Sestos.\n\nAegospotami is plural, which suggests that the name may have referred to multiple rivers. As is often the case, interpretation of geography described by ancient sources has difficulties, not the least of which is evolution of the terrain, and the river or rivers have been identified with both the modern Karakova Dere and Büyük Dere (\"Big Creek\", now called Münipbey Deresi). Körpe and Yavuz concurred with both Bommelaer and Strauss that the latter stream is the more likely candidate and additionally identified the probable site of the associated settlement as a rise on the left bank of the Münipbey Deresi known as Kalanuro Tepesi, based on geographical features and archaeological remnants.\n\nAegospotami is located on the Dardanelles, near the modern Turkish town of Sütlüce, Gelibolu.\n\nAt its mouth was the scene of the decisive battle in 405 BC in which Lysander destroyed the Athenian fleet, ending the Peloponnesian War. The ancient Greek township of the same name, whose existence is attested by coins of the 5th and 4th centuries, and the river itself were located in ancient Thrace in the Chersonese.\n\nAccording to ancient sources, including Pliny the Elder and Aristotle, in 467 BC a large meteorite landed near Aegospotami. It was described as brown in colour and the size of a wagon load. A comet, tentatively identified as Halley's Comet, was report",
+  "url": "https://en.wikipedia.org/wiki/Aegospotami",
+  "revision_id": 1324856752,
+  "article_id": 2630,
+  "section_path": "shared_text[0:1698]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 6470,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "601fe3e2ac8076c3a802b30a7dfe008ae1fc206a2a7e556bfbfaf4ef8d9d8529",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1324856752",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2630",
+    "revision_id": "1324856752",
+    "retrieved_at": "2026-10-18T12:37:05.076563+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1698,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

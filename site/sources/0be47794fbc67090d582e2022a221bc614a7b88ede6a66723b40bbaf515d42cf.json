@@ -1,0 +1,44 @@
+{
+  "id": "wiki-59716982-1346950736-f7c205a49cca",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Russia Germans",
+  "text": "us culture. The influence in culture got more intense over the years and Russia Germans started to mix their cuisine with typical eastern-european food and to use patterns of typical Russo-Ukrainian clothes in their own or wear them directly like for example Wyshywankas.\n\nDuring the advance of the Red Army in the course of World War II, many Black Sea Germans, who had fallen under National Socialist dominion, were relocated by the Nazi SS to Warthegau. They received German citizenship (\"administrative resettlers\"), but after the end of the war they were forcibly repatriated to Russia. Only in the context of Ostpolitik could more than 70,000 Russian Germans move to Germany in the 1970s and 1980.\n\nWith the collapse of the Soviet Union, voluntary migration skyrocketed and the term \"return\" became common. Since middle of the 1980 more than 2.3 million have emigrated to Germany. The resettlers and late emigres who arrived after the dissolution of the USSR were comparatively well integrated; in 2010 the Swiss journal Neue Zürcher Zeitung called the will to integrate \"exemplary\", though views conflict on the social and cultural integration of Russia Germans. Men work more often than average in manufacturing and construction, and women often work in marginal employment. Overall, with all family members have taken together, the income distribution of Russia German households is similar to that of the non-immigrant population.\n\nWhen the Russo-German relationship deteriorated after 2014, declining further since the 2015 start of the refugee crisis in Germany, many Russia Germans felt ",
+  "url": "https://en.wikipedia.org/wiki/Russia_Germans",
+  "revision_id": 1346950736,
+  "article_id": 59716982,
+  "section_path": "shared_text[0:3735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0710c536dc264c461ca78f84cfccd3a76e5a097537b128227897481154409b19",
+    "source_row_idx": 49742,
+    "source_shard": "enwiki/data/enwiki_namespace_0_38.parquet",
+    "text_sha256": "514946fc76abb407064ddaa5b1f73d72b8f5497c05b6b235296f5e801f71dd20",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346950736",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "59716982",
+    "revision_id": "1346950736",
+    "retrieved_at": "2026-10-18T12:35:48.369114+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

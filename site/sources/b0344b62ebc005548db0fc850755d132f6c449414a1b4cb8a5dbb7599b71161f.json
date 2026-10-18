@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278773-1343987078-a9e33d215021",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Greenland",
+  "text": "The following outline is provided as an overview of and topical guide to Greenland:\n\nGreenland – autonomous Nordic nation that is a constituent country of the Kingdom of Denmark. Greenland comprises the Island of Greenland and adjacent islands located between the Arctic and Atlantic Oceans, east of the Canadian Arctic Archipelago. Though physiographically and ethnically an Arctic island nation associated with the continent of North America, politically and historically, Greenland is associated with Europe, specifically Iceland, Norway, and Denmark. In 1978, Denmark granted home rule to Greenland, making it an equal member of the Danish Realm. Greenland is, by area, the world's largest island which is not a continent in its own right.\n\nPronunciation: / ˈ ɡ r iː n l ən d /\n\nCommon English country name: Greenland\n\nOfficial English country name: Greenland of the Kingdom of Denmark\n\nCommon endonym (s): Kalaallit Nunaat\n\nOfficial endonym(s): Kalaallit Nunaat\n\nAdjectival (s): Greenlandic (disambiguation)\n\nDemonym (s): Greenlander(s)\n\nEtymology: Name of Greenland\n\nISO country codes: GL, GRL, 304\n\nISO region codes: See ISO 3166-2:GL\n\nInternet country code top-level domain:.gl\n\nGeography of Greenland\n\nGreenland is: an autonomous territory of the Kingdom of Denmark\n\nLocation:\n\nNorthern Hemisphere and Western Hemisphere\n\nNorth America (though not on the mainland)\n\nBetween the Arctic Ocean and Atlantic Ocean\n\nTime zones:\n\nDanmarkshavn and Ittoqqortoormiit – UTC+00\n\nPituffik – UTC-03\n\nRest of Greenland – UTC-02\n\nExtreme points of Greenland\n\nHigh: Gunnbjørn Fjeld 3,700 m (12,139 ft) – hig",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Greenland",
+  "revision_id": 1343987078,
+  "article_id": 16278773,
+  "section_path": "shared_text[0:5735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 41726,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "b70e845ff78947033b7ebfee205955d707ee2785d00f7612fcc94e80648903fe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343987078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278773",
+    "revision_id": "1343987078",
+    "retrieved_at": "2026-10-18T12:28:44.137261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

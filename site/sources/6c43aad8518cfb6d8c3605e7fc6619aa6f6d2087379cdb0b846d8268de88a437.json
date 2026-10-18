@@ -1,0 +1,44 @@
+{
+  "id": "wiki-53909603-1327889481-9153152bd34f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "2018 World Mixed Doubles Curling Championship",
+  "text": "raw 15 8:00\n\nDraw 16 11:15\n\nDraw 18 17:45\n\nDraw 19 21:00\n\nDraw 20 8:00\n\nDraw 21 11:15\n\nDraw 23 17:45\n\nDraw 24 21:00\n\nDraw 25 9:00\n\nDraw 26 12:30\n\nFriday, April 27, 9:00\n\nFriday, April 27, 12:30\n\nFriday, April 27, 16:00\n\nFriday, April 27, 19:30\n\nSaturday, April 28, 8:30\n\nSaturday, April 28, 12:00\n\nSaturday, April 28, 12:00\n\nSaturday, April 28, 12:00\n\nSaturday, April 28, 16:00\n\nSaturday, April 28, 16:00\n\nSaturday, April 28, 16:00\n\nSaturday, April 28, 16:00\n\nSaturday, April 28, 16:00\n\nRound robin only",
+  "url": "https://en.wikipedia.org/wiki/2018_World_Mixed_Doubles_Curling_Championship",
+  "revision_id": 1327889481,
+  "article_id": 53909603,
+  "section_path": "shared_text[0:1943]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1943
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 40986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "a48b2cd44f3de1bd508afd05c3796870a66ca3a3fdf9afcb4ecec8f68e2def47",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1327889481",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "53909603",
+    "revision_id": "1327889481",
+    "retrieved_at": "2026-10-18T12:23:42.859159+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1943,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

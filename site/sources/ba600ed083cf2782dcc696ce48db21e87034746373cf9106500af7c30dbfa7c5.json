@@ -1,0 +1,36 @@
+{
+  "id": "bri-2399-112d3fdfaec9:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-2399-112d3fdfaec9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+  "text": "(A) An interesting question occurs here, which deferves to be considered. Since the body, when spread upon the farlets, can be tipperd with a little exertion, and frequently without any an alt, as in feminning on the back, how does it in and shine a portion when drowned filled the frequently begin again from time intervals.” The reason is this: In the art of drowning, the lungs are filled with water, and consequently the body, being specifically heavier, risks. It is well known that the human has constant a great quantity of air? We are far in full compelled by the world, and which this is the cold the body remains at the bottom. Just as soon as the set by its elasticity endeavours to dilengage lifelf from the comporffon, the body is fvelled and expunded, becomes facifically lighter than the water, and consequently rides to the top.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+  "provenance": {
+    "page_id": "bri-2399-112d3fdfaec9",
+    "row_index": 2399,
+    "volume_id": "191678900",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+    "label": 0,
+    "sha256": "112d3fdfaec9e4914178a7fbdea212d1ae192617740b0b9b6724a09270f9cee7",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2399-112d3fdfaec9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.0762,
+    0.7828,
+    0.8213,
+    0.8852
+  ],
+  "offsets": [
+    0,
+    844
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21062639-1328873961-606b8918cfd9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "St. Thomas' Church",
+  "text": "\n\nCathedral Church of St Thomas of Canterbury, commonly known as Portsmouth Cathedral\n\nChurch of St Thomas à Becket, Box\n\nSt Thomas the Martyr, Bristol\n\nChurch of St Thomas à Becket, Capel\n\nSt Thomas of Canterbury Church, Chester\n\nSt Thomas Church, Dudley\n\nChurch of St Thomas the Martyr, Newcastle upon Tyne\n\nSts Thomas Minster, Newport, Isle of Wight, which may ambiguously have St Thomas à Becket or St Thomas the Apostle as its patron\n\nSt Thomas the Martyr's Church, Oxford\n\nSt Thomas à Becket Church, Pensford\n\nSt Thomas' Church, Southwark\n\nChurch of St Thomas the Martyr, Upholland\n\nSt Thomas à Becket Church, Warblington\n\nSt Thomas à Becket Church, Widcombe\n\nChurch of St Thomas à Becket, Wolvesnewton\n\nChurch of St Thomas, Dudley, West Midlands\n\nSt Thomas Aquinas Church, Springwood\n\nSt. Thomas Aquinas Church, Toronto\n\nSaint Thomas Aquinas Church, Paris\n\nSaint Thomas Aquinas Parish Church, Santo Tomas, Batangas\n\nSaint Thomas Aquinas Parish Church, Mangaldan, Pangasinan\n\nSaint Thomas Aquinas Parish Church, Santo Tomas, Pangasinan\n\nSaint Thomas Aquinas Church, Zaragoza\n\nSt Thomas Aquinas Church, Ham, London\n\nSt. Thomas Aquinas Chapel (Ojai, California)\n\nSt. Thomas Aquinas Church (Palo Alto, California)\n\nSt. Thomas Aquinas Church (Fairfield, Connecticut)\n\nSt. Thomas Aquinas Church (Zanesville, Ohio)\n\nSaint Thomas Aquinas Cathedral, Reno, Nevada\n\nSt. Thomas More Church (New York City)\n\nSt Thomas' Church, Exeter, is a parish church in the Church of England",
+  "url": "https://en.wikipedia.org/wiki/St._Thomas%27_Church",
+  "revision_id": 1328873961,
+  "article_id": 21062639,
+  "section_path": "shared_text[0:7232]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7232
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 271,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "d5a5105550f105122bc8b3aadc501e849e4341f3a849e5d976069fcde23f5d25",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1328873961",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21062639",
+    "revision_id": "1328873961",
+    "retrieved_at": "2026-10-18T12:36:16.645898+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7232,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

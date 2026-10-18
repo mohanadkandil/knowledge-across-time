@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1791543-1333251199-01128f7e862b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angrivarii",
+  "text": "The Angrivarii (or Angrivari) were a Germanic people of the early Roman Empire, who lived in what is now northwest Germany near the middle of the Weser river. They were mentioned by the Roman authors Tacitus and Ptolemy.\n\nThey were part of the Germanic alliance led by Arminius and his defeat of the Romans at the Battle of the Teutoburg Forest in the ninth year of the Common Era.\n\nThe Angrivarii lived in an area which was later called Angria (Modern German \" Engern \") in the Middle Ages, which was a major part of the Carolingian Duchy of Saxony. Both names probably derive from geographical terminology.\n\nIn his Germania Tacitus described the Angrivarii and their western neighbours the Chamavi living east of the Frisii who lived towards the Rhine river which was the official border of the Roman Empire, and behind them, further from the Romans, were \"the Dulgubini and Chasuarii, and other tribes not equally famous\". The Chasuarii probably lived near the Hase river, north of them, and the Dulgubini probably lived further east towards the Elbe. North of all these peoples lived the Chauci, living along the North Sea coast in what is now Germany.\n\nAmong the more detailed mentions of the Angrivarii which Tacitus makes in his Annals, he describes them also as neighbours to the powerful Cherusci people, of Arminius, who apparently lived east of them. They had built a dike to mark the boundary, and this was west of the Weser.\n\nTacitus also notes in his Germania that together with the Chamavi, the Angrivarii had invaded the lands formerly held by the Bructeri to their south, the Bructer",
+  "url": "https://en.wikipedia.org/wiki/Angrivarii",
+  "revision_id": 1333251199,
+  "article_id": 1791543,
+  "section_path": "shared_text[0:7705]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 16861,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "57e5dd6854fc1424e355c38d8d2da9d2d87824440a4dfc2e5b2d8d7f15a5957b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333251199",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1791543",
+    "revision_id": "1333251199",
+    "retrieved_at": "2026-10-18T12:35:25.445703+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7705,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "\"That is was apparent, that ample room was left for the discovery of some more certain references than any of the former; and the forces within the forgetting itself to my, will, it truth, be found fully to answer the pur-pfe intended. The memories that has formerly any fly can venture to fan without; and the confrontation to freely, cry, and simple, that the capacity of the meninell folks will an once exercise. In I need not from problematic principles, flown the creativity of his effect, as it is formed and managed in the frame manner as a little common rollers, and as the common roller is certainly of all inventories the bad calculation for put-ding a veiled through the water, it will of course follow, thus whatever faithless the interest toflesthis, must be het entered to finally its fold.\"",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1094,
+    0.132,
+    0.4922,
+    0.3344
+  ],
+  "offsets": [
+    0,
+    805
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

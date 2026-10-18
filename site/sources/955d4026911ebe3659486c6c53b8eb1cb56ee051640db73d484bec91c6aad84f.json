@@ -1,0 +1,44 @@
+{
+  "id": "wiki-15607611-894471394-7016522500e7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Metacentric",
+  "text": "Metacentric may refer to:\n\nMetacentric height, the distance between the center of gravity of a ship and its metacenter\n\nMetacentric centromere, the position of a centromere on a chromatid",
+  "url": "https://en.wikipedia.org/wiki/Metacentric",
+  "revision_id": 894471394,
+  "article_id": 15607611,
+  "section_path": "shared_text[0:187]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    187
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 179862,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "5bd824c7deb4a6c3866f85389f7b17dedee4b40ab1eb393d6b85c526a98512a5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=894471394",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "15607611",
+    "revision_id": "894471394",
+    "retrieved_at": "2026-10-18T12:22:40.318742+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 187,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

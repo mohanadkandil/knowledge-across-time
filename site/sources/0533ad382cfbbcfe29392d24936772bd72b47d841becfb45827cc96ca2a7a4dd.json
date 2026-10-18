@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33426809-1313462830-7e855d70fd5b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Center of gravity (disambiguation)",
+  "text": "The center of gravity of a body is the point around which the resultant torque due to gravity forces vanishes.\n\nCenter of gravity or centre of gravity may also refer to:\n\nCenter of Gravity (festival), an annual Canadian sport and music festival\n\nCenter of gravity (military), a concept developed by Carl Von Clausewitz, a Prussian military theorist\n\nGeographical centre, sometimes known as \"gravitational centre\" (typically of a country, or other large region of the Earth)",
+  "url": "https://en.wikipedia.org/wiki/Center_of_gravity_(disambiguation)",
+  "revision_id": 1313462830,
+  "article_id": 33426809,
+  "section_path": "shared_text[0:473]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    473
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8cd10b1d4e9b71d127ae5b059e5081c7efff5a97bba4e97ca3340a35783ea532",
+    "source_row_idx": 3895,
+    "source_shard": "enwiki/data/enwiki_namespace_0_36.parquet",
+    "text_sha256": "50f69cd552f2140f4b6d2b01c7e308b61681d08ea44be740daae99c36226014d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1313462830",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33426809",
+    "revision_id": "1313462830",
+    "retrieved_at": "2026-10-18T12:22:39.585517+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 473,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

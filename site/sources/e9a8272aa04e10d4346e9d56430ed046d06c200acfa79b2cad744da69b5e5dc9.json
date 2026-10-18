@@ -1,0 +1,44 @@
+{
+  "id": "wiki-316434-1349577952-7568310f5c47",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anti-Lebanon Mountains",
+  "text": "ount Lebanon in central Lebanon: Beqaa Valley in the north and the Hasbani River valley in the south. To the east, in Syria, lies the Eastern Plateau, location of the city of Damascus.\n\nThe mountains provide a rain shadow to the region on their east on their leeward side, such as the Syrian Desert.\n\nAn important smuggling route between Lebanon and Syria passes through the Anti-Lebanon mountains.\n\nThe area is known for its apricot and cherry trees as well as its stone quarries. In the mountains, amygdalus and pistachio bushes thrive. On the west side are small-scale deciduous forests and isolated dry coniferous forests with Cilician firs (Abies cilicica), Lebanon cedars (Cedrus libani) and Greek juniper (Juniperus excelsa). Subalpine and alpine plant communities occur over 2,500 metres. The grazing by sheep and goats has led to increased erosion of the remaining forests and substantial deterioration of soil and vegetation. The predominant form of economy is extensive nomadic grazing.\n\nThere are various endemic flora found and named after the region (having a specific epithet that means \"of the Anti-Lebanon\"). These include Euphorbia antilibanotica, Teucrium antilibanoticum, Valerianella antilibanotica, and Iris antilibanotica.",
+  "url": "https://en.wikipedia.org/wiki/Anti-Lebanon_Mountains",
+  "revision_id": 1349577952,
+  "article_id": 316434,
+  "section_path": "shared_text[0:2685]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2685
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 6332,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "ab3146baa3e39c86f0d46663e08e60242e210c69ee54c0a24cbb564852e7beb3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349577952",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "316434",
+    "revision_id": "1349577952",
+    "retrieved_at": "2026-10-18T12:29:15.847815+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2685,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

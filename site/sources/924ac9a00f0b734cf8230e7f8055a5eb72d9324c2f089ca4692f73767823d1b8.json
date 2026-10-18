@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30253-1346760679-f04c270dbe9c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tertiary period",
+  "text": "epochs according to the percentage of fossil mollusks resembling modern species found in those strata. He used Greek names: Eocene, Miocene, Older Pliocene, and Newer Pliocene.\n\nAlthough these divisions seemed adequate for the region to which the designations were originally applied (parts of the Alps and plains of Italy), when the same system was later extended to other parts of Europe and to America, it proved to be inapplicable. Therefore, the use of mollusks was abandoned from the definition and the epochs were renamed and redefined.\n\nFor much of the time during which the term 'Tertiary' was in formal use, it referred to the span of time between 65 and 1.8 million years ago. The end date of the Cretaceous and the start date of the Quaternary were subsequently redefined at c. 66 and 2.6 million years ago respectively.\n\nIn 1989, the International Commission on Stratigraphy (ICS) eliminated the use of \"Tertiary\" on their stratigraphic charts, instead dividing this timespan into the Paleogene and Neogene periods (terms which had been coined over a century earlier in the 1850s by Austrian geologist Moritz Hörnes), which in previous stratigraphic charts were treated as subdivisions of the Tertiary. In 2004, the ICS considered the Neogene to also include the entire Quaternary period, thus making the Neogene span until the present, but this was not widely followed and the ICS later restored the Quaternary to full period status by 2009. In 2006 it was remarked that despite the ICS elimination of the term over a decade earlier, at that time, \"Tertiary\" was still more common than ",
+  "url": "https://en.wikipedia.org/wiki/Tertiary_period",
+  "revision_id": 1346760679,
+  "article_id": 30253,
+  "section_path": "shared_text[0:3571]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 80421,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "380fea40248bab52f4fbc39dcd6d222872981e6ec53207fbf453b3118742e866",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346760679",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30253",
+    "revision_id": "1346760679",
+    "retrieved_at": "2026-10-18T12:29:32.371774+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3571,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-76259802-1338748777-4634c25588ab",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Betel chewing in China",
+  "text": "e removed from the updated version of the food production permit catalog released by the State Administration for Market Regulation in 2020, and an advertising ban issued by the National Radio and Television Administration in 2021 that forbids all related advertisements on radio, television or online. In 2022, Chinese singer Fu Song who used to claim on social media that cancer was caused by chewing betel nuts and asked the public to keep away from it, died from oral cancer by his habit of chewing betel nuts. His death rekindled discussions about tightening controls on sales of the nuts. Thus, local market regulators in Zhejiang, Sichuan and Jiangxi provinces rolled out notices to ban all sales of betel nuts as a food product.",
+  "url": "https://en.wikipedia.org/wiki/Betel_chewing_in_China",
+  "revision_id": 1338748777,
+  "article_id": 76259802,
+  "section_path": "shared_text[0:5056]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5056
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 70548,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "7db4d84d4b6316c647c0bd1074de26f107a3a740121154b2a2ba1ec0b2912327",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338748777",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "76259802",
+    "revision_id": "1338748777",
+    "retrieved_at": "2026-10-18T12:37:13.537480+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5056,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

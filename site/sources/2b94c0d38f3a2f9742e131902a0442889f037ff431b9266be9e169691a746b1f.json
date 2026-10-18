@@ -1,0 +1,44 @@
+{
+  "id": "wiki-510123-1352378211-26d9a9acd758",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Deluge",
+  "text": "he Deluge (Fanning Dempsey National Park album), 2024\n\nThe Deluge (painting), an 1805 painting by J.M.W. Turner\n\nThe Deluge (Martin), an 1834 painting by John Martin\n\nDeluge (fine art photography), a museum exhibit by David LaChapelle\n\nDeluge (Transformers), several Transformers characters\n\nThe Deluge, a painting by Winifred Knights\n\n\"The Deluge\" (Knots Landing), a 1985 television episode\n\nDeluge (fireboat), several vessels\n\nA type of fire sprinkler system\n\nDeluge gun, equipment used in firefighting\n\nLe Déluge, a former commune in the Oise department, France\n\nDeluge (software), a cross-platform BitTorrent client written using Python and GTK\n\nDeluge Fountain, in Bydgoszcz, Poland\n\nDeluge Mountain, a summit in Canada",
+  "url": "https://en.wikipedia.org/wiki/Deluge",
+  "revision_id": 1352378211,
+  "article_id": 510123,
+  "section_path": "shared_text[0:2164]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2164
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 24645,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "805d46d9efee9f63a7ed7f0eb7647e735249dd8d0539b14ea73260a529ef36c8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352378211",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "510123",
+    "revision_id": "1352378211",
+    "retrieved_at": "2026-10-18T12:30:48.917067+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2164,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

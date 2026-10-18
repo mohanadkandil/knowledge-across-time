@@ -1,0 +1,36 @@
+{
+  "id": "bri-2281-ff9c4373e498:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-2281-ff9c4373e498",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "It is curious to examine these different positions of the infected line. Draw AD parallel to the second iteration CE/and the DPF, AD’, and AF. Because AE is equal to E/F, the angle E/AF is equal to AEF/s, and, consequently, the exterior angle AFL is the double of either of these. But CAF being an isoceles triangle, AFL is equal to ACV, which again is equal to the alternate angle CAD’s where, CAD’s as the double of the angle AEF/s; and single likethe site the double of CFD is the circumference, the angles CFD’d and AE/F are equal; and, consequently, if ZF and EA parallel. Now the angle CAD being double of E/AF or D’AG, and the angle CAD double of DAB, the are MCD’s double of the arcs D’G and DB, which serve to com",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+  "provenance": {
+    "page_id": "bri-2281-ff9c4373e498",
+    "row_index": 2281,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 1,
+    "sha256": "ff9c4373e498cf1488dade04b3ed25c7d5c4da4a09a1e102e863f69b1e53fdca",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-2281-ff9c4373e498.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5371,
+    0.2141,
+    0.9229,
+    0.4141
+  ],
+  "offsets": [
+    0,
+    722
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

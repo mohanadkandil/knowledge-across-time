@@ -1,0 +1,44 @@
+{
+  "id": "wiki-316434-1349577952-6d3a5f4c02d5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anti-Lebanon Mountains",
+  "text": "The Anti-Lebanon Mountains (Arabic: جبال لبنان الشرقية, romanized: Jibāl Lubnān ash-Sharqiyyah, lit. ' eastern mountains of Lebanon '), are a southwest–northeast-trending, c. 150 kilometres (93 miles) long mountain range that forms most of the border between Syria and Lebanon. The border is largely defined along the crest of the range.\n\nIts Western name Anti-Lebanon comes from the Greek and Latin Antilibanus, derived from its position opposite (anti-) and parallel to the Mount Lebanon range (Libanus).\n\nThe Anti-Lebanon range is approximately 150 kilometres (93 miles) in length. To the south, the range adjoins the lower-lying Golan Heights plateau, but includes the highest peaks, namely Mount Hermon (Jabal el-Shaykh, in Arabic), at 2,814 metres, and Ta'la't Musa, at 2,669 metres. These peaks, on the Lebanese-Syrian border, are snow-covered for much of the year.\n\nThe Anti-Lebanon Mountains are an anticline. Their predominant rocks are limestone and chalk from the Jurassic period.\n\nTo the north, they extend to almost the latitude of the Syrian city of Homs. The mountains end in the south with Mount Hermon, which borders on the Golan Heights; the Golan Heights are a different geological and geomorphological entity, but geopolitically they are often regarded together with the southern slopes of Mount Hermon, both being Syrian territory occupied by Israel. To the west of the Anti-Lebanon lie valleys that separate it from Mount Lebanon in central Lebanon: Beqaa Valley in the north and the Hasbani River valley in the south. To the east, in Syria, lies the Eastern Plateau, location ",
+  "url": "https://en.wikipedia.org/wiki/Anti-Lebanon_Mountains",
+  "revision_id": 1349577952,
+  "article_id": 316434,
+  "section_path": "shared_text[0:2685]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 6332,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "ab3146baa3e39c86f0d46663e08e60242e210c69ee54c0a24cbb564852e7beb3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349577952",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "316434",
+    "revision_id": "1349577952",
+    "retrieved_at": "2026-10-18T12:29:15.847815+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2685,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

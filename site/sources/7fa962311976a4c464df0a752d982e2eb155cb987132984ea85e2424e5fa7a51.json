@@ -1,0 +1,44 @@
+{
+  "id": "wiki-34353948-1352986232-e8c8dc875e93",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Parabola GNU/Linux-libre",
+  "text": " such as the Linux-libre kernel instead of the generic Linux kernel.\n\nThe filtering process removes around 700 software packages from the repositories that do not meet the requirements of the Free Software Definition for each architecture.\n\nParabola has established a social contract. The Parabola Social Contract commits the project to the free software community (viewing itself as only competing against non-free systems), free culture, democracy, and to follow Arch's philosophy. Under the covenant are included the GNU Free System Distribution Guidelines.\n\nThere are two ways to install Parabola, either from scratch using installable ISO images, or by migrating from an existing Arch-based system. The latter process is almost as simple as switching to the Parabola repositories list.\n\nTalkingParabola is a derivative install CD based on TalkingArch. It is a respin of the Parabola ISO modified to include speech and braille output for blind and visually impaired users. TalkingParabola retains all the features of the Parabola live image, but adds speech and braille packages to make it possible for blind and visually impaired users to install Parabola eyes-free.\n\nThe Parabola community has created a number of cartoon characters for the project. The characters are a gnu and a cat named \"Bola\", who is conceived after Parabola's main characteristics: \"elegant, minimalist and lightweight\".",
+  "url": "https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre",
+  "revision_id": 1352986232,
+  "article_id": 34353948,
+  "section_path": "shared_text[0:4279]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4279
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c8787f86488e8e3e87f007654e4b5e79e9d5ac80438a5f5bc9a1b7cbf23232e7",
+    "source_row_idx": 22791,
+    "source_shard": "enwiki/data/enwiki_namespace_0_67.parquet",
+    "text_sha256": "e8b3107aacd7eafedb3a2274b697efa97d554f46cdc846ea53c3e86c64d7d735",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352986232",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34353948",
+    "revision_id": "1352986232",
+    "retrieved_at": "2026-10-18T12:38:10.306439+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4279,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1504-156070e3dad3:region-4:1440",
+  "kind": "britannica",
+  "page_id": "bri-1504-156070e3dad3",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+  "text": "vedable; but those who donate on this theme do not reflect, while the vice ban question is as the parents’ research or democracy, the exercise of that form of government consists in anxioly guriling against the aggrammament of individualise or classics, and to be speaking separate into attempts to make head above the common level. Republicans have often had occasion to regret their rewards, seldom their arguments.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+  "provenance": {
+    "page_id": "bri-1504-156070e3dad3",
+    "row_index": 1504,
+    "volume_id": "193696086",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 4, Astronomy-BOM - EB.16",
+    "label": 0,
+    "sha256": "156070e3dad300ba2fa2b6f175c65e79096dc312a3cee317aaf2661174ba1b46",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-1504-156070e3dad3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1504",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.542,
+    0.0836,
+    0.9795,
+    0.4555
+  ],
+  "offsets": [
+    1440,
+    1857
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

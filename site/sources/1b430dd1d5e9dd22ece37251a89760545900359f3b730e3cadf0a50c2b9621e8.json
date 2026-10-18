@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33194773-1348023149-6b0ffeb9b1d6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chinese Tartary",
+  "text": "hibet (New atlas of China, Chinese Tartary, and Tibet) in 1738.\n\nD'Anville's map was based on work ordered by the Emperor of Qing China and conducted by the Chinese under the supervision of Jesuits. Also published in 1738 was A description of the empire of China and Chinese-Tartary together with the kingdoms of Korea, and Tibet by Jean-Baptiste Du Halde. In 1741, he went on to write The General History of China Containing a Geographical, Historical, Chronological, Political and Physical Description of the Empire of China, Chinese-Tartary, Corea and Thibet.\n\nThe areas described by this work as falling within Chinese Tartary included:\n\nXinjiang (Chinese Turkestan)\n\nMongolia (Inner Mongolia and Outer Mongolia)\n\nManchuria (Northeast China and Outer Manchuria)\n\nQinghai\n\nIn 1832, the geographical boundaries of Chinese Tartary were defined in A Geographical Dictionary Or Universal Gazetteer.\n\nBy 1867, the area of Chinese Tartary was described as the three vast areas covering Manchuria, Mongolia, and Ili (Xinjiang).",
+  "url": "https://en.wikipedia.org/wiki/Chinese_Tartary",
+  "revision_id": 1348023149,
+  "article_id": 33194773,
+  "section_path": "shared_text[0:2463]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2463
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "89bb7bee9a19e5e9cabd57d6bed9f2d1cc5522d3c306f919e8925ec783877cd4",
+    "source_row_idx": 36416,
+    "source_shard": "enwiki/data/enwiki_namespace_0_47.parquet",
+    "text_sha256": "11722f448b4b714af4b37161cc17723588c3546c2184ff1101ac6f5e8f7edfca",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348023149",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33194773",
+    "revision_id": "1348023149",
+    "retrieved_at": "2026-10-18T12:24:25.529711+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2463,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

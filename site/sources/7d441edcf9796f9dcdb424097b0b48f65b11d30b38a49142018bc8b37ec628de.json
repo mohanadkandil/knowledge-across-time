@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "Furnace, want, only when the condensation abated confiderably, or was totally removed by the going flow, or hopping of the engine. It also occurred in one, that the air in a fute of condensation, might possibly be capable of holding a greater quantity of water in foliation, which might precipitate suddenly into vapour or mit when the condensation abated. I imposed, there for, that the very final quantities of water we at time discovered, proceeded from nothing life but this vapour, in its pulleys to the furnace along with the bluilt, being conducted into water, by the coolest of the eduction pipe and iron wind cheft. The quantity of vortex did not appear to amount to a gallon in twenty-four hours.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0713,
+    0.0672,
+    0.4971,
+    0.2461
+  ],
+  "offsets": [
+    0,
+    706
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

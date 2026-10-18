@@ -1,0 +1,36 @@
+{
+  "id": "bri-0995-217a04a6ceda:region-14:0",
+  "kind": "britannica",
+  "page_id": "bri-0995-217a04a6ceda",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+  "text": "A. I. A. Naluing the quantity which 1lb. of tallow gives in candles at ... 1 0 An equal quantity of light from spectactile oil contented in an argon Lamp will be 0 6i A ditto ditto from white oil gas, ... 0 4i A ditto ditto from coal gas, ... 0 2i",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+  "provenance": {
+    "page_id": "bri-0995-217a04a6ceda",
+    "row_index": 995,
+    "volume_id": "193696082",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 4 - EB.13",
+    "label": 0,
+    "sha256": "217a04a6ceda3cc388e2fd1874ff3238e29721f1a34fb4286e24ecb5084ebd24",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-0995-217a04a6ceda.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=995",
+    "manual_seed": false
+  },
+  "region_id": "region-14",
+  "bbox_raw": [
+    0.791,
+    0.7523,
+    0.8301,
+    0.8422
+  ],
+  "offsets": [
+    0,
+    247
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-6:1440",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "of defending the naive real. But having ascertained the number of the invaders, and learnt that soldiers raising their ignorance of the nation had damaged the Roman fleet, they decided to whatever terms Cesar thought proper to dictate, and secondly resolved to ensure the attack. They resolved again graded, however, though not without indicking a severe loss and enemy of God Cesar, surprised at the resistance to bad encountered, as well as mission to secure his retum to Gaul, which the approach of waterlal and endangered, readily accepted the nominal submarine profited by the slanders. Thus ended the first descent of the Romans",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5664,
+    0.4766,
+    0.9424,
+    0.9117
+  ],
+  "offsets": [
+    1440,
+    2074
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

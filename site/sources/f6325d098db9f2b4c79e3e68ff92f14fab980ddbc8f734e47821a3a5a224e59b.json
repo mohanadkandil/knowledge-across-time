@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "who was sent by Pope Innocent IV, in 1246 on an cur-\nbasy to the Mongole, failed to discover the celebrated nation of Christians. Not long afterwards another Fran-\nsessy, William de Rabinousi, who penetrated into Aas as far as Barkamons could had none in a few Posto-\nrians, who had even heard of the great priest-king.\nEqually unsuccessful over the Portuguese carolvon who reached India by the way of the Cape of Good Hope about\nthe one of the Efteenth century. After fuilously seek-\ning for the Prester in Asia, they were fun to suppose on\nfew or no grounds, that they found found him in Africa in\nthe person of an Abysinals prison. The result of all these explorations was, that investigators crossed inquire\ninto the truth of the story of Prester John, and turned their attention to an explanation of its origin. The most plausible solution is that given by Makinler in the _Charck_\nHistory. He supports it to certain Austrian priest named John gained possession of a thrown atAsia.\nTurrty has assisted the time on Professor thisbyter after his season;) and that the title of Prester John was inherent by his descendants, along with the throws, his dynasty was exemption by the mighty Turtur emperor Gerghiskan.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1475,
+    0.0781,
+    0.5283,
+    0.3484
+  ],
+  "offsets": [
+    0,
+    1215
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

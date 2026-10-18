@@ -1,0 +1,44 @@
+{
+  "id": "wiki-52116197-1330841043-d9da58f07397",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "3-inch ordnance rifle",
+  "text": "d two-thirds of its muzzle velocity at 1,500 yd (1,372 m) – or 839 ft/s (256 m/s) – so that its rifled projectile was invisible in flight. A smoothbore cannon's projectile retained only one-third of its muzzle velocity at that range and its round shot could be seen in the air. However, a rifled projectile could become visible if the shell began to tumble out of control. Tumbling occurred when the shell failed to take the grooves inside the gun barrel or when the spin wore off in flight. The 3-inch gun's rifling consisted of seven lands and grooves with a right-hand twist. The twist rate was one turn in 11 ft (3.4 m).\n\nThe 3-inch ordnance rifle was mounted on the standard carriage for the 6-pounder field gun. Because its projectile was heavier than a 6-pound shot, the 3-inch rifle's greater recoil sometimes caused damage to the trail or the cheek pieces of the carriage. The 6-pounder carriage weighed 900 lb (408 kg). The 3-inch rifle fired case shot (shrapnel), time and percussion shell, and canister shot. The use of bolts (solid shot) was rare. Either Hotchkiss or Schenkl ammunition could be used. Parrott ammunition could be used in an emergency, but it performed poorly since it was designed for the 10-pounder Parrott gun which had only three grooves, rather than the ordnance rifle's seven grooves. For two reasons, canister shot fired from the 3-inch rifle was less effective than canister fired from a 12-pounder Napoleon or a M1841 12-pounder howitzer. First, its 3-inch bore was narrower than the 12-pounder's bore and could fire fewer canister balls. Second, the rifling of ",
+  "url": "https://en.wikipedia.org/wiki/3-inch_ordnance_rifle",
+  "revision_id": 1330841043,
+  "article_id": 52116197,
+  "section_path": "shared_text[0:12383]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2035812c382e7e022c4a93233ab97639e6645c182ea6fff87893c1609659e455",
+    "source_row_idx": 113131,
+    "source_shard": "enwiki/data/enwiki_namespace_0_9.parquet",
+    "text_sha256": "bccc01c2e42568cc56b2c95633f3492f59b45643159d9f82c705ff74cc5bae91",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330841043",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "52116197",
+    "revision_id": "1330841043",
+    "retrieved_at": "2026-10-18T12:41:43.965922+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12383,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

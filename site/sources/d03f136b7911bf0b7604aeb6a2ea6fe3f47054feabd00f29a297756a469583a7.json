@@ -1,0 +1,44 @@
+{
+  "id": "wiki-292700-1336742505-2da3520e5a81",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Clay (disambiguation)",
+  "text": "strial plasticine)\n\nClay Mathematics Institute, a private, non-profit foundation, based in Providence, Rhode Island\n\nClay moths, several relatively unrelated species (although most are of family Noctuidae):\n\nCyclophora linearia (clay triple-lines, family Geometridae)\n\nEugnorisma depuncta (plain clay) and several Diarsia and Xestia species (Noctuinae)\n\nMythimna ferrago (the clay, Hadeninae)\n\nParacolax tristalis (clay fan-foot, Herminiinae)\n\nClay court, a type of tennis court\n\nHair clay, a type of hair product\n\nMedicinal clay\n\nClay pigeons, or clays, used in clay pigeon shooting",
+  "url": "https://en.wikipedia.org/wiki/Clay_(disambiguation)",
+  "revision_id": 1336742505,
+  "article_id": 292700,
+  "section_path": "shared_text[0:2023]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2023
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 80224,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "403c9ce36ecdc7ec30754be0b4cb6a0621923387b43cea54691e153d4249bbc7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336742505",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "292700",
+    "revision_id": "1336742505",
+    "retrieved_at": "2026-10-18T12:35:21.115526+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2023,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

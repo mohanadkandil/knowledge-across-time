@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3895793-1277098983-c11770ac44f9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "New Granada",
+  "text": "New Granada may refer to various former national denominations for the present-day country of Colombia:\n\nNew Kingdom of Granada, from 1538 to 1717\n\nViceroyalty of New Granada, from 1717 to 1810, re-established from 1816 to 1822\n\nUnited Provinces of New Granada, from 1810 to 1816\n\nRepublic of New Granada, from 1830 to 1858\n\nGranadine Confederation, from 1858 to 1863\n\nNew Granada may also refer to:\n\nNueva Granada, Magdalena, Colombia\n\nNueva Granada, El Salvador\n\nNova Granada, São Paulo, Brazil\n\nNew Granada Military University, Colombia\n\nColegio Nueva Granada, Colombia",
+  "url": "https://en.wikipedia.org/wiki/New_Granada",
+  "revision_id": 1277098983,
+  "article_id": 3895793,
+  "section_path": "shared_text[0:572]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    572
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 53705,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "4fe74778af45d216435d54268587a8cde7ec40ed0820debcd2f853c0ce70a931",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1277098983",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3895793",
+    "revision_id": "1277098983",
+    "retrieved_at": "2026-10-18T12:38:14.199696+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 572,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

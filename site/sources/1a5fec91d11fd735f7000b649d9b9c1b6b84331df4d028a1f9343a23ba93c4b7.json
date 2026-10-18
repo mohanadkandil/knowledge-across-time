@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1483113-1213740757-d8ade9e0051f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Naxos (disambiguation)",
+  "text": "Naxos is a Greek island.\n\nNaxos may also refer to:\n\nGreece\n\nNaxos (city), a town and former municipality on the island of Naxos\n\nNaxos (regional unit), a Greek government division\n\nNaxos and Lesser Cyclades, one of two municipalities within the regional unit\n\nNaxos Island National Airport\n\nDuchy of Naxos (Duchy of the Archipelago), a maritime state created by the Venetians between 1207–1579\n\nNaxos (Crete), an ancient Greek city in Crete\n\nItaly\n\nNaxos (Sicily), an ancient Greek city in Sicily\n\nGiardini Naxos, a modern city on the site of the above\n\nSiege of Naxos (499 BC), an engagement in the Cyclades during the Greco-Persian Wars\n\nSiege of Naxos (490 BC), an engagement in the Cyclades during the Greco-Persian Wars\n\nBattle of Naxos (376 BC), an engagement in the Cyclades during the Boeotian War\n\nNaxos (company), a music and audio publishing company\n\nNaxos Quartets, a series of string quartets by Peter Maxwell Davies\n\nAriadne auf Naxos, an opera by Richard Strauss\n\nNaxos (mythology), eponym of the island Naxos\n\nNaxos disease, Arrhythmogenic right ventricular dysplasia\n\nNaxos radar detector, a German World War II countermeasure",
+  "url": "https://en.wikipedia.org/wiki/Naxos_(disambiguation)",
+  "revision_id": 1213740757,
+  "article_id": 1483113,
+  "section_path": "shared_text[0:1143]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1143
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 55557,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "a137ff17810c73c49ed0ee6426c000a94ab50c7e5e46aad0434d269692e3d330",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1213740757",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1483113",
+    "revision_id": "1213740757",
+    "retrieved_at": "2026-10-18T12:35:31.655425+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1143,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

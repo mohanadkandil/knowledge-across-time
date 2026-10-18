@@ -1,0 +1,36 @@
+{
+  "id": "bri-0494-1a757f9cb1e5:region-14:0",
+  "kind": "britannica",
+  "page_id": "bri-0494-1a757f9cb1e5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "text": "sterion to the provision; yst where a further executes a bond of provision to child actually existing, whether such child be the heir of a marriage or not, a proper debt is thereby counter, which, though it is without doubt, positions, is not only effective against the fa- threr himself and his heirs, but is not reducible at the instance even if his prior oncron credits, if the case solves at the time of granting it. A father may, not-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+  "provenance": {
+    "page_id": "bri-0494-1a757f9cb1e5",
+    "row_index": 494,
+    "volume_id": "192984257",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+    "label": 0,
+    "sha256": "1a757f9cb1e56f46b1937b849db98e86309900575fbe0a9f92cfcd391ec7f8bc",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0494-1a757f9cb1e5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+    "manual_seed": false
+  },
+  "region_id": "region-14",
+  "bbox_raw": [
+    0.5186,
+    0.8266,
+    0.9473,
+    0.9453
+  ],
+  "offsets": [
+    0,
+    439
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

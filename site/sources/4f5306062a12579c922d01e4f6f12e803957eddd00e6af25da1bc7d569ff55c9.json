@@ -1,0 +1,36 @@
+{
+  "id": "bri-0654-ec99c922eee3:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0654-ec99c922eee3",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+  "text": "The _(with division_ contains the laws by which the military are governed, the direction and supper-intendence of which are placed under the department of state called the _ping-pos._ It consists of two times. The first relates to the protection of the pa- lace, and of course to the persons of the Emperor; the duties of the imperial guards; examination of passports, Sec. The second is entitled the _government_ of _fiction_, and may be considered as the mutiny act, or articles of war, of China. Every neglect of duty, disbodiedence of orders, and want of discipline; [tural, emblemedament, desertion, are punished with extreme severity, and many of the defence herein specified are capital. The third section relates to the _protection of the frontier_, a must important one adoration with this application government. The fourth prescribes regulations respecting the horses and circle belonging to the army. The fifth for the expresses that governem posts, the post-hues, messengers, and horses, employed in the conveyance of dispatches.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+  "provenance": {
+    "page_id": "bri-0654-ec99c922eee3",
+    "row_index": 654,
+    "volume_id": "192016360",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+    "label": 0,
+    "sha256": "ec99c922eee303aef57a84b0f045fda58f6e22139e9dbb3956ebb01e61369b10",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0654-ec99c922eee3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0908,
+    0.1906,
+    0.4941,
+    0.475
+  ],
+  "offsets": [
+    0,
+    1042
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

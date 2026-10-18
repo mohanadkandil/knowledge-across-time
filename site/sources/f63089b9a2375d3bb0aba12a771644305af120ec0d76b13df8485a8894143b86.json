@@ -1,0 +1,44 @@
+{
+  "id": "wiki-78319031-1300063574-39fc89b5bcb3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Great Ming Code",
+  "text": "rovided that cases cannot be decided by analogy to case-specific imperial decrees, and an official doing so was subject to punishment.\n\nPunishments were classified into the Five Punishments (beating with the light stick, beating with the heavy stick, imprisonment, exile, and death), each of which was divided into various degrees. Some of the punishments were already in place, while others were newly created under the Ming Code. In the imperial preface to the Code, the emperor explained that he had gone beyond the traditional Five Punishments in hopes of making the people afraid to violate the laws. The Eight Deliberations for mitigating the punishment of offenders of a certain rank were also defined in the first chapter of Code. Many punishments could be avoided by paying of a redemption fine, although some could not.\n\nThe Code defined the Ten Abominations as plotting rebellion, plotting \"great sedition\", plotting treason, contumacy, depravity, great irreverence, lack of filial piety, discord, unrighteousness, and incest. These were particularly severe crimes, which deprived those committing them of eligibility for amnesty, mitigation under the Eight Deliberations, and other legal privileges.\n\nAfter the fall of the Ming Dynasty in 1644, the Qing Dynasty replaced the Great Ming Code with the Great Qing Legal Code. The Great Ming Code had been translated into Manchu by Wu Dahai in the early 17th century, and in the early years of Qing the Ming Code was kept largely in effect.\n\nIn the Joseon dynasty of Korea, the criminal provisions of the Great Ming Code were adapted for Kore",
+  "url": "https://en.wikipedia.org/wiki/Great_Ming_Code",
+  "revision_id": 1300063574,
+  "article_id": 78319031,
+  "section_path": "shared_text[0:6953]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 88460,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "35a8e3f6e59e428b212ecaf112b5a7c56269a6e6887b1765b6790f1356dcd96f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1300063574",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "78319031",
+    "revision_id": "1300063574",
+    "retrieved_at": "2026-10-18T12:24:18.039489+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6953,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

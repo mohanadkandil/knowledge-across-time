@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6056832-1239944391-7cafe004dbcb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Granite (disambiguation)",
+  "text": "Granite is a type of rock.\n\nGranite may also refer to:\n\nGranite Island (South Australia)\n\nGranite, Colorado\n\nGranite City, Illinois\n\nGranite, Iowa\n\nGranite, Maryland\n\nGranite Falls, Minnesota\n\nGranite, Oklahoma\n\nGranite, Utah\n\nGranite, Wyoming\n\nGranite State, the official nickname of New Hampshire\n\nGranite Peak, any one of 43 peaks by that name\n\nGranite Bay, California\n\nGranite Peak, either of two peaks by that name in British Columbia\n\nZack Granite, a professional baseball player\n\nGranite (Northern Rock vehicle), a financial instrument\n\nIBM Granite, a family of AI models developed by IBM\n\n\"Granite\" (song), a song by the drum and bass band Pendulum\n\nThe Granite, college yearbook of the University of New Hampshire\n\nGranite Construction, a California-based heavy civil general contractor and construction material producer\n\nGranite Broadcasting Corporation\n\nGMC Granite, a concept car\n\n\"Granite\", a song by Sleep Token from Take Me Back to Eden",
+  "url": "https://en.wikipedia.org/wiki/Granite_(disambiguation)",
+  "revision_id": 1239944391,
+  "article_id": 6056832,
+  "section_path": "shared_text[0:952]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    952
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 97500,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "af11149f5767a5157dc2dc2ec80b04bf0b116df33645360f0db0757503473787",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1239944391",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6056832",
+    "revision_id": "1239944391",
+    "retrieved_at": "2026-10-18T12:31:44.779651+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 952,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

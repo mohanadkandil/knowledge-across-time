@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7465906-1327961811-5eb2a48361a7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Prester John (disambiguation)",
+  "text": "Prester John is a Christian king in medieval legend.\n\nPrester John may also refer to:\n\nPrester John (novel), 1910 novel by John Buchan\n\nPrester John (comics), a Marvel Comics character based on the legend\n\nPrester Jon, a DC Comics character\n\nPrester John, the king of Osten Ard in the 1988–1993 trilogy Memory, Sorrow, and Thorn by Tad Williams\n\nPrester John, a song by Animal Collective, from the 2022 album Time Skiffs",
+  "url": "https://en.wikipedia.org/wiki/Prester_John_(disambiguation)",
+  "revision_id": 1327961811,
+  "article_id": 7465906,
+  "section_path": "shared_text[0:420]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    420
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2035812c382e7e022c4a93233ab97639e6645c182ea6fff87893c1609659e455",
+    "source_row_idx": 34451,
+    "source_shard": "enwiki/data/enwiki_namespace_0_9.parquet",
+    "text_sha256": "d1b0cd860c02778558f874624954986dbf91b3e65c0a456c4488d91ae8aef4a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1327961811",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7465906",
+    "revision_id": "1327961811",
+    "retrieved_at": "2026-10-18T12:36:02.823122+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 420,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

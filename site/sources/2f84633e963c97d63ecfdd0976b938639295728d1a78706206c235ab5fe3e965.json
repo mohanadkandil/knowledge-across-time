@@ -1,0 +1,36 @@
+{
+  "id": "bri-2291-e0d1aa12247a:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2291-e0d1aa12247a",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "When arsenion and has the mouth of the mixed fluids, the above case are incapable, except the last, which may be used to separate the arsenic from the mixed fluid, after adding an acid and filtering. One important substances thus obtained is decomposed by heating it with a mixture of charcoal and carbonated petals, or with cyanide of potassium, and the metal subbands. It is investigated by its volatility and the colour of the vapener, but, it may also be osi-dized all the toxic applied. Even when the acid is pure, we ought always to reduce at least a part of it to metal, as the most chemical properties. Only amounts are all for sembols in this particular, but we shall not presently that these two metals are easily distinguished.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+  "provenance": {
+    "page_id": "bri-2291-e0d1aa12247a",
+    "row_index": 2291,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 1,
+    "sha256": "e0d1aa12247af94bfb9b86b673552ab1d4917278601568b971e8292c624b9564",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2291-e0d1aa12247a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0596,
+    0.4508,
+    0.4434,
+    0.6094
+  ],
+  "offsets": [
+    0,
+    738
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

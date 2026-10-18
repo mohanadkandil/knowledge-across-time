@@ -1,0 +1,36 @@
+{
+  "id": "bri-2536-526b43082bc6:region-6:1440",
+  "kind": "britannica",
+  "page_id": "bri-2536-526b43082bc6",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+  "text": "t out of the water, and confined to a court-yard, the from bee becomes dirty, all the fifjafield. Its usual food condition fill and water plants. _Black fence_--blacks, wings edged with white ; bill _threade_ red, y ever annihilate blacklet at the lip, a yellowing near the lip ; legs black ; fent paler. Extent of wing four feet eight lithials various parts of New Zealand; but little is known reflecting its man-ters.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+  "provenance": {
+    "page_id": "bri-2536-526b43082bc6",
+    "row_index": 2536,
+    "volume_id": "191253837",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+    "label": 0,
+    "sha256": "526b43082bc617aa07f167d2238800380a2993105d74711032efc0157c853b7b",
+    "width": 600,
+    "height": 777,
+    "image_file": "../images/bri-2536-526b43082bc6.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5566,
+    0.075,
+    0.9316,
+    0.5219
+  ],
+  "offsets": [
+    1440,
+    1859
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

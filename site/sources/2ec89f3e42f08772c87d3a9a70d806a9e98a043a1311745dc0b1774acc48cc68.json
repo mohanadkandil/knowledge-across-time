@@ -1,0 +1,49 @@
+{
+  "id": "wiki-21433728-1325213456-1d03ab568416",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Air gun laws",
+  "text": "s no maximum muzzle energy limit for rifles. Open carry of air guns is not allowed. The use of air guns is restricted non-public places, being shooting ranges, inside a house or a backyard that is not easily accessible from the street.\n\nIn Bulgaria anyone over the age of 18 can obtain an air gun if its muzzle energy is below that of 24 Joules. If is over 24 Joules the air gun subject to notification regime in the Police. Cannot be bought online, but some gun shops deliver them with their own supplier legally. Prohibit use and carry of minimum 200 meters from the nearest inhabited building or town/village.\n\nAir guns with both a muzzle velocity greater than 152.4 meters per second (500 feet per second) and a muzzle energy greater than 5.7 joules (4.2 foot-pounds) are firearms for purposes of both the Firearms Act and the Criminal Code. Usually the manufacturer's specifications are used to determine the design muzzle velocity and energy. Air rifles that meet these velocity and energy criteria are generally classified as non-restricted firearms; however, some are classified as restricted or prohibited, depending on the exact design of the air rifle. Air pistols are classified as restricted if their barrel is longer than 105 mm or prohibited if their barrel length is 105 mm or less. The lawful possession of these air guns requires that the owner have a valid firearms licence and that the air gun be registered as a firearm.\n\nAir guns that meet the Criminal Code definition of a firearm, but that are deemed not to be firearms for certain purposes of the Firearms Act and Criminal Co",
+  "url": "https://en.wikipedia.org/wiki/Air_gun_laws",
+  "revision_id": 1325213456,
+  "article_id": 21433728,
+  "section_path": "shared_text[0:28666]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 51146,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "7976d44222958b6c3ad7ad51170fb71e4c2af881b9bb1d8416a285f92a39b805",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325213456",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21433728",
+    "revision_id": "1325213456",
+    "retrieved_at": "2026-10-18T12:41:04.281100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8666,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

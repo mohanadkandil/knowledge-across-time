@@ -1,0 +1,36 @@
+{
+  "id": "bri-1843-f53bf32c975b:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1843-f53bf32c975b",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "Con. 1. Perpendication drawn from the intersection of two tangente, to the draw down from the points of contact through the focus are equal. For HL: Hi, being drawn perpendicular to HP, PF, the triangles HFI, HFG, are manifolding equal (9). L.), where the Hl = HL.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1843",
+  "provenance": {
+    "page_id": "bri-1843-f53bf32c975b",
+    "row_index": 1843,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 1,
+    "sha256": "f53bf32c975bfa37eca80f791ffd0a101655e8736fe3ad5096fa5d028ca659ab",
+    "width": 600,
+    "height": 833,
+    "image_file": "../images/bri-1843-f53bf32c975b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1843",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0283,
+    0.157,
+    0.4307,
+    0.2172
+  ],
+  "offsets": [
+    0,
+    264
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

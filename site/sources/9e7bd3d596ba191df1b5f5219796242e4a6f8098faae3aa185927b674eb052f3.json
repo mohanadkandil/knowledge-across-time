@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1370229-1301708502-54c22e045f26",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Electrorheological fluid",
+  "text": "ke as a clutch with one side fixed) and shock absorbers (which can be thought of as closed hydraulic systems where the shock is used to try to pump fluid through a valve).\n\nThere are many novel uses for these fluids. Potential uses are in accurate abrasive polishing and as haptic controllers and tactile displays.\n\nER fluid has also been proposed to have potential applications in flexible electronics, with the fluid incorporated in elements such as rollable screens and keypads, in which the viscosity-changing qualities of the fluid allowing the rollable elements to become rigid for use, and flexible to roll and retract for storing when not in use. Motorola filed a patent application for mobile device applications in 2006.\n\nA major problem is that ER fluids are suspensions, hence in time they tend to settle out, so advanced ER fluids tackle this problem by means such as matching the densities of the solid and liquid components, or by using nanoparticles, which brings ER fluids into line with the development of magnetorheological fluids. Another problem is that the breakdown voltage of air is ~ 3 kV/mm, which is near the electric field needed for ER devices to operate.\n\nAn advantage is that an ER device can control considerably more mechanical power than the electrical power used to control the effect, i.e. it can act as a power amplifier. But the main advantage is the speed of response. There are few other effects able to control such large amounts of mechanical or hydraulic power so rapidly.\n\nUnfortunately, the increase in apparent viscosity experienced by most Electrorheolo",
+  "url": "https://en.wikipedia.org/wiki/Electrorheological_fluid",
+  "revision_id": 1301708502,
+  "article_id": 1370229,
+  "section_path": "shared_text[0:7768]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ffc5856c64bf1c31a0ed219624f6ef4a28347e774241d9d2d32b453c7b86e006",
+    "source_row_idx": 51934,
+    "source_shard": "enwiki/data/enwiki_namespace_0_23.parquet",
+    "text_sha256": "3fee39997d3dbfe2148e3e4125c1df064e60f46287e89accc389b359044693c6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1301708502",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1370229",
+    "revision_id": "1301708502",
+    "retrieved_at": "2026-10-18T12:17:11.479553+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7768,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

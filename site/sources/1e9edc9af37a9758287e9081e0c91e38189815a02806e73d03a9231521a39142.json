@@ -1,0 +1,36 @@
+{
+  "id": "bri-2561-8730ddc46140:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2561-8730ddc46140",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+  "text": "The drill factor is from August to April; but care it to be taken when it is done, the day not too much in the top, left the cut die before that part in the earth have root enough to support it: nor yet mult it be to dry or fantasy; the fap in the branches affliting it to take root.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+  "provenance": {
+    "page_id": "bri-2561-8730ddc46140",
+    "row_index": 2561,
+    "volume_id": "191253822",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+    "label": 0,
+    "sha256": "8730ddc46140ec609845e190930f8200f20ced9bb92a53ebb27177f57e217a41",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2561-8730ddc46140.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1377,
+    0.375,
+    0.5508,
+    0.4555
+  ],
+  "offsets": [
+    0,
+    283
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

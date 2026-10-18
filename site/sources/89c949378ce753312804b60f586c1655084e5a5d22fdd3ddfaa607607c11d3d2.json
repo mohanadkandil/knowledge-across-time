@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-7aa3fd70e84c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "ill gardens.\n\nThe wall from Tower Hill then runs east of Walbrook toward the second historic gate, Aldgate – Gate 2. These would have led onto the Roman road network toward Essex and East Anglia via Stratford and Colchester. In present times the roads Leadenhall Street and Fenchurch Street lead into Aldgate High Street, where the gate's foundations are buried roughly where the Jewry Street intersects. Following the wall north, it runs between what is now The Aldgate School and Aldgate Square.\n\nFrom Aldgate, the wall then ran North-West toward Gate 3, Bishopsgate. The road through this would have led onto the Roman road network toward leading to Lincoln and York. The current road, the A10 going north, now goes over the foundations of this gate.\n\nFrom Bishopsgate going along the northern section of wall leads to Gate 4; Moorgate. Until 1415 this was a small postern leading into the marshy Moorfields area of Finsbury. The wet conditions were probably caused by the wall partially obstructing the flow of the Walbrook. Moorgate remained ill-connected with no direct approach road from the south until 1846, some time after the wall had been demolished. London Wall, the modern road following this section of the wall, now crosses this gate's foundations. Leading north from here are routes into Finsbury.\n\nRoute to the London Charterhouse, Clerkenwell and Islington.\n\nWith direct access to more local routes.\n\nHigh Holborn and Oxford Street, with access via the Devil's Highway to Silchester and Bath, and Watling Street to St Albans and the west midlands. These roads leading over the Rive",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    15840,
+    17440
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

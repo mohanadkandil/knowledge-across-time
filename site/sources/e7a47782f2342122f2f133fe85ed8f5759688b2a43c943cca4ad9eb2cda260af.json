@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10835813-1309941098-d17c8caa57df",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of swimming competitions",
+  "text": " Swimming Championships, since 2006, for example 2022 FINA World Junior Swimming Championships\n\nWorld Masters Championships, since 1978, 1978 and 1984 held by an organization other than FINA\n\nSwimming World Cup, since 1988, for example 2016 FINA Swimming World Cup\n\nMarathon Swim World Series, since 2007, for example 2022 FINA Marathon Swim World Series\n\nChampions Swim Series, since 2019\n\nAquatics Festival, open water since 2021, for example Abu Dhabi Aquatics Festival\n\nAfrican Aquatics Championships\n\nAfrican Swimming Championships, since 1974, for example 2021 African Swimming Championships\n\nAfrican Junior Swimming Championships, since 1988\n\nAfrican Juniors Aquatics Championships\n\nAfrican Masters Aquatics Championships\n\nPan American Games, pool since 1951, open water since 2007\n\nJunior Pan American Games, since 2021, for example 2021 Junior Pan American Games\n\nSouth American Games, pool since 1978, open water since 2006\n\nSouth American Youth Games, since 2013\n\nSouth American Aquatics Championships\n\nSouth American Swimming Championships, since 1929, for example 2016 South American Swimming Championships\n\nSouth American Masters Aquatics Championships\n\nSouth American Juniors Aquatics Championships\n\nSouth American Beach Games, open water since 2009\n\nCentral American and Caribbean Swimming Championships, since 1960\n\nCaribbean Islands Swimming Championships, since 1976\n\nCAMEX, since 1986\n\nCARIFTA Swimming Championships, since 1985\n\nBolivarian Games, since 1938\n\nBolivarian Beach Games, open water since 2012, for example 2012 Bolivarian Beach Games\n\nAsian Swimming Championships, si",
+  "url": "https://en.wikipedia.org/wiki/List_of_swimming_competitions",
+  "revision_id": 1309941098,
+  "article_id": 10835813,
+  "section_path": "shared_text[0:9693]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4e988165bf3b9cc83db148a357a1a6f440b7273e3c57eaec4e4e45cb461e1797",
+    "source_row_idx": 106825,
+    "source_shard": "enwiki/data/enwiki_namespace_0_7.parquet",
+    "text_sha256": "dfb582151ce5be0bb53393a6bf0fad3a9558d0e25521f0c1e6b7522509b97c61",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1309941098",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10835813",
+    "revision_id": "1309941098",
+    "retrieved_at": "2026-10-18T12:41:21.330347+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9693,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

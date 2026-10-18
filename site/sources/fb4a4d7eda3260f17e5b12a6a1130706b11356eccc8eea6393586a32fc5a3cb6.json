@@ -1,0 +1,44 @@
+{
+  "id": "wiki-285241-1337717876-3540c8596ec4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Phonolite",
+  "text": "pressure and relatively high temperatures. The magma from which phonolites crystallize is often enriched in alkali elements, for example sodium and potassium.\n\nA few geological processes and tectonic events can melt the necessary precursor rocks to form phonolite. These include intracontinental hotspot volcanism, such as may form above mantle plumes covered by thick continental crust. A-type granites and alkaline igneous provinces usually occur alongside phonolites. Low-degree partial melting of underplates of granitic material in collisional orogenic belts may also produce phonolites.\n\nPhonolite is a fine-grained equivalent of nepheline syenite. They are products of partial melting, are silica-undersaturated, and have feldspathoids in their normative mineralogy.\n\nMineral assemblages in phonolite occurrences are usually abundant feldspathoids (nepheline, sodalite, hauyne, leucite and analcite) and alkali feldspar (sanidine, anorthoclase or orthoclase), and rare sodic plagioclase. Biotite, sodium-rich amphiboles and pyroxenes along with iron-rich olivine are common minor minerals. Accessory phases include titanite, apatite, corundum, zircon, magnetite and ilmenite. Phonolite's characteristic dark color comes from its concentration of dark pyroxenes such as aegirine and augite.\n\nBlairmorite is an analcite-rich variety of phonolite.\n\nNepheline syenites and phonolites occur widely distributed throughout the world in Canada, Norway, Greenland, Sweden, the United Kingdom, the Ural Mountains, the Pyrenees, Italy, Eifel and Kaiserstuhl in Germany, Brazil, the Transvaal region, the ",
+  "url": "https://en.wikipedia.org/wiki/Phonolite",
+  "revision_id": 1337717876,
+  "article_id": 285241,
+  "section_path": "shared_text[0:5357]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 37206,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "927e4b8fe473d463624ae567e84de2ed76f396c3be6adca468fb43c72758be6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337717876",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "285241",
+    "revision_id": "1337717876",
+    "retrieved_at": "2026-10-18T12:41:11.467787+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5357,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

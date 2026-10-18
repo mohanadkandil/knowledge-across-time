@@ -1,0 +1,36 @@
+{
+  "id": "bri-2531-0621a364f034:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2531-0621a364f034",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+  "text": "Skill Owner M2D Analysis fors",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2531",
+  "provenance": {
+    "page_id": "bri-2531-0621a364f034",
+    "row_index": 2531,
+    "volume_id": "191253837",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+    "label": 1,
+    "sha256": "0621a364f034d96c5ae469c0b1a42e5db327e9c854eae07d8b6d5f492efc9ef3",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-2531-0621a364f034.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2531",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.668,
+    0.9422,
+    0.8721,
+    0.9586
+  ],
+  "offsets": [
+    0,
+    29
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

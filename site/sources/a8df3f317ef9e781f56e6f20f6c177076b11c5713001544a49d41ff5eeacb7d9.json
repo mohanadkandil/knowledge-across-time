@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278553-1340135747-002be2730fea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Colombia",
+  "text": "m\n\nCoastline: 3,208 km\n\nCaribbean Sea 1,760 km\n\nNorth Pacific Ocean 1,448 km\n\nPopulation of Colombia: 44,603,000 (October 13, 2008) - 29th most populous country\n\nArea of Colombia: 1,141,748 km 2\n\nAtlas of Colombia\n\nEnvironment of Colombia\n\nClimate of Colombia\n\nEnvironmental issues in Colombia\n\nDeforestation in Colombia\n\nNatural hazards in Colombia\n\nEcoregions in Colombia\n\nRenewable energy in Colombia\n\nGeology of Colombia\n\nProtected areas of Colombia\n\nArchaeological sites in Colombia\n\nBiosphere reserves in Colombia\n\nNational parks of Colombia\n\nWildlife of Colombia\n\nFlora of Colombia\n\nFauna of Colombia\n\nBirds of Colombia\n\nMammals of Colombia\n\nGlaciers of Colombia\n\nIslands of Colombia\n\nMountains of Colombia\n\nVolcanoes in Colombia\n\nRivers of Colombia\n\nWorld Heritage Sites in Colombia\n\nValleys and Plateaus of Colombia\n\nRegions of Colombia\n\nCaribbean Region of Colombia\n\nAdministrative divisions of Colombia\n\nDistricts of Colombia\n\nMunicipalities of Colombia\n\nDistricts of Colombia\n\nMunicipalities of Colombia\n\nCapital of Colombia: Bogotá\n\nCities of Colombia\n\nDemographics of Colombia\n\nPolitics of Colombia\n\nForm of government: unitary presidential welfare state\n\nCapital of Colombia: Bogotá\n\nElections in Colombia\n\nPolitical parties in Colombia\n\nPolitical scandals of Colombia\n\nSecurity issues in Colombia\n\nTaxation in Colombia\n\nTrade unions in Colombia\n\nGovernment of Colombia\n\nExecutive Branch of Colombia\n\nHead of state & Head of government: President of Colombia, Vice President of Colombia\n\nEntities in the executive branch of Colombia\n\nCabinet of Colombia\n\nControl Institutions in Colomb",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Colombia",
+  "revision_id": 1340135747,
+  "article_id": 16278553,
+  "section_path": "shared_text[0:7266]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 63239,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2533a1cfe684802ab9be31e7e19c6ed7d6fa2e64e4d23de455603c7d71cdf1e5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340135747",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278553",
+    "revision_id": "1340135747",
+    "retrieved_at": "2026-10-18T12:38:13.052270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7266,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30600547-1339099823-8d7aeff97bf5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Control of Asbestos Regulations 2006",
+  "text": "y to four charges under the Control of Asbestos Regulations 2006 and were fined £12,000 and ordered to pay £28,000 costs. The charges were in relation to work carried out by a contractor, A-Weld, on a furnace at the companies premises. Although asbestos surveys had been carried out on their site, the interior of the plant and equipment had not been surveyed. As a result, asbestos insulation material was disturbed and broken potentially giving rise to powders and fibres. Workers on the site also discovered a 'white material' which they believed to be asbestos and although the sample was sent away for tests, the site was not isolated and the work was allowed to continue. HSE principal inspector Andrew Knowles said that an \"important aspect was the failure to provide asbestos awareness training for employees, which is a specific requirement where asbestos may be present in a workplace\". He added \"The failures in this case were entirely preventable and the defendant fell far short of the high standards required. This should serve as a warning to others about the dangers of asbestos and the legal requirement to manage it properly.\"\n\nAsbestos is a naturally occurring group of silicate minerals that can readily be separated into thin strong fibres that are flexible, heat resistant and chemically inert. Within the United Kingdom and elsewhere in the world, asbestos was used extensively as a building material from the 1950s to the 1980s. It was used as a means of fireproofing as well as insulation and any building built before 2000 could contain asbestos. Although asbestos can be sa",
+  "url": "https://en.wikipedia.org/wiki/Control_of_Asbestos_Regulations_2006",
+  "revision_id": 1339099823,
+  "article_id": 30600547,
+  "section_path": "shared_text[0:5218]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 35782,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2b3a79bf5448a9c83b24f1e7b4f84317b30ccaed6d6c98971e4b249ec6fbe2d8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339099823",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30600547",
+    "revision_id": "1339099823",
+    "retrieved_at": "2026-10-18T12:16:56.249697+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5218,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

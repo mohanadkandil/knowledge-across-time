@@ -1,0 +1,36 @@
+{
+  "id": "bri-1307-2eff05e65514:region-18:0",
+  "kind": "britannica",
+  "page_id": "bri-1307-2eff05e65514",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "This is all that we can say with precision of this curve. M. de Bust examined what would result from supporting it on arc of circle. In this case we should have Dx±DE, and AF very nearly equal to 2AD, and as we can thus follow we see the weak length of the the swell, and also the distances of any part of the curve from the primitive surface EB of the river, for those will be very near- b in the dielectric properties of their distances from F. Thus ID will be one fourth of AB, s.e. Therefore we should obtain the depth Id of the season in this place, cutting the depth of the site, and knowing the discharge, we get the velocity, and can compare this with the slope of the surface at L. This should be the slope of that",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+  "provenance": {
+    "page_id": "bri-1307-2eff05e65514",
+    "row_index": 1307,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 1,
+    "sha256": "2eff05e655141179817b1383e508dae67a3ed33f9e40dc8e1f2cfcddcbbb9595",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1307-2eff05e65514.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+    "manual_seed": false
+  },
+  "region_id": "region-18",
+  "bbox_raw": [
+    0.4277,
+    0.7633,
+    0.8096,
+    0.9266
+  ],
+  "offsets": [
+    0,
+    723
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

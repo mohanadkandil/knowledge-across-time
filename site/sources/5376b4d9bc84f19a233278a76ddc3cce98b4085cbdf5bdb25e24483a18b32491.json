@@ -1,0 +1,44 @@
+{
+  "id": "wiki-22665621-1226834056-44ecc14bfbfa",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Melissa-Jane Daniel",
+  "text": "Melissa-Jane Daniel (born 19 August 1988) is a British archer who is currently studying for a degree in Sociology at The University of Nottingham.\n\nDaniel, born in Preston, Lancashire, is a member of the Bowmen of Skelmersdale and has been a participant in the sport of archery since the age of six. She currently holds seven Regional (Lancashire) Records, along with four National Records in Clout Archery, five National Records in Flight archery and 5 National Records in Target archery.\n\nShe also holds five World Records in Flight Archery, two of which were claimed on her 18th Birthday at the National Flight Championships held at RAF Church Fenton on 19 August 2006.",
+  "url": "https://en.wikipedia.org/wiki/Melissa-Jane_Daniel",
+  "revision_id": 1226834056,
+  "article_id": 22665621,
+  "section_path": "shared_text[0:672]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    672
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 103050,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "11fb7fa827e72e09985280189aae088901dd391a89a8d1d604df32553f8663f3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1226834056",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "22665621",
+    "revision_id": "1226834056",
+    "retrieved_at": "2026-10-18T12:41:28.394171+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 672,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

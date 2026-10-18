@@ -1,0 +1,36 @@
+{
+  "id": "bri-1071-d24d0fd09823:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-1071-d24d0fd09823",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+  "text": "Commons, Commons, is equal names perientes), in law, ilgifies that both, the de whereof is common to a partient town or holding, or it is a pride that a minh bish the land of smaller prefer, usually is common with others; or a right which a person lost to pan his cattle to pattern into ground that is not his own. And there is not only common of nature, but alio common of dietary common of cultures, common of turvory. See. And in all roles of common, the live much reflects the culm of the place; for there the role is, _confused locs of offorando._ See Com- monetry.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+  "provenance": {
+    "page_id": "bri-1071-d24d0fd09823",
+    "row_index": 1071,
+    "volume_id": "192547776",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+    "label": 0,
+    "sha256": "d24d0fd098237eeb0479d8675ed1388c6ec6806c51819810dc13332feacfd194",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1071-d24d0fd09823.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5137,
+    0.1586,
+    0.877,
+    0.3133
+  ],
+  "offsets": [
+    0,
+    570
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

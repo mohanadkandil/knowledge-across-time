@@ -1,0 +1,36 @@
+{
+  "id": "bri-2284-33471bbe8055:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2284-33471bbe8055",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "_of Imagination would have been much more valued by modern metaphysicians, had they been less beautifully and happily written. The characteristic excellence, however, of the Archbishop of Cambray, is that _moral: wisdom_ which (as Shaftesbury has well observed) \"comes more from the heart than from the head;\" and which seems to depend less on the reach of our reasoning powers, than on the absence of those narrow and malignant passions, which, on all questions of ethics and politics (perhaps I might add of religion also), are the chief source of our speculative errors.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+  "provenance": {
+    "page_id": "bri-2284-33471bbe8055",
+    "row_index": 2284,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 0,
+    "sha256": "33471bbe8055216dff3be2c57a051fd04caf12126ecf736755ae78d39ca78c15",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-2284-33471bbe8055.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2284",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0654,
+    0.0836,
+    0.875,
+    0.2461
+  ],
+  "offsets": [
+    0,
+    573
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

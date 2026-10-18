@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8825475-1310119841-aa504e1150ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of goose breeds",
+  "text": "ormandy goose (Oie normande; including Crested Normandy goose)\n\nNorwegian white goose (Norsk hvit gås)\n\nNungan Mieu goose\n\nObroshino goose (Оброшинська)\n\nÖland goose (Ölandsgås)\n\nPadans goose (Oca Padovana)\n\nPereyaslav goose (Переяславская)\n\nPhilippine domestic goose\n\nPilgrim goose\n\nPink-footed goose\n\nPodkarpacka goose\n\nPoitou goose (Oie du Poitou, Blanche de Poitou)\n\nPolish oat goose\n\nPomeranian goose (including Pomeranian Saddleback)\n\nPskov bald goose (Псковская)\n\nQingyang goose\n\nRhenish goose\n\nRhineland laying goose (Rheinische Legegans, extinct breed)\n\nRomanic goose (Romaanse gans)\n\nRoman goose (Oca Italiano)\n\nRomny goose\n\nRussian goose\n\nRypinska goose\n\nRung goose\n\nScania goose (Skånegås)\n\nSebastopol goose (Lockengans)\n\nShadrinsk goose (→ Ural Goose)\n\nShetland goose\n\nSlovak white goose (Slovenská hus)\n\nSmålen goose (Smålensgås)\n\nSolnechnogorsk goose\n\nSteinbacher goose (Steinbacher Kampfgans)\n\nSubcarpathian goose (Podkarpacka)\n\nSuwalska goose (Suwałska)\n\nSuchovy goose (Suchovská hus)\n\nSynthetic Ukrainian goose\n\nTame goose\n\nToulouse goose (including Light Toulouse)\n\nTouraine goose (Oie de Touraine)\n\nTufted Roman goose (→ Roman goose)\n\nTula goose (Tульская бойцовая)\n\nTurkish goose\n\nTwente goose (Twentse landgans)\n\nUral goose or Shadrin goose (Уральская or Шадринская)\n\nVenetian goose (Oca Pezzata Veneta)\n\nVištinės goose (Vištinės žąsys)\n\nVladimir clay goose (Владимирская глинистая)\n\nWest of England goose (including crested goose)\n\nWhet goose\n\nWhite Hungarian goose\n\nWhite Italian goose (→ Roman goose)\n\nWhite Norman goose\n\nZatory landrace (Zatorska)\n\nAfrican goose\n\nChangle go",
+  "url": "https://en.wikipedia.org/wiki/List_of_goose_breeds",
+  "revision_id": 1310119841,
+  "article_id": 8825475,
+  "section_path": "shared_text[0:5156]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 59971,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "59e3b673d69b826651170eaa5cfd9171ffd0117a26104b9d353e2b29d2ce0031",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1310119841",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8825475",
+    "revision_id": "1310119841",
+    "retrieved_at": "2026-10-18T12:42:01.881582+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5156,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

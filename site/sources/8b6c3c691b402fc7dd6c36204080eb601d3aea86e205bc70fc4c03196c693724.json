@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-f28122d588d2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": " A line joining the Northernmost point of Spitzbergen to the Northernmost point of Greenland.\n\nOn the East. The West coast of West Spitzbergen.\n\nOn the Southeast. A line joining the Southernmost point of West Spitzbergen to the Northern point of Jan Mayen Island, down the West coast of that island to its Southern extreme, thence a Line to the Eastern extreme of Gerpir (67°05′N, 13°30′W) in Iceland.\n\nOn the Southwest. A line joining Straumnes (NW extreme of Iceland) to Cape Nansen (68°15′N 29°30′W / 68.250°N 29.500°W) in Greenland.\n\nOn the West. The East and Northeast coast of Greenland between Cape Nansen and the northernmost point.\n\nWhile the sea has been known for millennia,, its first scientific explorations were conducted in 1765 and 1766 as part of two Russian government expeditions under the command of Admiral V. Chichagov, who, in search of a passage north of Greenland through the Arctic, carried out oceanographic, geophysical and meteorological observations according to a special program developed by M. Lomonosov, studied currents and ice drift in the northern Greenland Sea, took soil samples, and measured depths in many places. A number of scientific investigations were carried out in 1876–1878 as part of the Norwegian North-Atlantic Expedition. Since then, many countries, mostly Norway, Iceland and Russia have sent scientific expeditions to the area. The complex water current system in the Greenland Sea was described in 1909 by Fridtjof Nansen.\n\nThe Greenland Sea was a popular hunting ground for the whaling industry for 300 years, until 1911, primarily based in Sp",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

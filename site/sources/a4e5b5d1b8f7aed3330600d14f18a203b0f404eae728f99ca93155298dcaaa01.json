@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-17:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "The liquor is also conveniently weighed in a narrow-weekly girls twisty of fresh a free, that the measure of a wine pint mayarlic fome height into its neck; the place which is reached being marked with a diamond. A plot of the common leys of our forspmakers weighs more than 160 cmese; it has been found that their flap is will be reduced to the flank and here proopod, by mixing it with something left than an equal measure of water.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-17",
+  "bbox_raw": [
+    0.5205,
+    0.7641,
+    0.8867,
+    0.8891
+  ],
+  "offsets": [
+    0,
+    434
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3752339-1342784606-f9155c964e93",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Neusis construction",
+  "text": "(and its A {\\displaystyle A} -mark) touches ℓ 1 {\\displaystyle \\ell _{1}}. The angle β = A D B {\\displaystyle \\beta =ADB} equals one-third of α {\\displaystyle \\alpha } (as shown in the visual proof below the illustration of the construction).\n\nNeuseis have been important because they sometimes provide a means to solve geometric problems that are not solvable by means of compass and straightedge alone. Examples are the trisection of any angle in three equal parts, and the doubling of the cube. Mathematicians such as Archimedes of Syracuse (287–212 BC) and Pappus of Alexandria (290–350 AD) freely used neuseis; Isaac Newton (1642–1726) followed their line of thought, and also used neusis constructions. Nevertheless, gradually the technique dropped out of use.\n\nIn 2002, A. Baragar showed that every point constructible with marked ruler and compass lies in a tower of fields over Q {\\displaystyle \\mathbb {Q} }, Q = K 0 ⊂ K 1 ⊂ ⋯ ⊂ K n = K {\\displaystyle \\mathbb {Q} =K_{0}\\subset K_{1}\\subset \\dots \\subset K_{n}=K}, such that the degree of the extension at each step is no higher than 6. Of all prime-power polygons below the 128-gon, this is enough to show that the regular 23-, 29-, 43-, 47-, 49-, 53-, 59-, 67-, 71-, 79-, 83-, 89-, 103-, 107-, 113-, 121-, and 127-gons cannot be constructed with neusis. (If a regular p -gon is constructible, then ζ p = e 2 π i p {\\displaystyle \\zeta _{p}=e^{\\frac {2\\pi i}{p}}} is constructible, and in these cases p − 1 has a prime factor higher than 5.) The 3-, 4-, 5-, 6-, 8-, 10-, 12-, 15-, 16-, 17-, 20-, 24-, 30-, 32-, 34-, 40-, 48-, 51-, 60-, 64-",
+  "url": "https://en.wikipedia.org/wiki/Neusis_construction",
+  "revision_id": 1342784606,
+  "article_id": 3752339,
+  "section_path": "shared_text[0:7188]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 91070,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "c5ed607bf87dfc2d3d4998a6fed4af3647531e8e7fa95a2e4434249df8f01c7f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1342784606",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3752339",
+    "revision_id": "1342784606",
+    "retrieved_at": "2026-10-18T12:40:11.802216+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7188,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

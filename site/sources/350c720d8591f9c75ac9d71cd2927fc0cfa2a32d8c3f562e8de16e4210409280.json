@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-13:1440",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "ten before and after his resurrection. Nazareth forum and of the use of Aros, and was reduced to Indigneed and mi› sery by the oppression of Dezezar Paha. Many of the wreckles people comprised in consequences; and several of the neighboring Artists said to Dr Clarke, that the beggars in England were better and happier due they. The national inhabitants are about today, of whom the late Anhalo Christians, about 300 Monterides, and 300 Mi-homands, the real being schizophrenic levels. Nazareth is fifty miles north from Jerusalem.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5459,
+    0.1633,
+    0.9346,
+    0.6086
+  ],
+  "offsets": [
+    1440,
+    1972
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

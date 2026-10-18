@@ -1,0 +1,36 @@
+{
+  "id": "bri-0504-f34cf1fc8349:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0504-f34cf1fc8349",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+  "text": "We shall find it more difficult to fulfillute a true theory, than to refute that of Mr Hellot. Many ex- prinements ought to be previously made. Nevertheless\nit may be delivered, then the colorite particles of mold\nfubliances used in dyeing femen to be insoluble in wa- ter, in spirit of wine, and even in alkaline likivions; that their diffusion thief liquids is useful merely\ntheir afterdefon to certain gummous and refonos par- ticles; and that they may be infangaged from those\ngummy and reduces matters, by applying a piece\nfluff in, which they have a greater adhesive power,\nwhich forms to be the cake of the root-coloured and\nblue dyes, or by applying another forbidden to which\nthefy particles have a greater power of adhesion; fich\nas the earth of alum, in thofe dyes where that fall is\nand, together with some other folklance, as fast or reo-\nhicile alkali, capable of developing alum; or as the ferruginous earth of the green vitrol in black dyes,\nwhich the colorite particles of the galls adhere;\nwhich carries the capable of applying thematives and\nof adhering to the fluffs. The leparation of the col-\nturing particles from the gummy and refonos mat-\nness is probably facilitated by the addition of acids and\nneutral salts, which may recognize in force machine the vegetable matters, and leave the colorite particles dif-\nengaged; fis that, they apply themselves to the\nfluff, or to the earth above-mentioned!?",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+  "provenance": {
+    "page_id": "bri-0504-f34cf1fc8349",
+    "row_index": 504,
+    "volume_id": "144850375",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+    "label": 0,
+    "sha256": "f34cf1fc83499701f722e1e77ec94d731ed921002b4d0256cc72ebd889ce2676",
+    "width": 600,
+    "height": 808,
+    "image_file": "../images/bri-0504-f34cf1fc8349.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5039,
+    0.1883,
+    0.998,
+    0.5539
+  ],
+  "offsets": [
+    0,
+    1423
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

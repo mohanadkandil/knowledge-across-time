@@ -1,0 +1,44 @@
+{
+  "id": "wiki-57029859-1269441635-b3902fd0ee4e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "UD Melilla (1943)",
+  "text": "Unión Deportiva Melilla was a Spanish football team based in the autonomous city of Melilla. Founded in 1943 and dissolved in 1956, it played for four consecutive seasons in Segunda División.\n\nAt the beginning of the 1930s, Melilla city had four local football teams: Melilla C.F., Sociedad Deportiva Melillense, Deportivo Español and La Hípica. Unión Deportiva Melilla was founded on 6 February 1943. The first official game was against C.D. African on 21 March 1943. UD Melilla won it 5:1.\n\nThe club reached Tercera División after only one year of existence, and in 1950, achieved promotion to Segunda División. They suffered relegation in 1954, and folded two years later. Melilla CF took their place.\n\nJuventud Español — (1940–43)\n\nMelilla Fútbol Club — (1921–43)\n\nUnión Deportiva Melilla — (1943–56)\n\nClub Deportivo Tesorillo — (1940–56)\n\nMelilla Club de Fútbol – (1956–76)\n\nClub Gimnástico de Cabrerizas – (1973–76)\n\nSociedad Deportiva Melilla – (1970–76)\n\nGimnástico Melilla Club de Fútbol – (1976–80)\n\nUnión Deportiva Melilla – (1980–)\n\nClub Deportivo Real Melilla — (1939–)\n\nClub de Fútbol Melilla Industrial – (1968–74)\n\nClub de Fútbol Industrial Melilla – (1975–85)\n\nMelilla Fútbol Club — (1985–91)\n\n4 seasons in Segunda División\n\n8 seasons in Tercera División",
+  "url": "https://en.wikipedia.org/wiki/UD_Melilla_(1943)",
+  "revision_id": 1269441635,
+  "article_id": 57029859,
+  "section_path": "shared_text[0:1271]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1271
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 14388,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "6d86ef61dc14adf33572b10da1cb0b2378bd1e92b6e3c393a22c686737ae4173",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1269441635",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "57029859",
+    "revision_id": "1269441635",
+    "retrieved_at": "2026-10-18T12:20:51.760107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1271,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

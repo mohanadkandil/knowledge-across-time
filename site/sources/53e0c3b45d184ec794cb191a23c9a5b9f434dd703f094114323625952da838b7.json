@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30253-1346760679-22aae253a878",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tertiary period",
+  "text": "The Tertiary (/ ˈ t ɜːr ʃ ər i / TUR -shər-ee, US also / ˈ t ɜːr ʃ i. ɛr i / TUR -shee-err-ee) is an obsolete geologic period spanning 66 million to 2.6 or 1.8 million years ago. The period began with the extinction of the non- avian dinosaurs in the Cretaceous–Paleogene extinction event, at the start of the Cenozoic Era, and extended to the beginning of the Quaternary glaciation at the end of the Pliocene Epoch. The Tertiary has not been recognised by the International Commission on Stratigraphy (ICS) since the late 1980s, with the timespan of the Tertiary now being split into the earlier Paleogene and the more recent Neogene periods, though the term continues to be used in some scientific publications.\n\nThe term Tertiary was first used by Giovanni Arduino during the mid-18th century. He classified geologic time into primitive (or primary), secondary, and tertiary periods based on observations of geology in Northern Italy. Later a fourth period, the Quaternary, was applied.\n\nIn the early development of the study of geology, the periods were thought by scriptural geologists to correspond to the Biblical narrative, the rocks of the Tertiary being thought to be associated with the Great Flood.\n\nIn 1833, Charles Lyell incorporated a Tertiary Period into his own, far more detailed system of classification, based on fossil mollusks he collected in Italy and Sicily in 1828–1829. He subdivided the Tertiary Period into four epochs according to the percentage of fossil mollusks resembling modern species found in those strata. He used Greek names: Eocene, Miocene, Older Pliocene, and",
+  "url": "https://en.wikipedia.org/wiki/Tertiary_period",
+  "revision_id": 1346760679,
+  "article_id": 30253,
+  "section_path": "shared_text[0:3571]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 80421,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "380fea40248bab52f4fbc39dcd6d222872981e6ec53207fbf453b3118742e866",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346760679",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30253",
+    "revision_id": "1346760679",
+    "retrieved_at": "2026-10-18T12:29:32.371774+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3571,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

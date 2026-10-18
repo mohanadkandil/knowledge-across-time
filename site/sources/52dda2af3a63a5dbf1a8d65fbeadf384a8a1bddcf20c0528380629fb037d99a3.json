@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10347491-1322174026-6dfefd2026bc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marble (disambiguation)",
+  "text": "Marble is a type of rock resulting from the metamorphism of limestone.\n\nMarble or Marbles may also refer to:\n\nMarble (toy), a small spherical toy usually made from glass, clay, steel, or agate\n\nMarbles, a game using the toy; often Ring Taw\n\nMarble sculpture\n\nMarble (surname)\n\nMarble Range, British Columbia, a mountain range\n\nMarble Peak (British Columbia)\n\nMarble Island, Nunavut\n\nMarble, Arkansas, an unincorporated community\n\nMarble, Colorado, a town\n\nMarble, Minnesota, a city\n\nMarble, North Carolina, an unincorporated community and census-designated place\n\nMarble City, Oklahoma, often shortened to Marble, a town\n\nMarble, Pennsylvania, an unincorporated community\n\nMarble, Washington, an unincorporated community\n\nMarble, Wisconsin, a ghost town\n\nMarble Mountains (Siskiyou County), California\n\nMarble Mountains (San Bernardino County), California\n\nMarble Creek (Mississippi River tributary), Missouri\n\nMarble Creek (St. Francis River tributary), Missouri\n\nMarble Spring, a stream in Georgia\n\nMarble Township (disambiguation)\n\nMarble Canyon (disambiguation)\n\nMarble Mountain (disambiguation)\n\nMarble Peak (Antarctica)\n\nMarble Point, Victoria Land, Antarctica\n\nMarble Mountains (Vietnam)\n\nMarble (band), a Japanese musical duo\n\nMarbles (band), the solo music project of Robert Schneider of The Apples in Stereo\n\nThe Marbles (duo), a 1960s English rock duo\n\nMarble, a 2004 album by Casiopea\n\nMarble (album), a 1996 album by Fanatic Crisis\n\nMarbles a 1994 single by Plastikman\n\nMarbles (album), a 2004 album by Marillion\n\nMarble (EP), a 2023 EP by Ai Otsuka\n\nMarble Arms\n\nMarble Brewery (Manches",
+  "url": "https://en.wikipedia.org/wiki/Marble_(disambiguation)",
+  "revision_id": 1322174026,
+  "article_id": 10347491,
+  "section_path": "shared_text[0:2051]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2035812c382e7e022c4a93233ab97639e6645c182ea6fff87893c1609659e455",
+    "source_row_idx": 101171,
+    "source_shard": "enwiki/data/enwiki_namespace_0_9.parquet",
+    "text_sha256": "f7d8edddd8c3ee409a63ec2670e2f8beaea5a910fc1cfeb0aa6416c741981dc4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1322174026",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10347491",
+    "revision_id": "1322174026",
+    "retrieved_at": "2026-10-18T12:31:47.795759+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2051,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

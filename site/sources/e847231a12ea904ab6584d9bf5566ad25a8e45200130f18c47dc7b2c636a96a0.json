@@ -1,0 +1,36 @@
+{
+  "id": "bri-0032-2ebcde0b7a34:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0032-2ebcde0b7a34",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+  "text": "MELISAS, Banan, a genus of plants, belonging to the disiryumia cats; and in the named method making under the aid order. Perishlists. See Botany Index.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+  "provenance": {
+    "page_id": "bri-0032-2ebcde0b7a34",
+    "row_index": 32,
+    "volume_id": "192200898",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+    "label": 0,
+    "sha256": "2ebcde0b7a34c9d11c91c2e0c77bce71941ab576ca45017075b58e3eebe9f94c",
+    "width": 600,
+    "height": 827,
+    "image_file": "../images/bri-0032-2ebcde0b7a34.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0547,
+    0.7578,
+    0.4434,
+    0.7984
+  ],
+  "offsets": [
+    0,
+    151
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

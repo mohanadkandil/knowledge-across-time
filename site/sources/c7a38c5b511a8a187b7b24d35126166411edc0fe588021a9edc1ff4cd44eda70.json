@@ -1,0 +1,36 @@
+{
+  "id": "bri-0966-64586d30c5c9:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0966-64586d30c5c9",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "tions among marine territories; the vicinity of Rome and Naples and the Vald. Nous show abundant proof of vote certain action where they ripped. Hungry is also all of such movements, and most of the trap-rocks of the Rhino, and various parts of Germany, probably belong to this era. It is not at its certain that the healthle rocks of Ireland and Staffa and other parts of Scotland are not referable to the territory period, certainly they see later than the chalk, which they have divided and corroborate.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "provenance": {
+    "page_id": "bri-0966-64586d30c5c9",
+    "row_index": 966,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 0,
+    "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+    "width": 600,
+    "height": 818,
+    "image_file": "../images/bri-0966-64586d30c5c9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1504,
+    0.0641,
+    0.5498,
+    0.1758
+  ],
+  "offsets": [
+    0,
+    506
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-690575-1346891065-835ee73e50bc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of Church of the Nazarene schools",
+  "text": "This is a list of Bible colleges, liberal arts colleges, and seminaries owned and operated by the Church of the Nazarene. They are listed by continent and country.\n\nInstitut Biblique Nazareen, Abidjan\n\nAfrica Nazarene School of Extension, Nairobi\n\nAfrica Nazarene University, Nairobi\n\nNazarene Theological College of Central Africa, Lilongwe\n\nSeminario Nazareno em Mozambique, Maputo\n\nNigeria Nazarene Theological College, Abak, Akwa Ibom\n\nNazarene Theological College, Honeydew, Johannesburg, South Africa\n\nSouthern Africa Nazarene University, a merger of the following institutions:\n\nSwaziland Nazarene College of Education\n\nSwaziland Nazarene College of Nursing\n\nSwaziland Nazarene College of Theology, Siteki\n\nNazarene Nurses Training College, Maharashtra\n\nSouth Asia Nazarene Bible College, Bangalore\n\nIndonesia Nazarene Theological College, Yogyakarta\n\nJapan Christian Junior College, Chiba, Japan\n\nJapan Nazarene Theological Seminary, Tokyo\n\nAsia-Pacific Nazarene Theological Seminary, Taytay, Rizal\n\nCommunity Nazarene Christian School, Inayawan, Cebu\n\nPhilippine Nazarene College, (formerly Luzon Nazarene Bible College), Pico, La Trinidad, Benguet\n\nVisayan Nazarene Bible College, Cebu City, Cebu\n\nKorea Nazarene University, Cheonan\n\nTaiwan Nazarene Theological College, Beitou, Taipei (inactive)\n\nSoutheast Asia Nazarene Bible College, Bangkok\n\nNazarene Theological College, Thornlands, Queensland\n\nSouth Pacific Nazarene Theological College, registered in Apia\n\nMelanesia Nazarene Bible College, Ningei, Mount Hagen, Western Highlands Province, Papua New Guinea\n\nNazarene College of Nursi",
+  "url": "https://en.wikipedia.org/wiki/List_of_Church_of_the_Nazarene_schools",
+  "revision_id": 1346891065,
+  "article_id": 690575,
+  "section_path": "shared_text[0:3435]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 136795,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "df348f72d0f0bd321868dca556ba5f0ba3efdd8d39b8c73d84a246a93bb82521",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346891065",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "690575",
+    "revision_id": "1346891065",
+    "retrieved_at": "2026-10-18T12:35:36.956509+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3435,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1776-5ed864a29d36:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-1776-5ed864a29d36",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "Let A (fig. z.o.) be an overcharged sphere, and BC General a conducting cylinder or primary body; draw _be_ parched rallet to BC; and credit perpendaciana B, Cc, Pz, dipifice size to represent the capable density of the fluid, were like the conductor is in his natural flame; but let B, Cry, Pz, etc.reprether unequal densities in its different points, while in the vicinity of the overcharged figure. These estimates must be bounded by e line _in_, which will cut the line _b_ in the point of the perpendicular, drawn from the neutrals point of the conductor. The whole quantity of fluid in the conductor is represented by the parallelogram BC cb; which multt therefore be equal to the flow BC vary; the redanuation fluid in any portion CP or IN is represented by the faces _crr_, _pns_; and the redundant matter, or deficient fluids in any porous BC, is represented by bdvg. The action of this body on any body placed near it, depends entirely on the area contained between this curveline and its axis _bc._ The only circumstance that we can alteration with respect to this curve is, that the _variations of curvature_ in every point are proportional to the forces exerted by the Sphere A; and are therefore inversely as the figures of the distance from A. This property will be demonstrated by and live. The place of n, and the magnitude of the ordinates, will vary as the diameter of the conductor varies. We shall consider this a little more, particularly in four cafes which will occur afterwards. We may consider the impactful that that can occur; namely, when the con ductor is, like a wire, ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+  "provenance": {
+    "page_id": "bri-1776-5ed864a29d36",
+    "row_index": 1776,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1776-5ed864a29d36.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+    "manual_seed": true
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.541,
+    0.4289,
+    0.9912,
+    0.8422
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

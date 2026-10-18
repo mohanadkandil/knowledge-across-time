@@ -1,0 +1,44 @@
+{
+  "id": "wiki-65243695-1242382462-9fbc6a51115d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Grantstown Wood and Grantstown Lough",
+  "text": "Grantstown Wood and Grantstown Lough is a national nature reserve of approximately 120 acres (0.49 km 2) located in County Laois, Ireland. It is managed by the Irish National Parks & Wildlife Service.\n\nGrantstown Wood and Grantstown Lough, sometimes written Granston, was legally protected as a national nature reserve by the Irish government in 1982. It is very close to another nature reserve, Coolacurragh Wood. The area was formerly the demesne of Grantstown Manor.\n\nGrantstown Wood is a wet woodland, with rich base soils. The woodland is predominantly ash, alder and birch, with an under planting of hawthorn, meadowsweet, nettle and brambles. The lough has infilled gradually with fen to alder carr. The reserve also has a lake which provides fish for otters, kingfishers and cormorants. Perch, pike, eel, rudd and tench fish are found in the lake.\n\nThe site has two looped walks, a Lake Walk and a Wood Walk.",
+  "url": "https://en.wikipedia.org/wiki/Grantstown_Wood_and_Grantstown_Lough",
+  "revision_id": 1242382462,
+  "article_id": 65243695,
+  "section_path": "shared_text[0:916]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    916
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 26920,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "0f2714df0990fc0fbbf25618ab974346520e1b346de90195e9c7bf307e0239e9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1242382462",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "65243695",
+    "revision_id": "1242382462",
+    "retrieved_at": "2026-10-18T12:38:00.586849+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 916,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

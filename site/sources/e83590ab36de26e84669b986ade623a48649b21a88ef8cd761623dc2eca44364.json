@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4219070-1336688599-c82e78911942",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tellurium tetrafluoride",
+  "text": " Tellurium, VanNostrand Reinhold Company, New York, 1971.",
+  "url": "https://en.wikipedia.org/wiki/Tellurium_tetrafluoride",
+  "revision_id": 1336688599,
+  "article_id": 4219070,
+  "section_path": "shared_text[0:1497]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1497
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 73425,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "aaf3abdf08670e1189953eb4031d14d04bca2d854e631c8f659d547f7d9c5cd8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336688599",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4219070",
+    "revision_id": "1336688599",
+    "retrieved_at": "2026-10-18T12:40:35.462123+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1497,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

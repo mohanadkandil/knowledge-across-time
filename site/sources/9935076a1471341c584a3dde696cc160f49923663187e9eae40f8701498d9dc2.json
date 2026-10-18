@@ -1,0 +1,44 @@
+{
+  "id": "wiki-58739-1349988561-276cb72ecea3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Timeline of microscope technology",
+  "text": "combined lenses that cancelled spherical and chromatic aberration.\n\n1846: Carl Zeiss founded Carl Zeiss AG, to mass-produce microscopes and other optical instruments.\n\n1850s: John Leonard Riddell, Professor of Chemistry at Tulane University, invents the first practical binocular microscope.\n\n1863: Henry Clifton Sorby develops a metallurgical microscope to observe structure of meteorites.\n\n1860s: Ernst Abbe, a colleague of Carl Zeiss, discovers the Abbe sine condition, a breakthrough in microscope design, which until then was largely based on trial and error. The company of Carl Zeiss exploited this discovery and becomes the dominant microscope manufacturer of its era.\n\n1928: Edward Hutchinson Synge publishes theory underlying the near-field scanning optical microscope\n\n1931: Max Knoll and Ernst Ruska start to build the first electron microscope. It is a transmission electron microscope (TEM).\n\n1936: Erwin Wilhelm Müller invents the field emission microscope.\n\n1938: James Hillier builds another TEM.\n\n1951: Erwin Wilhelm Müller invents the field ion microscope and is the first to see atoms.\n\n1953: Frits Zernike, professor of theoretical physics, receives the Nobel Prize in Physics for his invention of the phase-contrast microscope.\n\n1955: Georges Nomarski, professor of microscopy, published the theoretical basis of differential interference contrast microscopy.\n\n1957: Marvin Minsky, a professor at MIT, invents the confocal microscope, an optical imaging technique for increasing optical resolution and contrast of a micrograph by means of using a spatial pinhole to block out-of",
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+  "revision_id": 1349988561,
+  "article_id": 58739,
+  "section_path": "shared_text[0:5338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 40744,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "25c993e72d09485d4923e37fd058572fe98812095ce9e0b45bbd5339d7338abc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349988561",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "58739",
+    "revision_id": "1349988561",
+    "retrieved_at": "2026-10-18T12:39:35.063760+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

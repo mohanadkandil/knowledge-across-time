@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17885054-1286914452-90e1dcc0d981",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "1st Artillery Regiment",
+  "text": "llery\n\n1st Hampshire Artillery Volunteers\n\n1st Inverness Artillery Volunteers\n\n1st Kent Artillery Volunteers\n\n1st Lanarkshire Artillery Volunteers\n\n1st Lancashire Artillery Volunteers\n\n1st Lincolnshire Artillery Volunteers\n\n1st (Hanover Square) Middlesex Artillery Volunteer Corps\n\n1st Midlothian Artillery Volunteers\n\n1st Monmouthshire Artillery Volunteers\n\n1st Newcastle-upon-Tyne Artillery Volunteers\n\n1st Norfolk Artillery Volunteers\n\n1st North Riding Artillery Volunteers\n\n1st Orkney Artillery Volunteers\n\n1st Renfrew and Dumbarton Artillery Volunteers\n\n1st Staffordshire Artillery Volunteers\n\n1st Suffolk Artillery Volunteer Corps\n\n1st Suffolk and Harwich Volunteer Artillery\n\n1st Sussex Artillery Volunteers\n\nTynemouth Volunteer Artillery\n\n1st Warwickshire Volunteer Artillery\n\n1st Wessex Artillery\n\nWest Riding Artillery\n\n1st Worcestershire Artillery Volunteers\n\n1st Air Defense Artillery Regiment\n\n1st Field Artillery Regiment (United States)\n\n1st Continental Artillery Regiment\n\n1st Regiment Heavy Artillery U.S. Colored Troops\n\n1st Connecticut Heavy Artillery Regiment\n\n1st Illinois Light Artillery Regiment\n\nBattery A, 1st Illinois Light Artillery Regiment\n\nBattery B, 1st Illinois Light Artillery Regiment\n\nBattery C, 1st Illinois Light Artillery Regiment\n\nBattery D, 1st Illinois Light Artillery Regiment\n\nBattery E, 1st Illinois Light Artillery Regiment\n\nBattery F, 1st Illinois Light Artillery Regiment\n\nBattery G, 1st Illinois Light Artillery Regiment\n\nBattery H, 1st Illinois Light Artillery Regiment\n\nBattery I, 1st Illinois Light Artillery Regiment\n\nBattery K, 1st Illinois Light ",
+  "url": "https://en.wikipedia.org/wiki/1st_Artillery_Regiment",
+  "revision_id": 1286914452,
+  "article_id": 17885054,
+  "section_path": "shared_text[0:6731]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 103342,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "e63feaa6241c84fa5db124c912ecf5cf702686b222b7c19f95a4b3ce1c403fc1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1286914452",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17885054",
+    "revision_id": "1286914452",
+    "retrieved_at": "2026-10-18T12:36:26.723179+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6731,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

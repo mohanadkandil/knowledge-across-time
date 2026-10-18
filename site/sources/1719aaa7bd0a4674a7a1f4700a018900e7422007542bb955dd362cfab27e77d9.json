@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8263064-1333965579-ca7647958c67",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gentile (name)",
+  "text": "Gentile is an Italian surname and a unisex given name.\n\nGentile (bishop of Agrigento) (died 1171), Italian bishop\n\nAlessandro Gentile (born 1992), Italian basketball player\n\nCarlo Gentile (1835–1893), Italian-American photographer\n\nCaroline D. Gentile (1924–2008), American academic and physical education instructor at University of Maine at Presque Isle\n\nClaudio Gentile (born 1953), Italian football player\n\nDiodato Gentile (1555–1616), Italian Roman Catholic prelate\n\nDominic Salvatore Gentile (1920–1951), American Air Force officer\n\nDonato Gentile (born 1957), Italian politician\n\nDoris Gentile (1894–1972), Australian novelist and short story writer\n\nEdera Gentile (1920–1993), Italian discus throw\n\nEmilio Gentile (born 1946), Italian historian\n\nEnrico Gentile (1921–?), Italian singer of the 1940s\n\nFedele Gentile (1908–1993), Italian film actor\n\nFerdinando Gentile (born 1967), Italian basketball player\n\nGary Gentile (born 1946), American author and technical diver\n\nGian Gentile, US Army officer\n\nGiovanni Gentile (1875–1944), Italian fascist philosopher\n\nGiovanni Gentile (composer), 17th-century Italian composer\n\nGiulio Vincenzo Gentile (1620–1694), Italian Catholic prelate\n\nGiuseppe Gentile (born 1943), Italian triple jumper\n\nGuy Gentile (born 1976), American trader\n\nJade Gentile (born 1998), American wrestler\n\nJim Gentile (born 1934), American baseball player\n\nKay Johnson-Gentile, American musician and educator\n\nLinda Gentile (born 1951), American politician\n\nMario Gentile, Canadian politician\n\nMelissa \"Skeeter\" Gentile (born 1978), American softball coach\n\nPaul Gentile (bor",
+  "url": "https://en.wikipedia.org/wiki/Gentile_(name)",
+  "revision_id": 1333965579,
+  "article_id": 8263064,
+  "section_path": "shared_text[0:2516]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 37666,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "450babb3dde59738ca9f446dd31ab5ca850f6115c000bb27009a8219c77ef34e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333965579",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8263064",
+    "revision_id": "1333965579",
+    "retrieved_at": "2026-10-18T12:39:58.078676+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2516,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

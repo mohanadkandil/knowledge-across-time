@@ -1,0 +1,44 @@
+{
+  "id": "wiki-22850636-1305451622-ff91b1cf3b51",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Generalized trigonometry",
+  "text": "Ordinary trigonometry studies triangles in the Euclidean plane R 2 {\\displaystyle \\mathbb {R} ^{2}}. There are a number of ways of defining the ordinary Euclidean geometric trigonometric functions on real numbers, for example right-angled triangle definitions, unit circle definitions, series definitions, definitions via differential equations, and definitions using functional equations. Generalizations of trigonometric functions are often developed by starting with one of the above methods and adapting it to a situation other than the real numbers of Euclidean geometry. Generally, trigonometry can be the study of triples of points in any kind of geometry or space. A triangle is the polygon with the smallest number of vertices, so one direction to generalize is to study higher-dimensional analogs of angles and polygons: solid angles and polytopes such as tetrahedrons and n -simplices.\n\nIn spherical trigonometry, triangles on the surface of a sphere are studied. The spherical triangle identities are written in terms of the ordinary trigonometric functions but differ from the plane triangle identities.\n\nHyperbolic trigonometry:\n\nStudy of hyperbolic triangles in hyperbolic geometry with hyperbolic functions.\n\nHyperbolic functions in Euclidean geometry: The unit circle is parameterized by (cos t, sin t) whereas the equilateral hyperbola is parameterized by (cosh t, sinh t).\n\nGyrotrigonometry: A form of trigonometry used in the gyrovector space approach to hyperbolic geometry, with applications to special relativity and quantum computation.\n\nTrigonometry for taxicab geometry\n\nSpa",
+  "url": "https://en.wikipedia.org/wiki/Generalized_trigonometry",
+  "revision_id": 1305451622,
+  "article_id": 22850636,
+  "section_path": "shared_text[0:2845]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 102904,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "fc43f459843287ec3ed1acd09f0d39068a0f26f14a6f4e8c66695761fc7065c4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1305451622",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "22850636",
+    "revision_id": "1305451622",
+    "retrieved_at": "2026-10-18T12:28:24.285930+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2845,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

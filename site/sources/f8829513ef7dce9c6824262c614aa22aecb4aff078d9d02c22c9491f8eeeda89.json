@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17419853-1343203506-ac30ce4ef70b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Chézy formula",
+  "text": "ntinue to be broadly taught and are used in open channel and fluid dynamics research. Today, the Manning formula is likely the most globally used formula for open channel uniform flow analysis, due to its simplicity, proven efficacy, and the fact that most open channel studies are concerned with turbulent flow. Chézy's formula is one of the oldest in the field of fluid mechanics, it applies to a wider range of flows than the Manning equation, and its influence continues to this day.",
+  "url": "https://en.wikipedia.org/wiki/Ch%C3%A9zy_formula",
+  "revision_id": 1343203506,
+  "article_id": 17419853,
+  "section_path": "shared_text[0:10567]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    10567
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 12452,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "68c4bb54d52a02a4cef4cd91e395949b5cb5bf9347a31d319817f3023b2b19d4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343203506",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17419853",
+    "revision_id": "1343203506",
+    "retrieved_at": "2026-10-18T12:35:43.046593+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10567,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

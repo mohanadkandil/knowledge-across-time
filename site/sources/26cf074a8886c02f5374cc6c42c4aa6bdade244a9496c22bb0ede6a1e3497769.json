@@ -1,0 +1,36 @@
+{
+  "id": "bri-2561-8730ddc46140:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-2561-8730ddc46140",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+  "text": "CYATHUS, works (from the verb xum, to your way), was a common measure among the Grecks and Romans, both of the liquid and cry kind. It was e quel to an owner, or the twelfit, part of a put. The cyathus was made with an handle like our punch-lade. The Roman topics were did to drink to many quick as there were critics, is c mine do us many there were letters in the patron's name. Thus, they had modes of drinking drinks to the modern health-drink- ing or toddler. They say, the the emphasis of the Grecks weighed 10 drachins; and Galen fays the fam; though elsewhere heys, than a cyathus contains 12 dramat oil oils, 13 dramats and one simple of wire, waters, or viergar, and 18 frachos of honey. Galen fays, that among the Veterinari the cyathus contain- ed two ounces.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+  "provenance": {
+    "page_id": "bri-2561-8730ddc46140",
+    "row_index": 2561,
+    "volume_id": "191253822",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+    "label": 0,
+    "sha256": "8730ddc46140ec609845e190930f8200f20ced9bb92a53ebb27177f57e217a41",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2561-8730ddc46140.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.5742,
+    0.7063,
+    0.9531,
+    0.9242
+  ],
+  "offsets": [
+    0,
+    771
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

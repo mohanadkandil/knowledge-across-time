@@ -1,0 +1,44 @@
+{
+  "id": "wiki-17335086-1338560311-a3b61c0b4d14",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Blister (disambiguation)",
+  "text": "A blister is a small pocket of fluid in the upper layer of the skin caused by heat, electricity, chemicals, light, radiation, or friction.\n\nBlister (s) or Blistering may also refer to:\n\nBlood blister\n\nBleb (medicine)\n\nAnti-torpedo bulge, also known as an anti-torpedo blister\n\nBlister (TV series)\n\nBlister pack, a type of packaging\n\nBlistering (magazine), an online heavy metal and hard rock magazine\n\n\"Blister\", a song by Jimmy Eat World from the album Clarity\n\n\"Blisters\", a song by Neurosis from the album The Word as Law\n\n\"Blisters\", a song by War from the album Deliver the Word\n\nAnother name for a mustard plaster\n\nA secure, hygienic, pre-packaged, plastic strip, which allows for individual medicinal and nutritional tablets to be popped out.",
+  "url": "https://en.wikipedia.org/wiki/Blister_(disambiguation)",
+  "revision_id": 1338560311,
+  "article_id": 17335086,
+  "section_path": "shared_text[0:749]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    749
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 29414,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "d60a76d19e0e619993fbe42ab92ef34530ba43ecc527a148348ef7ba52c71929",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338560311",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "17335086",
+    "revision_id": "1338560311",
+    "retrieved_at": "2026-10-18T12:21:40.208294+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 749,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

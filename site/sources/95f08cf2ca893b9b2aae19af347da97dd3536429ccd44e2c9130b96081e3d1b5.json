@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2335721-1325578488-f1006c398e81",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Battle of Millesimo",
+  "text": "d him.\n\nTo cover the withdrawal of his command, Provera retreated to Cosseria Castle with part of the Hasbsburg Gyulai Freikorps and two grenadier companies of the Strassoldo Infantry Regiment # 27. Colonel Filippo Del Carretto's newly arrived Sardinian 3rd Grenadier battalion soon joined Provera. Bonaparte ordered the partly ruined hilltop castle to be taken. Augereau and General of Division Meynier's divisions mounted repeated assaults, but the allied garrison resisted stoutly. After leading the last attack of the day, Colonel Barthélemy Joubert wrote,\n\nNothing more terrible could be imagined than the assault, where I was wounded passing through a loophole; my carabiniers held me up in the air, with one hand I grasped the top of the wall. I parried the stones with my saber, and my whole body was the target for two entrenchments dominating the position ten paces off.\n\nThat evening, Augereau invested the castle while Bonaparte regrouped his forces. Early the next morning Augereau summoned the castle to surrender, whereupon Provera capitulated. By that time his men were out of food, ammunition, and water.\n\nThe report that Bonaparte wrote to the French government regarding the actions that took place around Millesimo, and which he called \"The Battle of Millesimo\" is confusing, and perhaps even deliberately misleading, as it is probable that Bonaparte did not want to reveal at the time how serious French casualties had been, and how close he had been to having his plans seriously compromised. There was, in fact, no real battle at Millesimo itself, but rather a confused action ",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Millesimo",
+  "revision_id": 1325578488,
+  "article_id": 2335721,
+  "section_path": "shared_text[0:4416]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 88269,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "520c82192717cfb5a34f49c45918f003e7f5a1751bc2fe5976e755c17ede1a62",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325578488",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2335721",
+    "revision_id": "1325578488",
+    "retrieved_at": "2026-10-18T12:22:18.169197+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4416,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38230556-1053825532-6888e849096a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Drawbridge (disambiguation)",
+  "text": "A drawbridge is a type of moveable bridge. In American English, drawbridge can also refer to moveable bridges in general.\n\nDrawbridge may also refer to:\n\nJohn Drawbridge, a 20th-century New Zealand artist\n\nDrawbridge, California, a ghost town in the USA\n\nDrawbridge, Cornwall, a hamlet in England\n\nDrawbridge Peak, a mountain in Alberta, Canada\n\nKuala Terengganu Drawbridge, a bridge in Terengganu, Malaysia\n\nDrawbridge (company), based in California, US\n\nThe Drawbridge, a quarterly newspaper in London\n\nDrawbridge in Nieuw-Amsterdam, a painting (1883) by Vincent Van Gogh.\n\nDrawbridge mentality, a term describing a selfish mentality.",
+  "url": "https://en.wikipedia.org/wiki/Drawbridge_(disambiguation)",
+  "revision_id": 1053825532,
+  "article_id": 38230556,
+  "section_path": "shared_text[0:636]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    636
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 13047,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "4ca3b9dc17af9d50498045c051af7ad79431500c457e1f869cfedf47aa137ca1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1053825532",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38230556",
+    "revision_id": "1053825532",
+    "retrieved_at": "2026-10-18T12:23:36.962939+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 636,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

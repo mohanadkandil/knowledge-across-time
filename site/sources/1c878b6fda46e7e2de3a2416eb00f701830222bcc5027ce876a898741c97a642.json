@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3020422-1338601062-b9e1fba967f4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carl Stål",
+  "text": "es.\n\nStål. 1860. Bidrag till Rio Janeiro-traktens Hemipter-fauna. Kongliga Svenska Vetenskaps-Akademiens Handlingar. 2(7):1–84\n\nStål. 1862. Hemiptera Mexicana enumeravit speciesque novas descripsit. Stettiner Entomologische Zeitung. 23\n\nStål. 1862. Bidrag till Rio Janeiro-traktens Hemipter-fauna. Öfversigt af Kongliga Vetenskaps-Akademiens Förhandlingar. 2 3:1-75\n\nStål. 1863. Hemipterorum exoticorum generum et specierum nonnullarum novarum descriptiones. Transactions of the Entomological Society of London. 3 1:571-603\n\nStål. 1866. Hemiptera Africana. 2:1-181\n\nStål. 1866. Hemiptera Africana. 4:1-275\n\nStål. 1868. Hemiptera Fabriciana. Fabricianska Hemipterarter efter de i Köpenhamn och Kiel förvarade typexemplaren granskade och beskrifne. I. Konglika Svenska Vetenskaps-Akademiens Handlingar. 7(11):1-148\n\nStål. 1870. Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 1. Konglika Svenska Vetenskaps-Akademiens Handlingar. 9(1):1-232\n\nStål. 1872. Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 2. Konglika Svenska Vetenskaps-Akademiens Handlingar. 10(4):1-159\n\nStål. 1873. Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 3. Konglika Svenska Vetenskaps-Akademiens Handlingar. 11(2):1-163\n\nStål. 1874. Enumeratio Hemipterorum. Bidrag till en förteckning öfver alla hittills kända Hemiptera, jemte systematiska meddelanden. 4. Kongliga Svenska Vetenskaps-Akademiens Handlingar. ",
+  "url": "https://en.wikipedia.org/wiki/Carl_St%C3%A5l",
+  "revision_id": 1338601062,
+  "article_id": 3020422,
+  "section_path": "shared_text[0:3051]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 32731,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "4afc781d40d8ed54ec6f0d79629a0c738d9cdbd9cb317d47a6d149a9ed75cad4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338601062",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3020422",
+    "revision_id": "1338601062",
+    "retrieved_at": "2026-10-18T12:38:02.275304+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3051,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

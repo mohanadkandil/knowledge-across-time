@@ -1,0 +1,36 @@
+{
+  "id": "bri-2561-8730ddc46140:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-2561-8730ddc46140",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+  "text": "been for near a century and a half in the hands of the Turka. Mr Addiction, in a Latin poem worthy of the Augustan age, plainly hints at Mr Cutta’s killingdib. ed bravery at that finger. Returning to England at the revolution, he had a regiment of foot; was crea- and herone of Governor in Ireland. Dec. 1969; appointed governor of theild of Wright, April 19, 16 y; was made a major-general; and, when the affulina tion projects allow downst, 160yrcé, won captain of the kingd sp guard. In 1968 he was complicated by Mr John Hopkins, as one to whom \"a double crown was due;\" is a love and a post. It has a colored of old childframe, or forced regiments of guests in 1975; when Mr Stolele, who was indebted to his interest for military comforians, including to him his first work, \"At the Christian How.\" On the ascection of queso Anne, he was made a lieutenant-general of the forces in Holland; commander in chief of the forces in front, under the Duke of Ormonaj, March 25, 1704;; and afterwards one of the bords gathered at that kingdom, to keep him out of the way of action; a circumflance which broke his hien. He died it Dublin, the 26, 1704;; and a buried there in the custardal of Chiffr church. He wrote a poem on the death of queso Mary; and published, in 1687, Posted ex- excites, written name favors operations, and dedicated to her royal Highests Mary princels of Orange?' It contains, besides the dedication rigged J Cutts, verbs to take principles; a poem on Wildenn, another to Mr Waller on his commending it; even more copies of verder (oneof them called Zu _left) Cavalier_ which had",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+  "provenance": {
+    "page_id": "bri-2561-8730ddc46140",
+    "row_index": 2561,
+    "volume_id": "191253822",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.6",
+    "label": 0,
+    "sha256": "8730ddc46140ec609845e190930f8200f20ced9bb92a53ebb27177f57e217a41",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2561-8730ddc46140.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2561",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5479,
+    0.0477,
+    0.9521,
+    0.5672
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

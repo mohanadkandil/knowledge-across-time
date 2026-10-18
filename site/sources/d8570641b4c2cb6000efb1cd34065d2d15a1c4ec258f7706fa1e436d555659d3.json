@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "size. The table service combined altogether of power, but over thing was extremely clean, and the providents were excellent, particularly fine viteshot bread, and wine from Mount Lebanon, not inferior to the wines of France. The church belonging to the monetary is erected over a groto, which is believed to have belonged to the Virgin Mary. In this place are shown her kitchen and the-places and way of animals pulled it exhibited, the capital of which, separated from the shafts, is represented as self-supported in the are. Dr Clarke, however, soon observed that it was restored to the wall above. Mr Buckingham was shown a second grito, or a continuation of the first, with two red granite pillars of about two feet in diameter at the entrance; and he was told that the one marked the spot where the Virgin rested, the other when the signal was either be powered to Mary. The church erected over this sacred spot is large, and yet furnished with paintings, mostly cloudy than there were a few one altogether devoid of merit. The synagogue in which Jesus read and exempleat the people! Esasia is shown here with the box; the prestige from which his enemies would have thrown him down is also pointed out; and, according to the Buckets, it is not impossible that this precipice, which overlooks the town, as the scene of this outages. But the most evacuated relic is a stone called the table of Christ from which he is asserted to have eaten before and after his resurrection. Nazareth forum and of the use of Aros, and was reduced to Indigneed and mi› sery by the oppression of Dezezar Paha. Many ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5459,
+    0.1633,
+    0.9346,
+    0.6086
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

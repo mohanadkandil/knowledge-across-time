@@ -1,0 +1,36 @@
+{
+  "id": "bri-0966-64586d30c5c9:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-0966-64586d30c5c9",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "The geographical features of the south-eastern parts of England depend almost entirely on these great lines of dis- turbed strata, and we vary from this form to view, without surprise, the greater phenomenon of the same kind which have been brought to light by the labours of continental geologicals. To prepare certain that the Pyrament chain has undergone elementary measurements since the deposition of some of the tertiary strata; the whole chain can be Alps the certainly been raised due to the literature of most or all of the tertiary strata, for it hearty upon several of its high events, and in its mountain valleys, not only secondary, but the tertiary books on the Highland on the Dahleners sec- cording to Brongniar, and in the Valley of Gosau, according to Jachineson. Parts of Sicily have also been applied, even since the deposition of rocks holding 95 per cent of existing species, to our elevation (Gold feet.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "provenance": {
+    "page_id": "bri-0966-64586d30c5c9",
+    "row_index": 966,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 0,
+    "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+    "width": 600,
+    "height": 818,
+    "image_file": "../images/bri-0966-64586d30c5c9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5557,
+    0.2297,
+    0.9482,
+    0.4188
+  ],
+  "offsets": [
+    0,
+    926
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

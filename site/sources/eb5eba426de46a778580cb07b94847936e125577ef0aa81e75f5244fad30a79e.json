@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4532635-1343295893-a954bf03635e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Superior nasal concha",
+  "text": "The superior nasal concha is a small, curved plate of bone representing a medial bony process of the labyrinth of the ethmoid bone. The superior nasal concha forms the roof of the superior nasal meatus.: 692\n\nThe superior nasal concha is situated posterosuperiorly to the middle nasal concha. It forms the superior boundary of the superior nasal meatus. Superior to the superior nasal concha is the sphenoethmoidal recess where the sphenoid sinus communicates with the nasal cavity; the sphenoethmoidal recess is interposed between the superior nasal concha, and (the anterior aspect of) the body of sphenoid bone.: 692 The sphenoid sinus ostium exists medial to the superior turbinate.",
+  "url": "https://en.wikipedia.org/wiki/Superior_nasal_concha",
+  "revision_id": 1343295893,
+  "article_id": 4532635,
+  "section_path": "shared_text[0:686]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    686
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "55c414932f60dce72c1fbb0a3faba7b0f5d845d8f0c00e3386bbeabe09307561",
+    "source_row_idx": 46617,
+    "source_shard": "enwiki/data/enwiki_namespace_0_15.parquet",
+    "text_sha256": "dfc829aca08ff610d23a59e55e9caa93675ebb78dc9b513e9eae9b78e38b4c93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343295893",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4532635",
+    "revision_id": "1343295893",
+    "retrieved_at": "2026-10-18T12:22:00.707937+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 686,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

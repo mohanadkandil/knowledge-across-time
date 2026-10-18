@@ -1,0 +1,44 @@
+{
+  "id": "wiki-379483-1352506212-3318371e3de5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Plate",
+  "text": "Plate may refer to:\n\nPlate (dishware), broad, mainly flat vessel commonly used to serve food\n\nPlates, tableware, dishes or dishware used for setting a table, serving food and dining\n\nPlate, the content of such a plate (for example: rice plate)\n\nPlate, to present food, on a plate\n\nPlate, forequarter cut of beef\n\nPlate, Germany, municipality in Parchim, Mecklenburg-Vorpommern, Germany\n\nPlate, borough of Lüchow, Lower Saxony, Germany\n\nRiver Plate (disambiguation)\n\nTourelle de la Plate, lighthouse in France\n\nPlate (anatomy), several meanings\n\nDental plate, also known as dentures\n\nDynamic compression plate, metallic plate used in orthopedics to fix bone\n\nMicrotiter plate (or microplate or microwell plate), flat plate with multiple \"wells\" used as small test tubes\n\nOrthopedic plate, internal fixation used in orthopaedic surgery\n\nPetri dish or Petri plate, shallow dish on which biological cultures may be grown and/or viewed\n\nTectonic plate, pieces of Earth's crust and uppermost mantle, together referred to as the lithosphere\n\nPlate tectonics, the study of the movement of such plates\n\nPlate, physical approximation of a theoretical plate in separation processes\n\nPlate electrode, type of electrode used in vacuum tubes\n\nPlate (structure), concept used in continuum mechanics as part of the plate theory\n\nPlate trick, mathematical demonstration of quaternions and particle spins\n\nWilhelmy plate, used to measure tension at an interface between air and a liquid or between two liquids\n\nAnchor plate, large plate connected to a tie rod or bolt for structural reinforcement\n\nSill plate, the bott",
+  "url": "https://en.wikipedia.org/wiki/Plate",
+  "revision_id": 1352506212,
+  "article_id": 379483,
+  "section_path": "shared_text[0:3277]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "dca333a0d755c68611dcabb24f57a5f169173cc3b46effe0228da2c57b513235",
+    "source_row_idx": 13847,
+    "source_shard": "enwiki/data/enwiki_namespace_0_64.parquet",
+    "text_sha256": "8a2cf6f720b2498a8f2fce5e993f829c84e58c69e9e26f629b6119c0fe34a729",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352506212",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "379483",
+    "revision_id": "1352506212",
+    "retrieved_at": "2026-10-18T12:23:40.274966+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3277,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

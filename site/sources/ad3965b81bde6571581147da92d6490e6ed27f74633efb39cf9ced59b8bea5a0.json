@@ -1,0 +1,44 @@
+{
+  "id": "wiki-6619542-1333694147-5a096417ca8e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of provosts of Trinity College Dublin",
+  "text": "The following persons have been provost of Trinity College Dublin.",
+  "url": "https://en.wikipedia.org/wiki/List_of_provosts_of_Trinity_College_Dublin",
+  "revision_id": 1333694147,
+  "article_id": 6619542,
+  "section_path": "shared_text[0:66]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    66
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 90174,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "bc0df3a86f376ae3a895a69b50f4c1eb3af1906b89906bdfd96222c587227492",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333694147",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "6619542",
+    "revision_id": "1333694147",
+    "retrieved_at": "2026-10-18T12:21:20.479829+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 66,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

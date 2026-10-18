@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2481408-1302015898-7c4238ead923",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Commodian",
+  "text": "Commodian (Commodianus) was a Christian Latin poet, who flourished about AD 250.\n\nThe only ancient writers who mention him are Gennadius, presbyter of Massilia (end of 5th century), in his De scriptoribus ecclesiasticis, and an author once thought to be Pope Gelasius in De libris recipiendis et non recipiendis, in which his works are classed as Apocryphi, probably on account of certain heterodox statements contained in them. Commodianus is supposed to have been from Roman Africa, partly on the ground of his similarity to Cyprian, partly because the African school was the chief center of Christian Latinity in the third century; a Syrian origin has also been suggested.\n\nAs he himself tells us, he was originally a pagan, but was converted to Christianity when advanced in years, and felt called upon to instruct the ignorant in the truth. He was the author of two extant works of poetry, Instructiones and Carmen apologeticum (first published in 1852 by J. B. Pitra in the Spicilegium Solesmense, from an MS. in the Middlehill collection, now at Cheltenham, supposed to have been brought from the monastery of Bobbio).\n\nThe Instructiones consist of 80 poems, each of which is an acrostic (with the exception of poem 60, where the initial letters are in alphabetical order). The initials of poem 80, read backwards, give Commodianus Mendicus Christi. The Carmen Apologeticum, undoubtedly by Commodianus, although the name of the author (as well as the title) is absent from the MS., is free from the acrostic restriction. The first part of the Instructiones is addressed to the heathens and Jew",
+  "url": "https://en.wikipedia.org/wiki/Commodian",
+  "revision_id": 1302015898,
+  "article_id": 2481408,
+  "section_path": "shared_text[0:3444]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 139297,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "a0fca2670180158fa955b0262373ecbe1e3686436fdfa34b550b94bd78a1a87e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1302015898",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2481408",
+    "revision_id": "1302015898",
+    "retrieved_at": "2026-10-18T12:31:18.418723+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3444,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

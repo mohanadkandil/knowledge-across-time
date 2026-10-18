@@ -1,0 +1,36 @@
+{
+  "id": "bri-0966-64586d30c5c9:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0966-64586d30c5c9",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "No more remarkable dislocations are known in the British islands than those the parallel artificial ones which broke up the tertiaries of the south of England. These have already briefly noticed while speaking of the chalk formation. The northern axis, passing east and west from the Vale of Prewy to near Polistons, divides the basins of London and Hampahies, which are in fact, de presions parallel to this acts, from which the northward slope of the strata under the value of Thames and the Kenner is currently rapidly, and affects rapidly the secondary and tertiary strata. It is therefore of posterior date to the last mentioned deposits. The children saw passes east and west through the middle of the lake of Yight, and is considered not by in the same direction through the lake of Purbet toward Wopanda, where several great directions have been traced by Mr de la Boche and Dr Buckland. The northern slopes from this said is everywhere necessary story, and, in the western part of the lake of Wiggle, the chalk, plastic clay, and sands, and London clay, are absolutely rejected. What adds to the interest of this excerc rence in Alum Bay, is the circumstances of the proposed lat- mination of loose variegated sands and interstratification of",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "provenance": {
+    "page_id": "bri-0966-64586d30c5c9",
+    "row_index": 966,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 0,
+    "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+    "width": 600,
+    "height": 818,
+    "image_file": "../images/bri-0966-64586d30c5c9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.1592,
+    0.6461,
+    0.5547,
+    0.9109
+  ],
+  "offsets": [
+    0,
+    1251
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

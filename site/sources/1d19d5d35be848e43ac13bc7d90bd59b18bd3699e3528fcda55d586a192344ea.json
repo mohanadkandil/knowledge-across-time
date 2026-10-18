@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39804937-1350184204-563cd24d181f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Weir (surname)",
+  "text": "sciplinary artist\n\nGraham Weir (born 1984), Scottish footballer\n\nHarrison Weir (1824–1906), English writer and artist\n\nJ. Alden Weir (1852–1919), American painter\n\nJames Weir (disambiguation), various people named James, Jim or Jimmy Weir\n\nJeremy Weir (born 1964), Australian geologist, banker and businessman, CEO of Trafigura\n\nJohn Ferguson Weir (1841–1926), American painter and sculptor\n\nJohnny Weir (born 1984), American figure skater\n\nJudith Weir (born 1954), British composer\n\nLeonard Weir (born 1928), Australian actor\n\nLindsay Weir (cricketer) (1908–2003), New Zealand Test cricketer\n\nMichael or Mike Weir (disambiguation), various people\n\nMolly Weir (1910–2004), British actress\n\nNorman Weir (1893–1961), New Zealand major general\n\nPeter Weir (born 1944), Australian film director\n\nPeter Weir, Baron Weir of Ballyholme (born 1968), Northern Ireland politician\n\nPeter Weir (footballer) (born 1958), Scottish footballer\n\nPhil Weir (1901–1963), Scottish footballer\n\nRobert Weir (disambiguation), various people\n\nRob Weir, Canadian politician\n\nRobbie Weir (born 1988), Northern Irish footballer\n\nSammy Weir (born 1941), American football coach and player\n\nStephnie Weir (born 1967), American actress, comedian and writer\n\nSteve Weir, American politician\n\nThomas Weir (1599–1670), Scottish Covenanter and presumed occultist\n\nThomas Weir (American soldier) (1838–1876), American cavalry captain who attempted to come to the aid of George Armstrong Custer at Custer's Last Stand\n\nTom Weir (1914–2006), Scottish mountain climber, author and broadcaster\n\nWalter Weir (1929–1985), Canadian politician",
+  "url": "https://en.wikipedia.org/wiki/Weir_(surname)",
+  "revision_id": 1350184204,
+  "article_id": 39804937,
+  "section_path": "shared_text[0:3331]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "351ee65aa683fc2e65fc2cb6c0e70fbb1ddbaaf57fbd16630b2878c2de84e546",
+    "source_row_idx": 20530,
+    "source_shard": "enwiki/data/enwiki_namespace_0_54.parquet",
+    "text_sha256": "d8879b8f76f77c93ebc1358c544710a9bf38d6b54c1bbc9f18917d544e788a0a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350184204",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39804937",
+    "revision_id": "1350184204",
+    "retrieved_at": "2026-10-18T12:35:44.883803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3331,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

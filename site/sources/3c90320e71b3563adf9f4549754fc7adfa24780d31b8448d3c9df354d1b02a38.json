@@ -1,0 +1,44 @@
+{
+  "id": "wiki-607253-1351099413-c109c7baa5c8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Living Machine",
+  "text": "ing developments, resorts and institutional campuses.\n\n“Fixed film ecology” has superseded systems based on hydroponics or a fluid medium. In fixed film systems, the wetland cells are filled with a solid aggregate medium having extensive surface area for beneficial biofilm (treatment bacteria) growth. Fixed film ecology allows denser and more diverse micro-ecosystems to form than does a liquid medium. These ecosystems go well beyond bacteria to include a variety of organisms up to and including macro-vegetation.\n\nTidal cycles (filling and draining the wetland in accelerated tidal action, with 12 or more cycles per day) are used to passively bring oxygen into the wetland cells. This action mimics the type of biological action that occurs in natural tidal estuaries. Tidal flow wetlands replace the need to blow air into a liquid medium - they use gravity to bring atmospheric oxygen into the cell when it is drained.",
+  "url": "https://en.wikipedia.org/wiki/Living_Machine",
+  "revision_id": 1351099413,
+  "article_id": 607253,
+  "section_path": "shared_text[0:2365]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2365
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "236ff3663033d64cb75517a4df05bcd42dc6ef59325ee86bdd71d9a96771eacd",
+    "source_row_idx": 5716,
+    "source_shard": "enwiki/data/enwiki_namespace_0_59.parquet",
+    "text_sha256": "20d8af3d5f9acbc3708f19ba919c961c17df3f0143c70c254de478fde4cf0b5d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351099413",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "607253",
+    "revision_id": "1351099413",
+    "retrieved_at": "2026-10-18T12:40:45.169874+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2365,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

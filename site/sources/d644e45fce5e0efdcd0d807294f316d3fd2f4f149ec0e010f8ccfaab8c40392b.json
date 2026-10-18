@@ -1,0 +1,44 @@
+{
+  "id": "wiki-11063221-1243892870-10f5972263cc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aberdeen doctors",
+  "text": "nting the nobility; and Alexander Henderson, David Dickson, and Andrew Cant, the ministry. The doctors were prepared to adhere provided satisfactory answers were given to 14 written questions, termed \"demands\". The Covenanter ministers' \"answers\" were submitted the following day, prompting \"replies\" from the doctors and \"second answers\" from the Covenanters, who then left the town. The doctors issued further replies which they called \"duplies\", which went unanswered. All the texts were quickly printed and widely circulated and debated.\n\nThe doctors' obduracy contributed to the First Bishops' War of 1639 in which the Covenanters sought the submission of Aberdeen.\n\nThe six doctors who participated in the 1638 disputation were:\n\nWilliam Leslie, Principal of King's College, leader after death of Bishop Forbes in 1635\n\nJohn Forbes of Corse, theologian at King's College and son of Bishop Forbes\n\nAlexander Scroggie, scholar of King's College, Minister in Old Aberdeen\n\nAlexander Ross, Scholar of King's College, Minister in Aberdeen\n\nRobert Baron, Professor of Divinity at Marischal, Minister in Aberdeen\n\nJames Sibbald, Professor of Natural Philosophy at Marischal, Minister in Aberdeen\n\nAs well as Bishop Patrick Forbes, two other notable Aberdeen divines were associated with the six doctors:\n\nWilliam Guild, who subscribed to the six doctors' initial demands but then switched to the side of the Covenanters\n\nWilliam Forbes, principal of Marischal until made Bishop of Edinburgh in 1634, months before his death",
+  "url": "https://en.wikipedia.org/wiki/Aberdeen_doctors",
+  "revision_id": 1243892870,
+  "article_id": 11063221,
+  "section_path": "shared_text[0:2962]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2962
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 35603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "11c97d4f403508172d26422c065cc63143bb486c19b5a1ad844c771b12980071",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1243892870",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "11063221",
+    "revision_id": "1243892870",
+    "retrieved_at": "2026-10-18T12:21:36.563672+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2962,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

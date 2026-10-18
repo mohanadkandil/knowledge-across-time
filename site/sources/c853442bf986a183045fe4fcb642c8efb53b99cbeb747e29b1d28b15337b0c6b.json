@@ -1,0 +1,36 @@
+{
+  "id": "bri-1693-0903c198e683:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-1693-0903c198e683",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+  "text": "_Mint Marks._ It bath been ufual, from old time, to obligise the malters and workers of the mint, in the indestructible with them. Yet too make a prity park in all the money that they made, as well of gold as of flyer, to that another case they might know, if none were, and write which memory of gold and silver among other of the fans moeyes, were of the own making, and which not? And whereas, after every trial of the pix at a softolimbic, the malters and workers of the mint, having there proved their moeys to be lawful and good, you immediately entitled to ceive their guardio under the great feel, and to be discharged from all fruits or distant occurring those moeyes, it was then uuful for the find maliers and workers to change the priy mark before doll for non-they, that fo the mooves from which they were not yet discharged night the distinguished from those for which they had already received their _spatula_, which now mark they then continued to flamp upon all their moeyes, and another trial of the pix gave them alfo their _protein_ concerning those.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+  "provenance": {
+    "page_id": "bri-1693-0903c198e683",
+    "row_index": 1693,
+    "volume_id": "192200900",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+    "label": 0,
+    "sha256": "0903c198e683b236afc4609d39b509117a0107601824e2ffe47a0ada06c90c52",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1693-0903c198e683.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.4697,
+    0.4016,
+    0.8584,
+    0.6781
+  ],
+  "offsets": [
+    0,
+    1070
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

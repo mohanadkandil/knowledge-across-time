@@ -1,0 +1,44 @@
+{
+  "id": "wiki-15946603-1329950422-80bd1915fcfe",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Abolitionism (disambiguation)",
+  "text": "Abolitionism is the movement to end human slavery.\n\nAbolitionism may also refer to:\n\nAbolitionism (animal rights), a movement to end the property status of animals\n\nAbolitionism (abortion), a philosophy of the anti-abortion movement to abolish abortion\n\nCopyright abolition, a movement to abolish state granted monopolies over intellectual works\n\nAbolitionism (prostitution), a movement to abolish state regulation of prostitution, seen as a form of slavery of women\n\nAbolitionism (capital punishment), a movement to abolish the death penalty within the capital punishment debate\n\nAbolitionism (transhumanism), a current within the transhumanist movement, which seeks to abolish all pain and suffering in all sentient beings\n\nBorder abolitionism, a movement to abolish borders between countries\n\nGender abolitionism (in gender studies, radical feminism or postgenderism), a movement to abolish gender\n\nMarket abolitionism, a belief that the market, in the economic sense, should be eliminated from society\n\nMonarchy abolition, a movement to remove monarchs and more broadly, royal families from positions of political power\n\nPrison abolition, a movement to end incarceration as a means to address harm\n\nTotal abolition, a political philosophy also known as veganarchism (veganism and anarchism)\n\nPolice abolition movement",
+  "url": "https://en.wikipedia.org/wiki/Abolitionism_(disambiguation)",
+  "revision_id": 1329950422,
+  "article_id": 15946603,
+  "section_path": "shared_text[0:1321]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1321
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 35361,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "e8c6f49a67f1c3a2afb37a8cf9b2b5615ccdb8806db79ab800dbc0bd4972dd3b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1329950422",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "15946603",
+    "revision_id": "1329950422",
+    "retrieved_at": "2026-10-18T12:39:55.536197+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1321,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

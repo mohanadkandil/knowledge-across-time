@@ -1,0 +1,36 @@
+{
+  "id": "bri-1071-d24d0fd09823:region-15:0",
+  "kind": "britannica",
+  "page_id": "bri-1071-d24d0fd09823",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+  "text": "In order to this, the full page, is a already mentioned, as, for now room, the two full pages that front each other, are to be divided by parallel lines into a 5 equal parts, whereby every fish has a to be differ, guided by its colour or other circumference. Theirfs lives are to be cut perpendicularly by others, drawn into top to bottom, and in the dorsal figure thereof, the ferral letters of the alphabet, both capital and mis- andles, are to be daily written.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+  "provenance": {
+    "page_id": "bri-1071-d24d0fd09823",
+    "row_index": 1071,
+    "volume_id": "192547776",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+    "label": 0,
+    "sha256": "d24d0fd098237eeb0479d8675ed1388c6ec6806c51819810dc13332feacfd194",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1071-d24d0fd09823.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+    "manual_seed": false
+  },
+  "region_id": "region-15",
+  "bbox_raw": [
+    0.5283,
+    0.6602,
+    0.8857,
+    0.7758
+  ],
+  "offsets": [
+    0,
+    464
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

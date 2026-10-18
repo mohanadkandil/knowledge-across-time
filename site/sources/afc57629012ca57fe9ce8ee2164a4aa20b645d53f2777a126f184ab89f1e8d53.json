@@ -1,0 +1,44 @@
+{
+  "id": "wiki-78309086-1352473433-677949c315cd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Giambattista Spolverini",
+  "text": "eronese artist Domenico Cunego after drawings by Francesco Lorenzi. Dedicated to Elisabeth Farnese, widow of Philip V of Spain, the poem deals in four books with the husbandry of rice and provides an elegant portrayal of an industrious rural community from the point of view of a cultured nobleman whose main interest lies in the wise management and improvement of his estates. The poem received universal acclaim and was printed in no less than 15 editions. The third edition (1796) includes an \"Elogio\" by Ippolito Pindemonte The poem was highly praised by Pindemonte, Bettinelli, Frugoni, Parini and Leopardi.",
+  "url": "https://en.wikipedia.org/wiki/Giambattista_Spolverini",
+  "revision_id": 1352473433,
+  "article_id": 78309086,
+  "section_path": "shared_text[0:2052]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2052
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c8787f86488e8e3e87f007654e4b5e79e9d5ac80438a5f5bc9a1b7cbf23232e7",
+    "source_row_idx": 24003,
+    "source_shard": "enwiki/data/enwiki_namespace_0_67.parquet",
+    "text_sha256": "0a2f7e825b11038bcf398f39c1fca3256d652d8258f1732f4567f68d99f235fa",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352473433",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "78309086",
+    "revision_id": "1352473433",
+    "retrieved_at": "2026-10-18T12:37:15.367399+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2052,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0902-5d7a505f7997:region-6:1440",
+  "kind": "britannica",
+  "page_id": "bri-0902-5d7a505f7997",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+  "text": "f the newly-discovered land, in con-\nsequence of what a first of twenty-see sail was unpiped\nand sent out, laten with persons of both sexes, cattle,\nand other necessities for forming a settlement. Only about\nthe ball of the free vessels reached their destination, but other\nadventurers setting out, not only from Iceland, but from\nNorway, the Oktarsy and over islands, in a few years a\nrespectable colony was formed, and a regular trade-\nblished. It seems highly probable that the original colo-\nny of Greenland began about the southern primary\nyear Cape Browell, and gradually extended itself along\nthe coast in a north-worthy direction. Beyond this first\nsettlement another convertedler to the west. The\nformer was called _Clear Dyglic_, or the eastern settlement,\nand the latter _Faste Dyglic_, or the western settlement,\nOrishinity having been introduced about the beginning of\nthe fourth century, numerous churches and concerns were\nbuilt, and the country was divided into regular markets, to\nwhich monks and other spiritual instructors were attach-\ned. The colonies, although confined to lead a life of se-\ncrepression and handbylied continued to increase, and to\nextend to the north. The real which which early Scam-\ndiarian passed their settlements to the northernmost\nparts of Greenland is strikingly selected by a curious mo-\nment, which was discovered in 1834. It contains of a\nsome cases with Rumi characters, which was found each-\ning erect in the ground on the island of Kingkitorsoak, un-\nder the parallel of 730^.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+  "provenance": {
+    "page_id": "bri-0902-5d7a505f7997",
+    "row_index": 902,
+    "volume_id": "193469090",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+    "label": 0,
+    "sha256": "5d7a505f7997d6119e5537ad4ee2ccd72dd104c3a767a8014470c2799d641a3d",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0902-5d7a505f7997.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.4668,
+    0.2375,
+    0.8545,
+    0.8969
+  ],
+  "offsets": [
+    1440,
+    2969
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

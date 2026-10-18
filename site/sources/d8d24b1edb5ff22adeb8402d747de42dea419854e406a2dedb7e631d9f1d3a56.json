@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1151144-1352966900-afb6df5af95a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swan (disambiguation)",
+  "text": "08–1991), American swing alto saxophonist, nicknamed Swan\n\nJoseph Swan (1828—1914), English physicist, chemist, and inventor (most notably of the filament lightbulb)\n\nHoward Swan (1906–1995), American choral conductor and music educator\n\nSwan (surname), a list of people with the name\n\nSwan Hennessy (1866–1929), Irish-American composer based in Paris\n\nSwan King (1845–1886), nickname for Ludwig II of Bavaria\n\nSwan of Stowe, nickname for the Catholic saint Hugh of Lincoln\n\nBunny Swan, Chinese character on Madtv played by Alex Borstein\n\nThe Swan, County Laois, Ireland\n\nSwan River (disambiguation)\n\nSwan Township (disambiguation)\n\nSwan Valley (disambiguation)\n\nCity of Swan, Perth\n\nDivision of Swan, an electoral district based on the surrounding area\n\nSwan Bay, Port Phillip, Victoria, Australia\n\nSwan Hill, Victoria, Australia\n\nSwan, Indiana\n\nSwan, Iowa\n\nSwan, Missouri\n\nSwan Range, a mountain range in Montana\n\nSwan, Texas\n\nSwan, Wisconsin\n\nSwan Township, Holt County, Nebraska\n\nSwan's Island, Maine\n\nComet SWAN (disambiguation), the name of several comets\n\nCygnus (constellation), a constellation also known as the Swan\n\nThe Swan, County Laois, Ireland\n\nErasmusbrug, a bridge nicknamed \"The Swan\" in Rotterdam, Netherlands\n\nSwans, Punjab, Pakistan\n\nSwan's theorem, a concept in mathematics\n\nSolar Wind Anisotropies, an instrument of the Solar and Heliospheric Observatory spacecraft\n\nSyndrome without a name, a term indicating an unknown idiopathic disease\n\nSwan (nuclear primary), a prototype thermonuclear primary\n\nScottish Wide Area Network (SWAN), the secure network for Scotland’s public s",
+  "url": "https://en.wikipedia.org/wiki/Swan_(disambiguation)",
+  "revision_id": 1352966900,
+  "article_id": 1151144,
+  "section_path": "shared_text[0:4986]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a0fdd500947a3e69a27c09533d7647e283004f8100f83d90f5e8622bf49b95e7",
+    "source_row_idx": 7836,
+    "source_shard": "enwiki/data/enwiki_namespace_0_73.parquet",
+    "text_sha256": "ce12eb189ac8b4bbbf308f2031cc70dd8c6fa661916d18830351eda3ab77833e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352966900",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1151144",
+    "revision_id": "1352966900",
+    "retrieved_at": "2026-10-18T12:42:00.661063+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4986,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-64358239-1352154759-f6b4e36e0fcf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Andrew Melville of Garvock",
+  "text": "rewell with a kiss.\n\nAfter Mary's execution, Andrew Melville, Jean Kennedy, and the queen's physician were placed in joint custody of Mary's remaining jewels and silver plate. Melville was in charge of the embroidery for a bed that Mary had made, and surviving pieces are now known as the \" Oxburgh Hangings \". Mary had asked Andrew to take the bed hangings and some of her other belongings back to Scotland and her son James VI after her execution, including portraits of her ancestors and a piece of unicorn horn. In April 1603, the secretary of Anne of Denmark, William Fowler recorded some of the emblems or devices embroidered by Mary on bed curtains at Holyrood Palace.\n\nWhile still at Fotheringhay, Melville wrote a note for Amias Paulet to settle the affairs of some of the household. Some of the servants were owed money by the French ambassador. The surgeon and Renée de Rallay, called Beauregard, had left money with Claude Nau which had been confiscated. Beauregard requested the return of her aunt Mademoiselle Rallay's will and testament. Elizabeth Curll hoped for a payment, and Bastian Pagez and his wife Christine Hog wanted accommodation for their seven children. Paulet forwarded Melville's note to William Cecil, and favourable answers were made.\n\nMelville was allowed to choose who and how many of the household would attend the queen's funeral at Peterborough Cathedral. Only Melville attended the final sermon. It was customary for the officers of the household to break symbolic staffs of office over their head and put them in the grave, and Melville may have done this.\n\nMel",
+  "url": "https://en.wikipedia.org/wiki/Andrew_Melville_of_Garvock",
+  "revision_id": 1352154759,
+  "article_id": 64358239,
+  "section_path": "shared_text[0:8121]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d0540913175bf0bf226ae4161368d8569964a19a5302fff11da3e05c21e361c8",
+    "source_row_idx": 37790,
+    "source_shard": "enwiki/data/enwiki_namespace_0_63.parquet",
+    "text_sha256": "f605274244e16e79fd74fa5a9d1ff6513643a6e79d20784de846a47c9cefae94",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352154759",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "64358239",
+    "revision_id": "1352154759",
+    "retrieved_at": "2026-10-18T12:38:23.014911+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8121,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

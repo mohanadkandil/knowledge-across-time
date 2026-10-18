@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2377911-1339123781-bc946b4be67d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cassiterides",
+  "text": "er hand, represents the Cassiterides as fronting Celtiberia.\n\nAt a time when geographical knowledge of the West was still scanty, and when the secrets of the tin trade were still successfully guarded by the seamen of Gades (modern Cádiz) and others who dealt in the metal, the Greeks knew only that tin came to them by sea from the far West, and the idea of tin-producing islands easily arose. Later, when the West was better explored, it was found that tin actually came from two regions: Galicia, in the northwest of Iberia, and Devon and Cornwall in southwest Britain. Diodorus reports: \"For there are many mines of tin in the country above Lusitania and on the islets which lie off Iberia out in the ocean and are called because of that fact the Cassiterides.\" According to Diodorus tin also came from Britannia to Gaul and then was brought overland to Massilia and Narbo. Neither of these could be called small islands or accurately described as off the northwest coast of Iberia, and so the Greek and Roman geographers did not identify either as the Cassiterides. Instead, they became a third, ill-understood source of tin, conceived of as distinct from Iberia or Britain.\n\nStrabo says that a Publius Crassus was the first Roman to visit the Tin Islands and write a first-hand report. This Crassus is thought to be either the Publius Licinius Crassus who was a governor in Hispania in the 90s, or his grandson by the same name, who in 57–56 BC commanded Julius Caesar 's forces in Armorica (Brittany), which places him near the mouth of the Loire river.\n\nModern writers have made many attempts ",
+  "url": "https://en.wikipedia.org/wiki/Cassiterides",
+  "revision_id": 1339123781,
+  "article_id": 2377911,
+  "section_path": "shared_text[0:7826]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 82849,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "cbf597aeaf716be7ba56a0cb0c05de4b74a9ec71a726b648128d2495c6c48808",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339123781",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2377911",
+    "revision_id": "1339123781",
+    "retrieved_at": "2026-10-18T12:39:41.290107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7826,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

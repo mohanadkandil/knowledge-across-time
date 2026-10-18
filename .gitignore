@@ -9,3 +9,4 @@ data/
 dist/
 *.egg-info/
 .DS_Store
+/site/documents/*.log

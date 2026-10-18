@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "On the 15th of February 1810 the congress was installed at Angusting, the proceedings help opened by Bolivar in a long-speed, preliminary of this views relative to the new constitution. You was asked president of the congress, now whose lands Bolivar resigned the authority which he had previously exercised; but it was immediately restored to him again by the event, which terminat- the settings on the 17th. Bolivar the proceeds to join the army which was assembling at Montreal, and his becuogamented from various quarters, especially by a comfortable accessible of British troops and was preparing to murd across the plains of the Apur and Casaman in order to make with smaller, and passionate into New Grandda, for the purpose of liberating it from the power of the Spirairs is very hoping left with the greater part of the enemy by watch and to check the movement of Morilo, Galatala, and Monkes. These line in repurchased of the proceedings of Bolivar, as they did not conceive it possible that would, during the rainy or winter season, attempt to cross the hundred plantains and the annoying mountains into New Grandma, but was was the first closedness by Bolivar, to undertake this arduous enterprise; and between",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.541,
+    0.6391,
+    0.9473,
+    0.9203
+  ],
+  "offsets": [
+    0,
+    1222
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

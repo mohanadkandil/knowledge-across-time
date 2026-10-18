@@ -1,0 +1,36 @@
+{
+  "id": "bri-0410-851ddf04c85e:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0410-851ddf04c85e",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+  "text": "reciler",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+  "provenance": {
+    "page_id": "bri-0410-851ddf04c85e",
+    "row_index": 410,
+    "volume_id": "191253809",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+    "label": 0,
+    "sha256": "851ddf04c85ebf619e92cdec1a9ea77fbf9eba816274961431054080c35eaf40",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-0410-851ddf04c85e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.8506,
+    0.9289,
+    0.9199,
+    0.943
+  ],
+  "offsets": [
+    0,
+    7
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

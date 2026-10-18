@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2629-1335326573-a4dec6a9d519",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegisthus",
+  "text": "ere King Tyndareus gave the pair his daughters, Clytemnestra and Helen, to take as wives. Agamemnon and Clytemnestra had four children: one son, Orestes, and three daughters, Iphigenia, Electra, and Chrysothemis.\n\nAfter the death of Tyndareus, Meneleaus became king of Sparta. He used the Spartan army to drive out Aegisthus and Thyestes from Mycenae and place Agamemnon on the throne. Agamemnon extended his dominion by conquest and became the most powerful ruler in Greece. After Helen's abduction to Troy, Agamemnon was forced to sacrifice his own daughter Iphigenia in order to appease the gods before setting off for Ilium. While Agamemnon was away fighting in the Trojan War, Clytemnestra turned against her husband and took Aegisthus as a lover. Upon Agamemnon's return to Mycenae, Aegisthus and Clytemnestra worked together to kill Agamemnon with certain accounts recording Aegisthus committing the murder while others record Clytemnestra herself exacting revenge on Agamemnon for his murder of Iphigenia.\n\nFollowing Agamemnon's death, Aegisthus reigned over Mycenae for seven years. He and Clytemnestra had a son, Aletes, and a two daughters, Erigone and Helen. In the eighth year of his reign Orestes, the son of Agamemnon, returned to Mycenae and avenged the death of his father by killing Aegisthus and Clytemnestra. The impiety of matricide was such that Orestes was forced to flee from Mycenae, pursued by the Furies. Aletes became king until Orestes returned several years later and killed him. Orestes later married Aegisthus's daughter Erigone.\n\nHomer gives no information about Aegi",
+  "url": "https://en.wikipedia.org/wiki/Aegisthus",
+  "revision_id": 1335326573,
+  "article_id": 2629,
+  "section_path": "shared_text[0:6583]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 34952,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "e1259396cc84c193de234ba67f6b4108d8adb07a4ff52741d3aeddf965ac3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335326573",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2629",
+    "revision_id": "1335326573",
+    "retrieved_at": "2026-10-18T12:37:03.912407+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6583,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

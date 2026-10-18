@@ -1,0 +1,36 @@
+{
+  "id": "bri-1492-a7c7c0af0bdc:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1492-a7c7c0af0bdc",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": "\"The fantic ignorance of the savage caliph, which dictated his barbarous reason for destroying the Alex-dadian library, that neither been stored nor refined by the Parker education of Tomo and his predecessors. The same superstitions biogtry which incisted the Arabian palips to destroy the monuments of western learn- ing, likewise implied that Yuster khan to overthrow the religious temples of the eastern worship. At the commencement of the 1rtth century Mahmood entered Hindustan, and in the course of 12 expedition the destroyed the famous temples of Nagrucutu, Tunasar, Matra, and Sumami. In the latter end of the next century, Mahmoud Gori patented as for a the city of Benares, and committed outrages as Mahmood had done before at Nagrecent and Sumami. Travane possessed a made of this fortions real as any of his average predecesores; and if the enthusiasm of this destructive religi- tion had not occasionally slated among some of his succesors, they would source have left a Hinduo temple or priest in the country they studied.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+  "provenance": {
+    "page_id": "bri-1492-a7c7c0af0bdc",
+    "row_index": 1492,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 0,
+    "sha256": "a7c7c0af0bdcd12962c97882980fe05660cc78ca4ec454094a75d51bac7bbc86",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-1492-a7c7c0af0bdc.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.4697,
+    0.2094,
+    0.876,
+    0.4758
+  ],
+  "offsets": [
+    0,
+    1038
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

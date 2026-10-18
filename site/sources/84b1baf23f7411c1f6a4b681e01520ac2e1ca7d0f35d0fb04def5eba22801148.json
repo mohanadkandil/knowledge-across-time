@@ -1,0 +1,44 @@
+{
+  "id": "wiki-70409835-1301742181-a03231ef93e9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Libat",
+  "text": "In Mandaeism, Libat (Classical Mandaic: ࡋࡉࡁࡀࡕ) is the Mandaic name for the planet Venus. Libat is one of the seven planets (Classical Mandaic: ࡔࡅࡁࡀ, romanized: šuba, lit. ' The Seven '), who are part of the entourage of Ruha in the World of Darkness.\n\nIn Mandaean astrology, Libat is associated with success in love and reproduction. Libat's name is derived from the Akkadian Delebat, with the first syllable of the Akkadian original possibly originally omitted due to being analyzed as the Mandaic relative pronoun ḏ (ࡖ). Other Mandaean names for Libat include Argiuat, Daitia, Kukbat (the diminutive of 'star'), Spindar, as well as Ruha or Ruha ḏ-Qudša (Holy Spirit) and her epithets – Amamit (as an inhabitant of the underworld), and ʿstira (or Estira, i.e., Ishtar or Astarte).\n\nIn the Right Ginza, Libat is described with the term daiuia, a loanword derived from Middle Persian dēw \"demon\". The planet is identified in this context with Amamit, a demonic figure derived from the Mesopotamian goddess Mamitu. An exception from the negative Mandaean perception of Venus are late antique magical formulas, in which Libat is sometimes invoked in a positive context, to secure success in love or procreation.",
+  "url": "https://en.wikipedia.org/wiki/Libat",
+  "revision_id": 1301742181,
+  "article_id": 70409835,
+  "section_path": "shared_text[0:1208]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1208
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 43406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "7a4b92297a18fb5acffc8d9147d3a8ac7844bf6ad0c8e994b1c91251b8568a23",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1301742181",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "70409835",
+    "revision_id": "1301742181",
+    "retrieved_at": "2026-10-18T12:29:11.667170+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1208,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

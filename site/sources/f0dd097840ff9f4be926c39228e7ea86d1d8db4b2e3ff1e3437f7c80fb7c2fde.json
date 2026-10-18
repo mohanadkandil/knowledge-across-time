@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "as being purer than thofe made by applying water directly for through the file be repeatedly diffused in water, filtered, and reflected y yet, on longer, figued by the humidity of the air, it will fill depo- rise in portion of earthingness but it mall be ob-ferved, that the eachized flat leaves always an earthy matter on being diluted in water, as well as on bec- ing disipated in the use. Whether it leave more in the one way. In the order, in not determined with precifion. The delipated lixivium is fail to contain nearly one parts of alkaline fat to have of an aqueous fluid. It is indifference, in regard to the lixivium itself, whether the white afes of tartar, or the flat certified from them, by old yield; but as the afters have a much greater quantity of earth, the fiparation of the ley proves more troublefome.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.5146,
+    0.0508,
+    0.8965,
+    0.268
+  ],
+  "offsets": [
+    0,
+    824
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-66589711-1067893334-7ae4e820716b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Octavian Popescu",
+  "text": "Octavian Popescu may refer to:\n\nOctavian Popescu (biologist)\n\nOctavian Popescu (footballer, born 1938)\n\nOctavian Popescu (footballer, born 1985)\n\nOctavian Popescu (footballer, born 2002)",
+  "url": "https://en.wikipedia.org/wiki/Octavian_Popescu",
+  "revision_id": 1067893334,
+  "article_id": 66589711,
+  "section_path": "shared_text[0:186]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    186
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 34862,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "3feb17e209f45a36cfdbc4cbe8762ac9d3e54be91a052732ab46dec809e2a9da",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1067893334",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "66589711",
+    "revision_id": "1067893334",
+    "retrieved_at": "2026-10-18T12:35:59.428277+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 186,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-53213389-1320801287-13c81b589677",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ammonia (foraminifera)",
+  "text": "Ammonia is a genus of marine foraminifers. It is one of the most abundant foraminifer genera worldwide and is found in sheltered, shallow marine intertidal environments, sometimes in brackish waters.\n\nThe classification of the genus Ammonia in species is controversial. While several different forms exist, many authors consider the genus to consist of a single species, Ammonia beccarii, with many ecophenotypes. However, recent molecular studies revealed that the genus consists of many species, although they may be difficult to discriminate based on morphology.\n\nBased on a comparison between molecular results and morphology, the following species appear to be valid:\n\nAmmonia aberdoveyensis Haynes, 1973\n\nAmmonia aomoriensis (Asano, 1951)\n\nAmmonia aoteana (Finlay, 1940)\n\nAmmonia batava (Hofker, 1951)\n\nAmmonia beccarii (Linnaeus, 1758)\n\nAmmonia convexa (Collins, 1958)\n\nAmmonia irridescens (Arnal, 1958) (maybe a synonym of A. tepida)\n\nAmmonia limnetes (Todd & Bronnimann, 1957)\n\nAmmonia sobrina (Shupack, 1934)\n\nAmmonia tepida (Cushman, 1926)\n\nAdditionally, several other molecular types have been discovered that do not match any of the described species and thus possibly represent new taxa.",
+  "url": "https://en.wikipedia.org/wiki/Ammonia_(foraminifera)",
+  "revision_id": 1320801287,
+  "article_id": 53213389,
+  "section_path": "shared_text[0:1201]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1201
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 14308,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "d73f5ccef5799808bedc939bb3e99b58f3067bf766591bccdcdb25ea4374b9da",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1320801287",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "53213389",
+    "revision_id": "1320801287",
+    "retrieved_at": "2026-10-18T12:40:46.000532+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1201,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

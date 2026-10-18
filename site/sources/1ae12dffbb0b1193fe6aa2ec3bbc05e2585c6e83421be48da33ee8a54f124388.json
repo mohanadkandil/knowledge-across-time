@@ -1,0 +1,44 @@
+{
+  "id": "wiki-41633321-1339881432-e3cd6ab237c0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swan (surname)",
+  "text": "Swan is an English surname. Notable people with the surname include:\n\nDaniel C. Swan, American cultural anthropologist and museum curator\n\nDonald A. Swan (1935–1981), American anthropologist\n\nJanis Swan, American-New Zealand food process engineering academic\n\nRichard Swan (born 1933), American mathematician\n\nToril Swan (1945–2022), Norwegian philologist\n\nTrevor Swan (1918–1989), Australian economist\n\nVivien Swan (1943–2009), British archaeologist\n\nAlfred Swan (1890–1970), Russian composer and musicologist\n\nAlison Swan (fl. 1988–2015), Bermudian filmmaker, writer, and real estate developer\n\nAnnalyn Swan (born c. 1951), American writer\n\nAnni Swan (1875–1958), Finnish writer\n\nAstrid Swan (1982–), Finnish musician and singer\n\nBarbara Swan (1922–2003), American artist\n\nCurt Swan (1920–1996), American comics artist\n\nEinar Aaron Swan (1903–1940), American musician, arranger and composer\n\nErinn Swan (born 1984), Australian singer, songwriter, and performer\n\nFred Swan, American painter\n\nHash Swan (born 1995), South Korean rapper\n\nJon Swan (fl. 2010), American poet, playwright, librettist, journalist, and editor\n\nJonathan Swan (fl. 2014–2018), Australian journalist\n\nKal Swan (born 1963), Scottish–born vocalist\n\nKitty Swan (born 1943), Danish actress\n\nLucile Swan American sculptor and painter\n\nNathaniel Walter Swan (1834–1884), Irish-born Australian writer\n\nSerinda Swan (born 1984), Canadian actress\n\nAlmon Swan (1819–1883), member of the Wisconsin State Assembly, United States\n\nAndrew Swan (born 1968), politician in Manitoba, Canada\n\nBenjamin Swan (fl. 2013–2014), state legislator, Ma",
+  "url": "https://en.wikipedia.org/wiki/Swan_(surname)",
+  "revision_id": 1339881432,
+  "article_id": 41633321,
+  "section_path": "shared_text[0:3904]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 5350,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "32d4d44f7a07e79c125856c42fe4381636af2cc927d3e5479d87a989c66f4633",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339881432",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "41633321",
+    "revision_id": "1339881432",
+    "retrieved_at": "2026-10-18T12:42:04.901621+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3904,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

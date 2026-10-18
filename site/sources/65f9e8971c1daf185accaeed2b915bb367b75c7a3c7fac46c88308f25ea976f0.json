@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "Previous to their left movements, however, Comt Colli, on the 23rd of April, the written to Bonaparte, suggesting an amrilies, to allow the King of Sardinia an opportunity of negociating a peace. The French army was now within 4 miles of Paris) and that prince the lawl itself radically reduced to the usedfire of standing a large in his capital, or of accepting fuch terms as the consequence might think it to impede. Bonaparte granted an amrilies, on condition that the three forets of Coni, Ceva, and Tortona; should be delivered up to him, with their artillery and magazines, and that he found be allowed to conti the Pon t Murderia. The amrilice was figigned on the 20th, and it was followed by a formal treaty with the French Republic, which was concluded at France on the 17th of May. The conditions imposed by this treaty upon the King of",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.0117,
+    0.7156,
+    0.4688,
+    0.9398
+  ],
+  "offsets": [
+    0,
+    846
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2074-d43e4278eb9d:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-2074-d43e4278eb9d",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 13, MAT-MIC - EB.11",
+  "text": "346. In the preceding investigation we have suppo- soil, what is conformable to systemically, that the forces of torsion is proportional to the angle of torsion, which gives us _n_xxA--M for the momentum of that force. Let us now suppose that this momentum is altered by any quantity S, then the momentum of the force of torsion will become _n_xxA--M--S’, and the general equation will assume this form",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2074",
+  "provenance": {
+    "page_id": "bri-2074-d43e4278eb9d",
+    "row_index": 2074,
+    "volume_id": "192200323",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 13, MAT-MIC - EB.11",
+    "label": 0,
+    "sha256": "d43e4278eb9dfae4b0b0c99f2735aa0e223dbe518a7ee9fb465cf46135364a04",
+    "width": 600,
+    "height": 794,
+    "image_file": "../images/bri-2074-d43e4278eb9d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2074",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0596,
+    0.5266,
+    0.4531,
+    0.6398
+  ],
+  "offsets": [
+    0,
+    402
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

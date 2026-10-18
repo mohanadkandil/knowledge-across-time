@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33654174-1339732819-697a3d08674b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hermann Hellriegel",
+  "text": "Hermann Hellriegel (October 21, 1831 – September 24, 1895) was a German agricultural chemist who discovered that leguminous plants assimilate the free nitrogen of the atmosphere.\n\nHe was born at Mausitz (now part of Zwenkau), in the Kingdom of Saxony. In 1857 he became director of the agricultural experiment station of Brandenburg and Niederlausitz at Dahme, from which he resigned in 1873, and in 1882 accepted a similar post at Bernburg, where he died. From 1873 to 1882, he was Wanderlehrer (circuit riding teacher) at Bernburg.\n\nAmong his many agricultural investigations with plants, the most important by far are his demonstration of the ability of leguminous plants to assimilate the free nitrogen of the air, and his discovery of the tubercles on the roots as the agency through which this takes place. The question of the ability of leguminous plants to use the nitrogen of the air had long been one of inquiry, and its settlement by him marked an epoch in the agricultural world. The important parts of these experiments he published in Untersuchungen über die Stickstoffnahrung der Gramineen und Leguminosen (Investigations into the Nitrogen assimilation of the Gramineae and Leguminosae; Berlin, 1888), and Ueber Stickstoffnahrung landwirtschaftlicher Kulturgewächse (On Nitrogen assimilation in agricultural crops; Vienna, 1890).\n\nHellriegel and Wilfarth (1887) \"grew plants in calcined soil as others had done, but to some of the pots they added leachings from a fertile soil, in other words, an inoculum containing bacteria of the proper species and variety. They found that peas gro",
+  "url": "https://en.wikipedia.org/wiki/Hermann_Hellriegel",
+  "revision_id": 1339732819,
+  "article_id": 33654174,
+  "section_path": "shared_text[0:1839]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 10301,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "880be9954e402ec4383a6ff20f504c4301d2c88f261db4036af31076e133460e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339732819",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33654174",
+    "revision_id": "1339732819",
+    "retrieved_at": "2026-10-18T12:38:44.682029+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1839,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -95,11 +95,15 @@ def create_app(settings: Settings | None = None, engine: Engine | None = None) -
                     update_job(job_id, current_page=selected_id)
                     try:
                         result = engine.compare(selected_id)
-                        results.append({"page_id": selected_id, "status": "complete", "run_id": result.get("run_id")})
+                        results.append({"page_id": selected_id, "status": result.get("status", "complete"),
+                                        "abstained": result.get("abstained", False), "run_id": result.get("run_id")})
                     except Exception as error:
                         results.append({"page_id": selected_id, "status": "error", "error": {"type": type(error).__name__, "message": scrub(str(error))}})
                     update_job(job_id, completed=len(results), results=results)
-                result = {"pages": results, "completed": len(results), "errors": sum(r["status"] == "error" for r in results)}
+                result = {"pages": results, "processed": len(results),
+                          "completed": sum(r["status"] == "complete" for r in results),
+                          "abstained": sum(r["status"] == "abstained" for r in results),
+                          "errors": sum(r["status"] == "error" for r in results)}
             elif request.action == "archive":
                 from .archive import build_archive
                 result = build_archive(engine)

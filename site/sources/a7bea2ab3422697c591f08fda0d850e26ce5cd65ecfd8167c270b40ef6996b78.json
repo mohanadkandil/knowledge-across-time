@@ -1,0 +1,44 @@
+{
+  "id": "wiki-9467011-1339617597-84e33646f6c8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "First Battle of Dego",
+  "text": "The Battle of Dego took place on September 21, 1794, in present-day Italy, during the War of the First Coalition. The battle was fought between French and Austrian armies resulting in a French victory. The battle is notable for being described in Napoleon 's correspondence, as he was present at the battle.\n\nThe Austrian army attempted to seize Savona, but were checked by the French at Dego. The French plan of battle was drawn up by General of Artillery Napoleon Bonaparte. The commander-in-chief of the French forces, Pierre Jadart Dumerbion, reported the victory to the French government, writing of Bonaparte's involvement, \"It is to the ability of the General of Artillery that I owe the clever combinations which have secured our success.\" The French did not follow up on this success, due to the grand strategy of the French government for a defensive war.",
+  "url": "https://en.wikipedia.org/wiki/First_Battle_of_Dego",
+  "revision_id": 1339617597,
+  "article_id": 9467011,
+  "section_path": "shared_text[0:865]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    865
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 108157,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "06be33eb7804d1c16678cab698d500ff57bb76c79b57e928df215189f3a6c411",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339617597",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9467011",
+    "revision_id": "1339617597",
+    "retrieved_at": "2026-10-18T12:22:20.548135+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 865,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7400510-1299631508-ca47aff4a375",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mohammedan SC",
+  "text": "Mohammedan Sporting Club may refer to the following sports teams:\n\nMohammedan SC (Kolkata), sports club in Kolkata, India\n\nMohammedan SC (women), women's football club in Kolkata, India\n\nMohammedan SC (futsal), futsal club in Kolkata\n\nMohammedan SC (Dhaka), sports club in Dhaka, Bangladesh\n\nMohammedan SC (Chittagong), sports club in Chittagong, Bangladesh\n\nMohammedan SC (Jhenaidah), sports club in Jhenaidah, Bangladesh\n\nMohammedan Sporting Club cricket team, List A cricket team in Bangladesh",
+  "url": "https://en.wikipedia.org/wiki/Mohammedan_SC",
+  "revision_id": 1299631508,
+  "article_id": 7400510,
+  "section_path": "shared_text[0:496]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    496
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 147900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "8d914eefe8d6e8dd9751cf4d9a590099433fd33c3aca8baa9ba1c7bd50b0e630",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299631508",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7400510",
+    "revision_id": "1299631508",
+    "retrieved_at": "2026-10-18T12:36:34.482041+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 496,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278773-1343987078-c393f053c327",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Greenland",
+  "text": "and\n\nLanguages of Greenland\n\nMedia in Greenland\n\nNational symbols of Greenland\n\nCoat of arms of Greenland\n\nFlag of Greenland\n\nNational anthem of Greenland\n\nPeople of Greenland\n\nPublic holidays in Greenland\n\nRecords of Greenland\n\nReligion in Greenland\n\nChristianity in Greenland\n\nWorld Heritage Sites in Greenland\n\nArt in Greenland\n\nList of Greenlandic artists\n\nCinema of Greenland\n\nLiterature of Greenland\n\nMusic of Greenland\n\nTelevision in Greenland\n\nTheatre in Greenland\n\nSports in Greenland\n\nArctic Winter Games 2016\n\nAssociation football in Greenland\n\nGreenland at the Olympics\n\nGreenland men's national handball team\n\nGreenlandic National Badminton Championships\n\nEconomy of Greenland\n\nEconomic rank, by nominal GDP (2007): 157th (one hundred and fifty seventh)\n\nAgriculture in Greenland\n\nBanking in Greenland\n\nBank of Greenland\n\nCommunications in Greenland\n\nInternet in Greenland\n\nCompanies of Greenland\n\nCurrency of Greenland: Krone\n\nISO 4217: DKK\n\nEnergy in Greenland\n\nEnergy policy of Greenland\n\nOil industry in Greenland\n\nMining in Greenland\n\nGemstone industry in Greenland\n\nGreenland Stock Exchange\n\nTourism in Greenland\n\nTransport in Greenland\n\nAirports in Greenland\n\nEducation in Greenland\n\nAll pages with titles beginning with Greenland\n\nAll pages with titles containing Greenland\n\nLists of country-related topics\n\nTopic outline of geography\n\nTopic outline of Greenland\n\nTopic outline of North America",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Greenland",
+  "revision_id": 1343987078,
+  "article_id": 16278773,
+  "section_path": "shared_text[0:5735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5735
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 41726,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "b70e845ff78947033b7ebfee205955d707ee2785d00f7612fcc94e80648903fe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343987078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278773",
+    "revision_id": "1343987078",
+    "retrieved_at": "2026-10-18T12:28:44.137261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

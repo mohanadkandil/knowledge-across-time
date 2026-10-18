@@ -1,0 +1,44 @@
+{
+  "id": "wiki-34353948-1352986232-ea203b59ae46",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Parabola GNU/Linux-libre",
+  "text": "Eg., after installing it on my Acer Aspire One 531h netbook I couldn't use my Broadcom bluetooth module and Intel's WiFi/WiMax Link 5150 adapter. (I still could use my HTC Magic with a custom Gingerbread ROM as a USB 3G/WiFi modem, though having something always connected to USB port is pretty annoying on laptop and specifically on netbook.)\n\n— Dmitrij D. Czarkoff\n\nCzarkoff also criticized the lack of documentation available for Parabola. He concluded \"The overall impression of the Parabola GNU/Linux user experience exactly matches the one of Arch: a system with easy and flexible installation and configuration process and good choice of free software packages. Though the lack of documentation spoils the user experience, the Arch Linux resources can be used to further configure and extend the distribution. If my hardware would allow, I would probably stick with Parabola.\"\n\nParabola used to have a mips64el port to provide support for the Chinese Loongson processor used in the Lemote Yeeloong laptop. It was discontinued due to a lack of resources and interest, and the final activity was seen in July 2014.\n\nRobert Rijkhoff reviewed Parabola GNU/Linux for DistroWatch in September 2017.\n\nThe project uses only exclusively free software from the official Arch repositories for the i686 and x86-64 architectures and official Arch ARM repositories (except alarm and the AUR) for the ARMv7. It uses free replacements when possible, such as the Linux-libre kernel instead of the generic Linux kernel.\n\nThe filtering process removes around 700 software packages from the repositories that do n",
+  "url": "https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre",
+  "revision_id": 1352986232,
+  "article_id": 34353948,
+  "section_path": "shared_text[0:4279]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c8787f86488e8e3e87f007654e4b5e79e9d5ac80438a5f5bc9a1b7cbf23232e7",
+    "source_row_idx": 22791,
+    "source_shard": "enwiki/data/enwiki_namespace_0_67.parquet",
+    "text_sha256": "e8b3107aacd7eafedb3a2274b697efa97d554f46cdc846ea53c3e86c64d7d735",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352986232",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34353948",
+    "revision_id": "1352986232",
+    "retrieved_at": "2026-10-18T12:38:10.306439+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4279,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

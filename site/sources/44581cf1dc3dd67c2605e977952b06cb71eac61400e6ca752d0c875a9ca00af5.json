@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "hold in every particular with regard to libels by wit-ting or printing, and the civil actions confinement threeropeus, but as to figure explores it forms need: fairy always to flow, by proper innuendos and aver-ments of the defendants’s meaning, the impact ap- attention of the Gandal, and that forms special damage has followed , otherwise it cannot appear, that fact l- led by picture was undertood to be levelled at the plaintity or that it was attended with any actionable consequences.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.4775,
+    0.043,
+    0.8721,
+    0.182
+  ],
+  "offsets": [
+    0,
+    490
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

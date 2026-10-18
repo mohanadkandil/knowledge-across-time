@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "ny ; prefects the amballador which the king is to keep at the Porte, eflects two confuls for Smyrna and Con-Manlample, Sec.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.5615,
+    0.0734,
+    0.9521,
+    0.1117
+  ],
+  "offsets": [
+    0,
+    123
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

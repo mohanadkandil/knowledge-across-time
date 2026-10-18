@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1793641-1349485777-55975076b72d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Proclamation of Neutrality",
+  "text": "te published, which have been read with singular pleasure and applause by the foreigners and degenerate citizens among us, who hate our republican government and the French Revolution.\" Madison brought to light the strict constructionist's view of both the Constitution and the Proclamation, demanding that Congress, not the president, had full authority over all foreign affairs except those areas specified in the Constitution.\n\nThe debate among Jefferson/Madison and Hamilton regarding the Proclamation is portrayed in the song \" Cabinet Battle #2 \" in the musical Hamilton.",
+  "url": "https://en.wikipedia.org/wiki/Proclamation_of_Neutrality",
+  "revision_id": 1349485777,
+  "article_id": 1793641,
+  "section_path": "shared_text[0:6337]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    6337
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 44945,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "73630ababe9f26123717b57337ba8808d4c341b12c2b7f694d5526d158b6e5d7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349485777",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1793641",
+    "revision_id": "1349485777",
+    "retrieved_at": "2026-10-18T12:39:12.939452+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6337,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

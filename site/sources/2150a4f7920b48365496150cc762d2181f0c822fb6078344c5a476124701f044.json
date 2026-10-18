@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30600547-1339099823-b666a9353a76",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Control of Asbestos Regulations 2006",
+  "text": "The Control of Asbestos Regulations 2006 (SI 2006 /2739) came into force in the United Kingdom on 13 November 2006 and brought together a number of other asbestos related pieces of legislation. This has been superseded by the Control of Asbestos Regulations 2012 (SI 2012 /632). The pieces of legislation the regulations revoked and replaced were the Control of Asbestos at Work Regulations 2002 (SI 2002 /2675), the Asbestos (Licensing) Regulations 1983 (SI 1983 /1649) and the Asbestos (Prohibitions) Regulations 1992 (SI 1992 /3067). Key elements of the regulations include a greater emphasis on training requiring anyone who may come into contact with asbestos in the course of their work to be given suitable training. Greater restrictions were also placed on the amount of exposure workers could be exposed to in the form of 'control limits'. The recently published 'Asbestos: The survey guide' (HSG264) is complementary to these regulations. When work with asbestos is being carried out the regulations place a requirement on employers and self-employed workers to prevent exposure to asbestos fibres.\n\nThe Control of Asbestos Regulations 2006 brought together three separate pieces of legislation which covered the prohibition of asbestos, the control of asbestos at work and asbestos licensing. They prohibited the import, supply and use of all types of asbestos and also continued to ban the second hand use of asbestos products such as asbestos boards and tiles. The regulations require mandatory training to be given to anyone who may be exposed to asbestos whilst at work. This regulatio",
+  "url": "https://en.wikipedia.org/wiki/Control_of_Asbestos_Regulations_2006",
+  "revision_id": 1339099823,
+  "article_id": 30600547,
+  "section_path": "shared_text[0:5218]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 35782,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2b3a79bf5448a9c83b24f1e7b4f84317b30ccaed6d6c98971e4b249ec6fbe2d8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339099823",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30600547",
+    "revision_id": "1339099823",
+    "retrieved_at": "2026-10-18T12:16:56.249697+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5218,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

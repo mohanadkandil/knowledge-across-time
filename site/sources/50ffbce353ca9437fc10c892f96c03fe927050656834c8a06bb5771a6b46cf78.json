@@ -1,0 +1,44 @@
+{
+  "id": "wiki-20542141-1348404416-5977515e96ed",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Melite",
+  "text": "Melite may refer to:\n\nMelite (ancient city), an ancient Punic-Roman city located on Malta, or a Greco-Roman reference to the island on which the city was located\n\nMelite (Attica), one of the demes of ancient Attica\n\nMelite, ancient name of Lake Trichonida in Greece\n\nMelite, the ancient name of Mljet island\n\nMelite (Greek mythology)\n\nMelite (heroine)\n\nMelite (naiad)\n\nMelite, version 4.5 of 98lite, a customized version of Windows Me",
+  "url": "https://en.wikipedia.org/wiki/Melite",
+  "revision_id": 1348404416,
+  "article_id": 20542141,
+  "section_path": "shared_text[0:434]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    434
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bf2b808ddd2ef9f1d6b4c3d30e1afe0f8f9f2bc165b0f7f1e1522fa97d6e2c51",
+    "source_row_idx": 72735,
+    "source_shard": "enwiki/data/enwiki_namespace_0_49.parquet",
+    "text_sha256": "9863ac37fc35e784a1901609827a8785f9bbc88fcf2c3160ef6143e60b587b32",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348404416",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "20542141",
+    "revision_id": "1348404416",
+    "retrieved_at": "2026-10-18T12:20:55.569878+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 434,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

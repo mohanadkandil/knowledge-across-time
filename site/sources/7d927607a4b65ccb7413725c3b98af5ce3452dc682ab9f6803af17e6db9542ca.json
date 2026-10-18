@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1054294-1334829079-b95510c0aec6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Rifled breech loader",
+  "text": "ugh the rear of the breech : the \"sliding wedge\" or \"sliding block\" breech.\n\nThe very first cannons of the Middle Ages were breech loaded, with gunpowder and shot contained in pots dropped at the back of the barrel, but the poor seals made them dangerous, and they wore quickly and could not be scaled to larger weapons. Until the 19th century, mainly muzzle-loaders were used.\n\nIn 1837, Martin von Wahrendorff patented a design for a breech-loader with a cylindrical breech plug secured by a horizontal wedge; it was adopted by Sweden in 1854. Independently, Giovanni Cavalli first proposed a breech-loader gun in 1832 to the Sardinian Army, and first tested such a gun in 1845.\n\nAdvances in metallurgy in the industrial era allowed for the construction of rifled breech-loading guns that could fire at a much greater muzzle velocity. After the British artillery was shown up in the Crimean War as having barely changed since the Napoleonic Wars the industrialist William Armstrong was awarded a contract by the government to design a new piece of artillery. Production started in 1855 at the Elswick Ordnance Company and the Royal Arsenal at Woolwich.\n\nHis \"Armstrong screw\" breech involved loading the shell and gunpowder propellant charge in a cloth bag through the hollow breech screw, lowering a heavy block into a slot behind the powder chamber and screwing the breech screw tightly against the block to lock it in place. A degree of obturation was achieved via a cup on the face of the block being forced into a recessed ring on the chamber face. The system was in effect a vertical sliding b",
+  "url": "https://en.wikipedia.org/wiki/Rifled_breech_loader",
+  "revision_id": 1334829079,
+  "article_id": 1054294,
+  "section_path": "shared_text[0:12203]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 77366,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "9fc95d203717d29d0d1dab0902784f7d35cf0ce3d2f1882f9c672a4a6d5b8527",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334829079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1054294",
+    "revision_id": "1334829079",
+    "retrieved_at": "2026-10-18T12:41:57.411308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12203,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

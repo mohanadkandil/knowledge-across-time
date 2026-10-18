@@ -1,0 +1,44 @@
+{
+  "id": "wiki-47803943-1216345467-86ac7f23a1ca",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Parthian War",
+  "text": "The Parthian War may refer to:\n\nThe Seleucid–Parthian Wars (238–129 BC)\n\nThe Armenian–Parthian War (87–85 BC)\n\nThe Roman–Parthian Wars, including:\n\nAntony's Atropatene campaign or the Roman–Parthian War (40–33 BC)\n\nThe Roman–Parthian War of 58–63\n\nTrajan's Parthian campaign (114–117)\n\nThe Roman–Parthian War of 161–166 or the Parthian War of Lucius Verus\n\nThe Parthian war of Caracalla (216–217)",
+  "url": "https://en.wikipedia.org/wiki/Parthian_War",
+  "revision_id": 1216345467,
+  "article_id": 47803943,
+  "section_path": "shared_text[0:396]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    396
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4f21b55746da9e9da7e9c78f01d1e7932a1a3fa023e618b1cd32372657a50a1a",
+    "source_row_idx": 108842,
+    "source_shard": "enwiki/data/enwiki_namespace_0_20.parquet",
+    "text_sha256": "5e79d9606f7e98fcce338823c9399918fd0a7b7238ef0735c25efcb45a7decc9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1216345467",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "47803943",
+    "revision_id": "1216345467",
+    "retrieved_at": "2026-10-18T12:38:52.681540+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 396,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

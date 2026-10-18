@@ -1,0 +1,44 @@
+{
+  "id": "wiki-62824625-1254694389-b2542213c5ce",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Microscope (disambiguation)",
+  "text": "A microscope is an instrument used to see objects that are too small to be seen by the naked eye.\n\nTypes of microscope include:\n\nOptical microscope\n\nStereo microscope\n\nDigital microscope\n\nUSB microscope\n\nElectron microscope\n\nScanning electron microscope\n\nMicroscope may also refer to:\n\nMICROSCOPE (MICRO-Satellite à traînée Compensée pour l'Observation du Principe d'Equivalence), a satellite used to test the equivalence principle\n\nMicroScope (magazine), for the computer industry\n\nmicro_scope, a film production company founded by Luc Déry and Kim McCraw\n\nMicroscope (album), by Riz MC, 2011\n\nMicroscope Gallery, an art gallery in Brooklyn, U.S.\n\nMicroscopium, a constellation\n\nMicroscope (role-playing game), a 2011 indie role-playing game",
+  "url": "https://en.wikipedia.org/wiki/Microscope_(disambiguation)",
+  "revision_id": 1254694389,
+  "article_id": 62824625,
+  "section_path": "shared_text[0:742]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    742
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 141564,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "6fa071e56cd59143e4456a1a32b0a4d7223c738d1b9766b1510e0c9b6223ece4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1254694389",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "62824625",
+    "revision_id": "1254694389",
+    "retrieved_at": "2026-10-18T12:39:30.236988+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 742,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

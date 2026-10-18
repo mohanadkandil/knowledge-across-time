@@ -1,0 +1,36 @@
+{
+  "id": "bri-2292-93b4d1f3ff8c:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2292-93b4d1f3ff8c",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "18. The tightened series is a non removable and intercepted one, of fixed lines, that is, however which cannot be volatilized without decomposition, and which no longer are of the type ammonia, but, in composition of the type of hydrated oxide of ammonium, and at the type is unknown in a separate form, we can compare them to nothing as well as to hydrated ions of potassium, or cause protein, which they are in a most astonishing degree analogue. To illustrate their information, like to suppose iodide of ethylb to act to triethylamine. Here there is no more hydrogen left to be replaced, for all 8 egs, are already replaced, and all the hydrogen present is in the form of ethylc. The action is N Ac¡+Atel=N Aac¡L. The ethylene of the iodide",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+  "provenance": {
+    "page_id": "bri-2292-93b4d1f3ff8c",
+    "row_index": 2292,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 0,
+    "sha256": "93b4d1f3ff8c91cea76506298710cd1ef022efe47dc5ba2ebe8650a7496fc589",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2292-93b4d1f3ff8c.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1455,
+    0.7734,
+    0.5312,
+    0.932
+  ],
+  "offsets": [
+    0,
+    744
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

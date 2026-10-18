@@ -1,0 +1,44 @@
+{
+  "id": "wiki-75250245-1322019842-8de49b765921",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Roebuck (surname)",
+  "text": "Roebuck is a surname. Notable people with this surname include:\n\nAlvah Curtis Roebuck (1864–1948), American businessman, co-founder of Sears, Roebuck and Company\n\nArthur Roebuck (1878–1971), Canadian politician and lawyer\n\nCharlie Roebuck (born 1991), English cricketer\n\nChris Roebuck, British economist\n\nDaniel Roebuck (born 1963), American television film actor, writer and producer\n\nEd Roebuck (1931–2018), American baseball player and scout\n\nEllie Roebuck (born 1999), English association football player\n\nGene Roebuck (born 1947), American college sports coach\n\nJames R. Roebuck Jr. (born 1945), American politician\n\nJohn Roebuck (1718–1794), English inventor\n\nJohn Arthur Roebuck (1802–1879), British politician and Member of Parliament\n\nJoseph Roebuck (born 1985), English swimmer\n\nKristian Roebuck (born 1981), English badminton player\n\nLarrett Roebuck (1889–1914), English footballer\n\nLes Roebuck (1885–1973), Australian rules footballer and tennis player\n\nMarty Roebuck (born 1965), Australian rugby union footballer\n\nNathan Roebuck (born 1999), English rugby league player\n\nNeil Roebuck (born 1969), English rugby league footballer of the 1980s and 1990s\n\nNigel Roebuck (born 1946), English Formula One journalist\n\nPaul Roebuck (born 1963), English cricketer\n\nPeter Roebuck (1956–2011), English-Australian cricketer and journalist\n\nRoy Roebuck (1929–2023), British journalist, Member of Parliament and barrister\n\nSamuel Roebuck (1871–1924), British trade unionist\n\nThomas Roebuck (1781–1819), British orientalist, translator, soldier and writer\n\nTom Roebuck (born 2001), English rugby unio",
+  "url": "https://en.wikipedia.org/wiki/Roebuck_(surname)",
+  "revision_id": 1322019842,
+  "article_id": 75250245,
+  "section_path": "shared_text[0:2128]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 46273,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "b27c021a2d19c16f2a3776a99a63bf157762dde8905423fcffc6bcd8057479d2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1322019842",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "75250245",
+    "revision_id": "1322019842",
+    "retrieved_at": "2026-10-18T12:23:55.779130+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2128,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

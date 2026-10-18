@@ -1,0 +1,36 @@
+{
+  "id": "bri-2536-526b43082bc6:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2536-526b43082bc6",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+  "text": "_Min._",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+  "provenance": {
+    "page_id": "bri-2536-526b43082bc6",
+    "row_index": 2536,
+    "volume_id": "191253837",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+    "label": 0,
+    "sha256": "526b43082bc617aa07f167d2238800380a2993105d74711032efc0157c853b7b",
+    "width": 600,
+    "height": 777,
+    "image_file": "../images/bri-2536-526b43082bc6.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.126,
+    0.6703,
+    0.1807,
+    0.6906
+  ],
+  "offsets": [
+    0,
+    6
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

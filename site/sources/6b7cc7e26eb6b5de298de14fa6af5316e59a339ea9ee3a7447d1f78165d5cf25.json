@@ -1,0 +1,36 @@
+{
+  "id": "bri-0410-851ddf04c85e:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-0410-851ddf04c85e",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+  "text": "\" And, finally, at SV-SW (I.e) a 58'd45 !:2173 · 187505 + I360 +, the weight on the gunwale which will fuhin the veffel at the green inclination. Thereor aveffel of the above directions, and weighing 8 tons, y cewte. 28lbs, will require a weight of 1 ton, 15 ews. 64lbs to max her income 15%.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+  "provenance": {
+    "page_id": "bri-0410-851ddf04c85e",
+    "row_index": 410,
+    "volume_id": "191253809",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.8",
+    "label": 0,
+    "sha256": "851ddf04c85ebf619e92cdec1a9ea77fbf9eba816274961431054080c35eaf40",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-0410-851ddf04c85e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=410",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5254,
+    0.768,
+    0.9121,
+    0.8469
+  ],
+  "offsets": [
+    0,
+    292
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

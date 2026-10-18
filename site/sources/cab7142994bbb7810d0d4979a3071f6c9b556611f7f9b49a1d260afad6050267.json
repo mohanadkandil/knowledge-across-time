@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3406507-1351919062-13c07ed5e0eb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cambray, Ontario",
+  "text": "Cambray is a community in Kawartha Lakes, Ontario, situated at the intersection of Cambray Road and Elm Tree Road. It is on the main street connecting Woodville to Lindsay.\n\nOriginally a native encampment, Cambray was established as a mill site between Lindsay and Eldon Station. The first farm was owned by the Jarvis Family, followed by the Sinclair and Wilkinson families. It was located in Fenelon Township, Victoria County until 2001, when it was reformed as Kawartha Lakes.\n\nJoseph Wilkinson named the village and township because he admired the literary works of François Fénelon, Archbishop of Cambrai. He also founded one of the first mills in 1855.",
+  "url": "https://en.wikipedia.org/wiki/Cambray,_Ontario",
+  "revision_id": 1351919062,
+  "article_id": 3406507,
+  "section_path": "shared_text[0:658]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    658
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 29700,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "a8cfc8a7a719ff37a4f1f5318a9ab1ac1a4c3d6afa04e9d9f5059632313495a3",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351919062",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3406507",
+    "revision_id": "1351919062",
+    "retrieved_at": "2026-10-18T12:40:17.139752+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 658,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

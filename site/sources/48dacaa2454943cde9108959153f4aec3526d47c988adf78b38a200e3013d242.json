@@ -1,0 +1,36 @@
+{
+  "id": "bri-1854-36bca28d19d7:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1854-36bca28d19d7",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "text": "In this country form important sets were inverse of that impressed. Waving in general was greatly improved, and that of figures of all forks in line was invented, also the art of drying cloths and fluffs, and the colours the curing of herring size. The manufectures of this country are not now in the flourishing flats they were formerly; ye e fills, cotton, and wool- her fluffs, broodies, candles, tiny yers, and linen, are fill manufactured here in great quantities. This provision shall consist of its own from the ninth century on the year 1406, when it went by marriage to the dues of Baryonary, and relations from them, by average als, to the hooks of Aufria. France, in 1669, feted the Southern part; and the flatter general ob-tained the northern, partly by the treaty of Munifer, and partly by the barrier treaty of 1715.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "provenance": {
+    "page_id": "bri-1854-36bca28d19d7",
+    "row_index": 1854,
+    "volume_id": "191320561",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+    "label": 0,
+    "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-1854-36bca28d19d7.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5039,
+    0.1156,
+    0.8867,
+    0.3172
+  ],
+  "offsets": [
+    0,
+    831
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

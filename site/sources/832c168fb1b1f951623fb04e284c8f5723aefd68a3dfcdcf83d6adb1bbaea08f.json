@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39205368-1209039871-5a668fa0a432",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Melilla Airlines",
+  "text": "Melilla Airlines (a.k.a. Melilla Airways SL) was a travel agency based in Melilla, Spain. Its headquarters was Melilla Airport. In spite of the company's name, Melilla Airlines lacked a valid Air Operator Certificate. It was not a fully certified airline, but operated as a travel agency that re-sold flights from Aeronova.\n\nThe agency was founded in 2013 and began operations on 29 April 2013, with the inaugural route of Málaga - Melilla. In February 2015, Aeronova terminated its collaboration with the company due to disputes, which resulted in Melilla Airlines being dissolved.\n\nSpain\n\nMálaga – Málaga Airport\n\nMelilla – Melilla Airport",
+  "url": "https://en.wikipedia.org/wiki/Melilla_Airlines",
+  "revision_id": 1209039871,
+  "article_id": 39205368,
+  "section_path": "shared_text[0:641]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    641
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 14041,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "e99c8fa05d551b3f6317197298b4b6fff33377eac53464601494df550e882ae5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1209039871",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39205368",
+    "revision_id": "1209039871",
+    "retrieved_at": "2026-10-18T12:20:58.255433+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 641,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

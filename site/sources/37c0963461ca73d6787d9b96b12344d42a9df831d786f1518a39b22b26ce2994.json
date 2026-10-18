@@ -1,0 +1,49 @@
+{
+  "id": "wiki-1506160-1323010285-61f3ae258e6b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julian Symons",
+  "text": "lected in The Detections of Francis Quarles (Francis Quarles)\n\nJack and Jill. (London) Evening Standard, 19 September 1953; also published as Death by Drowning. Aberdeen Evening Express, 22 October 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nIced Champagne. (London) Evening Standard, 19 October 1953. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nSailors' Hornpipe. Aberdeen Evening Express, 22 October 1953. Collected in Murder! Murder! (Francis Quarles)\n\nPicture Show. (London) Evening Standard, 1 January 1954. Collected in Murder! Murder! (Francis Quarles)\n\nAce of Spades. (London) Evening Standard, 2 January 1954. Collected in Francis Quarles Investigates (Francis Quarles)\n\nTime for Murder. Aberdeen Evening Express, 2 February 1954. Collected in Murder! Murder! (Francis Quarles)\n\nThe Plaster Pekingese. Aberdeen Evening Express, 3 February 1954. Collected in Murder! Murder! (Francis Quarles)\n\nAirport Incident. Aberdeen Evening Express, 4 February 1954. Collected in Murder! Murder! (Francis Quarles)\n\nAbsent-Minded Professor. (London) Evening Standard, 4 May 1954. Collected in Murder! Murder! as \"The Absent-Minded Professor\" (Francis Quarles)\n\nThe Barton Hall Dwarf (\"Deckchair Detective No. 1\"). (London) Evening Standard, 16 August 1954. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Invisible Poison (\"Deckchair Detective No. 2\"). (London) Evening Standard, 17 August 1954. Collected in Murder! Murder! (Francis Quarles)\n\nMeeting in the Snow (\"Deckchair Detective No. 3\"). (London) Evening Standard, 18 August 1",
+  "url": "https://en.wikipedia.org/wiki/Julian_Symons",
+  "revision_id": 1323010285,
+  "article_id": 1506160,
+  "section_path": "shared_text[0:30404]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    17280,
+    18880
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 17869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "c1943e2d6de5cd44100db2cea968bf9e3a781fa85f0cee9c4f3d7ad3cec48c6d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323010285",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1506160",
+    "revision_id": "1323010285",
+    "retrieved_at": "2026-10-18T12:24:02.424223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 10404,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

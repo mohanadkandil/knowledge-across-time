@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39187246-1353012590-1467a3e399fa",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Honorary titles of Ukraine",
+  "text": "e\n\nHonored Worker of Veterinary Medicine of Ukraine\n\nMerited Culture Worker of Ukraine\n\nHonored Education Worker of Ukraine\n\nHonored Healthcare Worker of Ukraine\n\nHonored Industry Worker of Ukraine\n\nHonored Transportation Worker of Ukraine\n\nHonored Tourism Worker of Ukraine\n\nHonored Agriculture Worker of Ukraine\n\nHonored Social Worker of Ukraine\n\nHonored Service Sector Worker of Ukraine\n\nHonored Pharmacy Worker of Ukraine\n\nHonored Worker of Physical Culture and Sports of Ukraine\n\nHonored Civil Defense Worker of Ukraine\n\nHonored Environmentalist of Ukraine\n\nHonored Rationalizer of Ukraine\n\nHonored Painter of Ukraine\n\nHonored Miner of Ukraine\n\nHonored Jurist of Ukraine\n\nMerited Coach of Ukraine\n\nMerited Master of Sports of Ukraine\n\nMaster of Sports of Ukraine, World Class (type of sports) / Grandmaster of Ukraine\n\nMaster of Sports of Ukraine (type of sports)\n\nGuard, elite military formations and Naval ships\n\nAcademic, to theaters of drama or music\n\nNational (National Opera of Ukraine, Olimpiysky National Sports Complex, National Space Agency of Ukraine, National Academy of Sciences of Ukraine, others)\n\nThere are many titles that were discontinued among which are the Exemplary titles, Distinguished titles (Distinguished Corn Producer of Ukraine, Distinguished Agricultural Machine Operator of Ukraine and others).\n\nHonorary Firefighter-Volunteer of Ukraine",
+  "url": "https://en.wikipedia.org/wiki/Honorary_titles_of_Ukraine",
+  "revision_id": 1353012590,
+  "article_id": 39187246,
+  "section_path": "shared_text[0:4253]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4253
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "b1939e53c82e8e1ce339129f375e364704cebf0b79f249f5f57851d7576fe224",
+    "source_row_idx": 16434,
+    "source_shard": "enwiki/data/enwiki_namespace_0_69.parquet",
+    "text_sha256": "cc1554d60fece2f3a44143f91a920b52f733da481593af5c47e25de7f3520bf6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353012590",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39187246",
+    "revision_id": "1353012590",
+    "retrieved_at": "2026-10-18T12:24:53.368020+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4253,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

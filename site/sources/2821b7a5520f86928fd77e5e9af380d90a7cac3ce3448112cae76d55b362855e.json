@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-17:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "CHOBERIIUS, a triple pot of others about the 6qth Olympus. He wrote to Togaglie of which 13 had obtained the prize.— An historian of Samos. Two other pests, one of whom was very infamous with Hereold. He wrote a poem on the victory which the Athenians had obtained over Nexrxes ; and on ac- couple of the excellence of the competition he received a piece of gold for each verse from the Attenham. The other was one of Alexander's flattersers and friends.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-17",
+  "bbox_raw": [
+    0.541,
+    0.7828,
+    0.9316,
+    0.9117
+  ],
+  "offsets": [
+    0,
+    454
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

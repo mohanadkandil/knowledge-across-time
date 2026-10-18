@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "On the news of this misfortune, the Catti, taking new courage, run to firms; but Cuba Siline being de tached against them with 2500 fand and 3000 horse, kept them in awe. Germansa hinelf, at the head of is numerous body, makes sudden irrigation into the territories of the Marifir, where the recovered one of Yara's eagles, and having killed the country, be returned to the frontiers of Germany and put his troops into winter quarters , whence he was four real-led by Thierius, and never suffered to return into Ger-many again.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0869,
+    0.3992,
+    0.4609,
+    0.5406
+  ],
+  "offsets": [
+    0,
+    527
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

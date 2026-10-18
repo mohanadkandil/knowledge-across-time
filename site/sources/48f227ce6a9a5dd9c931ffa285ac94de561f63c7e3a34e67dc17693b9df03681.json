@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "\" A few days after I had made this experiment, the water ended entirely to make its appearance, either as the buyers, or at the hole in the wind cheft, but the furnace did not come into heat for a long while they, and indeed war till the keeper let much more air into it by a larger blow-pipe, and allowed led to an cheap set his ability valve. It is probable that the rock was now become extremely of by the continued best of the furnace.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0723,
+    0.2453,
+    0.4951,
+    0.3609
+  ],
+  "offsets": [
+    0,
+    439
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

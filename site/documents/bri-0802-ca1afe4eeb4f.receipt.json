@@ -1,8 +1,8 @@
 {
   "status": "compiled",
-  "tex_sha256": "6afd5f73d7918fbc555e93a5d3ba885edbdb9c574459fe1a7001ae9116a97ed5",
+  "tex_sha256": "a22b1503d8011c30f700b8ea79592c33bb9515e6b4ad5d46a4d280ace883ba60",
   "compiler": "tectonic",
   "exit_code": 0,
-  "output": "note: Running TeX ...\nnote: Rerunning TeX because \"bri-0802-ca1afe4eeb4f.aux\" changed ...\nnote: Running xdvipdfmx ...\nnote: Writing `data/site/documents/bri-0802-ca1afe4eeb4f.log` (16.38671875 KiB)\nnote: Writing `data/site/documents/bri-0802-ca1afe4eeb4f.pdf` (20.6015625 KiB)\nnote: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)\nwarning: bri-0802-ca1afe4eeb4f.tex:29: Underfull \\hbox (badness 10000) in paragraph at lines 28--29\nwarning: bri-0802-ca1afe4eeb4f.tex:29: Underfull \\hbox (badness 10000) in paragraph at lines 28--29\nwarning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.\n",
-  "at": "2026-10-18T11:30:37.471567+00:00"
+  "output": "note: Running TeX ...\nnote: Rerunning TeX because \"bri-0802-ca1afe4eeb4f.aux\" changed ...\nnote: Running xdvipdfmx ...\nnote: Writing `[home]/Desktop/hacks/knowledge-across-time/data/site/documents/bri-0802-ca1afe4eeb4f.log` (16.3876953125 KiB)\nnote: Writing `[home]/Desktop/hacks/knowledge-across-time/data/site/documents/bri-0802-ca1afe4eeb4f.pdf` (21.5126953125 KiB)\nnote: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)\nwarning: bri-0802-ca1afe4eeb4f.tex:31: Underfull \\hbox (badness 10000) in paragraph at lines 30--31\nwarning: bri-0802-ca1afe4eeb4f.tex:31: Underfull \\hbox (badness 10000) in paragraph at lines 30--31\nwarning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.\n",
+  "at": "2026-10-18T12:45:52.147710+00:00"
 }

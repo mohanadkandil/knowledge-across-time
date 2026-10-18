@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3301009-1264860546-9b29bd1f22f8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Manti",
+  "text": "Manti or Manty may refer to:\n\nManti, Iowa, a defunct Mormon settlement\n\nManti, Utah, a city, named for the city of Manti in the Book of Mormon\n\nManti National Forest, formerly Manti Forest Reserve, in Colorado and Utah\n\nManti (crater), on Mars\n\nCity of Manti, the chief city in land of Manti, in the Book of Mormon\n\nHill of Manti, near city of Zarahemla, in the Book of Mormon\n\nLand of Manti, most southerly land of the Nephites, in the Book of Mormon\n\nManti Te'o (born 1991), American football player\n\nHarri Mänty (born 1971), Swedish guitarist\n\nManti (food), a dumpling originally from Central Asia and Mongolia\n\nManti Utah Temple, a Mormon temple in Manti, Utah\n\nManti High School, Manti, Utah\n\nManti (Book of Mormon), a Nephite soldier in the Book of Mormon\n\nMänti, a constructed language created by Daniel Tammet (born 1979)\n\nManty, a margarine brand - see BRF S.A.",
+  "url": "https://en.wikipedia.org/wiki/Manti",
+  "revision_id": 1264860546,
+  "article_id": 3301009,
+  "section_path": "shared_text[0:870]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    870
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 70124,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "d978a6877c1e896474a7855ad4338384555c5ae0da242a9b21d9af1d57fa5dc9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1264860546",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3301009",
+    "revision_id": "1264860546",
+    "retrieved_at": "2026-10-18T12:37:58.165913+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 870,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2203227-1327778375-35e8b8a046cb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Shaftesbury (disambiguation)",
+  "text": "Shaftesbury is a town in Dorset, England\n\nShaftesbury may also refer to:\n\nShaftesbury plc, a British real estate investment trust\n\nShaftesbury (production company), a Canadian media production company\n\nShaftesbury High School, in Winnipeg, Manitoba, Canada\n\nShaftesbury School, in Dorset, England\n\nShaftesbury Town (ward), Dorset, England\n\nShaftesbury, Newport, Wales\n\nShaftesbury, Belfast, Northern Ireland\n\nShaftesbury Avenue, a street in London\n\nShaftesbury Park Estate, a housing estate in London, England\n\nShaftesbury Settlement, Alberta, Canada\n\nShaftesbury Theatre, in London\n\nShaftesbury, a British merchant ship sunk by Wolfpack Hai in 1942\n\nEarl of Shaftesbury, a title in the peerage of England",
+  "url": "https://en.wikipedia.org/wiki/Shaftesbury_(disambiguation)",
+  "revision_id": 1327778375,
+  "article_id": 2203227,
+  "section_path": "shared_text[0:705]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    705
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 107955,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "72753df84d54fd790c993e15494d955206805de64e82f1e70f97db1464ec3712",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1327778375",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2203227",
+    "revision_id": "1327778375",
+    "retrieved_at": "2026-10-18T12:40:18.900455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 705,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

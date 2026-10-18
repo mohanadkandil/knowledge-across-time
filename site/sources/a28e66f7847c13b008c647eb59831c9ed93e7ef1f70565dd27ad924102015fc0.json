@@ -1,0 +1,44 @@
+{
+  "id": "wiki-66148359-1316228738-698261b30a4b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anti-Slavery Society",
+  "text": "Anti-Slavery Society was a name used by various abolitionist groups including:\n\nSociety for Effecting the Abolition of the Slave Trade (1787–1807?), also referred to as the Abolition Society\n\nAnti-Slavery Society (1823–1838), full name Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions\n\nAnti-Slavery International (1839–present), founded as the British and Foreign Anti-Slavery Society\n\nAmerican Anti-Slavery Society (1833–1870)\n\nAnti-Slavery League of Indiana\n\nBoston Female Anti-Slavery Society (founded 1833)\n\nThe Concord Female Anti-Slavery Society (founded 1837)\n\nPhiladelphia Female Anti-Slavery Society (founded 1833)\n\nFall River Female Anti-Slavery Society (founded 1835)\n\nLadies’ New York City Anti-Slavery Society (founded 1835)\n\nMassachusetts Anti-Slavery Society (founded 1835)\n\nOhio Anti-Slavery Society (founded 1835)\n\nAnti-Slavery Convention of American Women (founded 1837)\n\nNew York State Anti-Slavery Society, first meeting held in Utica October 19, 1836 (History of slavery in New York (state))\n\nPennsylvania Anti-Slavery Society (founded 1838)\n\nAmerican and Foreign Anti-Slavery Society (founded 1840)\n\nNeel's Creek Anti-Slavery Society in Indiana with members including Lyman Hoyt\n\nBelgian Anti-Slavery Society (founded 1888)",
+  "url": "https://en.wikipedia.org/wiki/Anti-Slavery_Society",
+  "revision_id": 1316228738,
+  "article_id": 66148359,
+  "section_path": "shared_text[0:1289]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1289
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0710c536dc264c461ca78f84cfccd3a76e5a097537b128227897481154409b19",
+    "source_row_idx": 73115,
+    "source_shard": "enwiki/data/enwiki_namespace_0_38.parquet",
+    "text_sha256": "ddbf88b26f1f7c6686bd8301490f06565db00c5cea60801a7817e5e7d452161f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1316228738",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "66148359",
+    "revision_id": "1316228738",
+    "retrieved_at": "2026-10-18T12:39:54.737611+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1289,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

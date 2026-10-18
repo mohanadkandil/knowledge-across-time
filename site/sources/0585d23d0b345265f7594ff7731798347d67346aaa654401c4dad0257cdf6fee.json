@@ -1,0 +1,49 @@
+{
+  "id": "wiki-86546-1350218234-5c1e6969fe3b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Prester John",
+  "text": "Prester John (Latin: Presbyter Ioannes) was a postulated Christian patriarch, presbyter, and king. Stories popular in Europe in the 12th to the 17th centuries told of a Nestorian patriarch and king who was said to rule over a Christian nation lost amid the pagans and Muslims in the Orient.: 28 The accounts were often embellished with various tropes of medieval popular literature, depicting Prester John as a descendant of the Three Magi, ruling a kingdom full of riches, marvels, and strange creatures.\n\nAt first, Prester John was thought to reside in India. Reports of the Nestorian Christians' evangelistic success there and of Thomas the Apostle 's subcontinental travels as documented in works like the Acts of Thomas probably provided the first seeds of the narrative. As Europeans became aware of the Mongols and their empire, accounts placed the king in Central Asia, and eventually Portuguese explorers came to assume that the term was a reference to Ethiopia, which at that time was an isolated Christian \"exclave\" distant from any other Christian-ruled territory.\n\nThough its immediate genesis is unclear, officially the origin of the idea of Prester John originates from a letter that the Byzantine emperor Manuel I Komnenos received in 1165. The sender was: \" John, Christian Sovereign and Lord of Lords \".\n\nThe letter described the very rich lands of this monarch located in central Asia. The king said he lived in an immense palace made of gems and gold and said he governed a huge territory extending from Persia to China. For many years the idea of Prester John was associated with",
+  "url": "https://en.wikipedia.org/wiki/Prester_John",
+  "revision_id": 1350218234,
+  "article_id": 86546,
+  "section_path": "shared_text[0:21552]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "351ee65aa683fc2e65fc2cb6c0e70fbb1ddbaaf57fbd16630b2878c2de84e546",
+    "source_row_idx": 26143,
+    "source_shard": "enwiki/data/enwiki_namespace_0_54.parquet",
+    "text_sha256": "5047e7cc7a7276d320ef535db54ef24642d669f10656a03c900b1e59b2a465f1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350218234",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "86546",
+    "revision_id": "1350218234",
+    "retrieved_at": "2026-10-18T12:36:06.616390+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 1552,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

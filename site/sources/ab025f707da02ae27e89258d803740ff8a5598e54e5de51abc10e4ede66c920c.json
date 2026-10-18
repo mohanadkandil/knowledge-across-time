@@ -1,0 +1,36 @@
+{
+  "id": "bri-2281-ff9c4373e498:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-2281-ff9c4373e498",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+  "text": "In the third position AD of the trisecting line, draw CPF parallel to A and join AF and DFT. The isoscales triangles D’AF and AFF? have equal vertical angles (and, consequently, the angles at their base are likewise equal); wheretors, AFD’s is equal to the alternatingle PFAF, and the chord D’t parallel to the diameter BG. But the reverse angle CAD’s standing on the arc CDD’s, is double of the angle CFD’s at the circumference, and, therefore, double of BFW or of BAIFs, and the angle CAD being by the first construction, likewise double of BAD, the reverse angle CAD’y together with CAD must double of BAD’ and BAD, or the arc CDD’d is double of DBD’, which completes the circumference. Hence the arc DDD’s is two-thirds of the circumference.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+  "provenance": {
+    "page_id": "bri-2281-ff9c4373e498",
+    "row_index": 2281,
+    "volume_id": "192547790",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 1 - EB.14",
+    "label": 1,
+    "sha256": "ff9c4373e498cf1488dade04b3ed25c7d5c4da4a09a1e102e863f69b1e53fdca",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-2281-ff9c4373e498.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2281",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5342,
+    0.6352,
+    0.9199,
+    0.8461
+  ],
+  "offsets": [
+    0,
+    745
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

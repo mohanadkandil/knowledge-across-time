@@ -1,0 +1,36 @@
+{
+  "id": "bri-1137-484b60a07551:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1137-484b60a07551",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+  "text": "are neither so beautiful, picturesque, or varied, as those from the summit of heights which do not be used that of Vestrain, Rigi, or Fuy-de-Dome, Co-lessal mountains, such a Chimbongo, Antiama, or Mount Rosa, compose in large e mass, that the plains, covered with rich vegetation, are seen only in the immunity of distance, where a blue and ve young tree is uniformly spread over the landscape. The Peak of Tenerife, from its slender form and local position, turning the advantage of less lofty summits to those which arise from very great heights. We not only discover from in top a vast expansion of sea, but we can also the freeze of Tenerife, and the inhabited part of the coasts, in a proximity fitted to produce the near beautiful contrasts of form and colouring. The volcano seems as if it settled, with its mass, the little isle which serves for its basis, and shows by from the buson of the waters to a bright three times before the region where the clouds float in the summer.\" The remarkable transparency of the atmosphere increases greatly the apparent proximity in which the hanlets, staryards, and gardens on the coast are behold.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+  "provenance": {
+    "page_id": "bri-1137-484b60a07551",
+    "row_index": 1137,
+    "volume_id": "193109112",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+    "label": 0,
+    "sha256": "484b60a075513f3c2fe43b48125173bb97294d324e2a391477b3043e21f46956",
+    "width": 600,
+    "height": 775,
+    "image_file": "../images/bri-1137-484b60a07551.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5146,
+    0.0609,
+    0.8809,
+    0.3633
+  ],
+  "offsets": [
+    0,
+    1145
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

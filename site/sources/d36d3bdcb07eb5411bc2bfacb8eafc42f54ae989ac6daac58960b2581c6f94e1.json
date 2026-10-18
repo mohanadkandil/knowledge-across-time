@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-48c8fdf9da38",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": "articles on only important subjects), match their breadth of coverage and continuous updating.\n\nIn March 2012, it announced it would no longer publish printed editions and would focus instead on the online version.\n\nPast owners have included, in chronological order, the Scottish printers Colin Macfarquhar and Andrew Bell, the Scottish bookseller Archibald Constable, the Scottish publisher A. & C. Black, Horace Everett Hooper, Sears Roebuck, William Benton, and Jacqui Safra, a Swiss billionaire residing in New York.\n\nRecent advances in information technology and the rise of electronic encyclopaedias such as Encyclopædia Britannica Ultimate Reference Suite, Encarta and Wikipedia have reduced the demand for print encyclopaedias. To remain competitive, Encyclopædia Britannica, Inc. has stressed the reputation of the Britannica, reduced its price and production costs, and developed electronic versions on CD-ROM, DVD, and the World Wide Web. Since the early 1930s, the company has also promoted spin-off reference works.\n\nThe Encyclopaedia Britannica has been issued in 15 editions, with multi-volume supplements to the 3rd edition and to the 4th, 5th, and 6th editions as a group (see the Table below). The 5th and 6th editions were reprints of the 4th, and the 10th edition was only a supplement to the 9th, just as the 12th and 13th editions were supplements to the 11th. For the 15th edition (1974), the Britannica underwent a massive reorganization and became the New Encyclopaedia Britannica. The 14th and 15th editions were edited every year throughout their runs, so that later printi",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

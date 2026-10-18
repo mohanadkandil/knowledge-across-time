@@ -1,0 +1,36 @@
+{
+  "id": "bri-0059-891965a7ca3e:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0059-891965a7ca3e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "The cloth thus wove, secured, napped, and shorn, is sent to the dye ; when dyed, it is washed in fair view, and the worker take it again was not it is, lay the map with a broken on the table, and hangs it on the teatery, where it is stretched both in length and breadth sufficiently to smooth it, see that square, and bring it to its proper dimensions, without straining it too much is obserying to brush it afresh, the way of the nap, while a little music, or the teaters.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+  "provenance": {
+    "page_id": "bri-0059-891965a7ca3e",
+    "row_index": 59,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+    "width": 600,
+    "height": 800,
+    "image_file": "../images/bri-0059-891965a7ca3e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+    "manual_seed": true
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0605,
+    0.4281,
+    0.4463,
+    0.5461
+  ],
+  "offsets": [
+    0,
+    473
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

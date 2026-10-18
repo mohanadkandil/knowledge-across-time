@@ -1,0 +1,36 @@
+{
+  "id": "bri-1849-2ef8883b0a65:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-1849-2ef8883b0a65",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 12, Hydrodynamics-KYR - EB.15",
+  "text": "Before his return to Britain, he had acquired considerable reputation by the exercise of his poetictal talents. Dr Egblicam, another Scottish physician, had endeavent to detract from the reputation of Buchanan, by publishing an acrimonious criticism upon his version of the hundred and found paths, but in no respect he was a very far credit for he let the same time exhibited in contrast a version of his own.” Instead of attempting a serious retribution of his antidrinations, Johnson wrote a very bitter, though a very elegant nature, in which he treated his case as one of decided usually. This poem was specially published under the outline of ‘Comedian College Medical Parafensis de Mania G. Eglishemii, quam proddit scripto, cuti titulus Druffon Pocetuc’s. Ezidaborg, excelcutt Andreas Hart, (Ira Svo. V. A Paris edition of the course class is like–wise mentioned. This publication is anonymous; and when he inserted the poem in the information of his Parayo, he suppressed the name of Englishism, and substituted that of Hypermones Medicaster. Not satisfied with inflicting so signal a condition, he assured the understanding oral Buchanan in another poem, entitled Ongordhus Paras. Paris. 1620, Svo. During the same year, Dr Barday,",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1849",
+  "provenance": {
+    "page_id": "bri-1849-2ef8883b0a65",
+    "row_index": 1849,
+    "volume_id": "192693199",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 12, Hydrodynamics-KYR - EB.15",
+    "label": 0,
+    "sha256": "2ef8883b0a65550677dd446401d07a86910be0f9448224b677d6643353c9c4b2",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-1849-2ef8883b0a65.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1849",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1201,
+    0.5633,
+    0.5312,
+    0.8398
+  ],
+  "offsets": [
+    0,
+    1241
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

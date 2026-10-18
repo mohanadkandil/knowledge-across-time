@@ -1,0 +1,44 @@
+{
+  "id": "wiki-174263-1347419129-3fd71337bca5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aquatint",
+  "text": "k. Also, aquatints, like mezzotints, provide ease in creating large areas of tone without laborious cross-hatching; but aquatint plates, it is noted, are generally more durable than mezzotint plates.\n\nThe first etch should be for a short period (30 seconds to 1 minute, with a wide variation depending on how light the lightest tones are meant to be). A test piece may be made with etching times noted, as the strength of the etchant will vary. More than thirty minutes should produce a very dark area. Etching for many hours (up to 24) will be as dark as etching for one hour, but the deep etch would produce raised ink on the paper.\n\nContemporary printmakers often use spraypaint instead of a powder, particularly when using the technique known as sugar-lift. To produce a printing surface using sugar-lift, the artist makes a solution of India ink and sugar by melting sugar into heated ink. This mixture is then applied to a prepared plate with a brush, allowing for a bold expression not possible with the most etching techniques. When the ink/sugar mixture is dry the plate is coated with asphaltum (liquid ground); the plate is then submerged in warm water which dissolves the sugar so that the image \"lifts off\" the plate. The exposed areas are then aquatinted to hold ink and the plate is ready to be printed from.\n\nFrancisco Goya famously took great advantage of aquatint printmaking, in his Los Caprichos series (1799); Los Desastres de la Guerra (1810–1819); La Tauromaquia (1816); and Los disparates (c. 1816–1823).\n\nMaster engraver Robert Havell used aquatint for John James Audubon 's ",
+  "url": "https://en.wikipedia.org/wiki/Aquatint",
+  "revision_id": 1347419129,
+  "article_id": 174263,
+  "section_path": "shared_text[0:12013]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 58304,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "04db0fdef1dcae2bcd2067f03e3d0e1e82b5da83859bf415f86ca2c1c0d8dde9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347419129",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "174263",
+    "revision_id": "1347419129",
+    "retrieved_at": "2026-10-18T12:37:53.912970+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12013,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

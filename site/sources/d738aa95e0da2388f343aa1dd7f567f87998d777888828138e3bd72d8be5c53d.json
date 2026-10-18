@@ -1,0 +1,44 @@
+{
+  "id": "wiki-68299890-1340872381-53e1bca33342",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Celia Hawkesworth",
+  "text": "03400774\n\nAndrić, Ivo (2007), The Damned Yard and Other Stories, Belgrade: Dereta, ISBN 978-8673465975\n\nAndrić, Ivo (2010), The Days of the Consuls, translated by Celia Hawkesworth; Bogdan Rakić, Belgrade: Dereta, ISBN 978-8673467740\n\nAndrić, Ivo (2016), Bosnian Chronicle, London: Head of Zeus, ISBN 9781784971120\n\nAndrić, Ivo (2018), Omer Pasha Latas, New York: New York Review of Books, ISBN 978-1681372525\n\nArsenijevic, Vladimir (1996), In The Hold, Oakland, CA: Fodor's Travel, ISBN 0679446575\n\nČolić, Velibor (2018), The Uncannily Strange and Brief Life of Amedeo Modigliani, London: Pushkin Press, ISBN 978-1782274971\n\nČolović, Ivan (2002), Politics Of Identity In Serbia, New York: New York University Press, ISBN 0814716253\n\nDrndić, Daša (2017), Leica Format, London: MacLehose Press, ISBN 978-1848665873\n\nDrndić, Daša (2017), Belladonna, London: MacLehose Press, ISBN 978-0857054319\n\nDrndić, Daša (2019), Doppelgänger, translated by Celia Hawkesworth; S.D. Curtis, New York: New Directions, ISBN 978-0811228916\n\nDrndić, Daša (2019), EEG, New York: New Directions, ISBN 978-0811228480\n\nGotovac, Vlado (2002), Black Sails, Zagreb: Institut Vlado Gotovac, ISBN 9539904900\n\nKurspahic, Nermina (2000), Hiatus: Under The Sign Of Sickness, In The Name Of Health, London: Society for the Furthrance of Critical Philosophy, ISBN 0953400921\n\nLazarevska, Alma (2014), Death in the Museum of Modern Art: Six Stories, London: Istros Books, ISBN 978-1908236173\n\nLengold, Jelena (2013), Fairground Magician, London: Istros Books, ISBN 978-1908236104\n\nMaksimović, Desanka (1988), I Seek Clemency, Belgrade:",
+  "url": "https://en.wikipedia.org/wiki/Celia_Hawkesworth",
+  "revision_id": 1340872381,
+  "article_id": 68299890,
+  "section_path": "shared_text[0:6411]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 57734,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "9bb9eefdd1e18c67e017389ba484606a6588b8bc6d30f75615bbe0c2cf2a437c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340872381",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "68299890",
+    "revision_id": "1340872381",
+    "retrieved_at": "2026-10-18T12:40:19.727051+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6411,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

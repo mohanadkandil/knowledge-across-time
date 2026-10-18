@@ -1,0 +1,44 @@
+{
+  "id": "wiki-39804937-1350184204-0bb432504d3d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Weir (surname)",
+  "text": "Weir is a surname. It may refer to:\n\nAlisha Weir (born 2009), Irish actress\n\nAlison Weir (born 1951), British writer and historian\n\nAlison Weir (activist), American activist and writer\n\nAmanda Weir (born 1986), American Olympic swimmer\n\nAndrew Weir, 1st Baron Inverforth (1865–1955), British businessman and minister\n\nAndy Weir (born 1972), American science fiction writer\n\nAndy Weir (footballer) (1937–1992), Scottish footballer\n\nArabella Weir (born 1957), British actress\n\nBarbara Weir (c. 1945–2023), Indigenous Australian artist and politician\n\nBenjamin Weir (1923–2016), American missionary held hostage in Lebanon in 1985\n\nBill Weir (born 1967), American television journalist\n\nBob Weir (1947–2026), American guitar player, a founding member of the Grateful Dead\n\nBonnie Weir, American engineer\n\nBruce Weir (born 1943), New Zealand geneticist\n\nCaroline Weir (born 1995), Scottish footballer\n\nDavid Weir (footballer) (1863–1933), English footballer\n\nDavid Weir (journalist)\n\nDavid Weir (athlete) (born 1979), British Paralympic wheelchair athlete\n\nDavid Weir (Scottish footballer) (born 1970)\n\nDoddie Weir (1970–2022), Scottish rugby player\n\nElizabeth Weir (born 1948), Canadian politician and lawyer\n\nErin Weir (born 1982), Canadian politician\n\nFred Weir, Canadian journalist\n\nFrank Weir (cricketer) (1903–1969), New Zealand cricketer\n\nGillian Weir (born 1941), New Zealand organist\n\nGrace Weir (born 1962), Irish sculptor and interdisciplinary artist\n\nGraham Weir (born 1984), Scottish footballer\n\nHarrison Weir (1824–1906), English writer and artist\n\nJ. Alden Weir (1852–1919), American paint",
+  "url": "https://en.wikipedia.org/wiki/Weir_(surname)",
+  "revision_id": 1350184204,
+  "article_id": 39804937,
+  "section_path": "shared_text[0:3331]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "351ee65aa683fc2e65fc2cb6c0e70fbb1ddbaaf57fbd16630b2878c2de84e546",
+    "source_row_idx": 20530,
+    "source_shard": "enwiki/data/enwiki_namespace_0_54.parquet",
+    "text_sha256": "d8879b8f76f77c93ebc1358c544710a9bf38d6b54c1bbc9f18917d544e788a0a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350184204",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39804937",
+    "revision_id": "1350184204",
+    "retrieved_at": "2026-10-18T12:35:44.883803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3331,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

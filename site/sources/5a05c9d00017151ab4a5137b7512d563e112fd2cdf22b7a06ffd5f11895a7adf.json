@@ -1,0 +1,44 @@
+{
+  "id": "wiki-531186-1351433388-541d1cbc41a9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Regius Professor",
+  "text": "ssor of Surgery (1815)\n\nRegius Professor of Chemistry (1817)\n\nRegius Professor of Botany (1818)\n\nRegius Professor of Forensic Medicine (1839)\n\nRegius Professor of Physiology (1839)\n\nRegius Professor of Civil Engineering and Mechanics (1840)\n\nRegius Professor of English Language and Literature (1861)\n\nRegius Professor of Ecclesiastical History (1716–1935) (ceased being a Regius chair in 1935)\n\nRegius Professor of Precision Medicine (2016)\n\nRegius Professor of Law (2012)\n\nRegius Professor of Engineering (2013)\n\nRegius Professor of Infectious Disease (2016)\n\nRegius Professor of Chemistry (2016)\n\nRegius Professor of Cancer Research (2016) (Based at The Institute of Cancer Research)\n\nRegius Professor of Psychiatry (2013) (Based at King's College London)\n\nRegius Professor of Economics (2013) (Based at LSE)\n\nRegius Professor of Music (2013) (Based at Royal Holloway)\n\nRegius Professor of Physics (2013)\n\nRegius Professor of Materials (2016)\n\nRegius Professor of Ageing (2016)\n\nRegius Professor of Open Education (2013)\n\nRegius Professor of Civil Law (c.1540)\n\nRegius Professor of Divinity (1535)\n\nRegius Professor of Moral and Pastoral Theology (1842)\n\nRegius Professor of Ecclesiastical History (1842)\n\nRegius Professor of Hebrew (1546)\n\nRegius Professor of Medicine (1546)\n\nRegius Professor of Greek (c.1541)\n\nRegius Professor of History (1724)\n\nRegius Professor of Mathematics (2016)\n\nRegius Professor of Electronics & Computer Engineering (2016)\n\nRegius Professor of Meteorology and Climate Science (2013)\n\nRegius Professor of Music (2013)\n\nRegius Professor of Mathematics (1668)\n\nRegius Pro",
+  "url": "https://en.wikipedia.org/wiki/Regius_Professor",
+  "revision_id": 1351433388,
+  "article_id": 531186,
+  "section_path": "shared_text[0:6133]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "236ff3663033d64cb75517a4df05bcd42dc6ef59325ee86bdd71d9a96771eacd",
+    "source_row_idx": 11733,
+    "source_shard": "enwiki/data/enwiki_namespace_0_59.parquet",
+    "text_sha256": "ad8789f8447176654d8ed31a0a02fbfedd61e3338b0ea5cf229f75324c4540a8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351433388",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "531186",
+    "revision_id": "1351433388",
+    "retrieved_at": "2026-10-18T12:21:23.636261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6133,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

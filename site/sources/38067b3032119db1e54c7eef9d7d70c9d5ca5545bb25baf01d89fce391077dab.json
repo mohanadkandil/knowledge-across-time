@@ -1,0 +1,36 @@
+{
+  "id": "bri-1313-28d6fe660d84:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-1313-28d6fe660d84",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "D",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+  "provenance": {
+    "page_id": "bri-1313-28d6fe660d84",
+    "row_index": 1313,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 0,
+    "sha256": "28d6fe660d849522d3712f68e812e6b595ca94f451c83b16df77ce570cb5f25f",
+    "width": 600,
+    "height": 798,
+    "image_file": "../images/bri-1313-28d6fe660d84.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1313",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.7568,
+    0.9141,
+    0.7822,
+    0.9258
+  ],
+  "offsets": [
+    0,
+    1
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

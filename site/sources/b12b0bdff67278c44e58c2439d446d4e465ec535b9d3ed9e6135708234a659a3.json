@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24068342-1298525645-d80dc31d75a3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scriptural geologist",
+  "text": "onsiderations on the Modern Theory of Geology\n\n1837, Fairholme, George, The Mosaic Deluge\n\n1838, Cockburn, William, A Letter to Professor Buckland Concerning the Origin of the World\n\n1838, Murray, John, Portrait of Geology (214 pages)\n\n1838, Rhind, William, Age of the Earth, Considered Geologically and Historically\n\n1838, Young, George, Scriptural Geology\n\n1839, Cockburn, William, The Bible Defended Against the British Association",
+  "url": "https://en.wikipedia.org/wiki/Scriptural_geologist",
+  "revision_id": 1298525645,
+  "article_id": 24068342,
+  "section_path": "shared_text[0:16274]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    15840,
+    16274
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 75065,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "9ea526b339c494bae7c343d11dbdb6bafdb10c7d8db336632f474774af47c687",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1298525645",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24068342",
+    "revision_id": "1298525645",
+    "retrieved_at": "2026-10-18T12:31:02.808530+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 16274,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

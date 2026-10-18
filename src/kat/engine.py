@@ -60,6 +60,34 @@ def language_metrics(historical: str, modern: str) -> dict:
             "note":"Descriptive token counts, not evidence of factual change; corpora have unequal lengths and OCR errors."}
 
 
+NO_READABLE_TEXT = ("The parser returned no readable historical text. No modern counterpart or factual comparison "
+                    "can be justified from this extraction. The source scan remains in the selected set; "
+                    "this does not establish that the original image is blank.")
+
+
+def has_readable_text(parsed) -> bool:
+    return isinstance(parsed,dict) and isinstance(parsed.get("text"),str) and bool(parsed["text"].strip())
+
+
+def extraction_status(parsed) -> str:
+    return "not_parsed" if not parsed else "text_extracted" if has_readable_text(parsed) else "layout_only"
+
+
+def answer_source_ids(answer: str) -> list[str]:
+    """Read actual corpus IDs from bracketed citations, including grouped IDs.
+
+    Existence is checked separately; a bracket containing an ID is not proof that
+    its source supports a sentence. Bare prose and Markdown link targets are not
+    treated as citations.
+    """
+    identifiers=[]
+    for bracket in re.findall(r"\[([^\]\n]+)\]",answer):
+        for value in re.findall(r"(?<![\w-])(?:bri|wiki)-[A-Za-z0-9][A-Za-z0-9_:.-]*",bracket):
+            source_id=value.rstrip(".:;-_")
+            if source_id not in identifiers:identifiers.append(source_id)
+    return identifiers
+
+
 class Engine:
     def __init__(self, settings: Settings):
         self.settings=settings; self.root=settings.data_dir.resolve()
@@ -77,9 +105,14 @@ class Engine:
 
     def status(self):
         selected=manifest(self.root)
-        parsed=sum((self.root/"pages"/p["page_id"]/"parse.json").exists() for p in selected["pages"])
-        compared=sum((self.root/"pages"/p["page_id"]/"comparison.json").exists() for p in selected["pages"])
+        outputs=[load_json(self.root/"pages"/p["page_id"]/"parse.json") for p in selected["pages"]]
+        comparisons=[load_json(self.root/"pages"/p["page_id"]/"comparison.json") for p in selected["pages"]]
+        parsed=sum(bool(output) for output in outputs)
+        readable=sum(has_readable_text(output) for output in outputs)
+        abstained=sum(bool(result and result.get("abstained")) for result in comparisons)
+        compared=sum(bool(result and not result.get("abstained")) for result in comparisons)
         return {"stack":self.settings.readiness(),"pages_selected":len(selected["pages"]),"pages_parsed":parsed,
+                "pages_readable":readable,"pages_without_readable_text":parsed-readable,"pages_abstained":abstained,
                 "pages_compared":compared,"wikipedia":self.wiki.stats(),"index":self.store.stats(),"cases":self.store.cases(),
                 "archive":load_json(self.root/"site"/"archive-report.json",{"compiled":0,"built":False}),
                 "note":"Configured is not live-verified. Missing services never fall back to another model."}
@@ -90,8 +123,12 @@ class Engine:
             folder=self.root/"pages"/page["page_id"]
             parsed=load_json(folder/"parse.json")
             row={k:v for k,v in page.items() if k!="image_file"}
-            row.update(parsed=bool(parsed),compared=(folder/"comparison.json").exists(),
-                       excerpt=parsed["text"][:160] if parsed else "",parse_error=load_json(folder/"parse-error.json"))
+            comparison=load_json(folder/"comparison.json")
+            row.update(parsed=bool(parsed),readable_text=has_readable_text(parsed),extraction_status=extraction_status(parsed),
+                       no_readable_text=bool(parsed) and not has_readable_text(parsed),
+                       compared=bool(comparison and not comparison.get("abstained")),
+                       comparison_abstained=bool(comparison and comparison.get("abstained")),
+                       excerpt=parsed["text"][:160] if has_readable_text(parsed) else "",parse_error=load_json(folder/"parse-error.json"))
             output.append(row)
         return output
 
@@ -109,6 +146,9 @@ class Engine:
         self.store.mark_indexed(fingerprint)
 
     def _index_historical(self,page,parsed,models):
+        # Layout-only output is retained, but cannot seed text-topic retrieval or
+        # silently turn image similarity into a supported historical counterpart.
+        if not has_readable_text(parsed):return
         self._index(self._historical_sources(page,parsed),models)
         if self.settings.embed_protocol in {"nim_vl","challenge"}:
             source={"id":page["page_id"]+":image","kind":"britannica","page_id":page["page_id"],"title":page["metadata"],
@@ -124,6 +164,8 @@ class Engine:
                     raise ValueError("Cached parse identity changed; explicitly force reparsing")
                 # A previous embedding failure must not make a cached parse skip indexing.
                 models=Models(self.settings,folder/"index-calls")
+                cached={**cached,"readable_text":has_readable_text(cached),"extraction_status":extraction_status(cached)}
+                if not cached["readable_text"]:cached["readability_note"]=NO_READABLE_TEXT
                 if index:self._index_historical(page,cached,models)
                 (folder/"parse-error.json").unlink(missing_ok=True)
                 return cached
@@ -145,6 +187,7 @@ class Engine:
 
     @staticmethod
     def _historical_sources(page,parsed):
+        if not has_readable_text(parsed):return []
         result=[]
         for region in parsed["regions"]:
             for start,end,text in chunks(region["text"]):
@@ -162,10 +205,40 @@ class Engine:
             raise ValueError("Query planner returned no valid search phrases")
         return [q[:150] for q in queries[:4]]
 
+    def _no_text_match(self,page,parsed,requested_queries=None):
+        record={"page_id":page["page_id"],"status":"unmatched","reason":"no_readable_historical_text",
+                "readable_text":False,"retrieval_attempted":False,"queries":[],"requested_queries":requested_queries or [],
+                "title_candidates":[],"fetch_attempts":[],"matches":[],"uncertainty":NO_READABLE_TEXT,
+                "historical_source":{k:v for k,v in page.items() if k!="image_file"},
+                "extraction":{"parse_model":parsed.get("parse_model"),"image_sha256":parsed.get("image_sha256"),
+                              "region_types":[r.get("type") for r in parsed.get("regions",[])],
+                              "extraction_status":"layout_only"},
+                "models":{"parse":self.settings.parse_model,"embed":self.settings.embed_model,"rerank":self.settings.rerank_model},
+                "method":"No matching attempted: the recorded parser output has no readable historical text.","created_at":now()}
+        write_json(self.page_dir(page["page_id"])/"matches.json",record)
+        return record
+
+    def _no_text_comparison(self,page,parsed,run_id):
+        self._no_text_match(page,parsed)
+        comparison=Comparison(matches=[],similarities=[],differences=[],uncertainties=[NO_READABLE_TEXT],
+                              summary="Comparison abstained: no readable historical text was extracted.").model_dump()
+        result={"page_id":page["page_id"],"run_id":run_id,"status":"abstained","abstained":True,
+                "reason":"no_readable_historical_text","readable_text":False,"comparison":comparison,
+                "citation_checks":[],"literal_quotes_all_found":False,"comparison_evidence_checks":[],
+                "metrics":language_metrics("",""),"source_ids":[],"created_at":now(),"model":None,
+                "historical_source":{k:v for k,v in page.items() if k!="image_file"},
+                "parse_model":parsed.get("parse_model"),
+                "review_note":"Deterministic abstention; no agent, embedding, reranking or Wikipedia request was made. "
+                              "The original scan and parser output are retained for inspection."}
+        write_json(self.page_dir(page["page_id"])/"comparison.json",result)
+        return result
+
     def match(self,page_id: str,queries: list[str] | None=None) -> dict:
         with self.lock:
             page=find_page(self.root,page_id); folder=self.page_dir(page["page_id"])
             parsed=self.parse(page["page_id"],index=True)
+            if not has_readable_text(parsed):
+                return self._no_text_match(page,parsed,requested_queries=queries)
             models=Models(self.settings,folder/"match-calls")
             queries=queries or self._queries(parsed["text"],models)
             candidates=[];seen=set();pools=[]
@@ -228,15 +301,19 @@ class Engine:
             self.store.save_run(run)
             try:
                 parsed=self.parse(page["page_id"],index=True)
+                if not has_readable_text(parsed):
+                    result=self._no_text_comparison(page,parsed,run_id)
+                    run.update(execution="deterministic_abstention",status="abstained",reason=result["reason"],result=result)
+                    return result
                 matched=load_json(folder/"matches.json") or self.match(page["page_id"])
                 expected_models={"parse":self.settings.parse_model,"embed":self.settings.embed_model,"rerank":self.settings.rerank_model}
                 if matched.get("models")!=expected_models:
                     raise ValueError("Match model identities changed; explicitly rerun matching before comparing")
-                historical=[s for s in self.store.page_sources(page["page_id"]) if s.get("modality")!="image"]
+                historical=[s for s in self.store.page_sources(page["page_id"]) if s.get("modality") not in {"image","page_text"}]
                 modern=matched.get("matches",[])
                 selected=historical+[s for s in modern]
                 prompt_sources=[{k:s.get(k) for k in ["id","kind","title","text","revision_id","region_id"]} for s in selected]
-                raw=models.chat([{"role":"system","content":COMPARE_PROMPT},{"role":"user","content":json.dumps({"sources":prompt_sources,"retrieval_uncertainty":matched.get("uncertainty")},ensure_ascii=False)}])
+                raw=models.chat([{"role":"system","content":COMPARE_PROMPT},{"role":"user","content":json.dumps({"sources":prompt_sources,"retrieval_uncertainty":matched.get("uncertainty")},ensure_ascii=False)}],response_schema=Comparison.model_json_schema())
                 run["raw_answer"]=raw
                 comparison=Comparison.model_validate(json_answer(raw)).model_dump()
                 checks=citation_checks(comparison,{s["id"]:s for s in selected})
@@ -271,16 +348,32 @@ class Engine:
 
     def ask(self,question: str,page_id: str | None=None):
         if not question.strip():raise ValueError("Question is required")
-        if page_id:page_id=find_page(self.root,page_id)["page_id"]
+        if page_id:
+            page=find_page(self.root,page_id);page_id=page["page_id"]
+            parsed=load_json(self.page_dir(page_id)/"parse.json")
+            if has_readable_text(parsed):
+                # A whole-page citation is a valid source scope. Register it
+                # without adding a duplicate vector or inventing image access.
+                self.store.put_sources([{"id":page_id,"kind":"britannica","page_id":page_id,
+                    "title":page["metadata"],"text":parsed["text"],"url":page["source_url"],
+                    "modality":"page_text","parse_model":parsed["parse_model"],
+                    "provenance":page,"offsets":[0,len(parsed["text"])]}])
         run_id="question-"+uuid.uuid4().hex
         run={"run_id":run_id,"kind":"question","execution":"live_models","question":question,"page_id":page_id,"created_at":now(),"status":"running","stack":self.settings.readiness()}
         self.store.save_run(run);models=Models(self.settings,self.root/"runs"/run_id/"api")
         def read(source_id):
             source=self.store.source(source_id)
-            return {k:v for k,v in source.items() if k not in {"references","provenance"}}
+            result={k:v for k,v in source.items() if k not in {"references","provenance"}}
+            result.update(delivered_content="text_only",original_scan_pixels_included=False,
+                          evidence_note="Historical text is unverified machine transcription. An :image source ID identifies an image-vector record; this tool does not deliver image pixels or verify a scan reading.")
+            return result
         def compare(page):
             canonical=find_page(self.root,page)["page_id"]
-            return load_json(self.page_dir(canonical)/"comparison.json") or self.compare(canonical)
+            folder=self.page_dir(canonical)
+            parsed=load_json(folder/"parse.json")
+            if parsed and not has_readable_text(parsed):
+                return self.compare(canonical)
+            return load_json(folder/"comparison.json") or self.compare(canonical)
         try:
             context=f"\nHistorical page to investigate: {page_id}. Use its sources alongside relevant Wikipedia evidence." if page_id else ""
             with self.lock:
@@ -289,12 +382,16 @@ class Engine:
                                   search=lambda query,limit=6:self.search(query,limit,models),read=read,compare=compare)
             completed=not result.get("error") and result.get("completed") is True and bool(result.get("answer","").strip())
             run.update(result=result,status="complete" if completed else "error")
-            citations=re.findall(r"\[([A-Za-z0-9][\w:.-]+)\]",result.get("answer",""))
+            citations=answer_source_ids(result.get("answer",""))
             checks=[]
             for source_id in dict.fromkeys(citations):
                 try:s=self.store.source(source_id);checks.append({"source_id":source_id,"exists":True,"kind":s["kind"]})
                 except KeyError:checks.append({"source_id":source_id,"exists":False})
-            run["citation_checks"]=checks;run["citation_note"]="Known source IDs are checked; sentence-level support requires reviewer inspection."
+            run["citation_checks"]=checks
+            run["citation_count"]=len(checks)
+            run["citation_status"]="source_ids_resolved" if checks and all(c["exists"] for c in checks) else "unverified"
+            run["citation_note"]=("Bracketed source IDs resolve; sentence-level support requires reviewer inspection." if run["citation_status"]=="source_ids_resolved"
+                                  else "Citation verification is incomplete: no bracketed corpus IDs were found or at least one ID is unknown. Source support requires reviewer inspection.")
             return run
         except Exception as error:
             run.update(status="error",error={"type":type(error).__name__,"message":str(error)});raise

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-57629198-1343333826-add6bf071d00",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Gottfried Wilhelm Leibniz",
+  "text": "SD\n\nLloyd Strickland 's translations at leibniz-translations.com\n\nThe Leibniz Review\n\nStudia Leibnitiana\n\nLeibniz Association\n\nLeibniz College, affiliated with the University of Tübingen\n\nLeibniz Institute of European History\n\nLeibniz Institute for Polymer Research\n\nLeibniz Society of North America\n\nLeibniz Supercomputing Center\n\nLeibniz University Hannover\n\nZBW – Leibniz Information Centre for Economics\n\nLeibniz Schools in Germany\n\nGottfried Wilhelm Leibniz Prize. It is regarded as the highest German award.\n\nLeibniz Ring awarded by the Hannover Press Club.\n\nBerlin Leibniz Medal originally awarded by the Royal Prussian Academy of Sciences; currently awarded by the Berlin-Brandenburg Academy of Sciences and Humanities.\n\nLeibniz Medal (Mainz) awarded by the Mainz Academy of Sciences and Literature.\n\nMaria Rosa Antognazza 's 2009 Leibniz biography is a major recent resource.",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Gottfried_Wilhelm_Leibniz",
+  "revision_id": 1343333826,
+  "article_id": 57629198,
+  "section_path": "shared_text[0:2324]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2324
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 9684,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "ba386ff7fe494ea53386e9b4bac1a8257e2a6216d4fda5cd660eff1061fc3ced",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343333826",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "57629198",
+    "revision_id": "1343333826",
+    "retrieved_at": "2026-10-18T12:40:06.994337+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2324,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

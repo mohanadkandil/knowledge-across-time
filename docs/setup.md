@@ -135,3 +135,7 @@ These are format examples, not existing cases. Required cases: **three successes
 Export includes selected provenance/results/evidence, real traces/reviews, code/config template and generated static-site/LaTeX artifacts. It omits `.env`, bulk Parquet, SQLite/LanceDB, full article caches and dependency environments. The site may include selected 100 scan assets, not the whole dataset. Inspect the ZIP before publishing; retain source attribution/licenses and label generated analysis.
 
 The checklist reports incomplete work explicitly. Record the **3-minute video** showing successful and failed cases and supply a GitHub repository containing the solution, static website, compiled LaTeX, analysis and 3+3 cases. This tool does not generate/upload the video or publish the repository.
+
+## Structured comparison output
+
+Structured comparisons send the Pydantic JSON schema through Token Factory `response_format`, with thinking disabled for these bounded extraction calls. The exact Super VL endpoint passed a live schema probe and two previously malformed comparisons completed with this setting. This enforces output structure; source IDs, exact quotes and semantic support still need separate checks. See the [provider documentation](https://docs.tokenfactory.nebius.com/ai-models-inference/json). Hermes remains a tool-using agent with free-form answers.

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-538521-1254052433-3c2193996d84",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Artabanus",
+  "text": "Artabanus (Ancient Greek: Ἁρτάβανος Artabanos; Middle Persian: ʾltwʾn Ardawān) may refer to various rulers/monarchs of ancient Persia and Parthia:\n\nArtabanus (son of Hystaspes), brother of Darius I and uncle of Xerxes I\n\nArtabanus of Persia, Hyrcanian by birth, commander of Xerxes's guard, and Xerxes's assassin (465 BC)\n\nArtapanus (general), general under Xerxes I (486–465 BC)\n\nArtabanus I of Parthia, c. 127–124 BC\n\nArtabanus II of Parthia, c. 12 to 38/41 AD\n\nArtabanus III of Parthia, 79/80 – 81\n\nArtabanus IV of Parthia, c. 213 to 224\n\nArtabanus of Khwarazm, c.1st-2nd century AD\n\nConfusingly, two systems exist for the regnal numbers of the Artabanuses; in older works, they may be numbered as a regnal number higher than listed above; i.e. Artabanus IV might refer to Artabanus III.\n\nThe Mandaic variant of the name is Ardban (also Ardwan).",
+  "url": "https://en.wikipedia.org/wiki/Artabanus",
+  "revision_id": 1254052433,
+  "article_id": 538521,
+  "section_path": "shared_text[0:848]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    848
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 85612,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "85d6cf85675b112db75dcc2a44d34b06124fe161b941ec7da058207090ce0cc6",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1254052433",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "538521",
+    "revision_id": "1254052433",
+    "retrieved_at": "2026-10-18T12:38:54.643233+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 848,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

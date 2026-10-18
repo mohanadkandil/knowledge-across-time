@@ -1,0 +1,36 @@
+{
+  "id": "bri-1693-0903c198e683:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1693-0903c198e683",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+  "text": "This minifter, the author talks us a little below. _* After three lovely according, cleaned his way with a hem s., and striped his lips with the hollow of his band for “filling his napkins} is expected if fitting over with his writ’s and, after a little washington on his harp for a prelude, came forth with a folemm fong, warmented for they ever of King. Arthur'sells, &c.*",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+  "provenance": {
+    "page_id": "bri-1693-0903c198e683",
+    "row_index": 1693,
+    "volume_id": "192200900",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+    "label": 0,
+    "sha256": "0903c198e683b236afc4609d39b509117a0107601824e2ffe47a0ada06c90c52",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1693-0903c198e683.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0771,
+    0.575,
+    0.4619,
+    0.6703
+  ],
+  "offsets": [
+    0,
+    374
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

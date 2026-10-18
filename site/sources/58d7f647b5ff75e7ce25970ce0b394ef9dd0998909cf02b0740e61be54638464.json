@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5419984-1330409659-6880ce4b96b6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Torsion pendulum clock",
+  "text": "h, gives a small twist to the top of the torsion spring. This is just enough to keep the oscillation going.\n\nThe Atmos clock, made by Jaeger-LeCoultre, is a type of torsion pendulum clock that winds itself. The mainspring which powers the clock's wheels is kept wound by small changes in atmospheric pressure and/or local temperature, using a bellows mechanism. Thus no winding key or battery is needed, and it can run for years without human intervention.\n\nThe torsion pendulum was invented by Robert Leslie in 1793. The torsion pendulum clock was first invented and patented by American Aaron Crane in 1841. He made clocks that would run up to one year on a winding. He also made precision astronomical regulator clocks based on the torsion pendulum, but only four were sold.\n\nThe German Anton Harder apparently independently invented and patented the torsion clock in 1879-1880. He was inspired by watching a hanging chandelier rotate after a servant had turned it to light the candles. He formed the firm Jahresuhrenfabrik ('Year Clock Factory') and designed a clock that would run for a year, but its accuracy was poor. He sold the patent in 1884 to F. A. L. deGruyter of Amsterdam, who allowed the patent to expire in 1887. Other firms entered the market, beginning the German mass production of these clocks.\n\nAlthough they were successful commercially, torsion clocks remained poor timekeepers. In 1951, Charles Terwilliger of the Horolovar Co. invented a temperature compensating suspension spring, which allowed fairly accurate clocks to be made.",
+  "url": "https://en.wikipedia.org/wiki/Torsion_pendulum_clock",
+  "revision_id": 1330409659,
+  "article_id": 5419984,
+  "section_path": "shared_text[0:4436]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4436
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 71219,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "35244de38b1e022a6185e2f6b375fa4ca767ebeb60dbb6c46a808ddb5fcf7024",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330409659",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5419984",
+    "revision_id": "1330409659",
+    "retrieved_at": "2026-10-18T12:39:22.179278+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4436,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

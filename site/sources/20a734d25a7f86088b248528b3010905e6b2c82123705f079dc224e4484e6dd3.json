@@ -1,0 +1,59 @@
+{
+  "id": "wiki-51992830-1352878175-d3eda697d091",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Athenian democracy",
+  "text": ", or magistrates, and the council of the Areopagus, made up of ex-archons. The members of these institutions were generally aristocrats. In 621 BC, Draco replaced the prevailing system of oral law by a written code to be enforced only by a court of law. While the laws, later come to be known as the Draconian Constitution, were largely harsh and restrictive, with nearly all of them later being repealed, the written legal code was one of the first of its kind and considered to be one of the earliest developments of Athenian democracy. In 594 BC, Solon was appointed premier archon and began issuing economic and constitutional reforms in an attempt to alleviate some of the conflict that was beginning to arise from the inequities that permeated throughout Athenian society. His reforms ultimately redefined citizenship in a way that gave each free resident of Attica a political function: Athenian citizens had the right to participate in assembly meetings. Solon sought to break away at the strong influence noble families had on the government by broadening the government's structure to include a wider range of property classes rather than just the aristocracy. His constitutional reforms included establishing four property classes: the pentakosiomedimnoi, the hippeis, the zeugitai, and the thetes. The classifications were based on how many medimnoi a man's estate made per year with the pentakosiomedimnoi making at least 500 medimnoi, the hippeis making 300–500 medimnoi, the zeugitai making 200–300 medimnoi, and the thetes making under 200 medimnoi. By granting the formerly aristocra",
+  "url": "https://en.wikipedia.org/wiki/Athenian_democracy",
+  "revision_id": 1352878175,
+  "article_id": 51992830,
+  "section_path": "shared_text[0:62440]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a214b8f29c46233087ab0a3528966ebccd2627a856cc6480fa0baaa4cd97b64a",
+    "source_row_idx": 33406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_66.parquet",
+    "text_sha256": "a58f7f53e75588f5fed12d7ae4c459fbf930505b93bccdde1207ed967e775a93",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352878175",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "51992830",
+    "revision_id": "1352878175",
+    "retrieved_at": "2026-10-18T12:36:47.008604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 20000,
+        "next_offset": 60000
+      },
+      {
+        "offset": 60000,
+        "returned_chars": 2440,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

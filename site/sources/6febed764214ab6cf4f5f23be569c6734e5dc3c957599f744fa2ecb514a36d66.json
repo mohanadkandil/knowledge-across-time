@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-3:1440",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "nd talk, exciting the Guala alike, in stature and is strongly, but their features ever heavy, their figures chamy, and, accorded to Songs, they find not same firm on the legs. Large men, indeed, are seldom handsome or elegantly formed. But although harborates spirit of art and clarity, the ancient British commanded respect by their intellectual and moral qualities. According to Tacitus, they possessed a quicker approximation than the Guala, and Dhabe Sheila commend their integrity as greater than that of the Roman. A cause abhorries natural minority is indeed said to he prevailed amongst them; we are told that societies of ten or twelve possesses of wives in common... But the suggestion of such a custom might be easily, though erroneously formed, by a Roman strange; from the circumstances of the harborates sleeping spontaneously in their levels, as the popularity do to this day in some parts of Scotland, and the fact, when slightly deteriorate, by no means warranties the conclusion Which seems to have been drawn from it. On the contrary, the charity of the horses, and the purity of the music interconomy, may have been as tightly obbered and maintained, among these simple barbarbats as in periods of society when the guards of virus are multiplied, and modestly is sheltered by factitious sentiment and conventional ceremony.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1631,
+    0.1867,
+    0.5557,
+    0.7828
+  ],
+  "offsets": [
+    1440,
+    2783
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

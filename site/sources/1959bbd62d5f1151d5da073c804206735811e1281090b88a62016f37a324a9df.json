@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-6bec420aeda5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "uld be subjected to Metzger's test.\n\nThe most common test (and used even today in water test kits) was discovered by Samuel Hahnemann. It would involve combining a sample fluid with hydrogen sulfide (H S) in the presence of hydrochloric acid (HCl). A yellow precipitate, arsenic trisulfide (As S) would be formed if arsenic was present.\n\nThough precursor tests existed, they had sometimes proven not to be sensitive enough. In 1832, a certain John Bodle was brought to trial for poisoning his grandfather by putting arsenic in his coffee. James Marsh, a chemist working at the Royal Arsenal in Woolwich, was called by the prosecution to try to detect its presence. He performed the standard test by passing hydrogen sulfide through the suspect fluid. While Marsh was able to detect arsenic, the yellow precipitate did not keep very well, and, by the time it was presented to the jury, it had deteriorated. The jury was not convinced, and John Bodle was acquitted.\n\nAngered and frustrated by this, especially when John Bodle confessed later that he indeed killed his grandfather, Marsh decided to devise a better test to demonstrate the presence of arsenic. Taking Scheele's work as a basis, he constructed a simple glass apparatus capable of not only detecting minute traces of arsenic but also measuring its quantity. Adding a sample of tissue or body fluid to a glass vessel with zinc and acid would produce arsine gas if arsenic was present, in addition to the hydrogen that would be produced regardless by the zinc reacting with the acid. Igniting this gas mixture would oxidize any arsine presen",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

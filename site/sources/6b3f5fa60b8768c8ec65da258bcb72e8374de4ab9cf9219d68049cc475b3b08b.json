@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1923804-1339566343-2e75c7f55e8a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Nahum Rakover",
+  "text": "nities for Jewish Law.\n\nLaw and the Noahides: law as a universal value\n\nGuide to the Sources of Jewish Law\n\nMulti-Language Bibliography of Jewish Law\n\nCommerce in Jewish Law (HaMischar b'Mishpat HaIvri)\n\nCopyright in Jewish Law (Zchut HaYotzrim baMekorot haYehudiyim)\n\nThe Rule of Law in the Jewish Sources (Shilton haChok b'Yisrael)\n\nUnjust Enrichment in Jewish Law (Osher v'Lo b'Mishpat)\n\nHuman Dignity in Jewish Law (Gadol Kvod haBriot)\n\nEnds that Justify the Means (Matara haMekadesheket et haEmtzaim)\n\nSacrificing One to Save Many (Mesirut Nefesh – Hakravat haYahid l'Hatzalat haKlal)\n\nEnvironment and Judaism, Legal and Philosophical Perspectives (Eichut haSeviva)\n\nRakover also was the editor of the following works:\n\nJewish Law in the Israeli Courts (HaMishpat HaIvri b'Psikat Batei HaMishpat b'Yisrael) 2 volumes. (English translation published as: Modern Applications of Jewish Law; Resolution of Contemporary Problems According to Jewish Sources in Israeli Courts)\n\nJewish Law in the Debates of the Knesset (HaMishpat HaIvri b'Chakikat HaKneset) 2 volumes.\n\nJewish Law and Current Legal Problems, Jerusalem: The Library of Jewish Law",
+  "url": "https://en.wikipedia.org/wiki/Nahum_Rakover",
+  "revision_id": 1339566343,
+  "article_id": 1923804,
+  "section_path": "shared_text[0:2584]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2584
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 18095,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "0ce8c0cea241f9bae1f736fdb2478f3d05d1dbc568bca26ce4f46e56580a5092",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339566343",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1923804",
+    "revision_id": "1339566343",
+    "retrieved_at": "2026-10-18T12:39:57.014308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2584,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

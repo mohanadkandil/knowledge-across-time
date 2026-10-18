@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3733949-1345839939-db5930a08feb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Great Qing Legal Code",
+  "text": " Qing Code comprises 436 articles divided into seven parts, further subdivided into chapters. The first part (Names and General Rules) is a General Part, similar to that of Germany's Bürgerliches Gesetzbuch, which contains the general legal rules, principles, and concepts applied to the rest of the Code. The other six parts are named after the Six Ministries of government, and each part contains laws that are perceived as applicable to each ministry.\n\nNames and General Rules, Articles 1–46 – includes laws on the Five Punishments (art. 1) and the Ten Great Wrongs (art. 2)\n\nLaws relating to the Board of Personnel, Articles 47–74 – includes laws on the System of Offices (ch. 1) and Official Rules for Carrying Public Administration (ch. 2)\n\nLaws relating to the Board of Revenue, Articles 75–156 – includes laws on Marriage (ch. 3–4; art. 101–107) and Taxes (ch.7; art. 141–148)\n\nLaws relating to the Board of Rites, Articles 157–182 – includes laws on Sacrifices (ch. 1) and Rules of Demeanor (ch. 2)\n\nLaws relating to the Board of War, Articles 183–253 – includes laws on Guarding the Palace (ch. 1; art. 183–198) and Military Affairs (ch. 2; art. 199–219)\n\nLaws relating to the Board of Punishments, Articles 254–423 – includes laws on Homicide (ch. 8–10; art. 282–301)\n\nLaws relating to the Board of Works, Articles 424–436 – includes laws pertaining to Construction (ch. 1) and Dikes (ch. 2)\n\nThe Five Punishments in the Code contained in Article 1 are:\n\nPunishment of beating with the light bamboo\n\nPunishment of beating with the heavy bamboo\n\nPenal servitude\n\nPunishment of exile\n\nPenalt",
+  "url": "https://en.wikipedia.org/wiki/Great_Qing_Legal_Code",
+  "revision_id": 1345839939,
+  "article_id": 3733949,
+  "section_path": "shared_text[0:11437]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 46986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "aab4115faefefce5c4129bcb719fdf12085a18513633f6201242ae0c720eca4e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345839939",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3733949",
+    "revision_id": "1345839939",
+    "retrieved_at": "2026-10-18T12:24:10.514867+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 11437,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

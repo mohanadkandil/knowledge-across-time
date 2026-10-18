@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21571302-1351253949-f661aff882bc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marie de Lorraine, Duchess of Guise",
+  "text": " influenced by Italian music. For example, she was probably one of the \"enraged virgins\" and \"heroines\" who swooped down on Molière in late 1672 and forced him to give Charpentier the chance to write the music for Molière's the forthcoming theatrical spectacle, the Malade Imaginaire.\n\nIn 1671 her nephew Louis Joseph, Duke of Guise died. She and the young widow fought over who would be guardian of the late Duke's little son, François Joseph, the last male of the House of Guise. Marie de Lorraine won the battle, but her guardianship was short-lived. The little boy died in 1675.\n\nHenceforth, as the last member of the House of Guise, she used her vast wealth not only to live splendidly but for projects dear to her heart. In a cartouche beneath her portrait by Mignard, above, a solitary tree stands in a forest of stumps, to indicate her position as last survivor. A Latin motto makes the parallel explicit: Succisas dat conjectare superstes, \"The survivor bears witness to the fallen.\"\n\nAfter these two closely spaced deaths, Marie turned to devotion. With the help of Father Nicolas Barré, Minim, she founded a teachers' training institute and created schools for girls and hospitals for the poor in her Parisian parish and in her provincial lands. In her vast Parisian residence known as the \"Hôtel de Guise,\" she presided \"magnificently\" over a select little \"court\" composed chiefly of members of the House of Lorraine, clergy, learned protégés, and Italians passing through Paris. Music (often Italian and Italian-style music) was the principal entertainment at these events.\n\nAlthough he",
+  "url": "https://en.wikipedia.org/wiki/Marie_de_Lorraine,_Duchess_of_Guise",
+  "revision_id": 1351253949,
+  "article_id": 21571302,
+  "section_path": "shared_text[0:6019]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "75682a16535a445de85c4955f0f07da7848b9ea2a08d5d7a7d8abc71cf54a86a",
+    "source_row_idx": 58577,
+    "source_shard": "enwiki/data/enwiki_namespace_0_56.parquet",
+    "text_sha256": "f9bf9f904a3dd4d2cfc3beee82e5d8a34817a24e3e0437214330bab5242c5575",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351253949",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21571302",
+    "revision_id": "1351253949",
+    "retrieved_at": "2026-10-18T12:21:06.429028+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6019,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

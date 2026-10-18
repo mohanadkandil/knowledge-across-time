@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "Thus it is that the evolution of a fleet in a uniform current are the fames, and produced by the fame means, as in full water. Thus it is that the weak focus on the farline of this globe in the four manner as if it neither revolved round the fun, nor turned round its axis. Thus it is that the fans thereof of a how will communicate a certain velocity to an arrow, whether it is fine eaf, or welf., or north, or south. Thus it is that the mutual actions of finalinary bodies as the fames in what ever direction they are excited, and, withouthanding the very great changes in their velocities by reason of the earth’s rotation and orbital evolution. The real velocity of a body on the earth’s equator is about 3000 feet per second greater at midnight than an midday. For at midnight the motion of rotation nearly confiples with the orbital motion, and at midday it nearly oppo-fes it. The difference between the velocities at the beginning of January and the beginning of July is really greater. And at other times of the day, and other femesions of the year, both motions of the earth are transfi verly compounded with the caferly or welterly motion of an arrow on a canon bulles. Yet we can observe no change in the effects of the mutual actions of this is an important oblertion ; because it proves that forces are to become ordered by on other lease than by the process to thereby produce. We have had re-gated reactions to mention the very different eliminations of moving forces by Mr Lebinbiz; and have flewm how, by very partial consideration of the action of those natural powers called _pref",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1416,
+    0.1625,
+    0.5449,
+    0.6547
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wiki-39361535-1348191975-572992d321f7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of pharmacy colleges in India",
+  "text": "llege of Pharmacy, Tq- Ashti\n\nAnna Saheb Ajmera College of Pharmacy (Women), Deopur\n\nAnnasaheb Dange College of B.Pharmacy\n\nAnnasaheb Ramesh Ajmera College of Pharmacy (Women)\n\nArunamai College of Pharmacy, Mumarabad, Jalgaon\n\nAnuradha College of Pharmacy\n\nAppasahib Birnale College of Pharmacy\n\nArmed Forces Medical College\n\nArts Science, Commerce & Pharmacy\n\nB.V. Institute of Pharmacy\n\nBhagawan Pharmacy College\n\nBharati Vidyapeeth's College of Pharmacy\n\nBharati Vidyapeeth's College of Pharmacy\n\nBharati Vidyapeeth's Poona College of Pharmacy\n\nBhausaheb Mulak College of D. Pharmacy, Umrer\n\nBhinav Education Society's College of Pharmacy\n\nBombay College of Pharmacy, Kalina, Mumbai\n\nC U Shah College of Pharmacy\n\nChannabasweshwar Pharmacy College\n\nCharak College of pharmacy & Research Wagholi, Pune\n\nCollege of Pharmacy, Pusad, Yavatmal District\n\nCollege of Pharmacy\n\nCollege of Pharmacy (Polytechnic), Post. Alore, Talq\n\nD.S.T.S. Mandal's College of Pharmacy\n\nDayanand College of Pharmacy, Dayanand Education Society Campus\n\nDepartment of Chemical Technology\n\nDepartment of Pharmaceutical Sciences\n\nDeptt. Of Pharmaceutical Science, Amravathi Road\n\nDr. Bhanuben Nanavati College of Pharmacy, Mithibai College Campus, V.M. Road\n\nDr. L. H. Hiranandani College of Pharmacy\n\nDr. J.J. Magdum Pharmacy College\n\nDwarka Institute of Pharmacy\n\nGeetadevi Khandelwal Institute of Pharmacy, Dabki Road\n\nGodavari Shikshan Mandal's Asian Institute of Pharmacy, Survey No.326/2 Pathardi Road\n\nGondia Education Society's Manoharbhai Patel Institute of Pharmacy\n\nGovernment College of Pharmacy, Amravati\n\nGovern",
+  "url": "https://en.wikipedia.org/wiki/List_of_pharmacy_colleges_in_India",
+  "revision_id": 1348191975,
+  "article_id": 39361535,
+  "section_path": "shared_text[0:32821]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    15840,
+    17440
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "53183b6d6d2960e6ce78a240a60d1c00e7e30d4beec5bccf5c820a22865b5d4e",
+    "source_row_idx": 34163,
+    "source_shard": "enwiki/data/enwiki_namespace_0_48.parquet",
+    "text_sha256": "0aa5456859680e73ce11343c99f387da9a2c893951c6da5c7cc965dd1e134705",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1348191975",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "39361535",
+    "revision_id": "1348191975",
+    "retrieved_at": "2026-10-18T12:28:56.445727+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 12821,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

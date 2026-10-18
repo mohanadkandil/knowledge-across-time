@@ -1,0 +1,36 @@
+{
+  "id": "bri-1492-a7c7c0af0bdc:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1492-a7c7c0af0bdc",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": "From a comparison of any government to which the Hindone have hitherto been subject, with that of Britain, indeed, it is evident that the preference must be given greatly in favour of the latter. At the time when the British first visited that country, they were not under the jurisdiction of their native oversering; now had they been as for a long time before. The Mogulls were not only foreigners, but a most crest and detectable race of men, and it was by surpassing of their own rebellious subjects that the savery and confusion was introduced, in which the country was involved for as long a time. The British are foreigners as well as the Mogully, but the latter, who profes the intolerant superstitution of Mohamed, suffer their conduct to be influenced by by such a manner to treat the natives with the utmost cruelty. The greatest set/ periods which results from the British government is, the ex-portation of great sums of money to a foreign country; but this evil, with respect to the provinces possessed by the British, existed also under the Mohammadan government. The Mogul emperev resides at Dally, which is far distant from the provinces of Benep, Bahar, and Orissa, the territories now possessed by Britain’s so that the greatest part of the treasurer sent to the capital was totally lost to them. In the time of through case, the emperor’s tribute amounted to three millions sterling, and of this a considerable part over six speeds, but since that time the relative was fixed at only £2000 and even this was a vast sum; to which if we add that carried out of the country by comman",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+  "provenance": {
+    "page_id": "bri-1492-a7c7c0af0bdc",
+    "row_index": 1492,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 0,
+    "sha256": "a7c7c0af0bdcd12962c97882980fe05660cc78ca4ec454094a75d51bac7bbc86",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-1492-a7c7c0af0bdc.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0596,
+    0.4625,
+    0.4648,
+    0.9164
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

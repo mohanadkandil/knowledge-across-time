@@ -1,0 +1,36 @@
+{
+  "id": "bri-2536-526b43082bc6:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-2536-526b43082bc6",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+  "text": "traft the adaptation of every beholder; but, out of the liquid element, the cleypace of its form in a great men fare disepate. While the mail and remains are empowered with the center of the young breed, it is not idle to approach them ; for they will fly on a itinerary, and feminome best time to be spently reproduce. Note: \"But thinking however, their greet strength of way a flight show on the bed will dispatch them. Multitude of this species are found in Ruulin and Siberia, we well as further forward, in a wildfite. They occur, with-out an owner, you can learn, the birded of the near a Authorities in Borderline, and our home other races all takes, in different parts of the British life. Those on the Thomas have, for ages seem goodto be as royal property, and is it still seemed lobby to heal their eggs. In known some great animals were reared for the tables; but they are now recenced by male means kind of food. A fictional event, however, ifill an counted and greatly excitedly and usually fertile upwards of games on the poultry monkey. It is generally believed that the from live to a great age, though the term was concerned, aligned to its type authors, or certainly much exaggerated. The female nettles among the rough heritage men the world where, legs from the few eight large size eggs, and its on them about a man-ny seed before they are hatched. The family do one require little fish managed to be treated. The depth one requires little fish manage the attack even at the angle, and his shows from it are to powerful, as to fun or kill the derech of his first food could fit ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+  "provenance": {
+    "page_id": "bri-2536-526b43082bc6",
+    "row_index": 2536,
+    "volume_id": "191253837",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 15 Part 2, ORC-PAR - EB.9",
+    "label": 0,
+    "sha256": "526b43082bc617aa07f167d2238800380a2993105d74711032efc0157c853b7b",
+    "width": 600,
+    "height": 777,
+    "image_file": "../images/bri-2536-526b43082bc6.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2536",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.5518,
+    0.0758,
+    0.5537,
+    0.6742
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

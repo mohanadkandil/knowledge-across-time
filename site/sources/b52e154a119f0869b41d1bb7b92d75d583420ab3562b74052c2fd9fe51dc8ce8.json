@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "When Ruddiman had parts three years and a half in this emptyness, the celebrated Dr Vinciere’s happen- to pass through Laurence-kirk, was detained in that village by a violent form. Picincins wanting academic, inspired at the hoffs if the could process any agreeable companion to bear him company at din- nez. She replied, that the schoolmates though young, was fed to be leaving, and, though would, the was fure could talk. Picincine was delighted with the con- veritation and learning of how her companion, invited him in Edinburgh, and promotional ban has procuring.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5488,
+    0.3516,
+    0.8867,
+    0.5031
+  ],
+  "offsets": [
+    0,
+    569
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

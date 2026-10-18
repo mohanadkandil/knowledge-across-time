@@ -1,0 +1,36 @@
+{
+  "id": "bri-0947-d6b1bf6bb090:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0947-d6b1bf6bb090",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+  "text": "With regard to labels in general, there are, as in many other cases, two remarks, one by judgment, and another by editor. The former for the _public of_ fences for every libel has a tendency to break the pieces, or provoke others offence is the fans whether the matter contained he true or fully, and therefore the defendants on an indicment for publishing a libek, is not allowed to allegte to get the of it by way of justification. But in the remedy by rection on the cafe, which is to repair the party in de mages for the injury have him, the defendant may, as for words friokes, justify the truth of the fields, and show that the plaintiff has received no injury at all. What was fail with regard to words friokies, will alo",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+  "provenance": {
+    "page_id": "bri-0947-d6b1bf6bb090",
+    "row_index": 947,
+    "volume_id": "149982692",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 10, LES-MEC - EB.5",
+    "label": 0,
+    "sha256": "d6b1bf6bb090715ba87245bb87ec5edd68c4126e2b42be436e7b2d73662226c5",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-0947-d6b1bf6bb090.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=947",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.0801,
+    0.7414,
+    0.4668,
+    0.9297
+  ],
+  "offsets": [
+    0,
+    728
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

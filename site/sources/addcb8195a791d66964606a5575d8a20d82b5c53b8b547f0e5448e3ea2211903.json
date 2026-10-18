@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-5a6b9279e84f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": "ic, geometry, probability and statistics, elementary algebra and trigonometry. (calculus is not usually considered a part)\n\nElementary group theory\n\nthe study of the basics of group theory\n\nElimination theory\n\nthe classical name for algorithmic approaches to eliminating between polynomials of several variables. It is a part of commutative algebra and algebraic geometry.\n\nElliptic geometry\n\na type of non-Euclidean geometry (it violates Euclid 's parallel postulate) and is based on spherical geometry. It is constructed in elliptic space.\n\nEnumerative combinatorics\n\nan area of combinatorics that deals with the number of ways that certain patterns can be formed.\n\nEnumerative geometry\n\na branch of algebraic geometry concerned with counting the number of solutions to geometric questions. This is usually done by means of intersection theory.\n\nEpidemiology\n\nEquivariant noncommutative algebraic geometry\n\nErgodic Ramsey theory\n\na branch where problems are motivated by additive combinatorics and solved using ergodic theory.\n\nErgodic theory\n\nthe study of dynamical systems with an invariant measure, and related problems.\n\nEuclidean geometry\n\nAn area of geometry based on the axiom system and synthetic methods of the ancient Greek mathematician Euclid.\n\nEuclidean differential geometry\n\nalso known as classical differential geometry. See differential geometry.\n\nEuler calculus\n\na methodology from applied algebraic topology and integral geometry that integrates constructible functions and more recently definable functions by integrating with respect to the Euler characteristic as a finitely-a",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    20160,
+    21760
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

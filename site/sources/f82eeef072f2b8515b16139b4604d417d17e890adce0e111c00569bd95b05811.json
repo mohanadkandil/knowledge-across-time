@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3171165-1294251336-b7b6844f3e54",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Quarantine (disambiguation)",
+  "text": " Crace\n\nQuarantine (poem), a poem by Eavan Boland about the Irish famine\n\nQuarantine, a 2010 album by GRITS\n\nQuarantine (Laurel Halo album), 2012\n\n\"Quarantine\", a 2017 song by Flobots from Noenemies\n\n\"Quarantine\" (Blink-182 song), a 2020 single\n\n\"Quarantine\" (Red Dwarf), a 1992 episode of the British sci-fi comedy Red Dwarf\n\n\"Quarantine\" (Stargate Atlantis), a fourth-season episode of the sci-fi series Stargate Atlantis\n\n\"Quarantine\" (The Twilight Zone), a 1986 episode of the television series\n\n\"Quarantine\" (TUGS episode), the fifth episode of TUGS\n\n\"Quarantine\", a 1976 episode of The Onedin Line\n\n\"Quarantine\", an episode of The Good Doctor\n\n\"Quarantine\", an episode of Zoey 101\n\nQuarantine (video game), a 1994 video game for the 3DO and IBM PC systems\n\nQuarantine (antivirus program), a 1989 antivirus program\n\nIn grants of indulgences, the term Quarantines means an ecclesiastical penance of 40 days\n\nReddit quarantining, process of restricting access to certain Reddit threads",
+  "url": "https://en.wikipedia.org/wiki/Quarantine_(disambiguation)",
+  "revision_id": 1294251336,
+  "article_id": 3171165,
+  "section_path": "shared_text[0:2428]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2428
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 59036,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "b128bd1ce01d210fda787fdda0fef33d12f68a4f76b6cafe5d38c857f5b10ebe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1294251336",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3171165",
+    "revision_id": "1294251336",
+    "retrieved_at": "2026-10-18T12:24:06.638999+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2428,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

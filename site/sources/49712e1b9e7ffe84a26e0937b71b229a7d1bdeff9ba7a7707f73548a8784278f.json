@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "About this time Sir Gregere Magreger landed at Porto Bello via a small expedition from Bogota. He was successful in obtaining possession of that places, but owing to defective discipline and want of caution they were surprised by the royalists. Their leader and a two others engaged to their ships and called; but the greater part were taken prisoners, and metode with each rigour and severity that year for of them eventually received.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.54,
+    0.5555,
+    0.9453,
+    0.6398
+  ],
+  "offsets": [
+    0,
+    436
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

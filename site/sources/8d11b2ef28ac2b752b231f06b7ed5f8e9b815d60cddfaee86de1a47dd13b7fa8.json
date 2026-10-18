@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33654174-1339732819-abb80bfc94f9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hermann Hellriegel",
+  "text": "f the pots they added leachings from a fertile soil, in other words, an inoculum containing bacteria of the proper species and variety. They found that peas growing in inoculated soils produced root nodules, and after an initial period of nitrogen deficiency, turned green and made thrifty growth. On the contrary, peas in a similar soil without an inoculum were unthrifty and perished prematurely.\"",
+  "url": "https://en.wikipedia.org/wiki/Hermann_Hellriegel",
+  "revision_id": 1339732819,
+  "article_id": 33654174,
+  "section_path": "shared_text[0:1839]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1839
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 10301,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "880be9954e402ec4383a6ff20f504c4301d2c88f261db4036af31076e133460e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339732819",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33654174",
+    "revision_id": "1339732819",
+    "retrieved_at": "2026-10-18T12:38:44.682029+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1839,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-35941887-1349503748-6130905fdb40",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Preston (surname)",
+  "text": "Preston is a surname, and may refer to:\n\nAileen Preston (1889–1974), Irish chauffeur and suffragette\n\nAlan Preston (1932–2004), New Zealand soccer player\n\nAlex Preston (born 1979), British writer\n\nAlice Bolam Preston (1888–1958), American illustrator\n\nAllan Preston (born 1969), Scottish footballer\n\nAmber Preston, stand-up comedian\n\nAndrej Preston (born c. 1986), Slovenian internet personality\n\nAndrew Preston (disambiguation), multiple people\n\nAnn Preston (1813–1872), American doctor and educator\n\nAnn Preston (1910–2002), American actress better known as Shaindel Kalish\n\nAnthony Preston (disambiguation), multiple people\n\nAntony Preston (1938–2004), English naval historian\n\nArthur Preston (disambiguation), multiple people\n\nAshlee Marie Preston (born 1984), American media personality, producer, and activist\n\nBenjamin Preston (1846–1914), English cricketer\n\nBilly Preston (1946–2006), American musician\n\nBob Preston (1895–1945), Scottish footballer\n\nBrian Preston (born 1958), Australian judge\n\nCarl Preston (born 1991), English footballer\n\nCarrie Preston (born 1967), American actress\n\nChanel Preston (born 1985), American pornographic actress\n\nSir Charles Preston, 5th Baronet (c. 1735–1800), British Army officer\n\nCharles M. Preston (1848–1909), American lawyer and banker\n\nCheryl Preston, American law professor\n\nChristopher Preston, 2nd Baron Gormanston (c. 1354–1422), Anglo-Irish peer and statesman\n\nCynthia Preston (born 1968), Canadian actress\n\nDan Preston (born 1991), English footballer\n\nDave Preston (disambiguation), multiple people\n\nDenis Preston (1916–1979), British record pro",
+  "url": "https://en.wikipedia.org/wiki/Preston_(surname)",
+  "revision_id": 1349503748,
+  "article_id": 35941887,
+  "section_path": "shared_text[0:6342]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 14348,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "7a4f5af1885073e75d2516b4f79c499baf62396b561ecac18889a6677e38c329",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349503748",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "35941887",
+    "revision_id": "1349503748",
+    "retrieved_at": "2026-10-18T12:36:08.112232+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6342,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

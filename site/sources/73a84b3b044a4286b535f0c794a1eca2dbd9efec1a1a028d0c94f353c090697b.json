@@ -1,0 +1,36 @@
+{
+  "id": "bri-2410-19364d85bf49:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2410-19364d85bf49",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+  "text": "At to the different to which an arrow can be flow from a long bow with the belt elevation of 15 de- perys, thilt must wait enough depend much hub upon the through mid flightsof the author (but in general the distances was extended from eleven to the five four yards. The boat for cars etc., also noticed, were deficiented to be dithand upward of 220 yards. There is indeed a tradition, that an attorney of Wigan in Lim-",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+  "provenance": {
+    "page_id": "bri-2410-19364d85bf49",
+    "row_index": 2410,
+    "volume_id": "192545784",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+    "label": 0,
+    "sha256": "19364d85bf4997e5c78355cbe610b2e5e4479d2093c368e0c0e77cced484f78d",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2410-19364d85bf49.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0859,
+    0.7852,
+    0.4414,
+    0.8852
+  ],
+  "offsets": [
+    0,
+    419
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

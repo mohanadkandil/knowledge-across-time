@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2377911-1339123781-199867f3f3c1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cassiterides",
+  "text": "n Islands, where our tin is brought from.\n\nStrabo's passage on the Cassiterides is quite detailed, placing them in an Iberian context, separate from Britain (Geog. 3.5.11):\n\nThe Cassiterides are ten in number, and lie near each other in the ocean towards the north from the haven of the Artabri. One of them is desert, but the others are inhabited by men in black cloaks, clad in tunics reaching to the feet, girt about the breast, and walking with staves, thus resembling the Furies we see in tragic representations. They subsist by their cattle, leading for the most part a wandering life. Of the metals they have tin and lead; which with skins they barter with the merchants for earthenware, salt, and brazen vessels. Formerly the Phoenicians alone carried on this traffic from Gades, concealing the passage from every one; and when the Romans followed a certain ship-master, that they also might find the market, the shipmaster of jealousy purposely ran his vessel upon a shoal, leading on those who followed him into the same destructive disaster; he himself escaped by means of a fragment of the ship, and received from the state the value of the cargo he had lost. The Romans nevertheless by frequent efforts discovered the passage, and as soon as Publius Crassus, passing over to them, perceived that the metals were dug out at a little depth, and that the men were peaceably disposed, he declared it to those who already wished to traffic in this sea for profit, although the passage was longer than that to Britain. Thus far concerning Iberia and the adjacent islands.\n\nHerodotus (430 BC) h",
+  "url": "https://en.wikipedia.org/wiki/Cassiterides",
+  "revision_id": 1339123781,
+  "article_id": 2377911,
+  "section_path": "shared_text[0:7826]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 82849,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "cbf597aeaf716be7ba56a0cb0c05de4b74a9ec71a726b648128d2495c6c48808",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339123781",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2377911",
+    "revision_id": "1339123781",
+    "retrieved_at": "2026-10-18T12:39:41.290107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7826,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

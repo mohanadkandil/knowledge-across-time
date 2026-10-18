@@ -15,7 +15,7 @@ Open http://127.0.0.1:8130. If the server is already running, open that address 
 3. Open the static archive and the compiled LaTeX PDF. The LaTeX source remains editable.
 4. Inspect row1261. Its Parse failure is retained; the program does not invent a transcription for it.
 
-Match, Compare and Ask require the remaining services. They stay unavailable until their settings are present. Placeholder answers are not supplied.
+Match, Compare and Ask require the configured Token Factory, GPU retrieval and Hermes services. Readiness badges show configuration; the doctor and saved execution traces establish whether calls actually ran. Placeholder answers are not supplied.
 
 ## Run the software checks
 
@@ -25,20 +25,20 @@ uv run kat status
 uv run kat doctor --live
 ```
 
-The tests exercise actual local LanceDB and mocked service contracts. They do not establish model quality or count as agent cases. The doctor currently reports the missing Token Factory key and GPU retrieval service; that is expected until setup is complete.
+The tests exercise actual local LanceDB and mocked service contracts. They do not establish model quality or count as agent cases. In the current team workspace, live checks passed for Super VL, Parse 3.5, Embed VL, Rerank VL and Hermes. `data/verification/retrieval-gpu-smoke.json` records the pinned model revisions and real CUDA runtime. These setup checks are separate from the six required corpus cases.
 
 ## Enable one complete comparison
 
 Put your Token Factory key in `SUPER_API_KEY` in the local `.env`. Deploy the official retrieval container on your Nebius GPU VM and forward its port to the laptop. Set:
 
 ```dotenv
-RETRIEVAL_BASE_URL=http://127.0.0.1:8000/v1
+RETRIEVAL_BASE_URL=http://127.0.0.1:8001/v1
 ```
 
-Restart the local server after changing `.env`. Follow [setup.md](setup.md) for Hermes paths and the exact Docker recipe. Check the GPU service before running a comparison:
+The team workspace uses local port 8001 because port 8000 belongs to another existing service. Keep the SSH tunnel open; the GPU API binds only to the VM loopback address. Restart the local server after changing `.env`. Follow [setup.md](setup.md) for Hermes paths and the exact Docker recipe. Check the GPU service before running a comparison:
 
 ```sh
-curl --fail http://127.0.0.1:8000/ready
+curl --fail http://127.0.0.1:8001/ready
 uv run kat doctor --live --inference --page 57
 uv run kat match 57
 uv run kat compare 57
@@ -57,4 +57,4 @@ uv run kat export --output submission.zip
 
 The batch keeps every selected page and its failures. Review three successful and three clear failure cases from actual Hermes runs using the interface or `kat review`. Inspect `submission/checklist.json` in the export. The three-minute video is a separate deliverable.
 
-The tracked `site/` directory is the initial static snapshot. To refresh it for a later submission, copy the newly generated `data/site/` into it and inspect the changed files before committing.
+The tracked `site/` directory contains a saved static snapshot. To refresh it for a later submission, copy the newly generated `data/site/` into it and inspect the changed files before committing.

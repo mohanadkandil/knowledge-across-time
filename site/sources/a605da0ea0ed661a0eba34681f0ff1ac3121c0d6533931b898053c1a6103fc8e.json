@@ -1,0 +1,44 @@
+{
+  "id": "wiki-42305425-1334757454-c76957b71d6d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tenerife Sea",
+  "text": "that people also use for general relaxation and to help themselves unwind\". The Guardian columnist Tim Dowling suggests that the report is an indication of \"very popular, slightly mellow songs that keep cropping up on sleep playlists\" but not a list of a \"carefully curated journey to unconsciousness\". In June 2015, Spotify compiled the most popular first dance songs based on an analysis of 400,000 wedding playlists worldwide. \"Tenerife Sea\" was the fifth most popular. On 29 June 2024 Sheeran staged his first ever concert in Tenerife as part of his \" +-=/ * Mathematics\" tour and included \"Tenerife Sea\" in his set of songs.. During his stay in Tenerife, Sheeran recorded a performance of the song whilst sitting in a fishing boat off the coast of San Andrés, near Santa Cruz de Tenerife, the island's capital. The video was published to his official YouTube channel on 11 July 2024.\n\n\"Tenerife Sea\" was noted by critics and journalists. In an article written for Valentine's Day, Marika Azzopardi of The Malta Independent compiled \"some great moments of love in the arts\", including \"Tenerife Sea\" among other songs. Azzopardi writes that Sheeran \"goes all soft and summery\" with the song. Jon Caramanica of The New York Times called \"Tenerife Sea\" an \"unreserved love song\". Allison Stewart of The Washington Post noted Sheeran's layered vocals, writing: \"'Tenerife Sea' is lush and gorgeous, its vocals stacked to the heavens.\" Jim Beviglia of the American Songwriter thought that although \"tidy\", \"Tenerife Sea\" comes \"toothless\" compared with the \"daring confessionals\" Sheeran made in the ",
+  "url": "https://en.wikipedia.org/wiki/Tenerife_Sea",
+  "revision_id": 1334757454,
+  "article_id": 42305425,
+  "section_path": "shared_text[0:5556]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 9004,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "4984849f987654fbf18a6d8b87d88a9bac7616344fa7b361af4113c7d44597a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334757454",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "42305425",
+    "revision_id": "1334757454",
+    "retrieved_at": "2026-10-18T12:31:55.960322+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5556,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

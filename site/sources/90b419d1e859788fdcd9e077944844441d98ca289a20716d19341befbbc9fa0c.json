@@ -1,0 +1,36 @@
+{
+  "id": "bri-2292-93b4d1f3ff8c:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-2292-93b4d1f3ff8c",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "Hybrided oxide of ammonium... NH(O) HO = Am0,IO",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+  "provenance": {
+    "page_id": "bri-2292-93b4d1f3ff8c",
+    "row_index": 2292,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 0,
+    "sha256": "93b4d1f3ff8c91cea76506298710cd1ef022efe47dc5ba2ebe8650a7496fc589",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2292-93b4d1f3ff8c.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+    "manual_seed": false
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.5371,
+    0.4422,
+    0.9082,
+    0.4602
+  ],
+  "offsets": [
+    0,
+    47
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "P R E P R E P R E",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.292,
+    0.057,
+    0.7773,
+    0.0711
+  ],
+  "offsets": [
+    0,
+    17
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

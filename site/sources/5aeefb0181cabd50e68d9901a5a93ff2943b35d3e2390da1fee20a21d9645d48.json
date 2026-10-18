@@ -1,0 +1,36 @@
+{
+  "id": "bri-1372-b18f304e47d5:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1372-b18f304e47d5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+  "text": "Octavians was received upon his return to Rome with universal joy; the senators met him at the gates, and conducted him to the empid: the people follow, covered with gardials of flowers, and who lu-ving returned thanks to the pods, waited upon him to his palace. There remained now but one obtained to an ambition, which antony, when he resolved to remov, and for that purpose began to render his characer as contemplifies as he possibly could it Rom. In fier, Anton’s cousin did not a little contribute to promote the endeavours of his ambitious partner in the state. He had marched against the Parthians with a prodigious army, but we forered to return with the loss of the fourth part of his forces, and all his bag-agege.\" This extremely diminished his reputation into his making a tramphal entry into Alexandria soon after, entirely disgusted the citizens of Rome. How ever, Antony seemed quite regardless of their resentment · totally disregarding the business of the state, he spent whole days and nights in the company of Clen-pata, who studied every end to increase his passion, and very his entertainments. Not content with sharing in her company all the delights which Egypt could afford, Antony was resolved to charge his sphere of luxury, by granting the many of those kingdoms which belonged to the Roman empire. He gave her all Phonatic, Cto-Syren, and Cyprus, with a great part of Ciltics, Arabia, and Judes, girls which he had no right to bestow, but which he pretended to grant in imitation of Hercules. This completion of view and folly or lengthy totally esperated the Romans , an",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+  "provenance": {
+    "page_id": "bri-1372-b18f304e47d5",
+    "row_index": 1372,
+    "volume_id": "192015834",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+    "label": 0,
+    "sha256": "b18f304e47d59eec1b3ff2c9fb3879e2c88ec8a425aa7a521fe202396b68ddff",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-1372-b18f304e47d5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0459,
+    0.3078,
+    0.4609,
+    0.818
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

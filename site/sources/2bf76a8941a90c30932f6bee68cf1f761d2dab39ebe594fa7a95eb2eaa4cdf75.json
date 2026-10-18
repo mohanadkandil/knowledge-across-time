@@ -1,0 +1,36 @@
+{
+  "id": "bri-0744-fcdb217a9ba5:region-9:1440",
+  "kind": "britannica",
+  "page_id": "bri-0744-fcdb217a9ba5",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+  "text": "s about the same latitude as Northern Africa of Arabia, namely between the 2001, and 25th de- greers, there is a continuous and severe winter of three months, which is of each uniforms recently that at its commencement the inhabitants till their most, and it is kept perfectly fresh for the moments.\" To the W, along the white map of ele- tentooman that extends into Persian and the Caspian, the climate is modified by the elevation of the ground. In the countries of Balk and Pakistan, should lie on the western delsing of the great reign of the Hindu Koh Mountains, in the same latitude as the S of Europe, many, the 20th and 40th degrees, and all along the banks of the Ova, the climate is remarkably severe. For three months the winter is intensely cold, the wind being dry and affecting and the snow lying close on the ground. The rivers are all frozen over, and the Oxus during all that periods possible for ear- vans.\" The summer, again, is exactly her. Perks, in like manner, being nearly in the same latitude as Arabia, the hottest part of the earth, and lasting as excessively hot some lies, last the northern and central parts of several winter of a northern climate, with drifting snow, which lies deep on the ground for the few months; and this is largely entirely to its elevation, which is estimated by France to be 4000 feet above the Caspian Sea.\" The lower valleys and exterior plains of Asia, which lies to the west of the Himalaya Morou tains, including Arabia, the southern and flat parts of Per- as, Thailand, and India beyond theanges, considering the tropical and warm regions",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+  "provenance": {
+    "page_id": "bri-0744-fcdb217a9ba5",
+    "row_index": 744,
+    "volume_id": "193696085",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+    "label": 0,
+    "sha256": "fcdb217a9ba5e3b917823cdc39f41c29fcfee28beaacefc676ceeef419d1b70f",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-0744-fcdb217a9ba5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.5303,
+    0.0617,
+    0.9297,
+    0.8266
+  ],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

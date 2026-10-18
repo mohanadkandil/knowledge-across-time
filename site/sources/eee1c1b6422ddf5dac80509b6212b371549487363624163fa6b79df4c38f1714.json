@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278553-1340135747-1880a912e588",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Colombia",
+  "text": "e of Colombia\n\nMilitary ranks of Colombia\n\nLocal government in Colombia\n\nArmero tragedy\n\nHistory of Cartagena, Colombia\n\nCIA activities in Colombia\n\nConstitutional history of Colombia\n\nHistory of the Colombian National Police\n\nHistory of Internet in Colombia\n\nPostage stamps and postal history of Colombia\n\nMassacres in Colombia\n\nMilitary history of Colombia\n\nHistory of the Revolutionary Armed Forces of Colombia\n\nParamilitarism in Colombia\n\nGuerrilla movements in Colombia\n\nTimeline of Colombian armed conflict\n\nCulture of Colombia\n\nArchitecture of Colombia\n\nTallest buildings in Colombia\n\nCarnival in Colombia\n\nCuisine of Colombia\n\nColombian cuisine dishes\n\nFestivals in Colombia\n\nHumor in Colombia\n\nLanguages of Colombia\n\nMedia in Colombia\n\nTelevision in Colombia\n\nNational symbols of Colombia\n\nCoat of arms of Colombia\n\nFlag of Colombia\n\nNational anthem of Colombia\n\nPeople of Colombia\n\nColombian diaspora\n\nIndigenous peoples in Colombia\n\nMinorities in Colombia\n\nLGBT in Colombia\n\nArab diaspora in Colombia\n\nProstitution in Colombia\n\nPublic holidays in Colombia\n\nScouting and guiding in Colombia\n\nSmoking in Colombia\n\nWorld Heritage Sites in Colombia\n\nArt of Colombia\n\nArtists of Colombia\n\nCinema of Colombia\n\nFilms of Colombia\n\nColombian Academy Award winners and nominees\n\nLiterature of Colombia\n\nWriters of Colombia\n\nMusic of Colombia\n\nGlossary of Colombian music\n\nTelevision in Colombia\n\nTelevision series of Colombia\n\nVideo gaming in Colombia\n\nReligion in Colombia\n\nBahá'í Faith in Colombia\n\nChristianity in Colombia\n\nRoman Catholicism in Colombia\n\nRoman Catholic dioceses in Colombia\n\nHind",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Colombia",
+  "revision_id": 1340135747,
+  "article_id": 16278553,
+  "section_path": "shared_text[0:7266]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 63239,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2533a1cfe684802ab9be31e7e19c6ed7d6fa2e64e4d23de455603c7d71cdf1e5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340135747",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278553",
+    "revision_id": "1340135747",
+    "retrieved_at": "2026-10-18T12:38:13.052270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7266,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2366178-1325159955-10488272f142",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Stratum (disambiguation)",
+  "text": "A stratum in geology is a layer of sedimentary rock or sediment. In archaeology, it is a layer of man-produced sediment of a certain age.\n\nStratum may also refer to:\n\nLayer or stratum (archaeology): see Stratigraphy (archaeology)\n\nStratum (linguistics), a language influencing or influenced through language contact\n\nStratum (statistics), in stratified sampling, a homogeneous subgroup of members in the population\n\nStratum, an element of a topologically stratified space\n\nClock stratum, in a clock network, a hierarchical level reflecting the quality of a clock\n\nStratum corneum, the outermost layer of the skin\n\nStratum membranosum, the membranous layer\n\nStratum, Netherlands, a city district of Eindhoven\n\nStratum (album), a 2012 album by Drottnar\n\nStratum (sculpture), a series of sculptures by Mikyoung Kim in Portland, Oregon, US",
+  "url": "https://en.wikipedia.org/wiki/Stratum_(disambiguation)",
+  "revision_id": 1325159955,
+  "article_id": 2366178,
+  "section_path": "shared_text[0:835]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    835
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 61451,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "e965089b7dcccff2eecbf3e9c4b641c49da7816a4f8f380836c907fba618a7e8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325159955",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2366178",
+    "revision_id": "1325159955",
+    "retrieved_at": "2026-10-18T12:29:36.574194+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 835,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1849-2ef8883b0a65:region-8:1440",
+  "kind": "britannica",
+  "page_id": "bri-1849-2ef8883b0a65",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 12, Hydrodynamics-KYR - EB.15",
+  "text": "kep of Raphoe. Dempster mentons his having translated the psalins into very elegant elegant vezes and it is a true to be presented that Johnston long delayed the publicatin- in order to give his version all the advantage of a elible- rate review. He now produced a selection of short poems, entitled \" Musa Alice.\" Lond. 1633, Svo. They are accompanied with an English translation by Franz cin Kinston. This little work was followed by his complete version of the psalans. \"Paraphmasis poetic Pal-morma Javidla, doctor Arturo Jostons Socio, Accesent ejsaiken Cablon Esberghales, Symbolin Apostoli- cum, Ontario Dominics, Deologus.\" Aberd. 1637, Svo. It is dedicated in elegant and jangestal vesve to the Comises Martschal. Benson suspects the work to have been printed in London during the same year; but but it was printed there in 1657, the one edition may here been confounded with the other. About the same time he tent his aid to the preposition of the 'Dellius' Potomarso scorten hujhs servi illustrum.\" Amst. 1637, 8 om. Riso. These volumes were neatly printed by Bleau, at the ex-pense of Sir John Scots, who himself appears in the field contributors, and who doubtless retained the power of admitting or rejecting. Johnston has frequently been con- sidered as the editor from the circumstances of his having written the election to Scot, and prefaced the \"Musa run Elogia,\" addressed to theses individual. His contributions are more extensive than those of any other writer. The entire collection forms a conspicuous mouiment of the scholarship, ingureth, and taste of our coun- symmas and t",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1849",
+  "provenance": {
+    "page_id": "bri-1849-2ef8883b0a65",
+    "row_index": 1849,
+    "volume_id": "192693199",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 12, Hydrodynamics-KYR - EB.15",
+    "label": 0,
+    "sha256": "2ef8883b0a65550677dd446401d07a86910be0f9448224b677d6643353c9c4b2",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-1849-2ef8883b0a65.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1849",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.5352,
+    0.1125,
+    0.9482,
+    0.8359
+  ],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

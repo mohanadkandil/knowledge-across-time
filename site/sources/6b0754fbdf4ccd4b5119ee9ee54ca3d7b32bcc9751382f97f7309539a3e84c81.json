@@ -1,0 +1,36 @@
+{
+  "id": "bri-2291-e0d1aa12247a:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2291-e0d1aa12247a",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "495",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+  "provenance": {
+    "page_id": "bri-2291-e0d1aa12247a",
+    "row_index": 2291,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 1,
+    "sha256": "e0d1aa12247af94bfb9b86b673552ab1d4917278601568b971e8292c624b9564",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2291-e0d1aa12247a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.8701,
+    0.0672,
+    0.9082,
+    0.0852
+  ],
+  "offsets": [
+    0,
+    3
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

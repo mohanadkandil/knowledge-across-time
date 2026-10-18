@@ -1,0 +1,44 @@
+{
+  "id": "wiki-143021-1191185825-df76866b8e15",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Centers of gravity in non-uniform fields",
+  "text": "itational attraction for an observer located at r. For this reason, r is sometimes referred to as the center of gravity of M relative to the point r.\n\nThe centers of gravity defined above are not fixed points on the body; rather, they change as the position and orientation of the body changes. This characteristic makes the center of gravity difficult to work with, so the concept has little practical use.\n\nWhen it is necessary to consider a gravitational torque, it is easier to represent gravity as a force acting at the center of mass, plus an orientation-dependent couple. The latter is best approached by treating the gravitational potential as a field.",
+  "url": "https://en.wikipedia.org/wiki/Centers_of_gravity_in_non-uniform_fields",
+  "revision_id": 1191185825,
+  "article_id": 143021,
+  "section_path": "shared_text[0:6420]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    6420
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 120331,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "1a88593ef9974f5627bf438a6d3a9189dbc00ec3bab50322391c6fa3a4f3eb9c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1191185825",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "143021",
+    "revision_id": "1191185825",
+    "retrieved_at": "2026-10-18T12:22:42.584400+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6420,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

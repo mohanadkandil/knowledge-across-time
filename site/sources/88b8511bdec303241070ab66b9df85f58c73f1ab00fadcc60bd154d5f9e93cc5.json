@@ -1,0 +1,44 @@
+{
+  "id": "wiki-58739-1349988561-a7cfa0b18202",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Timeline of microscope technology",
+  "text": "Timeline of microscope technology\n\nc. 700 BC: The \" Nimrud lens \" of Assyrians manufacture, a rock crystal disk with a convex shape believed to be a burning or magnifying lens.\n\n13th century: The increase in use of lenses in eyeglasses probably led to the wide spread use of simple microscopes (single lens magnifying glasses) with limited magnification.\n\n1590: earliest date of a claimed Hans Martens/ Zacharias Janssen invention of the compound microscope (claim made in 1655).\n\nAfter 1609: Galileo Galilei is described as being able to close focus his telescope to view small objects close up and/or looking through the wrong end in reverse to magnify small objects. A telescope used in this fashion is the same as a compound microscope but historians debate whether Galileo was magnifying small objects or viewing nearby objects with his terrestrial telescope (convex objective/concave eyepiece) reversed.\n\n1619: Earliest recorded description of a compound microscope, Dutch Ambassador Willem Boreel sees one in London in the possession of Dutch inventor Cornelis Drebbel, an instrument about eighteen inches long, two inches in diameter, and supported on three brass dolphins.\n\n1621: Cornelis Drebbel presents, in London, a compound microscope with a convex objective and a convex eyepiece (a \"Keplerian\" microscope).\n\nc.1622: Drebbel presents his invention in Rome.\n\n1624: Galileo improves on a compound microscope he sees in Rome and presents his occhiolino to Prince Federico Cesi, founder of the Accademia dei Lincei (in English, The Linceans).\n\n1625: Francesco Stelluti and Federico Cesi pu",
+  "url": "https://en.wikipedia.org/wiki/Timeline_of_microscope_technology",
+  "revision_id": 1349988561,
+  "article_id": 58739,
+  "section_path": "shared_text[0:5338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 40744,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "25c993e72d09485d4923e37fd058572fe98812095ce9e0b45bbd5339d7338abc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349988561",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "58739",
+    "revision_id": "1349988561",
+    "retrieved_at": "2026-10-18T12:39:35.063760+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

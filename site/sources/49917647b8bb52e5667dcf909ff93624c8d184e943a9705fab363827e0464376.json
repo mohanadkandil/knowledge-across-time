@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "_ly. The Turkey or Levantan Company_, had its rife under Queen Elizabeth, in 1841, James I: confirmed its charter in 160s, added now new privileges. During the civil wars, there happened fone innovations in the government of the company ; many perform having been admitted members, not qualified by the charters of Queen Elizabeth and King James, or that did not conformed to the regulations prescribed. Charter it upon his relation, endorsed to, felt it upon its ancient bada ; to which end, he gave them a charter, containing not only a confirmation of their party, but alle forever any articles of information. By this, the com-pany is erected into a body politio, capable of making have, Sec. under the title of the _Community of Merchanting_ _of England relating to the first of the Levanta_. The number of members is not limited, but is ordinarily about three hundred. The principal qualification required by, that the candidate be a freedom of London, and a wholefake merchant, either by family or by ferving an representing all these years. Thode under 23 years of age pay 241 flerting at their staffiming ; those above, twice as much. The first was reduced by a set of parliament, in 1733, to sold and the privilege of admiffion extended to every British fulgief. Each makes still a his entrance not to find any merchandife to the Levant but on his own account ; and not to confign him to any but the company’s agents or father. This refitlition is likewise enlarged by the abores mentioned feature.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1602,
+    0.3977,
+    0.5469,
+    0.7742
+  ],
+  "offsets": [
+    0,
+    1508
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

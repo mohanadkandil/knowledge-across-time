@@ -1,0 +1,44 @@
+{
+  "id": "wiki-58016855-852544624-472d4065271a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "River Till",
+  "text": "River Till may refer to three rivers in England:\n\nRiver Till, Lincolnshire\n\nRiver Till, Northumberland\n\nRiver Till, Wiltshire",
+  "url": "https://en.wikipedia.org/wiki/River_Till",
+  "revision_id": 852544624,
+  "article_id": 58016855,
+  "section_path": "shared_text[0:125]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    125
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 255362,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "ae2913962457b1a360c55db4a1b8cf7c882059a0b112c3bf181aa4db842deb22",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=852544624",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "58016855",
+    "revision_id": "852544624",
+    "retrieved_at": "2026-10-18T12:28:39.427671+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 125,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

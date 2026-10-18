@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1070923-1318525241-48e7b310005a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Germania (disambiguation)",
+  "text": " 1934–39 and as the vorpostenboot V 403 Germania and V 410 Germania 1939–44\n\nGermania (airline), a defunct German airline\n\nGermania Flug, now Chair Airlines, a Swiss airline\n\nGermania Poleo (born 1994), Venezuelan journalist\n\nGermanía, the argot used by criminals or in jails in Spain during 15th and 16th centuries\n\nGermania Flugzeugwerke, a German aircraft manufacturer during World War I\n\nGermania C.I\n\nGermania C.IV\n\nGermanium dioxide or Germania, an inorganic compound\n\nFriedrich Krupp Germaniawerft (or Germaniawerft, 'Germania shipyard'), a former German shipbuilding company\n\n5th SS Panzer Division \"Wiking\", originally SS-Division Germania\n\n241 Germania, a main-belt asteroid",
+  "url": "https://en.wikipedia.org/wiki/Germania_(disambiguation)",
+  "revision_id": 1318525241,
+  "article_id": 1070923,
+  "section_path": "shared_text[0:3564]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3564
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 35998,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "d83be33eb89b34e542ed8ca7a6759c0fd44e114ec68e43a5183bbe92a3ad2b67",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318525241",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1070923",
+    "revision_id": "1318525241",
+    "retrieved_at": "2026-10-18T12:35:24.566168+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3564,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

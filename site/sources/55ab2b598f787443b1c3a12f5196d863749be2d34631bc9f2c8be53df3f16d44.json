@@ -1,0 +1,44 @@
+{
+  "id": "wiki-75993781-1330013331-21d2d6c3857b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cornelis Taats",
+  "text": "Cornelis Taats (Dodewaard, 31 October 1790 – 25 January 1864) was mayor of Dodewaard from 1827 until his death in 1864.\n\nTaats had the Den Esch house built on Kerkstraat in 1840. This building now has the status of a national monument. In 1844 he bought the Huis te Andelst, which he had demolished two years later. His parents were Gerrit Jacob Taats and Geertruid Scheers.",
+  "url": "https://en.wikipedia.org/wiki/Cornelis_Taats",
+  "revision_id": 1330013331,
+  "article_id": 75993781,
+  "section_path": "shared_text[0:374]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    374
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 114878,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "6efc465e644dd95258d3b0e9cafea008ef824438caa3d97fb3140c8a37ff3356",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330013331",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "75993781",
+    "revision_id": "1330013331",
+    "retrieved_at": "2026-10-18T12:38:33.926320+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 374,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7131222-1326183336-b711a4373dc0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bright-field microscopy",
+  "text": "Bright-field microscopy (BF) is the simplest of all the optical microscopy illumination techniques. Sample illumination is transmitted (i.e., illuminated from below and observed from above) white light, and contrast in the image is caused by attenuation of the transmitted light in dense areas of the sample. Bright-field microscopy is the simplest of a range of techniques used for illumination of samples in light microscopes, and its simplicity makes it a popular technique. The typical appearance of a bright-field microscopy image is a dark sample on a bright background, hence the name.\n\nCompound microscopes first appeared in Europe around 1620. The actual inventor of the compound microscope is unknown although many claims have been made over the years. These include a dubious claim that Dutch spectacle-maker Zacharias Janssen invented the compound microscope and the telescope as early as 1590. Another claim is that Janssen's competitor Hans Lippershey, who applied for the first telescope patent in 1608, also invented the compound microscope. Other historians point to the Dutch innovator Cornelis Drebbel who demonstrated a compound microscope in London around 1621.\n\nGalileo Galilei is sometimes cited as an inventor of the compound microscope. After 1610, he found that he could close-focus his telescope to view small objects such as flies and/or could look through the wrong end in reverse to magnify small objects. The only drawback was that his telescope had to be extended out to six feet to view objects that close.\n\nChristiaan Huygens, another Dutchman, developed a simple tw",
+  "url": "https://en.wikipedia.org/wiki/Bright-field_microscopy",
+  "revision_id": 1326183336,
+  "article_id": 7131222,
+  "section_path": "shared_text[0:5991]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 2213,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "aa7875fe3a0bd9db24de4265251900b13e18aa98f1674628bf312117fed69981",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326183336",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7131222",
+    "revision_id": "1326183336",
+    "retrieved_at": "2026-10-18T12:39:32.270876+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5991,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

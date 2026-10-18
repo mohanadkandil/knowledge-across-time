@@ -1,0 +1,44 @@
+{
+  "id": "wiki-245984-1318957624-bf1062b51ff9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Float",
+  "text": "Float may refer to:\n\nLowboy (trailer), called a float in Eastern Canada usage\n\nFloat (parade)\n\nFloat (sculpture), a 1990 public artwork by American artist Peter Flanary\n\nFloat (2019 film), a 2019 American animated short film produced by Pixar\n\nFloat (2023 film), a 2023 drama film directed by Sherren Lee\n\nFloat (b-boy move), a balance-intensive breakdance move\n\nFloat (Aesop Rock album) or the title song, 2000\n\nFloat (Flogging Molly album) or the title song, 2008\n\nFloat (K Camp album), 2021\n\nFloat (Styles P album), 2013\n\n\"Float\" (song), by Tim and the Glory Boys, 2022\n\n\"Float\", by 6lack from 6pc Hot EP, 2020\n\n\"Float\", by Bush from Golden State, 2001\n\n\"Float\", by Eden from Vertigo, 2018\n\n\"Float\", by Janelle Monáe from The Age of Pleasure, 2023\n\n\"Float\", by Love Battery from Far Gone, 1993\n\n\"Float\", by the Music from The Music, 2002\n\n\"Float\", by Pacific Air from Long Live Koko, 2012\n\n\"Float\", by RAH Band from Mystery, 1985\n\n\"Float\", by Robin Schulz from IIII, 2021\n\n\"Float\", by Russell Dickerson from Yours, 2017\n\nIce cream float, a beverage combining a soft drink and ice cream\n\nFloat (bartending technique), layering of different-coloured liquid beverages\n\nFloat (computing)\n\nFloat, a Cascading Style Sheets attribute\n\nFloat, a single precision binary computer number format\n\nFloat (money supply)\n\nFloating exchange rate\n\nPublic float, portion of shares publicly owned\n\nFloating an initial public offering (IPO) of shares\n\nInsurance float, available reserve\n\nFishing float, a bite indicator\n\nFishing net float, attached to a net\n\nGlass float, to keep fishing nets afloat\n\nFloat (oceanogra",
+  "url": "https://en.wikipedia.org/wiki/Float",
+  "revision_id": 1318957624,
+  "article_id": 245984,
+  "section_path": "shared_text[0:2648]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 5925,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "0b266011b53283bbe08303a7c7b699ded1c10dee5786df7db15619f59950c0a4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318957624",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "245984",
+    "revision_id": "1318957624",
+    "retrieved_at": "2026-10-18T12:22:37.867361+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2648,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

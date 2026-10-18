@@ -1,0 +1,44 @@
+{
+  "id": "wiki-19978703-1346936578-ce440ccb9314",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "German invasion of Russia",
+  "text": "German invasion of Russia may refer to:\n\n1915 Gorlice–Tarnów offensive: the German Empire's attack on Russian forces, in World War I, that resulted in Russian collapse and invasion of the Russian Empire.\n\n1918 Operation Faustschlag: the German Empire's attack that invaded the Russian heartlands, reaching as far as Pskov.\n\n1941 Operation Barbarossa: the invasion of the Soviet Union, eventually including large parts of Russia, by Nazi Germany in World War II.",
+  "url": "https://en.wikipedia.org/wiki/German_invasion_of_Russia",
+  "revision_id": 1346936578,
+  "article_id": 19978703,
+  "section_path": "shared_text[0:461]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    461
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 80577,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "f83f66ab196624f25bf5746d472131bff4299034a300b55142d872f90e44c9be",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346936578",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "19978703",
+    "revision_id": "1346936578",
+    "retrieved_at": "2026-10-18T12:35:51.824110+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 461,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

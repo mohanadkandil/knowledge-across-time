@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4508896-1324190558-60f23d666369",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tattoo (disambiguation)",
+  "text": "n song), 2012\n\n\"Tattoo\" (The Who song), 1967\n\n\"Tattoo\", by Ava Max from Heaven & Hell, 2020\n\n\"Tattoo\", by Faster Pussycat from Wake Me When It's Over, 1989\n\n\"Tattoo\", by Gang of Four from Shrinkwrapped, 1995\n\n\"Tattoo\", by Janis Ian from Breaking Silence, 1993\n\n\"Tattoo\", by Rammstein from their untitled album, 2019\n\n\"Tattoo\", by Taio Cruz from TY.O, 2011\n\n\"Tattoos\", by Caravan Palace from <|°_°|>, 2015\n\nTattoo (bugle call)\n\nMilitary tattoo, military drum performance or display\n\nHeartland International Tattoo, an indoor arena performance in Hoffman Estates, Illinois\n\nRoyal Edinburgh Military Tattoo, a series of military tattoos held every August in Edinburgh, Scotland\n\nRoyal International Air Tattoo, a British airshow\n\nRoyal Nova Scotia International Tattoo, a large indoor show in Halifax Regional Municipality, Nova Scotia\n\nVirginia International Tattoo, an annual exhibition held in Norfolk, Virginia\n\nHMS Tattoo (J374), minesweeper\n\nHMAS Tattoo, S-class destroyer\n\nHTC Tattoo, a phone manufactured by HTC Corporation\n\nTattoo, locomotive design of Kerr, Stuart and Company\n\nGlobe Tattoo, a mobile broadband brand by Globe Telecom as a competitor to Smart Bro\n\nTattoo, rum product by Captain Morgan\n\nTattoo, an archaic name for the Indian Country-bred pony",
+  "url": "https://en.wikipedia.org/wiki/Tattoo_(disambiguation)",
+  "revision_id": 1324190558,
+  "article_id": 4508896,
+  "section_path": "shared_text[0:2706]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2706
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 30296,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "382c7d489fb73294c0569f13b6a5c9bd6fdc0e1b6f289635df0a6356c700784c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1324190558",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4508896",
+    "revision_id": "1324190558",
+    "retrieved_at": "2026-10-18T12:22:47.060100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2706,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2586411-1317149477-590e8957350b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluid theory of electricity",
+  "text": "advance in discussions of electricity, it did have some deficiencies. Franklin created the theory to explain discharges, an aspect which had been mostly ignored previously. While it explained this well, it was not able to fully explain electrical attraction and repulsion. It made sense that two objects with too much fluid would push away from each other, and why two objects with largely different amounts of fluid would pull towards each other. However, it didn't make sense that two objects with no fluid would repel each other. Too little fluid should not cause a repulsion.\n\nAnother difficulty with this model of electricity is that it ignores the interactions between electricity and magnetism. Although this relationship was not well-studied at the time, it was known that there was some connection between the two phenomena. Franklin's model makes no reference to these forces, and makes no attempt to explain them.\n\nAlthough fluid theory was the predominant viewpoint for a time, it was eventually replaced by more modern theories, specifically one which used observations about attractions between current-carrying wires to describe the magnetic effects between them.\n\nNeither du Fay nor Franklin described the effects of magnetism in their theories, with both concerning themselves only with electrical effects. However, theories on magnetism followed a very similar pattern as those on electricity. Charles Coulomb described magnets as containing two magnetic fluids, aural and boreal, which could combine to describe magnetic attraction and repulsion. The related one-fluid theory for m",
+  "url": "https://en.wikipedia.org/wiki/Fluid_theory_of_electricity",
+  "revision_id": 1317149477,
+  "article_id": 2586411,
+  "section_path": "shared_text[0:7950]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 103205,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "2f2f9838aa0ef86707b1bd97e71bd1e007bbc5bbed5c7c604aff0a408cbff3c1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1317149477",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2586411",
+    "revision_id": "1317149477",
+    "retrieved_at": "2026-10-18T12:17:07.837918+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7950,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

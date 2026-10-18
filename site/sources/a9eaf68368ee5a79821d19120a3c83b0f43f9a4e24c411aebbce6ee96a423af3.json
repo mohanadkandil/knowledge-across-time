@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3020422-1338601062-f44c15f64e4e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carl Stål",
+  "text": "Carl Stål (21 March 1833 – 13 June 1878) was a Swedish entomologist specialising in Hemiptera.\n\nHe was born at Karlberg Castle, Stockholm on 21 March 1833 and died at Frösundavik near Stockholm on 13 June 1878. He was the son of architect, author and officer Carl Stål then Colonel, Swedish Corps of Engineers. He matriculated at Uppsala University in 1853, studying medicine and passing the medico-philosophical examination in 1857. He then turned to entomology and completed his Ph.D. at the University of Jena in 1859. The same year he became assistant to Carl Henrik Boheman in the Zoological department of the Swedish Museum of Natural History in Stockholm, where, in 1867, he was appointed keeper with the title of professor.\n\nHe made collecting trips in Sweden and throughout Europe and visited other museums including the collection of Johan Christian Fabricius in Kiel. His study of the Fabrician types resulted in his \"Hemiptera Fabriciana\". A significant part of Stål's work was the study of insects collected from Caffraria, the majority of which were poorly understood at the time.\n\nAlthough Stål, who was regarded as the world's foremost worker on Hemiptera, published most on this order, he also worked on Orthoptera and to a lesser extent on Coleoptera and Hymenoptera, naming well over 1000 new genera and over 1500 new species over his brief career.\n\nIn 1869, he was elected a member of the Royal Swedish Academy of Sciences.\n\nStål. 1860. Bidrag till Rio Janeiro-traktens Hemipter-fauna. Kongliga Svenska Vetenskaps-Akademiens Handlingar. 2(7):1–84\n\nStål. 1862. Hemiptera Mexicana e",
+  "url": "https://en.wikipedia.org/wiki/Carl_St%C3%A5l",
+  "revision_id": 1338601062,
+  "article_id": 3020422,
+  "section_path": "shared_text[0:3051]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 32731,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "4afc781d40d8ed54ec6f0d79629a0c738d9cdbd9cb317d47a6d149a9ed75cad4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338601062",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3020422",
+    "revision_id": "1338601062",
+    "retrieved_at": "2026-10-18T12:38:02.275304+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3051,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

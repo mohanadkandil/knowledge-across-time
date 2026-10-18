@@ -1,0 +1,36 @@
+{
+  "id": "bri-0328-4588acdac3cf:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-0328-4588acdac3cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+  "text": "Pimasts. low B. Short-tailed, yellow, freched with black, with naked black face and bands, hairy on the upper farface--11. _S. Guerrao_, Guerous B. Short-tailed s cinceroy, with the crown jotted with yellow brown fare and pale bear--12. _Duncania_ is dead-ranked **B.** Short-tailed, alb brown, with bluish face, and ve- yr large deer teeth--13. _Va Feya_ Brown B. Short- ith tulled j brown, with coulition behind, a width face, and avry head tofore--15. _A Nugefrica_ Fig-tailed B. Olive brown with short-tailed tail--15. _Grifera_ Crefled B. Short talled , black, with very long hair or the crown and checks i, which break the bare face and hands--16. _S. Andria_ Little B. Short tailed y yellowish, without california behind, with chosen fineing side to the finger, and fromdella with rounded tails; the fingers with narrow ones--17. _Hamwyara_, Dog-East B. Trial ges, with calories behind Harghi draws, and the hairs on each side of the head very long--18. _S. Ferra_, Lion-tailed B. Tailley black, with very large whistling freeding -teard--19. _Cayafora_ Pale brown, bearded, with calificite behind, and with lough-filled-colored faces a whitelit land accord for received, and a loough sharp pointed tail--20. _S. Regeta_, Winkled B. Short, taled, yellowish browns, within beneath, with flesh-coloured eyes, and large blue-red wrinkles callicties behind:",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+  "provenance": {
+    "page_id": "bri-0328-4588acdac3cf",
+    "row_index": 328,
+    "volume_id": "192545786",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 12 Part 2, MAH-Materia medica - EB.9",
+    "label": 0,
+    "sha256": "4588acdac3cf6445b62cc57af5bf31589799caacfc5eebab02fdbedab2a528ad",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-0328-4588acdac3cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=328",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0195,
+    0.0789,
+    0.4453,
+    0.4039
+  ],
+  "offsets": [
+    0,
+    1360
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

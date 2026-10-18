@@ -1,0 +1,44 @@
+{
+  "id": "wiki-45374373-1278864863-a0ccae0be4f1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Director of the Royal Greenwich Observatory",
+  "text": "The director of the Royal Greenwich Observatory was the senior scientist responsible for the administration of the Royal Greenwich Observatory from 1972 until the institution's closure in 1998.\n\nExecutive responsibility for the Royal Observatory, Greenwich, London, had rested with the Astronomer Royal from the institution's foundation in 1675. This practice continued when the observatory moved to Herstmonceux Castle in 1948 and was renamed the Royal Greenwich Observatory.\n\nHowever, the title Astronomer Royal was separated from directorship of the observatory after the retirement of Richard Woolley in 1971.Following this, Margaret Burbidge was appointed director, and Sir Martin Ryle (1918 – 1984) was appointed Astronomer Royal in an honorary capacity. The Astronomer Royal no longer had any association with the observatory after this time.\n\nDirectors took action to modernise the institution and to establish a new observatory on the island of La Palma in the Canary Islands. The director oversaw the move of the Royal Greenwich Observatory from Herstmonceux to Cambridge in 1990, and continued in charge until the observatory was closed by the Particle Physics and Astronomy Research Council in 1998. The post expired with the institution.\n\nThe directors of the Royal Greenwich Observatory as a post distinct from Astronomer Royal were:\n\n1972 – 1973 Margaret Burbidge\n\n1973 – 1975 Alan Hunter (1912 – 1995)\n\n1976 – 1981 Francis Graham Smith\n\n1981 – 1995 Alexander Boksenberg\n\n1995 – 1998 Jasper Wall",
+  "url": "https://en.wikipedia.org/wiki/Director_of_the_Royal_Greenwich_Observatory",
+  "revision_id": 1278864863,
+  "article_id": 45374373,
+  "section_path": "shared_text[0:1510]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1510
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 95819,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "b9d4b8564c9ee525b83c04bfca83f70d2d40338ab8f7d3964040d1133f6bdf0b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1278864863",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "45374373",
+    "revision_id": "1278864863",
+    "retrieved_at": "2026-10-18T12:38:39.529352+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1510,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

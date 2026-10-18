@@ -1,0 +1,36 @@
+{
+  "id": "bri-0972-ce59a815d4c2:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0972-ce59a815d4c2",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "Although this is not a place for entering into the examination of combined forms, yet this peculiar combination which is produced by the two limits of the series of horizontal prisms, and takes the appearance of a vertical re- tangular four-sided prisms, no, yet limited in the direction of the axis cannot remain unnoticed. This combination is",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+  "provenance": {
+    "page_id": "bri-0972-ce59a815d4c2",
+    "row_index": 972,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 1,
+    "sha256": "ce59a815d4c28c3a4d410b825a682bf7290bdbbd522c299e84d0e5fb89f0e3a6",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0972-ce59a815d4c2.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0508,
+    0.7508,
+    0.4365,
+    0.8266
+  ],
+  "offsets": [
+    0,
+    344
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

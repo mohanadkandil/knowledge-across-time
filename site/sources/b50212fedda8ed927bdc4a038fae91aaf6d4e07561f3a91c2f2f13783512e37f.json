@@ -1,0 +1,44 @@
+{
+  "id": "wiki-574360-1344293581-afddf3469ea7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flanders (disambiguation)",
+  "text": "Flanders is the country of the Flemings; for several decades, it has also been a community and region in Belgium. Geographically and historically, it has also covered parts of France and the Netherlands.\n\nFlanders may also refer to:\n\nIndian Flanders (Flandes Indiano), an old name for Chile given during the Arauco War\n\nFlanders, Louisiana\n\nFlanders, Michigan\n\nFlanders, New Jersey\n\nFlanders, New York\n\nFlanders, a village in the town of East Lyme, Connecticut\n\nFlanders, a village in Litchfield County, Connecticut\n\nFlanders, a townland in County Londonderry, Northern Ireland\n\nCounty of Flanders, a historical county of the Low Countries, which included part of the north of modern-day France and the extreme south-west of the modern Netherlands\n\nEast Flanders, a province of Flanders, one of the three regions of modern-day Belgium\n\nFlanders Fields, the battlefields of World War I in northern France and north-western Belgium\n\nFlemish Community, one of the three Communities of Belgium, called Flanders\n\nFlemish Region, one of the three Regions of Belgium, called Flanders\n\nFrench Flanders, in the northern French department of Nord in the region of Hauts-de-France\n\nWest Flanders, the westernmost province of the Flemish Region, also named Flanders, in modern-day Belgium\n\nZeelandic Flanders in the Netherlands\n\nFlanders (surname), for a list of people with the name\n\nRaúl Hernández Barrón, Mexican suspected drug lord, nicknamed \"Flanders 1\"\n\n\" In Flanders Fields \", a 1915 World War I poem by Lt-Col John McCrae\n\nIn Flanders Fields: The 1917 Campaign, a book by historian Leon Wolff\n\nMoll Flan",
+  "url": "https://en.wikipedia.org/wiki/Flanders_(disambiguation)",
+  "revision_id": 1344293581,
+  "article_id": 574360,
+  "section_path": "shared_text[0:2146]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 82322,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "6a3121c671032f571920a7c362ff8b43b52889fed930e329db1a681d88bffb48",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344293581",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "574360",
+    "revision_id": "1344293581",
+    "retrieved_at": "2026-10-18T12:38:37.552375+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2146,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

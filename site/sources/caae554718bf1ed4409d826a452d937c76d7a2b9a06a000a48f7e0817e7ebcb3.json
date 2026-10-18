@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5419984-1330409659-2b7742802007",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Torsion pendulum clock",
+  "text": "or more on a single winding.\n\nTorsion clocks are capable of running much longer between windings than clocks with an ordinary pendulum, because the torsion pendulum rotates slowly and takes little energy. However they can be difficult to set up, and are usually not as accurate as clocks with ordinary pendulums. One reason is that the oscillation period of the torsion pendulum changes with temperature due to the temperature-dependent elasticity of the spring. Suspension spring wire of Nivarox, a low thermal elasticity coefficient alloy, is now the standard for use; this makes the clock much more accurate. The clock can be made faster or slower by an adjustment screw mechanism on the torsion pendulum that moves the weight balls in or out from the axis. The closer in the balls are, the smaller the moment of inertia of the torsion pendulum and the faster it will turn, what causes the clock to speed up.\n\nOne oscillation of the torsion pendulum usually takes 12, 15, or 20 seconds. The escapement mechanism, which changes the rotational motion of the clock's gears to pulses to drive the torsion pendulum, works rather like an anchor escapement. A crutch device at the top of the torsion spring engages a lever with two anchor-shaped arms; the two arms alternately engage the teeth of the escape wheel. As the anchor releases a tooth of the escape wheel, the lever, which is fixed to the anchor, moves to one side and, via the crutch, gives a small twist to the top of the torsion spring. This is just enough to keep the oscillation going.\n\nThe Atmos clock, made by Jaeger-LeCoultre, is a typ",
+  "url": "https://en.wikipedia.org/wiki/Torsion_pendulum_clock",
+  "revision_id": 1330409659,
+  "article_id": 5419984,
+  "section_path": "shared_text[0:4436]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 71219,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "35244de38b1e022a6185e2f6b375fa4ca767ebeb60dbb6c46a808ddb5fcf7024",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1330409659",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5419984",
+    "revision_id": "1330409659",
+    "retrieved_at": "2026-10-18T12:39:22.179278+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4436,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

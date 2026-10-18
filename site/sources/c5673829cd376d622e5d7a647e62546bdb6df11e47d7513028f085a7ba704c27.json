@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2335721-1325578488-a98018fe5a21",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Battle of Millesimo",
+  "text": "The Battle of Millesimo, fought on 13 and 14 April 1796, was the name that Napoleon Bonaparte gave in his correspondence to one of a series of small battles that were fought in Liguria, Northern Italy between the armies of France and the allied armies of the Habsburg monarchy and of the Kingdom of Sardinia-Piedmont.\n\nIn late March 1796, General Bonaparte took command of the French Army of Italy, which consisted of around 40,000 men under arms. After being attacked near Genoa on 10 April by the left wing of the Habsburg army, under Feldzeugmeister Johann Beaulieu, Bonaparte initiated the Montenotte Campaign. The French advanced through the Cadibona Pass to defeat the isolated right wing of the Habsburg army, commanded by Feldmarschal-Leutnant (FML) Eugène-Guillaume Argenteau, at the Battle of Montenotte on 12 April. The French then moved further inland, intending to capture Dego and increase the separation between the Habsburg army and that of its ally, Piedmont-Sardinia.\n\nAfter his first victory at the Battle of Montenotte, Bonaparte swung the main weight of his offensive to the west against FML Michelangelo Colli 's 21,000-strong Sardinian army. To keep Beaulieu's Habsburg army from interfering, the French commander sent André Masséna 's division to seize Dego to the north. On 13 April, General of Division Pierre Augereau attacked FML Giovanni di Provera 's weak Austrian Auxiliary Corps east of Millesimo and defeated him.\n\nTo cover the withdrawal of his command, Provera retreated to Cosseria Castle with part of the Hasbsburg Gyulai Freikorps and two grenadier companies of ",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Millesimo",
+  "revision_id": 1325578488,
+  "article_id": 2335721,
+  "section_path": "shared_text[0:4416]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 88269,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "520c82192717cfb5a34f49c45918f003e7f5a1751bc2fe5976e755c17ede1a62",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325578488",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2335721",
+    "revision_id": "1325578488",
+    "retrieved_at": "2026-10-18T12:22:18.169197+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4416,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

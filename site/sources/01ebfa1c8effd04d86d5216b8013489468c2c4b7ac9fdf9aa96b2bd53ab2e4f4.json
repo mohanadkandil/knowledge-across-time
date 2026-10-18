@@ -1,0 +1,36 @@
+{
+  "id": "bri-0131-775460749cd3:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0131-775460749cd3",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+  "text": "At the age of factors he became anxious to prophis his thuies as the university, but his father thinking him too young, oppdof his inclination. Hearing of the competencies, which was usually held as King College, A fewens, for a central number of barlines on the foundation of that university, Ruddinam's ambition was kindled. Without the knowledge of his father, and his only a fingers against in his pockets, with his father had anxiety given him, he fet out for that place. On the road he was next by a concept of mystery, who reboot him off his ever to the floor, his siblings, and his guinea. This misfortune did not damp his en- terrying! Spirit: He continued his journey to Aber den, preferred should hence the welfare as a entid- des; and though he had neither clothes to give him a decent appearance nor friends to recommend him, he gained the full prize.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+  "provenance": {
+    "page_id": "bri-0131-775460749cd3",
+    "row_index": 131,
+    "volume_id": "191319917",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 16, RAN-SCO - EB.5",
+    "label": 0,
+    "sha256": "775460749cd39a196dd033a2b1f8ed882e8c4f771f0056875e1c5cdca86b832b",
+    "width": 600,
+    "height": 769,
+    "image_file": "../images/bri-0131-775460749cd3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=131",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1201,
+    0.6438,
+    0.499,
+    0.8758
+  ],
+  "offsets": [
+    0,
+    864
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

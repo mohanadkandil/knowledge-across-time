@@ -1,0 +1,49 @@
+{
+  "id": "wiki-21433728-1325213456-3dcb65e3842c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Air gun laws",
+  "text": " must be registered at a local police station no later than 5 days after purchase (a gun licence is not needed). FAC air guns can only be used at officially licensed shooting ranges. Hunting/shooting animals with air guns is illegal and can lead to prosecution.\n\nOwning airgun after you obtain safety firearm course, police background check, medical psychological checks you can apply for self defence guns shooting rubber balls or gas with maximum of 2 guns or air rifles shooting no more than 200 m/s and maximum of 1000 rounds. Exception of high powered air rifles is only for sport club members who can own air rifles with speed over 200 m/s.\n\nIn Russia, according to Federal Law #150 \"On weapons\", any person who is older than 18 years old is eligible to buy an air gun in caliber 4,5 mm (.177) with muzzle energy up to 7.5 J without obtaining a gun permit and its registration in Federal Service of National Guard Troops. Hunting air guns with muzzle energy from 7.5 to 25 J are needed to be registered in aforementioned service and require to obtain a gun permit. Air guns certified as sport weapons can have muzzle energy more than 25 J and also require these procedures.\n\nAir guns in any caliber with muzzle energy less than 3 J (e.g., airsoft guns) are not considered as weapons and may not correspond aforementioned law restrictions related to civil weapons.\n\n4.5 mm air guns modification to acquire muzzle energy more than 7.5 J is an administrative offence according to the article 20.10 of Administrative Offences Code of Russia and is punished by a fine from 1000 to 5000 rubles with c",
+  "url": "https://en.wikipedia.org/wiki/Air_gun_laws",
+  "revision_id": 1325213456,
+  "article_id": 21433728,
+  "section_path": "shared_text[0:28666]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    18720,
+    20320
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 51146,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "7976d44222958b6c3ad7ad51170fb71e4c2af881b9bb1d8416a285f92a39b805",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325213456",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21433728",
+    "revision_id": "1325213456",
+    "retrieved_at": "2026-10-18T12:41:04.281100+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 8666,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

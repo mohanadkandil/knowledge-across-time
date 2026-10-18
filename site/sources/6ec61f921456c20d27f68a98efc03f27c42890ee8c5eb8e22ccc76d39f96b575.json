@@ -1,0 +1,44 @@
+{
+  "id": "wiki-250787-1338273276-58c8fa43da6d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Roebuck",
+  "text": "House as Roebuck was worried about industrial espionage.\n\nRoebuck's troubles at the Carron Works and the colliery, aggravated by the failure of an attempt to manufacture alkali, brought him into financial difficulties and he was forced to sell his share in Watt's engine to Matthew Boulton in return for cancellation of a £1200 debt. Subsequently, though Roebuck had to give up his interest in the Bo'ness works, he continued to manage them and to reside at the neighbouring Kinneil House, where he occupied himself with farming on a considerable scale.\n\nIn 1784, Roebuck obtained a pottery from the Cadell family where he pursued his interest in new technologies.\n\nRoebuck died in Edinburgh in 1794 and was buried at Carriden Churchyard near Bo'ness.\n\nHe was grandfather to John Arthur Roebuck.\n\n1764 - Fellow of the Royal Society of London",
+  "url": "https://en.wikipedia.org/wiki/John_Roebuck",
+  "revision_id": 1338273276,
+  "article_id": 250787,
+  "section_path": "shared_text[0:3721]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3721
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 85622,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "c113a8a232a4e5ead9cfafdc9abc493657bfa8e9d2ac81ee6a3a563377077c4c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1338273276",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "250787",
+    "revision_id": "1338273276",
+    "retrieved_at": "2026-10-18T12:23:49.193803+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3721,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

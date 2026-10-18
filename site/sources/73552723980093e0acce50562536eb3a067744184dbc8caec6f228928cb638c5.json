@@ -1,0 +1,44 @@
+{
+  "id": "wiki-52093654-1292151493-d0f67e93d7c1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Campani compound microscope",
+  "text": "on (around 1621) and one exhibited in Rome in 1624.\n\nThe instrument was said to have been built by Galileo but no longer bares that attribution. Galileo was known for using his 1609 telescope, which used a concave eyepiece and a convex objective, either forwards of backwards to view small objects, such as flies, close up but it was not a very practical microscope. After seeing the compound microscope built by Cornelis Drebbel exhibited in Rome in 1624 that used two convex lenses, Galileo built his own improved version. Giovanni Faber, fellow of the Accademia dei Lincei, gave the name \"microscope\" (microscopio) to Galileo's \"small eyeglass\" (occhialino) in 1625.\n\nEdward, G. Ruestow. The microscope in the Dutch Republic: the shaping of discovery. Cambridge University Press, Jan 22, 2004",
+  "url": "https://en.wikipedia.org/wiki/Campani_compound_microscope",
+  "revision_id": 1292151493,
+  "article_id": 52093654,
+  "section_path": "shared_text[0:2235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2235
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 160206,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "f9821bda2c1a9a62a994cb61baaf5d3f202ca45a28b351017ef8f68bd089edbd",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1292151493",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "52093654",
+    "revision_id": "1292151493",
+    "retrieved_at": "2026-10-18T12:39:31.118690+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0902-5d7a505f7997:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0902-5d7a505f7997",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+  "text": "In general the discoveries which have been effected in\nthis quarter of the globe have resulted from attempts made\nto discover a novel-west passage to India through the Arctic\nSaxon. The existence of such a commonism is a subject\nwhich from time to time has occupied the attention of the\nBritish government for the last three centuries; and al\nthough much valuable information has been obtained by\nmeans of these vagues, the man object remains as yet uncuncillably\narrived, any important benefits to commence would be derived from\nit. \"The first discovery of Greenland, however was the result\nof accident. Also the missile conflict are generally large and becu-\ntil structures, equally unanneard and useful.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+  "provenance": {
+    "page_id": "bri-0902-5d7a505f7997",
+    "row_index": 902,
+    "volume_id": "193469090",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+    "label": 0,
+    "sha256": "5d7a505f7997d6119e5537ad4ee2ccd72dd104c3a767a8014470c2799d641a3d",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0902-5d7a505f7997.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0605,
+    0.2367,
+    0.4531,
+    0.3672
+  ],
+  "offsets": [
+    0,
+    706
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

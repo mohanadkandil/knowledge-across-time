@@ -1,0 +1,44 @@
+{
+  "id": "wiki-91111-1346228572-1a56eff82e37",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angle trisection",
+  "text": "nstructible angle θ, an angle of measure 3 θ can be trivially trisected by ignoring the given angle and directly constructing an angle of measure θ. There are angles that are not constructible but are trisectible (despite the one-third angle itself being non-constructible). For example, 3 π / 7 is such an angle: five angles of measure 3 π / 7 combine to make an angle of measure 15 π / 7, which is a full circle plus the desired π / 7.\n\nFor a positive integer N, an angle of measure 2 π / N is trisectible if and only if 3 does not divide N. In contrast, 2 π / N is constructible if and only if N is a power of 2 or the product of a power of 2 with the product of one or more distinct Fermat primes.\n\nAgain, denote the set of rational numbers by Q.\n\nTheorem: An angle of measure θ may be trisected if and only if q (t) = 4 t 3 − 3 t − cos(θ) is reducible over the field extension Q (cos(θ)).\n\nThe proof is a relatively straightforward generalization of the proof given above that a 60° angle is not trisectible.\n\nFor any nonzero integer N, an angle of measure 2 π ⁄ N radians can be divided into n equal parts with straightedge and compass if and only if n is either a power of 2 or is a power of 2 multiplied by the product of one or more distinct Fermat primes, none of which divides N. In the case of trisection (n = 3, which is a Fermat prime), this condition becomes the above-mentioned requirement that N not be divisible by 3.\n\nThe general problem of angle trisection is solvable by using additional tools, and thus going outside of the original Greek framework of compass and straightedge.\n",
+  "url": "https://en.wikipedia.org/wiki/Angle_trisection",
+  "revision_id": 1346228572,
+  "article_id": 91111,
+  "section_path": "shared_text[0:14700]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 50196,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "e908650253b10099b5416141c04ec4e463f654589360793aabd4faf5c52dbf9e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346228572",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "91111",
+    "revision_id": "1346228572",
+    "retrieved_at": "2026-10-18T12:40:09.908163+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 14700,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

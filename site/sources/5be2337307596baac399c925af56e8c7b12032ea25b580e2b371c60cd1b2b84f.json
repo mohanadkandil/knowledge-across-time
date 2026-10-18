@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3752339-1342784606-4615b6591a2a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Neusis construction",
+  "text": "e, and in these cases p − 1 has a prime factor higher than 5.) The 3-, 4-, 5-, 6-, 8-, 10-, 12-, 15-, 16-, 17-, 20-, 24-, 30-, 32-, 34-, 40-, 48-, 51-, 60-, 64-, 68-, 80-, 85-, 96-, 102-, 120-, and 128-gons can be constructed with only a straightedge and compass, and the 7-, 9-, 13-, 14-, 18-, 19-, 21-, 26-, 27-, 28-, 35-, 36-, 37-, 38-, 39-, 42-, 52-, 54-, 56-, 57-, 63-, 65-, 70-, 72-, 73-, 74-, 76-, 78-, 81-, 84-, 91-, 95-, 97-, 104-, 105-, 108-, 109-, 111-, 112-, 114-, 117-, 119-, and 126-gons with angle trisection. However, it is not known in general if all quintics (fifth-order polynomials) have neusis-constructible roots, which is relevant for the 11-, 25-, 31-, 41-, 61-, 101-, and 125-gons. Benjamin and Snyder showed in 2014 that the regular 11-gon is neusis-constructible; the 25-, 31-, 41-, 61-, 101-, and 125-gons remain open problems. More generally, the constructibility of all powers of 5 greater than 5 itself by marked ruler and compass is an open problem, along with all primes greater than 11 of the form p = 2 r 3 s 5 t + 1 where t > 0 (all prime numbers that are greater than 11 and equal to one more than a regular number that is divisible by 10).\n\nNeusis can not square the circle, as all ratios constructible by neusis are algebraic, and so can not construct transcendental ratios like π {\\displaystyle {\\sqrt {\\pi }}}.\n\nT. L. Heath, the historian of mathematics, has suggested that the Greek mathematician Oenopides (c. 440 BC) was the first to put compass-and-straightedge constructions above neuseis. The principle to avoid neuseis whenever possible may have been s",
+  "url": "https://en.wikipedia.org/wiki/Neusis_construction",
+  "revision_id": 1342784606,
+  "article_id": 3752339,
+  "section_path": "shared_text[0:7188]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 91070,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "c5ed607bf87dfc2d3d4998a6fed4af3647531e8e7fa95a2e4434249df8f01c7f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1342784606",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3752339",
+    "revision_id": "1342784606",
+    "retrieved_at": "2026-10-18T12:40:11.802216+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7188,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

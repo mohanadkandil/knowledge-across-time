@@ -1,0 +1,36 @@
+{
+  "id": "bri-1844-afbac812622d:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-1844-afbac812622d",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+  "text": "Gesori Sustander was sent by Bolivar from Guyana, with arms and warlike stores, in order to organize the friends of dependence in Cumana; communications but being open opened with that part of New Garanda by the Apur and Cumana rivers. He after most opportunity as Port on the last of October, and an once campalized, by his superior authority and influence, the disputer for supremacy previously existing among the pastel’s leaders in Cassare. It was generally acknowledged as the aprovne civil and military chief and in six seconds he had not her be command a force of 20193 Infantry and infantry ready to meet the enemy. Since the entrance of Morillo into Dogota in 1816, because we almost the only part of New Grandma where the patriots of Cumana were the parents could find a safe asylum; for Saman, who succeeded Morillo in the com-mand in New Grandda, were himself a fit successful that inductive effort. By his credit and singungary conduct, it kept the prisons continually filled with patients the greater part of whom work also, after a summary trial: Almost the only place of security for the patriots of New Grandma were the plains of Cumana where the popularities were all favourable to the cause of independence and were protected from the influence of the Spanish by the nature of their country, and their regular occupation and mode of warfare. It not only served as an asylum are the patriots, but affected numerous poles from which to keep up a correspondence with the friends of the cause in the mountainous districts, into which they made frequent hostile locations. When my of th",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+  "provenance": {
+    "page_id": "bri-1844-afbac812622d",
+    "row_index": 1844,
+    "volume_id": "193819043",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 7, CLO-Dialling - EB.15",
+    "label": 0,
+    "sha256": "afbac812622dd36b1b57c43b73a799a2175af4fece8f3785b8de19a406801993",
+    "width": 600,
+    "height": 815,
+    "image_file": "../images/bri-1844-afbac812622d.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1844",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1309,
+    0.1258,
+    0.5439,
+    0.6922
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

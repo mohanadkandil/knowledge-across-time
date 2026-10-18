@@ -1,0 +1,36 @@
+{
+  "id": "bri-0795-19d3c2691629:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0795-19d3c2691629",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+  "text": "It the deficiency of the electric field, or rather vegetables final quantity of its way to be harmful to vegetable, lying by a too great abundance of this matter will likewise figurent produces precision effects. For experts, nests made by Maffe Nalne, Banks, and other farm-elined most of the Royal Society of London, prove fili- density this truth, where children, very flowing was discharged upon a branch of ballam still holding by its trunk. Some minutes after, there were ordered a remarkable alteration in the branch, of which the led young parts immediately suffered, dropped towards the ground, died next year, and in a short time entirely dried up s at the famine time that another branch of the firing plant has had not been put under the electric chains, so not to the landfill depend affected.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+  "provenance": {
+    "page_id": "bri-0795-19d3c2691629",
+    "row_index": 795,
+    "volume_id": "192692190",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 7 Part 2, Dyeing-Electricity - EB.9",
+    "label": 0,
+    "sha256": "19d3c2691629ee34e9c8b03b68981563ab13865ea52b674707da58406aa010fa",
+    "width": 600,
+    "height": 774,
+    "image_file": "../images/bri-0795-19d3c2691629.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=795",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.8018,
+    0.2938,
+    0.8223,
+    0.4742
+  ],
+  "offsets": [
+    0,
+    806
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

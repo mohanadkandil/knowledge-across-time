@@ -1,0 +1,36 @@
+{
+  "id": "bri-2286-bf2427da4447:region-16:0",
+  "kind": "britannica",
+  "page_id": "bri-2286-bf2427da4447",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+  "text": "_estus._ _City filursas—one kinder and full of friends; recently\naway in the anal fan, and eight beards. Inhabit the far\nand rivers of North America, preying on all kinds of\nfinalize follies, and not fearing even those of its own\nVel. X1. East I.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+  "provenance": {
+    "page_id": "bri-2286-bf2427da4447",
+    "row_index": 2286,
+    "volume_id": "191679019",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+    "label": 0,
+    "sha256": "bf2427da444769a49359f48f9473754cb83b2796c186caccae883280aea98d72",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-2286-bf2427da4447.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+    "manual_seed": false
+  },
+  "region_id": "region-16",
+  "bbox_raw": [
+    0.0391,
+    0.8398,
+    0.4531,
+    0.8992
+  ],
+  "offsets": [
+    0,
+    246
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

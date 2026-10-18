@@ -1,0 +1,54 @@
+{
+  "id": "wiki-34189212-1345396763-790ef6c8482e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Glossary of areas of mathematics",
+  "text": " integers.\n\nAlgebraic statistics\n\nthe use of algebra to advance statistics, although the term is sometimes restricted to label the use of algebraic geometry and commutative algebra in statistics.\n\nAlgebraic topology\n\na branch that uses tools from abstract algebra for topology to study topological spaces.\n\nAlgorithmic number theory\n\nalso known as computational number theory, it is the study of algorithms for performing number theoretic computations.\n\nAnabelian geometry\n\nan area of study based on the theory proposed by Alexander Grothendieck in the 1980s that describes the way a geometric object of an algebraic variety (such as an algebraic fundamental group) can be mapped into another object, without it being an abelian group.\n\nAnalysis\n\nA wide area of mathematics centered on the study of continuous functions and including such topics as differentiation, integration, limits, and series.\n\nAnalytic combinatorics\n\npart of enumerative combinatorics where methods of complex analysis are applied to generating functions.\n\nAnalytic geometry\n\n1. Also known as Cartesian geometry, the study of Euclidean geometry using Cartesian coordinates.\n\n2. Analogue to differential geometry, where differentiable functions are replaced with analytic functions. It is a subarea of both complex analysis and algebraic geometry.\n\nAnalytic number theory\n\nAn area of number theory that applies methods from mathematical analysis to solve problems about integers.\n\nAnalytic theory of L-functions\n\nApplied mathematics\n\na combination of various parts of mathematics that concern a variety of mathematical methods t",
+  "url": "https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics",
+  "revision_id": 1345396763,
+  "article_id": 34189212,
+  "section_path": "shared_text[0:48338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 23287,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "dd6395b5a57fbcbd2e1aa5a221e718328e4f58faa35bf494e8211810e453012f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345396763",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34189212",
+    "revision_id": "1345396763",
+    "retrieved_at": "2026-10-18T12:37:44.432903+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 8338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

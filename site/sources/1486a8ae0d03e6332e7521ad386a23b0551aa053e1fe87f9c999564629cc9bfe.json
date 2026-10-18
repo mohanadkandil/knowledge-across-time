@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23824686-1248309706-1d7a3196a24e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Alkali basalt",
+  "text": "continent, with prominent examples being the Rio Grande Rift (USA), the East African Rift and the Pali-Aike volcanic field.\n\nThe results from the gamma ray spectrometer on Venera 8 on Venus suggest it landed on alkali basalt.",
+  "url": "https://en.wikipedia.org/wiki/Alkali_basalt",
+  "revision_id": 1248309706,
+  "article_id": 23824686,
+  "section_path": "shared_text[0:1665]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1665
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 47704,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "0a918604d4f4342d4a19b2aa63a790597a1f8e3a27202bae8bd9a43d62dc750b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1248309706",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23824686",
+    "revision_id": "1248309706",
+    "retrieved_at": "2026-10-18T12:41:13.255722+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1665,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

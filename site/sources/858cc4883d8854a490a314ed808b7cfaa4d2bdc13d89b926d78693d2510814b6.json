@@ -1,0 +1,44 @@
+{
+  "id": "wiki-60748911-1299722214-f6c3c1137e25",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Swedish Levant Company",
+  "text": "Levantine trade. This effort, however, failed; the company charter was officially revoked in 1756.",
+  "url": "https://en.wikipedia.org/wiki/Swedish_Levant_Company",
+  "revision_id": 1299722214,
+  "article_id": 60748911,
+  "section_path": "shared_text[0:2978]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    2978
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 106546,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "fa036dafda49ab1c01ea45f7eba0c1e71285811b041281a31759261117524847",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1299722214",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "60748911",
+    "revision_id": "1299722214",
+    "retrieved_at": "2026-10-18T12:22:52.330988+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2978,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

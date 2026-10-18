@@ -1,0 +1,44 @@
+{
+  "id": "wiki-67255135-1276063823-e7f7090de371",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "St Mary's in the Wood Church, Morley",
+  "text": "gation moved to the Sunday School building, which was then renamed as the church. The church sat derelict until 2010, when a fire destroyed large parts of the church, leaving only the spire and burnt out parts of the former building remaining.\n\nIn 2023, Leeds City Council purchased the former Sunday School building, then known as the church, for use as a \"learning and skills centre\" operated by the Luminate Education Group, as part of a wider development scheme known as Morley Town Deal, with funding from the government's Town's Fund.\n\nThe congregation held their final service in the former Sunday School in September 2023, and as of 2025 are meeting for worship in the Wesley Room of Morley Central Methodist Church.\n\nThe graveyard includes many grade II listed memorials, dating from 1667 to 1740 and including the Scatcherd Mausoleum, grave slabs and chest tombs.",
+  "url": "https://en.wikipedia.org/wiki/St_Mary%27s_in_the_Wood_Church,_Morley",
+  "revision_id": 1276063823,
+  "article_id": 67255135,
+  "section_path": "shared_text[0:2313]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2313
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 230190,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "c57e04f59cc67f44c5d4fefde328ddafb0c39f8b527c2735ffbafaff074882a8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1276063823",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "67255135",
+    "revision_id": "1276063823",
+    "retrieved_at": "2026-10-18T12:36:54.916855+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2313,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

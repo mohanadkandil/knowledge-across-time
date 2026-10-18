@@ -1,0 +1,36 @@
+{
+  "id": "bri-0494-1a757f9cb1e5:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0494-1a757f9cb1e5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "text": "22. An heir of entail has full power over the entail- estate, except in so far as he is expressly fettered; and an estatalise en an unaware central upon pro- party, and a frequent cause trading people, they are _strictissimi juris_ s so that no prohibition or irilarities are to be inferred by implication. By 16 Geno II: e. r.t. heirs of entail the entities (notwithstanding any are striction in the deed of entail) toprove their estates by gratuiting bases, building farm houses, drawing, are closing, and coaching under certain limitations, and to claim repayment of three-fourths of the expense from the next time of entails. \"This may extend to all tail-ize, whether more prior or posterior on the 1485.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+  "provenance": {
+    "page_id": "bri-0494-1a757f9cb1e5",
+    "row_index": 494,
+    "volume_id": "192984257",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+    "label": 0,
+    "sha256": "1a757f9cb1e56f46b1937b849db98e86309900575fbe0a9f92cfcd391ec7f8bc",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0494-1a757f9cb1e5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1191,
+    0.3164,
+    0.5039,
+    0.4875
+  ],
+  "offsets": [
+    0,
+    708
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

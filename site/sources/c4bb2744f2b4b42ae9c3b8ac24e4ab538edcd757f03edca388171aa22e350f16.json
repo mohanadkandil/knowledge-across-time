@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23401911-1274219794-90e97dbe476e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Walter Ruddiman",
+  "text": "Walter Ruddiman (1719 – 6 June 1781) was a Scottish printer, publisher and newspaper proprietor based in Edinburgh. Born in Alvah, near Banff, in the North-East of Scotland, he was the youngest son of the farmer James Ruddiman (c. 1680 – c. 1739) and nephew of the printer, scholar and librarian Thomas Ruddiman (1674–1757) whose business was also based in Edinburgh. Walter Ruddiman moved to Edinburgh sometime shortly after 1745 and was eventually admitted as a burgess of the city on 11 September 1754. Around the same time he also married Janet Bradefute with whom he had four children, Thomas, John, Walter and Janet.\n\nRuddiman's most important publishing venture was his Weekly Magazine, established (through its first issue) on 7 July 1768. It was a weekly broadsheet which commercially described itself as a digest of \"all the Magazines, Reviews, Newspapers, &c. published in Great Britain being a Register of the Writings and Transactions of the Times\"; a description that allowed Ruddiman to avoid the stamp duty carried at that time by newspapers but not by literary periodicals. The magazine was a great success in Edinburgh and further afield with a circulation of around 3000 copies per week throughout the 1770s. Ruddiman's eldest son, Thomas (1755–1825) became a partner in April 1772.\n\nBetween 1771 and 1774 the Weekly Magazine notably carried new poetry by the young poet Robert Fergusson and the popular reaction to his work, especially that in Scots, prompted Ruddiman and his son to publish the first general edition of Fergusson's writing, Poems by Robert Fergusson, which appea",
+  "url": "https://en.wikipedia.org/wiki/Walter_Ruddiman",
+  "revision_id": 1274219794,
+  "article_id": 23401911,
+  "section_path": "shared_text[0:2486]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5c6b3bb8605cc8daf8d478900d8ecc3d7bcdc37dfac7f576984c1f1cc364574d",
+    "source_row_idx": 194986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_3.parquet",
+    "text_sha256": "839d5b57da8ec7b30d43a4dc7151aa896e4bb6828c9e050caa63339e2892d23c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1274219794",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23401911",
+    "revision_id": "1274219794",
+    "retrieved_at": "2026-10-18T12:21:34.092961+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2486,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

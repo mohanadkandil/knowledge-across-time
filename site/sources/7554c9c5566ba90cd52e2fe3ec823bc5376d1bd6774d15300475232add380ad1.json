@@ -1,0 +1,44 @@
+{
+  "id": "wiki-292700-1336742505-e9814b9b9dcb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Clay (disambiguation)",
+  "text": "Clay is a material primarily composed of a grouping of clay minerals, and can be used as an art medium.\n\nClay may also refer to:\n\nClay, Alabama, a city\n\nClay, California, a census-designated place\n\nClay, Kentucky, a home rule-class city\n\nClay, Missouri, an unincorporated community\n\nClay, New York, a town\n\nClay, Ohio, an unincorporated community\n\nClay, Texas, a census-designated place\n\nClay, West Virginia, a town\n\nClay, Wisconsin, a ghost town\n\nClay Center (disambiguation)\n\nClay County (disambiguation)\n\nClay Township (disambiguation)\n\nMount Clay, a peak in New Hampshire\n\nClay, a townland in County Armagh, Northern Ireland\n\nClay, a townland in County Down, Northern Ireland\n\nClay, a townland in County Fermanagh, Northern Ireland\n\nClay Island, Nunavut, Canada\n\nClay (name), a list of people and fictional characters with the given name, surname or nickname\n\nClay (1965 film), an Australian film\n\nClay (2008 film), based on the novel by David Almond\n\nClay (Clowns Laughing At You), a hacker group in Who Am I\n\nClay (novel), by David Almond\n\n\"Clay\" (short story), by James Joyce\n\n\"Clay\", a song by Grace VanderWaal from Perfectly Imperfect\n\nClay Records, a record label\n\n\"Clay\", a song by Goldfrapp from Tales of Us\n\n\"Clay\", a song by Atmosphere\n\n\"Clay\", a song by Stand Atlantic from Skinny Dipping\n\nClay (musical), a 2008 hip hop musical by Matt Sax\n\n\"Clay\", an episode of the television series Teletubbies\n\nModelling clay\n\nClay (industrial plasticine)\n\nClay Mathematics Institute, a private, non-profit foundation, based in Providence, Rhode Island\n\nClay moths, several relatively unrelated sp",
+  "url": "https://en.wikipedia.org/wiki/Clay_(disambiguation)",
+  "revision_id": 1336742505,
+  "article_id": 292700,
+  "section_path": "shared_text[0:2023]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 80224,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "403c9ce36ecdc7ec30754be0b4cb6a0621923387b43cea54691e153d4249bbc7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336742505",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "292700",
+    "revision_id": "1336742505",
+    "retrieved_at": "2026-10-18T12:35:21.115526+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2023,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

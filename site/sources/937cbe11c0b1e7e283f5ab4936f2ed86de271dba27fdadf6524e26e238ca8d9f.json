@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2246507-1334165630-1624ede0e027",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Longbow (disambiguation)",
+  "text": "A longbow is an archery weapon that uses elasticity to propel arrows.\n\nLongbow may also refer to:\n\nEnglish longbow, a powerful longbow used by the medieval English and Welsh\n\nAH-64D Apache Longbow, an attack helicopter\n\nAN/APG-78 Longbow, a fire-control radar used by the Apache Longbow\n\nAGM-114L Longbow Hellfire, an American air and surface-launched missile\n\nWS-121B Longbow, an American air-to-ground missile project of the 1960s\n\nLongbow (ALBM), an American air-launched ballistic missile project of the 1970s\n\nDakota Longbow T-76, a sniper rifle\n\nLongbow Games, a computer game company\n\nLongbow (computer game), a series of combat flight simulator computer games\n\nLongbow bomber, a fictional spaceship from the Wing Commander series of computer games\n\nLongbow Motorcar Company, a British electric car company",
+  "url": "https://en.wikipedia.org/wiki/Longbow_(disambiguation)",
+  "revision_id": 1334165630,
+  "article_id": 2246507,
+  "section_path": "shared_text[0:813]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    813
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 93913,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "27cbe829e8731cebd9d374f829da21209640cdbe8b6385c4bac41f88459ac370",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334165630",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2246507",
+    "revision_id": "1334165630",
+    "retrieved_at": "2026-10-18T12:41:25.482899+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 813,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

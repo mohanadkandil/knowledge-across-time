@@ -1,0 +1,44 @@
+{
+  "id": "wiki-40333401-1137676329-6d8e9661a404",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Listed buildings in Cheshire",
+  "text": "ings in Lea Newbold\n\nListed buildings in Ledsham, Cheshire\n\nListed buildings in Little Bollington\n\nListed buildings in Little Budworth\n\nListed buildings in Little Leigh\n\nListed buildings in Lostock Gralam\n\nListed buildings in Lower Kinnerton\n\nListed buildings in Lower Withington\n\nListed buildings in Lyme Handley\n\nListed buildings in Lymm\n\nListed buildings in Macclesfield\n\nListed buildings in Macclesfield Forest and Wildboarclough\n\nListed buildings of Malpas, Cheshire\n\nListed buildings in Manley, Cheshire\n\nListed buildings in Marbury cum Quoisley\n\nListed buildings in Marlston-cum-Lache\n\nListed buildings in Marston, Cheshire\n\nListed buildings in Marthall\n\nListed buildings in Marton, Cheshire\n\nListed buildings in Mere, Cheshire\n\nListed buildings in Mickle Trafford\n\nListed buildings in Middlewich\n\nListed buildings in Millington, Cheshire\n\nListed buildings in Minshull Vernon\n\nListed buildings in Mobberley\n\nListed buildings in Mollington, Cheshire\n\nListed buildings in Moreton cum Alcumlow\n\nListed buildings in Moston, Cheshire East\n\nListed buildings in Mottram St Andrew\n\nListed buildings in Mouldsworth\n\nListed buildings in Moulton, Cheshire\n\nListed buildings in Nantwich\n\nListed buildings in Neston\n\nListed buildings in Nether Alderley\n\nListed buildings in Nether Peover\n\nListed buildings in Newbold Astbury\n\nListed buildings in Newhall, Cheshire\n\nListed buildings in Newton-by-Tattenhall\n\nListed buildings in Norbury, Cheshire\n\nListed buildings in Norley\n\nListed buildings in North Rode\n\nListed buildings in Northwich\n\nListed buildings in Oakmere\n\nListed buildings in Odd Rode\n\nListed bui",
+  "url": "https://en.wikipedia.org/wiki/Listed_buildings_in_Cheshire",
+  "revision_id": 1137676329,
+  "article_id": 40333401,
+  "section_path": "shared_text[0:10761]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 247278,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "a67800ecb864c518292a97a36483fffd1b5e23a1faa9ed6c42727b6521473fa2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1137676329",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "40333401",
+    "revision_id": "1137676329",
+    "retrieved_at": "2026-10-18T12:39:46.286077+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10761,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

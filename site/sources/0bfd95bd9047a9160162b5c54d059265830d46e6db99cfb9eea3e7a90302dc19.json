@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": "51 He refges his office, which is given to the quen-dowager.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0596,
+    0.2359,
+    0.125,
+    0.3211
+  ],
+  "offsets": [
+    0,
+    60
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

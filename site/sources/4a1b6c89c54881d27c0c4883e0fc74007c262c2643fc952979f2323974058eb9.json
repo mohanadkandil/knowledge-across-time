@@ -1,0 +1,36 @@
+{
+  "id": "bri-0764-77b1fdd53710:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0764-77b1fdd53710",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+  "text": "Ice. A permanent zone of ice surrounds each pole, the breadth of which varies with the seasons. On the west side of the Atlantic, the extreme point of open sea, in winter, is found on the coast of Greenland at Hartford 65% or 67¢; in the longitude of the or 6° east, the sea remains open to lat. \"75\" or 79». In summer navigators have penetrated along the margin of Dalha's Bay as high as 77°, on the coast of Spitz-berger to 81', and a Behring's Strait to 71\". In the southern hemisphere the utmost point to which Cook was able to penetrate war 71 h anummer but navigation weary difficult, beyond the parallel of 60°; floating ice overspread the sea nearly as far as 50', and detached iceberg are carried by currents in both hemispheres as low as40°. (Cook _Foggers_ Scorbsy), L 292.) In a general point of view, the ice-bound seas and lands are nearly continuously with the arctic circle in the north hemisphere, and with the parallel of 60° in the south. In the one case they occupy about one wealth, and in the other about one smooth of the hemisphere.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+  "provenance": {
+    "page_id": "bri-0764-77b1fdd53710",
+    "row_index": 764,
+    "volume_id": "192547787",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+    "label": 0,
+    "sha256": "77b1fdd53710167a89c29ecf566920a6912a5b4a6af00ef6f54b522c995d327b",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0764-77b1fdd53710.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0693,
+    0.3195,
+    0.4883,
+    0.5992
+  ],
+  "offsets": [
+    0,
+    1056
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-980831-1342372294-0e1332af9361",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mental abacus",
+  "text": "The abacus system of mental calculation is a system where users mentally visualize an abacus to carry out arithmetical calculations. No physical abacus is used; only the answers are written down. Calculations can be made at great speed in this way. For example, in the Flash Anzan event at the All Japan Soroban Championship, champion Takeo Sasano was able to add fifteen three-digit numbers in just 1.7 seconds.\n\nThis system is being propagated in China, Singapore, South Korea, Thailand, Malaysia, and Japan. Mental calculation is said to improve mental capability, calculation speed, memory power, and concentration power.\n\nMany veteran and prolific abacus users in China, Japan, South Korea, and others who use the abacus daily, naturally tend to not use the abacus any more, but perform calculations by visualizing the abacus. This was verified when the right brain of visualisers showed heightened EEG activity when calculating, compared with others using an actual abacus to perform calculations.\n\nThe abacus can be used routinely to perform addition, subtraction, multiplication, and division; it can also be used to extract square and cube roots.",
+  "url": "https://en.wikipedia.org/wiki/Mental_abacus",
+  "revision_id": 1342372294,
+  "article_id": 980831,
+  "section_path": "shared_text[0:1155]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1155
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 83406,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "80b2430010d2dab4bf69828b2ab531d3f5f756355dcc388701b46e4062a7c411",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1342372294",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "980831",
+    "revision_id": "1342372294",
+    "retrieved_at": "2026-10-18T12:36:56.896743+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1155,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

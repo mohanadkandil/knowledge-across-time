@@ -1,0 +1,272 @@
+{
+  "checked_at": "2026-10-18T12:19:24.280012+00:00",
+  "configuration_identity": "045f514d0c9c53fc3a28cdb4ce995f28360ae4cd165fd60942efd644523ef6ee",
+  "stack": {
+    "agent": {
+      "required": "Nemotron 3.5 Super VL",
+      "configured": true,
+      "model": "nvidia/Nemotron-3.5-Super-VL",
+      "live_verified": true,
+      "verification": "smoke_call_succeeded"
+    },
+    "parse": {
+      "required": "Nemotron Parse 3.5",
+      "configured": true,
+      "model": "nvidia/nemotron-3.5-parse",
+      "live_verified": true,
+      "verification": "smoke_call_succeeded"
+    },
+    "embed": {
+      "required": "Nemotron Embed VL",
+      "configured": true,
+      "model": "nvidia/llama-nemotron-embed-vl-1b-v2",
+      "live_verified": true,
+      "verification": "smoke_call_succeeded"
+    },
+    "rerank": {
+      "required": "Nemotron Rerank VL",
+      "configured": true,
+      "model": "nvidia/llama-nemotron-rerank-vl-1b-v2",
+      "live_verified": true,
+      "verification": "smoke_call_succeeded"
+    },
+    "hermes": {
+      "required": "Hermes Agent",
+      "configured": true,
+      "live_verified": true,
+      "verification": "smoke_call_succeeded"
+    },
+    "vector_database": {
+      "required": "LanceDB",
+      "configured": true,
+      "live_verified": false,
+      "verification": "not_tested"
+    }
+  },
+  "live_requested": true,
+  "inference_requested": true,
+  "checks": {
+    "local_store": {
+      "status": "ok",
+      "result": {
+        "sources": {
+          "sources": {
+            "britannica": 53,
+            "wikipedia": 65
+          },
+          "embedding_identity": {
+            "dimensions": 2048,
+            "model": "nvidia/llama-nemotron-embed-vl-1b-v2"
+          }
+        },
+        "lancedb_version": "0.40.0"
+      }
+    },
+    "token_factory_catalog": {
+      "status": "ok",
+      "result": {
+        "configured_model_present": true,
+        "models_available": 28,
+        "inference_verified": false
+      }
+    },
+    "hermes_import": {
+      "status": "ok",
+      "result": {
+        "importable": true,
+        "inference_verified": false
+      }
+    },
+    "shared_wikipedia": {
+      "status": "ok",
+      "result": {
+        "ready": {
+          "status": "ready",
+          "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+          "production": true,
+          "validated_at": "2026-10-16T22:01:28.302341+00:00",
+          "raw_rows": 7597149,
+          "canonical_articles": 7182883,
+          "source_shards": 86,
+          "canonical_version": 2045,
+          "fts_index": "search_text_idx",
+          "fts_indexed_rows": 7182883,
+          "fts_unindexed_rows": 0,
+          "manifest_sha256": "715fd9dbdd25c98f098bcc412c780cc58a90de228a2cbe4c5a1f693bd87267e2",
+          "retrieval_signature": "2d3f28c5cf7a47f97f3ce0321ff489e1e804862cd8dedf727542684e0e1bb713"
+        },
+        "corpus": {
+          "dataset": "wikimedia/structured-wikipedia",
+          "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+          "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+          "language": "en",
+          "canonical_policy": "latest-numeric-revision-source-coordinate-v1",
+          "retrieval": "lexical_bm25",
+          "search_column": "search_text",
+          "lexical_strategy": "native-bm25-title-repeated-4-v1",
+          "license": {
+            "name": "Creative Commons Attribution-ShareAlike 4.0 International",
+            "spdx": "CC-BY-SA-4.0",
+            "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "attribution": "Wikipedia contributors",
+            "notice": "Article text is extracted from the cited snapshot; excerpts and pagination change its presentation."
+          },
+          "verification": {
+            "production": true,
+            "validated_at": "2026-10-16T22:01:28.302341+00:00",
+            "raw_rows": 7597149,
+            "canonical_articles": 7182883,
+            "source_shards": 86,
+            "canonical_version": 2045,
+            "fts_index": "search_text_idx",
+            "fts_indexed_rows": 7182883,
+            "fts_unindexed_rows": 0,
+            "manifest_sha256": "715fd9dbdd25c98f098bcc412c780cc58a90de228a2cbe4c5a1f693bd87267e2",
+            "retrieval_signature": "2d3f28c5cf7a47f97f3ce0321ff489e1e804862cd8dedf727542684e0e1bb713"
+          },
+          "limits": {
+            "query_chars": 512,
+            "query_words": 64,
+            "top_k": 100,
+            "excerpt_chars": 2000,
+            "article_page_chars": 20000,
+            "request_body_bytes": 8192,
+            "query_timeout_seconds": 10.0,
+            "concurrent_reads": 4,
+            "queued_reads": 16
+          }
+        },
+        "semantic_models_verified": false
+      }
+    },
+    "retrieval_service_ready": {
+      "status": "ok",
+      "result": {
+        "readiness": {
+          "status": "ready",
+          "models": [
+            {
+              "id": "nvidia/llama-nemotron-embed-vl-1b-v2",
+              "revision": "582e3bf72aee355e3c59ed89de53543c5b0657ee",
+              "role": "embedder",
+              "dimensions": 2048
+            },
+            {
+              "id": "nvidia/llama-nemotron-rerank-vl-1b-v2",
+              "revision": "b8a9987b05b75db5ad949c825cbcbf6eb7c48b5a",
+              "role": "reranker"
+            }
+          ],
+          "runtime": {
+            "backend": "torch_cuda",
+            "production": true,
+            "gpu": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+            "gpu_memory_bytes": 101973819392,
+            "compute_capability": [
+              12,
+              0
+            ],
+            "compiled_arches": [
+              "sm_70",
+              "sm_75",
+              "sm_80",
+              "sm_86",
+              "sm_90",
+              "sm_100",
+              "sm_120"
+            ],
+            "torch": "2.8.0+cu128",
+            "cuda": "12.8",
+            "transformers": "4.56.2",
+            "precision": "bfloat16",
+            "attention": "sdpa",
+            "microbatch_size": 1,
+            "weights_verified": true,
+            "warmup_modalities": [
+              "query_text",
+              "document_text",
+              "image",
+              "image_text"
+            ]
+          }
+        },
+        "note": "Inspect production/GPU/model-revision fields; HTTP readiness alone is not our inference receipt."
+      }
+    },
+    "agent_inference": {
+      "status": "ok",
+      "result": {
+        "response": "READY"
+      }
+    },
+    "parse_inference": {
+      "status": "ok",
+      "result": {
+        "characters": 6338
+      }
+    },
+    "embed_inference": {
+      "status": "ok",
+      "result": {
+        "passages": 2,
+        "dimensions": 2048,
+        "query_dimensions": 2048,
+        "image_dimensions": 2048
+      }
+    },
+    "rerank_inference": {
+      "status": "ok",
+      "result": [
+        {
+          "index": 0,
+          "score": -5.22797966003418
+        },
+        {
+          "index": 1,
+          "score": -6.704995632171631
+        }
+      ]
+    },
+    "hermes_inference": {
+      "status": "ok",
+      "result": {
+        "framework": "hermes",
+        "commit": "354ad3d48786f2978c49be88f28c13d78fa0b6e0",
+        "tool_calls": 2
+      }
+    }
+  },
+  "recorded_execution_evidence": {
+    "roles": {
+      "agent": {
+        "successful_calls": 112,
+        "model": "nvidia/Nemotron-3.5-Super-VL"
+      },
+      "parse": {
+        "successful_calls": 100,
+        "model": "nvidia/nemotron-3.5-parse"
+      },
+      "embed": {
+        "successful_calls": 29,
+        "model": "nvidia/llama-nemotron-embed-vl-1b-v2"
+      },
+      "rerank": {
+        "successful_calls": 3,
+        "model": "nvidia/llama-nemotron-rerank-vl-1b-v2"
+      },
+      "hermes": {
+        "completed_question_runs": 0,
+        "commit_expected": "354ad3d48786f2978c49be88f28c13d78fa0b6e0"
+      },
+      "vector_database": {
+        "embedding_identity": {
+          "dimensions": 2048,
+          "model": "nvidia/llama-nemotron-embed-vl-1b-v2"
+        }
+      }
+    },
+    "all_required_traces_present": false,
+    "note": "Successful recorded calls establish execution, not independent proof of the remote model's identity or answer quality."
+  },
+  "note": "Configuration and catalog presence are not live inference verification. Smoke checks are not reviewed agent QA cases. Probe documents are artificial readiness fixtures, never corpus evidence or evaluation cases."
+}

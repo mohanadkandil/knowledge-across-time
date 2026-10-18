@@ -1,0 +1,36 @@
+{
+  "id": "bri-0654-ec99c922eee3:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0654-ec99c922eee3",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+  "text": "The _fifth division_ contains the Code of Criminal Law, administered by the _Hing-pos_, or criminal tribu, mal, which supplies the judges or possess to all the other departments. It consists of eleven sections. The first, entitled _robbery and theft_, wards punishments for every species of robbers or that that could well be devised, extorting property by threats; obtaining it under false pretences; kidnapping and selling free ones to alaves; distinct graves, kc. The second relates to _humainic_, and may be considered as a most singular, if not successful, attempt to discriminate the exact proportion of guills, for the same distance, in different persons, or different degrees of offence in the same person, according to the situation and circumstances of the offensive parties. In every case of prerecorded banacide, the original contriver is condemned to die by decapitation; the accessories by strungation, accessories to the intention, but not to the fact, nor amisable with one hundred blows, and perpetualanishment. Those who murder, shall intent to rob, are behanked, without distinction between principals and accessories. Parricide subjects all parties to suffer death by a slow and painful exception, the attempt to commit particular is death by description. Elares attempting to murder, or actually murdering their masters, weer Idaho to the same punishment. A husband may kill his wife, if caught in the act of solitary, and also her paramour; and a thief may be put to death. If taken in the act of robbing a house; but in either case, it would be murders, if put to death after b",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+  "provenance": {
+    "page_id": "bri-0654-ec99c922eee3",
+    "row_index": 654,
+    "volume_id": "192016360",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 3 - EB.12",
+    "label": 0,
+    "sha256": "ec99c922eee303aef57a84b0f045fda58f6e22139e9dbb3956ebb01e61369b10",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0654-ec99c922eee3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=654",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0918,
+    0.4742,
+    0.4932,
+    0.9406
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

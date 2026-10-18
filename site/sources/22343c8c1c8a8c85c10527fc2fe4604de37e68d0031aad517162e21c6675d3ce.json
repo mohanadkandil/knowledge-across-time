@@ -1,0 +1,36 @@
+{
+  "id": "bri-2092-16d9b9fb913a:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2092-16d9b9fb913a",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+  "text": "In the year 1703; positions were prefected to opital Americaments for the abolition of this human nullor, which we also give a lasting effect of the philanthropy of the nations, but, not particularly for the cause of erosion, if the different that many of the names obtained to those positions had been collected by means such much thousands. The discovery perhaps, would never have been male, had not the initiating epithetis indeminiantly largely upon the five holders provoked their men to watch with circumnigious over the conflict of their opponents. The consequence war, this inflections of ourint dealing on the past in the politichers were excited in the breath of many who, though they ardenity wilted well to the case, chefs not to add their names to those of febelsbys under age of of patients who knew not what they were falsifying. Let the right of the African the mainstream with cotton and minerals, that serves their advocates ripple that the cause of humanity requires the support of artistic Abidora flyers, in which the silence of we man are regulated by the capice of mother, is a fate demonrifully reconciled with the obvious plan of the moral governments of the world, or degraded to mental its calites of the flew, and shown, both in his way and in his matter, compulsion to wie alamit informomatisible. Let thefe trushbe be fat in a proper light by those who have doubled feet them exemplified, and they will clearly have their full effect on the hands of a generous, and, we truth, not an imipious people (x). The trade will be generally abolished ; pains will be taken",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+  "provenance": {
+    "page_id": "bri-2092-16d9b9fb913a",
+    "row_index": 2092,
+    "volume_id": "193108316",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+    "label": 0,
+    "sha256": "16d9b9fb913a5c3dbdb3b427deb2c90caa1a4901fd720e5bbe59825d25f92fb5",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-2092-16d9b9fb913a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.4902,
+    0.4625,
+    0.8652,
+    0.8508
+  ],
+  "offsets": [
+    0,
+    1594
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33770660-1353284089-f6f006646f9e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bhe v Magistrate, Khayelitsha",
+  "text": "o the following, section 1 of the Intestate Succession Act applied to the intestate deceased estates that would formerly have been governed by section 23 of the Act. In the application of sections 1(1)(c)(i) and 1(4)(f) of the Intestate Succession Act to the estate of a deceased person who was survived by more than one spouse,\n\na child's share in relation to the intestate estate of the deceased had to be calculated by dividing the monetary value of the estate by a number equal to the number of the children of the deceased who have either survived or predeceased such deceased person but are survived by their descendants, plus the number of spouses who have survived such deceased;\n\neach surviving spouse inherited a child's share of the intestate estate or so much of the intestate estate as did not exceed in value the amount fixed from time to time by the Minister for Justice and Constitutional Development by notice in the Gazette, whichever was the greater; and\n\nnotwithstanding the provisions of 2. above, where the assets in the estate were not sufficient to provide each spouse with the amount fixed by the Minister, the estate had to be equally divided between the surviving spouses.\n\nIn terms of section 172(1)(b) of the Constitution, the court held that the transfer of ownership prior to the date of this order of any property pursuant to the distribution of an estate in terms of s 23 of the Act and its regulations could not be invalidated unless it was established that, when such transfer was taken, the transferee was on notice that the property in question was subject to a l",
+  "url": "https://en.wikipedia.org/wiki/Bhe_v_Magistrate,_Khayelitsha",
+  "revision_id": 1353284089,
+  "article_id": 33770660,
+  "section_path": "shared_text[0:13621]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7b629e6f7f330f34765c0c941e787f1d06f1caaaf060583a9284690086784b7d",
+    "source_row_idx": 18974,
+    "source_shard": "enwiki/data/enwiki_namespace_0_79.parquet",
+    "text_sha256": "6e2c62de4112d68796784c193ea416f2a7d8e84e929452a43ef3f0aed1341a4f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353284089",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33770660",
+    "revision_id": "1353284089",
+    "retrieved_at": "2026-10-18T12:23:18.638771+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13621,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

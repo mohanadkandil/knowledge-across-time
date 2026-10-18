@@ -1,0 +1,36 @@
+{
+  "id": "bri-1137-484b60a07551:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-1137-484b60a07551",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+  "text": "The active volcano of Tenerife are considered by Humboldt to be merely literal eruptions of the great volcano. The only one recently trip operation is the volcano of Caherra, situated on the west side of the Peak. After a long silence, I began its discharge on the night of the ski of Alton 1758. A hollow and cilled sound was first heard, like that of distant lumber, then a loufer roise, like that of matter in violent chultancy sites which another sound, which resembled a great discharge artillery. A short interval it inspected, till the required subsequent began to ascend. Four months were opened, of which the two highest threw up only red-hat stones. The third period out later, has slowly and it is fortunately surrounded by a rumparts of rocks, the internal between which and the volcano must be filled up, before the stream could reach the cultivated fields.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+  "provenance": {
+    "page_id": "bri-1137-484b60a07551",
+    "row_index": 1137,
+    "volume_id": "193109112",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+    "label": 0,
+    "sha256": "484b60a075513f3c2fe43b48125173bb97294d324e2a391477b3043e21f46956",
+    "width": 600,
+    "height": 775,
+    "image_file": "../images/bri-1137-484b60a07551.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.5166,
+    0.5422,
+    0.8818,
+    0.7742
+  ],
+  "offsets": [
+    0,
+    870
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

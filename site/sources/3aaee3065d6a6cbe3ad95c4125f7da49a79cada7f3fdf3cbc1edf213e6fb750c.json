@@ -1,0 +1,36 @@
+{
+  "id": "bri-2566-97b13565fdc3:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2566-97b13565fdc3",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+  "text": "ALQUITOU, or Acustroo, is a sort of lead ore, which when broken, looks militancy. It is one by the potters to give a warmish to their works, and there is called _potterave_. He met with in Cornwally. The game mix a small portion of manganese with the alquifou, and then the varnish or glazing on the were wars in a kabakh bine.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+  "provenance": {
+    "page_id": "bri-2566-97b13565fdc3",
+    "row_index": 2566,
+    "volume_id": "192547781",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+    "label": 0,
+    "sha256": "97b13565fdc3129f0c09f0566406d4f70d1b65ae004d1ad31989c042d748b21d",
+    "width": 600,
+    "height": 756,
+    "image_file": "../images/bri-2566-97b13565fdc3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1025,
+    0.2117,
+    0.4756,
+    0.3055
+  ],
+  "offsets": [
+    0,
+    327
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

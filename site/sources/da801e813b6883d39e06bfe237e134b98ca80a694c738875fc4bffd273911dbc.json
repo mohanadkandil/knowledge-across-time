@@ -1,0 +1,36 @@
+{
+  "id": "bri-0107-3570cc46e9ae:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-0107-3570cc46e9ae",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+  "text": "The educational years is divided into three areas, Michalmas, Nifnya and Trinity). Those of Michalmas and Hilary are fol-loved each by a short term that they live by a section of three months. There are kept during the undergraduate course, and by residence, as at Oxford and Cambridge, but by answered at the institution that will be the purpose of the beginning of each term. Students of divinity, law, and medicine are required to student the institution of the purposes, the beginning of each term. Students of divinity, law, and medicine are required to student the practice, and therefore they either in the college or in the city. The undergraduate course consists of a four years, in each of which the instructors are distinguished by the titles of junior and senior graduate. After taking his first degree, the student become successive via junior middle, and some Bachelor when he admitted to the degree of master of a x. A bachelor of divinity must be M.A. of seven years’ standing, a teacher divinity must be B.D. of five, or a master of art of twelve a bachelor of laws must be of six years teaching.” A doctor if was one to it. L.B. of four years’ standing, or a master of art of six. A bachelor in medicine must be B.A. of five years’, or a master of art of several years starting. A bachelor in media must compose and perform a soloing music about music before the university, a doctor in music must be Mrs.D. of five years, and performs a similar excective. The fees for B.A. are L.T. Y.), for R.A. L.a. to R.A. to G.d. for B.D. L13. Ios., for D.D. L28, for L.B. B.T.1. 10s., for L.I",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+  "provenance": {
+    "page_id": "bri-0107-3570cc46e9ae",
+    "row_index": 107,
+    "volume_id": "193819045",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+    "label": 0,
+    "sha256": "3570cc46e9ae7b4e2457fd195c7ce9cfa8598bd3ebab3c8e9c4489066acfbcda",
+    "width": 600,
+    "height": 869,
+    "image_file": "../images/bri-0107-3570cc46e9ae.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.1484,
+    0.5133,
+    0.5742,
+    0.7766
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

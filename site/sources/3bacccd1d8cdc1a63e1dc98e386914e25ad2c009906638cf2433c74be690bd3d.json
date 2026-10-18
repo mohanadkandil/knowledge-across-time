@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3610826-1314005016-c780cf570185",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scalene",
+  "text": "Scalene may refer to:\n\nA scalene triangle, one in which no two sides or angles are the same.\n\nA scalene ellipsoid, one in which the lengths of all three semi-principal axes are different\n\nScalene muscles of the neck\n\nScalene tubercle, a slight ridge on the first rib prolonged internally into a tubercle",
+  "url": "https://en.wikipedia.org/wiki/Scalene",
+  "revision_id": 1314005016,
+  "article_id": 3610826,
+  "section_path": "shared_text[0:303]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    303
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 118451,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "d4b9e7ce98e1ec9372041c75019ac74e8708cb72410430e35744a04b4c4c948e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1314005016",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3610826",
+    "revision_id": "1314005016",
+    "retrieved_at": "2026-10-18T12:29:58.822247+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 303,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1389140-1343112245-6da5ff99e34a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Electrotherapy",
+  "text": " In the second half of the 19th century the emphasis moved from delivering large shocks to the whole body to more measured doses, the minimum effective.\n\nElectrotherapy equipment has historically included:\n\nThe electric bath for high-voltage static induction\n\nOudin coil, a high-voltage induction coil, in use around 1900\n\nFaradic battery, a device to provide localised electric stimulation\n\nPulvermacher's chain, a wearable electrochemical device mostly used by quacks, in use second half of 19th century\n\nLeyden jars, an early form of capacitor, for storing electricity\n\nElectrostatic generators of various sorts\n\nSome important people in the history of electrotherapy include:\n\nLuigi Galvani, a pioneer of medical electricity\n\nBenjamin Franklin, an early proponent of electrotherapy who made it widely known, but mostly taken up by quacks and charlatans\n\nGolding Bird, mentioned above\n\nCharles Grafton Page\n\nDuchenne de Boulogne\n\nJacques-Arsène d'Arsonval\n\nGeorge Miller Beard\n\nMargaret Cleaves, a promoter of ozone therapy\n\nMany of the forms of electricity used in electrotherapy were named after scientists\n\nJames Graham\n\nFranz Mesmer\n\nIn 1856 Guillaume Duchenne announced that alternating was superior to direct current for electrotherapeutic triggering of muscle contractions. What he called the 'warming effect' of direct currents irritated the skin, since, at voltage strengths needed for muscle contractions, they cause the skin to blister (at the anode) and pit (at the cathode). Furthermore, with DC each contraction required the current to be stopped and restarted. Moreover, alternating",
+  "url": "https://en.wikipedia.org/wiki/Electrotherapy",
+  "revision_id": 1343112245,
+  "article_id": 1389140,
+  "section_path": "shared_text[0:8275]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    7360
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "052a205be6e305039c6f7ed831b88a9bdd01ed15cdeb1236a4b1c8a87610095e",
+    "source_row_idx": 74645,
+    "source_shard": "enwiki/data/enwiki_namespace_0_34.parquet",
+    "text_sha256": "aa6a57458d1726a43b4ed5d95c887a14fc0a5d2163e4a4f527f005ea83f7a628",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343112245",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1389140",
+    "revision_id": "1343112245",
+    "retrieved_at": "2026-10-18T12:28:32.198333+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8275,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

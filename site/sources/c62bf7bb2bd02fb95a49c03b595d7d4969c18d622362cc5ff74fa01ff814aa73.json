@@ -1,0 +1,36 @@
+{
+  "id": "bri-1693-0903c198e683:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-1693-0903c198e683",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+  "text": "The pix is a frung box with them looks, whole boys are effectively kept by the wooden, malier, and compleller of the mint; and in which are deposited, feded up in few general precels, certain pieces taken at London out of every primary as it is called; that is, out of every 15 pounds weight of gold, or 60 pounds weight of flyers, before the fans is deferred to the proportions. And this pix is from time to time, by the king’s command, opened at Weltminiter, in the preference of the land-decendieron, the leads of the countr., the finds commillions of the tradesj, the insites or the fevers of the benches, and the barons of the exhecerty, before whom oral it is made, by a jury and delight impounded and frozen for that purpose, of the collective weights of certain parcels of the feveral prices of gold and silver taken at random from their contained in the pix; after which these parcels being reverently melted, always are then made of the",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+  "provenance": {
+    "page_id": "bri-1693-0903c198e683",
+    "row_index": 1693,
+    "volume_id": "192200900",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 14, MIC-NIC - EB.10",
+    "label": 0,
+    "sha256": "0903c198e683b236afc4609d39b509117a0107601824e2ffe47a0ada06c90c52",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1693-0903c198e683.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1693",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.4688,
+    0.6773,
+    0.8662,
+    0.9141
+  ],
+  "offsets": [
+    0,
+    946
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

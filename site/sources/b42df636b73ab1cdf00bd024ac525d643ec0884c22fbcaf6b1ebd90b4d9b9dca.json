@@ -1,0 +1,44 @@
+{
+  "id": "wiki-56851345-1039716653-cb3ade2b10bc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anaba",
+  "text": "Anaba may refer to:\n\nAnnaba, Algeria\n\nAnaba, Djibouti\n\nAnaba District, Afghanistan",
+  "url": "https://en.wikipedia.org/wiki/Anaba",
+  "revision_id": 1039716653,
+  "article_id": 56851345,
+  "section_path": "shared_text[0:82]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    82
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "57747886e190ebe79770821c662ac789f589a4a8bc95f8c8f0529e040e16b443",
+    "source_row_idx": 114936,
+    "source_shard": "enwiki/data/enwiki_namespace_0_0.parquet",
+    "text_sha256": "5f0e69e325e6f961ae3b970eb08296ba1106745cb9a03c0621ed1b6489d217fc",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1039716653",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "56851345",
+    "revision_id": "1039716653",
+    "retrieved_at": "2026-10-18T12:40:25.278165+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 82,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

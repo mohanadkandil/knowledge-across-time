@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3171165-1294251336-44e9b4841fa9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Quarantine (disambiguation)",
+  "text": "Quarantine is a medical term for the act of keeping an object in enforced isolation for a period of time to limit or prevent the spread of disease or infection.\n\nQuarantine may also refer to:\n\nCordon sanitaire, isolation of a geographic region to prevent transmission of disease beyond the region\n\nIsolation (health care), isolation of infected to prevent transmission of disease\n\nBiocontainment, isolation of medical samples of infected tissues and disease agents\n\nAn alternative term for a naval blockade, particularly associated with the United States' \"quarantine\" of Cuba during the Cuban Missile Crisis of late 1962\n\nA grace period of 40 days during which a widow has the right to remain in her dead husband's home, regardless of the inheritance\n\nQuarantine Speech, a 1937 speech by U.S. President Franklin Delano Roosevelt\n\nCOVID-19 community quarantines in the Philippines, a set of community quarantines during the COVID-19 pandemic in the Philippines\n\nQuarantined (film), a 1970 US television film\n\nQuarantine (1923 film), a 1923 German silent film\n\nQuarantine (1983 film), a 1983 Soviet children's film\n\nQuarantine (2008 film), a 2008 US science fiction horror film\n\nQuarantine 2: Terminal, a 2011 US science fiction horror film, sequel to the 2008 film\n\nQuarantine (2021 film), a 2021 Russian dystopian drama film\n\nQuarantine (Egan novel), a 1992 science fiction novel by Greg Egan\n\nQuarantine (Crace novel), a 1997 novel by Jim Crace\n\nQuarantine (poem), a poem by Eavan Boland about the Irish famine\n\nQuarantine, a 2010 album by GRITS\n\nQuarantine (Laurel Halo album), 2012\n\n\"Quarantine\",",
+  "url": "https://en.wikipedia.org/wiki/Quarantine_(disambiguation)",
+  "revision_id": 1294251336,
+  "article_id": 3171165,
+  "section_path": "shared_text[0:2428]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 59036,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "b128bd1ce01d210fda787fdda0fef33d12f68a4f76b6cafe5d38c857f5b10ebe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1294251336",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3171165",
+    "revision_id": "1294251336",
+    "retrieved_at": "2026-10-18T12:24:06.638999+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2428,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

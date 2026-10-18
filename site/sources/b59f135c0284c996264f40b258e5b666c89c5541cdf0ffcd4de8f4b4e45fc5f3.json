@@ -1,0 +1,44 @@
+{
+  "id": "wiki-20744139-1340813867-b60bf951f5cc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of schools named after Alexander von Humboldt",
+  "text": "eal, Canada\n\nInstituto Alexander Von Humboldt, Barranquilla, Colombia\n\nColegio Alemán Alexander von Humboldt (Mexico City), Mexico\n\nDeutsche Schule Lima Alexander von Humboldt, Peru\n\nColegio Humboldt, Caracas, Venezuela",
+  "url": "https://en.wikipedia.org/wiki/List_of_schools_named_after_Alexander_von_Humboldt",
+  "revision_id": 1340813867,
+  "article_id": 20744139,
+  "section_path": "shared_text[0:1659]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1659
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 19720,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "596a6191c8176e147fc773821c93ab9126eb2d50629ef1d80e160f5dbba84a36",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340813867",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "20744139",
+    "revision_id": "1340813867",
+    "retrieved_at": "2026-10-18T12:31:52.393457+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1659,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

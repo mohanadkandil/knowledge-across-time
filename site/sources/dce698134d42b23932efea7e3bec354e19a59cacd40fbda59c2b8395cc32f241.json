@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5850228-1353554990-ebe9dacc1705",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tara (given name)",
+  "text": "list\n\nTara Lynn Wilson (born 1982), Canadian actress\n\nTara June Winch (born 1983), Australian writer\n\nTara Würth (born 2002), Croatian tennis player\n\nTara Zahra (born 1976), American professor\n\nTara Browne (1945–1966), London socialite\n\nTara Chand (Pakistani politician), Pakistani politician\n\nTara Hong, Cambodian-born American politician\n\nTara Singh Hayer (1936–1998), Sikh Canadian newspaper publisher\n\nTara Singh Malhotra (1885–1967), Sikh political and religious leader\n\nTara Singh Ramgarhia, 18th century Sikh leader\n\nTara Römer (1974–1999), French actor\n\nTara Te Irirangi (1780s – 1852), chief of Ngāi Tai ki Tāmaki tribe\n\nTara (Buddhism), a tantric meditation deity in Tibetan Buddhism, actually the generic name for a set of similar bodhisattvas\n\nTara (Devi), a Hindu goddess and consort of Shiva\n\nTara o' Helium, a princess in the Barsoom novels of Edgar Rice Burroughs\n\nTara Webster, the main character in the Australian teen-oriented television drama Dance Academy\n\nTara, a sword and sorcery heroine in DC Comics' Warlord\n\nTara, an android in Marvel Comics' New Invaders\n\nTara in the film Shrooms\n\nTara, a playable character in Brawl Stars\n\nTara Adams, the main character in the Disney Channel Original Movie Radio Rebel\n\nTara Carpenter in the 2022 film Scream\n\nTara Chambler in the TV series The Walking Dead\n\nTara Desai in the TV series Twisted\n\nTara Duncan, heroine of a series of French novels by Sophie Audouin-Mamikonian\n\nTara Fremont, also called \"Tara, the Jungle Girl\" and \"Too Tall Tara\", a superhero in AC Comics\n\nTara Gregson, a character in United States of Tara\n\nTara King i",
+  "url": "https://en.wikipedia.org/wiki/Tara_(given_name)",
+  "revision_id": 1353554990,
+  "article_id": 5850228,
+  "section_path": "shared_text[0:10978]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    10240
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4ddb308459323163b83c0758c11dbaee347c4ab9275d48b7d8e597f3a291abd4",
+    "source_row_idx": 3571,
+    "source_shard": "enwiki/data/enwiki_namespace_0_71.parquet",
+    "text_sha256": "e18842313c18e1e4a46b66ef20fff4fe49a397734fa651617f49ae78d6fc44df",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353554990",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5850228",
+    "revision_id": "1353554990",
+    "retrieved_at": "2026-10-18T12:38:31.760378+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10978,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2410-19364d85bf49:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-2410-19364d85bf49",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+  "text": "To protect our reckere from the attacks of the eec, my’s horse, they carried long flakes pointed at both ends: that they planted in the earth, laying before them. In the 1th of Zeland VI, 150 of their were in the doses of the town of Herwick, under the article of achter fishery, there were all as the time time eight hundred of arbets flakes in PonteFect calls.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+  "provenance": {
+    "page_id": "bri-2410-19364d85bf49",
+    "row_index": 2410,
+    "volume_id": "192545784",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+    "label": 0,
+    "sha256": "19364d85bf4997e5c78355cbe610b2e5e4479d2093c368e0c0e77cced484f78d",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2410-19364d85bf49.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.4609,
+    0.7828,
+    0.8105,
+    0.8719
+  ],
+  "offsets": [
+    0,
+    362
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

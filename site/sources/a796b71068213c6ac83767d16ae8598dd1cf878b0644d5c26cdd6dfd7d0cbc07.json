@@ -1,0 +1,36 @@
+{
+  "id": "bri-0107-3570cc46e9ae:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0107-3570cc46e9ae",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+  "text": "S<y_0.7844><class_Section-header>\n\n<x_0.1318><y_0.7828>The students are arranged in four Ruarks : I. Nollemen and bas- money, stylish bubbles, and any who are entitled to the degree of B.A. per semester practic. 2. Fellow commences, who are entitled to graduate at the commencement of their fourth or senior solidity or. These two classes pay a high annual stipend, and then at the same table with the fellows in the com- mane hall. 3. Penlovers who constitutes the great body of the students. A States, who have their commencing, and are ex- enquited from annual fees. The number of states is limited to",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+  "provenance": {
+    "page_id": "bri-0107-3570cc46e9ae",
+    "row_index": 107,
+    "volume_id": "193819045",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 21, Surveying-ZYM - EB.15",
+    "label": 0,
+    "sha256": "3570cc46e9ae7b4e2457fd195c7ce9cfa8598bd3ebab3c8e9c4489066acfbcda",
+    "width": 600,
+    "height": 869,
+    "image_file": "../images/bri-0107-3570cc46e9ae.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=107",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0771,
+    0.782,
+    0.5752,
+    0.8734
+  ],
+  "offsets": [
+    0,
+    604
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0494-1a757f9cb1e5:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0494-1a757f9cb1e5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "text": "Hein of entail, the powers and rewrite.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+  "provenance": {
+    "page_id": "bri-0494-1a757f9cb1e5",
+    "row_index": 494,
+    "volume_id": "192984257",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+    "label": 0,
+    "sha256": "1a757f9cb1e56f46b1937b849db98e86309900575fbe0a9f92cfcd391ec7f8bc",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0494-1a757f9cb1e5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=494",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0469,
+    0.3156,
+    0.1064,
+    0.3703
+  ],
+  "offsets": [
+    0,
+    39
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

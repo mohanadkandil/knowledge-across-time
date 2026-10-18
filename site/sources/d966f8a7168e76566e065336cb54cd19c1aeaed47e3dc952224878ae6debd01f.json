@@ -1,0 +1,44 @@
+{
+  "id": "wiki-52956308-1322990969-c8c2d6e56546",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fluxion",
+  "text": "A fluxion is the instantaneous rate of change, or gradient, of a fluent (a time-varying quantity, or function) at a given point. Fluxions were introduced by Isaac Newton to describe his form of a time derivative (a derivative with respect to time). Newton introduced the concept in 1665 and detailed them in his mathematical treatise, Method of Fluxions. Fluxions and fluents made up Newton's early calculus.\n\nIf the fluent y {\\displaystyle y} is defined as y = t 2 {\\displaystyle y=t^{2}} (where t {\\displaystyle t} is time) the fluxion (derivative) at t = 2 {\\displaystyle t=2} is:\n\ny ˙ = Δ y Δ t = (2 + o) 2 − 2 2 (2 + o) − 2 = 4 + 4 o + o 2 − 4 2 + o − 2 = 4 o + o 2 o {\\displaystyle {\\dot {y}}={\\frac {\\Delta y}{\\Delta t}}={\\frac {(2+o)^{2}-2^{2}}{(2+o)-2}}={\\frac {4+4o+o^{2}-4}{2+o-2}}={\\frac {4o+o^{2}}{o}}}\n\nHere o {\\displaystyle o} is an infinitely small amount of time. So, the term o 2 {\\displaystyle o^{2}} is second order infinite small term and according to Newton, we can now ignore o 2 {\\displaystyle o^{2}} because of its second order infinite smallness comparing to first order infinite smallness of o {\\displaystyle o}. So, the final equation gets the form:\n\ny ˙ = Δ y Δ t = 4 o o = 4 {\\displaystyle {\\dot {y}}={\\frac {\\Delta y}{\\Delta t}}={\\frac {4o}{o}}=4}\n\nHe justified the use of o {\\displaystyle o} as a non-zero quantity by stating that fluxions were a consequence of movement by an object.\n\nBishop George Berkeley, a prominent philosopher of the time, denounced Newton's fluxions in his essay The Analyst, published in 1734. Berkeley refused to believe that they were accur",
+  "url": "https://en.wikipedia.org/wiki/Fluxion",
+  "revision_id": 1322990969,
+  "article_id": 52956308,
+  "section_path": "shared_text[0:2348]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 17619,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "19d5d3b02263f595c08c3e339554cf660cfd171bc6cb3999f50c4af40e95afee",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1322990969",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "52956308",
+    "revision_id": "1322990969",
+    "retrieved_at": "2026-10-18T12:22:33.112497+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2348,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

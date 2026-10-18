@@ -1,0 +1,36 @@
+{
+  "id": "bri-0417-c8ee936d8958:region-3:1440",
+  "kind": "britannica",
+  "page_id": "bri-0417-c8ee936d8958",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+  "text": "s which might vie with any of them. The complexion of the men is tawney i but those who go upon the water are much more red than those who live on shore. Some have their hair known, red, or flaxen, in which they are exceptions to all the native of Asia, Africa, and America, who have their back black university i; here, in the children of both sexes, it is generally laxen. The strongest expression is painted in the countenance of these people; i their walk, is graceful, and therefore one per-formed with great vigorant and case.\" \"I never behold statelier men, (say Sydney Parkinson). The men of consequence on the island were the mails of their fingers long, which they consider as a very honorable badge",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+  "provenance": {
+    "page_id": "bri-0417-c8ee936d8958",
+    "row_index": 417,
+    "volume_id": "192015837",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 15, NIC-PAR - EB.11",
+    "label": 0,
+    "sha256": "c8ee936d8958d80dfedb7e7f07c63379f7f9a7bfa2ba9f6d639458ff73fc536c",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0417-c8ee936d8958.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=417",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0469,
+    0.4094,
+    0.5215,
+    0.9586
+  ],
+  "offsets": [
+    1440,
+    2149
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

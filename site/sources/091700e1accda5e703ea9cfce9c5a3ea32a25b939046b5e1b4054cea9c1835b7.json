@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1054294-1334829079-a673d09ee394",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Rifled breech loader",
+  "text": "ciently long enough to have enough thread to secure the cartridge on firing still required three separate motions to operate – rotate, withdraw, swing aside after firing, and repeated in reverse before firing.\n\nElswick Ordnance Company (Armstrong's ordnance arm) developed a coned version of the interrupted-thread screw, with a decreasing rather than constant diameter towards the front. This eliminated the second \"withdrawal\" motion, with just two motions now necessary, rotate and swing aside. This proved short-lived, with Britain adopting charges in bags using the Welin stepped interrupted screw for all guns 5 in (130 mm) and up within several years of it becoming available.",
+  "url": "https://en.wikipedia.org/wiki/Rifled_breech_loader",
+  "revision_id": 1334829079,
+  "article_id": 1054294,
+  "section_path": "shared_text[0:12203]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    12203
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 77366,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "9fc95d203717d29d0d1dab0902784f7d35cf0ce3d2f1882f9c672a4a6d5b8527",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334829079",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1054294",
+    "revision_id": "1334829079",
+    "retrieved_at": "2026-10-18T12:41:57.411308+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12203,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

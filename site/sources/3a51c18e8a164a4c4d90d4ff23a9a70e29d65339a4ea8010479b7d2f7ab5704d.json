@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-7:1440",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": "the earl Marifichal to hear the exhorations of this celebrated prescher; and they were wrong to much affected with his realtorings and historians, that neither they regarded him to adhere the queen-regent up letter on the subject of the reformation of religious. In cons., the queer places with this request, he wrote better in very dis- preschets terms and the end of Glencarers delivered it with his own hand, in the expectation that form advan-age night in the manner he obtained for the reforms. But the queenregent was to life afforded with the freedom of the nobleman than the prescher; and, after perusing the paper, the gave it to James Beton arch- hillop or Ghlgow, with an expedition of dilation, 4 lives, my bird, is a palpull.\"",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5391,
+    0.2656,
+    0.9902,
+    0.8094
+  ],
+  "offsets": [
+    1440,
+    2179
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

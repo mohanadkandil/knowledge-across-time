@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-10:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "The Indians, in their first making of chocolate, used to roast the casco in earthon pots y and having affected wood cleaned it of the books, and burned it between two stones, they made it into cakes with their hands. The Spanish imported this method. When the casino is properly realized and will cleanest, they poured it in a mortar, to reduce it into a coarse map, which they afterwards grind on a stone till it be of the utmost fineness, the past being sufficiently ground, is quite hot into its moulds, in which it conged in a very little time. The form of these models is arbitrary the cylindrical rope, holding two of three pounds, are the most proper, because the bigger the cakes are, the longer they will keep. Observe, that those cans are very liable to take any pued or had scary, and therefor they must be carefully wrap up in paper, and kept in a dry place. Complaints are now, that the Spanish mix with the casinos into the great quantity of cloves and cinnamon, besides other drugs without number, as musk, ambergirk, etc. The grocerc of Paris one few or none of these ingredients; they only choose the best nuts, which are called _caracea_, from the place from whence they are brought; and",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-10",
+  "bbox_raw": [
+    0.1396,
+    0.6109,
+    0.5303,
+    0.9141
+  ],
+  "offsets": [
+    0,
+    1205
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

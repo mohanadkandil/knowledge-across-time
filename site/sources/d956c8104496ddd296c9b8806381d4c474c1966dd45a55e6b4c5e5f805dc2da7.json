@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1424913-1353647574-d34a74e61201",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Vis viva",
+  "text": "Vis viva (from the Latin for \"living force\") is a historical term used to describe a quantity similar to kinetic energy in an early formulation of the principle of conservation of energy.\n\nProposed by Gottfried Leibniz over the period 1676–1689, the theory was controversial as it seemed to oppose the theory of conservation of quantity of motion advocated by René Descartes. Descartes' quantity of motion was different from momentum, but Newton defined the quantity of motion as the conjunction of the quantity of matter and velocity in Definition II of his Principia. In Definition III, he defined the force that resists a change in motion as the vis inertia of Descartes. Newton's third law of motion (for every action there is an equal and opposite reaction) is also equivalent to the principle of conservation of momentum. Leibniz accepted the principle of conservation of momentum, but rejected the Cartesian version of it. The difference between these ideas was whether the quantity of motion was simply related to a body's resistance to a change in velocity (vis inertia) or whether a body's amount of force due to its motion (vis viva) was related to the square of its velocity.\n\nThe theory was eventually absorbed into the modern theory of energy, though the term still survives in the context of celestial mechanics through the vis viva equation. The English equivalent \"living force\" was also used, for example by George William Hill.\n\nThe term is due to the German philosopher Gottfried Wilhelm Leibniz, who was the first to attempt a mathematical formulation from 1676 to 1689. However,",
+  "url": "https://en.wikipedia.org/wiki/Vis_viva",
+  "revision_id": 1353647574,
+  "article_id": 1424913,
+  "section_path": "shared_text[0:4170]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ca5ebcacf9149b244d89424f670f0940e612fcc0c67d04bc4727ae771b76e80",
+    "source_row_idx": 14535,
+    "source_shard": "enwiki/data/enwiki_namespace_0_84.parquet",
+    "text_sha256": "702ee168c2d31682affa7d37908477561ae42785774e35688f779e0007c68018",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353647574",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1424913",
+    "revision_id": "1353647574",
+    "retrieved_at": "2026-10-18T12:37:33.313953+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4170,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

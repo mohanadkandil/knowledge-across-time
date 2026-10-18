@@ -1,0 +1,36 @@
+{
+  "id": "bri-0764-77b1fdd53710:region-11:0",
+  "kind": "britannica",
+  "page_id": "bri-0764-77b1fdd53710",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+  "text": "The tides are periodical oscillations in the watersTides of the ocean, which take place twice every twenty-four hours, and are produced by the attraction of the moon and the sun. In the open sea, they are at their height three hours after the moon has passed the meridian of the place, and the meridian opposite. They are smallest towards the pasly, and greatest at the equator, where, however, they do not exceed two or three feet in the great ocean. Their greatest elevation times place in narrow seas, where the section of the moon is aided by winds, currents, the position of the coast, etc. The highest tides known are in the Gulf of St Malis, where the flood, driven back by the coast of England, rises to the height of seven of eight chains. Inland seas, whose entrances face the west, have rarely my life, because the moon acts on all their parts at once, and there are no lateral waters to flow in and produce a local elevation. (Tickey), 1-5A.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+  "provenance": {
+    "page_id": "bri-0764-77b1fdd53710",
+    "row_index": 764,
+    "volume_id": "192547787",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+    "label": 0,
+    "sha256": "77b1fdd53710167a89c29ecf566920a6912a5b4a6af00ef6f54b522c995d327b",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0764-77b1fdd53710.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+    "manual_seed": false
+  },
+  "region_id": "region-11",
+  "bbox_raw": [
+    0.5029,
+    0.2297,
+    0.9268,
+    0.4828
+  ],
+  "offsets": [
+    0,
+    953
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

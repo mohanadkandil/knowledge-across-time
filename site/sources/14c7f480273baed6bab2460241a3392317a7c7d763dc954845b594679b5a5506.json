@@ -1,0 +1,36 @@
+{
+  "id": "bri-0972-ce59a815d4c2:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-0972-ce59a815d4c2",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "fig. 11. There are, in connection with the hezachedron, a great number of other forms, remarkable for their proper- ties, different, however, from each other more by their general aspect than by these dimensions. The complete assemblage of those forms is obtained in the following way. Bring first the hezachedron in an upright position, so as a bring one of its common pyermont, and the opposite per pendicularly below it, by which means the rhomboidal axis, thereby the two corners, becomes vertical, then combine the possible situations of a movable plane, tangent to the hezachedron in the uppermost parts of the seal rhomboidal axis. The differences distinctions the plane one effect on seven in numbers, but in one of them it becomes parallel to the face of the hezachedron itself. Every one of some situas gives rise as a peculiar form, hence, there will exist as many forms as the moveable plane can assume different situations, and no more. The forms thus obtained agree",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+  "provenance": {
+    "page_id": "bri-0972-ce59a815d4c2",
+    "row_index": 972,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 1,
+    "sha256": "ce59a815d4c28c3a4d410b825a682bf7290bdbbd522c299e84d0e5fb89f0e3a6",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-0972-ce59a815d4c2.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=972",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.4541,
+    0.2938,
+    0.8389,
+    0.5
+  ],
+  "offsets": [
+    0,
+    979
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

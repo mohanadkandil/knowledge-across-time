@@ -1,0 +1,44 @@
+{
+  "id": "wiki-574360-1344293581-90fc5b45df31",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flanders (disambiguation)",
+  "text": "ders 1\"\n\n\" In Flanders Fields \", a 1915 World War I poem by Lt-Col John McCrae\n\nIn Flanders Fields: The 1917 Campaign, a book by historian Leon Wolff\n\nMoll Flanders, a 1722 novel, and the eponymous protagonist, by Daniel Defoe\n\nFlanders (band), a.k.a. Deflect, an Italian electronic/dance group\n\nFlanders (film), by French filmmaker Bruno Dumont\n\nFlandre Scarlet, a vampire from the Touhou Project game series\n\nNed Flanders, a character from The Simpsons franchise\n\nFlanders Automobile Company, a US-American automobile manufacturer that operated in Detroit from 1910 to 1913\n\nFlanders (horse), an American racehorse\n\nFlanders, a common fig cultivar\n\nMS Flanders, a ferry in service under this name in 2002",
+  "url": "https://en.wikipedia.org/wiki/Flanders_(disambiguation)",
+  "revision_id": 1344293581,
+  "article_id": 574360,
+  "section_path": "shared_text[0:2146]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2146
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 82322,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "6a3121c671032f571920a7c362ff8b43b52889fed930e329db1a681d88bffb48",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344293581",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "574360",
+    "revision_id": "1344293581",
+    "retrieved_at": "2026-10-18T12:38:37.552375+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2146,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

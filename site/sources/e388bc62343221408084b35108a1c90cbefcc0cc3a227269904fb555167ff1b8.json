@@ -1,0 +1,36 @@
+{
+  "id": "bri-2291-e0d1aa12247a:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-2291-e0d1aa12247a",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "arsenic present, a ring soon appears. Or the gas may be burned at the end of the tube without heating it in the tube, and a cold piece of glass or porcelain held in the flame, which, a arsenic by present, a deposit metallic stains of that metal. This bronze method is the best, as the whole arsenity may in time be collected in one ring. Under simil- creromates, autonomy also forms a ring of metal, but the arsenalring is sublimed by a moderate heat, and if at be present is changed the arsenon acid, easily recognized by its essential crystals, its solubility and by other tests. The antimony is with difficulty volatilized, and described the oxide remains and is our crystallin. Nitric acid dissolves the arsenic, but not the antimony.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+  "provenance": {
+    "page_id": "bri-2291-e0d1aa12247a",
+    "row_index": 2291,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 1,
+    "sha256": "e0d1aa12247af94bfb9b86b673552ab1d4917278601568b971e8292c624b9564",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2291-e0d1aa12247a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.46,
+    0.2797,
+    0.8418,
+    0.4328
+  ],
+  "offsets": [
+    0,
+    738
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-381305-1351184712-4656e5b267d5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "London Wall",
+  "text": "The London Wall is a defensive wall first built by the Romans around the strategically important port town of Londinium in c. AD 200, as well as the name of a modern street in the City of London, England.\n\nRoman London was, from around 120–150, protected by a large fort, with a large garrison, that stood to its north-western side. The fort, now referred to as the Cripplegate Fort, was later incorporated into a comprehensive city-wide defence, with its strengthened northern and western sides becoming part of the Wall which was built around 200. The incorporation of the fort's walls gave the walled area its distinctive shape in the north-west part of the city.\n\nThe end of Roman rule in Britain, around 410, led to the wall falling into disrepair. It was restored in the late Anglo-Saxon period, a process generally thought to have begun under Alfred the Great after 886. Repairs and enhancements continued throughout the medieval period. The wall largely defined the boundaries of the City of London until the later Middle Ages, when population rises and the development of towns around the city blurred the perimeter.\n\nFrom the 18th century onward, the expansion of the City of London saw large parts of the wall demolished, including its city gates, to improve traffic flow. Since the Second World War, conservation efforts have helped to preserve surviving sections of the city wall as scheduled monuments.\n\nThe long presence of the walls has had a profound and continuing effect on the character of the City of London, and surrounding areas. The walls constrained the growth of the city, a",
+  "url": "https://en.wikipedia.org/wiki/London_Wall",
+  "revision_id": 1351184712,
+  "article_id": 381305,
+  "section_path": "shared_text[0:18132]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 39565,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "1aaed0c633a96891c6d5a212dc0f1f5de1b04814814b3b9bc1f79cf2dfd80970",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351184712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "381305",
+    "revision_id": "1351184712",
+    "retrieved_at": "2026-10-18T12:32:08.144012+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 18132,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

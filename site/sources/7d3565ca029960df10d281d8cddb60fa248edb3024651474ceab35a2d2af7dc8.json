@@ -1,0 +1,36 @@
+{
+  "id": "bri-0474-7be3f97cd18b:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0474-7be3f97cd18b",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+  "text": "The ordinary comments of this company employs from 20 to 3 y vehicle, carrying from 30 to 29 pieces of canon. The merchandies exported thither are, clokin of all kinds and colours, pastures, lead, pepper, ashobeni, and a great deal of firees, which they take up at Cadiz : the returns are in raw filk, gallts, camlets, moss, cotton, Moscow leather, after for making girls through and travel spans and medical drugs. The commence to Sunyna, Confantinople, and Scanteron, is not allowed more held considerable than that of the Well India Company ; but is doubted, more advantageous to Britain, because it takes off much more of the British manufacturers than one other, which is likely existed for in money. The places reserved for the commence of this company are, all the lines of Venice, in the gulf of Venices, the fate of Ragd's all the dates of the grand tingers, and the port of the Levant and Mediterranean's exporting Cartingena, Alicanti, Barcelona, Valencia, Meetlella, London, Genoa, Leghorn, Croatia, Vecchia, Palerma, McIlina, Malta, Majorca, Minoreca, and Corfica ; and other places on the coaths of France, Spain, and Italy.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+  "provenance": {
+    "page_id": "bri-0474-7be3f97cd18b",
+    "row_index": 474,
+    "volume_id": "192984255",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 6, CHI-Crystallization - EB.10",
+    "label": 0,
+    "sha256": "7be3f97cd18bade48bdf63bdc0bc6162615066eaac21fe5578ce70ee9fd96501",
+    "width": 600,
+    "height": 812,
+    "image_file": "../images/bri-0474-7be3f97cd18b.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=474",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5645,
+    0.3344,
+    0.9453,
+    0.6297
+  ],
+  "offsets": [
+    0,
+    1138
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

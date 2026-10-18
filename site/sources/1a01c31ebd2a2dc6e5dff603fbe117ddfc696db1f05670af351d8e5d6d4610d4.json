@@ -1,0 +1,44 @@
+{
+  "id": "wiki-12787286-1334638262-0ece9dddae44",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Duchess of Norfolk",
+  "text": "ard, Duchess of Norfolk (née Maria Shireburn), wife of Thomas Howard, 8th Duke of Norfolk\n\nMary Howard, Duchess of Norfolk (died 1773) (née Mary Blount), wife of Edward Howard, 9th Duke of Norfolk\n\nCatherine Brockholes, wife of Charles Howard, 10th Duke of Norfolk\n\nFrances Scudamore, Duchess of Norfolk, wife of Charles Howard, 11th Duke of Norfolk\n\nCharlotte Fitzalan-Howard, Duchess of Norfolk (née Charlotte Leveson-Gower), wife of Henry Howard, 13th Duke of Norfolk\n\nAugusta Fitzalan-Howard, Duchess of Norfolk (née Augusta Lyons), wife of Henry Fitzalan-Howard, 14th Duke of Norfolk\n\nFlora Fitzalan-Howard, Duchess of Norfolk, (née Abney-Hastings), 1st wife of Henry Fitzalan-Howard, 15th Duke of Norfolk\n\nGwendolen Fitzalan-Howard, Duchess of Norfolk (Gwendolen Constable-Maxwell, 12th Lady Herries of Terregles), 2nd wife of Henry Fitzalan-Howard, 15th Duke of Norfolk\n\nLavinia Fitzalan-Howard, Duchess of Norfolk (née Lavinia Strutt), wife of Bernard Fitzalan-Howard, 16th Duke of Norfolk\n\nAnne Fitzalan-Howard, Duchess of Norfolk (née Anne Constable-Maxwell), wife of Miles Fitzalan-Howard, 17th Duke of Norfolk\n\nGeorgina Fitzalan-Howard, Duchess of Norfolk (née Georgina Gore), ex-wife of Edward William Fitzalan-Howard, 18th Duke of Norfolk\n\nFrancesca Fitzalan-Howard (née Francesca Bevan, later Herbert), wife of Edward William Fitzalan-Howard, 18th Duke of Norfolk",
+  "url": "https://en.wikipedia.org/wiki/Duchess_of_Norfolk",
+  "revision_id": 1334638262,
+  "article_id": 12787286,
+  "section_path": "shared_text[0:2818]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2818
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 75573,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "ff689901e06d6926fd890b4c4741b40c0e14c6bfcd36ad0cf58bcf51c1401f24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334638262",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "12787286",
+    "revision_id": "1334638262",
+    "retrieved_at": "2026-10-18T12:28:38.492999+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2818,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

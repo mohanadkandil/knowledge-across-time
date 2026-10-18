@@ -1,0 +1,54 @@
+{
+  "id": "wiki-466760-1353387068-911e2f530b92",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Wild man",
+  "text": "erent temperaments, but they may exact vengeance on those who are frightened by them or mock them. In that case, the smaller wild folk are more easily appeased, while the giant types will tear their tormentors apart or curse them with \"seven times seven generations of curses and woe\".\n\nFriedrich Ranke argues that the legends concerning the wild people in Central Germany became less frightening because the forests themselves shed much of their eeriness due to development and deforestation, so that only the low rolling hills remained. Thus in these regions, the folklore concerned the wild little folk of \"harmless good nature\".\n\nThe wild man stereotypically carries an uprooted fir tree, or an iron club or an iron pole, etc.\n\nThere are also the Alpine wild men recorded by modern folklorists, whose lore is generally found in the lore of Alps (mountainous Italian Tyrol, Valtellina and Italian and German-speaking parts of Grisons, Switzerland). The wild men of the Alps had the reputation of abducting women and devouring humans, particularly children. In Grisons, they are also accused of depositing their changeling child, swapping it with a human baby. Allegedly peasants in the Grisons tried to capture the wild man by getting him drunk and tying him up in hopes that he would give them his wisdom in exchange for freedom. This is noted as paralleling the capture of Silenus already described by Xenophon (d. 354 BCE), with Silenus being described as a satyr which Midas caught by getting him drunk with wine.\n\nLegend also has it that humans were able to capture it once by getting it drun",
+  "url": "https://en.wikipedia.org/wiki/Wild_man",
+  "revision_id": 1353387068,
+  "article_id": 466760,
+  "section_path": "shared_text[0:50235]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    17280,
+    18880
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 21527,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "408c82ba34a11209210a46008d51671c3506ad4b77178d4291f5ab2820128609",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353387068",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "466760",
+    "revision_id": "1353387068",
+    "retrieved_at": "2026-10-18T12:22:09.697367+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 10235,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

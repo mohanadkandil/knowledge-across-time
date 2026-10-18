@@ -1,0 +1,44 @@
+{
+  "id": "wiki-79627526-1283870212-5a9628ade68c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flamsteed (disambiguation)",
+  "text": "Flamsteed may refer to:\n\nJohn Flamsteed (1646–1719), English astronomer, first Astronomer Royal\n\nAssociated with John Flamsteed:\n\nMargaret Flamsteed, English astronomer (wife of and assistant to John)\n\nFlamsteed designation, identifier for stars\n\nFlamsteed (crater), on the Moon",
+  "url": "https://en.wikipedia.org/wiki/Flamsteed_(disambiguation)",
+  "revision_id": 1283870212,
+  "article_id": 79627526,
+  "section_path": "shared_text[0:278]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    278
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 83111,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "d587edaa9ce4c1920e5e21bf1c4bc46fe1f214a9d823700a4b01a40a471e089c",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1283870212",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "79627526",
+    "revision_id": "1283870212",
+    "retrieved_at": "2026-10-18T12:38:36.732775+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 278,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-46869168-1333133889-b2c49fbeae54",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Armistice of Cherasco",
+  "text": "The Armistice of Cherasco was a truce signed at Cherasco, Piedmont, on 28 April 1796 between Victor Amadeus III of Sardinia and Napoleon Bonaparte. It withdrew Sardinia from the War of the First Coalition (leaving only Britain and Austria in the Coalition) and handed over Alessandria, Coni and Tortone to Republican France. Sardinia also handed over supplies and munitions to France and allowed its troops free passage through Piedmont. It was followed by a full peace treaty signed in Paris the following 15 May, in which Sardinia handed over the county of Nice, the duchy of Savoy, Tende and Beuil to France, as well as guaranteeing free passage through its remaining territory for French troops. The reason why Piedmont-Sardinia was forced to sign this treaty was due to a crippling defeat at Mondovi, which left the capital of Piedmont, Turin, extremely vulnerable.\n\nVincent Cronin: Napoleón Bonaparte: Una biografía íntima, p. 131(2003).\n\nWalter Scott: The life of Napoleon Bonaparte, p. 128 - 130, (1837).",
+  "url": "https://en.wikipedia.org/wiki/Armistice_of_Cherasco",
+  "revision_id": 1333133889,
+  "article_id": 46869168,
+  "section_path": "shared_text[0:1012]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1012
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 88127,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "b58754fce10d04489362276f1a3129527ce604a9acd39a03e8e3dff5ed221196",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333133889",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "46869168",
+    "revision_id": "1333133889",
+    "retrieved_at": "2026-10-18T12:22:19.081850+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1012,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

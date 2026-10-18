@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21571302-1351253949-38d0a0633cc5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marie de Lorraine, Duchess of Guise",
+  "text": "s preoccupied with returning the House of Guise to its former glory. This meant giving the young man a fine residence and a prestigious bride. In 1666 Marie therefore commissioned Jacques Gabriel (the father of royal architect Jacques Gabriel) to carry out extensive renovations for the family's urban residence, known as the Hôtel de Guise. She also ordered a total reworking of the garden by the famous garden designer, André Le Nôtre. The old stable wing that stretched along the garden was also renovated and subdivided into comfortable apartments to be occupied by what might be likened to today's artists and intellectuals in residence: Philippe Goibaut, Roger de Gaignières, and, a bit later, Marc-Antoine Charpentier.\n\nFor a bride, Marie de Lorraine aimed for someone with high social standing: Elisabeth d'Orléans, Louis XIV's first cousin. The marriage was celebrated on 5 May 1667. The newly-weds settled down into their apartment on the noble floor of the Hôtel de Guise and Marie de Lorraine lodged in her ground-floor apartment just below them.\n\nStarting in 1670, Marc-Antoine Charpentier began composing for the three Guises, sometimes singing haute-contre lines. Mlle de Guise protected him and advanced his career by soliciting commissions from people or establishments who were seeking her continued patronage. Indeed, for eighteen years her patronage fostered a number of major works, most of them devotional and strongly influenced by Italian music. For example, she was probably one of the \"enraged virgins\" and \"heroines\" who swooped down on Molière in late 1672 and forced him ",
+  "url": "https://en.wikipedia.org/wiki/Marie_de_Lorraine,_Duchess_of_Guise",
+  "revision_id": 1351253949,
+  "article_id": 21571302,
+  "section_path": "shared_text[0:6019]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "75682a16535a445de85c4955f0f07da7848b9ea2a08d5d7a7d8abc71cf54a86a",
+    "source_row_idx": 58577,
+    "source_shard": "enwiki/data/enwiki_namespace_0_56.parquet",
+    "text_sha256": "f9bf9f904a3dd4d2cfc3beee82e5d8a34817a24e3e0437214330bab5242c5575",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351253949",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21571302",
+    "revision_id": "1351253949",
+    "retrieved_at": "2026-10-18T12:21:06.429028+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6019,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

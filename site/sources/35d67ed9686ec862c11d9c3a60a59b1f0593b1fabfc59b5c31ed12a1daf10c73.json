@@ -1,0 +1,54 @@
+{
+  "id": "wiki-30888962-1349341940-e4e5b2acc17d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Omar (name)",
+  "text": "ambiguation)\n\nOmar Moreno (born 1952), Panamanian baseball player\n\nOmar Moreno Palacios (1938–2021), Argentine folk singer\n\nOmarr Morgan (born 1976), American former football player in the Canadian Football League\n\nOmar Mosaad (born 1988), Egyptian squash player\n\nOmar Mouallem (born 1985), Canadian writer\n\nOmar Mouhli (born 1986), Tunisian basketball player\n\nOmar Moussa (disambiguation)\n\nOmar Moya, Cuban Paralympic athlete\n\nOmar Mukhtar (1858–1931), leader of the resistance movement against the Italian military occupation of Libya\n\nOmar Mullick, American film director\n\nOmar Mahmud al-Muntasir (1930–1999), Libyan politician\n\nOmar al-Muqdad, Syrian journalist\n\nOmar Muraco (1930–2010), Argentine footballer\n\nOmar Musa (born 1984), Australian singer\n\nOmar Musaj (born 2002), Albanian footballer\n\nOmar Mussa (disambiguation)\n\nOmar Mustafa (born 1985), Swedish politician\n\nOmar Mwinyi (born 1958), Kenyan politician\n\nOmar Naber (born 1981), Slovenian singer\n\nOmar Naim (born 1977), Lebanese film director and screenwriter\n\nOmar Najdi (born 1986), Moroccan footballer\n\nOmar Namsaoui (born 1990), Moroccan footballer\n\nOmar Narváez (disambiguation)\n\nOmar Nasiri, Belgian spy of Moroccan origin\n\nOmar Natami (born 1998), Italian footballer\n\nOmar Navarro (born 1989), American perennial candidate\n\nOmar Nazar (born 1978), Afghan footballer\n\nOmar Nejjary (born 1972), Moroccan footballer\n\nOmar Ngandu (born 1996), Burundian footballer\n\nOmar Niño Romero (born 1976), Mexican boxer\n\nOmar Núñez (born 1983), Nicaraguan swimmer\n\nOmar Nyame (born 1998), English television personality\n\nOmar Olivares (born 19",
+  "url": "https://en.wikipedia.org/wiki/Omar_(name)",
+  "revision_id": 1349341940,
+  "article_id": 30888962,
+  "section_path": "shared_text[0:54983]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    25920,
+    27520
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 59978,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "6b67b286e96b0742f85c6a830cbd1994a2f18ea7fcf920c826dec595f594cbac",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349341940",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30888962",
+    "revision_id": "1349341940",
+    "retrieved_at": "2026-10-18T12:40:56.177447+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 14983,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

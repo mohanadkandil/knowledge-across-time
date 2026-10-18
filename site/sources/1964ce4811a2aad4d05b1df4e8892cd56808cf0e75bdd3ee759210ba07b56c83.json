@@ -1,0 +1,36 @@
+{
+  "id": "bri-0744-fcdb217a9ba5:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0744-fcdb217a9ba5",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+  "text": "Oceania Asia endowed all the Natali Bare properly so called, and some would also include under this hand the distant New Zealand, and vast continent of Australia. We limit this division of Greyion, the Ishaben Ides, the Son matran chain, including Java, Sec., Borneo, Lobbers, the Moscow or Spice Islands, the Muslims of Palinyans, Par- mosu, Luk-kna, Japan, sees, and Il-Toma. For a particular account of this division, we refer to the different heads just enumerated.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+  "provenance": {
+    "page_id": "bri-0744-fcdb217a9ba5",
+    "row_index": 744,
+    "volume_id": "193696085",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 3, Anatomy-Astronomy - EB.16",
+    "label": 0,
+    "sha256": "fcdb217a9ba5e3b917823cdc39f41c29fcfee28beaacefc676ceeef419d1b70f",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-0744-fcdb217a9ba5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=744",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0615,
+    0.2992,
+    0.5283,
+    0.4141
+  ],
+  "offsets": [
+    0,
+    469
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

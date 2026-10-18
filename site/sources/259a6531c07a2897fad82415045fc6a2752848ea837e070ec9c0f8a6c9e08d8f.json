@@ -1,0 +1,44 @@
+{
+  "id": "wiki-54284569-1342110918-8a7ecfff06eb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Telemachus and the Nymphs of Calypso",
+  "text": "Telemachus and the Nymphs of Calypso is an oil painting by the Swiss artist Angelica Kauffman, from 1782. It is in the collection of the Metropolitan Museum of Art, in New York.\n\nThis painting and The Sorrow of Telemachus were painted for Monsignor Onorato Caetani (1742-1797). They show scenes from the French novel The Adventures of Telemachus published by François Fénelon in 1699, and based on the story of Telemachus, son of Odysseus.\n\nThe work depicts the arrival of Telemachus on Ogygia, Calypso 's island. He is welcomed by her nymphs with fruit, wine and flowers. The goddess Athena had been his guide, disguised as the old man Mentor, and is shown being led away to the left by one of the nymphs.",
+  "url": "https://en.wikipedia.org/wiki/Telemachus_and_the_Nymphs_of_Calypso",
+  "revision_id": 1342110918,
+  "article_id": 54284569,
+  "section_path": "shared_text[0:706]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    706
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "052a205be6e305039c6f7ed831b88a9bdd01ed15cdeb1236a4b1c8a87610095e",
+    "source_row_idx": 32516,
+    "source_shard": "enwiki/data/enwiki_namespace_0_34.parquet",
+    "text_sha256": "ad1ff462b9b3cd701cf1b806eb378a194fdb416ea8bbb92bf5d4b587524c5afe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1342110918",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "54284569",
+    "revision_id": "1342110918",
+    "retrieved_at": "2026-10-18T12:40:18.028773+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 706,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

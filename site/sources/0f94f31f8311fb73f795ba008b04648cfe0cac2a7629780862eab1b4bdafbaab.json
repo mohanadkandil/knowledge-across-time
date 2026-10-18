@@ -1,0 +1,36 @@
+{
+  "id": "bri-0386-e88a0bad3b83:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0386-e88a0bad3b83",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+  "text": "Newton has been cancelled, a limited averagely by John Bernoulli, (who indeed calls it a mitake in prin-cided of a cipelo) in his Proposition x book z on the very lab-mikas jech we are now considering. But DrKell has shown by Jt to be only an overflight, in drawing the tangent on the wrong side of the ordinate. For in this very pro-pollution Newton exhibits, in the flatfield must bear- find manner, the difference between the geometrical and algebraic manner of confining the fulgbet; and expertly wrote the reader, that his spherical symbol expresifies the deflection only, and not the variation of the inherent of the ordinate. It is therefore in the Pad failed lat degree impossible that he would make the miif- take. He molt expressly does not; and as to the real mitke, which he corrected in the second edition, the writer of this article has in his pdfiction a manuscript copy of name and illustrations on the whole Principia, written in 1692). DrD and Gregory Savlan pointed off of alternony at Oxford, at the die of Mr Newton, as preparatory for a new edition, where he has rectified this and several other mistakes in that work, and says that Mr Newton had dem and approved of the amendments. We mention thefe particulars, because Mr Ralucety Bernoulli published an elegant diffraction on this dataset fulgbelt in the Leipde Acts in 1713; in which he with re charges Newton (though with many protefations of speed) admiration and respect] with this mistake to principle, Nden and fays, that he commented his correction to Mr Newton, by his nephew Nicholas Bernoulli, that it might be corr",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+  "provenance": {
+    "page_id": "bri-0386-e88a0bad3b83",
+    "row_index": 386,
+    "volume_id": "191689062",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+    "label": 0,
+    "sha256": "e88a0bad3b83cbcd801cb8e1dd3b2b724b96138db2a5ed2929d39f59203f6f7d",
+    "width": 600,
+    "height": 797,
+    "image_file": "../images/bri-0386-e88a0bad3b83.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5352,
+    0.3484,
+    0.999,
+    0.9414
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

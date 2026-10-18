@@ -1,0 +1,44 @@
+{
+  "id": "wiki-9610194-1325607678-ccad0bbc8b86",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flannel (disambiguation)",
+  "text": "Flannel is a woollen (or other) cloth.\n\nFlannel may also refer to:\n\nWashcloth, known as a flannel in British English\n\nFlannels, cricket attire originally made of flannel\n\nFlannel vest\n\nFlannel, a networking component of CoreOS\n\n\"Flannel\", a 2018 song by Justin Timberlake from Man of the Woods",
+  "url": "https://en.wikipedia.org/wiki/Flannel_(disambiguation)",
+  "revision_id": 1325607678,
+  "article_id": 9610194,
+  "section_path": "shared_text[0:293]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    293
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 108200,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "aebcbaad16b93c94e6046bf392fd4559295f283a7ebc4512fa9d1462c3c14f6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1325607678",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9610194",
+    "revision_id": "1325607678",
+    "retrieved_at": "2026-10-18T12:38:38.584993+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 293,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

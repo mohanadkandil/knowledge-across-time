@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "N.W., there are large barracks. Preston is chiefly important as a manufacturing and commercial town. Its staple manufacture art prints is cotton, of which it is one of the principal seen in England. This church trade was introduced here in 1771, before which the the pri-\ncipal industry of the place we directed to the momenture of lines, which she carried out to a considerable extent. There are upwards of city and for spinning and wearing cotton, worveded and flax mulls, iron and base from families, ammeries, hope-works, multi-houses, and browaries. Paltery has been central to for a day time in the Ribblah, where every cek, Sec, are caught. The river has been, by dredging and other improvements, rendered navigable at varying date for vessels of 600 ton bananas up to the quays of the town, where extensive warehouses have been erected. Besides those derived from the navigation of the Ribbla, Preston enjoys many advantages for commonalities purposes in being connected, both by canals and airways, with the land and other parts of the country. The source of the town is considerable; corn, timber, and iron being the principal imports. The line 314 December 1857, there are registered at the port. 114 sailings:vests, manage 62/33 and 3 steamer, tomacy 440. During that year there could be sailings:seds, tomacy 14,635 and 2 steamers, tomacy 298; and there cleared 517 sailings-vesse, tomacy 35,582– of them except 11 sailings-ves- said that entered from foreign ports, tomacy 3141, taking engaged in the casting trader. Besides weekly markets, and annual data are held at Preston and there",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5381,
+    0.0773,
+    0.9219,
+    0.6961
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

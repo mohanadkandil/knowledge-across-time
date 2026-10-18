@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5657929-1334330523-a98481ffe743",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scottish Gas Board",
+  "text": " Company\n\nColtness Iron Company\n\nF. B. Keillor (trading as Comrie Gas Light Company)\n\nCoupar Angus Gas Company\n\nCove and Kilcreggan Corporation\n\nCowdenbeath Gas Company\n\nCrieff Gas-Light Company\n\nCullen District Gas Company\n\nCumnock Gas Company\n\nCupar Gas Company\n\nDalbeattie Gas Light Company\n\nDalkeith Gas Light Company\n\nDalry Gas Light Company\n\nDarvel Corporation\n\nDenny and Dunipace Corporation\n\nDingwall Corporation\n\nDollar Gas Company\n\nDoune Corporation\n\nDumbarton Corporation\n\nDumfries Corporation\n\nDunbar Corporation\n\nDunblane Gas Company\n\nDundee Corporation\n\nDunfermline Corporation\n\nDunlop Gas Light Company\n\nDunning Gas Company\n\nDunoon Corporation\n\nDuns Gas Company\n\nEarlston Gas Company\n\nEast Linton Gas Light Company\n\nEdinburgh Corporation\n\nElgin Corporation\n\nEyemouth Gas Company\n\nFalkirk Corporation\n\nFalkland Gas Undertaker\n\nFauldhouse Gas Company\n\nForfar Corporation\n\nForres Gas Light Company\n\nFraserburgh Corporation\n\nGalashiels Gas Company\n\nGalston Gas Company\n\nGirvan Gas Company\n\nGlasgow Corporation\n\nGorebridge Gas Light Company\n\nGourock Corporation\n\nGrangemouth Corporation\n\nGreenock Corporation\n\nHaddington Gas Company\n\nHamilton Corporation\n\nHawick Gas Company\n\nHelensburgh Corporation\n\nHuntly Gas Company\n\nInnerleithen Gas Light Company\n\nInverbervie Corporation\n\nInverkeithing Gas Light Company\n\nInverness Corporation\n\nInverurie Gas Company\n\nIrvine and District Gas Company\n\nJedburgh Gas Company\n\nJohnstone Corporation\n\nKeith Gas Company\n\nKelso Gas Company\n\nKelty Gas Company\n\nKennoway and Largo Gas Company\n\nKettle and District Gas Company\n\nKilmacolm Gas Company\n\nKilmarnock",
+  "url": "https://en.wikipedia.org/wiki/Scottish_Gas_Board",
+  "revision_id": 1334330523,
+  "article_id": 5657929,
+  "section_path": "shared_text[0:5320]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 3231,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "042df5ea76a233aafab62ed0ac06c2e763699159b2ba9e98c4473479d627599d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334330523",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5657929",
+    "revision_id": "1334330523",
+    "retrieved_at": "2026-10-18T12:30:10.899768+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5320,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

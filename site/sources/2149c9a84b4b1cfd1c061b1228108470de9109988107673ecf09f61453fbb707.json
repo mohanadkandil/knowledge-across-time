@@ -1,0 +1,44 @@
+{
+  "id": "wiki-288471-1323877685-2fa20615865e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mordant",
+  "text": "onded to the fibre.\n\nThe type of mordant used can change the colour of both the dye-plus-mordant solution and influence the shade of the final product.\n\nUnlike cotton, wool is highly receptive toward mordants. Due to its amphoteric nature wool can absorb acids and bases with equal efficiency. When wool is treated with a metallic salt it hydrolyses the salt into an acidic and basic component. The basic component is absorbed at –COOH group and the acidic component is removed during washing. Wool also has a tendency to absorb fine precipitates from solutions; these cling to the surface of fibres and dye particles attached to these contaminants result in poor rubbing fastness.\n\nLike wool, silk is also amphoteric and can absorb both acids and bases. However, wool has thio groups (-SH) from the cystine amino acid, which act as reducing agent and can reduce hexavalent chromium of potassium dichromate to trivalent form. The trivalent chromium forms the complex with the fibre and dye. Therefore, potassium dichromate cannot be used effectively as mordant.\n\nIn histology, mordants are indispensable in fixing dyes to tissues for microscopic examination, such as with a haematoxylin and eosin stain.\n\nMethods for mordant application depend on the desired stain and tissues under study; pre-, meta- and post-mordanting techniques are used as required.",
+  "url": "https://en.wikipedia.org/wiki/Mordant",
+  "revision_id": 1323877685,
+  "article_id": 288471,
+  "section_path": "shared_text[0:4234]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4234
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 61801,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "e1d7134d41c1c171ddf68fb8b765e5e52839c6cb708f568ee3f5e07597159c5b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323877685",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "288471",
+    "revision_id": "1323877685",
+    "retrieved_at": "2026-10-18T12:23:23.500889+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4234,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

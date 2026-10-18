@@ -1,0 +1,54 @@
+{
+  "id": "wiki-30888962-1349341940-22a2a56fa08a",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Omar (name)",
+  "text": ", Somali politician\n\nOmar Hassan (disambiguation)\n\nOmar al-Hassi (born 1959), Libyan politician\n\nOmar Hawsawi (born 1985), Saudi Arabian footballer\n\nOmar Hayat (born 1983), Danish cricketer\n\nOmar Hayssam (born 1963), Syrian-born Romanian financier\n\nOmar Hemidi (born 1986), Syrian footballer\n\nOmar Henry (born 1952), South African cricketer\n\nOmar Hermansen (1913–1998), Danish rower\n\nOmar Hernandez (disambiguation)\n\nOmar Hesham (born 1995), Egyptian basketball player\n\nOmar Hilale (born 1951), Moroccan diplomat\n\nOmar Hinestroza (born 1994), Panamanian footballer\n\nOmar Holness (born 1994), Jamaican footballer\n\nOmar Hughes (born 1982), Grenadian swimmer\n\nOmar Hurricane, American 20th-21st century physicist\n\nOmar Hussein (born 1986), stand-up comedian\n\nOmar ibn Said (1770–1864), West African/American scholar\n\nOmar Farah Iltireh (1933–2008), Djiboutian politician\n\nOmar Imeri (born 1999), Macedonian-Albanian footballer\n\nOmar Infante (born 1981), Venezuelan former Major League Baseball player\n\nOmar Ishrak (born 1955), Bangladeshi-American businessman\n\nOmar Islas (born 1996), Mexican footballer\n\nOmar Jaafar, Malaysian politician\n\nOmar Jacobs (born 1984), American football player\n\nOmar Jagne (born 1992), Gambian footballer\n\nOmar Israel Jaime (born 1981), Mexican footballer\n\nOmar A. Jallow (1946–2023), Gambian politician\n\nOmar Jama (born 1998), Finnish footballer\n\nOmar Jara (born 1965), Chilean politician\n\nOmar Jarun (born 1983), Palestinian footballer\n\nOmar Jasika (born 1997), Australian tennis player\n\nOmar Jasim (born 1990), Bahraini swimmer\n\nOmar Jasseh (born 1992), Gambian footballe",
+  "url": "https://en.wikipedia.org/wiki/Omar_(name)",
+  "revision_id": 1349341940,
+  "article_id": 30888962,
+  "section_path": "shared_text[0:54983]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    18720,
+    20320
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 59978,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "6b67b286e96b0742f85c6a830cbd1994a2f18ea7fcf920c826dec595f594cbac",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349341940",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30888962",
+    "revision_id": "1349341940",
+    "retrieved_at": "2026-10-18T12:40:56.177447+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 14983,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

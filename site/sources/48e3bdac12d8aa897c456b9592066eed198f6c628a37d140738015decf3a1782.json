@@ -1,0 +1,36 @@
+{
+  "id": "bri-2292-93b4d1f3ff8c:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-2292-93b4d1f3ff8c",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "(Thin NaAc, tetrehylum). Hydrated oxide of ammo- nism is not known to rise was attempting to form the radical ammonium, it is naturally resolved into ammonia and water. NH(O) HO NH+2-2RO. The reason of this would seem to be, that the attraction of the oxygen of the oxide for the fourth eq. of hydrogen is so strong as to detect is, that eq being of course and by a residue force than the others. If however, this hydrated oxide could ex- in a separate form—and possibly by some day enc- used in obtaining, perhaps under the influence of intense cold-st-would certainly resemble, caustic potash, and the hybrated oxide of tetrehylum. The latter circle in a separate form, just because the attraction of oxygen for the fourth eq. of ethylb say much less than the hydrogone that that is, as certain temperatures [for at higher temperatures by- dried oxide of tetrehylum undergoes precisely the same changes that of ammonium at certainity temperatures being converted into ethylamin, corresponding to ammonia, and hydrated oxide of ethyle, corresponding to 2 eqs of water. NaAcO,Ho+NaAc+AtO,HO. His on this account that we conjecture that under interestoid the ammonium component might be intrinsicment. The action of heat on this hybrid oxide of tetrehylum is characteristic of this whole series of bases.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+  "provenance": {
+    "page_id": "bri-2292-93b4d1f3ff8c",
+    "row_index": 2292,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 0,
+    "sha256": "93b4d1f3ff8c91cea76506298710cd1ef022efe47dc5ba2ebe8650a7496fc589",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2292-93b4d1f3ff8c.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2292",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.5332,
+    0.4766,
+    0.9248,
+    0.7625
+  ],
+  "offsets": [
+    0,
+    1303
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wiki-1506160-1323010285-83966ae82ed4",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Julian Symons",
+  "text": "st. (London) Evening Standard, 1 October 1951. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Pepoli Case. (London) Evening Standard, 2 February 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nEach Man Kills. (London) Evening Standard, 26 March 1952. Collected in Murder! Murder! (Francis Quarles)\n\nRed Rum Means Murder. (London) Evening Standard, 15 May 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nA Matter of Dentistry. (London) Evening Standard, 25 June 1952. Collected in Francis Quarles Investigates (Francis Quarles)\n\nThe Whistling Man. (London) Evening Standard, 9 July 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nThe Vanishing Trick. (London) Evening Standard, 28 July 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nAn Exercise in Logic. (London) Evening Standard, 8 September 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nPoison Pen. (London) Evening Standard, 15 September 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nPreserving the Evidence. (London) Evening Standard, 18 September 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nNothing up His Sleeve. (London) Evening Standard, 23 September 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nDouble Double Cross. (London) Evening Standard, 25 September 1952. Collected in The Detections of Francis Quarles (Francis Quarles)\n\nDeath for Mr Golightly. (London) Evening Standard, 22 December 1952. Collected in The ",
+  "url": "https://en.wikipedia.org/wiki/Julian_Symons",
+  "revision_id": 1323010285,
+  "article_id": 1506160,
+  "section_path": "shared_text[0:30404]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    14400,
+    16000
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 17869,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "c1943e2d6de5cd44100db2cea968bf9e3a781fa85f0cee9c4f3d7ad3cec48c6d",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323010285",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1506160",
+    "revision_id": "1323010285",
+    "retrieved_at": "2026-10-18T12:24:02.424223+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 10404,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

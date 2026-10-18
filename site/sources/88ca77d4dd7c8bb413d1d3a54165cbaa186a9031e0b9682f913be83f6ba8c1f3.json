@@ -1,0 +1,36 @@
+{
+  "id": "bri-0781-2d3c3a09297e:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-0781-2d3c3a09297e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 20, SUI-ZYM - EB.11",
+  "text": "VITROLATED, among chemists, something im-\npregnated, or supposed to be so, with vitrol or its acid.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=781",
+  "provenance": {
+    "page_id": "bri-0781-2d3c3a09297e",
+    "row_index": 781,
+    "volume_id": "193696081",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 20, SUI-ZYM - EB.11",
+    "label": 0,
+    "sha256": "2d3c3a09297e27118d26a2e1fa1841f7d6b022ff99dec81f6980c3ca33cd1a9b",
+    "width": 600,
+    "height": 841,
+    "image_file": "../images/bri-0781-2d3c3a09297e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=781",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.1494,
+    0.5406,
+    0.5557,
+    0.5898
+  ],
+  "offsets": [
+    0,
+    99
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1372-b18f304e47d5:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1372-b18f304e47d5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+  "text": "cause, which she seemed willing to suppress. These ar-tifices, together with the ceaseless flattery and importu- nity of her creatures, provided so much upon Antony's realtakers, that the commamted Octavia is returione home without seeing her, and attached himself still more close- ly to Cleopatra than before. His ridiculous passion now hereby to have no bounds. It resolved to own her for his wife, and entrely to reputulate Octavia. He accordingly assembled the people of Atsoundra in the public theatre, where was relied an above of deliver, me der which were placed two thrones of gold, one for himself and the other for Cleopatra. There he seated himself, dressed like Bachela, while Cleopatra set beside him clothed in the ornaments and attributes of Isis, the principal deity of the Egyptians. On that emotion has declared the queen of the countries which he had already bestowed upon her; while he associated Cesa- rio, her son by Cesar, as her partner in the government. To the new children which he had lay her herself he gave the title of _ling of kings_, with very extensive do- minions, and, to cover his abandiile, he sent a minute account of his proceedings to the two causal at Rome. It was now necessary to act up to his imagi- nyrally : new branches and preparties were now therefore studies, and marks of provision found out: not less than L.60,000 of our money were livished upon one single entertainment, it is said, upon this co- casos, that Cleopatra dissolved a year of great value in vinegar, and crank it off. But we are told of one cir- constans that might not represent ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+  "provenance": {
+    "page_id": "bri-1372-b18f304e47d5",
+    "row_index": 1372,
+    "volume_id": "192015834",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+    "label": 0,
+    "sha256": "b18f304e47d59eec1b3ff2c9fb3879e2c88ec8a425aa7a521fe202396b68ddff",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-1372-b18f304e47d5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.4678,
+    0.0672,
+    0.8672,
+    0.5406
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

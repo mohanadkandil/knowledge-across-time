@@ -1,0 +1,44 @@
+{
+  "id": "wiki-245985-1307907980-0c972ed1a92e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Floating",
+  "text": "Floating may refer to:\n\na type of dental work performed on horse teeth\n\nuse of an isolation tank\n\nthe guitar -playing technique where chords are sustained rather than scratched\n\nFloating (play), by Hugh Hughes\n\nFloating (psychological phenomenon), slipping into altered states\n\nFloating voltage, and floating ground, a voltage or ground in an electric circuit that is not connected to the Earth or another reference voltage\n\nFloating point, a representation in computing of rational numbers most commonly associated with the IEEE 754 standard\n\nFloating (film), a 1997 American drama film\n\nFloating charge\n\nFloating exchange rate, a market-valued currency\n\nFloating (Eloy album) (1974)\n\nFloating (Ketil Bjørnstad album) (2005)\n\nFloating (EP), a 1991 EP by Bill Callahan\n\n\"Floating\" (The Moody Blues song) (1969)\n\n\"Floating\" (Megan Rochell song) (2006)\n\n\"Floating\" (Jape song) (2004)\n\n\"Floating\", a song by Jolin Tsai from the 2000 album Don't Stop\n\n\"Floating\", an instrumental song by Roddy Ellias from the 1974 Canadian promo album: \"CBC Radio Canada Broadcast Recording LM 402\"\n\n\"Floatin\", a 2018 song by Uncle Kracker\n\n\"Floating\", a song by Schoolboy Q featuring 21 Savage from the 2019 album Crash Talk\n\n\"Floating\", a 2018 song by Alina Baraz",
+  "url": "https://en.wikipedia.org/wiki/Floating",
+  "revision_id": 1307907980,
+  "article_id": 245985,
+  "section_path": "shared_text[0:1245]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1245
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "410a156c1ce38b724c15b0ac7555df6f9a70e980a7cd695e23c40779abff88c1",
+    "source_row_idx": 80697,
+    "source_shard": "enwiki/data/enwiki_namespace_0_5.parquet",
+    "text_sha256": "08e7ef7132d71825bfa753db4eae17056c282229c7e8c0370a737b3009463320",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1307907980",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "245985",
+    "revision_id": "1307907980",
+    "retrieved_at": "2026-10-18T12:22:41.798501+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1245,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-79396968-1349063427-eee648e12bde",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cardinal Wolsey at the Gate of Leicester Abbey",
+  "text": "Cardinal Wolsey at the Gate of Leicester Abbey is an 1847 history painting by the British artist Charles West Cope.\n\nIt depicts the English statesman Cardinal Wolsey arriving at Leicester Abbey in 1529 following his rapid fall from Henry VIII 's favour. He had been summoned south to face the king's judgment but too ill to continue he stopped at Leicester where he died. The painting depicts him being assisted by the canons regular of the pre- Dissolution abbey. Cope had assistance from the animal painter Edwin Landseer with the head of the mule.\n\nThe painting was displayed at the Royal Academy 's 1848 Summer Exhibition at the National Gallery. Today it is in the Royal Collection at Osborne House on the Isle of Wight.",
+  "url": "https://en.wikipedia.org/wiki/Cardinal_Wolsey_at_the_Gate_of_Leicester_Abbey",
+  "revision_id": 1349063427,
+  "article_id": 79396968,
+  "section_path": "shared_text[0:725]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    725
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 1612,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "40c3960feda2d7f79f4a35128a92e211e8ebc2b2b2ea46129305085f6c3c4224",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349063427",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "79396968",
+    "revision_id": "1349063427",
+    "retrieved_at": "2026-10-18T12:36:11.343904+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 725,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

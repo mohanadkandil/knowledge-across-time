@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2377911-1339123781-0a2cc17742fd",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cassiterides",
+  "text": "traffic in this sea for profit, although the passage was longer than that to Britain. Thus far concerning Iberia and the adjacent islands.\n\nHerodotus (430 BC) had only vaguely heard of the Cassiterides, \" from which we are said to have our tin \", but did not discount the islands as legendary. Later writers— Posidonius, Diodorus Siculus, Strabo and others—call them smallish islands off (\"some way off,\" Strabo says) the northwest coast of the Iberian Peninsula, which contained tin mines or, according to Strabo, tin and lead mines. A passage in Diodorus derives the name rather from their nearness to the tin districts of Northwest Iberia. Ptolemy and Dionysios Periegetes mentioned them—the former as ten small islands in northwest Iberia far off the coast and arranged symbolically as a ring, and the latter in connection with the mythical Hesperides. The islands are described by Pomponius Mela as rich in lead; they are mentioned last in the same paragraph he wrote about Cádiz and the islands of Lusitania, and placed in Celtici. Following paragraphs describe the Île de Sein and Britain.\n\nProbably written in the first century BC, the verse Circumnavigation of the World, whose anonymous author is called the \" Pseudo-Scymnus,\" places two tin islands in the upper part of the Adriatic Sea and mentioned the market place Osor on the island of Cres, where extraordinarily high quality tin could be bought. Pliny the Elder, on the other hand, represents the Cassiterides as fronting Celtiberia.\n\nAt a time when geographical knowledge of the West was still scanty, and when the secrets of the ti",
+  "url": "https://en.wikipedia.org/wiki/Cassiterides",
+  "revision_id": 1339123781,
+  "article_id": 2377911,
+  "section_path": "shared_text[0:7826]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 82849,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "cbf597aeaf716be7ba56a0cb0c05de4b74a9ec71a726b648128d2495c6c48808",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339123781",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2377911",
+    "revision_id": "1339123781",
+    "retrieved_at": "2026-10-18T12:39:41.290107+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7826,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

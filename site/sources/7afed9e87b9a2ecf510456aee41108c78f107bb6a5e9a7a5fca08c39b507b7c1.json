@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278773-1343987078-6df2e6249e18",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Greenland",
+  "text": "shavn and Ittoqqortoormiit – UTC+00\n\nPituffik – UTC-03\n\nRest of Greenland – UTC-02\n\nExtreme points of Greenland\n\nHigh: Gunnbjørn Fjeld 3,700 m (12,139 ft) – highest point in the Arctic\n\nLow: Arctic Ocean and North Atlantic Ocean 0 m\n\nLand boundaries: Canada 1,280 m (4,200 feet)\n\nCoastline: 44,087 km\n\nPopulation of Greenland: 56,344\n\nArea of Greenland: 2,166,086 km 2\n\nAtlas of Greenland\n\nClimate of Greenland\n\nEnvironmental issues in Greenland\n\nRenewable energy in Greenland\n\nGeology of Greenland\n\nProtected areas of Greenland\n\nBiosphere reserves in Greenland\n\nNational parks of Greenland\n\nWildlife of Greenland\n\nFlora of Greenland\n\nFlora and fauna of Greenland\n\nFauna of Greenland\n\nBirds of Greenland\n\nMammals of Greenland\n\nFlora and fauna of Greenland\n\nCanyons of Greenland\n\nGreenland's Grand Canyon\n\nFjords of Greenland\n\nGlaciers of Greenland\n\nIslands of Greenland\n\nLakes of Greenland\n\nMountains of Greenland\n\nRivers of Greenland\n\nWaterfalls of Greenland\n\nValleys of Greenland\n\nWorld Heritage Sites in Greenland\n\nRegions of Greenland\n\nList of ecoregions in Greenland\n\nAdministrative divisions of Greenland\n\nCounties of Greenland\n\nMunicipalities of Greenland\n\nCounties of Greenland\n\nMunicipalities of Greenland\n\nCapital of Greenland: Nuuk\n\nCities of Greenland\n\nDemographics of Greenland\n\nPolitics of Greenland\n\nForm of government: parliamentary representative democratic Danish dependency\n\nCapital of Greenland: Nuuk\n\nElections in Greenland\n\nPolitical parties in Greenland\n\nGovernment of Greenland\n\nHead of state: Queen of Denmark, Queen Margrethe II, represented by High Commissioner of Greenlan",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Greenland",
+  "revision_id": 1343987078,
+  "article_id": 16278773,
+  "section_path": "shared_text[0:5735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 41726,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "b70e845ff78947033b7ebfee205955d707ee2785d00f7612fcc94e80648903fe",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343987078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278773",
+    "revision_id": "1343987078",
+    "retrieved_at": "2026-10-18T12:28:44.137261+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

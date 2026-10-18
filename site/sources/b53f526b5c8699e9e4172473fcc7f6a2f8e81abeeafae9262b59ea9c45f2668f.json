@@ -1,0 +1,44 @@
+{
+  "id": "wiki-238522-1296086170-12d71ae4b762",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Marsh test",
+  "text": "The Marsh test is a highly sensitive method in the detection of arsenic, especially useful in the field of forensic toxicology when arsenic was used as a poison. It was developed by the chemist James Marsh and first published in 1836. The method continued to be used, with improvements, in forensic toxicology until the 1970s.\n\nArsenic, in the form of white arsenic trioxide As O, was a highly favored poison, being odourless, easily incorporated into food and drink, and before the advent of the Marsh test, untraceable in the body. In France, it came to be known as poudre de succession (\"inheritance powder\"). For the untrained, arsenic poisoning will have symptoms similar to cholera.\n\nThe first breakthrough in the detection of arsenic poisoning was in 1775 when Carl Wilhelm Scheele discovered a way to change arsenic trioxide to garlic-smelling arsine gas (AsH), by treating it with nitric acid (HNO) and combining it with zinc:\n\nAs O + 6 Zn + 12 HNO → 2 AsH + 6 Zn(NO) + 3 H O\n\nIn 1787, German physician Johann Metzger (1739-1805) discovered that if arsenic trioxide were heated in the presence of carbon, the arsenic would sublime. This is the reduction of As O by carbon:\n\n2 As O + 3 C → 3 CO + 4 As\n\nIn 1806, Valentin Rose took the stomach of a victim suspected of being poisoned and treated it with potassium carbonate (K CO), calcium oxide (CaO) and nitric acid. Any arsenic present would appear as arsenic trioxide and then could be subjected to Metzger's test.\n\nThe most common test (and used even today in water test kits) was discovered by Samuel Hahnemann. It would involve combinin",
+  "url": "https://en.wikipedia.org/wiki/Marsh_test",
+  "revision_id": 1296086170,
+  "article_id": 238522,
+  "section_path": "shared_text[0:7838]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a67b6526c068d50f9f1abe41e18d572b4ead5ff5b08784da9143555ee2e4e957",
+    "source_row_idx": 43262,
+    "source_shard": "enwiki/data/enwiki_namespace_0_4.parquet",
+    "text_sha256": "75a87295cef456e358b1badeaefa8f9c7e026068b35d4a2148765bcc6c2cfff8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1296086170",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "238522",
+    "revision_id": "1296086170",
+    "retrieved_at": "2026-10-18T12:40:36.292136+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7838,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

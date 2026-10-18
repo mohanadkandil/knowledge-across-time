@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3733949-1345839939-b3916b6491b6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Great Qing Legal Code",
+  "text": "when \"the declaration of the Supreme People's Court, the Supreme People's Procuratorate and the Ministry of Public Security on resolutely stopping the street display of convicted and unconvicted criminals\" was issued.\n\nIn Hong Kong, after the establishment of British rule in 1841, the Great Qing Legal Code remained in force for the local Chinese population. Until the end of the 19th century, Chinese offenders were still executed by decapitation, whereas British offenders would be put to death by hanging. Even long into the 20th century and well after the fall of the Qing dynasty in China, Chinese men in Hong Kong could still practice concubinage and polygamous kim-t'iu marriages permitted by the Qing Code, a situation that ended only with the passing of the Marriage Reform Ordinance 1970 (Cap. 178), which came into force on 7 October 1971. Until that point, the Great Qing Legal Code had been enforced in some form for 327 years (from 1644 to 1971).\n\nBecause there are still living concubines married before the Marriage Reform Ordinance (Cap. 178), and their rights (of inheritance, and the inheritance rights of their sons and daughters) are respected by the Hong Kong legal system (even after the 1997 handover), the Great Qing Legal Code is still admissible in evidence when handling legal cases relating to events that occurred before 1971.",
+  "url": "https://en.wikipedia.org/wiki/Great_Qing_Legal_Code",
+  "revision_id": 1345839939,
+  "article_id": 3733949,
+  "section_path": "shared_text[0:11437]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11437
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 46986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "aab4115faefefce5c4129bcb719fdf12085a18513633f6201242ae0c720eca4e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345839939",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3733949",
+    "revision_id": "1345839939",
+    "retrieved_at": "2026-10-18T12:24:10.514867+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 11437,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

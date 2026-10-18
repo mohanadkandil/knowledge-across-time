@@ -1,0 +1,36 @@
+{
+  "id": "bri-1782-28f8f6d58b27:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-1782-28f8f6d58b27",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+  "text": "The Lebinbizian monitor of moving force is altogether incompatible with the universal fact now mention- others, that the relative motions of bodies, relating from their mutual actions are not affected by any common motion, or the action of any equal and parallel force on both bodies. for the universal fact imports, that when two bodies are moving with and velocities in the fate direction, a fore applied to one of them, do as to the create its velocity, gives it the fame motion relative to the other, as if the bodies and been at refl. Here it is plain, that the farece defended by the body in consequence of the primitive force, and of the force now added, is the fames of the farece which each of them would generate in a boat at relt. Therefore the forces are proportional to the velocities or changes of motion which they produce, and noto to the figures of thofs velocities. This measure of forces, or the politics that a force makes the fame change, on any velocity when ever, and the independence of the relative motions on any motion that is the famen on all the bodies of a flyt",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+  "provenance": {
+    "page_id": "bri-1782-28f8f6d58b27",
+    "row_index": 1782,
+    "volume_id": "191253807",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 1, ABE-IMP - EB.7",
+    "label": 0,
+    "sha256": "28f8f6d58b2738592022196b9c1407b2ced903c0d38a8c22d39761ef26b4c9cc",
+    "width": 600,
+    "height": 836,
+    "image_file": "../images/bri-1782-28f8f6d58b27.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1782",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1338,
+    0.6516,
+    0.5381,
+    0.9305
+  ],
+  "offsets": [
+    0,
+    1091
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

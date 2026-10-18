@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-47be85b27539",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "y of the ambient air is calculated indirectly from three temperature measurements, in such a device accurate thermometer calibration is even more important than for a two-bulb configuration.\n\nVarious researchers have investigated the use of saturated salt solutions for calibrating hygrometers. Slushy mixtures of certain pure salts and distilled water have the property that they maintain an approximately constant humidity in a closed container. A saturated table salt (sodium chloride) bath will eventually give a reading of approximately 75%. Other salts have other equilibrium humidity levels: Lithium chloride ~11%; Magnesium chloride ~33%; Potassium carbonate ~43%; Potassium sulfate ~97%. Salt solutions will vary somewhat in humidity with temperature and they can take relatively long times to come to equilibrium, but their ease of use compensates somewhat for these disadvantages in low precision applications, such as checking mechanical and electronic hygrometers.",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    14400,
+    15377
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

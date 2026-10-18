@@ -1,0 +1,36 @@
+{
+  "id": "bri-2399-112d3fdfaec9:region-9:0",
+  "kind": "britannica",
+  "page_id": "bri-2399-112d3fdfaec9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+  "text": "It is possible to swim on the belly without the affilt-flow to once of the hands. For the period you and keep your bones over breit creë, your neck fragile, and the your hands to the belly hind your head, or upon your back, while you move the affil-forward by employing your feet. This way is not with aware of the out its advantages. It is an excellent reference when the hands, arms are forced with a cramy, or with any appliqutions which makes it painful to exert them. This in fine cafes may be preferable to feminning on the back; for while in the attitude, the means to reduce the value and turning every million. I can of your legs be closed with a crampy, take hold of it with the hand opposite to it; and let the other hand and leg to advance the figure youfeit.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+  "provenance": {
+    "page_id": "bri-2399-112d3fdfaec9",
+    "row_index": 2399,
+    "volume_id": "191678900",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 20 Part 1, SUI-THE - EB.9",
+    "label": 0,
+    "sha256": "112d3fdfaec9e4914178a7fbdea212d1ae192617740b0b9b6724a09270f9cee7",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-2399-112d3fdfaec9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2399",
+    "manual_seed": false
+  },
+  "region_id": "region-9",
+  "bbox_raw": [
+    0.4629,
+    0.3633,
+    0.8262,
+    0.5359
+  ],
+  "offsets": [
+    0,
+    771
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

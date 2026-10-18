@@ -1,0 +1,44 @@
+{
+  "id": "wiki-312054-1337661963-6c7875f5a76b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Palatine bone",
+  "text": "In anatomy, the palatine bones (/ ˈ p æ l ə t aɪ n /; derived from the Latin palatum) are two irregular bones of the facial skeleton in many animal species, located above the uvula in the throat. Together with the maxilla, they comprise the hard palate.\n\nThe palatine bones are situated at the back of the nasal cavity between the maxilla and the pterygoid process of the sphenoid bone.\n\nThey contribute to the walls of three cavities: the floor and lateral walls of the nasal cavity, the roof of the mouth, and the floor of the orbits. They help to form the pterygopalatine and pterygoid fossae, and the inferior orbital fissures.\n\nEach palatine bone somewhat resembles the letter L, and consists of a horizontal plate, a perpendicular plate, and three projecting processes—the pyramidal process, which is directed backward and lateral from the junction of the two parts, and the orbital and sphenoidal processes, which surmount the vertical part, and are separated by a deep notch, the sphenopalatine notch. The two plates form the posterior part of the hard palate and the floor of the nasal cavity; anteriorly, they join with the maxillae. The two horizontal plates articulate with each other at the posterior part of the median palatine suture and more anteriorly with the maxillae at the transverse palatine suture.\n\nThe human palatine articulates with six bones: the sphenoid, ethmoid, maxilla, inferior nasal concha, vomer and opposite palatine.\n\nThere are two important foramina in the palatine bones that transmit nerves and blood vessels to this region: the greater and lesser palatine. Th",
+  "url": "https://en.wikipedia.org/wiki/Palatine_bone",
+  "revision_id": 1337661963,
+  "article_id": 312054,
+  "section_path": "shared_text[0:4145]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 103034,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "3cc8b42438a950f44fed56fa98a5f6a5f5a2d795c035f412b89b2d4c04995730",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337661963",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "312054",
+    "revision_id": "1337661963",
+    "retrieved_at": "2026-10-18T12:21:56.038600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4145,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

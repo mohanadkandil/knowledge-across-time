@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1617188-1311625832-13ff3874aa6f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Laws of motion",
+  "text": "In physics, a number of noted theories of the motion of objects have developed. Among the best known are:\n\nClassical mechanics\n\nNewton's laws of motion\n\nEuler's laws of motion\n\nCauchy's equations of motion\n\nKepler's laws of planetary motion\n\nGeneral relativity\n\nSpecial relativity\n\nQuantum mechanics",
+  "url": "https://en.wikipedia.org/wiki/Laws_of_motion",
+  "revision_id": 1311625832,
+  "article_id": 1617188,
+  "section_path": "shared_text[0:299]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    299
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0bc1ee9e9d08835ce06949b29bac55f866c09308371256f12cc297da89312464",
+    "source_row_idx": 43036,
+    "source_shard": "enwiki/data/enwiki_namespace_0_6.parquet",
+    "text_sha256": "de99377354b292c416a441c413f980701b70acb2cf0660ca8e824f32cc575401",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1311625832",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1617188",
+    "revision_id": "1311625832",
+    "retrieved_at": "2026-10-18T12:37:32.496007+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 299,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

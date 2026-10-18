@@ -1,0 +1,44 @@
+{
+  "id": "wiki-8164527-1298928099-db1444dd2e16",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Samuel Clark",
+  "text": "Samuel Clark or Clarke may refer to:\n\nSamuel Clark (minister) (1727–1769), English minister\n\nSamuel Clark (New York and Michigan politician) (1800–1870), American politician from New York and Michigan\n\nSamuel Reed Clark (1826–?), American politician from Wisconsin\n\nSamuel M. Clark (1842–1900), American politician from Iowa\n\nSamuel Clark (rugby union) (1857–1947), Welsh international rugby player\n\nSamuel Churchill Clark (1842–1862), Confederate military officer\n\nSamuel Findlay Clark (1909–1998), Canadian soldier\n\nSamuel J. Clark, American demographer\n\nSamuel Kelly Clark (1924–2006), American mechanical engineer known for work in tire mechanics\n\nS. D. Clark (Samuel Delbert Clark, 1910–2003), Canadian sociologist\n\nSam Clark (born 1987), Australian actor and singer-songwriter\n\nSamuel Clarke (minister) (1599–1683), English clergyman and Puritan biographer\n\nSamuel Clarke (Archdeacon of Derby) (1582–1641), Church of England Laudian cleric and opponent of Puritanism\n\nSamuel Clarke (annotator) (1626–1701), English Nonconformist clergyman known as an assiduous annotator of the Bible\n\nSamuel Clarke (dean of Clonmacnoise), Anglican priest in Ireland during the 17th century\n\nSamuel Clarke (1675–1729), English philosopher and Anglican clergyman\n\nSamuel Clarke of St Albans (1684–1750), English Nonconformist pastor and theological writer\n\nSamuel Asahel Clarke (1827–1909), Oregon poet, journalist, and historian\n\nSamuel Clarke (Canadian politician) (1853–?), Canadian merchant and politician\n\nSam Clarke (motorcyclist) (born 1996), Australian motorcycle racer\n\nSir Samuel Clarke, 1st Baronet (d",
+  "url": "https://en.wikipedia.org/wiki/Samuel_Clark",
+  "revision_id": 1298928099,
+  "article_id": 8164527,
+  "section_path": "shared_text[0:1632]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "3f0dfd8e27d6d6cb2be2cd90815ec2e01d2eba94153c1cea30fa628866063161",
+    "source_row_idx": 85260,
+    "source_shard": "enwiki/data/enwiki_namespace_0_24.parquet",
+    "text_sha256": "7033d0bf97849d1c5bf1138031acb3be0c56f6295cb6485d1c8fe6737ae98bad",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1298928099",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "8164527",
+    "revision_id": "1298928099",
+    "retrieved_at": "2026-10-18T12:40:02.518385+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1632,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

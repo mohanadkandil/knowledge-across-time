@@ -1,0 +1,36 @@
+{
+  "id": "bri-1137-484b60a07551:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1137-484b60a07551",
+  "title": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+  "text": "Cany futal,",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+  "provenance": {
+    "page_id": "bri-1137-484b60a07551",
+    "row_index": 1137,
+    "volume_id": "193109112",
+    "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 2 - EB.14",
+    "label": 0,
+    "sha256": "484b60a075513f3c2fe43b48125173bb97294d324e2a391477b3043e21f46956",
+    "width": 600,
+    "height": 775,
+    "image_file": "../images/bri-1137-484b60a07551.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1137",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0869,
+    0.0625,
+    0.1367,
+    0.0984
+  ],
+  "offsets": [
+    0,
+    11
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

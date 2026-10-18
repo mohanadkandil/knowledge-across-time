@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1886037-1347466710-978a0889a0f7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Iridium(III) chloride",
+  "text": "s used in the for the preparation of other iridium complexes such as Vaska's complex, trans -. With the presence of the chloride anion, it forms hexachloroiridate(III), and produces hexachloroiridate(IV) in aqua regia. The trihydrate react with ammonia to form ammine complexes, such as pentaamminechloroiridium(III) chloride, formulated Cl. It also reacts with concentrated ammonium hydroxide at 150 °C to form the fully ammoniated complex, Cl. The hydrate can also form complexes upon reaction with bipyridine, acetonitrile, and pyridine.\n\nAlkene complexes such as cyclooctadiene iridium chloride dimer and chlorobis(cyclooctene)iridium dimer can also be prepared by heating the hydrate with the appropriate alkene in water/alcohol mixtures.\n\nThe trihydrate decomposes to the anhydrous form at 200 °C, which then oxidizes in air at 763 °C to iridium(IV) oxide, which then decomposes to iridium metal at 1070 °C. However, under hydrogen, it is directly reduced at 190 °C to iridium metal:\n\n2 IrCl + 3 H → 2 Ir + 6 HCl",
+  "url": "https://en.wikipedia.org/wiki/Iridium(III)_chloride",
+  "revision_id": 1347466710,
+  "article_id": 1886037,
+  "section_path": "shared_text[0:2458]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2458
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "671a25a5ed3ede93aaec7e53e253c931881f92995473243429e0ef0acdf34f25",
+    "source_row_idx": 60957,
+    "source_shard": "enwiki/data/enwiki_namespace_0_46.parquet",
+    "text_sha256": "c15e2e6a6fce4538b92ba27750f415ac20616a02b6637e564188d73dd2c0a92f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1347466710",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1886037",
+    "revision_id": "1347466710",
+    "retrieved_at": "2026-10-18T12:40:44.301774+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2458,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

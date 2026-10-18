@@ -1,0 +1,44 @@
+{
+  "id": "wiki-42773347-1343225217-32fef79f48e3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Battle of Hornshole",
+  "text": "The Battle of Hornshole was a skirmish fought in 1514 between an English raiding party and youths from Hawick, as most of the town's adult male population had been killed in the Battle of Flodden the previous year.\n\nAfter the Battle of Flodden the previous year, around a third of the whole Scottish army had been killed, making the Borders extremely vulnerable. English forces under the command of Lord Dacre were camped at Hornshole, around 2 miles (3.2 km) from Hawick, when a message reached Hawick that it was an English raiding party. Youths from the town gathered weapons and set off to confront them, attacking at night and soundly defeating the raiders.\n\nThe place name most likely means Heron's Hole, since there is a deep pool in the River Teviot here. Another possible meaning is Orm's Hole, after the same Anglian lord who gave his name to Ormiston, or Orm's Toun. Also possible, but less likely, is Hornie's Hole, a deep dwelling place for the Devil.\n\nDuring the battle, the pennon carried by the raiders was captured and taken as a trophy by the victors. Today, Hawick's coat of arms bears a pennon inscribed with \"1514\", the year of the battle.\n\nThe story of the Battle of Hornshole plays a central role in Common Riding celebrations in the town of Hawick.",
+  "url": "https://en.wikipedia.org/wiki/Battle_of_Hornshole",
+  "revision_id": 1343225217,
+  "article_id": 42773347,
+  "section_path": "shared_text[0:1272]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1272
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "27ed2f1e2fc651dc28fcbcfd0361e72071eb731b5507ce0b298eb5dc550d3913",
+    "source_row_idx": 57075,
+    "source_shard": "enwiki/data/enwiki_namespace_0_43.parquet",
+    "text_sha256": "db5cc871e0239af9793bf2fd7c8c2c282fbdd65395c91afdc02d97848e5441cd",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343225217",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "42773347",
+    "revision_id": "1343225217",
+    "retrieved_at": "2026-10-18T12:28:41.156604+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1272,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

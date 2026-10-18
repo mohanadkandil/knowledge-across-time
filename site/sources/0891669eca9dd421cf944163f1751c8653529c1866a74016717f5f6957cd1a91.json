@@ -1,0 +1,36 @@
+{
+  "id": "bri-1854-36bca28d19d7:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1854-36bca28d19d7",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "text": "In the year 692s, he made large extracts from the letters of Catalogue and Crabtree, by which his knowledge of dioptries was very much improved, is and during the time yet he made a number of celebital obterations when the weather would permit, which were afterwards published in the Philofolicized Transditions. In 1673 be complete a terrific on the future and apparated diameters of the planets, when at their greatest and leaf distance from the earth, which even the great Newton did not couple to borrow, and was four old of it in his Principia in 1685. He published an Ephemer in 1674, in which he created, the fully and abri-friendly of altroway and the fame year he drew up a table of the tides for the ufc of the king, with an altro-humoral account of their clothing and dividing, which Sir Jonas Moore suffered him worse he well received by his majority. Sir Jonas received from Mr Flanifted a pair of baremsters, with directions how the them, which he presented to the king and the thick of York, to whole notice he embraced every opportunity of introducing Mr Flanfled.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "provenance": {
+    "page_id": "bri-1854-36bca28d19d7",
+    "row_index": 1854,
+    "volume_id": "191320561",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+    "label": 0,
+    "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-1854-36bca28d19d7.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1055,
+    0.068,
+    0.4912,
+    0.3594
+  ],
+  "offsets": [
+    0,
+    1080
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

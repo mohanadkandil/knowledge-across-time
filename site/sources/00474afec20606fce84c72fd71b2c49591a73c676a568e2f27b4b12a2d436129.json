@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "Some say that the Septangint, who made their trans-lation in Egypt, changed the world _China_ has that of Rephans, because they had the same significance. Mr. Basange, in his book entitled _Lorish Goliquitites, after having discovered a good deal upon _Chion_, or _Remphans_, contains that Maledi was the sum, and _Chian, Chium_, or _Remphans_, the moon.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1328,
+    0.2703,
+    0.5264,
+    0.3625
+  ],
+  "offsets": [
+    0,
+    354
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

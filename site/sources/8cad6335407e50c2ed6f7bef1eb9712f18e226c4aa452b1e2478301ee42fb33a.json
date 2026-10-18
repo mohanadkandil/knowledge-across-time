@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "Thefe violence were one granted over a final or an inactive adversary. On the morning after his first de feat at Millefimo, Benulieu made one of thoef spirited efforts which often retrieve and alter the fortune of war. At the head of 7200 shohe Auftuth troops he attacked, at day-break, the village of Drgo, where the French reputed in security after their fenced. He took the villages, but the French having walked under General Maffena, fent the greater part of the day in attempting to retake. They were there is expelled, and one of their Generals, Gaulfs, was killed. Towards evening, however, Bonaparte in perforn having brought up renforments, the qui’ll was readers, and the Auft- triana retired with the late of 14 mo code preferences.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0098,
+    0.168,
+    0.4756,
+    0.3602
+  ],
+  "offsets": [
+    0,
+    744
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

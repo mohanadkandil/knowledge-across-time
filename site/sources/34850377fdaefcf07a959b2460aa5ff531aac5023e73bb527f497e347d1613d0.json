@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5857544-1352061597-d2accd3206c7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carron Company",
+  "text": "ron Company in 1773.: 139 However, despite Gascoigne's efforts, the quality of company's products had remained low, and the company's contracts to supply the Royal Navy were cancelled in 1773, with the company's cannon being removed from all naval vessels. A representative of the Royal Artillery, Captain Blair, inspected the Carron Works in 1774 and reported ongoing problems with quality and handling of the guns: \"on the death of Roebuck the Carron Guns had through the carelessness of the workmen very much deteriorated, and the firm lost ground.\" Despite this negative assessment, the report noted with approval that Charles Gascoigne was attempting to revive the firm.\n\nGascoigne pushed forward the development of a new type of cannon, originally known as the \"Gasconades\" but better known by its later name, the \" Carronade \". It was shorter and much lighter than a long gun of the same calibre, meaning that more could be carried, and it was also quicker to load and required a smaller crew. On the debit side, carronades had a short range.\n\nSome warships - mainly small ones - were equipped with carronades as their main or only armament, but such vessels were vulnerable to opponents armed with long guns. The carronade's principal use was on the upper decks of warships, where batteries of carronades replaced smaller numbers of long guns. This greatly increased firepower at the close ranges at which contemporary naval battles were usually fought, without impairing stability or sailing qualities.\n\nThe carronade was a considerable success, and remained in production from 1778 to the 1",
+  "url": "https://en.wikipedia.org/wiki/Carron_Company",
+  "revision_id": 1352061597,
+  "article_id": 5857544,
+  "section_path": "shared_text[0:7066]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 29772,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "567e0a0dcbdfa3c7369b7f0fcfb1b7a35b9e89f85f4e12a35f877abd14f14b24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352061597",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5857544",
+    "revision_id": "1352061597",
+    "retrieved_at": "2026-10-18T12:23:54.738575+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7066,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

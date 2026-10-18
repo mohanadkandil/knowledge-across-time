@@ -1,0 +1,44 @@
+{
+  "id": "wiki-190058-1333582997-bdf652aee12d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "George Buchanan (disambiguation)",
+  "text": "George Buchanan (1506–1582) was a Scottish humanist.\n\nGeorge Buchanan may also refer to:\n\nSir George Buchanan (soldier) (died 1651), Scottish soldier during the Wars of the Three Kingdoms\n\nGeorge Buchanan (surgeon) (1827–1905), Scottish surgeon\n\nSir George Buchanan (physician) (1831–1895), Chief Medical Officer (UK)\n\nSir George Buchanan (diplomat) (1854–1924), British diplomat\n\nGeorge Buchanan (engineer, born 1790) (1790–1852), Scottish civil engineer and land surveyor\n\nSir George Buchanan (engineer, born 1865) (1865–1940), British civil engineer\n\nSir George Seaton Buchanan (1869–1936), senior medical officer of the Ministry of Health (UK) and OIHP president\n\nGeorge Buchanan (politician) (1890–1955), Scottish politician\n\nGeorge Wesley Buchanan (1921–2019), American professor of theology\n\nGeorge A. Buchanan (1842–1864), recipient of the Medal of Honor for actions in the American Civil War\n\nGeorge Duncan Buchanan (c. 1935–2012), Anglican Bishop of Johannesburg",
+  "url": "https://en.wikipedia.org/wiki/George_Buchanan_(disambiguation)",
+  "revision_id": 1333582997,
+  "article_id": 190058,
+  "section_path": "shared_text[0:972]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    972
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 78462,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "107088d83b9150e62803cbc5c738c2987db639eac935fa520bd0b2d3be5848b9",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333582997",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "190058",
+    "revision_id": "1333582997",
+    "retrieved_at": "2026-10-18T12:38:21.181656+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 972,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

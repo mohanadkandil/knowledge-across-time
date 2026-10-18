@@ -1,0 +1,36 @@
+{
+  "id": "bri-0052-edf445c283a4:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0052-edf445c283a4",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+  "text": "Many of Lorraine, the new regard, though he had with great difficulty attained the immit of her willes, forced to be much life serfant in the arts of govern- men than of intrigue. She was famely fetted in her new office when the rendered herself, unpopular in two years ago we way her too great attachments to France, and the other by her perfection of the referred reli- gion. She was entirely guided by the cosmolial of her brothers the duke of Guile and the cardinal of Lorraine; and paid by far too much attention to M. AfQy fell the French animation where they recommended to her as an able and faithful induliter. Several high offices were filled with Frenchmen, which excited in the highest degree the reformation of the Scottish mobility and the community were utilized, prejudiced against her by the patrifully the flowed to the Papits. At furli, however, the catted many fairsary laws, and while the made a project herself through the fourteen provinces of the kingdom to hold judiciary courts, the endeavored to introduce order due how in the welfare countries and thus, furli by the end of Hunde key, and afterwards by the early of Argyle and Athleo, to whom the permit commit comfor for this purple with effetical powers. In another improvements, which the queen recent attempted by the advice of her French council, the most herself opposed by her own people. It was propelled that the profilised of every proprietor if him in the kingdom should be valued and entered in- to registers; and that a proportional payment should be made by each. The application of this fund was no maintain",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+  "provenance": {
+    "page_id": "bri-0052-edf445c283a4",
+    "row_index": 52,
+    "volume_id": "193109107",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.6",
+    "label": 0,
+    "sha256": "edf445c283a475e67ebea5bf2473d94313543d1b29bc04e6c668355e068db281",
+    "width": 600,
+    "height": 809,
+    "image_file": "../images/bri-0052-edf445c283a4.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=52",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1318,
+    0.393,
+    0.5332,
+    0.8703
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

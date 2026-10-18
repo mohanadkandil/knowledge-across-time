@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33770660-1353284089-c329539399e6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bhe v Magistrate, Khayelitsha",
+  "text": "d not be invalidated unless it was established that, when such transfer was taken, the transferee was on notice that the property in question was subject to a legal challenge on the grounds upon which the applicants brought challenges in this case. It was further declared that any estate that was being administered in terms of section 23 of the Act and its regulations would continue to be so administered until it was finally wound up, subject to paragraphs 4, 5 and 6 of the order of Court.\n\nNgcobo delivered a dissenting judgment in which he held that the rule of male primogeniture should be developed in order to bring it in line with the Bill of Rights.",
+  "url": "https://en.wikipedia.org/wiki/Bhe_v_Magistrate,_Khayelitsha",
+  "revision_id": 1353284089,
+  "article_id": 33770660,
+  "section_path": "shared_text[0:13621]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    12960,
+    13621
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7b629e6f7f330f34765c0c941e787f1d06f1caaaf060583a9284690086784b7d",
+    "source_row_idx": 18974,
+    "source_shard": "enwiki/data/enwiki_namespace_0_79.parquet",
+    "text_sha256": "6e2c62de4112d68796784c193ea416f2a7d8e84e929452a43ef3f0aed1341a4f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353284089",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33770660",
+    "revision_id": "1353284089",
+    "retrieved_at": "2026-10-18T12:23:18.638771+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13621,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

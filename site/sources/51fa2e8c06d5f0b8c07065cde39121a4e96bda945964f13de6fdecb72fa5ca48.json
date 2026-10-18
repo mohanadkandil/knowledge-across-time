@@ -1,0 +1,44 @@
+{
+  "id": "wiki-24079919-1324654424-b843f862d194",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aneuclis",
+  "text": "Aneuclis is a genus of the parasitic wasp family Ichneumonidae.\n\nAneuclis aciculifera Khalaim, 2004\n\nAneuclis anterior Horstmann, 1971\n\nAneuclis atra Khalaim, 2004\n\nAneuclis brevicauda (Thomson, 1889)\n\nAneuclis denticauda (Khalaim, 2005)\n\nAneuclis horstmanni Khalaim, 2004\n\nAneuclis incidens (Thomson, 1889)\n\nAneuclis interstitialis Horstmann, 2012\n\nAneuclis laminosa Khalaim, 2009\n\nAneuclis lanternaria Khalaim, 2009\n\nAneuclis larga Khalaim, 2009\n\nAneuclis lasciva Khalaim, 2009\n\nAneuclis lugubris Khalaim, 2009\n\nAneuclis luteola Khalaim, 2004\n\nAneuclis maritima (Thomson, 1889)\n\nAneuclis melanaria (Holmgren, 1860)\n\nAneuclis minutissima (Khalaim, 2005)\n\nAneuclis mongolica Khalaim, 2004\n\nAneuclis obscura Horstmann, 2012\n\nAneuclis petiolaris Horstmann, 2012\n\nAneuclis rhodesiana Khalaim, 2010\n\nAneuclis rufipleuris Horstmann, 1980\n\nAneuclis rufula Horstmann, 2012\n\nAneuclis semeonovnae Khalaim, 2004\n\nAneuclis stepposa Khalaim, 2004\n\nAneuclis stigmata Khalaim, 2004\n\nAneuclis tarbagataica Khalaim, 2004\n\nAneuclis unica Khalaim, 2004\n\nAneuclis vannoorti Khalaim, 2009",
+  "url": "https://en.wikipedia.org/wiki/Aneuclis",
+  "revision_id": 1324654424,
+  "article_id": 24079919,
+  "section_path": "shared_text[0:1068]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1068
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "95175e6573ee0d4ea77f53a4cb45e91d7537274cb56f60f48ccc2de289ed67d2",
+    "source_row_idx": 51909,
+    "source_shard": "enwiki/data/enwiki_namespace_0_27.parquet",
+    "text_sha256": "01c36c8b934c1465b9166bdb528ead6b359418691abc4edbe6e9a2778e02aa12",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1324654424",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "24079919",
+    "revision_id": "1324654424",
+    "retrieved_at": "2026-10-18T12:37:59.754150+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1068,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

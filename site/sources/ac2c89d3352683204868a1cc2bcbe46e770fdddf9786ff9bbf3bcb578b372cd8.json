@@ -1,0 +1,44 @@
+{
+  "id": "wiki-14458507-1275022989-1f965d23eeea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tailzie",
+  "text": "In Scots law, tailzie (/ ˈ t eɪ l i /) is a feudal concept of the inheritance of immovable property according to an arbitrary course that has been laid out, such as in a document known as a \"deed of tailzie\". It was codified by the Entail Act 1685.\n\nTailzie is similar to the common law concept of fee tail, as the \"heir in tailzie\" is entailed to the property. An \"heir in tailzie\" could not sell the property so inherited, except to the feu superior (that is, to the holder of the dominum directum of the feu).\n\nOther spellings of the word are tailie, taillie, tailze, tailyie, tailye, taylzie, teally, teilzie, telyie, teylyie tyle, talyee. It is derived from the Old French tailler 'to cut' and taille 'cutting'. The 'z' was, until the simplification of printing to 26 characters, a yogh (tailȝie) and so is not sounded.\n\nThe Entail Amendment Act 1848 gave all heirs in tailzie power to apply to the Court of Session to cease the deed of tailzie, compensate respective claims, thus take estate possession in fee simple. Part 5 of the Abolition of Feudal Tenure etc. (Scotland) Act 2000 disentailed all entailed land in Scotland and required the Keeper of the Registers of Scotland to close the Register of Entails.",
+  "url": "https://en.wikipedia.org/wiki/Tailzie",
+  "revision_id": 1275022989,
+  "article_id": 14458507,
+  "section_path": "shared_text[0:1218]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1218
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0f355e45447e556b76cdc0b7fb9f39949fd643845a381d48cfcfe69b541f2822",
+    "source_row_idx": 56748,
+    "source_shard": "enwiki/data/enwiki_namespace_0_19.parquet",
+    "text_sha256": "762cd8c711d99a1b27000727785595e45ea292edd9a0cd7f682e6f6022379135",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1275022989",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "14458507",
+    "revision_id": "1275022989",
+    "retrieved_at": "2026-10-18T12:23:08.552567+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1218,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

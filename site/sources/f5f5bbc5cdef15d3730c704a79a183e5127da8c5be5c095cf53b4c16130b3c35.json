@@ -1,0 +1,44 @@
+{
+  "id": "wiki-91111-1346228572-7531fab2ff02",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Angle trisection",
+  "text": "l length. Now, triangles ABC and BCD are isosceles, thus (by Fact 3 above) each has two equal angles.\n\nHypothesis: Given AD is a straight line, and AB, BC, and CD all have equal length,\n\nConclusion: angle b = a / 3.\n\nProof:\n\nFrom Fact 1) above, e + c = 180 {\\displaystyle e+c=180} °.\n\nLooking at triangle BCD, from Fact 2) e + 2 b = 180 {\\displaystyle e+2b=180} °.\n\nFrom the last two equations, c = 2 b {\\displaystyle c=2b}.\n\nTherefore, a = c + b = 2 b + b = 3 b {\\displaystyle a=c+b=2b+b=3b}.\n\nand the theorem is proved.\n\nAgain, this construction stepped outside the framework of allowed constructions by using a marked straightedge.\n\nThomas Hutcheson published an article in the Mathematics Teacher that used a string instead of a compass and straight edge. A string can be used as either a straight edge (by stretching it) or a compass (by fixing one point and identifying another), but can also wrap around a cylinder, the key to Hutcheson's solution.\n\nHutcheson constructed a cylinder from the angle to be trisected by drawing an arc across the angle, completing it as a circle, and constructing from that circle a cylinder on which a, say, equilateral triangle was inscribed (a 360-degree angle divided in three). This was then \"mapped\" onto the angle to be trisected, with a simple proof of similar triangles.\n\nA \" tomahawk \" is a geometric shape consisting of a semicircle and two orthogonal line segments, such that the length of the shorter segment is equal to the circle radius. Trisection is executed by leaning the end of the tomahawk's shorter segment on one ray, the circle's edge on t",
+  "url": "https://en.wikipedia.org/wiki/Angle_trisection",
+  "revision_id": 1346228572,
+  "article_id": 91111,
+  "section_path": "shared_text[0:14700]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 50196,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "e908650253b10099b5416141c04ec4e463f654589360793aabd4faf5c52dbf9e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346228572",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "91111",
+    "revision_id": "1346228572",
+    "retrieved_at": "2026-10-18T12:40:09.908163+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 14700,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

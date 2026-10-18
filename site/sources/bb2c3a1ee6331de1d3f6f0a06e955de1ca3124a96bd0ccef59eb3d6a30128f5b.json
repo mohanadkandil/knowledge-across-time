@@ -1,0 +1,36 @@
+{
+  "id": "bri-2286-bf2427da4447:region-18:0",
+  "kind": "britannica",
+  "page_id": "bri-2286-bf2427da4447",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+  "text": "The other facies are denominated militaris, larges,\nbericharge, terarum, gelatin, moldyta, himmatinas, flyt\ncinna, clarias, grandecimanilang, erythogerea, borra-\nchus, fufilris, vulatus, abbirindes, aficus, myusia, an-\ngulilaris, undatomasia, various, felis, cours, carrinus,\nstones, ciliatings, and blood.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+  "provenance": {
+    "page_id": "bri-2286-bf2427da4447",
+    "row_index": 2286,
+    "volume_id": "191679019",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 11 Part 1, HYD-JUN - EB.9",
+    "label": 0,
+    "sha256": "bf2427da444769a49359f48f9473754cb83b2796c186caccae883280aea98d72",
+    "width": 600,
+    "height": 781,
+    "image_file": "../images/bri-2286-bf2427da4447.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2286",
+    "manual_seed": false
+  },
+  "region_id": "region-18",
+  "bbox_raw": [
+    0.4785,
+    0.1109,
+    0.832,
+    0.1836
+  ],
+  "offsets": [
+    0,
+    306
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

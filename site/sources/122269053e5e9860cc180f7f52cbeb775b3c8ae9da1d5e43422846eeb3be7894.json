@@ -1,0 +1,44 @@
+{
+  "id": "wiki-61988406-1323653660-0852232eaae6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Minstrel (disambiguation)",
+  "text": "A minstrel was a medieval European entertainer.\n\nMinstrel(s) may also refer to:\n\nA performer in minstrel shows, comedic skits with black face\n\nMinstrel (1811 ship)\n\nGalaxy Minstrels, a type of chocolate candy\n\nThe Minstrel, a Thoroughbred racehorse\n\nThe 12th Prelude, Minstrels by Claude Debussy",
+  "url": "https://en.wikipedia.org/wiki/Minstrel_(disambiguation)",
+  "revision_id": 1323653660,
+  "article_id": 61988406,
+  "section_path": "shared_text[0:295]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    295
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 25495,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "1e8c71460b84c3ed3ea73673c5301276f01384bc12287eeee729766c7c6b3a35",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1323653660",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "61988406",
+    "revision_id": "1323653660",
+    "retrieved_at": "2026-10-18T12:37:26.916274+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 295,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0504-f34cf1fc8349:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0504-f34cf1fc8349",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+  "text": "On this theory, the transfer of the Chemical Dic-tion has the following observations. \" Mr Heilot\nhas not shown that pore fixed alkali is incapable of producing the effects which he attributes to his tartar and viriolated tartar; and both their falsa, though they are difficult for solution and require great quantity of water for this purpose, will yet diffuse at halt a shell therefor, if the coloring particles were fixed directly by means of their falsa, they might be washed out by a large quantity of water; which we find to be contrary to experience.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+  "provenance": {
+    "page_id": "bri-0504-f34cf1fc8349",
+    "row_index": 504,
+    "volume_id": "144850375",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+    "label": 0,
+    "sha256": "f34cf1fc83499701f722e1e77ec94d731ed921002b4d0256cc72ebd889ce2676",
+    "width": 600,
+    "height": 808,
+    "image_file": "../images/bri-0504-f34cf1fc8349.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.5049,
+    0.0453,
+    0.9971,
+    0.1875
+  ],
+  "offsets": [
+    0,
+    557
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

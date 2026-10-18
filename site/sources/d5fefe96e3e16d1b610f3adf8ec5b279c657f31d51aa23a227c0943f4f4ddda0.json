@@ -1,0 +1,44 @@
+{
+  "id": "wiki-32862213-1335212185-b4205fe6a2e1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hours of James IV of Scotland",
+  "text": "The Hours of James IV of Scotland, Prayer book of James IV and Queen Margaret (or variants) is an illuminated book of hours, produced in 1503 or later, probably in Ghent. It marks a highpoint of the late 15th century Ghent-Bruges school of illumination and is now in the Austrian National Library in Vienna (Österreichische Nationalbibliothek, Codex Vindobonensis 1897). It is thought to have been a wedding gift from James IV of Scotland or another Scottish nobleman to James's wife Margaret Tudor on the occasion of their marriage, perhaps finishing a book already started for another purpose. A number of artists worked on the extensive programme of decoration, so that \"the manuscript in its entirety presents a rather odd picture of heterogeneity\". The best known miniature, a full-page portrait of James at prayer before an altar with an altarpiece of Christ and an altar frontal with James's coat-of-arms, gave his name to the Master of James IV of Scotland, who is now generally identified as Gerard Horenbout, court painter to Margaret of Austria; he did only one other miniature in the book. The equivalent image of Margaret is the only image by another artist, using a rather generic face for the queen's portrait, and in a similar style to that of the Master of the First Prayer Book of Maximilian. Other artists worked on the other miniatures, which include an unusual series of unpopulated landscapes in the calendar – perhaps the Flemish artists were not sure how Scots should be dressed.\n\nDrawings had evidently been sent to Flanders of James' portrait and the heraldry of the couple,",
+  "url": "https://en.wikipedia.org/wiki/Hours_of_James_IV_of_Scotland",
+  "revision_id": 1335212185,
+  "article_id": 32862213,
+  "section_path": "shared_text[0:2860]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 62017,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "1557fad6c49343f75068b3a95a8931eac287c446e0d4e9f20636f0b1d13ba2f7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335212185",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "32862213",
+    "revision_id": "1335212185",
+    "retrieved_at": "2026-10-18T12:28:40.221343+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2860,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

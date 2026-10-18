@@ -1,0 +1,36 @@
+{
+  "id": "bri-0902-5d7a505f7997:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-0902-5d7a505f7997",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+  "text": "2 The following is a translation of the inscription by Dr. Refer, secretary of the Royal Antiquarian Society of Copenhagen (...",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+  "provenance": {
+    "page_id": "bri-0902-5d7a505f7997",
+    "row_index": 902,
+    "volume_id": "193469090",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 10, France-GRO - EB.15",
+    "label": 0,
+    "sha256": "5d7a505f7997d6119e5537ad4ee2ccd72dd104c3a767a8014470c2799d641a3d",
+    "width": 600,
+    "height": 790,
+    "image_file": "../images/bri-0902-5d7a505f7997.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=902",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0742,
+    0.9344,
+    0.8564,
+    0.95
+  ],
+  "offsets": [
+    0,
+    127
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7131222-1326183336-5e0e060e44b0",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bright-field microscopy",
+  "text": "e that are commonly known are the arm, the head, the illuminator, the base, the stage, the adjusters, and the brightness adjuster. The condenser of the microscope allows no extra light from the surroundings to interfere with the light path and condenses the light from the illuminator to make a uniform light path. The objective lens and the ocular lens work together, the ocular lens is ten times magnification and the ocular lens has different numbers by how much they can go up to, the highest being 400, the two together make up to 4,000x magnification. The aperture is a part of the diaphragm that controls the diameter of the beam passing through the sample at a time. The adjusters move the stage up and down towards the objective lens and the arm, head, and base.\n\nThe light path of a bright-field microscope is extremely simple; no additional components are required beyond the normal light-microscope setup. The light path begins at the illuminator or the light source on the base of the microscope. Often a halogen lamp is used. The light travels through the objective lens into the ocular lens, through which the image is viewed. Bright-field microscopy may use critical or Köhler illumination to illuminate the sample.\n\nBright-field microscopes are very simple to use and can be used to view both stained and unstained specimens. The optics do not change the color of the specimen, making it easy to interpret what is observed.\n\nBright-field microscopy is a standard light-microscopy technique, and therefore magnification is limited by the resolving power possible with the wavelength o",
+  "url": "https://en.wikipedia.org/wiki/Bright-field_microscopy",
+  "revision_id": 1326183336,
+  "article_id": 7131222,
+  "section_path": "shared_text[0:5991]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 2213,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "aa7875fe3a0bd9db24de4265251900b13e18aa98f1674628bf312117fed69981",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326183336",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7131222",
+    "revision_id": "1326183336",
+    "retrieved_at": "2026-10-18T12:39:32.270876+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5991,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

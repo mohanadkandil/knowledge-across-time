@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2629-1335326573-7216e0952ffc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegisthus",
+  "text": "e, Aerope. In revenge, Atreus killed Thyestes's sons and served them to him unknowingly. After realizing he had eaten his own sons' corpses, Thyestes asked an oracle how best to gain revenge. The advice was to father a son with his own daughter, Pelopia, and that son would kill Atreus.\n\nThyestes raped Pelopia after she performed a sacrifice, hiding his identity from her. When Aegisthus was born, his mother abandoned him, ashamed of his origin, and he was raised by shepherds and suckled by a goat, hence his name Aegisthus (from αἴξ, male goat). Atreus, not knowing the baby's origin, took Aegisthus in and raised him as his own son.\n\nIn the night in which Pelopia had been raped by her father, she had taken from him his sword which she afterwards gave to Aegisthus. When she discovered that the sword belonged to her own father, she realised that her son was the product of incestuous rape. In despair, she killed herself. Atreus in his enmity towards his brother sent Aegisthus to kill him; but the sword which Aegisthus carried was the cause of the recognition between Thyestes and his son, and the latter returned and slew his uncle Atreus, while he was offering a sacrifice on the seacoast. Aegisthus and his father now took possession of their lawful inheritance from which they had been expelled by Atreus.\n\nAegisthus and Thyestes thereafter ruled over Mycenae jointly, exiling Atreus's sons Agamemnon and Menelaus to Sparta, where King Tyndareus gave the pair his daughters, Clytemnestra and Helen, to take as wives. Agamemnon and Clytemnestra had four children: one son, Orestes, and th",
+  "url": "https://en.wikipedia.org/wiki/Aegisthus",
+  "revision_id": 1335326573,
+  "article_id": 2629,
+  "section_path": "shared_text[0:6583]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 34952,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "e1259396cc84c193de234ba67f6b4108d8adb07a4ff52741d3aeddf965ac3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335326573",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2629",
+    "revision_id": "1335326573",
+    "retrieved_at": "2026-10-18T12:37:03.912407+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6583,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

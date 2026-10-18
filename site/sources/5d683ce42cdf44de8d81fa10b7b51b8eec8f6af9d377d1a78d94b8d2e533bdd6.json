@@ -1,0 +1,36 @@
+{
+  "id": "bri-0966-64586d30c5c9:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-0966-64586d30c5c9",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "text": "Of all the classes or assemblages of aqueous deposits, that which is the means to our own days in point of date is the least exact in its boundaries and characters. While, cer- evening the older periods, the problem of the condition of the globe have principally confined to considerations relating to the sea, and that the phenomena could be investigated according to their principles, applicable to what the greater number of strata; the tertiary deposits compel us here also upon more complicated researchers concerned with the land, and, in discussing the history of still later phenomena, in the nation of physical geography assume that higher degrees of importance. The consequences is an amount of local diversity to great as to nearly annihilate all generally of results.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "provenance": {
+    "page_id": "bri-0966-64586d30c5c9",
+    "row_index": 966,
+    "volume_id": "193819044",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+    "label": 0,
+    "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+    "width": 600,
+    "height": 818,
+    "image_file": "../images/bri-0966-64586d30c5c9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5625,
+    0.6797,
+    0.9502,
+    0.8492
+  ],
+  "offsets": [
+    0,
+    779
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

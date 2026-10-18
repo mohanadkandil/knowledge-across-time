@@ -1,0 +1,44 @@
+{
+  "id": "wiki-12063744-1345560482-1162095ff5ed",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Loricaria",
+  "text": "Loricaria is a genus of freshwater ray-finned fishes belonging to the family Loricariidae, the suckermouth armored catfishes, and the subfamily Loricariinae, the mailed catfishes. The catfishes in this genus are found in South America.\n\nLoricaria was the first genus of the family Loricariidae described. Thus, it is the nominal genus of the family Loricariidae. Phylogenetic relationships within Loricaria and among other members of Loricariini remain uncertain. Its external morphology shows few shared derived characters, making comparison with other genera difficult. Loricaria has been hypothesized to occupy a basal position among members of the subtribe Loricariina, with the other genera possessingderived characters. Based on the characteristics of its mouth, Loricaria appears to maintain a close relationship with representatives of the Pseudohemiodon group. Proloricaria has been considered a synonym of Loricaria.\n\nLoricaria contains the following valid, recognised species;\n\nLoricaria apeltogaster Boulenger, 1895\n\nLoricaria birindellii Thomas & Sabaj Pérez, 2010\n\nLoricaria cataphracta Linnaeus, 1758\n\nLoricaria clavipinna Fowler, 1940\n\nLoricaria coximensis Rodriguez, Cavallaro & Thomas, 2012\n\nLoricaria cuffyi Londoño-Burbano, Urbano-Bonilla & Thomas, 2020\n\nLoricaria holmbergi Rodriguez & Miquelarena, 2005\n\nLoricaria lata C. H. Eigenmann & R. S. Eigenmann, 1889\n\nLoricaria luciae Thomas, Rodriguez, Carvallaro, Froehlich & R. M. C. Castro, 2013\n\nLoricaria lundbergi Thomas & Rapp Py-Daniel, 2008\n\nLoricaria nickeriensis Isbrücker, 1979\n\nLoricaria nimairaco Londoño-Burbano, Urbano-",
+  "url": "https://en.wikipedia.org/wiki/Loricaria",
+  "revision_id": 1345560482,
+  "article_id": 12063744,
+  "section_path": "shared_text[0:3005]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "1eaa2b9b80af61b12e7525d0437c7bb300bf18e8ab3c3ee01302519495630f0c",
+    "source_row_idx": 33211,
+    "source_shard": "enwiki/data/enwiki_namespace_0_37.parquet",
+    "text_sha256": "9bf887ba709eac7342898cb1b3be111a6a5241dee8dc474a0f379a49f8fd204a",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345560482",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "12063744",
+    "revision_id": "1345560482",
+    "retrieved_at": "2026-10-18T12:40:27.778558+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3005,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

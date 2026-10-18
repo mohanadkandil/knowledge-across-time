@@ -1,0 +1,44 @@
+{
+  "id": "wiki-26915344-1344922007-883cd20ff073",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ata (name)",
+  "text": "Ata is the anglicized form of several names in several languages around the world.\n\nIn Tswana, Ata means “increase”.\n\nIn Turkish, Ata is a masculine given name meaning \" Forefather \".\n\nIn Hebrew, Ata (אתה) means \"you\".\n\nIn Ogba, Ata means “child” and can also mean Father and King. This if often based on context and root.\n\nIn Arabic, ‘Aṭā (عطا) is a name meaning \" Gift \". It also appears in Persian (عطا).\n\nIn Fante, Ata means \"one of twins\".\n\nAta, Atta, or Ataa may refer more specifically to:\n\nAta is the anglicized form of several unrelated personal names and lexical terms that appear independently in multiple languages and cultures worldwide. Despite similarities in spelling and pronunciation, these forms generally arise from distinct linguistic roots and do not share a single common etymology.\n\nThe term Ata functions both as a given name and as a common word in various languages. In some contexts it denotes kinship, authority, or ancestry; in others it conveys abstract meanings such as time of day, goodness, or grammatical function. The recurrence of the form across cultures is widely regarded as coincidental rather than evidence of historical connection.\n\nIgala (Nigeria): Àtá is a royal title meaning \"king\" or \"father\" and is borne by the paramount ruler of the Igala Kingdom.\n\nFante (Ghana): Ata is a traditional personal name given to one of a pair of twins.\n\nOgba (Nigeria, Rivers State): Ata is used as a personal name meaning \"child,\" and has the meaning same as Igala where the name was drived. Àtá often spelt Attah, Atta and Atà can also mean Father, King and Leader.\n\nO",
+  "url": "https://en.wikipedia.org/wiki/Ata_(name)",
+  "revision_id": 1344922007,
+  "article_id": 26915344,
+  "section_path": "shared_text[0:5099]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 246,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "b5ffe5763b8b2f8e4a25f4df692e4d281d24cf0dcc666facc52f6e941416ae6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344922007",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "26915344",
+    "revision_id": "1344922007",
+    "retrieved_at": "2026-10-18T12:24:23.017352+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5099,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

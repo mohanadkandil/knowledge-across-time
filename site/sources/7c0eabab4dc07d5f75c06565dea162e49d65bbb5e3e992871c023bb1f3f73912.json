@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-3deb4df75aa7",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": " good reference work and educational tool, but to systematize all human knowledge. The absence of a separate index and the grouping of articles into parallel encyclopaedias (the Micro- and Macropædia) provoked a \"firestorm of criticism\" of the initial 15th edition. In response, the 15th edition was completely reorganized and indexed for a re-release in 1985. This second version of the 15th edition continued to be published and revised through the release of the 2010 print version. The official title of the 15th edition is The New Encyclopædia Britannica, although it has also been promoted as Britannica 3.\n\nOn 9 March 1976 the US Federal Trade Commission entered an opinion and order enjoining Encyclopædia Britannica, Inc. from using: a) deceptive advertising practices in recruiting sales agents and obtaining sales leads, and b) deceptive sales practices in the door-to-door presentations of its sales agents.\n\nIn the fifth era (1994–present), digital versions have been developed and released on optical media and online.\n\nIn 1996, the Britannica was bought by Jacqui Safra at well below its estimated value, owing to the company's financial difficulties. Encyclopædia Britannica, Inc. split in 1999. One part retained the company name and developed the print version, and the other, Britannica.com Incorporated, developed digital versions. Since 2001, the two companies have shared a CEO, Ilan Yeshua, who has continued Powell's strategy of introducing new products with the Britannica name. In March 2012, Britannica's president, Jorge Cauz, announced that it would not produce any new p",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    11520,
+    13120
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

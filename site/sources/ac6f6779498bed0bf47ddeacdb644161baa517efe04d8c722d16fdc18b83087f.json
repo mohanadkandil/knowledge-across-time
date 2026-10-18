@@ -1,0 +1,36 @@
+{
+  "id": "bri-0608-5cb01932cdde:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-0608-5cb01932cdde",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+  "text": "The memory of Quarter, Jays a late author, has been _fact here_ braised with more than camera shing, and he learns to five pro- even noticed directly from the corner of being read _next rig._ If his poetry failed to gain him friends and readers, his _Jogo Party_.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+  "provenance": {
+    "page_id": "bri-0608-5cb01932cdde",
+    "row_index": 608,
+    "volume_id": "191320558",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+    "label": 0,
+    "sha256": "5cb01932cddebc17e7f873ed9584f937a9c07d1c84bec2d58b28d1c0620146a1",
+    "width": 600,
+    "height": 784,
+    "image_file": "../images/bri-0608-5cb01932cdde.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.4805,
+    0.3578,
+    0.8896,
+    0.4031
+  ],
+  "offsets": [
+    0,
+    263
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

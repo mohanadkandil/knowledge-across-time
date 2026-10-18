@@ -1,0 +1,44 @@
+{
+  "id": "wiki-23159504-1318177268-dd4baf97ebad",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of chocolate",
+  "text": "acted from the cocoa bean\n\nCocoa solids – Mixture remaining after cocoa butter is extracted from cocoa beans\n\nMilk – Nutrient-rich liquid produced by mammals\n\nSugar – Sweet-tasting, water-soluble carbohydrates\n\nVanilla – Spice extracted from orchids of the genus Vanilla\n\nEmulsifier – Mixture of two or more immiscible liquids\n\nLecithin – Generic term for amphiphilic substances of plant and animal origin\n\nPolyglycerol polyricinoleate – Emulsion used in food production\n\nAntioxidants – Compound that inhibits the oxidation of other molecules\n\nCatechin – Type of natural phenol as a plant secondary metabolite\n\nFlavonols – Class of plant and fungus secondary metabolites\n\nCaffeine – Central nervous system stimulant\n\nPhenethylamine – psychoactive drug that is usually inactive when orally ingested because most of it is metabolized into phenylacetic acid by monoamine oxidase (MAO), preventing significant concentrations from reaching the brain\n\nTheobromine – also known as xantheose, it contains no bromine and has a similar, but lesser, effect to caffeine\n\nTheophylline – methylxanthine drug found in tea leaves\n\nTheobroma cacao, also known as Cacao tree – Species of tree grown for its seeds\n\nTypes of cocoa beans\n\nChild labour in cocoa production – Use of children in the production of cocoa beans\n\nEnvironmental impact of cocoa production\n\nBy country\n\nCocoa production in Ivory Coast\n\nCocoa production in Ghana\n\nCocoa production in Nigeria\n\nCocoa production in São Tomé and Príncipe\n\nCocoa production in Sri Lanka\n\nTypes of chocolate – Classification of different chocolate types\n\nAerated chocol",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_chocolate",
+  "revision_id": 1318177268,
+  "article_id": 23159504,
+  "section_path": "shared_text[0:9287]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 111828,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "d27b94eb7e648adb0cd98875b936fcf5f60a3d760368185a7f037b9f1b49b80f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318177268",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "23159504",
+    "revision_id": "1318177268",
+    "retrieved_at": "2026-10-18T12:16:14.053579+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9287,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-4321378-1335273811-d536aa0da2de",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Geometry Center",
+  "text": "n based on William Thurston 's method.\n\nThe Shape of Space, exploring possible three-dimensional spaces.\n\nOther notable software developed at the Center included:\n\nSurface Evolver, to explore minimal surfaces.\n\nSnapPea, a hyperbolic 3-manifold analyzer.\n\nRichard McGehee, the center's director, has stated that the website was one of the first one hundred websites ever published. That website is available as an archive.",
+  "url": "https://en.wikipedia.org/wiki/Geometry_Center",
+  "revision_id": 1335273811,
+  "article_id": 4321378,
+  "section_path": "shared_text[0:1861]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    1861
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2f63e87188c2f97627ff8759899bcee2c5b33faa33cdbe8c83ceb86edc3e28c6",
+    "source_row_idx": 33103,
+    "source_shard": "enwiki/data/enwiki_namespace_0_41.parquet",
+    "text_sha256": "030cd96de9278a1e95908d99b1f926ab96802330a9778dacf607470a4f885888",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335273811",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "4321378",
+    "revision_id": "1335273811",
+    "retrieved_at": "2026-10-18T12:38:07.635481+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1861,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

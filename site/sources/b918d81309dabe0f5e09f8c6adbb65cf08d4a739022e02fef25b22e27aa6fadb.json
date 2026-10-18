@@ -1,0 +1,44 @@
+{
+  "id": "wiki-43600390-1211914063-1a91a535149d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Buoyancy control",
+  "text": "Buoyancy control may refer to:\n\nBuoyancy control of scuba divers\n\nBuoyancy control of surface supplied divers\n\nThe scuba diving skill of buoyancy control\n\nBuoyancy control of submarines\n\nBuoyancy control of submersibles\n\nBuoyancy control of airships",
+  "url": "https://en.wikipedia.org/wiki/Buoyancy_control",
+  "revision_id": 1211914063,
+  "article_id": 43600390,
+  "section_path": "shared_text[0:249]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    249
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "ce840e1dbebaa350816afefeccba6536b7b8c285d737ab31530fa282af303c7c",
+    "source_row_idx": 6518,
+    "source_shard": "enwiki/data/enwiki_namespace_0_2.parquet",
+    "text_sha256": "06114e0c7ab1e7eafcceb04311ab05b2455058c4df603ab26364aeb6fb982aa4",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1211914063",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "43600390",
+    "revision_id": "1211914063",
+    "retrieved_at": "2026-10-18T12:41:19.246561+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 249,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

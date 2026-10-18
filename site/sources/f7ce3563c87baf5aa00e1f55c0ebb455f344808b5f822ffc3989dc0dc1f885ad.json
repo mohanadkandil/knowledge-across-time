@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-54225c463019",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": "The Greenland Sea (Danish: Grønlandshavet) is a body of water that borders Greenland to the west, the Svalbard archipelago to the east, Fram Strait and the Arctic Ocean to the north, and the Norwegian Sea and Iceland to the south. The Greenland Sea is often defined as part of the Arctic Ocean, sometimes as part of the Atlantic Ocean. However, definitions of the Arctic Ocean and its seas tend to be imprecise or arbitrary. In general usage the term \"Arctic Ocean\" would exclude the Greenland Sea. In oceanographic studies the Greenland Sea is considered part of the Nordic Seas, along with the Norwegian Sea. In oceanography the Arctic Ocean and Nordic Seas are often referred to collectively as the \"Arctic Mediterranean Sea\", a marginal sea of the Atlantic.\n\nThe sea has Arctic climate with regular northern winds and temperatures rarely rising above 0 °C (32 °F). It previously contained the Odden ice tongue (or Odden) area, which extended eastward from the main East Greenland ice edge in the vicinity of 72 – 74°N during the winter and acted as a key winter ice formation area in the Arctic. The West Ice forms in winter in the Greenland Sea, north of Iceland, between Greenland and Jan Mayen island. It is a major breeding ground of harp seal and hooded seal that has been used for seal hunting for more than 200 years.\n\nThe International Hydrographic Organization defines the limits of the Greenland Sea as follows:\n\nOn the North. A line joining the Northernmost point of Spitzbergen to the Northernmost point of Greenland.\n\nOn the East. The West coast of West Spitzbergen.\n\nOn the Southeas",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-1230-4f96d9bebe42:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1230-4f96d9bebe42",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+  "text": "M. Beume alfo pretends that clay contains a little vitrile acid, and is therefore fobble in a large quantity of boiling water. Mr Schebel likewise tried this experiments but found, that of several kinds of argyliaceous earth not the finalelfi quantity was diffused; and an hu fewife made feared experiments in order obtain virkleoid. from pure clay, line without fluo- cefs: neither was he able to obtain any lepar either by means of all other of tartar or with removal) nor could be obtain with clay a strindineutral fat from the refriduum of the dithilation of muricans and ferrous acid.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+  "provenance": {
+    "page_id": "bri-1230-4f96d9bebe42",
+    "row_index": 1230,
+    "volume_id": "149979156",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+    "label": 0,
+    "sha256": "4f96d9bebe421b6d59e2a525f5b1a686601a8468f7bf92ed458f450ebd6e14b3",
+    "width": 600,
+    "height": 783,
+    "image_file": "../images/bri-1230-4f96d9bebe42.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.082,
+    0.0492,
+    0.4629,
+    0.1984
+  ],
+  "offsets": [
+    0,
+    589
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

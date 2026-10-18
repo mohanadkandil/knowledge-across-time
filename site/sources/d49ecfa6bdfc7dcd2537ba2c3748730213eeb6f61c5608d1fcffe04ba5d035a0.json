@@ -1,0 +1,44 @@
+{
+  "id": "wiki-29611-1232795600-184e16e546ea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Scripture (disambiguation)",
+  "text": "Scripture is that portion of literature deemed authoritative for establishing instructions within any of a number of specific religious traditions, especially the Abrahamic religions.\n\nScripture or Scriptures may also refer to:\n\nReligious education, in British schools\n\nScripture: No Word Needed, by French Canadian composer Jean-Pierre Isaac\n\nPeople with surname Scripture:\n\nBill Scripture (1941–2018), American baseball player\n\nEdward Wheeler Scripture (1864–1945), American physician and psychologist\n\nScriptures (Benediction album)\n\nScriptures (Tee Grizzley album)\n\nScriptures (band), an instrumental collective from Seattle, Washington\n\nThe Scriptures (album), an album by Christian Death",
+  "url": "https://en.wikipedia.org/wiki/Scripture_(disambiguation)",
+  "revision_id": 1232795600,
+  "article_id": 29611,
+  "section_path": "shared_text[0:693]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    693
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 7143,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "65f975d7d772b35ae30e6f5109cabd696556d9fd5253261ccb9fb24efc619d79",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1232795600",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "29611",
+    "revision_id": "1232795600",
+    "retrieved_at": "2026-10-18T12:39:01.813463+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 693,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

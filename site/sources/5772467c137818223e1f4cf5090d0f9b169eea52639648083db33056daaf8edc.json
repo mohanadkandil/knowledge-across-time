@@ -1,0 +1,36 @@
+{
+  "id": "bri-1119-6038f74f3508:region-45:0",
+  "kind": "britannica",
+  "page_id": "bri-1119-6038f74f3508",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+  "text": "(a) Great part of the hill of Bineves in Locahaber is composed of a kind of porphyry. It is remarkably fine, beautiful, and of an elegant reddish color; 1⁄2 in which (days Mr Williams), the pale role, the bluh, and the yellowish white colours, are finely blended and faded, through the body of the flone; which is of a jelly- like texture, and is undoubtedly one of the finet and mole elegant those in the world. On this hill alo is found a kind of porphyry of a growth colony with a living of brownish red. It is smooth, compact, and heavy; of a clote uniform texture, but has no brightened when broken. It has angular fpecks in it of a white quartzy fuhlance<sup>?</sup>",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+  "provenance": {
+    "page_id": "bri-1119-6038f74f3508",
+    "row_index": 1119,
+    "volume_id": "190273372",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+    "label": 0,
+    "sha256": "6038f74f350870163df4765405fd995f18c6929275fe77a7a46f4e71558fb87c",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1119-6038f74f3508.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+    "manual_seed": false
+  },
+  "region_id": "region-45",
+  "bbox_raw": [
+    0.1094,
+    0.825,
+    0.8633,
+    0.9203
+  ],
+  "offsets": [
+    0,
+    672
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0337-6c951865e546:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0337-6c951865e546",
+  "title": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+  "text": "Bonaparte had now thrown himself between the Auft- trian and Sanitation armies. By the poliffinion of the\nstrong poll of Drgo, like right was forced against the efforts of Beaulieu, while he was enabled to act with the maid of his force against the Pfandmonté troops. His enterprise in this quarter were facilitated by the exertions of Augereau, who had opened a communica tion with the valley of the Panama, where Serrure's division was approaching the town of Ceva, each which the Piedmostle had an entrenched camp defended by 8500.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+  "provenance": {
+    "page_id": "bri-0337-6c951865e546",
+    "row_index": 337,
+    "volume_id": "191253810",
+    "metadata": "Supplement to the third edition of the Encyclopaedia Britannica ... Illustrated with ... copperplates - Volume 2, IND-ZEM - EB.8",
+    "label": 0,
+    "sha256": "6c951865e5460f343bfc5dd93923c18c45eb2c74bf56c3be3a44e405c67cc3a4",
+    "width": 600,
+    "height": 763,
+    "image_file": "../images/bri-0337-6c951865e546.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=337",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.0107,
+    0.3586,
+    0.4707,
+    0.5094
+  ],
+  "offsets": [
+    0,
+    534
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

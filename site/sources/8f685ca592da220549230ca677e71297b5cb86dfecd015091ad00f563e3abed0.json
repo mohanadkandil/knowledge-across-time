@@ -1,0 +1,44 @@
+{
+  "id": "wiki-427100-1300447621-6ae0a66dc759",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Figure",
+  "text": "Figure may refer to:\n\nA shape, drawing, depiction, or geometric configuration\n\nFigure (wood), wood appearance\n\nFigure (music), distinguished from musical motif\n\nNoise figure, in telecommunication\n\nDance figure, an elementary dance pattern\n\nA person's figure, human physical appearance\n\nFigure–ground (perception), the distinction between a visually perceived object and its surroundings\n\nFigurine, a miniature statuette representation of a creature\n\nAction figure, a posable jointed solid plastic character figurine\n\nFigure painting, realistic representation, especially of the human form\n\nFigure drawing\n\nModel figure, a scale model of a creature\n\nfigure, in writing, a type of floating block (text, table, or graphic separate from the main text)\n\nFigure of speech, also called a rhetorical figure\n\nChrist figure, a type of character\n\nin typesetting, text figures and lining figures\n\nFigure, a synonym for number\n\nSignificant figures in a decimal number\n\nFigure of the Earth, the size and shape of the Earth in geodesy\n\nFigure AI, an American robotics company\n\nFigure (horse), a stallion who became the foundation sire of the Morgan horse breed\n\nFigure skating\n\nCompulsory figures\n\nFigure competition, a form of physique competition for women, related to bodybuilding\n\nBeyer Speed Figure, a statistic in Thoroughbred racing\n\nFigure (musician), stage name of American electronic musician Josh Gard\n\nMichael Figures (1947–1996), American politician\n\nShomari Figures (born 1985/1986), American politician\n\nThomas Figures (1944–2007), American attorney and judge\n\nVivian Davis Figures (born 1957), Ameri",
+  "url": "https://en.wikipedia.org/wiki/Figure",
+  "revision_id": 1300447621,
+  "article_id": 427100,
+  "section_path": "shared_text[0:1614]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4773e2494a57c2b0286d6d90cdf801a0dabe281eb855f07e9b48100240a9f80b",
+    "source_row_idx": 89186,
+    "source_shard": "enwiki/data/enwiki_namespace_0_25.parquet",
+    "text_sha256": "c1189381b51bb0394f424fe19f86f56dcb7452004d216a957884c4026736d924",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1300447621",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "427100",
+    "revision_id": "1300447621",
+    "retrieved_at": "2026-10-18T12:28:25.255484+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1614,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-282350-1349683083-66df148b9bdf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Hygrometer",
+  "text": "tant, other types of electronic sensors are used, at the price of lower accuracy. Capacitive hygrometers measure the effect of humidity on the dielectric constant of a polymer or a metal oxide. When calibrated, their accuracy at relative humidities between 5% and 95% is ±2% RH; uncalibrated, this is two to three times worse. Capacitive sensors are robust against effects such as condensation and temporary high temperatures, but subject to contamination, drift and aging effects. They are, however, suitable for many applications.\n\nIn resistive hygrometers, the change in electrical resistance of a material due to humidity is measured. Typical materials are salts and conductive polymers. Resistive sensors are less sensitive than capacitive sensors – the change in material properties is less, so they require more complex circuitry. The material properties also tend to depend both on humidity and temperature, which means in practice that the sensor must be combined with a temperature sensor. The accuracy and robustness against condensation vary depending on the chosen resistive material. Robust, condensation-resistant sensors exist with an accuracy of up to ±3% RH (relative humidity).\n\nIn thermal hygrometers, the change in thermal conductivity of air due to humidity is measured. These sensors measure absolute humidity rather than relative humidity.\n\nA gravimetric hygrometer extracts the water from the air (or other gas) and weighs it separately, for example by weighing a desiccant before and after it has absorbed the water. The temperature, pressure and volume of the resulting dry",
+  "url": "https://en.wikipedia.org/wiki/Hygrometer",
+  "revision_id": 1349683083,
+  "article_id": 282350,
+  "section_path": "shared_text[0:15377]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a7e4989bb673b1e5938ad1c070387e52ab15c85f39f601be627e93c5ac5eaddd",
+    "source_row_idx": 60900,
+    "source_shard": "enwiki/data/enwiki_namespace_0_50.parquet",
+    "text_sha256": "bc2980d13ec1a3b625b8b492f269c201aa421f9053ca9d1aedf001d0a4b77202",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349683083",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "282350",
+    "revision_id": "1349683083",
+    "retrieved_at": "2026-10-18T12:22:59.673254+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 15377,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-489005-1197451321-7b96ec455e4e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Melissus",
+  "text": "Melissus may refer to:\n\nMelissus of Samos, (fl. c. 500 BC), Greek philosopher\n\nMelissus of Thebes, Greek athlete contrasted to Orion by Pindar\n\nGaius Maecenas Melissus (fl. early 1st century AD), Roman writer\n\nPaulus Melissus (1539–1602), humanist Neo-Latin writer, translator and composer\n\nMelisseus (or Melissus), father of the nymphs Adrasteia and Ida, the nurses of Zeus on Crete\n\nMelissus (another mythological figure), father of Actaeon; see Archias of Corinth",
+  "url": "https://en.wikipedia.org/wiki/Melissus",
+  "revision_id": 1197451321,
+  "article_id": 489005,
+  "section_path": "shared_text[0:466]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    466
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0f355e45447e556b76cdc0b7fb9f39949fd643845a381d48cfcfe69b541f2822",
+    "source_row_idx": 26195,
+    "source_shard": "enwiki/data/enwiki_namespace_0_19.parquet",
+    "text_sha256": "036d4a70bfcaf96fea817a25d6d447ecf7a736209fa6775c7e26b43ca51b6349",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1197451321",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "489005",
+    "revision_id": "1197451321",
+    "retrieved_at": "2026-10-18T12:20:53.070689+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 466,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-33429243-1350225078-9cfd5af2fa45",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of types of marble",
+  "text": "Here is a list of various types of marble according to location.\n\n(NB: Marble-like stone which is not true marble according to geologists is included and indicated by italics with geologic classification given as a footnote.\n\nGreco Scritto\n\nGalala Marble\n\nSinai Pearl Marble\n\nMilly Grey Marble\n\nSunny Marble\n\nAlabaster Marble\n\nShanghi Marble\n\nEleuigion Marble\n\nLepuretya Marble\n\nDaleti marble, Western Welega: white, white with grey veins and other colours\n\nEnda Tikurir marble, Western Tigray\n\nNewi marble, Central Tigray\n\nAkmara marble, Central Tigray\n\nDichinamo marble, Western Tigray\n\nGiallo antico, also known as Numidian marble (marmor numidicum in Latin), was a yellow marble quarried in Roman times from the area of Chemtou, ancient Simmithu\n\nHàn Bái Yǜ Marble (Chinese: 汉白玉) A type of white marble used in China for building and sculpting.\n\nIndian Onyx Marble\n\nJaisalmer Yellow Marble\n\nJhiri Marble (white)\n\nKatni Marble\n\nMakrana Marble\n\nMorwad White Marble\n\nUdaipur Green Marble\n\nGriotte\n\nRouge de Rance\n\nNoir Belge\n\nNoir de Golzinne\n\nČeský Šternberk marble (šternberský mramor) from Český Šternberk, Benešov District: white\n\nPernštejn marble (pernštejnský mramor) from Nedvědice, Brno-Country District: white\n\nNehodiv marble (nehodivský mramor) from Nehodiv, Klatovy District: grey\n\nLipová marble (lipovský mramor) from Horní Lipová, Jeseník District: dark and light-coloured\n\nSněžník marble (sněžníkovský mramor) from Horní Morava, Ústí nad Orlicí District: light-coloured\n\nSupíkovice marble (supíkovický mramor) from Supíkovice, Jeseník District: grey-white\n\nMarble mis-nomers:\n\nCetechov",
+  "url": "https://en.wikipedia.org/wiki/List_of_types_of_marble",
+  "revision_id": 1350225078,
+  "article_id": 33429243,
+  "section_path": "shared_text[0:3353]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "51adfa31a73f2788555c59715133f3dfa0dfbe3ca06db96f6d2f1735bd1f664c",
+    "source_row_idx": 10200,
+    "source_shard": "enwiki/data/enwiki_namespace_0_55.parquet",
+    "text_sha256": "53358b72afc50a170faf9519fab68cc6d22b0a7d02207f97c9317dce86b3c0fd",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350225078",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "33429243",
+    "revision_id": "1350225078",
+    "retrieved_at": "2026-10-18T12:31:41.564536+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3353,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

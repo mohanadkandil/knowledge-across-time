@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5752816-1224216172-a4c2fa55e63f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Book of the Kings of Judah and Israel",
+  "text": "The Book of the Kings of Judah and Israel was separated into the two books of I Kings and II Kings in the Old Testament. The book is described at 2 Chronicles 16:11. The passage reads: \"And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel.\" It is also referenced at 2 Chronicles 24:27; \"The account of his sons, the many prophecies about him, and the record of the restoration of the temple of God are written in the annotations on the book of the kings. And Amaziah his son succeeded him as king.\"\n\nIt is referenced again at 2 Chronicles 27:7, which reads: \"Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.\"\n\nAnother reference is found at 2 Chronicles 32:32, which reads: \"Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel.\"\n\nThis name is sometimes written The Book of the Kings of Israel and Judah.\n\nThe Book of the Kings, which is parallel to the Book of the Chronicles of the Kings, is referenced 45 times in the King James Bible, and the 46th reference to the Book appears at Ezra 4:15.",
+  "url": "https://en.wikipedia.org/wiki/Book_of_the_Kings_of_Judah_and_Israel",
+  "revision_id": 1224216172,
+  "article_id": 5752816,
+  "section_path": "shared_text[0:1270]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1270
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 48936,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "80d68a4e68baf567ffed251a92b44c78b876fc44ce5db37469b2938866da9075",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1224216172",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5752816",
+    "revision_id": "1224216172",
+    "retrieved_at": "2026-10-18T12:39:06.218534+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1270,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

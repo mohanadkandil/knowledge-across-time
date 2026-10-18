@@ -1,0 +1,36 @@
+{
+  "id": "bri-2330-cd9ad26429d1:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2330-cd9ad26429d1",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+  "text": "metanifm, in order to be able to do his Imperial Ma- jelly the most effective fervo; and for granted upon him, that he was soon after appointed governor of that city’s the confignez of which was, that the Araba were put in poffiofion of it by his treachers.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+  "provenance": {
+    "page_id": "bri-2330-cd9ad26429d1",
+    "row_index": 2330,
+    "volume_id": "144850370",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+    "label": 0,
+    "sha256": "cd9ad26429d1ff54c029d20d1c534d9322d59bc9c3037369e6a715816c005887",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2330-cd9ad26429d1.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1006,
+    0.0445,
+    0.4971,
+    0.125
+  ],
+  "offsets": [
+    0,
+    257
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

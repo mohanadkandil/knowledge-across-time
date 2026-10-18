@@ -1,0 +1,36 @@
+{
+  "id": "bri-2410-19364d85bf49:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-2410-19364d85bf49",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+  "text": "Archery, be made expert in the ufc is at a military weapon, by habituating them to the familiar excercife of it as an infument of amulment. As there was so material difference between the ethly and bodily through of the two people, it might be topped that the English and Scott wielded the bow with no unequal vigor and dexterity; but these uneducated hilbical communes it appears that the former had the faperioriy’s of whole one influence have already surrender. By the regulations prefelled in their future took force the province of archetype, we find that the English floor a very long howy their who were arrived. If their full growth and maturity being prohibited from flooring at my mark that was me did than upwards of 220 yards. In this ufc of the boys, great dexterity as well as strength forms to have been required. Though we hear of others are Cheryla Child which were a yard long, yet it is by no means to be topped that the whose band stands us of ficky, or could draw on to the head. The regulation of the Infra future of Edward IV-rich, that the bow shall not exceed the height of the man, is allowed by workers to have to well confidend 3 and as the arrow found he half the length of the boy, then would give an arrow of a year in length to other only who wear fixer high. A frong non of this fire in the preferred cannot eat flyd show where y'r inches, if the bow is of its proper fitgently to do execution at a considerable distance. At the false time it must be admitted, that as our an- centers were obliged by those of the old flatterno to be given flooring with the long bow ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+  "provenance": {
+    "page_id": "bri-2410-19364d85bf49",
+    "row_index": 2410,
+    "volume_id": "192545784",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 2 Part 2, ANT-ASS - EB.9",
+    "label": 0,
+    "sha256": "19364d85bf4997e5c78355cbe610b2e5e4479d2093c368e0c0e77cced484f78d",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2410-19364d85bf49.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2410",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0264,
+    0.0758,
+    0.4404,
+    0.5
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

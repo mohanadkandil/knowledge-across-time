@@ -1,0 +1,36 @@
+{
+  "id": "bri-1492-a7c7c0af0bdc:region-2:1440",
+  "kind": "britannica",
+  "page_id": "bri-1492-a7c7c0af0bdc",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+  "text": " six speeds, but since that time the relative was fixed at only £2000 and even this was a vast sum; to which if we add that carried out of the country by commanders of interventory troops, who were all foreigners, it is not unansionalable to suppose that under the Mogol government matters were still worse, even in this respect, than under that of Britain.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+  "provenance": {
+    "page_id": "bri-1492-a7c7c0af0bdc",
+    "row_index": 1492,
+    "volume_id": "191679036",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 10, GOT-Hydrodynamics - EB.11",
+    "label": 0,
+    "sha256": "a7c7c0af0bdcd12962c97882980fe05660cc78ca4ec454094a75d51bac7bbc86",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-1492-a7c7c0af0bdc.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1492",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0596,
+    0.4625,
+    0.4648,
+    0.9164
+  ],
+  "offsets": [
+    1440,
+    1797
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

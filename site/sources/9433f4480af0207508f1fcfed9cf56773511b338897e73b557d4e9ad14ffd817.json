@@ -1,0 +1,36 @@
+{
+  "id": "bri-1001-6dc406c9bf02:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1001-6dc406c9bf02",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+  "text": "It I now this flagellum the embassy, by it we perfectly clear confiers of many difficulties concerning the propagation of animals in the world, and their conservation in the ask; as how the unknown kind of impact in Brazil, the life heelled creature in the In-dies, and all those strange species of animals free in the West Indies, should either come into the park of the, or onze and out of it is the third countries which are divided by fo vaft an ocean on one side, and as le leaf of large a trick of land on the other. Befides, feme kind of animals cannot live out of the climate where they are; and there are many forts of animals discovered in America, and the adjoining islands, which have left no particular of themselves in their parts of the world. And it forms strange, that their should propagate in thief ports of the world that you place the dead, and never ones at all of their number be- hind them in their parts whence they were propaga-ted?",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+  "provenance": {
+    "page_id": "bri-1001-6dc406c9bf02",
+    "row_index": 1001,
+    "volume_id": "191678897",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 7, CTE-Electricity - EB.10",
+    "label": 0,
+    "sha256": "6dc406c9bf0283353802ff585a62b3fc16c241b290149978292c4854d694bd3d",
+    "width": 600,
+    "height": 791,
+    "image_file": "../images/bri-1001-6dc406c9bf02.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1001",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.4873,
+    0.1594,
+    0.875,
+    0.4125
+  ],
+  "offsets": [
+    0,
+    958
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

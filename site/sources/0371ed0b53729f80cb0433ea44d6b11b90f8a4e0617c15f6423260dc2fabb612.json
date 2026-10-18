@@ -1,0 +1,36 @@
+{
+  "id": "bri-2092-16d9b9fb913a:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2092-16d9b9fb913a",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+  "text": "4 See Dempsey, and Gordon",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+  "provenance": {
+    "page_id": "bri-2092-16d9b9fb913a",
+    "row_index": 2092,
+    "volume_id": "193108316",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+    "label": 0,
+    "sha256": "16d9b9fb913a5c3dbdb3b427deb2c90caa1a4901fd720e5bbe59825d25f92fb5",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-2092-16d9b9fb913a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.0635,
+    0.8328,
+    0.1221,
+    0.8719
+  ],
+  "offsets": [
+    0,
+    25
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0927-15392902b8da:region-16:0",
+  "kind": "britannica",
+  "page_id": "bri-0927-15392902b8da",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+  "text": "All the information employed in this proceeds should be either of wood, earthers, or gells the common montilities ones would be corroded by the ley, to as either a difcolour or communicate difagreeable qualities to it. It shall be needed to filter or finis the liquor, cure mal be taken that the litter or finisher or be of vegetable matter; woolies, flik, and that fort off filtering paper which is made of animal fluffances, are quickly corroded and dilolved by it.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+  "provenance": {
+    "page_id": "bri-0927-15392902b8da",
+    "row_index": 927,
+    "volume_id": "191253806",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 14, PAS-PLA - EB.6",
+    "label": 0,
+    "sha256": "15392902b8daff4a6682c136e4fddba3ed09a94a31144f5faf332e62a8d6baf5",
+    "width": 600,
+    "height": 771,
+    "image_file": "../images/bri-0927-15392902b8da.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=927",
+    "manual_seed": false
+  },
+  "region_id": "region-16",
+  "bbox_raw": [
+    0.5195,
+    0.6438,
+    0.8877,
+    0.7688
+  ],
+  "offsets": [
+    0,
+    467
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

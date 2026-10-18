@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7488393-1291608698-f9a7e48ce54f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Gunnery officer",
+  "text": "The gunnery officer of a warship was the officer responsible for operation and maintenance of the ship's guns and for safe storage of the ship's ammunition inventory.\n\nThe gunnery officer was usually the line officer next in rank to the executive officer. As shipboard guided missiles and torpedoes became more effective than naval artillery, guns were included within a weapons department replacing the older gunnery department. The weapons department is supervised by a weapons officer who may have a subordinate gunnery officer supervising the ship's guns.",
+  "url": "https://en.wikipedia.org/wiki/Gunnery_officer",
+  "revision_id": 1291608698,
+  "article_id": 7488393,
+  "section_path": "shared_text[0:559]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    559
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2b12656a53ecc79fd53d61a3d7d839badd41786193fd34793325fe802617e14c",
+    "source_row_idx": 170604,
+    "source_shard": "enwiki/data/enwiki_namespace_0_21.parquet",
+    "text_sha256": "fb67811c5826df5a6522d9d47b2f3ccf2aeb05f185a7aaf1198c3023a80abdca",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1291608698",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7488393",
+    "revision_id": "1291608698",
+    "retrieved_at": "2026-10-18T12:36:29.199119+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 559,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

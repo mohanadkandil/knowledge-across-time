@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "CHIAMYS, in anitantly, a military habit worn by the ancient over the tunes. It belonged to the participants; and was the name in the time of war that the topa was in the time of peace. This sort of gown was called _picking_, from the rich embodies with figures in Ehryvan work; and _purpersen_, because the grand-work was purple. The chlamycles of the empreors were all purple, adorned with a golden and embroder-el border.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1348,
+    0.3617,
+    0.5273,
+    0.4781
+  ],
+  "offsets": [
+    0,
+    423
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16285814-1340136739-04e3415e1da2",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Ukraine",
+  "text": "kia 90 km\n\nCoastline: Black Sea 2,782 km\n\nPopulation of Ukraine: 46,191,022 (September 1, 2008) – 40th most populous country\n\nArea of Ukraine: 603,628 km 2\n\nAtlas of Ukraine\n\nClimate of Ukraine\n\nRenewable energy in Ukraine\n\nGeology of Ukraine\n\nProtected areas of Ukraine\n\nBiosphere reserves in Ukraine\n\nNational parks of Ukraine\n\nWildlife of Ukraine\n\nFauna of Ukraine\n\nBirds of Ukraine\n\nMammals of Ukraine\n\nGlaciers of Ukraine\n\nIslands of Ukraine\n\nLakes of Ukraine\n\nMountains of Ukraine\n\nVolcanoes in Ukraine\n\nRivers of Ukraine\n\nWaterfalls of Ukraine\n\nValleys of Ukraine\n\nWorld Heritage Sites in Ukraine\n\nRegions of Ukraine\n\nList of ecoregions in Ukraine\n\nEcoregions in Ukraine\n\nAdministrative divisions of Ukraine\n\nOblasts of Ukraine\n\nRaions of Ukraine\n\nMunicipalities of Ukraine\n\nOblasts of Ukraine\n\nRaions of Ukraine\n\nMunicipalities of Ukraine\n\nCapital of Ukraine: Kyiv\n\nCities of Ukraine\n\nDemographics of Ukraine\n\nPolitics of Ukraine\n\nForm of government: unitary semi-presidential representative democratic republic\n\nCapital of Ukraine: Kyiv\n\nElections in Ukraine\n\nPolitical parties in Ukraine\n\n2007 Ukrainian political crisis, 2008 Ukrainian political crisis\n\nGovernment of Ukraine\n\nHead of state: President of Ukraine, Volodymyr Zelenskyy\n\nHead of government: Prime Minister of Ukraine, Denys Shmyhal\n\nSpeaker of the Parliament: Ruslan Stefanchuk\n\nCabinet of Ministers of Ukraine\n\nParliament of Ukraine (unicameral)\n\nVerkhovna Rada of Ukraine\n\nThe judicial system of Ukraine consists of four levels of courts of general jurisdiction:\n\nSupreme Court of Ukraine – the court of final appeal, cover",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Ukraine",
+  "revision_id": 1340136739,
+  "article_id": 16285814,
+  "section_path": "shared_text[0:9288]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cfcc1eb99bd85697c3495bd42afc43a28a4df0067027902bcaacb6511a821666",
+    "source_row_idx": 81840,
+    "source_shard": "enwiki/data/enwiki_namespace_0_32.parquet",
+    "text_sha256": "0a336979a9f74cdbbfd23fe80554502677a24c32d3fa545fc26e6b226355e25b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340136739",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16285814",
+    "revision_id": "1340136739",
+    "retrieved_at": "2026-10-18T12:24:49.303455+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9288,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

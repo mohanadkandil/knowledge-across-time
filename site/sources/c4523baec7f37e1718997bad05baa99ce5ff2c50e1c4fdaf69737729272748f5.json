@@ -1,0 +1,36 @@
+{
+  "id": "bri-0386-e88a0bad3b83:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0386-e88a0bad3b83",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+  "text": "Leibniz is one of the most obscure of his oblicure writ-ings, but deferred the attention of an intelligent and curious reader, and cannot fail of making an indelible impectition on his mind, with relation to the modeller, curdours and posibly of the author. It is preceded by a diffraction on the fulgbelt which we are now entering upon, the modest properties in writing medium. Newton _Principle_ and been published a few years before, and had been reviewed in a manner flamo- fully flight, in the Leipde Acts. Both the fulgbelt make the capital articles of the immense work. Mr Leibniz published the differifications, without (fays he) having few Newton's book, in order to flow the world that he had, the years before different the time theorems. Mr Nicholas Patio carried a copy of the _Principe_ from the author to Hanover in 1686, where he expected to find that Leibniz's law and then defendant, but Patio faw him often before his return to France in 1687, and does say that the book was not given him. Read along with the description of KeRIS letters to John Bernoulli and others, published in the _Journal Litic- rare de la Haque_ 1714, and to John Bernoulli in 1700.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+  "provenance": {
+    "page_id": "bri-0386-e88a0bad3b83",
+    "row_index": 386,
+    "volume_id": "191689062",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 17, Poetry-RHI - EB.10",
+    "label": 0,
+    "sha256": "e88a0bad3b83cbcd801cb8e1dd3b2b724b96138db2a5ed2929d39f59203f6f7d",
+    "width": 600,
+    "height": 797,
+    "image_file": "../images/bri-0386-e88a0bad3b83.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=386",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.5381,
+    0.0563,
+    0.9248,
+    0.3523
+  ],
+  "offsets": [
+    0,
+    1175
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

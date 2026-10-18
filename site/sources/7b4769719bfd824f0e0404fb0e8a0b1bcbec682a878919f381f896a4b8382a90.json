@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2629-1335326573-7072a5d9a57b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Aegisthus",
+  "text": "hreats - a typical 'tyrant figure' in embryo.\"\n\nAeschylus's portrayal of Aegisthus as a weak, implicitly feminised figure, influenced later writers and artists who often depict him as an effeminate or decadent individual, either manipulating or dominated by the more powerful Clytemnestra. He appears in Seneca 's Agamemnon, enticing her to murder. In Richard Strauss 's and Hugo von Hofmannsthal 's opera, Elektra his voice is \"a decidedly high-pitched tenor, punctuated by irrational upward leaps, that rises to high pitched squeals during his death colloquy with Elektra.\" In the first production he was depicted as \"an epicene...with long curly locks and rouged lips, half-cringing, half-posturing seductively.\"\n\nAn ancient tomb in Mycenae is fancifully known as the \" Tomb of Aegisthus \". It dates from around 1510 BC.",
+  "url": "https://en.wikipedia.org/wiki/Aegisthus",
+  "revision_id": 1335326573,
+  "article_id": 2629,
+  "section_path": "shared_text[0:6583]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    6583
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 34952,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "e1259396cc84c193de234ba67f6b4108d8adb07a4ff52741d3aeddf965ac3cb1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1335326573",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2629",
+    "revision_id": "1335326573",
+    "retrieved_at": "2026-10-18T12:37:03.912407+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6583,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7535-1332241235-193e9abb944e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Commodore",
+  "text": "Commodore may refer to:\n\nCommodore (rank), a naval rank\n\nCommodore (Royal Navy), in the United Kingdom\n\nCommodore (India), in India\n\nCommodore (United States)\n\nCommodore (Canada)\n\nCommodore (Finland)\n\nCommodore (Germany) or Kommodore\n\nAir commodore, a rank in the Royal Air Force and other Commonwealth air forces\n\nCommodore (yacht club), an officer of a yacht club\n\nCommodore (Sea Scouts), a position in the Boy Scouts of America's Sea Scout program\n\nConvoy commodore, a civilian in charge of a shipping convoy during the Second World War\n\nThe Commodore (Forester novel), a Horatio Hornblower novel by C. S. Forester\n\nThe Commodore (O'Brian novel), a novel in the Aubrey–Maturin series by Patrick O'Brian\n\nCommodore Ballroom, a nightclub and music venue in Vancouver, British Columbia\n\nCommodore Records, a jazz and swing music record label\n\nCommodores, an American soul/funk band\n\n\"The Commodore\", the nickname of American entrepreneur Cornelius Vanderbilt (1794 – 1877)\n\n\"Commodore Kuehnle\", the nickname of American entrepreneur and politician Louis Kuehnle (1857 – 1934)\n\nAaron Commodore (1819/20 – 1892), African American politician\n\nMike Commodore (born 1979), a Canadian ice hockey player\n\nCommodore P. Vedder (1838–1910), New York politician\n\nCommodore, Pennsylvania, United States\n\nCommodore Island, a Canadian island in Hudson Bay\n\nPhoenix Park Hotel, hotel built in Washington, D.C., in 1922, known originally as \"The Commodore\"\n\nHudson Commodore, an automobile produced from 1941 to 1952 in the US by Hudson Motor Car Company\n\nOpel Commodore, an automobile produced from 1967 to 1982 in ",
+  "url": "https://en.wikipedia.org/wiki/Commodore",
+  "revision_id": 1332241235,
+  "article_id": 7535,
+  "section_path": "shared_text[0:2513]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 9016,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "a168544dcbce2b3a81ad76863030921d15b1286b253718075f60f8adfb28dbe7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1332241235",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7535",
+    "revision_id": "1332241235",
+    "retrieved_at": "2026-10-18T12:31:19.453589+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2513,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

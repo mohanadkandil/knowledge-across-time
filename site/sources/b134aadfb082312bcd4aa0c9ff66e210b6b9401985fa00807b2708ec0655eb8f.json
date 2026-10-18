@@ -1,0 +1,44 @@
+{
+  "id": "wiki-44694-1286924209-a1bbb0994485",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenlandic",
+  "text": "Greenlandic may refer to:\n\nSomething of, from, or related to Greenland, a country\n\nGreenlanders\n\nGreenlandic Inuit, the indigenous people of Greenland\n\nGreenlandic culture\n\nGreenlandic cuisine\n\nGreenlandic people in Denmark\n\nGreenlandic language, an Inuit–Yupik–Unangan language spoken by the people of Greenland\n\nKalaallisut (West Greenlandic)\n\nInuktun (North Greenlandic)\n\nTunumiisut (East Greenlandic)\n\nHistorically, anything relating to the Norse communities in southwestern Greenland\n\nGreenlandic Norse, extinct language\n\nDanish language, as spoken in Greenland\n\nGreenlandic sheep, a sheep species\n\nGreenlandic krone, a planned currency for Greenland, plans of which were abandoned in 2009\n\nGreenlandic shark, a national dish of Iceland consisting of a Greenland shark",
+  "url": "https://en.wikipedia.org/wiki/Greenlandic",
+  "revision_id": 1286924209,
+  "article_id": 44694,
+  "section_path": "shared_text[0:773]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    773
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 140644,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "8b71f4fd4fdbba3fbae89e4769b4d20d7dd2b0db02578d1da586620e55248376",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1286924209",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "44694",
+    "revision_id": "1286924209",
+    "retrieved_at": "2026-10-18T12:28:47.407603+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 773,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

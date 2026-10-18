@@ -1,0 +1,44 @@
+{
+  "id": "wiki-80343704-1337665227-e1cb72e25763",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Caroline University of Aberdeen",
+  "text": "The Caroline University of Aberdeen (also referred to as the King Charles University of Aberdeen, or simply the Caroline University) was an abortive attempt by King Charles I to merge the two colleges of Aberdeen into a single university.\n\nAberdeen was notable for containing two universities in one city, the older King's College, founded by papal bull in 1495, and Marischal College, founded by George Keith, 5th Earl Marischal, in 1593.\n\nThe university was formed on 8 November 1641 when King's College and Marischal College were joined to form a single university, following a decree by Charles I. George Gordon, 2nd Earl of Huntly was elected chancellor in 1643, albeit with Marischal College refusing to accept the result. Following the establishment of the Commonwealth, Parliament ratified the charter, and Oliver Cromwell confirmed the union in 1654. At King's College, a building now known as Cromwell Tower (but then called the New Building) was constructed after Cromwell's army arrived at Aberdeen, partly funded by officers of the Cromwellian army (who were said to have given generously), although it remained unfinished by the disillusion of the Commonwealth, and was finished with funding from the episcopal clergy. In 1652, John Row was made Principal of King's College, replacing William Guild, at the behest of the Cromwellian authorities.\n\nFollowing the Restoration in 1660, the merger was reversed by the newly crowned Charles II in 1661, as he rescinded all acts that were passed from 1640 to 1648 under the Commonwealth, and Row was removed from his position, despite his atte",
+  "url": "https://en.wikipedia.org/wiki/Caroline_University_of_Aberdeen",
+  "revision_id": 1337665227,
+  "article_id": 80343704,
+  "section_path": "shared_text[0:2345]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "2db3d953daa13bc4f8a7fd7dba1cd4898323bbc12d00531783b3fe6a095d8255",
+    "source_row_idx": 18283,
+    "source_shard": "enwiki/data/enwiki_namespace_0_31.parquet",
+    "text_sha256": "45f1c78eb49395376462a4769f2b1548f4558adf42e90ac8e1255e6cd34db2fa",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337665227",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "80343704",
+    "revision_id": "1337665227",
+    "retrieved_at": "2026-10-18T12:21:31.226302+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2345,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

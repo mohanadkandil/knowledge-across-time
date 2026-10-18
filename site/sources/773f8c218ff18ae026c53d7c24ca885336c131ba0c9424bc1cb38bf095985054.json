@@ -1,0 +1,44 @@
+{
+  "id": "wiki-34752603-1336619611-17507f7617b6",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Real contracts in Roman law",
+  "text": "In Roman law, contracts could be divided between those in re, those that were consensual, and those that were innominate contracts in Roman law (Contratti innominati (diritto romano)). Although Gaius only identifies a single type of contract in re, it is commonly thought that there were four types of these, as Justinian identifies: mutuum (loan for consumption), commodatum (loan for use), depositum (deposit) and pignus (pledge).\n\nEach varied regarding the expected standards of care, transfer of ownership, and other practicalities stemming from the purpose of each. They all involved the delivery of a physical thing, which was a defining characteristic of such contracts. They were generally supplemented by the stipulatio and an inominate contract, which allowed additional provisions, such as interest, to be added to contracts in re making them more suitable for commercial applications.\n\nJustinian identifies four types of real contract – contracts in re (in a thing) – mutuum, commodatum, depositum and pignus. Common to all four was an agreement, and the delivery of a res corporalis. They are in contrast to consensual and inominate contracts. Real contracts were of limited significance, although they are featured prominently in the works of jurists. If a stipulatio had to be created to cover any interest, then it could be used to cover the other elements of the transaction as well.\n\nGaius, however, only mentions one type of contract in re: mutuum. The others certainly existed in Gaius' time. The other three can be distinguished insofar as they are different from traditional con",
+  "url": "https://en.wikipedia.org/wiki/Real_contracts_in_Roman_law",
+  "revision_id": 1336619611,
+  "article_id": 34752603,
+  "section_path": "shared_text[0:10233]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "7ee8776102611461cf56b645118eb884e9eb89aecd2870b94684ef1eef393bf0",
+    "source_row_idx": 72214,
+    "source_shard": "enwiki/data/enwiki_namespace_0_12.parquet",
+    "text_sha256": "1715210e302f42e214cfde3db22b793b0010b9a062ff148d399427ceaf16b4de",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1336619611",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34752603",
+    "revision_id": "1336619611",
+    "retrieved_at": "2026-10-18T12:31:25.952975+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10233,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

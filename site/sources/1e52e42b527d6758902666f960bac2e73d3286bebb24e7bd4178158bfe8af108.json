@@ -1,0 +1,36 @@
+{
+  "id": "bri-0588-8b6ecb5a51cf:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0588-8b6ecb5a51cf",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+  "text": "Thefo works turned the attention of Dr Roebuck to the flate of coal in the neighborhood of that places, and to the ones of governing the extraordinary happles of it which the rice-works might require in future. He therefore became loffer of the active road and fall works at Bernodlovands, the property of the duke of Hamilton, in which the tank, in the course of a few years, and only his own, and a considerable part of his wife, fortune, but the regular profits of his more. OEefil works: and what allfilled him know every thing life, the great friend of money which he happened from his relations and friends, without his project of ever be ing able to repen them. This anions adventure out of for over the filtering projects of an independent for- time which his family once had; and he drew from his collary only a moderate annual report, owing to the infolgence of his creditors. When he died, his window was left without any provision for her immediate or fu- ture support, and without the finalell advantage from the extraordinary exercises and merrierious indulry of her hurland.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+  "provenance": {
+    "page_id": "bri-0588-8b6ecb5a51cf",
+    "row_index": 588,
+    "volume_id": "192984256",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 18, RHI-SCR - EB.10",
+    "label": 0,
+    "sha256": "8b6ecb5a51cf428ea22beb1780c133fe5d3b580dec2251c12afcb13b967036ae",
+    "width": 600,
+    "height": 788,
+    "image_file": "../images/bri-0588-8b6ecb5a51cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=588",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1162,
+    0.5281,
+    0.5205,
+    0.8102
+  ],
+  "offsets": [
+    0,
+    1089
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

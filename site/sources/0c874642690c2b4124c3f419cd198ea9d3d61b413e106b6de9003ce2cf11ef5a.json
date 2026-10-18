@@ -1,0 +1,36 @@
+{
+  "id": "bri-0608-5cb01932cdde:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0608-5cb01932cdde",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+  "text": "QUABANTINE, is a unit which dhow mult un- dergo when subjected of a spellbinding infectima. It may be ordered by the living, with advice of the prints caused, at the things, and under tech regulations, as he judges proper. Ships ordered so quarantine must repreto to the place several, and make conditions there during the time preferred (generally fix weeks): and mail have no intercourse with the theory, except for necellity problems, which are covered with every possible precautions. When the time is excited, and the goods pressed and records to be air as directed. If there be no appearance of infections, they are admitted to post.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+  "provenance": {
+    "page_id": "bri-0608-5cb01932cdde",
+    "row_index": 608,
+    "volume_id": "191320558",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 17 Part 2, Projectiles-RHI - EB.9",
+    "label": 0,
+    "sha256": "5cb01932cddebc17e7f873ed9584f937a9c07d1c84bec2d58b28d1c0620146a1",
+    "width": 600,
+    "height": 784,
+    "image_file": "../images/bri-0608-5cb01932cdde.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=608",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.1045,
+    0.6445,
+    0.4658,
+    0.8055
+  ],
+  "offsets": [
+    0,
+    639
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

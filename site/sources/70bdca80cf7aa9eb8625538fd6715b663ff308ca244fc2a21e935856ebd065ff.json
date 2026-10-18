@@ -1,0 +1,44 @@
+{
+  "id": "wiki-16278553-1340135747-67873cc6c2ac",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Outline of Colombia",
+  "text": "ucation in Colombia\n\nSchools in Colombia\n\nUniversities in Colombia",
+  "url": "https://en.wikipedia.org/wiki/Outline_of_Colombia",
+  "revision_id": 1340135747,
+  "article_id": 16278553,
+  "section_path": "shared_text[0:7266]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    7266
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 63239,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2533a1cfe684802ab9be31e7e19c6ed7d6fa2e64e4d23de455603c7d71cdf1e5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340135747",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "16278553",
+    "revision_id": "1340135747",
+    "retrieved_at": "2026-10-18T12:38:13.052270+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7266,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

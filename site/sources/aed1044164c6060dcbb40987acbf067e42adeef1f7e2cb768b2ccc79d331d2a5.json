@@ -1,0 +1,44 @@
+{
+  "id": "wiki-289655-1339939382-e9b6aabeb525",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Earl of Selkirk",
+  "text": " (1942–2023) (nephew of the 10th Earl, brother of the 15th Duke of Hamilton) (disclaimed 1994)\n\nJohn Andrew Douglas-Hamilton, 12th Earl of Selkirk (b. 1978) (son of the 11th Earl)\n\nThe heir presumptive is the present earl's younger brother Charles Douglas Douglas-Hamilton (b. 1979).\n\nEveryone in the line of succession to the Duke of Hamilton is eligible to succeed to the Earldom, but in the order dictated by its special remainder:the sons of Lord Selkirk of Douglas, starting with the present earl, come first (with potential male issue of any of them preceding younger brothers of that son), but should any future Earl of Selkirk die without a direct heir, the death of the 15th Duke of Hamilton in 2010 means that the younger son of the 15th Duke would rank ahead of lines from younger sons of the 14th Duke and the death of the 16th Duke would likewise move his younger sons to the head of the line.",
+  "url": "https://en.wikipedia.org/wiki/Earl_of_Selkirk",
+  "revision_id": 1339939382,
+  "article_id": 289655,
+  "section_path": "shared_text[0:8106]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    7200,
+    8106
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 10667,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "aa4969d43916d764cfd7c3bd9c787cfbbc19dd9b6d5f7b487832aaac8981453e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339939382",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "289655",
+    "revision_id": "1339939382",
+    "retrieved_at": "2026-10-18T12:23:15.081290+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 8106,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

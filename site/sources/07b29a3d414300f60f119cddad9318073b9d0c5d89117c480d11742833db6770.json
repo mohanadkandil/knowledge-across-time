@@ -1,0 +1,44 @@
+{
+  "id": "wiki-727268-1353344393-bcb1bb964fdf",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Indigo (disambiguation)",
+  "text": "\n\nIndigo (Maja Keuc album), 2011\n\nIndigo (Never Shout Never album), 2012\n\nIndigo (RM album), 2022\n\nIndigo (Wild Nothing album), 2018\n\nIndigo: Women of Song, a 2004 album by Olivia Newton-John\n\nIndigo, a 1991 album by Patrick O'Hearn\n\nIndigo, a 2018 album by Kandace Springs\n\n\"Indigo\" (Chris Brown song), 2019\n\n\"Indigo\" (Justhis, Kid Milli, Noel, and Yang Hong-won song), 2018\n\n\"Indigo\" (Peter Gabriel song), 1978\n\n\"Indigo\" (Sam Barber song), 2024\n\n\"Indigo\", a 2016 song by Almah from E.V.O\n\n\"Indigo\", a 2007 song by Epica from The Divine Conspiracy\n\n\"Indigo\", a 2016 song by Invent Animate from Stillworld\n\n\"Indigo\", a 2025 song by MGK from Lost Americana\n\n\"Indigo\", a 2000 song by Moloko from Things to Make and Do\n\n\"Indigo\", a song by Niki from Head in the Clouds II\n\n\"Indigo\", a 2023 song by Of Mice & Men from Tether\n\nIndigo, a 2016 opera by Eicca Toppinen and Perttu Kivilaakso\n\nIndigo bush\n\nIndigo dye, an organic compound with a distinctive blue color\n\nIndigofera, a genus of flowering plants used to produce indigo dye\n\nIndigofera tinctoria, the species most often used in production of indigo dye\n\nIndigo snake Drymarchon, a genus of large nonvenomous snakes\n\nWild indigo, a herbaceous perennial plant\n\nIndigo bunting, a small seed-eating bird in the cardinal family\n\nIndigo Valley, Victoria, Australia\n\nShire of Indigo, Victoria, Australia\n\nIndigo Lake, Alaska\n\nIndigo Tunnel, an abandoned railroad tunnel in Maryland\n\nIndigo Lake, Ohio\n\nIndigo 91.9 FM, an Indian radio station\n\nIndigo FM (Australia), an Australian radio station\n\nIndigo FM, a radio station broadcasting to the South Lakes ",
+  "url": "https://en.wikipedia.org/wiki/Indigo_(disambiguation)",
+  "revision_id": 1353344393,
+  "article_id": 727268,
+  "section_path": "shared_text[0:4209]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "e04c1ffd6e1eccaac31c68476c45bee1de0717f69d8b547b7b3c5e8e2ffa8255",
+    "source_row_idx": 29210,
+    "source_shard": "enwiki/data/enwiki_namespace_0_68.parquet",
+    "text_sha256": "6d9d32d46847c3b864c2423d3b2da402906e287a1d7aed06f70803f7d71d08bf",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353344393",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "727268",
+    "revision_id": "1353344393",
+    "retrieved_at": "2026-10-18T12:23:22.616417+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4209,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

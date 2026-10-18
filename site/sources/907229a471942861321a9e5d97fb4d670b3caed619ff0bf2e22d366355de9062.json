@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "\" I had radon to conjecture, from my own obferations on the effects of blowing machinery on bluff furnaces, as well as from the thoroughly I had acquired from from before I Rebecking, and from my communications with other experienced iron malters, that a great part of the years of fuel machinery was dissipated in general practice, by throwing air into furnaces with much greater velocity than needling the volo. that, if this velocity was, to a certain degree die-type of the minified, the fame power, by properly adjusting the bluff, blowing machinery, of whatever nature, would be ca. able of allowing into the furnace a proportionally greater quantity of air. For, Since the quantities of any food, flying through the furnaceature, we as the best way over to the performer, it follows, that it would require four times the prediers, or power, to expel double the quantity of air, through the fame spectrum, in the foam time; but if the area of the aperture was doubled, then the quantity of air expelled by the fame power, and in the fame time, would be increased in the ratio of the figure root of z to , though its vela-city would be diminished exactly in the fame proponents. Again, I considered that the quantity and intensity of hen, produced in blast furnaces, and consequently its effects in increasing the products might be only in proportion to the quantity of air decempted in the process of combustion, without regard to its energy velocity; that is to day, whether or not the fame quantity of air was forced, in the fame time, into the furnace through a small pipe, or therefore one ",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5107,
+    0.1156,
+    0.9414,
+    0.7281
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

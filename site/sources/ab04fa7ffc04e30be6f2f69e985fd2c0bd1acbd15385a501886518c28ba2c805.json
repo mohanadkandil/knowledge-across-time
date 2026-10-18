@@ -1,0 +1,36 @@
+{
+  "id": "bri-1260-e7ddd08b66f9:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-1260-e7ddd08b66f9",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+  "text": "After this formal defense, the Angrivartii submitted, and were taken under the protection of the Romans, and Germans put an out to the campaigns. Some of the legions be lost to their winter quarters by land, while he himself embarked with the roll on the river Ems, in order to return by fors. The ocen proved the left very strong, and the wind favourites, but at all of sudden a form arising, the fleet, confiting of 1000 velled, was diffiered home of them.were.Wallowe up by the waves, others were called in pieces against the rocks, or driven upon remote and inhojitable island, where the man stilber periled by Iranian, and lived upon the flesh of the dead horits with each the floors that appeared firewall, for, in order to lighter their fertile, and dilunges them from the floods, they had been obliged to throw overboard their horses and heads of bunlons, may, even their arms and lagging. Melt of the men, became more, were fixed, and even great part of the fleet recovered. Some of them were driven upon the coal to Britain but the jetty kings who reigned there generally fast than back.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+  "provenance": {
+    "page_id": "bri-1260-e7ddd08b66f9",
+    "row_index": 1260,
+    "volume_id": "193109111",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 2, Gardening-GOT - EB.9",
+    "label": 0,
+    "sha256": "e7ddd08b66f99cd28afe881a7091c71cb4fa8655d4774359f9801a9fb71d6e35",
+    "width": 600,
+    "height": 805,
+    "image_file": "../images/bri-1260-e7ddd08b66f9.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1260",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.0156,
+    0.1328,
+    0.458,
+    0.3984
+  ],
+  "offsets": [
+    0,
+    1097
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

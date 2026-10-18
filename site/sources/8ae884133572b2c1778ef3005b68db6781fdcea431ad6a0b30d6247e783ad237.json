@@ -1,0 +1,44 @@
+{
+  "id": "wiki-312054-1337661963-4ca1559238ec",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Palatine bone",
+  "text": "vomer and maxilla.\n\nEarly fossil reptiles retained the arrangement seen in more primitive vertebrates, but in mammals, the lower surface of the palatine became folded over during evolution, forming the horizontal plate, and meeting in the midline of the mouth. This forms the rear of the hard palate, separating the oral and nasal cavities, and making it easier to breathe while eating. A parallel development has occurred to varying degrees in many living reptiles, reaching its greatest extent in crocodilians. In birds, the palatine bones remain separate, long the sides of the rear part of the upper jaw, and typically have a mobile articulation with the cranium.\n\nThere are numerous variations amongst mammals, amphibians and other species. For example, the palatine bone in many amphibians such as the rough-skinned newt manifests as a distinct V-shaped structure. In the case of cat species, the horizontal and a vertical elements join at a 45-degree angle.\n\nAncestrally in tetrapods, the palatine is one of several bones of the roof of the mouth which bear teeth (palatal dentition), though in the cynodont ancestors of living mammals they were lost. Teeth on the palatine bone are retained by living lepidosaurs (including lizards, snakes and the tuatara).",
+  "url": "https://en.wikipedia.org/wiki/Palatine_bone",
+  "revision_id": 1337661963,
+  "article_id": 312054,
+  "section_path": "shared_text[0:4145]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4145
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "871f1c208893ed1c0742ad9d2fdd91fbf41f5a66cc11b1adac7ea1c14edd3c91",
+    "source_row_idx": 103034,
+    "source_shard": "enwiki/data/enwiki_namespace_0_11.parquet",
+    "text_sha256": "3cc8b42438a950f44fed56fa98a5f6a5f5a2d795c035f412b89b2d4c04995730",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1337661963",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "312054",
+    "revision_id": "1337661963",
+    "retrieved_at": "2026-10-18T12:21:56.038600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4145,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

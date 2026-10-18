@@ -1,0 +1,36 @@
+{
+  "id": "bri-1381-1444e646e63f:region-4:1440",
+  "kind": "britannica",
+  "page_id": "bri-1381-1444e646e63f",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+  "text": "g to Velevign Printman, Episcopoint Primitive, and Associated Methodologies; Baptists, Independence Unitatani Quakers, Speechenabians, and Moromanists, to the number of twenty all areas of the finest buildings the town is a Grecian structure belonging to the Society for Different, useful knowledge, containing a literary 5000 vohunes, and a valuable museum. The educational institutions comprise a free grammar school, founded in 1685, occupying a large stone cities and attended by 110 oukaken in 1822; a blue-canch, several national and infantars schools, and a chefsand-criminal institution. Preston has also a literary and philosophical society, with an elegant building of the Tuber style, a mechanic hentu, agricultural society, and then public libraries. There are, besides, nine alto-houses, a disperity, infermary, workbookos, and a trying-hand. Public baths and wall- houses have been erected here by the corporation, and were opened in 1851. The town contains a borough prison and county presintenary; while at Fulwood, 2 miles to the",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+  "provenance": {
+    "page_id": "bri-1381-1444e646e63f",
+    "row_index": 1381,
+    "volume_id": "193108326",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 18, PLA-REI - EB.16",
+    "label": 0,
+    "sha256": "1444e646e63f2769865ea81c09864c4c06fb63d34597d4a0f64936efa8cd165a",
+    "width": 600,
+    "height": 802,
+    "image_file": "../images/bri-1381-1444e646e63f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1381",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.1465,
+    0.3875,
+    0.5264,
+    0.9187
+  ],
+  "offsets": [
+    1440,
+    2486
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

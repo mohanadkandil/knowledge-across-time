@@ -1,0 +1,44 @@
+{
+  "id": "wiki-81279762-1334198903-c9eec7fbd82c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "The Death of General Causse at the Battle of Dego",
+  "text": "The Death of General Causse at the Battle of Dego (French: Mort du General Causse a Dego) is an 1812 history painting by the French artist François Mulard. It depicts a stylised view of the death of the French general Jean-Jacques Causse at the Second Battle of Dego in April 1796. Fought during the Italian Campaign during the French Revolutionary War, it was a significant early victory for Napoleon. The future Emperor is shown on horseback as the central figure of the composition, while the dying Causse is to one side.\n\nThe painting was exhibited at the Salon of 1812 at the Louvre in Paris, where it was purchased by Napoleon for the French state. Today it is in the collection of the Palace of Versailles.",
+  "url": "https://en.wikipedia.org/wiki/The_Death_of_General_Causse_at_the_Battle_of_Dego",
+  "revision_id": 1334198903,
+  "article_id": 81279762,
+  "section_path": "shared_text[0:713]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    713
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 87530,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "03ede7c243886559de91d763fdea26ca13a92b88d8c4411def94317ad87c80df",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334198903",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "81279762",
+    "revision_id": "1334198903",
+    "retrieved_at": "2026-10-18T12:22:17.233095+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 713,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

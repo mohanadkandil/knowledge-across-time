@@ -1,0 +1,36 @@
+{
+  "id": "bri-1119-6038f74f3508:region-12:0",
+  "kind": "britannica",
+  "page_id": "bri-1119-6038f74f3508",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+  "text": "1. _Kelmond marble._ It is white and green.<y_0.5359><class_List-item>\n\n<x_0.167><y_0.5352>2. _Separation onions_, is white, with round pieces of black flashes in it. This means not be confounded with the _forpentino verde onion._",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+  "provenance": {
+    "page_id": "bri-1119-6038f74f3508",
+    "row_index": 1119,
+    "volume_id": "190273372",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 12, MIE-NEG - EB.5",
+    "label": 0,
+    "sha256": "6038f74f350870163df4765405fd995f18c6929275fe77a7a46f4e71558fb87c",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1119-6038f74f3508.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1119",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.168,
+    0.5227,
+    0.4756,
+    0.5758
+  ],
+  "offsets": [
+    0,
+    230
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

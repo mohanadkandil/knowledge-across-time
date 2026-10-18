@@ -1,0 +1,36 @@
+{
+  "id": "bri-0504-f34cf1fc8349:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0504-f34cf1fc8349",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+  "text": "But, in whatever way the falls used in dyeing do\nselt, it is certainly they are capable, except in a very few\ninfluence, of being and giving a bults and promenancy\nto the colour which otherwise could never be obtained.\nThe exception to this general skin most commonly\nknown, is that of indigo. This is a fine blue levels produced by fermentation from the leaves of the In-\nchain plans called cool. It is very difficult of foliation;\nhowever, it may be distilled by alkaline fats, concu- trated oil of virilol, orpiment, or combinations of hal-\nphare quickokine. If a quantum if judge is diffi-ed in a flattal ability, evolute alkalies will not differ\nlove it), the lotion is always green, which is the\nnatural colour produced all vegetable blose by the\nblacks but if any piece of fluff is put into the fashion,\nthough it remains green while immersed in the liquid,\nthe moment it comes in coastal with the air, the dif-\nfolking power of the anaklit to totally defeyed; the n-\ndigo is precipitated upon the cloth, refumes its native\ncolors, and dyes the choice bloc.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+  "provenance": {
+    "page_id": "bri-0504-f34cf1fc8349",
+    "row_index": 504,
+    "volume_id": "144850375",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 4, D-F - EB.4",
+    "label": 0,
+    "sha256": "f34cf1fc83499701f722e1e77ec94d731ed921002b4d0256cc72ebd889ce2676",
+    "width": 600,
+    "height": 808,
+    "image_file": "../images/bri-0504-f34cf1fc8349.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=504",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5059,
+    0.5547,
+    0.9961,
+    0.8242
+  ],
+  "offsets": [
+    0,
+    1064
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

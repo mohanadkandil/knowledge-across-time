@@ -1,0 +1,36 @@
+{
+  "id": "bri-0057-7d7650d5d60f:region-14:0",
+  "kind": "britannica",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+  "text": "Mr. Heily, an ingenious electrician, has lately dis-covered that chocolate, fresh from the mill, as it cools in the tin pana into which it is received, because strongly restricts it and that it retains this property for some time after it has been turned out of the pana, but soon hose it by handling. The power can be once or twice restored by nothing it again in an iron hallle, and pouring it into the tin pana as a first; but when it became dry and powdery, the power is not capable of being revived by simple melting; but if a small quantity of alcohol he added, and well mixed with the chocolate in the balls, is always will be completely restored by cooling it in the tin-pan as before. From this experiment the conjectures, that there is a great affinity between chorobook and the electric field, if indeed they be not the same thing.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+  "provenance": {
+    "page_id": "bri-0057-7d7650d5d60f",
+    "row_index": 57,
+    "volume_id": "192200322",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 6, CHI-Crystallization - EB.11",
+    "label": 0,
+    "sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+    "width": 600,
+    "height": 796,
+    "image_file": "../images/bri-0057-7d7650d5d60f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+    "manual_seed": true
+  },
+  "region_id": "region-14",
+  "bbox_raw": [
+    0.5381,
+    0.5312,
+    0.9258,
+    0.743
+  ],
+  "offsets": [
+    0,
+    842
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

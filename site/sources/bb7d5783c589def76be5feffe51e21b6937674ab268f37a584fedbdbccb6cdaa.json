@@ -1,0 +1,49 @@
+{
+  "id": "wiki-193600-1334719026-81d333e858a8",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Jay Treaty",
+  "text": "instead called for an embargo on British trade.\n\nAt the same time, the British continued to supply weapons to Native Americans resisting U.S. expansion in the Ohio Country, further worsening Anglo-American relations. Congress voted on a trade embargo against Britain in March 1794. It was approved in the House of Representatives but defeated in the Senate when Vice-President John Adams cast a tie-breaking vote against it. At the national level American politics was divided between the factions of Jefferson and Madison, which favored the French, and the Federalists led by Hamilton, who saw Britain as a natural ally and thus sought to normalize relations with the British, especially in the area of trade. President George Washington sided with Hamilton. Hamilton devised a framework for negotiations, and Washington sent Chief Justice of the United States John Jay to London to negotiate a comprehensive treaty.\n\nThe U.S. government had several outstanding issues to resolve with Britain:\n\nThe British were continuing to occupy forts on U.S. territory in the Great Lakes region, specifically the forts of Detroit and Mackinac in modern-day Michigan, Niagara and Oswego in New York, and Miami in modern-day Ohio. Britain refused to withdraw from the forts in response to American refusals to pay debts that had been agreed upon or halt the confiscation of Loyalist properties.\n\nThe Royal Navy was impressing sailors from American merchantmen who they alleged were deserters from the British navy.\n\nU.S. merchants wanted compensation for the almost 300 American merchantmen which the Royal Navy h",
+  "url": "https://en.wikipedia.org/wiki/Jay_Treaty",
+  "revision_id": 1334719026,
+  "article_id": 193600,
+  "section_path": "shared_text[0:23866]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "969f92751d55ea716fc86acd2321c1492bfad02bce7d99feefddded9054aaf7d",
+    "source_row_idx": 79242,
+    "source_shard": "enwiki/data/enwiki_namespace_0_30.parquet",
+    "text_sha256": "f3a69e04830310a7b79a2cf1919554f4834d64e9d33a7dbca796c9bb4436eb42",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334719026",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "193600",
+    "revision_id": "1334719026",
+    "retrieved_at": "2026-10-18T12:39:16.183131+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 3866,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

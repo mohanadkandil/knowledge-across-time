@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2855836-1332334708-9be7329c6072",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Weir (disambiguation)",
+  "text": "A weir is a barrier across a river. It may also refer to:\n\nWeir, Quebec, an unincorporated village in Montcalm, Quebec\n\nWeir, Rajasthan\n\nWeir Dam, Maharashtra\n\nWeir, Lancashire\n\nWyre, Orkney, Scotland, which used to be spelt \"Weir\" occasionally\n\nWeir, Kansas\n\nWeir, Kentucky\n\nWeir, Mississippi\n\nWeir, Texas\n\nWeir, West Virginia\n\nWeir Farm National Historic Site, Connecticut, USA\n\nWeir Hill, a park in Massachusetts\n\nJames Weir House, Tennessee, USA\n\nWeirs Beach, New Hampshire\n\nThe Weirs, an archaeological site in Weirs Beach, New Hampshire\n\nWeir (surname), a list of people and fictional characters\n\nSukollawat Kanaros, Thai actor nicknamed \"Weir\"\n\nWeirs (album), by Luke Vibert and Jeremy Simmonds\n\nWeir (song), Killing Heidi's debut single\n\nThe Weir, a 1997 play by Conor McPherson\n\nFishing weir, a type of fish trap\n\nViscount Weir, a title in the Peerage of the United Kingdom\n\nWEIR, an American radio station\n\nWeir Group, an engineering company headquartered in Glasgow, Scotland",
+  "url": "https://en.wikipedia.org/wiki/Weir_(disambiguation)",
+  "revision_id": 1332334708,
+  "article_id": 2855836,
+  "section_path": "shared_text[0:986]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    986
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+    "source_row_idx": 12021,
+    "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+    "text_sha256": "40ea5ea4d07308b32377af0b467de5c0a7d67e3c10657d1bb95cffd1817c42da",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1332334708",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2855836",
+    "revision_id": "1332334708",
+    "retrieved_at": "2026-10-18T12:35:41.168572+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 986,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

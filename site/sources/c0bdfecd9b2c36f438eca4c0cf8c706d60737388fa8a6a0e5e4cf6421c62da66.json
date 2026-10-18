@@ -1,0 +1,36 @@
+{
+  "id": "bri-2566-97b13565fdc3:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-2566-97b13565fdc3",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+  "text": "ALHESFORD, a town of Hampshire, tested on the road from London to Southampton, close by the river Itching, which feeds a good pond to the left of the towns. Part of a Roman highway runs from hence to Alton. It has one church, but two principal streets, which are large and break it and has a small manufacture of these. It is y a nice descent from London, and contained 1429 inhabitants in 1811.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+  "provenance": {
+    "page_id": "bri-2566-97b13565fdc3",
+    "row_index": 2566,
+    "volume_id": "192547781",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 1, A-AME - EB.11",
+    "label": 0,
+    "sha256": "97b13565fdc3129f0c09f0566406d4f70d1b65ae004d1ad31989c042d748b21d",
+    "width": 600,
+    "height": 756,
+    "image_file": "../images/bri-2566-97b13565fdc3.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2566",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.1006,
+    0.6305,
+    0.4717,
+    0.7375
+  ],
+  "offsets": [
+    0,
+    395
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

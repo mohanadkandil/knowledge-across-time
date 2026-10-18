@@ -1,0 +1,44 @@
+{
+  "id": "wiki-55490959-1334464419-c4e77227b6f9",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Eastern Gas Board",
+  "text": "g Hundred Waterworks Company\n\nTottenham and District Gas Company\n\nWatford and St. Albans Gas Company\n\nWatton Gas Coke Company\n\nWells-next-the-Sea Urban District Council\n\nWhittlesey Gas Company\n\nWisbech Lighting Company\n\nWitham Gas Light and Coke Company\n\nWoburn Gas Light and Coke Company\n\nWyvenhoe Gas Company",
+  "url": "https://en.wikipedia.org/wiki/Eastern_Gas_Board",
+  "revision_id": 1334464419,
+  "article_id": 55490959,
+  "section_path": "shared_text[0:3190]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3190
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "20e8c1f2832dfd403df841bcef048436359485a0a12a2b14c6f75dac2926c2a1",
+    "source_row_idx": 93289,
+    "source_shard": "enwiki/data/enwiki_namespace_0_14.parquet",
+    "text_sha256": "758a08ff56c16f92faca113a23c09ceebf2b82dbb890cd14f786684a35ed2c1f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1334464419",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "55490959",
+    "revision_id": "1334464419",
+    "retrieved_at": "2026-10-18T12:30:35.972721+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3190,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

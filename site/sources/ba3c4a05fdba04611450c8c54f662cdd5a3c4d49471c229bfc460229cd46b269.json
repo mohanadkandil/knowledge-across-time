@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3733949-1345839939-83a8ff423d9f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Great Qing Legal Code",
+  "text": "ed to the now discredited belief that traditional Chinese law had no civil law. More recent studies have demonstrated that most of the magistrates' legal work was in civil disputes and that there was an elaborate system of civil law which used the Qing Code to establish torts.\n\nThe Qing Code was in the form of exclusively a criminal code. Its statutes throughout stated prohibitions and restrictions, violations of which were subject to a range of punishments by a legalist state. In practice, however, large sections of the code and its sub-statutes dealt with matters that would properly be characterized as civil law. The populace made extensive use (perhaps a third of all cases) of the local magistrate courts to bring suits or threaten to sue on a whole range of civil disputes, characterized as \"minor matters\" in the Qing Code. Moreover, in practice, magistrates frequently tempered the application of the code by taking prevalent local customs into account in their decisions. Filed complaints were often settled among the parties before they received a formal court hearing, sometimes under the influence of probable action by the court.\n\nThe Great Qing Legal Code was the first written Chinese work directly translated into English. The translation, known as Fundamental Laws of China was completed by English traveller Sir George Staunton in 1810. It was the first time the Qing Code had been translated into a European language. The French translation was published in 1812.\n\nThe First and Second Opium Wars between the Qing dynasty and several Western powers led to the forced signing",
+  "url": "https://en.wikipedia.org/wiki/Great_Qing_Legal_Code",
+  "revision_id": 1345839939,
+  "article_id": 3733949,
+  "section_path": "shared_text[0:11437]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "6fe217ee501bdbdd95f80f6479b20096f54b5d536871cd3d6110a6f224fb1ff4",
+    "source_row_idx": 46986,
+    "source_shard": "enwiki/data/enwiki_namespace_0_18.parquet",
+    "text_sha256": "aab4115faefefce5c4129bcb719fdf12085a18513633f6201242ae0c720eca4e",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345839939",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3733949",
+    "revision_id": "1345839939",
+    "retrieved_at": "2026-10-18T12:24:10.514867+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 11437,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

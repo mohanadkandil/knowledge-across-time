@@ -1,0 +1,44 @@
+{
+  "id": "wiki-35941887-1349503748-653190646054",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Preston (surname)",
+  "text": " (1938–2022), British organist and composer\n\nStephen Preston (disambiguation), multiple people\n\nSteve Preston (born 1960), American businessman and civil servant\n\nThomas Preston (disambiguation), multiple people\n\nTommy Preston (1932–2015), Scottish footballer\n\nWalt Preston (1868–1937), American baseball player\n\nWalter Preston (disambiguation), multiple people\n\nWard Preston (1932–2016), American production designer and art director\n\nWayde Preston (1929–1992), American actor\n\nWilliam Preston (disambiguation), multiple people\n\nYves Preston (born 1956), Canadian ice hockey player",
+  "url": "https://en.wikipedia.org/wiki/Preston_(surname)",
+  "revision_id": 1349503748,
+  "article_id": 35941887,
+  "section_path": "shared_text[0:6342]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    5760,
+    6342
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8272e921e247e28b2a34e6c63b495f4849e7cedc276598b3db42fde167f6cf8c",
+    "source_row_idx": 14348,
+    "source_shard": "enwiki/data/enwiki_namespace_0_51.parquet",
+    "text_sha256": "7a4f5af1885073e75d2516b4f79c499baf62396b561ecac18889a6677e38c329",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349503748",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "35941887",
+    "revision_id": "1349503748",
+    "retrieved_at": "2026-10-18T12:36:08.112232+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 6342,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

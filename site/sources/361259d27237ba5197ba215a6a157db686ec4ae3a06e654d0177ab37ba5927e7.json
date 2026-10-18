@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-e96fbcf0767d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": " 1928–1943). In 1932, the vice-president of Sears, Elkan Harrison Powell, assumed presidency of the Britannica; in 1936, he began the policy of continuous revision. This was a departure from earlier practice, in which the articles were not changed until a new edition was produced, at roughly 25-year intervals, some articles unchanged from earlier editions. Powell developed new educational products that built upon the Britannica ' s reputation.\n\nIn 1943, Sears donated the Encyclopædia Britannica to the University of Chicago. William Benton, then a vice president of the university, provided the working capital for its operation. The stock was divided between Benton and the university, with the university holding an option on the stock. Benton became chairman of the board and managed the Britannica until his death in 1973. Benton set up the Benton Foundation, which managed the Britannica until 1996, and whose sole beneficiary was the University of Chicago. In 1968, the Britannica celebrated its bicentennial.\n\nIn the fourth era (1974–1994), the Britannica introduced its 15th edition, which was reorganized into three parts: the Micropædia, the Macropædia, and the Propædia. Under Mortimer J. Adler (member of the Board of Editors of Encyclopædia Britannica since its inception in 1949, and its chair from 1974; director of editorial planning for the 15th edition of Britannica from 1965), the Britannica sought not only to be a good reference work and educational tool, but to systematize all human knowledge. The absence of a separate index and the grouping of articles into parallel en",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    10080,
+    11680
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

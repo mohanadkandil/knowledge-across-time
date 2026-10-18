@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7131222-1326183336-5ac570f7d4ec",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Bright-field microscopy",
+  "text": "only drawback was that his telescope had to be extended out to six feet to view objects that close.\n\nChristiaan Huygens, another Dutchman, developed a simple two-lens ocular system in the late 17th century that was achromatically corrected, and therefore a huge step forward in microscope development. The Huygens ocular is still being produced to this day, but suffers from a small field size and other minor disadvantages.\n\nAntonie van Leeuwenhoek (1632–1724) is credited with bringing the microscope to the attention of biologists, even though simple magnifying lenses were already being produced in the 16th century. Van Leeuwenhoek's home-made microscopes were simple microscopes, with a single very small, yet strong lens. They were awkward to use, but enabled van Leeuwenhoek to see detailed images. It took about 150 years of optical development before the compound microscope was able to provide the same quality image as van Leeuwenhoek's simple microscopes, due to difficulties in configuring multiple lenses. In the 1850s, John Leonard Riddell, Professor of Chemistry at Tulane University, invented the first practical binocular microscope while carrying out one of the earliest and most extensive American microscopic investigations of cholera.\n\nA bright-field microscope has many important parts including; the condenser, the objective lens, the ocular lens, the diaphragm, and the aperture. Some other pieces of the microscope that are commonly known are the arm, the head, the illuminator, the base, the stage, the adjusters, and the brightness adjuster. The condenser of the microsco",
+  "url": "https://en.wikipedia.org/wiki/Bright-field_microscopy",
+  "revision_id": 1326183336,
+  "article_id": 7131222,
+  "section_path": "shared_text[0:5991]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "fb542bb7d6cb3e654efdfb80ea714214dc3c47610e393ad32e7a56d682b9dc51",
+    "source_row_idx": 2213,
+    "source_shard": "enwiki/data/enwiki_namespace_0_40.parquet",
+    "text_sha256": "aa7875fe3a0bd9db24de4265251900b13e18aa98f1674628bf312117fed69981",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1326183336",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7131222",
+    "revision_id": "1326183336",
+    "retrieved_at": "2026-10-18T12:39:32.270876+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5991,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0032-2ebcde0b7a34:region-5:0",
+  "kind": "britannica",
+  "page_id": "bri-0032-2ebcde0b7a34",
+  "title": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+  "text": "MELLINDA, a kingdom on the east coast of Africa, fluttered according to forms, between the third and fourth degree of fault hitters, though there is great difagreement among geographers as to its extent. It is allowed by all, however, that the coats are very dangerous, being full of rocks and delves, and the fea au time before very linked to tempatts. The king-dom of Melinda is for the melt part rich and fertile, predecs, including all the necesifites of life except wheat and tree, both which are brought children from Can-bava and other parts; and those who cannot purchase them make side of potatoes in the first read, which are here five, large, and in great plenty. They likewise abound with great variety of fruit trees, roots, plants, and other elements, with melon of exquisite tate. They have allo great plenty of vention game, scen, fleeep, ben, spele, and cotton pantry,&c. and one breed of fleege whole tails weigh between 30 and 40 pounds. The capital city is also called Melinda.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+  "provenance": {
+    "page_id": "bri-0032-2ebcde0b7a34",
+    "row_index": 32,
+    "volume_id": "192200898",
+    "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 13, MAT-MIC - EB.10",
+    "label": 0,
+    "sha256": "2ebcde0b7a34c9d11c91c2e0c77bce71941ab576ca45017075b58e3eebe9f94c",
+    "width": 600,
+    "height": 827,
+    "image_file": "../images/bri-0032-2ebcde0b7a34.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=32",
+    "manual_seed": false
+  },
+  "region_id": "region-5",
+  "bbox_raw": [
+    0.0576,
+    0.3359,
+    0.4482,
+    0.5789
+  ],
+  "offsets": [
+    0,
+    997
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

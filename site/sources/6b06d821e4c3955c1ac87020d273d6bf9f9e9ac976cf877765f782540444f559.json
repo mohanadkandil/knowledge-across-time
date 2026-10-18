@@ -1,0 +1,44 @@
+{
+  "id": "wiki-5857544-1352061597-a6a5ed0cc267",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Carron Company",
+  "text": "The Carron Company was an ironworks established in 1759 on the banks of the River Carron near Falkirk, in Stirlingshire, Scotland. After initial problems, the company was at the forefront of the Industrial Revolution in the United Kingdom. The company prospered through its development and production of a new short-range and short-barrelled naval cannon, the carronade. The company was one of the largest iron works in Europe through the 19th century. After 223 years, the company became insolvent in 1982 and was later acquired by the Franke Corporation, being rebranded Carron Phoenix.\n\nThe original founders of the Carron Works were: John Roebuck, a medical doctor and chemist from Sheffield; his two brothers, Thomas Roebuck and Ebenezer Roebuck; Samuel Garbett, a merchant from Birmingham; William Cadell, Senior, an industrialist from a merchant family, from Cockenzie, East Lothian; his son, William Cadell, Junior; and John Cadell.\n\nThe factory of \"Roebuck, Garbett and Cadells\" was established on the north bank of Carron Water, two miles north of Falkirk. Taking iron ore from Bo'ness and water from the Carron, they decided to use the new method pioneered by Abraham Darby at Coalbrookdale, using coke from coal mines in the vicinity as fuel rather than the usual charcoal. The works helped to push other less technologically advanced ironworks, such as the Wealden iron industry based in the Weald, out of business.\n\nCadell's young son, also William, was appointed manager, and the company's financial position was precarious in its first few years. It took time and a considerable inves",
+  "url": "https://en.wikipedia.org/wiki/Carron_Company",
+  "revision_id": 1352061597,
+  "article_id": 5857544,
+  "section_path": "shared_text[0:7066]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c50a7e38e1a11a53f6d8dbe73a403145ce937ad5dbf1c14bcf0850f855e584bc",
+    "source_row_idx": 29772,
+    "source_shard": "enwiki/data/enwiki_namespace_0_62.parquet",
+    "text_sha256": "567e0a0dcbdfa3c7369b7f0fcfb1b7a35b9e89f85f4e12a35f877abd14f14b24",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352061597",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "5857544",
+    "revision_id": "1352061597",
+    "retrieved_at": "2026-10-18T12:23:54.738575+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7066,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

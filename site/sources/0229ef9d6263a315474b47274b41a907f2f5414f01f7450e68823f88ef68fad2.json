@@ -1,0 +1,36 @@
+{
+  "id": "bri-1307-2eff05e65514:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-1307-2eff05e65514",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+  "text": "We may first suppose a reservoir LFBM (fig. 22) of stagnant water, which has a washboard of the height AB. We use then determine by the foregoing problems, the discharge through the plane RC. With respect to the discharge through the part CA, it should be required to be the product of this part of the section by the velocity cor- responding to the fall EC, which is the difference of the higher of water systems and have borne the bar, for because the difference of Jax and Cix is equal to EC, every particles of water in the plane CA is present in the directions of this stream with the same force, the weight of the column EC. The sum of these discharges should be the whole discharge over the bar, but here does the line is set up into a running river, its discharge must be the same with that of the river. The water of the river, when it comes to the case of the box, an activated some velocity by its slope, other causes, and this corresponds to some height FE. This velocity, multiplied by the section of the river, there are the height EB, should give a discharge equal to the discharge over the bar.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+  "provenance": {
+    "page_id": "bri-1307-2eff05e65514",
+    "row_index": 1307,
+    "volume_id": "193057501",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 19, RAB-SCU - EB.15",
+    "label": 1,
+    "sha256": "2eff05e655141179817b1383e508dae67a3ed33f9e40dc8e1f2cfcddcbbb9595",
+    "width": 600,
+    "height": 803,
+    "image_file": "../images/bri-1307-2eff05e65514.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1307",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.041,
+    0.143,
+    0.4248,
+    0.4461
+  ],
+  "offsets": [
+    0,
+    1110
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

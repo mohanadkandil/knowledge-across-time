@@ -1,0 +1,44 @@
+{
+  "id": "wiki-48794256-1274765712-32edc5ce4b16",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Listed buildings in Cumbria",
+  "text": "ed buildings in Gilcrux\n\nListed buildings in Gosforth, Cumbria\n\nListed buildings in Greysouthen\n\nListed buildings in Haile, Cumbria\n\nListed buildings in Hayton, Carlisle\n\nListed buildings in Hayton and Mealo\n\nListed buildings in Hethersgill\n\nListed buildings in Holme Abbey\n\nListed buildings in Holme East Waver\n\nListed buildings in Holme Low\n\nListed buildings in Holme St Cuthbert\n\nListed buildings in Ireby and Uldale\n\nListed buildings in Irthington\n\nListed buildings in Irton with Santon\n\nListed buildings in Keswick, Cumbria\n\nListed buildings in Kingmoor\n\nListed buildings in Kingwater\n\nListed buildings in Kirkandrews\n\nListed buildings in Kirklinton Middle\n\nListed buildings in Kirkbampton\n\nListed buildings in Kirkbride, Cumbria\n\nListed buildings in Lamplugh\n\nListed buildings in Lorton, Cumbria\n\nListed buildings in Loweswater, Cumbria\n\nListed buildings in Maryport\n\nListed buildings in Millom\n\nListed buildings in Millom Without\n\nListed buildings in Moresby, Cumbria\n\nListed buildings in Muncaster\n\nListed buildings in Nether Denton\n\nListed buildings in Orton, Carlisle\n\nListed buildings in Oughterside and Allerby\n\nListed buildings in Papcastle\n\nListed buildings in Parton, Cumbria\n\nListed buildings in Ponsonby, Cumbria\n\nListed buildings in Plumbland\n\nListed buildings in Rockcliffe, Cumbria\n\nListed buildings in Scaleby\n\nListed buildings in St Cuthbert Without\n\nListed buildings in Stanwix Rural\n\nListed buildings in Stapleton, Cumbria\n\nListed buildings in Seascale\n\nListed buildings in Seaton, Cumbria\n\nListed buildings in Sebergham\n\nListed buildings in Setmurthy\n\nListed buildings in Sol",
+  "url": "https://en.wikipedia.org/wiki/Listed_buildings_in_Cumbria",
+  "revision_id": 1274765712,
+  "article_id": 48794256,
+  "section_path": "shared_text[0:10711]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 178466,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "688c68ec78241601afc7e718f236a148f0d1aeab520ccbde9884f64aa1f1b4d1",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1274765712",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "48794256",
+    "revision_id": "1274765712",
+    "retrieved_at": "2026-10-18T12:39:50.044317+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 10711,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

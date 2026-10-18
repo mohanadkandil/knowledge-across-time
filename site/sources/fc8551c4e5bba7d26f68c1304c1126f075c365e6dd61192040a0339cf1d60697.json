@@ -1,0 +1,36 @@
+{
+  "id": "bri-0880-44d798724e1f:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-0880-44d798724e1f",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+  "text": "Jans seems to have to far regarded the advice of his wife countllors, as not to abandon his frong fit-tuation. They recaboured to perfection him, that it is sufficient guard to his homemos, if he did not eline the battle on the day appointed; and that his engagement did not hold him to tight upon hiscirants against ground. The Scotts, the front lines, keen of their enemy difficulty and, as Drummond elegantly specific is, they remembered to their King, that he lacked nothing but patience to be welcome. The Nhim ro. Scott also lying on the defensive, the cut of Surry son can again fear Rouge Come to inform James that he said, ready to give him battle. James was family settled at this same impuntions upon his homens, and yethings was normally forced for having followed the next advice of his oblemean. It is certain, from the bell authorities, but he helped the sacrificefly operations for providing the paflages of the Till, which the English croffed, partly at a place when it was available, and partly at a village. We are told, not without a great experience of possibility to while the English were pulling the belodge. Bothwhile, made of the Scotch military, ill up on his knees, and begged permitted from Jame to point the reasons against the bridges, but that James werered him in a position, that if not be at the peril of the (Borthwick’s) head, and that he was refived to fee all his enemies that day on the plain before him in a body. The cut of Sorry, after pulling the Till, took potifie of Bonzorn, which lay to the right of the Scotch army and by that situation even off the r",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+  "provenance": {
+    "page_id": "bri-0880-44d798724e1f",
+    "row_index": 880,
+    "volume_id": "191253800",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+    "label": 0,
+    "sha256": "44d798724e1f312abd92caaf5ee58d36a1e8250b055cfdbc3387e4b59c34ae2c",
+    "width": 600,
+    "height": 754,
+    "image_file": "../images/bri-0880-44d798724e1f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5156,
+    0.3539,
+    0.8545,
+    0.9055
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-26915344-1344922007-6062784f2e87",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ata (name)",
+  "text": "name meaning \"child,\" and has the meaning same as Igala where the name was drived. Àtá often spelt Attah, Atta and Atà can also mean Father, King and Leader.\n\nObolo (Nigeria, Rivers State): Ata may appear as a name derived from a word meaning \"good\" or \"well\".\n\nArabic: عطاء (ʿAṭāʾ) is a masculine given name meaning \"gift\" or \"bestowal\" and is widely used across the Middle East and North Africa.\n\nPersian: عطا (Aṭā) is used as a personal name with the meaning \"gift\".\n\nAramaic: Forms derived from the verbal root אתא (ʾatā, \"to come\") appear in historical and religious texts and occasionally as names or name elements.\n\nTurkish: Ata means \"ancestor\" or \"forefather\" and is used both as a given name and as an honorific element, most notably in the surname Atatürk (\"Father of the Turks\").\n\nMāori (New Zealand): Ata appears in personal and place names and is associated with meanings related to morning or dawn.\n\nTongan and Samoan: Ata may be used as a personal name derived from words meaning \"dawn\" or \"morning\".\n\nIn Polynesian languages such as Samoan and Tongan, ata is associated with meanings including \"dawn\", \"morning\", \"light\", and in some contexts \"shadow\" or \"reflection\".\n\nIn the Māori language of Aotearoa (New Zealand), ata commonly means \"morning\", \"dawn\", or \"daybreak\". It also appears in greetings such as ata mārie (\"good morning\") and can denote reflection or likeness depending on context.\n\nIn ' Obolo, spoken by the Andoni (Obolo) people of southern Nigeria, ata functions as a lexical item conveying the meaning \"good\" or \"well\" in certain constructions.\n\nIn ' Aramaic, אתא (",
+  "url": "https://en.wikipedia.org/wiki/Ata_(name)",
+  "revision_id": 1344922007,
+  "article_id": 26915344,
+  "section_path": "shared_text[0:5099]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "172f6ef798839cf0a66a4997fc471646c2012cede6820dc4da18ebf105523148",
+    "source_row_idx": 246,
+    "source_shard": "enwiki/data/enwiki_namespace_0_44.parquet",
+    "text_sha256": "b5ffe5763b8b2f8e4a25f4df692e4d281d24cf0dcc666facc52f6e941416ae6f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1344922007",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "26915344",
+    "revision_id": "1344922007",
+    "retrieved_at": "2026-10-18T12:24:23.017352+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5099,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

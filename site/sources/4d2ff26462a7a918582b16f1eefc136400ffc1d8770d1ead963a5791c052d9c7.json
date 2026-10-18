@@ -1,0 +1,36 @@
+{
+  "id": "bri-1372-b18f304e47d5:region-1:0",
+  "kind": "britannica",
+  "page_id": "bri-1372-b18f304e47d5",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+  "text": "delay, he with great, boldness went alone to the camp of Lepidus, and with no other assistance than his private bounci, and the authority he had gained by his favor victories, be served to depois his rival. The soldiers thanged round him with the most dutiful ala- erity, while Lepidus hastened to prevent their efiction. But Octavians, though he received a wound from one of the centrons, want with great presence of mind to the place where the military engins were planted, and, flourishing one of them as those all the legionary and ders ran in crowds and saluted him as their general. Lepidus being thus abandoned by his now directed thankoff of all the marks of his security, which he could no longer keep, and submistitively threw himself at the feet of Octavians. This general spread his life, notwithstanding the connames of this army, but privelhun of all his former authority, and banished him to Circum.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+  "provenance": {
+    "page_id": "bri-1372-b18f304e47d5",
+    "row_index": 1372,
+    "volume_id": "192015834",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 18, RHI-Scripture - EB.11",
+    "label": 0,
+    "sha256": "b18f304e47d59eec1b3ff2c9fb3879e2c88ec8a425aa7a521fe202396b68ddff",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-1372-b18f304e47d5.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1372",
+    "manual_seed": false
+  },
+  "region_id": "region-1",
+  "bbox_raw": [
+    0.0469,
+    0.0688,
+    0.4521,
+    0.3086
+  ],
+  "offsets": [
+    0,
+    914
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

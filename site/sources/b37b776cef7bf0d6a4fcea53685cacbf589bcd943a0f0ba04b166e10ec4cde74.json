@@ -1,0 +1,36 @@
+{
+  "id": "bri-0880-44d798724e1f:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-0880-44d798724e1f",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+  "text": "Hundry and the other noblemen were opopled by the French amhafador, who represented a retreat as diffi grached to the military of Scotchal and the one of James's and died near romantic arguments of the James kind, which he too not failed with the king of dipsion. According to Drummond, the council went of opinion, that the king should immediately believe Berwick, but he that all will, the majority of them were certainly of opinion, that it was because the display of James to fight the fact of Surry but that nobleman’s rea-quisition, and that James could help a human bye turning home. Patrick lond Linday of Tyres, mentions in a former coleering, and who was preferred the council, especially handful of fireproofly on the head, that James, in a paffon, is laid by the historian Lindafy or have done, that it even liveted to return Scotland, he would bring that nobleman at his own gate. He ordered Rouge Croca to the called it; and after transition him with green palmere, he first a artifice to the Earl of Surry by one of his own heads (likely), supporting that she would give the English battle on the Friday following; and that had to re-ceived fach a melfage from the real even in his own cattle of Edinburgh, he would have left that, and all other beliefs to have forg him. With this metings",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+  "provenance": {
+    "page_id": "bri-0880-44d798724e1f",
+    "row_index": 880,
+    "volume_id": "191253800",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 17, SCO-STR - EB.5",
+    "label": 0,
+    "sha256": "44d798724e1f312abd92caaf5ee58d36a1e8250b055cfdbc3387e4b59c34ae2c",
+    "width": 600,
+    "height": 754,
+    "image_file": "../images/bri-0880-44d798724e1f.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=880",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1357,
+    0.5656,
+    0.4912,
+    0.8898
+  ],
+  "offsets": [
+    0,
+    1304
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

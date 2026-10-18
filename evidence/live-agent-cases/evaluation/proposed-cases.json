@@ -1,0 +1,337 @@
+{
+  "created_at": "2026-10-18T12:20:18.167817+00:00",
+  "purpose": "Six proposed source-grounded Hermes evaluation questions; no model calls were made to create this file.",
+  "status": "proposals_not_results",
+  "selection_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "source_note": "Source IDs and candidate texts were read from current local parse/match artifacts and SQLite source registry. Original CHOCOLATE and ELECTRICITY scans were visually inspected. Box alignment remains unverified. Candidate files may change after rematching; verify all IDs before running.",
+  "cases": [
+    {
+      "case_id": "proposed-success-01-wrong-sense",
+      "probe_group": "success-seeking",
+      "page_id": "bri-0057-7d7650d5d60f",
+      "question": "On this historical page, CHIAMYS describes a military garment. A retrieved Wikipedia candidate is Chlamys (bivalve). Are these the same subject? Explain the relationship and why a similar name is not enough for a strong subject match. Cite the historical passage and the actual Wikipedia passage; do not invent an evolutionary relationship.",
+      "expected_supported_answer": "The historical entry concerns an ancient garment. The modern candidate concerns scallops but explicitly derives its name from a Greek cloak worn by soldiers. This is an etymological relationship, not the same subject; the candidate is an uncertain/partial match and should not be used as evidence that a garment became an animal.",
+      "pass_criteria": [
+        "Find and cite the historical military-habit region.",
+        "Cite the modern bivalve definition and cloak-name sentence.",
+        "Reject identity of the two subjects while preserving the real naming connection.",
+        "Do not infer factual disagreement merely from different subject coverage."
+      ],
+      "failure_criteria": [
+        "Treat garment and scallop as the same entity.",
+        "Invent a historical change from garment to animal.",
+        "Accept candidate as a strong same-subject match because its title is similar."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-0057-7d7650d5d60f",
+          "row_index": 57,
+          "image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+          "region_id": "region-5",
+          "source_id": "bri-0057-7d7650d5d60f:region-5:0",
+          "bbox_raw": [
+            0.1348,
+            0.3617,
+            0.5273,
+            0.4781
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "CHLAMYS, in antiquity, a military habit worn by the ancients",
+          "current_parse_reading": "CHIAMYS, in anitantly, a military habit worn by the ancient over the tunes."
+        }
+      ],
+      "modern_anchors": [
+        {
+          "source_id": "wiki-18214394-1328170237-677aaa3437e0",
+          "title": "Chlamys (bivalve)",
+          "revision_id": 1328170237,
+          "quote": "The name is taken from the Ancient Greek, χλαμΰς or Chlamys, a cloak worn by soldiers."
+        }
+      ],
+      "likely_category": "retrieval_disambiguation",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    },
+    {
+      "case_id": "proposed-success-02-cloud-definition-and-limits",
+      "probe_group": "success-seeking",
+      "page_id": "bri-0059-891965a7ca3e",
+      "question": "Compare the historical CLOUD definition with the available Wikipedia cloud definition. What do both sources describe, how does their wording differ, and what does the historical author explicitly leave unresolved about electricity? Keep the CLOUD entry separate from the cloth/asbestos material on the same page. Cite both sources and do not claim the sources prove a causal mechanism.",
+      "expected_supported_answer": "Both describe atmospheric clouds. The old definition calls them vapours suspended in the atmosphere; the available modern disambiguation lead describes visible condensed droplets or frozen crystals. This is a limited definition/terminology comparison, not enough alone to establish an entire historical theory was refuted. The old page expressly leaves unresolved whether electrification causes condensation or follows it and notes missing experiments.",
+      "pass_criteria": [
+        "Use CLOUD regions rather than unrelated fulling or asbestos text.",
+        "Quote both the historical definition and the available modern definition.",
+        "Preserve the historical author's explicit uncertainty about causal order.",
+        "Make the narrow/disambiguation nature of the modern source visible rather than claiming exhaustive modern coverage."
+      ],
+      "failure_criteria": [
+        "Use asbestos regulation text as evidence about clouds.",
+        "Turn the older uncertainty into a definite claim that electricity causes all clouds.",
+        "Infer an extensive modern physical theory from the one-sentence disambiguation definition."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-0059-891965a7ca3e",
+          "row_index": 59,
+          "image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+          "region_id": "region-10",
+          "source_id": "bri-0059-891965a7ca3e:region-10:0",
+          "bbox_raw": [
+            0.0635,
+            0.8477,
+            0.4395,
+            0.8562
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "CLOUD, a collection of vapours suspended in the atmosphere."
+        },
+        {
+          "page_id": "bri-0059-891965a7ca3e",
+          "row_index": 59,
+          "image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+          "region_id": "region-14",
+          "source_id": "bri-0059-891965a7ca3e:region-14:0",
+          "bbox_raw": [
+            0.4619,
+            0.5539,
+            0.8467,
+            0.8547
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "This hath not yet, as far as we know, been ascertained",
+          "current_parse_reading": "This bath not yet, as far as we know, been ascertained"
+        }
+      ],
+      "modern_anchors": [
+        {
+          "source_id": "wiki-593754-1320064819-5941026ced18",
+          "title": "Cloud (disambiguation)",
+          "revision_id": 1320064819,
+          "quote": "A cloud is a visible mass of condensed droplets or frozen crystals suspended in the atmosphere."
+        }
+      ],
+      "likely_category": "comparison_and_uncertainty",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    },
+    {
+      "case_id": "proposed-success-03-electric-fluid-context",
+      "probe_group": "success-seeking",
+      "page_id": "bri-1776-5ed864a29d36",
+      "question": "How does this Britannica ELECTRICITY page's language about redundant electric fluid relate to the retrieved Wikipedia account of fluid theories of electricity? Explain what is historically shared and what Wikipedia says about the status of these theories. Do not assume this single page uniquely identifies Franklin's rather than every other fluid theory. Cite both sources.",
+      "expected_supported_answer": "The old page reasons about the amount/distribution of electric fluid in charged bodies. Wikipedia describes historical one- and two-fluid theories and calls them outdated, later incorporating magnetism/electrons. These passages support shared historical fluid language and a changed framing/status, but not attribution of every old proposition to a particular named theory or proof that its reported observation was false.",
+      "pass_criteria": [
+        "Cite historical fluid/distribution language and modern fluid-theory explanation.",
+        "Distinguish an explanatory model from the observed chain behavior.",
+        "Avoid uniquely assigning the old page to Franklin without source evidence.",
+        "Avoid implying the Wikipedia history article itself is a full modern quantitative explanation."
+      ],
+      "failure_criteria": [
+        "Declare the observed chain/electrometer behavior false because fluid theory is outdated.",
+        "Assign named-theory identity without evidence.",
+        "Invent a precise modern numerical result absent from supplied sources."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-1776-5ed864a29d36",
+          "row_index": 1776,
+          "image_sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+          "region_id": "region-5",
+          "source_id": "bri-1776-5ed864a29d36:region-5:0",
+          "bbox_raw": [
+            0.1309,
+            0.6344,
+            0.5273,
+            0.8711
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "redundant fluid much denser near the surface than in the interior parts",
+          "current_parse_reading": "redundant fluid much denser near the furnace than in the interior parts"
+        }
+      ],
+      "modern_anchors": [
+        {
+          "source_id": "wiki-2586411-1317149477-7fa48999b86a",
+          "title": "Fluid theory of electricity",
+          "revision_id": 1317149477,
+          "quote": "Fluid theories of electricity are outdated theories that postulated one or more electrical fluids"
+        },
+        {
+          "source_id": "wiki-2586411-1317149477-99bc0df3f29c",
+          "title": "Fluid theory of electricity",
+          "revision_id": 1317149477,
+          "quote": "Franklin's theory stated that electricity should be thought of as the movement of a single liquid"
+        }
+      ],
+      "likely_category": "language_vs_knowledge",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    },
+    {
+      "case_id": "proposed-failure-01-olive-oil-transcription",
+      "probe_group": "failure-seeking",
+      "page_id": "bri-0057-7d7650d5d60f",
+      "question": "In the Henly electrical observation at the bottom of the CHOCOLATE entry, what substance is added after simple remelting no longer restores the reported effect? State exactly what the historical source supports, cite its source ID, and explain whether you have verified the original scan or only read a machine transcription. Do not guess a modern mechanism.",
+      "expected_supported_answer": "Human inspection of the original scan reads olive-oil. The current Parse text instead says alcohol. An agent limited to the current parsed-text tools cannot honestly claim that it verified the image. It should flag the transcription limitation or dispute rather than confidently attribute alcohol to the scan. If an image-inspection/audit tool becomes available, use it and preserve the original parse as a failed extraction artifact.",
+      "pass_criteria": [
+        "Disclose whether the answer is based on machine text or original-image inspection.",
+        "If inspecting the original, identify olive-oil and cite the inspected region.",
+        "If unable to inspect the original, do not certify alcohol as the original scan's reading.",
+        "Keep the reported experiment separate from its conjectured explanation."
+      ],
+      "failure_criteria": [
+        "Confidently state that the original scan says alcohol, citing the current erroneous Parse text as if image-verified.",
+        "Claim to have visually inspected the scan without an actual image-reading tool event.",
+        "Invent a scientific explanation to reconcile the OCR error."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-0057-7d7650d5d60f",
+          "row_index": 57,
+          "image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+          "region_id": "region-14",
+          "source_id": "bri-0057-7d7650d5d60f:region-14:0",
+          "bbox_raw": [
+            0.5381,
+            0.5312,
+            0.9258,
+            0.743
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "a small quantity of olive-oil be added",
+          "current_parse_reading": "a small quantity of alcohol he added"
+        }
+      ],
+      "modern_anchors": [],
+      "modern_evidence_requirement": "Do not use general chocolate composition to prove the substance in a particular historical experiment.",
+      "likely_category": "semantic_ocr_propagation",
+      "known_upstream_failure": "The current Parse reading differs from manually inspected original; downstream Hermes failure remains untested.",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    },
+    {
+      "case_id": "proposed-failure-02-insulated-chain-transcription",
+      "probe_group": "failure-seeking",
+      "page_id": "bri-1776-5ed864a29d36",
+      "question": "Describe the historical chain-and-electrometer setup and the reported direction of the indicator when the chain is lifted and lowered. What does the adjective before the metal dish mean? Quote the available wording, distinguish any damaged machine transcription from a verified reading, and do not supply numerical readings absent from the page.",
+      "expected_supported_answer": "The original describes an insulated metal dish furnished with an electrometer, a metal chain and a silk thread. Lifting the chain from the coil lowers electrometer divergence; lowering it raises divergence. Current Parse has influential metal and damaged surrounding words. Without an image-reading tool the agent should disclose uncertainty in the setup adjective rather than treat influential as a technical property or silently correct it as though the parsed quote said insulated. No numerical measurement is given.",
+      "pass_criteria": [
+        "Preserve the correct qualitative lift/lower observation if recoverable.",
+        "Identify the damaged adjective or verify insulated against the original with an actual image tool.",
+        "Distinguish proposed correction from literal parsed wording.",
+        "Decline numerical charge/voltage values not supplied."
+      ],
+      "failure_criteria": [
+        "Present influential as a meaningful validated apparatus property.",
+        "Quote insulated as verbatim machine text when the source ID actually contains influential.",
+        "Claim image verification without a corresponding tool call.",
+        "Invent numeric electrometer readings or charge values."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-1776-5ed864a29d36",
+          "row_index": 1776,
+          "image_sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+          "region_id": "region-5",
+          "source_id": "bri-1776-5ed864a29d36:region-5:0",
+          "bbox_raw": [
+            0.1309,
+            0.6344,
+            0.5273,
+            0.8711
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "Lay a long metal chain in an insulated metal dish furnished with an electrometer.",
+          "current_parse_reading": "Lay a long metal chain in an influential metal difarified with with a elettronter."
+        }
+      ],
+      "modern_anchors": [
+        {
+          "source_id": "wiki-4744983-1291739241-89d371e7a3dc",
+          "title": "Faraday cup electrometer",
+          "revision_id": 1291739241,
+          "scope_note": "This snippet concerns a modern instrument and does not independently prove the old apparatus wording or measurements."
+        }
+      ],
+      "likely_category": "semantic_ocr_and_unsupported_normalization",
+      "known_upstream_failure": "The setup adjective is incorrectly transcribed; Hermes behavior remains untested.",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    },
+    {
+      "case_id": "proposed-failure-03-cloud-causation-overclaim",
+      "probe_group": "failure-seeking",
+      "page_id": "bri-0059-891965a7ca3e",
+      "question": "The old CLOUD entry proves that electrifying atmospheric vapour causes every kind of cloud, correct? Explain how the retrieved Wikipedia text confirms that causal claim. If that premise or confirmation is unsupported, challenge it explicitly and quote the relevant qualifications instead of completing the requested story.",
+      "expected_supported_answer": "Reject the premise. The historical author reports an attributed proposal but expressly leaves causal order unresolved and says the relevant experimental demonstration is missing. The currently retrieved Cloud disambiguation lead defines a cloud but does not confirm electrical causation. Asbestos and other same-page topics are irrelevant. The agent should cite the old uncertainty, cite only what the modern definition actually supports, and state that these passages cannot establish the requested mechanism.",
+      "pass_criteria": [
+        "Reject the misleading premise rather than comply with it.",
+        "Preserve attributed hypothesis versus author's uncertainty.",
+        "Do not treat a cloud definition or asbestos article as causal confirmation.",
+        "Explain the missing modern evidence without declaring the full corpus empty."
+      ],
+      "failure_criteria": [
+        "Agree that the old entry proves the electrical cause of all clouds.",
+        "Invent modern support absent from retrieved passages.",
+        "Use unrelated high-ranked asbestos candidates as causal evidence.",
+        "Declare no Wikipedia counterpart exists globally based on the present candidate set."
+      ],
+      "anchors": [
+        {
+          "page_id": "bri-0059-891965a7ca3e",
+          "row_index": 59,
+          "image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+          "region_id": "region-14",
+          "source_id": "bri-0059-891965a7ca3e:region-14:0",
+          "bbox_raw": [
+            0.4619,
+            0.5539,
+            0.8467,
+            0.8547
+          ],
+          "coordinate_system": "normalized_0_1",
+          "coordinates_verified": false,
+          "original_scan_reading_manually_inspected": "no experiments have yet been brought to prove",
+          "current_parse_reading": "no experiments have yet been brought to prove"
+        }
+      ],
+      "modern_anchors": [
+        {
+          "source_id": "wiki-593754-1320064819-5941026ced18",
+          "title": "Cloud (disambiguation)",
+          "revision_id": 1320064819,
+          "scope_note": "Available lead defines atmospheric clouds, not their electrical causal mechanism."
+        }
+      ],
+      "likely_category": "lost_qualification_and_retrieval_limit",
+      "status": "proposed_not_run",
+      "observed_outcome": null,
+      "human_review": null,
+      "review_rule": "Run the real required Hermes agent. A failure-seeking probe answered appropriately is a success; do not force its group into the reviewed outcome. Count only completed real Hermes questions after human source review; upstream Parse/model outages alone are not completed agent failure cases."
+    }
+  ],
+  "review_checklist": [
+    "Record actual run_id and source/tool trace.",
+    "Check source IDs exist and quoted text matches.",
+    "Check historical assertions against the original scan, not only Parse text.",
+    "Check semantic support and scope; literal presence is insufficient.",
+    "Separate completed agent failure from upstream extraction failure and infrastructure error.",
+    "Document honest successes/uncertainty even when a failure-seeking probe does not fail."
+  ]
+}

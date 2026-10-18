@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1070923-1318525241-ad6709360c3d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Germania (disambiguation)",
+  "text": "Germania was the Roman term for the historical region in north-central Europe initially inhabited mainly by Germanic tribes.\n\nGermania may also refer to:\n\nGermania (band), a project of the Slovenian group Laibach\n\nGermania (book), a historical and ethnographic work by Tacitus c. 98 AD\n\na book on German culture by Simon Winder\n\nGermania (guild), artisan guilds in the Kingdom of Valencia in Spain\n\nGermania (opera), a 1902 opera by Alberto Franchetti\n\nGermania (personification), a figure representing the German nation or the Germans as whole\n\nGermania (Philipp Veit), an alegorical painting made by Veit in 1834–1836\n\nGermania (St. Paul's), another allegorical painting made in 1848, possibly also by Veit, located at St. Paul's Church, Frankfurt\n\nGermania (stamp), a definitive stamp design from 1900–1922 in Germany\n\n\"Germania\" (Beethoven), patriotic song by Ludwig van Beethoven\n\nGermania (German-American culture), aspects of German American culture\n\nGermania Antiqua, an abandoned province of the Roman Empire in Europe\n\nGermania Superior, a province of the Roman Empire in Europe\n\nGermania Inferior, a province of the Roman Empire in Europe\n\nGermania in Dacia, a Roman town, current-day Sapareva Banya, Bulgaria\n\nGermania in Numidia, an ancient city and Roman bishopric, in current-day Algeria\n\nGermania, Michigan\n\nGermania Township, Todd County, Minnesota\n\nGermania, Missouri\n\nGermania, New Jersey\n\nGermania, Texas\n\nGermania, Wisconsin\n\nGermania, Iron County, Wisconsin\n\nGermania, Marquette County, Wisconsin\n\nGermania, Wyoming\n\nGermania (city), also known as Welthauptstadt Germania, the p",
+  "url": "https://en.wikipedia.org/wiki/Germania_(disambiguation)",
+  "revision_id": 1318525241,
+  "article_id": 1070923,
+  "section_path": "shared_text[0:3564]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "4b7d691093ef49a7024939bd4d06e8c27d57fb02a3f4d50b2c67cc810329b8a3",
+    "source_row_idx": 35998,
+    "source_shard": "enwiki/data/enwiki_namespace_0_39.parquet",
+    "text_sha256": "d83be33eb89b34e542ed8ca7a6759c0fd44e114ec68e43a5183bbe92a3ad2b67",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1318525241",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1070923",
+    "revision_id": "1318525241",
+    "retrieved_at": "2026-10-18T12:35:24.566168+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3564,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-0781-2d3c3a09297e:region-24:0",
+  "kind": "britannica",
+  "page_id": "bri-0781-2d3c3a09297e",
+  "title": "Encyclopaedia Britannica - Sixth edition, Volume 20, SUI-ZYM - EB.11",
+  "text": "ULIETEA, one of the Society islands in the South\nsee. This island is about a llegoso in circuit. Its\nproductions are plantains, cocoon nuts, yams, hogs, and\nfowl; the two latter of which are scarce. The soil on\nthe top of one of the hills was found to be a kind of\ntime marks; on the sides were found some scattered\nflints, and a few small pieces of a cavernous or spongy\nstone lava, of a wishlic colony, which seemed to contain\nsome remains of iron, so that it may possibly be here\nlodged in the mountains in a great quantity. Nothing\nwas seen on this Island to distinguish either its inhibi-\ntants, or their manners, from the other neighboring\nslands. The first Europens who landed on this shore\nwere Mr (now Sir Joseph) Banks and Dr Sander;\nthey were received by the native time and courrous\nmanner, reports concerning them having been their bar-\nbingers from Otahteite. Everybody seemed to fear and\nrespect them, placing in them at the near time the st-\nmost confidence: behavior as if conscious than their\nvisitors possessed the power of doing them mischief with\nout a disposition to make use of it.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=781",
+  "provenance": {
+    "page_id": "bri-0781-2d3c3a09297e",
+    "row_index": 781,
+    "volume_id": "193696081",
+    "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 20, SUI-ZYM - EB.11",
+    "label": 0,
+    "sha256": "2d3c3a09297e27118d26a2e1fa1841f7d6b022ff99dec81f6980c3ca33cd1a9b",
+    "width": 600,
+    "height": 841,
+    "image_file": "../images/bri-0781-2d3c3a09297e.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=781",
+    "manual_seed": false
+  },
+  "region_id": "region-24",
+  "bbox_raw": [
+    0.5664,
+    0.2078,
+    0.9658,
+    0.4859
+  ],
+  "offsets": [
+    0,
+    1104
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

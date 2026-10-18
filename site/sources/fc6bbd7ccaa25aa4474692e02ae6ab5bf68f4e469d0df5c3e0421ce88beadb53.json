@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30600547-1339099823-b948f0d5cf84",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Control of Asbestos Regulations 2006",
+  "text": "o the 1980s. It was used as a means of fireproofing as well as insulation and any building built before 2000 could contain asbestos. Although asbestos can be safe if the material is kept in good condition and undisturbed, if damaged asbestos fibres could become airborne and cause serious risks to health if inhaled. Serious diseases including mesothelioma, lung cancer, and asbestosis could result if someone were to breathe in high levels of asbestos fibres. A particular risk if someone were to be working either on, or with, asbestos materials which had been damaged. There are six forms of asbestos although only three are commonly used, these are Chrysotile (white asbestos), the most common; Amosite (brown asbestos) which can often be found in ceiling tiles and as a fire retardant in thermal insulation products; Crocidolite (blue asbestos), commonly used in high temperature applications.",
+  "url": "https://en.wikipedia.org/wiki/Control_of_Asbestos_Regulations_2006",
+  "revision_id": 1339099823,
+  "article_id": 30600547,
+  "section_path": "shared_text[0:5218]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5218
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 35782,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2b3a79bf5448a9c83b24f1e7b4f84317b30ccaed6d6c98971e4b249ec6fbe2d8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339099823",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30600547",
+    "revision_id": "1339099823",
+    "retrieved_at": "2026-10-18T12:16:56.249697+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5218,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

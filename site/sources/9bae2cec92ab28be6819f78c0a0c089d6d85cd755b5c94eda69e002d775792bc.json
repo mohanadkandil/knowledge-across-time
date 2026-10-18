@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2368371-1349495053-be67dd911853",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cutting (plant)",
+  "text": "y expanding, with young leaves. In many species, such cuttings form roots relatively easily.\n\nSemi-hardwood cuttings come from stems that have completed elongation growth and have mature leaves.\n\nHardwood cuttings come from fully matured stems, and are often propagated while dormant.\n\nMost plant cuttings are stem pieces, and have no root system of their own, and are therefore likely to die from dehydration if the proper conditions are not met. They require a moist medium, which, however, cannot be too wet lest the cutting rot. A number of media are used in this process, including but not limited to soil, perlite, vermiculite, coir, rock wool, expanded clay pellets, and even water given the right conditions. Most succulent cuttings can be left in open air until the cut surface dries, which may improve root formation when the cutting is later planted.\n\nIn temperate countries, stem cuttings may be taken of soft (green or semi-ripe) wood and hard wood, which have specific differences in practice. Certain conditions lead to more favorable outcomes for cuttings; timing, size, location on the plant, and amount of foliage are all important. Stem cuttings of young wood should be taken in spring from the upper branches, while cuttings of hardened wood should be taken in winter from the lower branches. Common bounds on the length of stem cuttings are between 5 and 15 centimetres (2.0 and 5.9 in) for soft wood and between 20 and 25 centimetres (7.9 and 9.8 in) for hard wood. Soft wood cuttings do best when about two thirds of the foliage are removed, while hard wood stem cuttings need ",
+  "url": "https://en.wikipedia.org/wiki/Cutting_(plant)",
+  "revision_id": 1349495053,
+  "article_id": 2368371,
+  "section_path": "shared_text[0:12372]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5920
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "355b0895b1deb8e0eadc62962c71072e627bf5aa353b4d76424eb4b880e3a0b0",
+    "source_row_idx": 42968,
+    "source_shard": "enwiki/data/enwiki_namespace_0_52.parquet",
+    "text_sha256": "3c8a44fac0dfc72cdc50a70dc507cc2c8a26f8e62b03cf63e6e2bbf2ad386ed5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1349495053",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2368371",
+    "revision_id": "1349495053",
+    "retrieved_at": "2026-10-18T12:42:18.335080+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 12372,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

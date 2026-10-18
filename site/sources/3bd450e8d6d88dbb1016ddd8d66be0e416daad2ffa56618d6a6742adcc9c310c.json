@@ -1,0 +1,36 @@
+{
+  "id": "bri-2545-4334f28db8cf:region-7:0",
+  "kind": "britannica",
+  "page_id": "bri-2545-4334f28db8cf",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+  "text": "In A fifteen of management, of which I did by my means approve, was stopped by the other partners of the Devon company, too after the works were begun to be certified, and, in the profession of it, they ordered their second furnaces to be put in bluff, without permitting their seafare to be taken him were receding to provide and maintain a sufficient flock of materials; and also without allowing their blowing machine to be completed, according to the world of design, by the addition of its diesel bulbs. As might have been expected, a trial of several months to carry on two furnaces, with only half the power of items that was necessary, and an inadequate flock of materials, proving unfacettified,",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+  "provenance": {
+    "page_id": "bri-2545-4334f28db8cf",
+    "row_index": 2545,
+    "volume_id": "193109110",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 9 Part 1, FOR-Gardening - EB.9",
+    "label": 0,
+    "sha256": "4334f28db8cf4de110cfbe4ddc4d6e2812e8459ce41252098d5b7a2c2e39b262",
+    "width": 600,
+    "height": 786,
+    "image_file": "../images/bri-2545-4334f28db8cf.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2545",
+    "manual_seed": false
+  },
+  "region_id": "region-7",
+  "bbox_raw": [
+    0.5117,
+    0.7289,
+    0.9424,
+    0.9094
+  ],
+  "offsets": [
+    0,
+    704
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

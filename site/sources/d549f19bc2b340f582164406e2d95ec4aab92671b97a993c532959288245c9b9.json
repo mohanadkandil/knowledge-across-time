@@ -1,0 +1,36 @@
+{
+  "id": "bri-2291-e0d1aa12247a:region-8:0",
+  "kind": "britannica",
+  "page_id": "bri-2291-e0d1aa12247a",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+  "text": "When hydrogen is disengaged in a solution containing arsenions and there is formed arsenimected hydrogen, As H<sub>2</sub> mixed with hydrogen. The gas is obtained prurer, but still interact with some hydrogen by the action and hydrochloric acid on an alloy of line and arsenic. It has a most offensive silicones such), and burns when heated in air with pale foam, producing arsenion acid and water. It is extremely poisonous, and several elements have lost their lives that meaningless thinking little of it.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+  "provenance": {
+    "page_id": "bri-2291-e0d1aa12247a",
+    "row_index": 2291,
+    "volume_id": "193109113",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 6, Burning glasses-Climate - EB.16",
+    "label": 1,
+    "sha256": "e0d1aa12247af94bfb9b86b673552ab1d4917278601568b971e8292c624b9564",
+    "width": 600,
+    "height": 806,
+    "image_file": "../images/bri-2291-e0d1aa12247a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2291",
+    "manual_seed": false
+  },
+  "region_id": "region-8",
+  "bbox_raw": [
+    0.0547,
+    0.7352,
+    0.4424,
+    0.8422
+  ],
+  "offsets": [
+    0,
+    509
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

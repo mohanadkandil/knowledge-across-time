@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1317097-1258682069-fe3ee09b307d",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Anti-Slavery Reporter",
+  "text": "ay 1828. It was printed in London for the \"London Society for the Mitigation and Abolition of Slavery in the British Dominions\" (officially the Society for the Mitigation and Gradual Abolition of Slavery Throughout the British Dominions), and printed as a monograph in 1829.\n\nThe title remained Anti-Slavery Monthly Reporter until July 1830, dropping the \"Monthly\" to become The Anti-Slavery Reporter in August 1830 (Volume 3, No. 62?).\n\nIn 1839 the new, internationally focused British and Foreign Anti-Slavery Society (BFASS) was founded, after the previous British Empire-focused organisation was wound up. A \"new series\", described as the 3rd series, started with volume 1, number 1 on 1 January 1846. The title pages for the volumes between 1846 and 1852 read \"The British and Foreign Anti-Slavery Reporter\".\n\nThe journal merged with the Aborigines' Friend to form the Anti-Slavery Reporter and Aborigines' Friend in 1909, when the BFASS merged with the Aborigines' Protection Society to form the Anti-Slavery and Aborigines' Protection Society.\n\nFrom 1981 the journal was called simply Anti-Slavery Reporter.\n\nIt appears to have been published into the 1990s, on an annual or quarterly basis. An Anti-Slavery International publication in 2005 lists in its bibliography \"Anti-Slavery International, Reporter, London, various issues between 1999–2005\", and states \"Anti-Slavery International’s quarterly magazine the Reporter has been published since 1825 and continues to be a leading source of news and analysis in relation to slavery issues\".\n\nUnder Macaulay and its subsequent editors, the jo",
+  "url": "https://en.wikipedia.org/wiki/Anti-Slavery_Reporter",
+  "revision_id": 1258682069,
+  "article_id": 1317097,
+  "section_path": "shared_text[0:3443]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "aae21d20fa0f7fa9b5a4a96cca721df876831d9d55ab4f79a5a3daebc2a59ebd",
+    "source_row_idx": 75980,
+    "source_shard": "enwiki/data/enwiki_namespace_0_1.parquet",
+    "text_sha256": "be2d2fc501499cf3a799c5e4871b625b0d1ad0b6d0fa7594a53ae7f01b16010b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1258682069",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1317097",
+    "revision_id": "1258682069",
+    "retrieved_at": "2026-10-18T12:39:58.945474+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3443,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-34353948-1352986232-2d96a447143c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Parabola GNU/Linux-libre",
+  "text": "Parabola GNU/Linux-libre is a free and open-source Linux distribution based on Arch Linux and Arch Linux ARM for the x86-64, i686, and ARMv7 architectures. It is distinguished from other Arch-based distributions by offering only free software. It includes the GNU operating system components common to many Linux distributions and the Linux-libre kernel instead of the generic Linux kernel. Parabola is listed by the Free Software Foundation as a completely free operating system, true to their Free System Distribution Guidelines.\n\nParabola uses a rolling release model like Arch, such that a regular system update is all that is needed to obtain the latest software. Development focuses on system simplicity, community involvement and use of the latest free software packages.\n\nParabola was originally proposed by members of the gNewSense IRC channel in 2009. Members of different Arch Linux communities, especially Spanish-speaking members, started the development and maintenance of the project software and documentation.\n\nOn May 20, 2011, the Parabola distribution was recognized as a completely free project by GNU, making it part of the FSF list of free distributions.\n\nIn February 2012 Dmitrij D. Czarkoff reviewed Parabola for OSNews. Czarkoff reported that on his test computer a number of hardware problems surfaced, due to lack of free firmware. He said\n\nThat effectively means that many devices are not supported in Parabola. Eg., after installing it on my Acer Aspire One 531h netbook I couldn't use my Broadcom bluetooth module and Intel's WiFi/WiMax Link 5150 adapter. (I still could",
+  "url": "https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre",
+  "revision_id": 1352986232,
+  "article_id": 34353948,
+  "section_path": "shared_text[0:4279]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c8787f86488e8e3e87f007654e4b5e79e9d5ac80438a5f5bc9a1b7cbf23232e7",
+    "source_row_idx": 22791,
+    "source_shard": "enwiki/data/enwiki_namespace_0_67.parquet",
+    "text_sha256": "e8b3107aacd7eafedb3a2274b697efa97d554f46cdc846ea53c3e86c64d7d735",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1352986232",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "34353948",
+    "revision_id": "1352986232",
+    "retrieved_at": "2026-10-18T12:38:10.306439+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4279,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

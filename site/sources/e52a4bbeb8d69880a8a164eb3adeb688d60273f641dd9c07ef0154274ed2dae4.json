@@ -1,0 +1,36 @@
+{
+  "id": "bri-2330-cd9ad26429d1:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2330-cd9ad26429d1",
+  "title": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+  "text": "9s The emperor being quite different at his conti- mual had liefee, it was targeted to him by the king Ghafas, who had fled to him for refuge, as we have already deferred, this, however deference has at fairs might be, they would be perfectly relieved by the affallation of the khalif. This piece of ferice be volnock to perform for the emperor's and difatthe ed one Wathek Ebn Mofader, an Arab of his tribe, and a realistic young man, to Medina for their purple. Watches, time time after his three, having ob-ferved the kalif to fall after under a tree, on which he had placed himself to ask to be oblivered by any one, drew hackgger, and was upon the point of diab- bing him is bat, as the Arab writers tell us, he was de- terred by a long, who walked round the khalf, and lieked all her still he spoke, after which he initially went away. This fruck Wathek with a profound everce for Omar, his came down from his tree where he had been attained by the line, confined its delinig, and embraced the M-tonecian religion.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+  "provenance": {
+    "page_id": "bri-2330-cd9ad26429d1",
+    "row_index": 2330,
+    "volume_id": "144850370",
+    "metadata": "Encyclopaedia Britannica - Second edition, Volume 1, A-AST - EB.4",
+    "label": 0,
+    "sha256": "cd9ad26429d1ff54c029d20d1c534d9322d59bc9c3037369e6a715816c005887",
+    "width": 600,
+    "height": 814,
+    "image_file": "../images/bri-2330-cd9ad26429d1.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2330",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.04,
+    0.1055,
+    0.4961,
+    0.8977
+  ],
+  "offsets": [
+    0,
+    1020
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

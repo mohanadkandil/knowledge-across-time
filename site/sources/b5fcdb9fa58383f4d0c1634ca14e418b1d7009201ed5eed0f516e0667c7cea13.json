@@ -1,0 +1,44 @@
+{
+  "id": "wiki-43685690-1333396362-6bfbb6b404ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Christian Diener",
+  "text": "00m backstroke\n\nGold in 4 × 100 m European Aquatics Championships (as backstroke swimmer)\n\nBronze in 50m backstroke\n\n2012 Short Course World Swimming Championships in Istanbul (Turkey)\n\nRank 8 in 100m backstroke\n\nRank 8 in 200m backstroke\n\nRank 15 in 50m backstroke\n\n2011 World Junior Championships in Lima (Peru)\n\nGold in 50m backstroke (new World Junior Championships Record)\n\n2009 ISF World Schools Championships in Antalya (Turkey)\n\nGold in 50m backstroke\n\nGold in 4 × 50 m European Aquatics Championships (as backstroke swimmer)\n\nGold in 6 × 50 m freestyle relay\n\nSilver in 50m butterfly\n\n2014 European Aquatics Championships in Berlin (Germany)\n\nSilver in 200m backstroke\n\nRank 4 in 100m backstroke\n\n2013 European Short Course Swimming Championships in Herning (Denmark)\n\nGold in 4 × 50 m medley relay mixed (as backstroke swimmer)\n\nSilver in 50m backstroke\n\nBronze in 200m backstroke\n\nBronze in 4 × 50 m medley relay (as backstroke swimmer)\n\nRank 5 in 100m backstroke\n\n2012 European Short Course Swimming Championships in Chartres (France):\n\nRank 4 in 200m backstroke\n\nRank 5 in 50m backstroke\n\nRank 6 in 100m backstroke\n\nRank 6 in 4 × 50 m medley relay Mixed\n\n2012 European Aquatics Championships in Debrecen (Hungary)\n\nRank 9 in 50m backstroke\n\nRank 15 in 200m Rücken\n\nRank 17 in 100m Rücken\n\n2011 European Short Course Swimming Championships in Szczecin (Poland)\n\nBronze in 4 × 50 m medley relay (as backstroke swimmer)\n\nRank 4 in 50m backstroke\n\nRank 6 in 100m backstroke\n\n2011 European Junior Swimming Championships in Belgrad (Serbia)\n\nGold in 50m backstroke (mit Deutschen Altersklassen",
+  "url": "https://en.wikipedia.org/wiki/Christian_Diener",
+  "revision_id": 1333396362,
+  "article_id": 43685690,
+  "section_path": "shared_text[0:4287]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0c6fe80c983049fc2c9f795d6a557d47da0122de995ad5f93fa91c0ff4397992",
+    "source_row_idx": 54943,
+    "source_shard": "enwiki/data/enwiki_namespace_0_29.parquet",
+    "text_sha256": "1cdb707776f871717758608af07be133bd694c280ca9b96ac16ccc0a18bc2b4f",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333396362",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "43685690",
+    "revision_id": "1333396362",
+    "retrieved_at": "2026-10-18T12:41:20.249486+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 4287,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bri-2026-4065cd59de40:region-3:0",
+  "kind": "britannica",
+  "page_id": "bri-2026-4065cd59de40",
+  "title": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+  "text": "Coldiese died during long day, and was forced the blind leaking into Media, then fulgelt to the Parthians, committed three great localizations I but we prevailed upon, with the prefintions that then by Vologes, to abandon that kingdom, and return home. Upon their retreats, Vologes has no enemy to content with ash or home, fell unavapetify upon Armenia is fur- prified the legions there; and having out them all in pieces to a man, extinct Syria, defeated with great daughter Attilian Cordellians, governors of the pro- vince; and advanced without oppionition to the neigh- burhood of Paraths, putting everywhere the firemans, and chil them much blood, without reaping any advantages from them; i are they had not sufficient forces to keep in as we the providers may had difficulty, the ins- hahatants, greatly attached to the family of Artiees, never failed to return to their ancestral obedies as soon as the Roman armies were wichdrawav. Vologe- fes was from after engaged in a writ fill more trouble- forms and defectives, with his brother Arabanus, who, encouraged by frame of the discontenalish, sittempted to osh him of the crown, and place it on his own lead. Vologes gained general videos over his mother and rebellious fulgelt; but died before he could reduce the empire to his former inequality.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+  "provenance": {
+    "page_id": "bri-2026-4065cd59de40",
+    "row_index": 2026,
+    "volume_id": "191253798",
+    "metadata": "Encyclopaedia Britannica - Third edition, Volume 13, NEH-PAS - EB.5",
+    "label": 0,
+    "sha256": "4065cd59de408978ce50cdb477e57ffa479fda8619211cd870863fdb1403b493",
+    "width": 600,
+    "height": 785,
+    "image_file": "../images/bri-2026-4065cd59de40.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2026",
+    "manual_seed": false
+  },
+  "region_id": "region-3",
+  "bbox_raw": [
+    0.1387,
+    0.4875,
+    0.5322,
+    0.9461
+  ],
+  "offsets": [
+    0,
+    1307
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30631067-1350344502-0969e2120fff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Principles of motion economy",
+  "text": "erials.\n\nTools, materials, and controls should be located close in and directly in front of the operator.\n\nDrop delivers should be used whenever possible.\n\nMaterials and tools should be located to permit the best sequence of motions.\n\nArrange the height of the workplace and chair for alternate sitting and standing, when possible.\n\nProvide a chair of the type and height to permit good posture.\n\nCombine tools whenever possible.\n\nPreposition tools and materials.\n\nWhere each finger performs some specific movement, the load should be distributed in accordance with the inherent capacities of the fingers.\n\nFor light assembly, a screwdriver handle should be smaller at the bottom.\n\nMomentum should be used to help the worker in doing their task not to increase their task.g\n\nEven a temporary delay of work by a man or machine should not be encouraged.\n\nMachine should not run idle, it is not desirable that a lathe machine is running and its job is rotating but no cut is being taken.\n\nTwo or more jobs should be worked upon at the same time or two or more operations should be carried out on a job simultaneously if possible.\n\nNumber of motion involved in completing a job should be minimized.",
+  "url": "https://en.wikipedia.org/wiki/Principles_of_motion_economy",
+  "revision_id": 1350344502,
+  "article_id": 30631067,
+  "section_path": "shared_text[0:2634]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2634
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "351ee65aa683fc2e65fc2cb6c0e70fbb1ddbaaf57fbd16630b2878c2de84e546",
+    "source_row_idx": 28064,
+    "source_shard": "enwiki/data/enwiki_namespace_0_54.parquet",
+    "text_sha256": "dc7759deee015514e066217a636659b335d13cdcbe1133d85f42580b22a7dc74",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350344502",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30631067",
+    "revision_id": "1350344502",
+    "retrieved_at": "2026-10-18T12:37:36.853089+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2634,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

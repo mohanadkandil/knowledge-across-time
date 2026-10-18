@@ -1,0 +1,44 @@
+{
+  "id": "wiki-96540-1351139218-089c9564d3ff",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Tara",
+  "text": "Tara may refer to:\n\nTara (1992 film), an Indian film directed by Bijaya Jena\n\nTara (2001 film), an American film, also known as Hood Rat, directed by Leslie Small\n\nTara (2010 film), a Bengali film directed by Bratyo Basu\n\nTara (2013 film), an Indian film directed by Kumar Raj\n\nTara (TV series), soap opera that aired on Zee TV\n\nTARA, acronym for The Amazing Race Asia, a reality game show on the AXN network\n\nAcronym for The Amazing Race Australia, a reality game show on Network Ten\n\nT-ara, a South Korean girl group\n\nTara Music, a label featuring traditional Irish music\n\nTara (Absu album)\n\n\"Tara\" (song), a song on Moya Brennan's 2003 album Two Horizons\n\nTara (Yano album)\n\n\"Tara\", a song by Roxy Music on the 1982 album Avalon (Roxy Music album)\n\nTara (plantation), fictional home of Scarlett O'Hara in Gone with the Wind\n\nTara, a planet, setting of the Doctor Who serial The Androids of Tara\n\nTara, a fictional town, the setting for the 1970 film The Spider's Stratagem\n\nTara (plant), a genus of legumes\n\nTara (spider), a genus of jumping spiders\n\nTara tree (Caesalpitarania spinosa), native to Peru\n\nTara, a Malagasy name for the shrub Lemuropisum edule\n\nTara, a theoretical founding ancestor of Haplogroup T\n\nA Vitis rotundifolia grape variety\n\nTara, Māori for the White-fronted tern (Sterna striata)\n\nTara, a Chinese name for Calamus erectus\n\nȚara, a newspaper from the Republic of Moldova\n\nTara Air, a Nepalese airline\n\nTara International, Indian marketer for Tara Green Auto\n\nTara Labs, a manufacturer of high-end audio products\n\nTara Muzik, a defunct Indian Bengali music channel\n\nTara Ne",
+  "url": "https://en.wikipedia.org/wiki/Tara",
+  "revision_id": 1351139218,
+  "article_id": 96540,
+  "section_path": "shared_text[0:5804]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9d1671901d178cc0b6abb5d661be11397458b207b68f570b16757be65d3ef923",
+    "source_row_idx": 16153,
+    "source_shard": "enwiki/data/enwiki_namespace_0_58.parquet",
+    "text_sha256": "820b294120f656e9a98f59c7ea4f93a5850be86dd9197138f0fcc38d9dbddd69",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1351139218",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "96540",
+    "revision_id": "1351139218",
+    "retrieved_at": "2026-10-18T12:38:29.072446+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5804,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

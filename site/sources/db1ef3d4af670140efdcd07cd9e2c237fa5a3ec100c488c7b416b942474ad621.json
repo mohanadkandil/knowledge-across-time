@@ -1,0 +1,44 @@
+{
+  "id": "wiki-59716982-1346950736-350e61a5d8b3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Russia Germans",
+  "text": "Russia Germans or Germans from Russia (German: Russlanddeutsche, literally \"Russia Germans\"; Russian: российские немцы, romanized: rossiyskiye nemtsy or русские немцы, literally \"Russian Germans\") are ethnic Germans or their descendants who were born in Russia or in the Soviet Union. The term Russlanddeutsche – literally \"Russia Germans\" in German – is often mistranslated as \"Russian-Germans.\"\n\nAfter the dissolution of the Soviet Union, many Russia Germans immigrated to Germany, benefiting from the German law that recognizes citizenship to ethnic Germans who arrived in the territory as late ethnic Germans resettlers (German: Spätaussiedler).\n\nRussia Germans can receive a more specific name according to where and when they settled. For example, an ethnic German born in a village in Odesa is a Ukraine German, a Black Sea German and a Russia German (the former Russian Empire). Alternatively, the Germans of Odesa belong to the group of the Germans of Ukraine, of the Black Sea, of Russia, and, less specifically, of Eastern Europe.\n\nThe most populous division are the Volga Germans.More Russia German groups are Caucasus Germans, Petersburg Germans, Baltic Germans, Kazakh Germans, Volynian Germans, Moscow Germans and Sibirian Germans. Not their ancestral regions divide them into these groups, but also their different cultures. Ukraine Germans are more influenced by Ukrainian culture and Caucasus Germans by Russian and Caucasus culture. The influence in culture got more intense over the years and Russia Germans started to mix their cuisine with typical eastern-european food and to u",
+  "url": "https://en.wikipedia.org/wiki/Russia_Germans",
+  "revision_id": 1346950736,
+  "article_id": 59716982,
+  "section_path": "shared_text[0:3735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0710c536dc264c461ca78f84cfccd3a76e5a097537b128227897481154409b19",
+    "source_row_idx": 49742,
+    "source_shard": "enwiki/data/enwiki_namespace_0_38.parquet",
+    "text_sha256": "514946fc76abb407064ddaa5b1f73d72b8f5497c05b6b235296f5e801f71dd20",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346950736",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "59716982",
+    "revision_id": "1346950736",
+    "retrieved_at": "2026-10-18T12:35:48.369114+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "wiki-12666000-1314609642-f2d76e260d71",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Platystacus",
+  "text": "Platystacus is a genus of banjo catfish in the family Aspredinidae. It is monotypic, being represented by the single species Platystacus cotylephorus, commonly known as the banded banjo. The genus Platystacus is the sister group to a clade containing Aspredo and Aspredinichthys. P. cotylephorus originates from coastal waters and lower portions of rivers of northern South America, from Venezuela to northern Brazil.\n\nThis species grows up to about 32 centimetres (13 in) SL and is distinguished from all other aspredinids by having 4+5 caudal fin rays. They are further distinguished from its close relatives by the absence of accessory maxillary barbels and the presence of well developed rows of unculiferous tubercles.\n\nP. cotylephorus is usually found in brackish waters on the soft bottoms of shallow, turbid water near to the mouths of rivers. reportedly it migrates into freshwater, though spawning is believed to take place in brackish water. This species has an unusual mode of reproduction in which the eggs are attached to the underside of the female who carries them around with her until they hatch.",
+  "url": "https://en.wikipedia.org/wiki/Platystacus",
+  "revision_id": 1314609642,
+  "article_id": 12666000,
+  "section_path": "shared_text[0:1114]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1114
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 33321,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "bc565e1f900ed671f2c57b05ebfad7b777b221edd239d0677592ec2b7e33b1ef",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1314609642",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "12666000",
+    "revision_id": "1314609642",
+    "retrieved_at": "2026-10-18T12:40:26.899394+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 1114,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

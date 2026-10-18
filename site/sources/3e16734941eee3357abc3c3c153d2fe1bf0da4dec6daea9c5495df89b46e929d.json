@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10981070-1340989958-dce6afffe33e",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Fenelon Township",
+  "text": "The Township of Fenelon was a municipality in present-day Kawartha Lakes, Ontario, Canada. The township was named after François de Salignac de la Mothe-Fénelon (missionary) (1641–79) who was a missionary in New France, establishing a mission on the Bay of Quinte.\n\nThe community of Cambray within the township was named after Cambrai in France, where François Fénelon (1651–1715), younger brother of the missionary, was archbishop.\n\nCameron\n\nCambray\n\nFenelon Falls\n\nLong Beach\n\nSturgeon Point",
+  "url": "https://en.wikipedia.org/wiki/Fenelon_Township",
+  "revision_id": 1340989958,
+  "article_id": 10981070,
+  "section_path": "shared_text[0:493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    493
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 69610,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "167881f2ca9ec84a71bb5d9424227f49f24cb878fe38391dff0a7e004a8ac734",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340989958",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10981070",
+    "revision_id": "1340989958",
+    "retrieved_at": "2026-10-18T12:40:20.748058+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

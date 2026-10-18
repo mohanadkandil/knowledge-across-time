@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38348383-1341673293-4318ded35f5c",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Arrow (disambiguation)",
+  "text": "miniseries\n\n\"Arrow\" (Smallville), an episode of the TV series Smallville\n\nArrow Books, an imprint of Random House\n\nWar of the Arrows, or Arrow: The Ultimate Weapon, a 2011 South Korean film\n\nArrow (brand), a brand of shirts and collars\n\nArrow (liqueur), a brand of alcoholic beverage\n\nArrow (motorcycle part manufacturer), Arrow Special Parts, an Italian motorcycle exhaust manufacturer\n\nArrow Air, an American airline from 1981 to 2010\n\nArrow Aircraft and Motors, an American aircraft manufacturer of the 1920s and 1930s\n\nArrow Aircraft Ltd., a British aircraft manufacturer of the 1930s\n\nArrow Comics, an American independent publisher of black-and-white comics\n\nArrow Dynamics, an American roller coaster manufacturer from 1943 to 2002\n\nArrow Electronics, an American electronics company founded in 1935\n\nArrow Films, an independent British film distributor\n\nArrow Film Corporation, an American silent film studio\n\nArrow Global, a European fund manager based in Manchester\n\nArrow SNC, an Italian aircraft engine manufacturer\n\nArrow Hotel, Broken Bow, Nebraska, United States, on the National Register of Historic Places\n\nArrow Theatre, Middle Park, Victoria, Australia\n\nArrow (computer science), a more general interface to computation than monads\n\nArrows (Unicode block), a Unicode block containing line, curve, and semicircle symbols terminating in barbs or arrows\n\nApache Arrow, a framework for data analytics applications\n\nArrow, the lower limit topology on the real line\n\nMorphism, also called arrow, a concept in category theory\n\nHMS Arrow, seven ships of the British Royal Navy\n\nArrow -clas",
+  "url": "https://en.wikipedia.org/wiki/Arrow_(disambiguation)",
+  "revision_id": 1341673293,
+  "article_id": 38348383,
+  "section_path": "shared_text[0:7415]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "25fa775f748139b07f2dafa020394942309e51dffc06f208042dd20295322f78",
+    "source_row_idx": 80390,
+    "source_shard": "enwiki/data/enwiki_namespace_0_33.parquet",
+    "text_sha256": "1f0f4fc21fc8ba95fab0aaad4297d9adbd4dcf12b905e0c95c488b0e03c6a76b",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1341673293",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38348383",
+    "revision_id": "1341673293",
+    "retrieved_at": "2026-10-18T12:41:27.177853+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7415,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

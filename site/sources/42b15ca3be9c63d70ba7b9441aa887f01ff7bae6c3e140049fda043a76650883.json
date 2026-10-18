@@ -1,0 +1,44 @@
+{
+  "id": "wiki-21062639-1328873961-883e1ae21692",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "St. Thomas' Church",
+  "text": "aint Thomas the Apostle Parish, Santo Tomas, Pampanga\n\nSt. Thomas's Church (Rateče), Kranjska Gora, Slovenia\n\nSt Thomas' Church, Ashton-in-Makerfield, Greater Manchester\n\nSt Thomas's Church, Aslockton, Nottinghamshire\n\nSt Thomas' Church, Belfast, Northern Ireland\n\nSt Thomas' Church, Blackburn (demolished), Lancashire\n\nSt Thomas' Church, Blackpool, Lancashire\n\nSt Thomas' Church, Coventry, West Midlands\n\nChurch of St Thomas, Cricket St Thomas, Somerset\n\nSt Thomas' Church, Crookes, Sheffield\n\nSt Thomas' Church, East Shefford, Berkshire\n\nSt Thomas's Church, East Orchard, Dorset\n\nSt Thomas' Church, Eaton, Cheshire\n\nSt Thomas, Exeter, Devon\n\nSt Thomas' Church, Friarmere, Delph, Greater Manchester\n\nSt Thomas' Church, Garstang, Lancashire\n\nSt Thomas' Church, Halliwell, Bolton, Greater Manchester\n\nSt Thomas the Apostle, Hanwell, Ealing, London\n\nSt Thomas' Church, Henbury, Cheshire\n\nSt Thomas's Church, Huddersfield, West Yorkshire\n\nSt Thomas Church, Jersey, St Helier\n\nSt Thomas's Church, Keith, Moray\n\nSt Thomas' Church, Kendal, Cumbria\n\nSt Thomas' Church, Lancaster, Lancashire\n\nChurch of St Thomas, Lees, Greater Manchester\n\nSt Thomas the Apostle, London\n\nSt Thomas' Church, Lydiate, Sefton, Merseyside\n\nSt Thomas' Church, Mellor, Greater Manchester\n\nSt Thomas' Church, Milnthorpe, Cumbria\n\nSts Thomas Minster, Newport, Isle of Wight\n\nSt Thomas's Church, Oakwood, London\n\nSt Thomas' Church, Parkgate, Cheshire\n\nSt Thomas' Church, Pendleton, Salford\n\nSt Thomas' Church, Plaistow, Plaistow, Newham\n\nSt Thomas' Church, Preston, Lancashire\n\nChurch of St Thomas, Redwick, Newport, Wales\n\nSt Thomas'",
+  "url": "https://en.wikipedia.org/wiki/St._Thomas%27_Church",
+  "revision_id": 1328873961,
+  "article_id": 21062639,
+  "section_path": "shared_text[0:7232]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "d639c0231da579b1bebda2db063593e5ff50b3dacea8a45ded9f0c09cb81be84",
+    "source_row_idx": 271,
+    "source_shard": "enwiki/data/enwiki_namespace_0_13.parquet",
+    "text_sha256": "d5a5105550f105122bc8b3aadc501e849e4341f3a849e5d976069fcde23f5d25",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1328873961",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "21062639",
+    "revision_id": "1328873961",
+    "retrieved_at": "2026-10-18T12:36:16.645898+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 7232,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

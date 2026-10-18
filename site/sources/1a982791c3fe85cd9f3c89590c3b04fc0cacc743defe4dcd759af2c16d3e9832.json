@@ -1,0 +1,36 @@
+{
+  "id": "bri-1268-e5ec9e5b4086:region-12:1440",
+  "kind": "britannica",
+  "page_id": "bri-1268-e5ec9e5b4086",
+  "title": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+  "text": "e portals of entrance to the original building, destroyed by the Tork's, and of others the remains are still too large. On the wall, both within and without, there are worked into the memory seven pieces of the old ruins, containing delicatable pitted of fries, vortices capi› tils. No. The gate leads to a large paved square, in which there are two wells, monoured by the waves and on the right hand at the hall for the reception of transport and it visitors. The interior is furnished with every convenient in statics,ces, galleries, and apartments. Mr Buckingham mentions, that he support in a hall below, of considerable",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+  "provenance": {
+    "page_id": "bri-1268-e5ec9e5b4086",
+    "row_index": 1268,
+    "volume_id": "194474782",
+    "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 16, Navigation-PAN - EB.15",
+    "label": 0,
+    "sha256": "e5ec9e5b4086576d908e749cf55ee5aa6db8079444bb0961627c9475b434ca7e",
+    "width": 600,
+    "height": 787,
+    "image_file": "../images/bri-1268-e5ec9e5b4086.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1268",
+    "manual_seed": false
+  },
+  "region_id": "region-12",
+  "bbox_raw": [
+    0.1572,
+    0.4773,
+    0.5605,
+    0.9367
+  ],
+  "offsets": [
+    1440,
+    2064
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

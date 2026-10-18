@@ -1,0 +1,44 @@
+{
+  "id": "wiki-46863701-1331212470-6f31063c64dc",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Volatolomics",
+  "text": " organisms takes an increasing importance in various scientific domains like in medicine, in food sciences or in chemical ecology.\n\nFor instance, in medicine, non-invasive diagnosis techniques of cancer based on the profiling of VOCs from the exhaled breath have been developed. To this end, a variety of novel sensing approaches and nanomaterial based sensors are being used in volatolomics research.\n\nIn the field of chemical ecology, gas chromatography coupled to mass spectrometry (GC-MS) is often used to characterize the volatile semiochemicals involved in the biotic interactions taking place aboveground and belowground between plants, insects and phytopathogens.",
+  "url": "https://en.wikipedia.org/wiki/Volatolomics",
+  "revision_id": 1331212470,
+  "article_id": 46863701,
+  "section_path": "shared_text[0:2111]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2111
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 116861,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "474e7adb2b2ab4e2db1324a35b8eeb03dc3f6ceeb0527fd40bd1941c8f832b67",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1331212470",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "46863701",
+    "revision_id": "1331212470",
+    "retrieved_at": "2026-10-18T12:40:46.820830+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2111,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

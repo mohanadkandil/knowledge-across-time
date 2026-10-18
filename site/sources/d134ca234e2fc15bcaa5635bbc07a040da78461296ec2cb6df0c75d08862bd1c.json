@@ -1,0 +1,44 @@
+{
+  "id": "wiki-690575-1346891065-fd5bbcc7fb42",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "List of Church of the Nazarene schools",
+  "text": "ical College, registered in Apia\n\nMelanesia Nazarene Bible College, Ningei, Mount Hagen, Western Highlands Province, Papua New Guinea\n\nNazarene College of Nursing, Kudjip, Western Highlands Province\n\nNazarene Teachers' College, Ningei, Western Highlands Province\n\nEuropean Nazarene College\n\nNazarene Theological College, Manchester, England\n\nAmbrose University College, Calgary, Alberta\n\nInstitut Biblique Nazaréen du Québec, Québec, Canada\n\nSeminario Nazareno de las Americas, San José\n\nInstituto Biblico Nazareno, Havana\n\nSeminario Nazareno Dominicano, Santo Domingo\n\nInstituto Biblico Nazareno, Cobán, Alta Verapaz\n\nSeminario Teológico Nazareno de Guatemala, Guatemala City\n\nSéminaire Théologique Nazaréen d'Haïti, Pétion-Ville\n\nSeminario Nazareno Mexicano, A.C., Tecate, Baja California, Mexico\n\nCaribbean Nazarene Theological College, Santa Cruz\n\nThe seven liberal arts colleges have divided the country into \"educational regions\" and have formed a gentlemen's agreement to not actively recruit outside their educational region:\n\nMidAmerica Nazarene University in Olathe, Kansas (North Central)\n\nMount Vernon Nazarene University in Mount Vernon, Ohio (East Central)\n\nNorthwest Nazarene University in Nampa, Idaho (Northwest)\n\nOlivet Nazarene University in Bourbonnais, Illinois (Central)\n\nPoint Loma Nazarene University in San Diego, California (Southwest)\n\nSouthern Nazarene University in Bethany, Oklahoma (South Central)\n\nTrevecca Nazarene University in Nashville, Tennessee (Southeast)\n\nThere are, in addition to the liberal arts colleges, a Bible college and a seminary:\n\nNazarene Bible Col",
+  "url": "https://en.wikipedia.org/wiki/List_of_Church_of_the_Nazarene_schools",
+  "revision_id": 1346891065,
+  "article_id": 690575,
+  "section_path": "shared_text[0:3435]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "a37cd1a7963d2615a61cfc75852f62baab05b49e81a4818ad6a1003a71793454",
+    "source_row_idx": 136795,
+    "source_shard": "enwiki/data/enwiki_namespace_0_22.parquet",
+    "text_sha256": "df348f72d0f0bd321868dca556ba5f0ba3efdd8d39b8c73d84a246a93bb82521",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346891065",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "690575",
+    "revision_id": "1346891065",
+    "retrieved_at": "2026-10-18T12:35:36.956509+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3435,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

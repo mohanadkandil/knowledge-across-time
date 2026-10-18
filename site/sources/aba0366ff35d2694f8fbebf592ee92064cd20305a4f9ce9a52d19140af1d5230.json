@@ -1,0 +1,36 @@
+{
+  "id": "bri-2081-89c162954699:region-6:0",
+  "kind": "britannica",
+  "page_id": "bri-2081-89c162954699",
+  "title": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+  "text": "Such are the principal matters supplied by harfacing aspecting, ancient inhabitants of the country prior to the Roman conquest. The first events in the authentic history of Britain over the landing of Ocean on the southern waters, in the fifth-fifth year before the Christian era, and his invasion of the country in the following year. The course of the concepts in Gauland year brought in an eight of an island hitherto known only by name, and, being pro-baily bitator of dangling the people of Rome by a new phenomenon, as well as of securing to be engaged in objects centred from underground agreement, he resolved on attempting a nascent upon this unexplored region, on the pretens that the Britain had rendered some assistance to the Guala in their struggle for independence. Another good ones secret motivo for this exposition may have been, that it would enable him to prolong his provincial come, and, alone all, to keep up an army devoted to its chief, until the Chinese of time should consider for the execution of his project against liberty. On the first occasion, when he discmarked near Dean, his leading was warning disputed by the nations, but despite and still ill thought prevailed over wild labor, and efforts sungary struggle the Britons were detained, and forced to use for peace, societies were reconciling sent to lay their submission before Cesar, and knew the conditions so what they were the fingers for the crime of defending the naive real. But having ascertained the number of the invaders, and learnt that soldiers raising their ignorance of the nation had damaged the R",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+  "provenance": {
+    "page_id": "bri-2081-89c162954699",
+    "row_index": 2081,
+    "volume_id": "193108324",
+    "metadata": "Encyclopaedia Britannica - Eighth edition, Volume 5, Bombay-BUR - EB.16",
+    "label": 0,
+    "sha256": "89c162954699ad92f13d0caf89726df1951cfd624efbeab680e8c229efd8cd66",
+    "width": 600,
+    "height": 807,
+    "image_file": "../images/bri-2081-89c162954699.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2081",
+    "manual_seed": false
+  },
+  "region_id": "region-6",
+  "bbox_raw": [
+    0.5664,
+    0.4766,
+    0.9424,
+    0.9117
+  ],
+  "offsets": [
+    0,
+    1600
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

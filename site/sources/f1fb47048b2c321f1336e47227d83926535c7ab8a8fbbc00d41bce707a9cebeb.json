@@ -1,0 +1,36 @@
+{
+  "id": "bri-1071-d24d0fd09823:region-13:0",
+  "kind": "britannica",
+  "page_id": "bri-1071-d24d0fd09823",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+  "text": "Commons-Place Book, is a register of what things occur, worthy to be noted, in the court of a man's thinking of the party, if adopted as that among a number of subjects any one may be easily found.\" The ad- varyans of making a common-place book, we may: it not only exist a man read how accuracy and attention, the induce him intimidibly to think their films, followed by conflicts in void. In such as a register of finiments that Arke him in the course of reading, but as a regler or his own brought upon various folksjels. They valuable thought once ever come to me of no extraordinary genial. These without the artifacts ance of a common-place book, are generally laid both to himself and others. There are various methods of arranging common-place books; thus of Mr Locke is so good as you have has hitherto been coni- tived.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+  "provenance": {
+    "page_id": "bri-1071-d24d0fd09823",
+    "row_index": 1071,
+    "volume_id": "192547776",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 6 Part 1, CHI-Conchology - EB.9",
+    "label": 0,
+    "sha256": "d24d0fd098237eeb0479d8675ed1388c6ec6806c51819810dc13332feacfd194",
+    "width": 600,
+    "height": 773,
+    "image_file": "../images/bri-1071-d24d0fd09823.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1071",
+    "manual_seed": false
+  },
+  "region_id": "region-13",
+  "bbox_raw": [
+    0.5293,
+    0.3594,
+    0.8779,
+    0.5719
+  ],
+  "offsets": [
+    0,
+    829
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

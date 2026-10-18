@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-f8985d2f5d53",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": " North American market. Though published in the United States since 1901, the Britannica has for the most part maintained British English spelling.\n\nIn 1932, the Britannica adopted a policy of \"continuous revision,\" in which the encyclopaedia is continually revised and reprinted, with every article updated on a schedule. The publishers of Compton's Pictured Encyclopedia had already pioneered such a policy.\n\nThe 15th edition (1974–2010) has a three-part structure: a 12-volume Micropædia of short articles (generally fewer than 750 words), a 17-volume Macropædia of long articles (two to 310 pages), and a single Propædia volume to give a hierarchical outline of knowledge. The Micropædia was meant for quick fact-checking and as a guide to the Macropædia; readers are advised to study the Propædia outline to understand a subject's context and to find more detailed articles.\n\nIn the 21st century, the Britannica faced strong competition: in particular from the digital and multimedia encyclopaedia Microsoft Encarta, and later from the online peer-produced encyclopaedia Wikipedia. Despite (or perhaps because of) such competition, Britannica retained its reputation for authoritative, comprehensive, structured, and scholarly treatments of included subjects. While it continued to score well in assessments of its overall quality, as compared to its competitors, it could not (as an expert-authored compilation of a limited number of articles on only important subjects), match their breadth of coverage and continuous updating.\n\nIn March 2012, it announced it would no longer publish printed e",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

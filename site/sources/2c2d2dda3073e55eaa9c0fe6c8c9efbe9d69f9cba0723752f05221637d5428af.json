@@ -1,0 +1,44 @@
+{
+  "id": "wiki-2225139-1328156172-258d3732f5bb",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Flag of Tenerife",
+  "text": "The flag of Tenerife is a white saltire (or Cross of Burgundy or St Andrew's Cross) over a blue field. The arms of the cross are approximately one fifth the width of the flag and the field is navy blue (azul marino).\n\nThere is no official meaning to justify the colours of the flag, but blue and white colours have been identified with the island of Tenerife for centuries. Traditionally, navy blue has been identified with the sea and the white with the snow-covered peaks of Mount Teide in winter.\n\nJuba II and Ancient Romans referred to Tenerife as Nivaria, derived from the Latin words nix, nivis or nives, meaning snow, in clear reference to the snow-covered peak of the Teide volcano.\n\nThe name of Tenerife is derived from the language of the Natives of La Palma. Tene(r) means 'mountain' or 'land' and ife means 'white' or 'bright'.\n\nThe flag was first adopted as a maritime registry flag of the maritime province of the Canary Islands. It was initially adopted in 1845 by Royal Order and was adopted as the flag of Tenerife by an Order issued on 9 May 1989, with the order appearing in the Boletín Oficial de Canarias on 22 May 1989.\n\nThe flag closely resembles the flag of Scotland, the difference being a darker shade of blue. There are two popular traditions on the island of Tenerife trying to explain the resemblance. One is that the flag was adopted as a mark of respect to the bravery of the Scottish sailors in the Battle of Santa Cruz. An alternative theory is the most influential masters of the island of Tenerife chose a design similar to the Scottish flag belonging to the Masoni",
+  "url": "https://en.wikipedia.org/wiki/Flag_of_Tenerife",
+  "revision_id": 1328156172,
+  "article_id": 2225139,
+  "section_path": "shared_text[0:2314]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "913c5737852f241e9e91591545326859ca3065ec2cfa8bfa2ff8d1aa8f507eeb",
+    "source_row_idx": 35184,
+    "source_shard": "enwiki/data/enwiki_namespace_0_28.parquet",
+    "text_sha256": "a1c84a53c0992cc3ed93d5338b3c03260fdc4c511fc992ea68bb66a6f8a9ddb5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1328156172",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "2225139",
+    "revision_id": "1328156172",
+    "retrieved_at": "2026-10-18T12:31:51.214461+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2314,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

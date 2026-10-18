@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10661809-1315543708-de2fbb2b8c2f",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mabel Allington Royds",
+  "text": "n paper.\n\nTrees on a Slope, unknown, colour woodcut on paper.\n\nMagnolia, c. 1936, colour woodcut on paper.\n\nTiger Lilies, exh. 1936, colour woodcut on paper.\n\nArtichoke, c. 1935, colour woodcut on paper.\n\nThe Red Mug, exh. 1934, colour woodcut on paper.\n\nRed Daisies, c. 1936, colour woodcut on paper.\n\nSnowdrops, c. 1935, colour woodcut on paper.\n\nFoxgloves, c. 1934, colour woodcut on paper.\n\nPrickly Pear Cactus, c. 1924, colour woodcut on paper.\n\nDead Tulips, c. 1934, colour woodcut on paper.\n\nHouse-top, c. 1924, colour woodcut on paper.\n\nGoat Herd, c. 1920, colour woodcut on paper.\n\nThe Waterfall, c. 1938, colour woodcut on paper.\n\nCineraria, exh. 1932, colour woodcut on paper.\n\nColumbines, c. 1935, colour woodcut on paper.\n\nBathers, Benares, c. 1922, colour woodcut on paper.\n\nAngels Appearing to Shepherds, c. 1938, colour woodcut on paper.\n\nCactus Rocks, St. Abbs, c. 1938, colour woodcut on paper.",
+  "url": "https://en.wikipedia.org/wiki/Mabel_Allington_Royds",
+  "revision_id": 1315543708,
+  "article_id": 10661809,
+  "section_path": "shared_text[0:5232]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    4320,
+    5232
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "cacae19fb31422686a69ff2a03b924132b6a1dcf77399192890f0e114e1d7f1f",
+    "source_row_idx": 63119,
+    "source_shard": "enwiki/data/enwiki_namespace_0_8.parquet",
+    "text_sha256": "c529154e4663a2c3486b80aa3f88df53891d6ccc864dd18b73003ae568b2e4a5",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1315543708",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10661809",
+    "revision_id": "1315543708",
+    "retrieved_at": "2026-10-18T12:42:21.580126+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5232,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

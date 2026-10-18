@@ -1,0 +1,44 @@
+{
+  "id": "wiki-40809862-1333939658-7cb17dd63809",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Centrifugal pendulum absorber",
+  "text": "A centrifugal pendulum absorber is a type of tuned mass damper. It reduces the amplitude of a torsional vibration in drive trains that use a combustion engine.\n\nThe centrifugal pendulum absorber was first patented in 1937 by R. Sarazin and a different version by R. Chilton in 1938. Generally, both Sarazin and Chilton are credited with the invention. Sarazin's work was used during World War II by Pratt & Whitney for aircraft engines with increased power output. The power increase caused an increase in torsional vibrations which threatened the durability. This resulted in the Pratt & Whitney R-2800 engine that used pendulum weights attached to the crank shaft.\n\nThe use of centrifugal pendulum absorbers in land vehicles did not start until later. Although internal combustion engines had always caused torsional vibrations in the drive train, the vibration amplitude was generally not high enough to affect durability or driver comfort. One application existed in tuned racing engines where torsional crank shaft vibrations could cause damage to the cam shaft or valves. In this application a centrifugal pendulum absorber is directly attached to the crank shaft.\n\nIn 2010, centrifugal pendulum absorbers following the patents of Sarazin and Chilton were introduced in a BMW 320D. The reason for it was again the increase in torsional vibrations from higher power engines. In this case, the 4-cylinder diesel engine BMW N47. Unlike the previous designs, the centrifugal pendulum absorber was not attached to the combustion engine but attached to a dual mass flywheel.\n\nThe function of a centri",
+  "url": "https://en.wikipedia.org/wiki/Centrifugal_pendulum_absorber",
+  "revision_id": 1333939658,
+  "article_id": 40809862,
+  "section_path": "shared_text[0:3095]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9e24e9c2bd136d445f613d5d73cce52385d4a5f0f42f971db1f6725f424264c2",
+    "source_row_idx": 88976,
+    "source_shard": "enwiki/data/enwiki_namespace_0_10.parquet",
+    "text_sha256": "3e89e4779149bd4913371e9a983b55f5b4b2db1b7fa5dacc7f2ed319214064b7",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1333939658",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "40809862",
+    "revision_id": "1333939658",
+    "retrieved_at": "2026-10-18T12:39:26.118289+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3095,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

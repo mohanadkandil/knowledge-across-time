@@ -1,0 +1,36 @@
+{
+  "id": "bri-2092-16d9b9fb913a:region-2:0",
+  "kind": "britannica",
+  "page_id": "bri-2092-16d9b9fb913a",
+  "title": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+  "text": "But the firstlife were not separated from the roll of the world for their own fakes only. They were intended to be the repoditories of the lively creates of God, and gradually spread the light of drives truth through other nations, till the island of them should come when in Chitrail all things we to be gathered together in now. To achieve this end, it is no secretly that there should be some internotice between them and their Gentile neighborhood but we have fine that rich an internetic each only be like which faithful between matters and their flavor.",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+  "provenance": {
+    "page_id": "bri-2092-16d9b9fb913a",
+    "row_index": 2092,
+    "volume_id": "193108316",
+    "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 19 Part 1, SCR-SLE - EB.9",
+    "label": 0,
+    "sha256": "16d9b9fb913a5c3dbdb3b427deb2c90caa1a4901fd720e5bbe59825d25f92fb5",
+    "width": 600,
+    "height": 793,
+    "image_file": "../images/bri-2092-16d9b9fb913a.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=2092",
+    "manual_seed": false
+  },
+  "region_id": "region-2",
+  "bbox_raw": [
+    0.1025,
+    0.0773,
+    0.4707,
+    0.2195
+  ],
+  "offsets": [
+    0,
+    559
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

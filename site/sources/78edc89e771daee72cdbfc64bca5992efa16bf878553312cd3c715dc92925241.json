@@ -1,0 +1,44 @@
+{
+  "id": "wiki-30600547-1339099823-ed66c53e3653",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Control of Asbestos Regulations 2006",
+  "text": "uch as asbestos boards and tiles. The regulations require mandatory training to be given to anyone who may be exposed to asbestos whilst at work. This regulation will enable contracted workers on site to assess correctly the nature of a material before work is carried out, thus eliminating the risk of uncontrolled damage to Asbestos Containing Materials. Maintenance workers who may be coming onto a premises to carry out a job must also be given training. Should work need to be carried out that may result in the disturbing of asbestos then all measures should be taken to limit the exposure to asbestos fibres. Any exposure to those fibres should be below the 'airborne exposure limit' of 0.1 fibres per cm³. The control limit is the maximum concentration of asbestos fibres in the air if measured over any continuous 4 hour period. Any short term exposure to asbestos, as measured by continuous exposure over 10 minutes, should not exceed 0.6 fibres per cm³. These exposures must be strictly controlled with respiratory protective equipment if exposure can be reduced in no other way. In terms of asbestos removal, any work should be carried out by a licensed contractor although any decision as to whether work is 'licensable' is based on the risk. Anyone working on asbestos under the regulations must have a license issued by the Health and Safety Executive.\n\nOn 9 June 2009 a company in Swansea, Val Inco Europe Ltd, pleaded guilty to four charges under the Control of Asbestos Regulations 2006 and were fined £12,000 and ordered to pay £28,000 costs. The charges were in relation to work c",
+  "url": "https://en.wikipedia.org/wiki/Control_of_Asbestos_Regulations_2006",
+  "revision_id": 1339099823,
+  "article_id": 30600547,
+  "section_path": "shared_text[0:5218]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 35782,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "2b3a79bf5448a9c83b24f1e7b4f84317b30ccaed6d6c98971e4b249ec6fbe2d8",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1339099823",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "30600547",
+    "revision_id": "1339099823",
+    "retrieved_at": "2026-10-18T12:16:56.249697+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 5218,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

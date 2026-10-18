@@ -1,0 +1,44 @@
+{
+  "id": "wiki-10911301-1319673414-f240744eb0ea",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Ammonia (disambiguation)",
+  "text": "Ammonia is a chemical compound with the formula NH.\n\nAmmonia may also refer to:\n\nAmmonia (band), an Australian rock band\n\nAmmonia (foraminifera), a widespread genus of estuarine foraminiferan\n\nAmmonium hydroxide, a cleaning chemical commonly referred to as ammonia\n\nHera Ammonia, an epithet of Greek goddess Hera\n\nAmmonia, the ancient name of Mersa Matruh\n\nSF Ammonia, a railway ferry in Norway\n\nAmmonia (data page)",
+  "url": "https://en.wikipedia.org/wiki/Ammonia_(disambiguation)",
+  "revision_id": 1319673414,
+  "article_id": 10911301,
+  "section_path": "shared_text[0:415]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    415
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "9949693e934fe07b35f7755a4b5ea228df261666058917bff5ebf90fb261af88",
+    "source_row_idx": 7156,
+    "source_shard": "enwiki/data/enwiki_namespace_0_26.parquet",
+    "text_sha256": "5ea69413e58bc381b8d78a4e23bf140e4e67fafe184fb4808b278ad1e9a4acd2",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1319673414",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "10911301",
+    "revision_id": "1319673414",
+    "retrieved_at": "2026-10-18T12:40:42.778892+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 415,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

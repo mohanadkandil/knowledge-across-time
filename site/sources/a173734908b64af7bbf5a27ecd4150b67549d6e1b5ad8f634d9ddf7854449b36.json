@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1397293-1345694456-9670e017e1c5",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Cannon (disambiguation)",
+  "text": "A cannon is a large-caliber gun classified as a type of artillery.\n\nCannon or Cannons may also refer to:\n\nCannons (house), an 18th-century palace built for the Duke of Chandos in Stanmore\n\nCannon Street, London\n\nCannon Street station\n\nCannon, Delaware\n\nCannon, Kentucky\n\nCannon City, Minnesota, an unincorporated community\n\nCannon County, Tennessee\n\nCannon Township, Michigan\n\nCannon Township, Kittson County, Minnesota\n\nCannon Lake (disambiguation)\n\nLake Cannon, Florida\n\nCannon Mountain (New Hampshire)\n\nCannon Mountain (Washington)\n\nMount Cannon, Montana\n\nCannon Park (Charleston, South Carolina), a public park\n\nCannon River (Minnesota)\n\nCannon Island (Alaska)\n\nCannon River (Queensland), Australia, a tributary of the Langlo River\n\nCape Cannon, Greenland\n\nCannon Rock, an island in County Down, Northern Ireland\n\nCannon (crater), on the Moon\n\nIl Cannone Guarnerius (The Cannon), a violin made by Giuseppe Antonio Guarneri in 1743\n\nCannon depth, tom-toms and bass drums deeper than power depth\n\nCannon (band), a post rock band from Glasgow, Scotland, active between 1999 and 2003\n\nCannons (band), a Los Angeles indie pop band\n\nCannons (album), a 2007 album by Phil Wickham\n\n\"Cannon\" (song), from Subliminal Plastic Motives by Self\n\n\"Cannon\", a song from The White Stripes by the White Stripes\n\n\"Cannons\", a song from the debut album The Year of Hibernation by Youth Lagoon\n\nCannon (TV series), 1971–1976, starring William Conrad as Frank Cannon\n\nCannon, the 1971 pilot TV movie for the series\n\nHeroes, Inc. Presents Cannon, a comic book\n\nThe Cannon Group, Inc., an American group of companies, in",
+  "url": "https://en.wikipedia.org/wiki/Cannon_(disambiguation)",
+  "revision_id": 1345694456,
+  "article_id": 1397293,
+  "section_path": "shared_text[0:3189]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    0,
+    1600
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "1eaa2b9b80af61b12e7525d0437c7bb300bf18e8ab3c3ee01302519495630f0c",
+    "source_row_idx": 3238,
+    "source_shard": "enwiki/data/enwiki_namespace_0_37.parquet",
+    "text_sha256": "f377d1d78caac63044cacbc90db71ed5b56e78e55bc2e6bc1f0b90fb97936da0",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345694456",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1397293",
+    "revision_id": "1345694456",
+    "retrieved_at": "2026-10-18T12:36:27.662484+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3189,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

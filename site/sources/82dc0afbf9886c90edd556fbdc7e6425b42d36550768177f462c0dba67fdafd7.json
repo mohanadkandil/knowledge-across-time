@@ -1,0 +1,36 @@
+{
+  "id": "bri-0202-d974d662c888:region-4:0",
+  "kind": "britannica",
+  "page_id": "bri-0202-d974d662c888",
+  "title": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+  "text": "The palce-bons are joined to the maxillary, by\nthe first-edge of the palce-founder, by the tranr\nverfe fine-future —by their thin nafal plates, and part\nof their orbit procesfies, to the fame bones, by the pa\nlitro-maxillures futures.—By either prezygoid procesfies,\nand back part of the nafal plates, to the also verperilio-\nnuary, by the fphenoid future.—By the tranrvele rigles\nof the nafal plates, to the offiging infantion, by\ncourse); hence frequented the riz an intrinsic union of\nthe fuablance of the fiebones in old ficlia.——By the\nchlorit procesfies, to the oils plans, and chila ethmci-\nders, by the ethmonds future. ——To the body of the\nfphenoid bone, by the fphenoid future: —By the inter-\nnal edge of the figure-bones, to each other, by the lon-\ngenidual palce-founder, and by their nafal joints, to the\nvomer, by the fpnoons future",
+  "url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+  "provenance": {
+    "page_id": "bri-0202-d974d662c888",
+    "row_index": 202,
+    "volume_id": "144850366",
+    "metadata": "Encyclopaedia Britannica: or, A dictionary of arts and sciences, compiled upon a new plan - First edition, 1773, Volume 1, A-B - EB.3",
+    "label": 0,
+    "sha256": "d974d662c888e8d1ae2a25821b645143aacf1c162948d297f96fe9f1694777b6",
+    "width": 600,
+    "height": 821,
+    "image_file": "../images/bri-0202-d974d662c888.jpg",
+    "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+    "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+    "split": "train",
+    "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=202",
+    "manual_seed": false
+  },
+  "region_id": "region-4",
+  "bbox_raw": [
+    0.0234,
+    0.3883,
+    0.4375,
+    0.6047
+  ],
+  "offsets": [
+    0,
+    846
+  ],
+  "parse_model": "nvidia/nemotron-3.5-parse"
+}

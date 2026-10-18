@@ -1,0 +1,44 @@
+{
+  "id": "wiki-1691995-1353601908-7b71b9f63ff3",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Greenland Sea",
+  "text": " described in 1909 by Fridtjof Nansen.\n\nThe Greenland Sea was a popular hunting ground for the whaling industry for 300 years, until 1911, primarily based in Spitsbergen. At that point, the formerly rich whale population here, was so depleted that the industry was no longer profitable. The remaining whales of the Greenland Sea has been protected ever since, but the populations have not shown any proof of significant regeneration. Since the late 1990s, polar biologists reports an increase in the local bowhead whale population and in 2015, arctic scientists discovered a surprising abundance of them in a small area. These results may be interpreted as an early sign of a beginning recovery for this particular species, that once formed the largest bowhead population in the world, at an estimated 52,000 whales.\n\nThe Inuit hunted whales on a non-industrial scale in the Greenland Sea since the 15th century, as evidenced by archaeology.\n\nThe first complete man-powered crossing of the Greenland Sea was achieved in 2017 by rowing expedition, Polar Row led by Fiann Paul.\n\nThe Greenland Sea is bounded to the west by the island of Greenland, and to the south by the Denmark Strait and Iceland. To the southeast, behind the Jan Mayen island (Norway) lies the vast expanse of the Norwegian Sea, of which Greenland Sea may be considered an extension. Across the Fram Strait to the northeast, the sea is delimited by the Svalbard archipelago (Norway). The southern part of the Greenland Sea, roughly the area south of the Jan Mayen Francture Zone or the line Cape Brewster – Jan Mayen is sometimes re",
+  "url": "https://en.wikipedia.org/wiki/Greenland_Sea",
+  "revision_id": 1353601908,
+  "article_id": 1691995,
+  "section_path": "shared_text[0:13817]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    4480
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "bdf00a6f530a3bea8e30c858f36338d7353782b2f94943d852078903335b8a33",
+    "source_row_idx": 6603,
+    "source_shard": "enwiki/data/enwiki_namespace_0_75.parquet",
+    "text_sha256": "01418ec92533700fd5df00b1c40f2b0a617f4ae1a337aa720160ece889b9b6fb",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1353601908",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "1691995",
+    "revision_id": "1353601908",
+    "retrieved_at": "2026-10-18T12:24:36.048339+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 13817,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

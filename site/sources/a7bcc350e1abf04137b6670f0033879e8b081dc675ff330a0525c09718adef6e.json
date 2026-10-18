@@ -1,0 +1,44 @@
+{
+  "id": "wiki-38190280-1343656544-db6340243350",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "John Blair (priest)",
+  "text": "athematical tutor to the Prince Edward, Duke of York and Albany. In March 1761, on the promotion of Dr. Townshend to the deanery of Norwich, Blair was given a prebendal stall at Westminster. Within a week the dean and chapter of Westminster presented him to the vicarage of Hinckley. In the same year he was chosen fellow of the Society of Antiquaries. In September 1763 he left with the Duke of York on a tour on the continent, and was absent until 1764. In 1771 he was transferred, by presentation of the dean and chapter of Westminster, to the vicarage of St. Bride, London, and again to the rectory of St. John the Evangelist, Westminster, in April 1776. He was also rector of Horton (Milton's Horton) in Buckinghamshire. He died on 24 June 1782.\n\nBlair's 'Lectures on the Canons of the Old Testament, comprehending a Dissertation on the Septuagint Version,' 1785, was a posthumous publication.",
+  "url": "https://en.wikipedia.org/wiki/John_Blair_(priest)",
+  "revision_id": 1343656544,
+  "article_id": 38190280,
+  "section_path": "shared_text[0:2338]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    2338
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "5ac79724700d4d851db7155798511137434a9cd16beb83064c701f91ed5101d6",
+    "source_row_idx": 42963,
+    "source_shard": "enwiki/data/enwiki_namespace_0_35.parquet",
+    "text_sha256": "f15ec152c9a0eff6809107c43a3ceeea07c5bd2d5b929f9d9d7cead1d69cf193",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1343656544",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "38190280",
+    "revision_id": "1343656544",
+    "retrieved_at": "2026-10-18T12:39:04.486551+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 2338,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

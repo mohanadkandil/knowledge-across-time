@@ -1,0 +1,54 @@
+{
+  "id": "wiki-9508-1350582120-6fdf0ddcc89b",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Encyclopædia Britannica",
+  "text": "he Propædia \"Outline of Knowledge\". The bulk of the 15th edition of the Britannica is devoted to geography (26% of the Macropædia), biography (14%), biology and medicine (11%), literature (7%), physics and astronomy (6%), religion (5%), art (4%), Western philosophy (4%), and law (3%). A complementary study of the Micropædia found that geography accounted for 25% of articles, science 18%, social sciences 17%, biography 17%, and all other humanities 25%. Writing in 1992, one reviewer judged that the \"range, depth, and catholicity of coverage are unsurpassed by any other general Encyclopaedia.\"\n\nThe Britannica does not cover topics in equal detail; for example, the whole of Buddhism and most other religions is covered in a single Macropædia article, whereas 14 articles are devoted to Christianity, comprising nearly half of all religion articles. The Britannica covers 50,479 biographies, 5,999 of them about women, with 11.87% being British citizens and 25.51% US citizens. However, the Britannica has been lauded as the least biased of general Encyclopaedias marketed to Western readers and praised for its biographies of important women of all eras.\n\nIt can be stated without fear of contradiction that the 15th edition of the Britannica accords non-Western cultural, social, and scientific developments more notice than any general English-language encyclopedia currently on the market.\n\n— Kenneth Kister, in Kister's Best Encyclopedias (1994)\n\nHarvey Einbinder in the Myth of the Britannica criticized the 11th edition for the inaccessibility of the text for laymen, saying that many of ",
+  "url": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica",
+  "revision_id": 1350582120,
+  "article_id": 9508,
+  "section_path": "shared_text[0:49493]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    43200,
+    44800
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "c1f7b4382598f8991507c235b6f3f2c71607e42cd29d721df6a6dd922449f47f",
+    "source_row_idx": 44346,
+    "source_shard": "enwiki/data/enwiki_namespace_0_53.parquet",
+    "text_sha256": "4b8f109373d9c174bd4ae2e857003eb86b6d0eccb699f960b18491f37f672799",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1350582120",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "9508",
+    "revision_id": "1350582120",
+    "retrieved_at": "2026-10-18T12:41:35.301046+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 20000,
+        "next_offset": 20000
+      },
+      {
+        "offset": 20000,
+        "returned_chars": 20000,
+        "next_offset": 40000
+      },
+      {
+        "offset": 40000,
+        "returned_chars": 9493,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

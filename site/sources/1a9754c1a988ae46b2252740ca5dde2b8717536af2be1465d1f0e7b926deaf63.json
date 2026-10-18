@@ -1,0 +1,44 @@
+{
+  "id": "wiki-3317736-1340089899-875b0468e215",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Mint mark",
+  "text": " of Diocletian made mint marks a regular feature of ancient Roman coinage. These mint marks were placed at the bottom of the reverse of the coin and contained three parts. The first part indicates that this was a coin with either SM for Sacra Moneta, M for Moneta, or P for Pecunia. The second part was an abbreviation of the name of the mint such as ROM for Rome or LON for London. The final part indicated the workshop within the mint. The reform of Anastasius, which is the traditional dividing point between the coinage of the Roman and the Later Roman (a.k.a. Byzantine) empires, replaced the mint marks on gold coins by the inscription CONOB, meaning the pure standard of Constantinople, which was used by a variety of mints. Mint marks continued on copper coinage until the second half of the seventh century, however.\n\nMint names began to appear on French coins under Pepin and became mandatory under Charlemagne. In 1389, Charles IV adopted a system called Secret Points. This scheme placed a dot under the first letter of the legend on coins of Crémieu, under the second letter for Romans, up to the twenty-second letter for Bourges. In the fifteenth century letters or symbols placed at the end of the legend indicating the mint were used in addition to Secret Points. In 1540, Francis I discontinued Secret Points in favor of a system of letters; A for Paris, B for Rouen, …, Z for Lyon; in the field. He also made it the rule for mint-masters to place their personal marks on coins, as they had done with increasing frequency since the coinage of Louis XI. This was one of the few royal ",
+  "url": "https://en.wikipedia.org/wiki/Mint_mark",
+  "revision_id": 1340089899,
+  "article_id": 3317736,
+  "section_path": "shared_text[0:9990]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    1440,
+    3040
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "8c63328f54c44945fbe9f32c9e90f4e1baafd3ef8988fd522dc2c559c2b0611f",
+    "source_row_idx": 42204,
+    "source_shard": "enwiki/data/enwiki_namespace_0_42.parquet",
+    "text_sha256": "ffd911e1f1ff0e17c7001481d703f5040fdb330b7ec6a5b5a95a2da948bfa811",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1340089899",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "3317736",
+    "revision_id": "1340089899",
+    "retrieved_at": "2026-10-18T12:37:25.086600+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9990,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

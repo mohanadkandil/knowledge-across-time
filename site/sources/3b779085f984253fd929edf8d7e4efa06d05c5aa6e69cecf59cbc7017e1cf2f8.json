@@ -1,0 +1,44 @@
+{
+  "id": "wiki-59716982-1346950736-f1291f7628a1",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Russia Germans",
+  "text": "\n\nWhen the Russo-German relationship deteriorated after 2014, declining further since the 2015 start of the refugee crisis in Germany, many Russia Germans felt unfairly treated and unwelcome. Russia had begun to attack Western democracies with propaganda. In the Russian media often consumed by Russia Germans, a mood was set against Chancellor Merkel and neo-fascism was presented as Germany's main characteristic. In 2017, for the first time since 2004, the Federal Agency for Civic Education provided voting advice in Russian. Russian German families had not spoken German over fear of discrimination after the Second World War, but had never learned to form a free opinion, according to the Russia German journalist Ella Schindler. Some withdrew \"into the well-known Soviet past\" and familiar simple explanatory patterns offered by Russian television.",
+  "url": "https://en.wikipedia.org/wiki/Russia_Germans",
+  "revision_id": 1346950736,
+  "article_id": 59716982,
+  "section_path": "shared_text[0:3735]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    2880,
+    3735
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "0710c536dc264c461ca78f84cfccd3a76e5a097537b128227897481154409b19",
+    "source_row_idx": 49742,
+    "source_shard": "enwiki/data/enwiki_namespace_0_38.parquet",
+    "text_sha256": "514946fc76abb407064ddaa5b1f73d72b8f5497c05b6b235296f5e801f71dd20",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1346950736",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "59716982",
+    "revision_id": "1346950736",
+    "retrieved_at": "2026-10-18T12:35:48.369114+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 3735,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}

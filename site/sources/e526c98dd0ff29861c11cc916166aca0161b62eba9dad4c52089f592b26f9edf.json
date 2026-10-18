@@ -1,0 +1,44 @@
+{
+  "id": "wiki-7206824-1345019337-7a584be11f86",
+  "kind": "wikipedia",
+  "page_id": null,
+  "title": "Truck scale",
+  "text": " and accumulates the total vehicle weight. By weighing the force of each axle it can be assured that the vehicle is within statutory limits, which typically will impose a total vehicle weight, a maximum weight within an axle span limit and an individual axle limit. The former two limits ensure the safety of bridges while the latter protects the road surface.\n\nPortable truck scales can also be found in use around the world. A portable truck scale will have lower frame work that can be placed on non-typical surfaces such as dirt. These scales retain the same level of accuracy as a pit-type scale, with accuracy of up to + or - 1%. The first portable truck scale record in the US was units operated by the Weight Patrol of the Los Angeles Motor Patrol in 1929. Four such weighing units were used with one under each of the trucks wheels. Each unit could record up to 15,000 pounds (6,800 kg).",
+  "url": "https://en.wikipedia.org/wiki/Truck_scale",
+  "revision_id": 1345019337,
+  "article_id": 7206824,
+  "section_path": "shared_text[0:9536]",
+  "headings": [],
+  "citations": [],
+  "offsets": [
+    8640,
+    9536
+  ],
+  "references": [],
+  "provenance": {
+    "dataset": "wikimedia/structured-wikipedia",
+    "dataset_revision": "417c267bb457fa645c22eb3b5c77764963194c70",
+    "dataset_url": "https://huggingface.co/datasets/wikimedia/structured-wikipedia/tree/417c267bb457fa645c22eb3b5c77764963194c70",
+    "source_key": "825834ec9a34e3b6f89f1890ba2d5935d8a31e2d3ae923ea571f350dbe932a82",
+    "source_row_idx": 55199,
+    "source_shard": "enwiki/data/enwiki_namespace_0_17.parquet",
+    "text_sha256": "6ac42e7ab88f2c6e923996ecee4b67e6b27c85b70db86a67270133cf867c0e17",
+    "extraction": "sections",
+    "revision_url": "https://en.wikipedia.org/w/index.php?oldid=1345019337",
+    "service_url": "https://port8000-rks0xavparpzq59.tunnel.applications.uk-south2.nebius.cloud",
+    "access_mode": "organizer_shared_api",
+    "page_id": "7206824",
+    "revision_id": "1345019337",
+    "retrieved_at": "2026-10-18T12:21:15.999149+00:00",
+    "pagination": [
+      {
+        "offset": 0,
+        "returned_chars": 9536,
+        "next_offset": null
+      }
+    ],
+    "text_checksum_verified": true,
+    "structured_fields_available": false,
+    "limitation": "Shared API exposes flattened article text; original structured sections and reference records are unavailable."
+  }
+}
