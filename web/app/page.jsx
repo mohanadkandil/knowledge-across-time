@@ -157,6 +157,7 @@ export default function Home() {
     lastStopIdx = -1;
     var s0 = T.start || 0;
     pos = stopsPos[s0]; target = pos; vel = 0; tweening = false;
+    render();
     if (scroll) {
       document.querySelector('.exhibit-head').scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
     }
@@ -219,7 +220,9 @@ export default function Home() {
     var shots = (d.art || []).filter(function(s){
       return s && s.prompt && (s.role === 'then' || s.role === 'now');
     }).slice(0, 2);
-    if (!shots.length) return Promise.resolve();
+    if (!['then', 'now'].every(function(role){ return shots.some(function(s){ return s.role === role; }); })) {
+      return Promise.reject(new Error('Image prompts were incomplete. Please try the topic again.'));
+    }
     var artRow = document.createElement('div');
     artRow.className = 'ls run'; artRow.dataset.s = 'art';
     artRow.innerHTML = '<i></i><span>FLUX — drawing the plates</span><em></em>';
@@ -227,7 +230,13 @@ export default function Home() {
     return fetch('/api/art', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ prompts: shots })
-    }).then(function(r){ return r.json(); }).then(function(res){
+    }).then(function(r){
+      if (!r.ok) throw new Error('Image generation failed. Please try again.');
+      return r.json();
+    }).then(function(res){
+      if (!['then', 'now'].every(function(role){
+        return (res.art || []).some(function(a){ return a.role === role && a.url; });
+      })) throw new Error('Both illustrations could not be generated. Please try again.');
       var pending = [];
       (res.art || []).forEach(function(a){
         if (!a.url) return;
@@ -236,13 +245,27 @@ export default function Home() {
         if (a.role === 'then' || a.role === 'now') {
           var idx = a.role === 'now' ? stageItems.length - 1 : 0;
           im.className = 'stage-item';
-          pending.push(new Promise(function(ok){
-            im.addEventListener('load', function(){
-              var old = stageItems[idx];
-              if (old && old !== im) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
-              ok();
-            });
-            im.addEventListener('error', ok); /* plate stays if the art 404s */
+          pending.push(new Promise(function(ok, fail){
+            var timer = setTimeout(function(){
+              im.onload = im.onerror = null;
+              fail(new Error('The illustrations took too long to download. Please try again.'));
+            }, 60000);
+            im.onload = function(){
+              im.decode().then(function(){
+                clearTimeout(timer);
+                var old = stageItems[idx];
+                if (old && old !== im) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
+                render();
+                ok();
+              }).catch(function(){
+                clearTimeout(timer);
+                fail(new Error('An illustration could not be displayed. Please try again.'));
+              });
+            };
+            im.onerror = function(){
+              clearTimeout(timer);
+              fail(new Error('An illustration could not be downloaded. Please try again.'));
+            };
           }));
           im.src = a.url;
         } else {
@@ -255,10 +278,11 @@ export default function Home() {
           im.src = a.url;
         }
       });
-      artRow.classList.remove('run'); artRow.classList.add('done');
-      artRow.querySelector('em').textContent = (res.art || []).filter(function(a){ return a.url; }).length + ' plates';
-      return Promise.race([Promise.all(pending), new Promise(function(ok){ setTimeout(ok, 20000); })]);
-    }).catch(function(){ /* plates render without art */ });
+      return Promise.all(pending).then(function(){
+        artRow.classList.remove('run'); artRow.classList.add('done');
+        artRow.querySelector('em').textContent = '2 illustrations ready';
+      });
+    });
   }
   var LENS_STEPS = [
     ['start', 'Opening the archive'],
@@ -299,7 +323,14 @@ export default function Home() {
     var topic = topicFrom(raw);
     if (!topic) { barMiss.classList.add('show'); return; }
     barMiss.classList.remove('show');
+    if (mainEl) mainEl.classList.add('idle');
     lensStepsReset();
+    function showFailure(error){
+      if (mainEl) mainEl.classList.add('idle');
+      document.body.classList.remove('loading');
+      barMiss.querySelector('span').textContent = error && error.message || 'The lookup could not finish. Please try again.';
+      barMiss.classList.add('show');
+    }
     fetch('/api/lens?topic=' + encodeURIComponent(topic))
       .then(function(r){
         if (!r.ok || !r.body) throw r.status;
@@ -323,7 +354,7 @@ export default function Home() {
                   document.body.classList.remove('loading');
                   var eh = document.querySelector('.exhibit-head');
                   if (eh) eh.scrollIntoView({ behavior: reduced ? 'auto' : 'smooth', block: 'start' });
-                });
+                }).catch(showFailure);
               }
             });
             return pump();
@@ -331,11 +362,7 @@ export default function Home() {
         }
         return pump();
       })
-      .catch(function(){
-        document.body.classList.remove('loading');
-        urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
-        barMiss.classList.add('show');
-      });
+      .catch(showFailure);
   }
   if (mainEl) mainEl.classList.add('idle');
   urlForm.addEventListener('submit', function(e){
@@ -368,6 +395,7 @@ export default function Home() {
     return best;
   }
   function goTo(i){
+    if (!STOPS[i]) return;
     tweening = true; twFrom = pos; twTo = stopsPos[i];
     twStart = performance.now(); twDur = reduced ? 0 : 520;
     vel = 0;
@@ -419,6 +447,9 @@ export default function Home() {
   function focusAmount(w){ return (1 - w) * 3.2; }
 
   function render(){
+    // The animation loop starts before the asynchronous lookup has any stops.
+    // Keep it alive while waiting; otherwise images stay at CSS opacity: 0.
+    if (!STOPS.length) return;
     if (!isFinite(pos)) pos = stopsPos[0] || 0;
     var year = Math.round(YEAR_MIN + pos * (YEAR_MAX - YEAR_MIN));
     lens.style.left = (pos * 100) + '%';
@@ -455,10 +486,11 @@ export default function Home() {
       if (i === panels.length - 1 && pos >= stopsPos[i]) w = 1;
       w = clamp(w, 0, 1);
       var p = panels[i];
-      p.style.opacity = w;
-      p.style.transform = 'translateY(' + ((1 - w) * 12) + 'px)';
-      p.classList.toggle('front', w > 0.6);
-      p.style.visibility = w < 0.02 ? 'hidden' : 'visible';
+      // Crossfade illustrations, but never stack two readable text panels.
+      p.style.opacity = i === ni ? 1 : 0;
+      p.classList.toggle('front', i === ni);
+      p.style.visibility = i === ni ? 'visible' : 'hidden';
+      p.setAttribute('aria-hidden', i === ni ? 'false' : 'true');
       if (stageItems[i] && !stageItems[i].dataset.broken) {
         stageItems[i].style.opacity = w;
         stageItems[i].style.filter = 'blur(' + focusAmount(w).toFixed(2) + 'px) brightness(' + (0.82 + w * 0.18).toFixed(3) + ')';
