@@ -55,6 +55,20 @@ async function jpost(url, body, headers = {}, ms = 25000) {
   return res.json();
 }
 
+function parseFirstJson(raw) {
+  const start = (raw || '').indexOf('{');
+  if (start < 0) return null;
+  let depth = 0, inStr = false, esc = false;
+  for (let i = start; i < raw.length; i++) {
+    const c = raw[i];
+    if (inStr) { if (esc) esc = false; else if (c === '\\') esc = true; else if (c === '"') inStr = false; continue; }
+    if (c === '"') inStr = true;
+    else if (c === '{') depth++;
+    else if (c === '}') { if (--depth === 0) { try { return JSON.parse(raw.slice(start, i + 1)); } catch { return null; } } }
+  }
+  return null;
+}
+
 const pageIdOf = (sourceId) => sourceId.split(':')[0];
 const editionYear = (title) => {
   for (const [re, y] of EDITION_YEAR) if (re.test(title || '')) return y;
@@ -66,19 +80,41 @@ const headword = (text) => {
 };
 
 export async function GET(request) {
+  const enc = new TextEncoder();
+  const stream = new ReadableStream({
+    async start(controller) {
+      const send = (o) => controller.enqueue(enc.encode(JSON.stringify(o) + '\n'));
+      try {
+        const data = await run(request, send);
+        send(data ? { done: true, data } : { error: 'no_match' });
+      } catch (e) {
+        send({ error: String(e.message || e) });
+      }
+      controller.close();
+    },
+  });
+  return new Response(stream, {
+    headers: { 'Content-Type': 'application/x-ndjson', 'Cache-Control': 'no-store' },
+  });
+}
+
+async function run(request, send) {
   const topic = (new URL(request.url).searchParams.get('topic') || '').trim();
-  if (!topic || topic.length > 120) return NextResponse.json({ error: 'topic_required' }, { status: 400 });
+  if (!topic || topic.length > 120) throw new Error('topic_required');
 
   const trace = { steps: [] };
-  const t = (name, extra = {}) => trace.steps.push({ name, ...extra });
+  const t = (name, extra = {}) => { trace.steps.push({ name, ...extra }); send({ step: name, ...extra }); };
 
   // 1. Wikipedia (organizer shared BM25 service) — modern side
+  send({ step: 'start', topic });
   let wiki = null;
   try {
-    const s = await jpost(`${WIKI_API_URL}/v1/search`, { query: topic, top_k: 5, excerpt_chars: 1000 });
+    const s = await jpost(`${WIKI_API_URL}/v1/search`, { query: topic, top_k: 8, excerpt_chars: 1000 });
     const hits = s.hits || [];
-    wiki = hits.find((h) => h.title?.toLowerCase() === topic.toLowerCase())
-        || hits.find((h) => !/^(lists?|outline|index|glossary) of/i.test(h.title || '') && !/disambiguation/i.test(h.title || ''))
+    const bad = /disambiguation|^(lists?|outline|index|glossary) of|\bdeity\b|mytholog|religion/i;
+    wiki = hits.find((h) => h.title?.toLowerCase() === topic.toLowerCase() && !bad.test(h.title || ''))
+        || hits.find((h) => h.title?.toLowerCase().split(/[(—–]/)[0].trim() === topic.toLowerCase() && !bad.test(h.title || ''))
+        || hits.find((h) => !bad.test(h.title || ''))
         || hits[0] || null;
     t('wikipedia', { title: wiki?.title, page_id: wiki?.page_id });
   } catch (e) { t('wikipedia_error', { message: String(e.message) }); }
@@ -111,7 +147,7 @@ export async function GET(request) {
   }, {}, 30000);
   const ranked = (rer.results || []).map((r) => ({ ...cands[r.index], rerank: r.relevance_score }));
   const best = ranked[0];
-  if (!best) return NextResponse.json({ error: 'no_match', trace }, { status: 404 });
+  if (!best) return null;
   const pageId = pageIdOf(best.row.id);
   t('rerank', { model: RERANK_MODEL, top: pageId, score: best.rerank });
 
@@ -131,13 +167,12 @@ export async function GET(request) {
         const rm = msg.reasoning_content.match(/\{[\s\S]*\}/);
         raw = rm ? rm[0] : '';
       }
-      const m = raw.match(/\{[\s\S]*\}/);
-      exhibit = m ? JSON.parse(m[0]) : null;
+      exhibit = parseFirstJson(raw);
       t('super_vl', { model: SUPER_MODEL, ok: !!exhibit, raw: raw.slice(0, 240), finish: r.choices?.[0]?.finish_reason });
     } catch (e) { t('super_vl_error', { message: String(e.message) }); }
   }
 
-  return NextResponse.json({
+  return {
     topic,
     wiki: wiki && { title: wiki.title, url: wiki.url, excerpt: wiki.excerpt },
     page: {
@@ -153,5 +188,5 @@ export async function GET(request) {
     exhibit,
     art: Array.isArray(exhibit?.shots) ? exhibit.shots.slice(0, 5) : [],
     trace,
-  });
+  };
 }

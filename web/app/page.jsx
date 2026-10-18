@@ -344,7 +344,11 @@ export default function Home() {
   }
   function fetchArt(d){
     var shots = (d.art || []).filter(function(s){ return s && s.prompt; }).slice(0, 4);
-    if (!shots.length) return;
+    if (!shots.length) { barBusy.classList.remove('show'); return; }
+    var artRow = document.createElement('div');
+    artRow.className = 'ls run'; artRow.dataset.s = 'art';
+    artRow.innerHTML = '<i></i><span>FLUX — drawing the plates</span><em></em>';
+    barBusy.appendChild(artRow);
     fetch('/api/art', {
       method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ prompts: shots })
@@ -364,22 +368,78 @@ export default function Home() {
           artStrip.appendChild(th);
         }
       });
-    }).catch(function(){});
+      artRow.classList.remove('run'); artRow.classList.add('done');
+      artRow.querySelector('em').textContent = (res.art || []).filter(function(a){ return a.url; }).length + ' plates';
+      setTimeout(function(){ barBusy.classList.remove('show'); }, 1600);
+    }).catch(function(){ barBusy.classList.remove('show'); });
+  }
+  var LENS_STEPS = [
+    ['start', 'Opening the archive'],
+    ['wikipedia', 'Wikipedia — resolving the modern article'],
+    ['embed', 'Nemotron Embed VL — topic to a 2,048-dim vector'],
+    ['lance_candidates', 'LanceDB — evidence regions shortlisted'],
+    ['rerank', 'Nemotron Rerank VL — weighing the pages'],
+    ['super_vl', 'Nemotron Super VL — verdict + art direction'],
+    ['art', 'FLUX — drawing the plates']
+  ];
+  function lensStepsReset(){
+    barBusy.innerHTML = '<span class="busy-title">Reading the archive</span>'
+      + LENS_STEPS.slice(0, 6).map(function(s){
+          return '<div class="ls" data-s="' + s[0] + '"><i></i><span>' + s[1] + '</span><em></em></div>';
+        }).join('');
+    barBusy.classList.add('show');
+    var first = barBusy.querySelector('.ls'); if (first) first.classList.add('run');
+  }
+  function lensStep(name, detail){
+    var rows = barBusy.querySelectorAll('.ls'), hit = false;
+    rows.forEach(function(r){
+      if (r.dataset.s === name) { r.classList.remove('run'); r.classList.add('done'); hit = true;
+        if (detail) r.querySelector('em').textContent = detail;
+      }
+      else if (!hit && r.classList.contains('run')) { r.classList.remove('run'); r.classList.add('done'); }
+    });
+    var next = barBusy.querySelector('.ls:not(.done)');
+    if (next) next.classList.add('run');
+  }
+  function lensStepDetail(ev){
+    if (ev.title) return ev.title;
+    if (ev.top) return ev.top + (ev.score != null ? ' · ' + ev.score.toFixed(2) : '');
+    if (ev.pages) return ev.pages.length + ' pages';
+    if (ev.topic) return ev.topic;
+    return '';
   }
   function fetchLive(raw){
     barMiss.classList.remove('show');
-    barBusy.classList.add('show');
+    lensStepsReset();
     var s = raw.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
     var mm = s.match(/wiki\/(.+)/);
     var topic = decodeURIComponent((mm ? mm[1] : s.split('/').pop()).replace(/_/g,' ').replace(/%20/g,' ').replace(/\(.*?\)/g,'').trim());
     fetch('/api/lens?topic=' + encodeURIComponent(topic))
-      .then(function(r){ if(!r.ok) throw r.status; return r.json(); })
-      .then(function(d){
-        barBusy.classList.remove('show');
-        var key = 'live:' + topic;
-        TOPICS[key] = liveTopic(d);
-        loadTopic(key, true);
-        fetchArt(d);
+      .then(function(r){
+        if (!r.ok || !r.body) throw r.status;
+        var reader = r.body.getReader(), dec = new TextDecoder(), buf = '';
+        function pump(){
+          return reader.read().then(function(res){
+            if (res.done) return;
+            buf += dec.decode(res.value, { stream: true });
+            var lines = buf.split('\n'); buf = lines.pop();
+            lines.forEach(function(l){
+              if (!l.trim()) return;
+              var ev = JSON.parse(l);
+              if (ev.step) lensStep(ev.step, lensStepDetail(ev));
+              if (ev.error) throw ev.error;
+              if (ev.done) {
+                lensStep('super_vl');
+                var key = 'live:' + topic;
+                TOPICS[key] = liveTopic(ev.data);
+                loadTopic(key, true);
+                fetchArt(ev.data);
+              }
+            });
+            return pump();
+          });
+        }
+        return pump();
       })
       .catch(function(){
         barBusy.classList.remove('show');
