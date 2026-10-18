@@ -38,6 +38,8 @@ Read [the architecture](docs/architecture.md) for the CPU/GPU layers and [the ac
 
 ## Evidence and progress
 
+[Download the model evidence presentation](docs/reports/TimeLens-Model-Evidence.pdf) (17 pages): three successful comparisons, three failures, and tests on blanks, diagrams, charts and long context. See the [case documentation](docs/judge-cases.md) for source passages and saved model outputs.
+
 - Britannica selection is fixed before model evaluation: 100 scans, disclosed sampling procedure, scan hashes and original dataset rows. Failed parses and uncertain matches remain in the denominator.
 - Prefer the organizer's pre-indexed Wikipedia API: lexical candidates and paginated text with returned revision/checksum provenance, followed by our semantic retrieval and reranking. The earlier Kaggle version 5 local reader is a separate fallback, not an identical snapshot or a required initial index build.
 - Comparisons retain model calls, source IDs, quotes, uncertainty and literal-quote checks. Literal presence is not proof that a passage supports the generated claim.
