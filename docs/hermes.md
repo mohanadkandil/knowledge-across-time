@@ -19,6 +19,14 @@ The registered `kat_corpus` plugin provides four tools:
 
 The launcher reads the local `.env`, passes the Token Factory credential through the process environment and uses the native named-provider `key_env` setting. It creates a project plugin and profile rather than changing the personal Hermes profile. The corpus backend runs in the project's Python environment; Hermes keeps its separate pinned Python runtime. No web server is required. The GPU SSH tunnel must remain available for semantic search. Existing profile configuration is preserved on later launches.
 
+If `search_sources` reports `service connection failed` while browsing still works, check `curl --fail http://127.0.0.1:8001/ready`. Search calls the team's GPU embedding/reranking service over SSH; it does not call the shared Wikipedia API. A stopped local tunnel can cause this error even when both remote services are healthy. Reopen the forward using your assigned VM:
+
+```sh
+ssh -fNT -o ExitOnForwardFailure=yes -o ServerAliveInterval=30 -o ServerAliveCountMax=3 -L 127.0.0.1:8001:127.0.0.1:8000 USER@GPU_VM
+```
+
+The background forward survives closing the launching terminal, but still depends on network connectivity and the laptop remaining awake. After restoring it, retry the question in the existing Hermes conversation.
+
 ```sh
 uv run kat hermes --query "Compare the historical CLOUD entry on page 59 with Wikipedia. Cite both sources."
 uv run kat hermes --query "List the first two selected pages using browse_corpus." --oneshot
