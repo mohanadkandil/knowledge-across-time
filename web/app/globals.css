@@ -329,6 +329,35 @@
   .side p{font-size:13.5px;line-height:1.65;color:var(--vellum-3)}
 
   /* ============================ SECTIONS ============================ */
+  /* the page under glass */
+  .spec-frame{
+    margin:0;border:1px solid var(--ink-line-2);border-radius:var(--r);
+    overflow:hidden;position:relative;cursor:zoom-in;
+    background:var(--room-2);
+    box-shadow:0 30px 80px rgba(0,0,0,.55),inset 0 0 0 1px rgba(236,225,203,.05);
+    transition:none;
+  }
+  .spec-frame img{display:block;width:100%;height:auto}
+  .spec-frame figcaption{
+    padding:14px 18px;border-top:1px solid var(--ink-line);
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.05em;color:var(--vellum-3);
+  }
+  .spec-frame.zoomed{
+    position:fixed;inset:0;z-index:80;border-radius:0;border:none;
+    background:rgba(10,8,6,.96);overflow:auto;cursor:zoom-out;
+    display:flex;flex-direction:column;align-items:center;justify-content:flex-start;
+    padding:4vh 4vw;
+  }
+  .spec-frame.zoomed img{width:min(1150px,100%);height:auto}
+  .art-strip{
+    display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:18px;
+  }
+  .art-strip:empty{display:none}
+  .art-thumb{
+    width:100%;border-radius:var(--r);border:1px solid var(--ink-line-2);
+    display:block;
+  }
+
   section.block{padding:88px 0 0}
   .sec-head{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,300px);gap:40px;align-items:end;margin-bottom:34px}
   .sec-head h2{font-family:var(--fell);font-weight:400;font-size:clamp(30px,4.4vw,46px);letter-spacing:-.015em;line-height:1.1;color:var(--vellum)}

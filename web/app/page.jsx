@@ -167,6 +167,12 @@ export default function Home() {
   var titleWord= document.getElementById('titleWord');
   var titleSub = document.getElementById('titleSub');
   var wipeEl   = document.getElementById('wipe');
+  var specimen = document.getElementById('specimen');
+  var specFrame= document.getElementById('specFrame');
+  var specImg  = document.getElementById('specImg');
+  var specCap  = document.getElementById('specCap');
+  var artStrip = document.getElementById('artStrip');
+  if (specFrame) specFrame.addEventListener('click', function(){ specFrame.classList.toggle('zoomed'); });
   var urlForm  = document.getElementById('urlForm');
   var urlInput = document.getElementById('urlInput');
   var urlBar   = document.getElementById('urlBar');
@@ -263,6 +269,19 @@ export default function Home() {
       return p;
     });
 
+    /* specimen — the matched page under glass */
+    var scanImg = T.scan || null;
+    if (!scanImg) STOPS.forEach(function(s){ if (!scanImg && s.img && /scan|record/.test(s.img)) scanImg = s.img; });
+    if (scanImg) {
+      specImg.src = scanImg;
+      specCap.textContent = T.scanCap || 'original scan — the historical page under the lens';
+      specimen.style.display = '';
+    } else {
+      specimen.style.display = 'none';
+    }
+    specFrame.classList.remove('zoomed');
+    artStrip.innerHTML = '';
+
     lastStopIdx = -1;
     var s0 = T.start || 0;
     pos = stopsPos[s0]; target = pos; vel = 0; tweening = false;
@@ -306,20 +325,46 @@ export default function Home() {
       word: (d.topic || 'Topic'), def: 'retrieved live from the archive',
       titleSub: 'live — embedded, reranked, and read by Nemotron.',
       wikiPath: 'wikipedia.org/wiki/' + (d.wiki ? d.wiki.title.replace(/ /g,'_') : d.topic),
+      scan: '/scans/' + d.page.id + '.jpg',
+      scanCap: 'original scan · ' + d.page.sourceId + ' · Britannica, ' + ed + ' · the exact page LanceDB + Rerank VL returned',
       start: 0,
       stops: [
         { year: yr, label: 'then', status: 'Live match — ' + ed, cls: 'record',
           edition: 'Britannica, ' + ed,
-          capKind: 'Original scan', cap: 'the actual page the index returned',
-          img: '/scans/' + d.page.id + '.jpg', alt: 'Original scanned Britannica page matched live',
+          capKind: 'AI engraving', cap: 'as the old page understood it',
+          plate: { title: d.page.headword || d.topic, sub: ed + ' · rendered live' },
           html: thenHtml },
         { year: 2025, label: 'now', status: 'Now — ' + nowTitle, cls: 'settled',
           edition: 'Wikipedia, live revision',
-          capKind: 'Plate', cap: 'the modern article',
+          capKind: 'AI photograph', cap: 'as we understand it now',
           plate: { title: nowTitle, sub: 'wikipedia · live revision' },
           html: nowHtml }
       ]
     };
+  }
+  function fetchArt(d){
+    var shots = (d.art || []).filter(function(s){ return s && s.prompt; }).slice(0, 4);
+    if (!shots.length) return;
+    fetch('/api/art', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ prompts: shots })
+    }).then(function(r){ return r.json(); }).then(function(res){
+      (res.art || []).forEach(function(a){
+        if (!a.url) return;
+        if (a.role === 'then' || a.role === 'now') {
+          var idx = a.role === 'now' ? stageItems.length - 1 : 0;
+          var im = document.createElement('img');
+          im.className = 'stage-item';
+          im.src = a.url; im.alt = 'AI illustration — generated live';
+          var old = stageItems[idx];
+          if (old) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
+        } else {
+          var th = document.createElement('img');
+          th.src = a.url; th.className = 'art-thumb'; th.alt = 'AI illustration — generated live';
+          artStrip.appendChild(th);
+        }
+      });
+    }).catch(function(){});
   }
   function fetchLive(raw){
     barMiss.classList.remove('show');
@@ -334,6 +379,7 @@ export default function Home() {
         var key = 'live:' + topic;
         TOPICS[key] = liveTopic(d);
         loadTopic(key, true);
+        fetchArt(d);
       })
       .catch(function(){
         barBusy.classList.remove('show');
@@ -625,6 +671,19 @@ export default function Home() {
 
     {/* era plates */}
     <div className="deck" id="deck"></div>
+
+    {/* the page under glass — the matched scan, inspectable */}
+    <section className="block specimen" id="specimen" style={{ display: 'none' }}>
+      <div className="sec-head reveal">
+        <h2>The page, <em>under glass.</em></h2>
+        <p className="margin-note note">— the actual matched scan. Tap to enlarge.</p>
+      </div>
+      <figure className="spec-frame" id="specFrame">
+        <img id="specImg" alt="Matched Britannica scan" />
+        <figcaption id="specCap"></figcaption>
+      </figure>
+      <div className="art-strip" id="artStrip"></div>
+    </section>
 
     {/* ledger of exhibits */}
     <section className="block">
