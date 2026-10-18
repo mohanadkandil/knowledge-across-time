@@ -109,6 +109,49 @@ JOBS = [
             "and charcoal palette. No text, no labels, no arrows, no UI."
         ),
     },
+    {
+        "name": "electricity-now",
+        "endpoint": "flux-3-image",
+        "prompt": (
+            "Photoreal macro photograph of a crackling electric arc leaping "
+            "between two brass electrodes on a dark laboratory bench, "
+            "violet-blue plasma streamers and fine branching filaments, "
+            "deep shadows, warm rim light on the brass, high detail, "
+            "moody museum-dark background. No text, no watermark."
+        ),
+    },
+    {
+        "name": "cloud-now",
+        "endpoint": "flux-3-image",
+        "prompt": (
+            "Photoreal aerial photograph above a field of towering white "
+            "cumulus clouds at late afternoon, sunlit crowns with soft "
+            "warm light, deep blue atmosphere at the horizon, high detail, "
+            "natural color. No text, no watermark."
+        ),
+    },
+    {
+        "name": "chlamys-now",
+        "endpoint": "flux-3-image",
+        "prompt": (
+            "Photoreal museum-still photograph of a single fan-shaped "
+            "scallop shell (living bivalve) resting on dark charcoal "
+            "velvet, ridged surface catching a soft warm side light, "
+            "shallow depth of field, high detail, quiet archival mood. "
+            "No text, no watermark."
+        ),
+    },
+    {
+        "name": "chocolate-now",
+        "endpoint": "flux-3-image",
+        "prompt": (
+            "Photoreal close photograph of broken dark chocolate pieces "
+            "with visible snap texture and a few cacao nibs scattered on "
+            "dark slate, warm side lighting, rich browns against deep "
+            "shadow, high detail, editorial food photography. "
+            "No text, no watermark."
+        ),
+    },
 ]
 
 

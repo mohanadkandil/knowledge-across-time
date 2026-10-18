@@ -72,8 +72,8 @@ export default function Home() {
         {
           year: 2025, label: "now", status: "Superseded — archived", cls: "settled",
           edition: "Wikipedia, live revision",
-          capKind: "Plate", cap: "the superseded model, on file",
-          plate: { title: "Fluid theory of electricity", sub: "wikipedia · superseded model" },
+          capKind: "AI photograph", cap: "the arc they called a fluid",
+          img: "/assets/electricity-now.png", alt: "AI-generated photoreal electric arc between brass electrodes — electricity as we understand it now",
           html: '<span class="plate-no">ii.</span><h3>The fluid becomes a museum piece.</h3><blockquote class="quote">\u201cFluid theory of electricity\u201d — a superseded model.</blockquote><div class="chips"><span class="chip"><b>du Fay</b> — two fluids</span><span class="chip"><b>Franklin</b> — one</span><span class="chip"><b>electron</b> — the replacement</span></div>'
         }
       ]
@@ -95,8 +95,8 @@ export default function Home() {
         {
           year: 2025, label: "now", status: "Settled definition — old question kept", cls: "settled",
           edition: "Wikipedia, live revision",
-          capKind: "Plate", cap: "the modern definition",
-          plate: { title: "Cloud", sub: "wikipedia · live revision" },
+          capKind: "AI photograph", cap: "droplets, measured",
+          img: "/assets/cloud-now.png", alt: "AI-generated photoreal cumulus cloudscape from above",
           html: '<span class="plate-no">ii.</span><h3>Droplets, not vapour.</h3><blockquote class="quote">\u201ca visible mass of condensed droplets or frozen crystals.\u201d</blockquote><div class="chips"><span class="chip"><b>condensate</b>, not vapour</span><span class="chip">charge separation: <b>still researched</b></span><span class="chip">the open question <b>outlived the edition</b></span></div>'
         }
       ]
@@ -118,8 +118,8 @@ export default function Home() {
         {
           year: 2025, label: "now", status: "Diverged — same name, different subject", cls: "settled",
           edition: "Wikipedia, live revision",
-          capKind: "Plate", cap: "the living chlamys",
-          plate: { title: "Chlamys (bivalve)", sub: "wikipedia · genus of scallops" },
+          capKind: "AI photograph", cap: "the living chlamys",
+          img: "/assets/chlamys-now.png", alt: "AI-generated photoreal scallop shell on dark velvet",
           html: '<span class="plate-no">ii.</span><h3>A shell wearing the cloak\u2019s name.</h3><blockquote class="quote">\u201cChlamys\u201d — a genus of small scallops.</blockquote><div class="chips"><span class="chip">named <b>after the cloak</b></span><span class="chip hot"><b>name match \u2260 subject match</b></span></div>'
         }
       ]
@@ -141,8 +141,8 @@ export default function Home() {
         {
           year: 2025, label: "now", status: "A food — the experiment forgotten", cls: "settled",
           edition: "Wikipedia, live revision",
-          capKind: "Plate", cap: "the modern article",
-          plate: { title: "Chocolate", sub: "wikipedia · live revision" },
+          capKind: "AI photograph", cap: "dessert, not experiment",
+          img: "/assets/chocolate-now.png", alt: "AI-generated photoreal broken dark chocolate on slate",
           html: '<span class="plate-no">ii.</span><h3>Dessert.</h3><blockquote class="quote">\u201ca food product made from roasted and ground cacao seeds.\u201d</blockquote><div class="chips"><span class="chip"><b>Theobroma cacao</b></span><span class="chip">the experiment: <b>not retained</b></span><span class="chip">knowledge doesn\u2019t only accumulate — it <b>sheds</b></span></div>'
         }
       ]

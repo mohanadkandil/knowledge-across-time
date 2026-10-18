@@ -1,42 +1,34 @@
 [
   {
-    "name": "war",
+    "name": "electricity-now",
     "endpoint": "flux-3-image",
-    "file": "war.png",
-    "id": "2f4752f7-c5d0-4e47-ac0f-50fc1a53c267",
-    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: two natural philosophers in 1790s dress arguing over a large sketch of hexagonal basalt columns pinned to a table. Behind the scholar on the left, engraved storm waves and a primordial ocean recede; behind the scholar on the right, a small erupting volcano glows. Dramatic chiaroscuro, single wide composition, both figures in profile dispute.",
+    "file": "electricity-now.png",
+    "id": "3af3ab28-6adb-48ef-9424-019493652a76",
+    "prompt": "Photoreal macro photograph of a crackling electric arc leaping between two brass electrodes on a dark laboratory bench, violet-blue plasma streamers and fine branching filaments, deep shadows, warm rim light on the brass, high detail, moody museum-dark background. No text, no watermark.",
     "cost": 4.8
   },
   {
-    "name": "verdict",
+    "name": "cloud-now",
     "endpoint": "flux-3-image",
-    "file": "verdict.png",
-    "id": "9bfd2f1d-f496-4dec-8dcf-337073c0e1a4",
-    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: the interior of Fingal's Cave on Staffa \u2014 towering hexagonal basalt columns rendered in dense engraved hatching, sea water entering at the cave mouth, a tiny rowboat with two figures for scale, a faint volcanic glow deep in the cavern suggesting fiery origin. Wide composition.",
+    "file": "cloud-now.png",
+    "id": "c4bf9902-1b0c-4a13-92b9-10fbeb84a547",
+    "prompt": "Photoreal aerial photograph above a field of towering white cumulus clouds at late afternoon, sunlit crowns with soft warm light, deep blue atmosphere at the horizon, high detail, natural color. No text, no watermark.",
     "cost": 4.8
   },
   {
-    "name": "today",
+    "name": "chlamys-now",
     "endpoint": "flux-3-image",
-    "file": "today.png",
-    "id": "26c7d7a2-7163-4945-a8df-05cd69b4f72a",
-    "prompt": "Photoreal wide photograph of the Giant's Causeway at golden hour: interlocking hexagonal basalt columns stepping into the sea, low warm light raking across the stone tops, gentle surf, a few distant visitors for scale, natural color, high detail, no text or watermark.",
+    "file": "chlamys-now.png",
+    "id": "a8fcdbd5-3693-4454-a99c-7512e977407a",
+    "prompt": "Photoreal museum-still photograph of a single fan-shaped scallop shell (living bivalve) resting on dark charcoal velvet, ridged surface catching a soft warm side light, shallow depth of field, high detail, quiet archival mood. No text, no watermark.",
     "cost": 4.8
   },
   {
-    "name": "rumford-then",
+    "name": "chocolate-now",
     "endpoint": "flux-3-image",
-    "file": "rumford-then.png",
-    "id": "799a6694-c27c-4bcd-8cbb-4229696104b3",
-    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: inside a Munich arsenal workshop in 1798 \u2014 workmen boring a large brass cannon barrel mounted on a wooden frame, the blunt borer driven by horse gearing, metal curls flying, the barrel glowing warm where friction acts; a gentleman observer in a long coat watches the brass cannon half-submerged in a water trough. Wide composition, workshop atmosphere.",
-    "cost": 4.8
-  },
-  {
-    "name": "rumford-now",
-    "endpoint": "flux-3-image",
-    "file": "rumford-now.png",
-    "id": "23752c55-eab5-45b6-b7e7-76715f4be423",
-    "prompt": "Clean modern scientific visualization on an ivory background: a cross-section of a copper cylinder being bored, the metal atoms rendered as small vibrating spheres glowing warm at the boring interface, motion lines radiating outward as heat, minimal editorial physics-illustration aesthetic, warm copper and charcoal palette. No text, no labels, no arrows, no UI.",
+    "file": "chocolate-now.png",
+    "id": "b7d7cd24-273b-427c-88b4-a278ea38f3cf",
+    "prompt": "Photoreal close photograph of broken dark chocolate pieces with visible snap texture and a few cacao nibs scattered on dark slate, warm side lighting, rich browns against deep shadow, high detail, editorial food photography. No text, no watermark.",
     "cost": 4.8
   }
 ]
