@@ -9,6 +9,14 @@ export default function Home() {
   "use strict";
   var YEAR_MIN = 1770, YEAR_MAX = 2025;
 
+  /* cover art — fade in if present, keep the dark room if not */
+  var cov = document.getElementById("coverImg");
+  if (cov) {
+    cov.addEventListener("load", function(){ cov.classList.add("on"); });
+    cov.addEventListener("error", function(){ cov.style.display = "none"; });
+    if (cov.complete && cov.naturalWidth) cov.classList.add("on");
+  }
+
   /* ================= exhibits — real indexed pages ================= */
   var TOPICS = {
     basalt: {
@@ -202,7 +210,7 @@ export default function Home() {
     urlInput.value = T.wikiPath;
 
     entryName.innerHTML = T.word + '.<span class="def" id="entryDef">' + T.def + '</span>';
-    titleSub.textContent = '— the lens, applied to ' + T.word.toLowerCase() + '.';
+    if (titleSub) titleSub.textContent = '— the lens, applied to ' + T.word.toLowerCase() + '.';
 
     STOPS = T.stops;
     stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
@@ -313,12 +321,7 @@ export default function Home() {
       ]
     };
   }
-  urlForm.addEventListener('submit', function(e){
-    e.preventDefault();
-    var k = resolveInput(urlInput.value);
-    if (k) { loadTopic(k, true); return; }
-    var raw = urlInput.value.trim();
-    if (!raw) return;
+  function fetchLive(raw){
     barMiss.classList.remove('show');
     barBusy.classList.add('show');
     var s = raw.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
@@ -337,6 +340,13 @@ export default function Home() {
         urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
         barMiss.classList.add('show');
       });
+  }
+  urlForm.addEventListener('submit', function(e){
+    e.preventDefault();
+    var k = resolveInput(urlInput.value);
+    if (k) { loadTopic(k, true); return; }
+    var raw = urlInput.value.trim();
+    if (raw) fetchLive(raw);
   });
   Array.prototype.forEach.call(document.querySelectorAll('.bar-miss .go'), function(b){
     b.addEventListener('click', function(){ loadTopic(b.dataset.topic, true); });
@@ -348,9 +358,12 @@ export default function Home() {
     var qp = new URLSearchParams(location.search).get('wiki') || new URLSearchParams(location.search).get('q');
     var hk = location.hash.replace('#','').toLowerCase();
     var pk = qp && resolveInput(qp);
-    var pathKey = resolveInput(location.pathname.replace(/^\/+/, ''));
-    if (pk) loadTopic(pk, false);
-    else if (pathKey) loadTopic(pathKey, false);
+    var pathRaw = location.pathname.replace(/^\/+/, '');
+    var pathKey = pathRaw && resolveInput(pathRaw);
+    if (pk) loadTopic(pk, true);
+    else if (pathKey) loadTopic(pathKey, true);
+    else if (qp) fetchLive(qp);
+    else if (pathRaw) fetchLive(pathRaw);
     else if (hk && TOPICS[hk]) loadTopic(hk, false);
     else loadTopic('basalt', false);
   } catch(e) { loadTopic('basalt', false); }
@@ -533,42 +546,47 @@ export default function Home() {
   }, []);
 
   return (
-<div className="wrap">
+<>
+{/* ============ the cover ============ */}
+<div className="cover">
+  <img className="cover-img" id="coverImg" src="/assets/hero.png" alt="" />
+  <div className="cover-scrim" />
 
-  {/* the lit bar */}
-  <div className="barzone">
-    <div className="bar" id="urlBar">
-      <span className="dots" aria-hidden="true"><i></i><i></i><i></i></span>
-      <form className="url" id="urlForm" autocomplete="off" spellCheck="false">
-        <span className="mag" aria-hidden="true">
-          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.4} strokeLinecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.6 15.6 21 21"/></svg>
-        </span>
-        <label className="field" htmlFor="urlInput">
-          <span className="dom">timelens.to/</span><input className="path" id="urlInput" defaultValue="wikipedia.org/wiki/Basalt" aria-label="Wikipedia URL or topic" />
-        </label>
-      </form>
-      <span className="yrs">250 yrs of revisions</span>
+  <div className="cover-inner">
+    <div className="cover-kicker reveal">TimeLens</div>
+    <h1 className="cover-title reveal">Pull history<br />into focus.</h1>
+    <p className="cover-line reveal">Prefix any Wikipedia URL — <code>timelens.to/</code> reads the topic across 250 years of encyclopedias.</p>
+
+    <div className="barzone">
+      <div className="bar" id="urlBar">
+        <span className="dots" aria-hidden="true"><i></i><i></i><i></i></span>
+        <form className="url" id="urlForm" autoComplete="off" spellCheck="false">
+          <span className="mag" aria-hidden="true">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.4} strokeLinecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.6 15.6 21 21"/></svg>
+          </span>
+          <label className="field" htmlFor="urlInput">
+            <span className="dom">timelens.to/</span><input className="path" id="urlInput" defaultValue="wikipedia.org/wiki/Basalt" aria-label="Wikipedia URL or topic" />
+          </label>
+        </form>
+        <span className="yrs">250 yrs of revisions</span>
+      </div>
+      <div className="bar-miss" id="barBusy"><span>Reading the archive — Embed VL → LanceDB → Rerank VL → Super VL…</span></div>
+      <div className="bar-miss" id="barMiss">
+        <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
+        <button className="go" data-topic="basalt">Basalt</button>
+        <button className="go" data-topic="electricity">Electricity</button>
+        <button className="go" data-topic="cloud">Cloud</button>
+        <button className="go" data-topic="chlamys">Chlamys</button>
+        <button className="go" data-topic="chocolate">Chocolate</button>
+      </div>
     </div>
-    <div className="bar-miss" id="barBusy"><span>Reading the archive — Embed VL → LanceDB → Rerank VL → Super VL…</span></div>
-  <div className="bar-miss" id="barMiss">
-      <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
-      <button className="go" data-topic="basalt">Basalt</button>
-      <button className="go" data-topic="electricity">Electricity</button>
-      <button className="go" data-topic="cloud">Cloud</button>
-      <button className="go" data-topic="chlamys">Chlamys</button>
-      <button className="go" data-topic="chocolate">Chocolate</button>
-    </div>
+    <p className="cover-sub" id="titleSub">— the lens, applied to basalt.</p>
   </div>
 
-  {/* masthead */}
-  <header className="masthead">
-    <div className="rule reveal"><span>TimeLens</span></div>
-    <h1 className="title reveal" id="titleWord">Pull history<br />into focus.
-      <span className="sub" id="titleSub">— the lens, applied to basalt.</span>
-    </h1>
-    <p className="lede reveal">Prefix any Wikipedia URL with <code>timelens.to/</code> — the topic resolves across 250 years of encyclopedias, from contested claim to settled fact.</p>
-  </header>
+  <div className="cover-scroll"><span>the record</span><i /></div>
+</div>
 
+<div className="wrap">
   {/* exhibit */}
   <main>
     <div className="exhibit-head">
@@ -722,5 +740,6 @@ export default function Home() {
     <p className="colophon reveal"><b>timelens.to</b> — prepend it to anything we thought we knew.</p>
   </footer>
 </div>
+</>
   );
 }

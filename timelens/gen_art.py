@@ -35,6 +35,22 @@ STYLE = (
 
 JOBS = [
     {
+        "name": "hero",
+        "endpoint": "flux-3-image",
+        "prompt": (
+            "16:9 landscape, extremely minimal surreal illustration of a tiny "
+            "glowing brass hand-lens hovering alone near the lower third of an "
+            "enormous deep midnight-indigo landscape, the lens casting a small "
+            "warm pool of golden candlelight onto an open antique encyclopedia "
+            "page resting on a dark hill below it, almost the entire frame is "
+            "empty deep blue-black night sky, one extremely soft hill silhouette "
+            "along the bottom edge, tiny scattered stars barely visible, subtle "
+            "atmospheric haze, dense fine film grain and speckled analog "
+            "texture, muted dreamy colors, lonely peaceful mood, strange scale "
+            "relationship, experimental editorial. No text, no lettering, no UI."
+        ),
+    },
+    {
         "name": "war",
         "endpoint": "flux-3-image",
         "prompt": (
@@ -120,9 +136,6 @@ def main():
             "prompt": job["prompt"],
             "aspect_ratio": "16:9",
             "resolution": "1k",
-            "seed": 20261018,
-            "output_format": "png",
-            "steps": 20,
         }
         result_raw, _ = request(f"{API}/v1/{job['endpoint']}", payload)
         result = json.loads(result_raw)

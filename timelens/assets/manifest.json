@@ -1,0 +1,42 @@
+[
+  {
+    "name": "war",
+    "endpoint": "flux-3-image",
+    "file": "war.png",
+    "id": "2f4752f7-c5d0-4e47-ac0f-50fc1a53c267",
+    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: two natural philosophers in 1790s dress arguing over a large sketch of hexagonal basalt columns pinned to a table. Behind the scholar on the left, engraved storm waves and a primordial ocean recede; behind the scholar on the right, a small erupting volcano glows. Dramatic chiaroscuro, single wide composition, both figures in profile dispute.",
+    "cost": 4.8
+  },
+  {
+    "name": "verdict",
+    "endpoint": "flux-3-image",
+    "file": "verdict.png",
+    "id": "9bfd2f1d-f496-4dec-8dcf-337073c0e1a4",
+    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: the interior of Fingal's Cave on Staffa \u2014 towering hexagonal basalt columns rendered in dense engraved hatching, sea water entering at the cave mouth, a tiny rowboat with two figures for scale, a faint volcanic glow deep in the cavern suggesting fiery origin. Wide composition.",
+    "cost": 4.8
+  },
+  {
+    "name": "today",
+    "endpoint": "flux-3-image",
+    "file": "today.png",
+    "id": "26c7d7a2-7163-4945-a8df-05cd69b4f72a",
+    "prompt": "Photoreal wide photograph of the Giant's Causeway at golden hour: interlocking hexagonal basalt columns stepping into the sea, low warm light raking across the stone tops, gentle surf, a few distant visitors for scale, natural color, high detail, no text or watermark.",
+    "cost": 4.8
+  },
+  {
+    "name": "rumford-then",
+    "endpoint": "flux-3-image",
+    "file": "rumford-then.png",
+    "id": "799a6694-c27c-4bcd-8cbb-4229696104b3",
+    "prompt": "Late-18th-century copperplate encyclopedia engraving style: fine burin hatching, sepia ink on warm ivory paper, subtle plate wear, museum archive feel. Elegant, restrained, historically suggestive but clearly an engraved illustration. No text, no lettering, no captions, no UI. Scene: inside a Munich arsenal workshop in 1798 \u2014 workmen boring a large brass cannon barrel mounted on a wooden frame, the blunt borer driven by horse gearing, metal curls flying, the barrel glowing warm where friction acts; a gentleman observer in a long coat watches the brass cannon half-submerged in a water trough. Wide composition, workshop atmosphere.",
+    "cost": 4.8
+  },
+  {
+    "name": "rumford-now",
+    "endpoint": "flux-3-image",
+    "file": "rumford-now.png",
+    "id": "23752c55-eab5-45b6-b7e7-76715f4be423",
+    "prompt": "Clean modern scientific visualization on an ivory background: a cross-section of a copper cylinder being bored, the metal atoms rendered as small vibrating spheres glowing warm at the boring interface, motion lines radiating outward as heat, minimal editorial physics-illustration aesthetic, warm copper and charcoal palette. No text, no labels, no arrows, no UI.",
+    "cost": 4.8
+  }
+]
