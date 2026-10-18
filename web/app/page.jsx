@@ -360,8 +360,9 @@ export default function Home() {
     var pk = qp && resolveInput(qp);
     var pathRaw = location.pathname.replace(/^\/+/, '');
     var pathKey = pathRaw && resolveInput(pathRaw);
-    if (pk) loadTopic(pk, true);
-    else if (pathKey) loadTopic(pathKey, true);
+    if (pk || pathKey || qp || pathRaw) document.body.classList.add('deep');
+    if (pk) loadTopic(pk, false);
+    else if (pathKey) loadTopic(pathKey, false);
     else if (qp) fetchLive(qp);
     else if (pathRaw) fetchLive(pathRaw);
     else if (hk && TOPICS[hk]) loadTopic(hk, false);
@@ -735,8 +736,6 @@ export default function Home() {
       <span className="pipe-arrow">→</span>
       <span className="pipe">Super VL agent</span>
     </div>
-    <p className="foot-stats reveal">100 scanned pages · eight editions, 1768–1860 · every claim cited</p>
-    <p className="foot-note reveal">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending. AI illustrations are labeled; the page images under the lens are genuine scans.</p>
     <p className="colophon reveal"><b>timelens.to</b> — prepend it to anything we thought we knew.</p>
   </footer>
 </div>

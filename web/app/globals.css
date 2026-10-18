@@ -94,6 +94,14 @@
   }
   @keyframes scrollcue{0%,100%{opacity:.35;transform:scaleY(.7)}50%{opacity:1;transform:scaleY(1)}}
 
+  /* deep link — collapse the cover to just the bar, land on the lens */
+  body.deep .cover{min-height:0;display:block;overflow:visible;background:var(--room)}
+  body.deep .cover-img,body.deep .cover-scrim,body.deep .cover-scroll,
+  body.deep .cover-kicker,body.deep .cover-title,body.deep .cover-line,body.deep .cover-sub{display:none}
+  body.deep .cover-inner{padding:18px 26px 0}
+  body.deep .cover .barzone{margin-top:0}
+  body.deep main{padding-top:56px}
+
   .barzone{padding-top:0}
   .bar{
     display:flex;align-items:center;gap:0;
