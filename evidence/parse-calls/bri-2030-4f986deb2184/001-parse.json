@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:33.247802+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "868b962ebad158f2370d647bda4cafcade9c07f1f299a84dcf3a056699ee4520",
+                "characters": 102507
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-609705b1-033f-453f-9e73-e668e56afcc4",
+    "object": "chat.completion",
+    "created": 1792322674,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0449><y_0.082>Scripture.<x_0.1035><y_0.1039><class_Page-header>\n\n<x_0.2217><y_0.0625>S C R I 797 J S C R<x_0.7197><y_0.0813><class_Title>\n\n<x_0.1895><y_0.0914>The Prioritrs in their fuppofed Order of Time, arranged according to Blair’s Tables” with but little variation.<x_0.7549><y_0.1211><class_Text>\n\n<x_0.1709><y_0.1313>\\begin{tabular}{cccc}\n & **Before Clerft.** & **Kings of Judah.** & **Kings of IJrael.**\\\\\nJonab, & Between 856 and 784. & & Jehu, and Jehoahar, accad- ing to Lloyd's, but Joah and Jeroboam the Second according to Blair.\\\\\nAmos, & Between 810 and 783. & Uzziah, chap. i. r. & Jeroboam the Second, chap. i. r.\\\\\nHofea, & Between 810 and 725. & Uzziah, Johtam, Abaz, the third year of Hezekiah. & Jeroboam the Second, chap. i. r.\\\\\nIfalah, & Between 810 and 698. & Uzziah, Johtam, Abaz, and Hezekiah, chap. i. r. and perhaps Manafleh. & \\\\\nJoel, & Between 810 and 660, or liter. & Uzziah, or poffibly Manaf- ich. & \\\\\nMicah, & Between 758 and 699. & Joham, Abaz, and Heza- kiah, chap. i. r. & Pekah and Hofa.\\\\\nNahum, & Between 720 and 698. & Probably towards the clofs of Hezekiah's reign. & \\multirow{3}{*}{}\\\\\nZephianlah, & Between 640 and 669. & In the eight of Joliah, chap. i. r. & \\\\\nJeremiah, & Between 628 and 586. & In the thirteenth year of Jolah. & \\\\\nHubakkuk, & Between 612 and 598. & Probably in the reign of Jehoinkim. & \\\\\nDaniel, & Between 626 and 534. & During all the Captivity. & \\\\\nObadiah, & Between 588 and 583. & Between the taking of Jera- liking by Nebendadezzer and the delineation of the Edomites by him. & \\\\\nEeckiel, & Between 595 and 536. & During part of the Capti- vity. & \\\\\nHaggai, & About 520 to 518. & After the return from Baby- lon. & \\\\\nZechariah, & From 520 to 518, or longer. & & \\\\\nMalachi, & Between 436 and 597. & & \\\\\n\\end{tabular}<x_0.7695><y_0.832><class_Table>\n\n<x_0.4434><y_0.8336>4<x_0.4629><y_0.8469><class_Page-footer>\n\n<x_0.8359><y_0.0789>Solquire,\nPeople\nNovember’s\nIvy for of\nMiner\nProphees,\nProfers\nP-43-<x_0.9072><y_0.1727><class_Picture>\n\n<x_0.7891><y_0.8562>Elikh<x_0.8281><y_0.8711><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 1251,
+      "completion_tokens": 743,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 1251,
+    "completion_tokens": 743,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.58
+}

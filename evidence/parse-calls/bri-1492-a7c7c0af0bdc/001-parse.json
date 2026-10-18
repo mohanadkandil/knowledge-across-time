@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:31.566599+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "c1833389cb79675d79f3b6cd4efa4978be4629d13b66e58f740f581bee5cfe27",
+                "characters": 222491
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-64f894cd-69ea-4f51-a26e-ba9db4f44153",
+    "object": "chat.completion",
+    "created": 1792322614,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1924><y_0.0375>H IN [ 497 ] HIN<x_0.7588><y_0.0586><class_Page-header>\n\n<x_0.0615><y_0.0578>believe, what the governors themselves assert, that immediately after the provinces fell under British juris-diction, both Hindon and Mohammedans have been left to the free exercise of their religion, laws, and customs. The Hindons themselves acknowledge this, and so as well pleased with the mildness of the British government, as they are displeased with the superstition and cruelty of the Mohammedan. Under the British government we cannot suppose but the commenancy, to which the inhabitants of this country are so much adicited, will be much more encouraged than by the arx-risions on barbanesh Mohammedan. The latter had imposed so many restraints upon trade of all kinds, by the multitude of taxes collected at the landing places, watchhouses, artefacts, Sec. that it was almost impossible to carry it on with any advantage. Among other salary regulations, however, enacted by the British government in aryya, many of those taxes upon commerce were abolished, and a plan laid for effectually liberated the inhabited from these shades by which their commones had been so long fictional—Regard has also been paid to the instruction of the people in need knowledge, and the suminist established Cal-cutta by Sir William Jones, certainly does much his tior to the founder. Some regard had indeed been paid to this by the Mohammem emperers | but at the time that the British government commenced, these Iad-been entirely neglected, their endoments required by government, and even the buildings fallen into rain.<sup>9</sup><x_0.4678><y_0.4609><class_Text>\n\n<x_0.0596><y_0.4625>From a comparison of any government to which the Hindone have hitherto been subject, with that of Britain, indeed, it is evident that the preference must be given greatly in favour of the latter. At the time when the British first visited that country, they were not under the jurisdiction of their native oversering; now had they been as for a long time before. The Mogulls were not only foreigners, but a most crest and detectable race of men, and it was by surpassing of their own rebellious subjects that the savery and confusion was introduced, in which the country was involved for as long a time. The British are foreigners as well as the Mogully, but the latter, who profes the intolerant superstitution of Mohamed, suffer their conduct to be influenced by by such a manner to treat the natives with the utmost cruelty. The greatest set/ periods which results from the British government is, the ex-portation of great sums of money to a foreign country; but this evil, with respect to the provinces possessed by the British, existed also under the Mohammadan government. The Mogul emperev resides at Dally, which is far distant from the provinces of Benep, Bahar, and Orissa, the territories now possessed by Britain’s so that the greatest part of the treasurer sent to the capital was totally lost to them. In the time of through case, the emperor’s tribute amounted to three millions sterling, and of this a considerable part over six speeds, but since that time the relative was fixed at only £2000 and even this was a vast sum; to which if we add that carried out of the country by commanders of interventory troops, who were all foreigners, it is not unansionalable to suppose that under the Mogol government matters were still worse, even in this respect, than under that of Britain.<x_0.4648><y_0.9164><class_Text>\n\n<x_0.0605><y_0.9172>We shall conclude this apology for the British go- Vol., X. Part II.<x_0.4521><y_0.9453><class_Text>\n\n<x_0.4688><y_0.0617>verment; with the following extract from the treating lately quoted. A about Review of the British Government men in India. \"A more detectable or detected race of people never appeared than the Mohameman con-perso or India, y whether we consider the instability of their passion, the bigity of their religion, the compor-tion of their manners, the barbarity of their education, and the primary of their governments.\" It all these respects they were the inverse and ababerence of the Hindons whose country they invaded, and whose dominion they unserpe.<x_0.8838><y_0.2086><class_Text>\n\n<x_0.4697><y_0.2094>\"The fantic ignorance of the savage caliph, which dictated his barbarous reason for destroying the Alex-dadian library, that neither been stored nor refined by the Parker education of Tomo and his predecessors. The same superstitions biogtry which incisted the Arabian palips to destroy the monuments of western learn- ing, likewise implied that Yuster khan to overthrow the religious temples of the eastern worship. At the commencement of the 1rtth century Mahmood entered Hindustan, and in the course of 12 expedition the destroyed the famous temples of Nagrucutu, Tunasar, Matra, and Sumami. In the latter end of the next century, Mahmoud Gori patented as for a the city of Benares, and committed outrages as Mahmood had done before at Nagrecent and Sumami. Travane possessed a made of this fortions real as any of his average predecesores; and if the enthusiasm of this destructive religi- tion had not occasionally slated among some of his succesors, they would source have left a Hinduo temple or priest in the country they studied.<x_0.876><y_0.4758><class_Text>\n\n<x_0.4707><y_0.4766>\"Eenough, however, had been done to fix an indelible stain on the memory of lasting impression on the minds of the Hindons, who, to the latest period of the Mogul government, were kept in constant dead of doctrines, which, to the figure princessians, seemed to inspire the Mohammedans with scardiegism cruelty. Holistry is best an aluminium to a Muslimouth as it was to the Jews when they most strictly revered the ethnic command which prohibits it; and most of the Hindons determined being insidered by the Mohammedans as acts of dolators, and all their pagodas as temples of idiots, a religious principle excited mutual sentimentos of abborres and antipathy between the conquorers and their subjects. The rest of the character of the Mohammedans may be summed up in the concise and emplacer words of Mr. Enafino, who says, \"their distinguishing qualities are probably and meaning.\"<x_0.8721><y_0.7164><class_Text>\n\n<x_0.4717><y_0.7172>\"But notwithstanding these facts, and that the hisy of their government is a digesting repetition of oppression, masseress, and shelling, the fleshed of the times has been to praise it, and to represent the sitution of the Hindus as easy and happy under it, till they were distanced in this powerful state of repons and security by the English; who have been described (with unpandanled injected) as a set of mancotants- masters. Er surely requires a very small degree of rejection to perceive, that such representations of the two governments must, from the very nature of things, be false.<x_0.8701><y_0.8773><class_Text>\n\n<x_0.4727><y_0.8781>\"The Mohammedan conquerors came into India from a barbarous region, with minds and manners as uncultlivast as the walls from which they issued. The only notion they had of government was absolute power<x_0.8652><y_0.9445><class_Text>\n\n<x_0.6494><y_0.9266>3 R in<x_0.8662><y_0.9469><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2117,
+      "completion_tokens": 1599,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2117,
+    "completion_tokens": 1599,
+    "prompt_tokens_details": null
+  },
+  "seconds": 4.57
+}

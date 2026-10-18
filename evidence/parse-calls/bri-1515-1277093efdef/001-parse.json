@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:39.989355+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "7c6b1b246fed658ad6d64bc14a8829c71c7b628c3a51e94c992eb1527bdb8ddf",
+                "characters": 185551
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-7806191d-a70a-4cb8-b2cb-41b693bf0cc0",
+    "object": "chat.completion",
+    "created": 1792322620,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.168><y_0.0484>A E G [ 207 A E G<x_0.7422><y_0.0695><class_Section-header>\n\n<x_0.0586><y_0.0742>had the finally of converting into those all thiefs who looked upon it; a Medula herself had done during her life.<x_0.4473><y_0.1117><class_Text>\n\n<x_0.0576><y_0.1109>Others floppofe: the eggs not to have been a buckler, but a euirals, or breathplate; and it is certain the ex- gis of Pallas, defertified by Virgil, Eo, llb, oil, we 435, and have been a curatly, fine that part fays ex- presiably, that Medulah's head was on the bread of the goddds. But the eggs of Jupiter, mentioned a little higher, ver. 334, items to have been a buckler : the words<x_0.4482><y_0.2172><class_Text>\n\n<x_0.1494><y_0.2219>_Cum fego nigraniem_ _Eigida conscience destra._<x_0.29><y_0.2508><class_Section-header>\n\n<x_0.0596><y_0.2531>are defective of a buckler; but not at all of a cuirals or beethplate.<x_0.4492><y_0.282><class_Text>\n\n<x_0.0605><y_0.2805>Serrain makes the fame diffinition on the two paf- fages of Virgil; for our wife 334, he takes the eggs for the buckle of Jupiter, made as above mentioned of the film of the goat Anatolhaz; and on verde 435, lie deferlies the eggs as the armor which covers the breads, and which in feeding the rum is called one reif, and again in feeding of the gods. Many authors have overlooked title difunctions for want of going to the degrees.<x_0.4502><y_0.3969><class_Text>\n\n<x_0.0625><y_0.3953>EGISTHUS, in ancient bifory, was the fun of Thyelles by his own daughter Pilipicia, who, to come cell her thumb, expeded him in the woods, from Fay he was born up by a shaped, and tackled by a gent, whence he was called _Egifkar_. He feded Cytyen notifts the wife of Angamama and lived with her dur- ing the way of Troy. Afterwards with her alliance he flew her husband, and reigned Seven years in Myceems. He was, together with the Cytecenneira, this One Profes. Tempoy died to call Black Cefar _Egifhas_, on account of his having reduced his wife Muta, whom an afterwards put away, though he had three children by her.<x_0.4512><y_0.5648><class_Text>\n\n<x_0.0615><y_0.5633>AGITHALLUS, in _Ancincie Geography, a pro- monitory and clutal of Sicily, between Dreamism and the European _Egiftnam, afterwards called _Lelecl- lar;_ corruptly written _Egithan/s_, in Polemy; titu-ated near Mount Eryx, and now called _Copa ti Santa Pookonya_.<x_0.459><y_0.643><class_Text>\n\n<x_0.0635><y_0.6422>AESUM, in _Ancint Geography, a town of Adenia_ _Payria_, five miles from the place where Hellic flood, and famous for the council of the Askens, which ofu- ally met there on account either of the depth or com- moding fluctuation of the place. It was also famous for the worthy of _Oasyaya, Zoni, Connecticut Jupiter_, and _of Panachema Grers._ The territory of _Egitan was_ welenced by my rivers, via the Phoenix and Meganies. The eptiples is _Egimfu_. There is a coin in the cabinet of the king of Praffia, with the infarction ARTI, and the figure of a tusntic, which is the symbol of Pele Jopomeneña, and leaves no doubt as to the place where it was struck.<x_0.46><y_0.8102><class_Text>\n\n<x_0.0645><y_0.8094>EGOTOLIUM, in antianity, the sacrifice of a good offered to Cyberle. The ngobolium was an ex- patatory facilities, which bore a near refemblance to the tunnelobium and erboblium, and farms to have been femeiines joined with them.<x_0.4609><y_0.875><class_Text>\n\n<x_0.0654><y_0.8742>EGOPODIUM, SaialŁWID ANGEILCA, GOATWORT, GOATSPOOT. See BOTANY Index.<x_0.458><y_0.9023><class_Text>\n\n<x_0.4639><y_0.0734>EGORRICON. See BOTANY Index.<x_0.7686><y_0.0813><class_Section-header>\n\n<x_0.4648><y_0.0836>EGOSPOTAMOS, in _Ancint Geography, a river_ in the Tharcian Charleroacia, falling with a fourth-salt course into the Hellefport, to the results of Scientific slo e towns, flation, or road for dips at its mouth. Here the Athenians, under Coon, through the path of his colleague floriers, received a flight overthrow from the Lancetomanina under Lyfander, which was followed by the taking of Athens, and put an end to the Pe-heponefen were. The Athenians she has followed the Lacedemonians, anchored in the road, over against the enemy, who lay before jumping into Tibetfel post is not above two thousand pieces broad in that place. The two arises feiring themselves fo near each other, expected only to visit that day, and were in hopes of coming to a backlit on the next.<x_0.8535><y_0.2789><class_Text>\n\n<x_0.4658><y_0.2766>But Lyfand had another delign in his view. He commanded the farmers and pilots to go on board their gallery, as if they were to reality of fight the next morning at break of day, to hold themfeives in readi-ness, and to wait his orders with pendard silence. He commanded the last army in like manner to draw up in order of build upon the coafi, and to wait the day without knife. On the memory, as soon as the fun war-rises, the Athenians began to now turns them than with their whole fleet in one lines, and to bid them defiance. Lyfindery, though his things were raged in order of battle, with their heads towards the enemy, hy fillt without making any movement. In the evening, when the Athenians withdrew, leoff not defeat his firstks to go others, till we ever gavely, which he said fort out to deliver them, were returned with advice that they had ten the enemy land. The ones they pulled in the form anymore, or did the third and fourth. Such a condenk, which argued referee and apprehension, ex- trenely arguments the fictional soldiers of the Ar- thanians, and helped them which an extreme contempt for an army, which fear, in their fende, prevented from flowing therefields, and supporting any thing.<x_0.8574><y_0.5734><class_Text>\n\n<x_0.4678><y_0.5727>While this paperful, Alchibidey, who are near the fleet, took hoeffe, and came to the Athenian generals; to whom he represented, that they kept upon a very differentageons coal, where there were neither pets nor cites in the neighbourhood; that they were obliged to bring their positions from Selive with great danger and difficulty; y and that they were very much in the wrong to fiffer the folders and marriners of the fleet, as soon as they were others, to fringled and differied themselves at their own peutures, while they were faced in view by the enemy’s fleet, acculloned to execute the scenes of their general with the readelt evidence, and upon the slightest fight. He offered alfo to attack the enemy by hand with a floreng body of Tharcant town, and the force them to baitke. The generals, especially Tyldens and Mounder, jacknow of their command, did not content themfeives with refin- fing his offers, from the opinion, that if the event proved unfondants, the whole home would fall on them, and if favorable, that Alchibides alone would have the honour of it, but rejected alfo with built his wife and military control, as if a man to digress left his fonde and abilities with the favor of the commonwealth. Alchibades withdrew.<x_0.8672><y_0.8852><class_Text>\n\n<x_0.4912><y_0.8828>The fifth day the Athenians prefered themfeives again,<x_0.8662><y_0.9117><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2288,
+      "completion_tokens": 1760,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2288,
+    "completion_tokens": 1760,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.14
+}

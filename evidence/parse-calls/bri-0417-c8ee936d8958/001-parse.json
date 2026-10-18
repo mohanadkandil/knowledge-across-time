@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:30.236140+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "3bc0dde9eaa96a7339586f816f91b0b26949857242def28ededd88e770dd6c07",
+                "characters": 225951
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-04ce6376-63b5-4c4d-a777-6e988c057ecd",
+    "object": "chat.completion",
+    "created": 1792322491,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2256><y_0.0453>OT A [ 590 I O TA<x_0.7959><y_0.0664><class_Page-header>\n\n<x_0.041><y_0.068>Obatelite, however, Captain Cook, in 1773; turned about 14 cats on the island, which have probably reduced the men for of these vermin. No few times, tosj, scons, contipides, or any kind of serpent, has been found here i) the ants, however, are troublesome, but not very nu-menon. When the Bodeswore first arrived here an 1769, the first were found excessively troublesome, but mosqueto nets and fly flaps in some measure removed the inconvenience. Sydney Parkinsone, in his journal, says that natristhishing these flies as no great a nuisance, the natives, from a religious principle, will not kill them. But there is a strange disagreement in the counts of different weapons concerning this matter. For M. Bougainville says, \"this island is not infected with those myriads of troutlesome insects are the plague of other tropical countries\". And Mr Foster says, \"not a grant or mosquito homemed uplessantly about us, or made us aprehensive of its bite? This inconvence must therefore be felt at certain season of the year, and in certain districts of the country, more sensibly than an other times and places. There's great westernly of excellent fish i) and evening on Arizona, a native who embarked with M. de Bougainville, there are sea-snakes on the shore of Obtaetic, whose bite is mortal.<x_0.5098><y_0.4055><class_Text>\n\n<x_0.0762><y_0.4008>B Descriptions of the inhabitants, Sc.<x_0.5166><y_0.4609><class_Footnote>\n\n<x_0.0469><y_0.4094>The inhabitants of Obtahete are a study, well-made, active, and comedy people. The statture of the men in general, is from five feet seven to five feet ten inches the tallest man seen by Captain Wallis measured six feet three inches and a half, said Captain Cook, in his second wynge, describes OTos, the king of Obtahets to be of that height. \"In order to paint a Hercules or in Mary,\" says M. de Bougainville, \"one could nowhere find much beautiful models.\" They see if a given brown completers in general their hair is black, and finely frizzed j they have black eyes, flat noises, large mouths, and fine white teeth y. He men wear their laarde in many fashions, all of them plocking out a great part, and have prominent bellies. Most of them smell strong of the coconut oil. The women in general are much smaller, especially those of the lower rank or tawtows, which is attributed to their early and promotions intercourse with the men i), whilst the better sort who do not grafify their passion in the same unbriched manner, are above the middle stature of Expensans. Their skin is most definitely smooth and soft: they have in color in their checks i; their nose is generally somewhat flat, but their eyes are full of expression, and their teeth beautifully even and white. \"The women,\" says M. de Bougainville, \"have features not less agreeable than the generality of Europens, and a symmetry of body and beautiful proportion of links which might vie with any of them. The complexion of the men is tawney i but those who go upon the water are much more red than those who live on shore. Some have their hair known, red, or flaxen, in which they are exceptions to all the native of Asia, Africa, and America, who have their back black university i; here, in the children of both sexes, it is generally laxen. The strongest expression is painted in the countenance of these people; i their walk, is graceful, and therefore one per-formed with great vigorant and case.\" \"I never behold statelier men, (say Sydney Parkinson). The men of consequence on the island were the mails of their fingers long, which they consider as a very honorable badge<x_0.5215><y_0.9586><class_Text>\n\n<x_0.5234><y_0.0633>of distinction, since only such people as have no occasion to work can suffer them to grow on that length. This causes they have in common with the Chinese, but the nail of the middle finger on the right hand is always kept short, the moment for which scientifically could be learned. Only one single crpley was met with among them, and he appeared to have been named by a fall.\" The women always cut their her short round their heads. Both trees leave a custom of starting their bodies, which they call _tattooing_ 2 both men and women have the binder part of their thighs and lions marked every thick with black. lines in various forms ; these marks are made by striking the teeth of an instrument somewhat like a comb just through the skin, and rubbing into the punctures a kind of pawns make sost and oil, which leaves an indelible stain. The boys and girls under twelve years of age are not marked, a few of the men, whose legs were marked in severe by the same method, appeared to be persons of superior rank and authority. Mr Banks say the operation of attotoring informed upon the backside of a girl about thirteen years old. The instrument used upon this occasion had thirty teeth i and every stroke, of which in least a luma died were done in a minute, drew an action a little tinged with blood. The girl bore it with most stoicial resolution for about a quarter of an hour, just the pain of so many hundred parents as had the received in that time, then became motorable. She first complained in murman, than wept, and at last bursts into the landamentations, carrying the operator to decide. To way, however, memorably and when the began to struggle, she was held down by two women, who sometimes sounded and sometimes child her zand now and then, then she was most rumully, gave her a smart blow. Mr Banks studi in a neighboring house an hour, and the operation was not over were he went away i and it was performed that upon one side, the other having been done some time before i, and the cracks up the line, i), which they may take themselves, and which gave more pain than all the rest, were still to be done. Both men and women are not apt directly but specifically included, in a kind of white cloth that is made of the bark of a shrub, and very much resembles coarse China paper. Their dress consists of two pieces of this cloth, one of them, having a hole made in the middle to put the head through, hange from the shoulders to the mid-leg before and behind i another piece, which is between four and five yards long, and what one yard wood, they wrap round the body in a very easy manner. This cloth is not woven i but is made like paper, of the mercated illness of the ever bay agreed not and started together. Their comments are feathers, flowers, pieces of shell, and pearls i the pearls are worn cheily by the women. In wet weather they wore matting of different kinds, and their cloth will not bear vetting. The dress of the better sort of women consists of three or four pieces: one piece, about two cycle wide and eleven long, they wrap around times round their waist, so as to hang down like a petitcast as low as the middle of the leg and this they will parrow. This simple drapey would, the user an opportunity of displaying elegant figure to the greatest advantage, according to the talents and taste of the viewer: the general fea shous force them to disfigure instead of adoring themselves, but an innate gracefulness is the companion of simplicity.<x_0.9297><y_0.9664><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2167,
+      "completion_tokens": 1659,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2167,
+    "completion_tokens": 1659,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.426
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:37.768381+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "3269f2bd1d1895ceb78207365990fff839a4deabaf2f4fd62f5fb12756ef86ab",
+                "characters": 159279
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-b6a62b72-5f15-4287-9ec5-d89d3e20a287",
+    "object": "chat.completion",
+    "created": 1792322558,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.043><y_0.0375>**Part II.** _Appendin. SAN._<x_0.1182><y_0.0906><class_Page-header>\n\n<x_0.3203><y_0.0359>M N E R A L O G Y<x_0.7051><y_0.057><class_Title>\n\n<x_0.8916><y_0.0422>_135_<x_0.9248><y_0.0586><class_Text>\n\n<x_0.1543><y_0.0688>## P E N D I X<x_0.4307><y_0.0883><class_Section-header>\n\n<x_0.1807><y_0.0922>_Of Saxa and Patrifaitions._<x_0.4121><y_0.1141><class_Text>\n\n<x_0.1084><y_0.1219>THOUGH the Saxa, and forthially commonly called _Patrifaites_, cannot, in fierisefs, be ranked in a mineral lyffen, for the reasons formerly given yet as thefe bodies, especially the latter, occupy its con-fabricable a place in most natural conditions, and the former multi excellently be taken notice of by the miners in the oberations they make in information geo-graphy. It appeared proper to faighon them in fact an order as might an/wer the purpfor for which they are regarded by miners and mineraloguils.<x_0.4795><y_0.2594><class_Text>\n\n<x_0.2021><y_0.2695>Orler I. Saxa. _Potre._<x_0.3857><y_0.2859><class_Section-header>\n\n<x_0.1221><y_0.2906>The may be divided two kinds.<x_0.1123><y_0.3031><class_Text>\n\n<x_0.1104><y_0.3039>1. Compound fans, are those whole particles, con-fifing of different fuhlances, are to readily fitted and joined together, that no empty faces, or even comes, can be perceived between them which forms to soll- cate, this fome, if not all of their fuhlances have been left at the infant of their union.<x_0.4785><y_0.3836><class_List-item>\n\n<x_0.1113><y_0.3828>2. Compinated flavors, are those whose particles have been united by fone cementitious fuhlance, which, however, is federn precenties, and which of ten has not been sufficient to fill every place between the particles: in this cafe the particles fem to have been hard, worn off, and in loose, fingle, undigured pieces, before they were united.<x_0.4775><y_0.4781><class_List-item>\n\n<x_0.1367><y_0.482>I. Compound faxa.<x_0.2627><y_0.4969><class_List-item>\n\n<x_0.1455><y_0.4977>_A. Opklits._ Seely linefone with kernels or bind of temperature than in it.<x_0.4766><y_0.5234><class_List-item>\n\n<x_0.168><y_0.5227>1. _Kelmond marble._ It is white and green.<y_0.5359><class_List-item>\n\n<x_0.167><y_0.5352>2. _Separation onions_, is white, with round pieces of black flashes in it. This means not be confounded with the _forpentino verde onion._<x_0.4756><y_0.5758><class_List-item>\n\n<x_0.165><y_0.575>3. The _literalifly marble._ White, with qua- dranpillar pieces of a black flashes.<x_0.4746><y_0.6023><class_List-item>\n\n<x_0.166><y_0.6016>4. The _nurave peazence di Grenava._ Dark grey morphs, with white ones. This kind receives its fine polish and appearance from the repertoire alone.<x_0.4766><y_0.6523><class_List-item>\n\n<x_0.1445><y_0.6531>_B. Kolliffe are gulfilition._ Granitello.<x_0.3926><y_0.6664><class_List-item>\n\n<x_0.1641><y_0.6648>1. Of distinct particles. In fone of thefe the quartofo particlesplasmanants and mothers the mascotas; in the half cate it is com- monly flatty, and easy to folklt.<x_0.4736><y_0.7188><class_List-item>\n\n<x_0.1631><y_0.7195>2. Of particles which are wrap up in one anao-ther,<x_0.4805><y_0.7461><class_List-item>\n\n<x_0.1836><y_0.7453>a. Whitih grey.<x_0.2969><y_0.7602><class_List-item>\n\n<x_0.1826><y_0.7609>b. Greenith.<x_0.2617><y_0.7727><class_List-item>\n\n<x_0.1846><y_0.7703>c. Reddith.<x_0.2607><y_0.7852><class_List-item>\n\n<x_0.5283><y_0.0602>C. Norrkis. _Marleyton_ of the **Swedex.** _Suxum Alpeste-_\ncomptium mica, quartiers, at genuine.<x_0.9209><y_0.0891><class_List-item>\n\n<x_0.5459><y_0.0859>1. With distinct garners or filnit.<x_0.7705><y_0.0992><class_List-item>\n\n<x_0.5547><y_0.1062>a. Light grey.<x_0.6348><y_0.1109><class_List-item>\n\n<x_0.5557><y_0.1117>b. Dark grey.<x_0.6484><y_0.1266><class_List-item>\n\n<x_0.5566><y_0.1258>c. Dark grey with prinatical, radiated, or famous cookie or thirl.<x_0.8584><y_0.1516><class_List-item>\n\n<x_0.5537><y_0.1508>2. With kernels of garnet-flone.<x_0.7627><y_0.1648><class_List-item>\n\n<x_0.5527><y_0.1656>e. Of pink red garnet flone.<x_0.7568><y_0.1781><class_List-item>\n\n<x_0.5254><y_0.1789>The first of this kind, whole fatty frata makes it commonly easy to be fplit, is employed for millixtures, which they without difficulty by accomplished, if find in lift ground with them; because the fand wearing away the microneast particles on the furties, and leaving the genera prominent, renders the flone fitter for grinding the corn.<x_0.8594><y_0.2828><class_List-item>\n\n<x_0.5264><y_0.2836>D. The witchers, Goo. _Suxum compolham mi-_\ncin, quartiers, of Jofim argilla martiab in non- nulli faculties.<x_0.8574><y_0.3242><class_List-item>\n\n<x_0.5518><y_0.3281>1. Of course particles<x_0.6973><y_0.3336><class_List-item>\n\n<x_0.5576><y_0.3375>a. White.<x_0.6328><y_0.3484><class_List-item>\n\n<x_0.5586><y_0.3477>b. Light grey.<x_0.6543><y_0.3609><class_List-item>\n\n<x_0.5596><y_0.3617>2. Of fine particles.<x_0.6807><y_0.3742><class_List-item>\n\n<x_0.5605><y_0.3758>a. Liver-brown colour.<x_0.7197><y_0.3891><class_List-item>\n\n<x_0.5586><y_0.3883>b. Bakklik grey.<x_0.6816><y_0.4031><class_List-item>\n\n<x_0.5615><y_0.4023>c. Light gray.<x_0.5625><y_0.4148><class_List-item>\n\n<x_0.5586><y_0.4156>d. Black. The table-flate, or that kind ufed for large males and for school flates.<x_0.8545><y_0.4398><class_List-item>\n\n<x_0.542><y_0.4414>3. Of very minute and clofoly combined par-\nticles. The Tyler does. This is of an eye, olive colors, and form to be the fixed mix (pit, ture of the frilt species of this genus. The col. 1.) be full this fort come from the Levens, and are pretty denz. The whitenkin kinds, when they fplit calily and in thin plates, are very fit to cover house food, though molt of them are without those properties.<x_0.9072><y_0.5586><class_List-item>\n\n<x_0.54><y_0.5578>F. Porphyrer \\* Porphyries. Teildaum perifolia. _Suxum compolham jellyfish et jiflorida, interlam_\nmica de lylko (n). See the article Pax Paxxx.<x_0.9082><y_0.6031><class_List-item>\n\n<x_0.5391><y_0.6039>a. He colour is green, with light-green felfiptar. _Separation zone, action._ It is told to have been brought from Egypt to Rome, from which latter place the ipcemens of it now come.<x_0.8604><y_0.6625><class_List-item>\n\n<x_0.541><y_0.6633>b. Deep red, with white felfipat.<x_0.7725><y_0.6773><class_List-item>\n\n<x_0.5381><y_0.6781>c. Black, with white and red felfipat.<x_0.7998><y_0.6906><class_List-item>\n\n<x_0.5371><y_0.6891>d. Reddih brown, with light red and white felfipat.<x_0.8555><y_0.718><class_List-item>\n\n<x_0.54><y_0.7172>Dark grey, with white grains of felfipat also. The dark red porphyry has been molt employed for ornamentes in building yet it is not the only one known by the name<x_0.8613><y_0.7844><class_List-item>\n\n<x_0.1094><y_0.825>(a) Great part of the hill of Bineves in Locahaber is composed of a kind of porphyry. It is remarkably fine, beautiful, and of an elegant reddish color; 1⁄2 in which (days Mr Williams), the pale role, the bluh, and the yellowish white colours, are finely blended and faded, through the body of the flone; which is of a jelly- like texture, and is undoubtedly one of the finet and mole elegant those in the world. On this hill alo is found a kind of porphyry of a growth colony with a living of brownish red. It is smooth, compact, and heavy; of a clote uniform texture, but has no brightened when broken. It has angular fpecks in it of a white quartzy fuhlance<sup>?</sup><x_0.8633><y_0.9203><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2117,
+      "completion_tokens": 1619,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2117,
+    "completion_tokens": 1619,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.456
+}

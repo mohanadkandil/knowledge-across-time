@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:57.022696+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "0974dddcf478c175992542d847dcd36289f6f5e0660cd2c98b218374e9b8aa89",
+                "characters": 175371
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-222180c0-d3ab-43bc-af20-31d3e4cebb0c",
+    "object": "chat.completion",
+    "created": 1792322637,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0732><y_0.0469>434<x_0.1367><y_0.0633><class_Page-header>\n\n<x_0.3506><y_0.0359>**A L G E B R A.**<x_0.7051><y_0.0594><class_Title>\n\n<x_0.877><y_0.0375>Part III.<x_0.9697><y_0.057><class_Section-header>\n\n<x_0.0742><y_0.0641>Application\nto Gen\nmetry,\n-006t nearly, and x=2.094 nearly.<x_0.5176><y_0.107><class_Text>\n\n<x_0.1465><y_0.1086>4. This operation may be continued to any length,\nas by fuppeling gz=-054+/s, and fo ons, and the\nvalue of z=0.094747 nearly.<x_0.5195><y_0.1516><class_Text>\n\n<x_0.1475><y_0.1539>By the full operation a never value of x may be\nfound thus i force f=1 nearly and -1+1o/+of/+\ni\nf =0, f=0+of/r/s, that is, f=10+.6+.094\ntrue to the left figure, and x=2.094.<x_0.5205><y_0.2297><class_Text>\n\n<x_0.5293><y_0.0617>In the fame manner may the root of a pure equal Application\ntion be found, and this gives an cafy method of ap-\nproximating to the roots of numbers which are not\nperfect powers.<x_0.9717><y_0.1078><class_Text>\n\n<x_0.5303><y_0.1062>This can is applicable to numeral equations of every\norder; and, by alluming a general equation, geneth\nrules may be deduced for approximating to the roots\nof any propried equation. By a finalime method we\nmay approximate to the roots of literal equations,\nwhich will be exprefiled by infinite ferries.<x_0.9082><y_0.1922><class_Text>\n\n<x_0.3818><y_0.2484>P AR T III.<x_0.6768><y_0.2703><class_Section-header>\n\n<x_0.3145><y_0.2844>Of the Application of AlGEBRA TO GEOMETRY.<x_0.7441><y_0.3039><class_Section-header>\n\n<x_0.2754><y_0.3203>CHAP. I.<x_0.3984><y_0.3383><class_Section-header>\n\n<x_0.2676><y_0.3492>_General Principles._<x_0.4062><y_0.3664><class_Section-header>\n\n<x_0.1494><y_0.3719>C EOMETRY treats both of the magnitude and\npolition of extention, and their connections.<x_0.5117><y_0.4031><class_Text>\n\n<x_0.1484><y_0.4039>Algebra: tests only of magnitudely, therefore, of\nthe relations which fulfill in geometrical figures, those\nof magnitude only can be immediately exprefed by\nalgebra.<x_0.5273><y_0.4578><class_Text>\n\n<x_0.1504><y_0.457>The opposite polition of friginal lines may indeed\nbe expelled firmly by the two + and — But, in\norder to expect the various other positions of geomne-\ntricical figures by algebra from the principles of geometry, forme relations of magnitude must be found, which\ndepend upon their path, positions, and which can be scalhi-\nbited by equations ; And, convertily, by the fame\nprinciples may the politions and figures is inferred from\nthe equations denoting fish relations of their parts.<x_0.5283><y_0.5742><class_Text>\n\n<x_0.1514><y_0.575>Though this application of algebra appears to be\nindeted, yet fun as the simplicity of the operations,\nand the general nature of its theorems, that investiga\ntions, especially in the higher parts of geometry, are\ngenerally order and more expeditions by the alge-\nbracel method, though lef elegant than by what is\npurely commented. The comentations albo, and ana-\nlegies of the two fiences established by this application, have given rifle to many curious tpecutions.<x_0.5264><y_0.6937><class_Text>\n\n<x_0.5332><y_0.3187>Geometry has been rendered far more extenfire and\nufeful, and algebra itself.has received considerable im-\nprovements.<x_0.9092><y_0.3609><class_Text>\n\n<x_0.5391><y_0.3703>## I. Of the Algebra Expertise of Geometrical Mag-\nminder.<x_0.9072><y_0.4016><class_Section-header>\n\n<x_0.54><y_0.4047>A line, whether known or unknown, is reprefented\nby a fragile letter: a _relcangle_ is properly exprefiled by\nthe product of the two letters reprefening its tides:\nand a _relcangular probability_] by the product of three\nfactors ( wo of which represent the fields of any) its\nrectangular bafes, and the third the altitude.<x_0.9102><y_0.4836><class_Text>\n\n<x_0.541><y_0.4844>There are the molth people copifications of geometrical\nmagnitudes, and any other which has a known pro-\nportion to thefe, may in like manner be exprefled at\ngebranically. Convertively the geometrical magnitudes,\nreprefected by fich algebraic quantities, may be\nfound, only the global dimensions above the third,\none having any corresponding geometrical dimensions,\nmulti be exprefed by proportionals (4).<x_0.9111><y_0.5883><class_Text>\n\n<x_0.542><y_0.5891>The opposite polition of friginal lines, it has been\nremained, may be exprefiled by the first + and—<x_0.9121><y_0.6219><class_Text>\n\n<x_0.543><y_0.6211>Thus, let a point A be given in the line<x_0.918><y_0.6602><class_Text>\n\n<x_0.5439><y_0.6641>AP, any fragment AP taken to the right hand being\nconsidered as politive, a fragment Ap to the left is pro-\nperly<x_0.9131><y_0.7086><class_Text>\n\n<x_0.1592><y_0.7281>(a) All algebrical dimentions above the third multi be exprefiled by inferior geometrical dimensions; and\nthough any algebraic quantities of two or three dimensions may be immediately exprefiled by furfaces and\nfolds respectively, yet it is generally necefary to expref them, and till superior dimensions, by lines.<x_0.9141><y_0.7711><class_Text>\n\n<x_0.1602><y_0.7703>If, in any geometrical investigation by algebras, each line is expelled by a finite letter, and each surface or\nfold by an algebrical quantity of two or three dimensions respectively, then whatever legitimate operations are\nperformed with regard to them, the terms in any equation derived will, when properly reduced, be all of the\nfame dimension, and any fuch equation may be cafily exprefilled geometrically by means of proportionals, as in\nthe following example.<x_0.915><y_0.8359><class_Text>\n\n<x_0.1582><y_0.8352>Thus, if the algebraic equation q-f+f=z=-pXI, to to be exprefed geometrically, a, f, o, and d, being fup-\npointed to repetis flingful here, let a1 e:cf/p, a contained proposition, then so f'd', c/g and a' c'+f+\nb! :a:at+g; then let a:c:i:k;l, and a:c:c:a:l; alfo, let c:dim m:p, and c'd':e:p, or c' c'\n--d':e:ce-p. By combining the two former proportions (Chap. II. Part I.), c':a'+b':::i:at+g, and\ncombining the latter with this lift found, c'--d':a'+b':e-pXI:cxat+g; therefore c-pXI=cxat+g, and\necc-p:i:i:at+g.<x_0.916><y_0.9234><class_Text>\n\n<x_0.8955><y_0.9195>IF<x_0.9199><y_0.9336><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 1948,
+      "completion_tokens": 1450,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 1948,
+    "completion_tokens": 1450,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.404
+}

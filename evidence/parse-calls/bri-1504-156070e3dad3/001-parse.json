@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:36.167138+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "2ddca084b849cee824e66fd4f5cb083c9f93df12d0b369325ad2717c466c8400",
+                "characters": 204431
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-7c30f328-bcc2-4e50-8959-e24cd47f29ef",
+    "object": "chat.completion",
+    "created": 1792322616,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0947><y_0.0766>212 RATTICA.<x_0.6133><y_0.0859><class_Page-header>\n\n<x_0.0977><y_0.0977>Attics.<x_0.1523><y_0.1172><class_Text>\n\n<x_0.1113><y_0.7297>Effects of political intortions.<x_0.1602><y_0.7719><class_Text>\n\n<x_0.1123><y_0.7312>Alfistic the huse of those republican institutions to which it had originally given birth; yet and the blending and intermingling with its natural lights and shadows, produced a composite mass, which novel analysis information has as pre-matic power of resolving their de primary elements. Love of liberty, however, all liberty was then understood, formed the principle so well as passion of the people. To equality of political rights, or, in other words, an equal right in all five citizens to appear to be executed of political powers, constituted the expansion of the situation form of government. Civil liberty, the beauty discovery of modern themes, was then unknow, on and last unemployed. Political equality was that only species of liberty underder employed, the ancient realistic, and in those of day during the middle ages. It was this which had each powerful charms for the citizens of those democracies; it was this of which they were so pas<x_0.5557><y_0.9344><class_Text>\n\n<x_0.542><y_0.0836>sionately unamoured; it was this which gave so effective a stimulus to all the families of the human mind, and pro- direct those vendors are private and of art which have anant- of the administration, and rendered bopeless the reality, of our exciting times. The give of the country to fact foreseen the glory of every citizen belonging to it, and he felt himself directly participate in all that contributed in any way to-works is greatness or economic. For a short time, indeed an oligarchal usurup might oppose the people, or the mun labor of a alternate soldier or early evidence might prove dangerous to liberty; but a sudden popular explosion might overture the one, and the astonstance expire the other. The creation of the a political system upon the national character could not fail to be providedly, and how to motivate products we overcome many of those intractable and poorer, and an increases watchfulness over all their proceedings in an business, personal description of types and sympy; ; an extent and active and In defence of public liberty when assailed, whether from within or from without. Tactics timbulney, locomotives, and love of change, may also be numbered amongst the effects of aspects of government party democratic, but a particularist is it may even these fine than constitute its best [not] to only safeguards. Much has been said that written about my philosophical individuals, which, indeed, has been provedable; but those who donate on this theme do not reflect, while the vice ban question is as the parents’ research or democracy, the exercise of that form of government consists in anxioly guriling against the aggrammament of individualise or classics, and to be speaking separate into attempts to make head above the common level. Republicans have often had occasion to regret their rewards, seldom their arguments.<x_0.9795><y_0.4555><class_Text>\n\n<x_0.5439><y_0.4539>If we are not greatly mistaken, these observations firmly stated a key to the right intelligence of the Germanization theorized.<x_0.9805><y_0.4883><class_Text>\n\n<x_0.543><y_0.4867>Before systems of what were unpuestionally moulded and fashioned by their political institutions. They were able, possible, like to another years of possession, or easily ap-pressed; inconsistent in their affections, but not impossible in their harvest; jsoious, actions, turbulent, impaired of con- and, and you to recover the assumption of superiority; attention to the information of attention afforded them by the citizens, yet citizens yet the best days, ready to express our progress and dangerous patronism; i and of factors, and too good to find a difficulted or to be adulation of sycophants or demagages, but not trans- able to virtue, our unwilling to listen to those domestic parties who proved their diversity by counnguously exposing the vices and folkses of their country to, have in the field and liable to be necessary itself with victory or depressers with performance but seldom chargestically thibonoming success by thibonality to the warspanled, or desperating the defense of defeat by humiliation or subject corrections to the victor; generous in their experiments, hold and me in their opinions inaritable in their property with and admiration of grains; constant in their love of liberty and their country; and now backsee to respect the terms or injustice committed under the influence of periconsidence, passionate excitement, or the heading impressed if an ancient and uncomfortable movement, in their private conduct they were contro, mild, humans, polished, liberal, and collaborated, simple in their manner, popul in their labeling, and has little additional to any kind of orientation or parade, even after their victer trial brought them in context with mental luxury, and when their roles enabled them to rival trophiness and no pose their interests by counnguously exposing the vices and folkses their country to, have in the field and liable to be necessary itself with veterry or depressers with performance but seldom chargestically thibonoming success by thibonality to the warspanled, or desperating the defence of defeat by humiliation or subject corrections to the victor; generous in their experiments, hold and me in their opinions noraritable in their property probably will and admiration of grains; constant in their love of liberty and their country; and now backsee to respect the terms or injustice committed under the influence of periconsidence, passionate excitement, or the heading impressed if an ancient and uncomfortable movement, in their private conduct they were confronts, milk, humans, polished, libera, and collaborated, simple in their manner, popul in their labeling, and has little additional to any kind of orientation or parade, even after their victer trial through them in context with mental luxury, and when their roles enabled them to rival trophiness and in splendour the nation from the concerned. All the sump- tomousand and significance was received for and larked on those public edifices and monuments of art which made Ahena the pride of Greece, the city of the surrounding pan- and the army of the armadination of the world at large. Such was the Athonian Denos in the days of its glory and independence, when, by the mouth of Articlesides, it declared to the ambas-<x_0.9785><y_0.9258><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 1889,
+      "completion_tokens": 1381,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 1889,
+    "completion_tokens": 1381,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.621
+}

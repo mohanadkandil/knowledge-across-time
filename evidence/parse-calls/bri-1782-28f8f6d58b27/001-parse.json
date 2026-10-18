@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:53.867957+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f988cc6c2dc7c9b58e4ed729762b955ce2c709d8bb34b34f20548d82614f63e3",
+                "characters": 234987
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-9a0dd36d-a2f8-4d86-be9b-20459b3c8e64",
+    "object": "chat.completion",
+    "created": 1792322634,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0693><y_0.0352>522 D Y N A M I C S.<x_0.6787><y_0.057><class_Page-header>\n\n<x_0.0684><y_0.0516>ScomLaw of Motion<x_0.1426><y_0.0758><class_Caption>\n\n<x_0.1436><y_0.0578>In the fifth cafe, the relative motions of things are not changed, whatever common motion be compounded with them all; or, as it is usually, but unconvably, expected, although the fences in which they move be carried along with any motion wherever. In the fe-cond cafe, the relative motions and actions are not changed by any external force, however great, when equals or exerted overy particle in parallel directions.<x_0.5459><y_0.1617><class_Text>\n\n<x_0.1416><y_0.1625>Thus it is that the evolution of a fleet in a uniform current are the fames, and produced by the fame means, as in full water. Thus it is that the weak focus on the farline of this globe in the four manner as if it neither revolved round the fun, nor turned round its axis. Thus it is that the fans thereof of a how will communicate a certain velocity to an arrow, whether it is fine eaf, or welf., or north, or south. Thus it is that the mutual actions of finalinary bodies as the fames in what ever direction they are excited, and, withouthanding the very great changes in their velocities by reason of the earth’s rotation and orbital evolution. The real velocity of a body on the earth’s equator is about 3000 feet per second greater at midnight than an midday. For at midnight the motion of rotation nearly confiples with the orbital motion, and at midday it nearly oppo-fes it. The difference between the velocities at the beginning of January and the beginning of July is really greater. And at other times of the day, and other femesions of the year, both motions of the earth are transfi verly compounded with the caferly or welterly motion of an arrow on a canon bulles. Yet we can observe no change in the effects of the mutual actions of this is an important oblertion ; because it proves that forces are to become ordered by on other lease than by the process to thereby produce. We have had re-gated reactions to mention the very different eliminations of moving forces by Mr Lebinbiz; and have flewm how, by very partial consideration of the action of those natural powers called _prefecture_, but has attempted to prove, that moving forces are proportional to the figures of the velocities, and we freeluedly, in what manner a right understanding of what pasties when motion is produced by measurable prefigures, proves that the forces really carried are as the velocities predicted. But the melt Spons good is bad from the perfect observation, that, in fact, the mutual actions of bodies de-pond on their relative motions alone.<x_0.5449><y_0.6547><class_Text>\n\n<x_0.0645><y_0.6523>60 And is incomplete while the proportion only to the figures of the whole thofe motions.<x_0.1309><y_0.7492><class_Caption>\n\n<x_0.1338><y_0.6516>The Lebinbizian monitor of moving force is altogether incompatible with the universal fact now mention- others, that the relative motions of bodies, relating from their mutual actions are not affected by any common motion, or the action of any equal and parallel force on both bodies. for the universal fact imports, that when two bodies are moving with and velocities in the fate direction, a fore applied to one of them, do as to the create its velocity, gives it the fame motion relative to the other, as if the bodies and been at refl. Here it is plain, that the farece defended by the body in consequence of the primitive force, and of the force now added, is the fames of the farece which each of them would generate in a boat at relt. Therefore the forces are proportional to the velocities or changes of motion which they produce, and noto to the figures of thofs velocities. This measure of forces, or the politics that a force makes the fame change, on any velocity when ever, and the independence of the relative motions on any motion that is the famen on all the bodies of a flyt<x_0.5381><y_0.9305><class_Text>\n\n<x_0.5508><y_0.0586>tem, are counterparts of each other. Since this indo-Sem and dependence is a matter of ob alteration in all terrestrial bo-is M does, we are entitled to fay, that the power which is author of Nature has imparted to natural bodies are the way different from what are compared to matter once called into confidence. And it also follows from this, that we mult always remain ignorant of the infoline motions of bodies. The fact, that it has required the uncurrent limbly of any to discover more the relative motions of our folaryliters, is an argument to prove that the influence of, this mechanic principle extends beyond the limits of this bibliamary world's nor has any phenomenon yet been exhibited which should lead to imagine that it is not material.<x_0.959><y_0.2437><class_Text>\n\n<x_0.5488><y_0.243>When we have made ufe of life arguments within BoS forms zalous parzations of Mr Lebinbiz’s doctrine, they B is here have answered, that if indeed this independence of the relative motions, of credited bodies were deferred to join Robin exactly, it would be a conclusive argument for. But the motion with which all is carried along is to great: in comparison with the motions which we can produce in our experiments that the final additions or diminutions that we can make to the velocity of this common motion null observer very nearly the proportions of the addition to diminution of their fareures. The differences of the figures of 2_x_ 3 and 4_x_ are very unequal, but the differences of the figures of 9_x_10_,_13, are much aware on the ratio of equality , and the differences of the figures of 10000017, 0000020, 000020, do not finally deviate from this ratio. But it is not fed, that we cannot produce motions which have a very fertile proportion of the common motion. The motion of a canonn ball, discharged with one-third of its weight of powder, is nearly equal to that of the rotation of the earth’s reason. When, therefore, we discharge the ball eastward, we double its motion when to the wellered, we fishery it. Therefore, according to the exhibits, the section in the first cafe is three times the action in the found. In the first cafe is changes the figure of the velocity (which we see call 1) from it to 2_x_ and, in the found, it changes it from it to 0. Our day the Lebinbizians, the velocity of rotation is but 2_x_ of the orbital velocity of the earth, and our observations of the velocities of canon bullets are not sufficiently each to nature to against an error of 3/12. But the later observations on the peculiar<x_0.9502><y_0.6789><class_Text>\n\n<x_0.5469><y_0.6797>motions of the fixed flare concert in flowing, that the fun, with his attending planets, are carried along with a very great motion, which, in all probability, has a familiar ratio to the orbital motion of the earth. This mult make a prolongance change on the earth’s absolute motion, according as her orbital motion coniprices with, opples, or crodis, the other motion, the earth, may even be at absolute left in time points of the orbit. This will the composition with the motions produced in our experiments he for varied, that cafes mg/ occur when the difference of the relutis of the two meatures of force will be very flexible.<x_0.9482><y_0.8398><class_Text>\n\n<x_0.5479><y_0.8391>But, further, they have not attended to the agree-ment of our experiments, when the discharges of cannon are made in a direction transfer to that of the common motion. Here the numerosity of the common motion, and the minutter of our experimental velocities, can have no effect in diminishing the difference of the results of the two doctrines. This will appear dif-tinently<x_0.9463><y_0.95><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 538,
+      "total_tokens": 2230,
+      "completion_tokens": 1692,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 538,
+    "total_tokens": 2230,
+    "completion_tokens": 1692,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.144
+}

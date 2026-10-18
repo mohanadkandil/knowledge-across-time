@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:14.612749+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "e712b945d7f795da865be89f43e9decebbfc91bf8ac8bc3ccd6e369c753d5d8f",
+                "characters": 227995
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-250ecd83-590a-43e5-b26b-ece17a936060",
+    "object": "chat.completion",
+    "created": 1792322536,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.207><y_0.0375>GRE GRE 753<x_0.9355><y_0.0578><class_Page-header>\n\n<x_0.0625><y_0.0563>_CheEen, one of the original prismatic colours exhibit-_\nd by the refraction of the rays of light.<x_0.4512><y_0.0852><class_Text>\n\n<x_0.0615><y_0.057>_Grees-Cloths_, a board for court of justice held in the\nsuming-house of the king’s household, composed of the\nlast several and other under the who sits duty. Yet this\nsurt is committed the charge and superintendence of the\nleg’s household in matters of justice and government,\nwhich a power to correct all wholesers, and to maintain the\nsince the repre, or jurisdiction of the court-royal, which\nabout two hundred years every way from the first game of\nto palace where his majest resides. It takes its name,\nland of green cloth, from a green cell spread the tree\nwhere she members sit. Without a warrant first do\nfined from this court, none of the king’a servants can be\nresulted for table.<x_0.4521><y_0.2359><class_Text>\n\n<x_0.0605><y_0.2367>In general the discoveries which have been effected in\nthis quarter of the globe have resulted from attempts made\nto discover a novel-west passage to India through the Arctic\nSaxon. The existence of such a commonism is a subject\nwhich from time to time has occupied the attention of the\nBritish government for the last three centuries; and al\nthough much valuable information has been obtained by\nmeans of these vagues, the man object remains as yet uncuncillably\narrived, any important benefits to commence would be derived from\nit. \"The first discovery of Greenland, however was the result\nof accident. Also the missile conflict are generally large and becu-\ntil structures, equally unanneard and useful.<x_0.4531><y_0.3672><class_Text>\n\n<x_0.0596><y_0.3727>_GREENNAND, on GeoensA.ANO, in immense island\nking the next–went of North America, and for the now\nart comprehended within the arctic circle. Formerly it was\nresponse to form part of the continent of America, and the\necovies of recent registration may proved its entire sea\nputation from that country by the Arctic Ocean. Indeed,\nto very days of north-west passage from the Atlantic to\nte Pacific Ocean presupposed that such was the case\nfrom Cape Townell, in most southern extremity, which\nhim the mean of nine different activities in In late.\nFor 780', it stretches on the one side in a north-north-eastern\ndifferent to Smith's Sound, at the top of Buffalo Bay,\nand 7774 49. On the other side of Greenland the figure of\nto coast is exceedingly irregular. For about ten degrees\nmay be said generally to run in a north-north-south-western\nsection, describing during the first five degrees a consi-\nrable anomaly, indicating numerous lines of the sex\nfrom latitude 700 to that of 750 the direction of the east\nmore directly northerly, and from the latter parallel to\nreceks nearly duo northward Ephraberger and the\nlitude of 80\". This side of Greenland has been demoni-\nred East or Old Grounds, and the other side is distinct\nsubject by the course of West Greenland. The average\ndeath may be about 500 miles. Such are the limits usually\nslipper to this country. I does not appear to territory\nhowever, at Knit's Sound. From this point it proceeds\nsuch an far as the entrance to Lancaster Sound and\nhere Stinks, and there is itereits in a weekly discretion\nby several hundred miles. Captain Parry, the discovery\ndied in the track of Country's Davon. To the we were\ntire situated numerous islands, while the same navigator\ntitled North Georgia Islands. The principal of these\nbe Cervallis, Melville Bathura, and Bandy Land, and\nfoundaries of this last being unknown. To the west of\naffair Bay and David's States, there is the large tract of\ncountry, probably separated into various islands by narrow\nrules. Although these would appear to be cleanited\nmy Greenland, they should be included in every descrip-\ntion of that region.<x_0.4541><y_0.9289><class_Text>\n\n<x_0.4678><y_0.0602>The south-eastern portion, from which a vast peninsula Greenland.\nshoes off into Halsele's Stints has been entitled Cum-\nberland. Cupe York, Cape Kater, Vort Bowen, and so on,\nterminate the country towards the north-east. To the\nwestor of the headlines has a met of that discovered\nby Captain Parry, and which he named North Somerset.\nAt the lead of Battle Ray and situated Southampton\nland, Melville Peninsula, Cockburn Island, and some\nmajor libraries. All these regions have are either familiar\ninstead by an unmone bay and indeed, formed it is\nprobable, by the temperatures seas and currents which here\nnecessarily lash the shores and which in many instances\nare expected to pensions across the most gold masses of\nland.<x_0.8721><y_0.2352><class_Text>\n\n<x_0.4668><y_0.2375>In general the discoveries which have been effected in\nthis quarter of the globe have resulted from attempts made\nto discover a novel-west passage to India through the Arctic\nSaxon. The existence of such a commonism is a subject\nwhich from time to time has occupied the attention of the\nBritish government for the last three centuries; and al\nthough much valuable information has been obtained by\nmeans of these vagues, the man object remains as yet uncuncillably\narrive. They are then allowed to come to go out\nuncompilation to commerce would be derived from\nit. \"The first discovery of Greenland, however was the result\nof accident. Also the missile conflict are contrary, one\nof the memente Scandinvian marraders who infect the\nseat at that period was driven by a storm upon the cease\nof Iceland. The Norwegians were not long in establish-\ning colony on this island, which increases so rapidly that\nin little more than a century it was itself able to send out\ncolonise to other parts. In the year 982, Eric, a Norwegian\nchart set sail from Iceland in most of adventures, and inter-\ning to the south-west after a quick now discovered land.\nTwo to three years were spent by exploring the country:\nand Eric being studied with the freshest and texture of\nthe shores is contrasted with the vegetation of Iceland,\nand distance to converge origination to the place, gave it\nthe means of Greenland. On lineum, he gave me eng-\ngered description of the newly-discovered land, in con-\nsequence of what a first of twenty-see sail was unpiped\nand sent out, laten with persons of both sexes, cattle,\nand other necessities for forming a settlement. Only about\nthe ball of the free vessels reached their destination, but other\nadventurers setting out, not only from Iceland, but from\nNorway, the Oktarsy and over islands, in a few years a\nrespectable colony was formed, and a regular trade-\nblished. It seems highly probable that the original colo-\nny of Greenland began about the southern primary\nyear Cape Browell, and gradually extended itself along\nthe coast in a north-worthy direction. Beyond this first\nsettlement another convertedler to the west. The\nformer was called _Clear Dyglic_, or the eastern settlement,\nand the latter _Faste Dyglic_, or the western settlement,\nOrishinity having been introduced about the beginning of\nthe fourth century, numerous churches and concerns were\nbuilt, and the country was divided into regular markets, to\nwhich monks and other spiritual instructors were attach-\ned. The colonies, although confined to lead a life of se-\ncrepression and handbylied continued to increase, and to\nextend to the north. The real which which early Scam-\ndiarian passed their settlements to the northernmost\nparts of Greenland is strikingly selected by a curious mo-\nment, which was discovered in 1834. It contains of a\nsome cases with Rumi characters, which was found each-\ning erect in the ground on the island of Kingkitorsoak, un-\nder the parallel of 730^.<x_0.8545><y_0.8969><class_Text>\n\n<x_0.4658><y_0.8984>For some centuries the commercial intercourse between\nGreenland and Norway was kept up; but about the be-<x_0.8535><y_0.925><class_Text>\n\n<x_0.0742><y_0.9344>2 The following is a translation of the inscription by Dr. Refer, secretary of the Royal Antiquarian Society of Copenhagen (...<x_0.8564><y_0.95><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2384,
+      "completion_tokens": 1876,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2384,
+    "completion_tokens": 1876,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.487
+}

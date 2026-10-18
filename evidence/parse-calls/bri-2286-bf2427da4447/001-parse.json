@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:56.314533+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "2501b722a3fad80afa284d8da78299c978a7d02c393195f813e6b3238e95db3a",
+                "characters": 192515
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-842ea680-1e20-4f79-b406-0fb19b43fb5b",
+    "object": "chat.completion",
+    "created": 1792322697,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0469><y_0.0625>Chap. IV.<x_0.1396><y_0.0813><class_Section-header>\n\n<x_0.0508><y_0.0836>Abdominal\nPloes<x_0.1123><y_0.107><class_Text>\n\n<x_0.2217><y_0.0938>Gen. 3. AANELFS.<x_0.3555><y_0.1078><class_Section-header>\n\n<x_0.0479><y_0.1117>Anabope.<x_0.1152><y_0.1266><class_Text>\n\n<x_0.1035><y_0.1125>Head (mewhat depreffed) month terminal) teeth (mail,\nand placed on the jaws ) eyes protuberant, with\ndouble pupils; gil-mountaine ficayed.<x_0.4502><y_0.1523><class_Text>\n\n<x_0.0488><y_0.1547>_Forr good analysis._ Colois smalloy of Limnus--<x_0.4492><y_0.1703><class_List-item>\n\n<x_0.0459><y_0.1695>**Ibulmus:** Yellowiti-gray, with longitudinal black lines on each\nfide. Length from fice to eight or for inches.\ngeneral appearance like that of a lache, but its eyes\ndiffer from their of every known fifth, each being ap-\npremlyered into two differed eye, upon la a com-\nmon receptacle; on difection, however, this observation\nis found to apply only one has another half of the organ.\nThis fish is a mustor of South America, principal feu-\nquenting the rivers of Surinam, near the fea-coafs.<x_0.4629><y_0.282><class_Text>\n\n<x_0.0449><y_0.2898>Anals.<x_0.082><y_0.3031><class_Text>\n\n<x_0.1074><y_0.3078>Heal bony, naked, rough, and furnished with futures:\nteeth acute, and clude in the jaw and palates; two\nbeards at the nofs; gill membrane twelve-royed;\nbody faly.<x_0.4639><y_0.3602><class_Text>\n\n<x_0.0439><y_0.3664>_culva._ _Carolina mix—With a black foot at the tail)\nfamil, of a roundish form, and delon enten. Inhalata\nCarolina.<x_0.4648><y_0.4031><class_Text>\n\n<x_0.043><y_0.4102>Sirama.<x_0.0879><y_0.4211><class_Text>\n\n<x_0.2256><y_0.4094>Gen. 4. SILURUS.<x_0.3418><y_0.4297><class_Section-header>\n\n<x_0.1084><y_0.4289>Hend maked, jays, broad, and compreffed; mouth fur\nsilhed with beard; pape and throat wide; lips thick;\njaws dentated; tongue thick, (mouch, and very thort;\neye final); gil-membrane furnished hair from four\nto factors rays; body elongated, compreffed, facile, covered with vidl lines; lateral line near the\nback; it be fifty of the pectoral fins, or of the der-\nfal fin, finy, and dentated backwax.<x_0.4658><y_0.5336><class_Text>\n\n<x_0.041><y_0.5391>_glanis._ _Siq, or European filursas—One folk dorfal fin, fix\nbearer. Growns are long length of right, or even on\nterm feet, and to the weight of the hundred pounds;\nbut its ordinary fine is from two to three our four feet.\nIt is flagging, and and deposited in the soft\nbottom of the rivers which is frequent, with his mouth\nhalf-open, moving about the breedy, which she finally\nfiber stalking for women, by hold of, and an extra-\nped. It inhabits the larger rivers of Europe, as well\nas these parts of Asia and Africa, but is ino high eti-\ntimism as a food.<x_0.46><y_0.6742><class_Text>\n\n<x_0.04><y_0.675>_eflireus._ _Fidelity filursas—With one altifoof dorfal fin, and\nfix trends. About trees include lung, vessels in\nthe fore-parts, depreffed, and of a cinerous colour, with\nfrom blocking the towards the salt. It is found in some\nrivers in Africa, and when truck, gives a gallons\nthock, though not fo forage as that from the torpedo\nand gymnasts. It is due to food.<x_0.4619><y_0.7602><class_Text>\n\n<x_0.042><y_0.7609>_eficia._ _Afriei filursas—Brown, all-coloured beneath, with\nbearded longer than the body; farket left, and wherers\nrays in the anal fan. The young of this species are excluded in the form of large over, the integments of\nwhich they from bark, but others to the parent till\nthe yolk is confirmed. Native of India.<x_0.4541><y_0.8367><class_Text>\n\n<x_0.0391><y_0.8398>_estus._ _City filursas—one kinder and full of friends; recently\naway in the anal fan, and eight beards. Inhabit the far\nand rivers of North America, preying on all kinds of\nfinalize follies, and not fearing even those of its own\nVel. X1. East I.<x_0.4531><y_0.8992><class_Text>\n\n<x_0.4775><y_0.082>kind. Talks like an eel, and is much relished by the Abdominal\nAmericans.<x_0.8955><y_0.1102><class_Text>\n\n<x_0.4785><y_0.1109>The other facies are denominated militaris, larges,\nbericharge, terarum, gelatin, moldyta, himmatinas, flyt\ncinna, clarias, grandecimanilang, erythogerea, borra-\nchus, fufilris, vulatus, abbirindes, aficus, myusia, an-\ngulilaris, undatomasia, various, felis, cours, carrinus,\nstones, ciliatings, and blood.<x_0.832><y_0.1836><class_Text>\n\n<x_0.5771><y_0.1914>Gen. 5. PLATSYACUS.<x_0.7217><y_0.2062><class_Section-header>\n\n<x_0.4795><y_0.2125>Halbit of filurus & mouth beneath, bearded with circhi;\nbody facallets, depreffed; tail long, compreffled.<x_0.8281><y_0.2367><class_Text>\n\n<x_0.4805><y_0.243>_Artshialural plungtures. Silura of globo de Limnus cusylpleo-_\nGrows on the length of a four or more, has a very un-unsur,\ncouth appearance, and is remarkable for the many imall\nacrobain incredible, or locksers, with which the body\nis ledes. Nature of the Indian fans and rivers.<x_0.8896><y_0.3406><class_Text>\n\n<x_0.4756><y_0.3414>_Flaredal gingences—Brown, marked above by loss-cerraco-\ngiutuinai warted lines, with front anal fin. Smaller,fu-\nand just elongated than the two preceding. Native of\nthe Indian fees.<x_0.8818><y_0.3906><class_Text>\n\n<x_0.4746><y_0.3914>_Erd/baped playstaceus—Brown, with longitudinal argaille-\nwhite stripes, and the femoral dorsal, and emudral ris_,\nfun united. Length weive up fifteen inches. Native\nof the Indian fees.<x_0.8809><y_0.4422><class_Text>\n\n<x_0.5762><y_0.4516>Gen. 6. LORICATA.<x_0.7207><y_0.4633><class_Section-header>\n\n<x_0.4766><y_0.4703>Head smooth, depreffed & mouth without teeth, and re-\ntradles; gil-membrane fix-ryed; body covered with\na hard craft.<x_0.8262><y_0.5078><class_Text>\n\n<x_0.4736><y_0.5156>_Ribbed laricaria. Silura colatia of Limnus—Vel-collate,\nlandh brown, sealed with a single row of linhaile each\nfide; laid forked. This is a species of great strength\nand bolodos, which inhibits very painful and dangerous\nwould with the future. It is native of the Indian\nand American fees.<x_0.8369><y_0.5891><class_Text>\n\n<x_0.4727><y_0.5906>_Loyal berriesites—One dorlat fin, two beards] length case-\nabout ten o twelve inches. Much alles to the pec-phroda,\nceding, but has a rounded tail. Native of the Ameri-\ncan fees.<x_0.876><y_0.6383><class_Text>\n\n<x_0.4707><y_0.6391>_Soldier laricaria. Siluras callicklay of Limnus—callicb-\nbrown will dependful rounded head, and low offgs.,\nfales on each fide, and roundtail tail. Native of South\nAmmer, where it is its considerable offers as a food.\nSpekkel laricaria—Yellow with bismuth buck pancillats,\ndouble row of fales on each fide ; fins freckilled with\nblacks; and darked tail, why fire out of inches long,\nbut very elegant. Native of the river of Siberian.<x_0.8828><y_0.7367><class_Text>\n\n<x_0.4717><y_0.7375>Tesulted laricaria—Longhemed y yellowish brown; denials,\nwith roasted, bearable mouth, and highly pointed\nfront. Native of the Indian fees.<x_0.877><y_0.7742><class_Text>\n\n<x_0.4697><y_0.775>_Teliber laricaria Juricaria prepfories of Limnus-flavors._\nThey have, treated with borrowers to doralis first and tail\nmarked by transferife bands. Native of the Indian fees.<x_0.835><y_0.8133><class_Text>\n\n<x_0.8213><y_0.8172>Gen. S. Salno.<x_0.8545><y_0.8313><class_Section-header>\n\n<x_0.4688><y_0.8375>Head mouth and compreffed; mouth larges lips finally;\ntonque white, cardlinghamous, and movable; eyes\nmidlife-fixed; lateral teeth in the jaws and tongue;\ngilb-membran furnished with four to ten rays; gill-\nN cover<x_0.8184><y_0.9008><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2410,
+      "completion_tokens": 1912,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2410,
+    "completion_tokens": 1912,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.497
+}

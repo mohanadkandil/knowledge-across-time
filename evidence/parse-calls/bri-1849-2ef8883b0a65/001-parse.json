@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:10.516795+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "124565bc4058ba5b2669e03a2620f491bdffcfd2b00b5e526fe2401ae14105cf",
+                "characters": 232707
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-4bf39dea-7f6d-42ad-876f-05edd77b8b0c",
+    "object": "chat.completion",
+    "created": 1792322653,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0508><y_0.0437>600<x_0.0947><y_0.0609><class_Page-header>\n\n<x_0.4316><y_0.0391>JOHNSTON.<x_0.6484><y_0.0594><class_Section-header>\n\n<x_0.0498><y_0.0641>Johnston: Alps, and had twice visited Rome ; that he had travelled in Germany, the Netherlands, Denmark, and England; that he had selected twenty years in France, and had there be some a husband and a father; and that two wives who were of different nations had been him thirn children. The fifth Olympic restorion to no his native country. The term Olympics more properly denotes a period of four years but but has as in other instances, it is evidently employed to denote a period of five : for it appears that he had spent twenty years in France, and the mentions his peregrinations in other countries. He must therefore have returned to Scotland before the completion of the twenty-fifly year. Sir Thomas Urophan has stated that « before one was full three and twenty years of age, he was hurried poet at Paris, and that most deservedly?\". He spent a considerable challenge in the university of Seattle where his very learned counnyman Andrew Melvic became a professor of divinity in the year 1611. I wish him and the other viviety professor, David Thil Thomas me papers to the lived and to estimate terms; and the names of both are familiar to the readers of his poems. As he realised so long in France, it has been suggested that he there followed the profession of a physician. The names of his two wires are not monto; time); one of them is described as a woman of bo-nomable birth. The one he married in France, and the other belonged to the vicinity of Mehlin, a city in Brambani. In an eley address \"A4 Senatum Mechiliiniers, sem, attracus llamptarum millenn Bullenoscowy\", he speaks of her in the subsequent terms.<x_0.5322><y_0.4258><class_Text>\n\n<x_0.1543><y_0.4273>Qaid moment hahrnyqu gua mans, abente marito,<x_0.4863><y_0.4406><class_Text>\n\n<x_0.1553><y_0.4422>Fundal in grotas fakilis uxor humo? Per pararna regalih liuasn, parturaje pentes, Qine dirinité varen aprutas au volha lapis.<x_0.4844><y_0.4711><class_Text>\n\n<x_0.1191><y_0.4766>He appears to have left her in Britain, and to have repreie et to Mehlin for the proper of processing against this rude soldier some claim which probably corrected to him by marriage. After many delays and match anxiety, he dek taimed a decision in his lawyer, and his feelings during the progress of this inflation are originally recorded in various poems.<x_0.5332><y_0.5641><class_Text>\n\n<x_0.1201><y_0.5633>Before his return to Britain, he had acquired considerable reputation by the exercise of his poetictal talents. Dr Egblicam, another Scottish physician, had endeavent to detract from the reputation of Buchanan, by publishing an acrimonious criticism upon his version of the hundred and found paths, but in no respect he was a very far credit for he let the same time exhibited in contrast a version of his own.” Instead of attempting a serious retribution of his antidrinations, Johnson wrote a very bitter, though a very elegant nature, in which he treated his case as one of decided usually. This poem was specially published under the outline of ‘Comedian College Medical Parafensis de Mania G. Eglishemii, quam proddit scripto, cuti titulus Druffon Pocetuc’s. Ezidaborg, excelcutt Andreas Hart, (Ira Svo. V. A Paris edition of the course class is like–wise mentioned. This publication is anonymous; and when he inserted the poem in the information of his Parayo, he suppressed the name of Englishism, and substituted that of Hypermones Medicaster. Not satisfied with inflicting so signal a condition, he assured the understanding oral Buchanan in another poem, entitled Ongordhus Paras. Paris. 1620, Svo. During the same year, Dr Barday,<x_0.5312><y_0.8398><class_Text>\n\n<x_0.5361><y_0.0633>another learned physician, refuted the captious criticisms John Egblicam, and exposed the purity of the version to -which, which the author's vanity had assigned so compulsions a place.<x_0.9922><y_0.1117><class_Text>\n\n<x_0.5352><y_0.1125>Dr Johnston's next publication bears the title of “Ellegia in Obitum Jacobi Pacifici, Magnae Britannis, Francisc, et Hibernim Regis, Fideiquu Defensary\", Lond. 1625, Also, landed the stated that he returned to his native country in 1632, and continued for some years to reside at Aberdeen; i but temporary, who died in 1682 curriculum, though with some degree of institution, but he had already returned at the period when he himself wrote. Benson conjectures that he was appointed physically to the king, in the year 1633, but his conjecture is refined by the little-type of one of his publications. \" Ellegia due; unad Epicopunth Abr-doncens, de Farris Obitu, allters de Paica rupta inter Scotos es Galles; autore Arturo Jostons, Medico Re-gio\", Aberdenian 1639, No. After an interest of a few years, he published \" George Aratturn Donation Scott, Medici Regi\", Aberd. 1632, Svo. And at the same time appeared in Agibemannian Arct, Boston Scott, Medici Regi\", Aberd. 1632, Svo. The first of these collections he dedicated in verse to Sir John Scot, and the second to the Earl of Landerdale. He soon afterwards published, Canttic Salomonis Irphathana peticetic. Lond. 1633, Svo. This pampheres, which we declared to the king, is accompanied with a specimen of his version of the palma. The specimen includes the seven penential, and the seven consolatory psalays, the former being deduced to Laund galaxy of London, and also last on a Leiskep of Raphoe. Dempster mentons his having translated the psalins into very elegant elegant vezes and it is a true to be presented that Johnston long delayed the publicatin- in order to give his version all the advantage of a elible- rate review. He now produced a selection of short poems, entitled \" Musa Alice.\" Lond. 1633, Svo. They are accompanied with an English translation by Franz cin Kinston. This little work was followed by his complete version of the psalans. \"Paraphmasis poetic Pal-morma Javidla, doctor Arturo Jostons Socio, Accesent ejsaiken Cablon Esberghales, Symbolin Apostoli- cum, Ontario Dominics, Deologus.\" Aberd. 1637, Svo. It is dedicated in elegant and jangestal vesve to the Comises Martschal. Benson suspects the work to have been printed in London during the same year; but but it was printed there in 1657, the one edition may here been confounded with the other. About the same time he tent his aid to the preposition of the 'Dellius' Potomarso scorten hujhs servi illustrum.\" Amst. 1637, 8 om. Riso. These volumes were neatly printed by Bleau, at the ex-pense of Sir John Scots, who himself appears in the field contributors, and who doubtless retained the power of admitting or rejecting. Johnston has frequently been con- sidered as the editor from the circumstances of his having written the election to Scot, and prefaced the \"Musa run Elogia,\" addressed to theses individual. His contributions are more extensive than those of any other writer. The entire collection forms a conspicuous mouiment of the scholarship, ingureth, and taste of our coun- symmas and the scenes of education may only be brought into competition with those of any other writer whose name is to be found in the catalogue of contributors.<x_0.9482><y_0.8359><class_Text>\n\n<x_0.1367><y_0.8523>1 Urquhart's Discovery of a most exquisite Jewel, p. 200. Lund. 1652, Svo.<x_0.5117><y_0.8664><class_Footnote>\n\n<x_0.1348><y_0.8672>2Dullen Postform, contestation George Eglemek Media Regia, At Georgia has made the same knowledge pro Progli- tate Pamphrase Palino contests quiet, Adjicted Prephylactic wasversus Andreev Melvin Cavillum in Arm Region, algue Exigramants. Lond. 1618, 4to--among other works, Ephlan published Pyrotron Windicas in Daven Blackspanhas pro virulent Cela postentiation Magas Britains Regia Looks; cocoa Macchania Hamilton, se ilance virorum primizium.\" Framofruit, 1625, docs. Sir Harry Waters has stated that this work was \"published and printed in divers languages,\" about the time of the king's death. (Relatiue WVictorians, 9 04). ) There is an English edition of a more recent date. \"The Fore-sumer of Revenge ; being two Petitions,\" Ko. Lond. 1642, 4tc.<x_0.9463><y_0.9391><class_Footnote>\n\n<x_0.1377><y_0.9383><sup>1</sup> Dempsteri Historia Ecclesiastica Genils Scortrum, p. 335.<x_0.5146><y_0.9516><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2614,
+      "completion_tokens": 2096,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2614,
+    "completion_tokens": 2096,
+    "prompt_tokens_details": null
+  },
+  "seconds": 5.516
+}

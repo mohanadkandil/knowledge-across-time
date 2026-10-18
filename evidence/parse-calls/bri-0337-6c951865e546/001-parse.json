@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:20.471501+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "391e1903bb7eb0754236b58807fa0b07f806cabc56059035fcea13953fc4954d",
+                "characters": 209787
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-ec9c14a3-b4e4-4420-84b9-1b1ea8cb7e89",
+    "object": "chat.completion",
+    "created": 1792322481,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1973><y_0.0164>REV [414] REV<x_0.7598><y_0.0453><class_Picture>\n\n<x_0.0088><y_0.0398>French Drego, while La Høype, with his division in three chocolate-columns, turned the right flank of the fans wing. One column kept in ave the centre of the Authraina a second attacked the shunk of their left wing, while the third column gained its rear. Thus was that left wing of the combined army completely furnonted and thrown into confition. Eight thousand men were, on this occasion, taken prisoners, and General Provera at half alfs forwarded.<x_0.4814><y_0.1672><class_Text>\n\n<x_0.0098><y_0.168>Thefe violence were one granted over a final or an inactive adversary. On the morning after his first de feat at Millefimo, Benulieu made one of thoef spirited efforts which often retrieve and alter the fortune of war. At the head of 7200 shohe Auftuth troops he attacked, at day-break, the village of Drgo, where the French reputed in security after their fenced. He took the villages, but the French having walked under General Maffena, fent the greater part of the day in attempting to retake. They were there is expelled, and one of their Generals, Gaulfs, was killed. Towards evening, however, Bonaparte in perforn having brought up renforments, the qui’ll was readers, and the Auft- triana retired with the late of 14 mo code preferences.<x_0.4756><y_0.3602><class_Text>\n\n<x_0.0107><y_0.3586>Bonaparte had now thrown himself between the Auft- trian and Sanitation armies. By the poliffinion of the\nstrong poll of Drgo, like right was forced against the efforts of Beaulieu, while he was enabled to act with the maid of his force against the Pfandmonté troops. His enterprise in this quarter were facilitated by the exertions of Augereau, who had opened a communica tion with the valley of the Panama, where Serrure's division was approaching the town of Ceva, each which the Piedmostle had an entrenched camp defended by 8500.<x_0.4707><y_0.5094><class_Text>\n\n<x_0.0742><y_0.5086>On the 16th Angeeau attacked the redouts which covered this camp, and took out of them it which in closed the Piemontees to execute it during the night, and on the 13th then was entered by Serrurier. Comt Colli now retreated to cover Thairs making choice houses of the thought polls, and fighting in them all. He was able, on the 20th, to rapide Serrature; but on the 24t Bonaparte, fill pelling on the Pied-moned general, defend him near Mondolori, and entered that place. The retreating army next endeavoured to make a stand, with in bed quarters at Polifano, and its wings at Coni and Caralos. On the 29th Maffena advanced again! Cherafco, which was specily excavated. Folfano furrednered to Serrurier, and Alba to Agereau.<x_0.4697><y_0.7164><class_Text>\n\n<x_0.0078><y_0.7063>Amrilice with Serie decided by<x_0.0674><y_0.7625><class_Section-header>\n\n<x_0.0117><y_0.7156>Previous to their left movements, however, Comt Colli, on the 23rd of April, the written to Bonaparte, suggesting an amrilies, to allow the King of Sardinia an opportunity of negociating a peace. The French army was now within 4 miles of Paris) and that prince the lawl itself radically reduced to the usedfire of standing a large in his capital, or of accepting fuch terms as the consequence might think it to impede. Bonaparte granted an amrilies, on condition that the three forets of Coni, Ceva, and Tortona; should be delivered up to him, with their artillery and magazines, and that he found be allowed to conti the Pon t Murderia. The amrilice was figigned on the 20th, and it was followed by a formal treaty with the French Republic, which was concluded at France on the 17th of May. The conditions imposed by this treaty upon the King of<x_0.4688><y_0.9398><class_Text>\n\n<x_0.4775><y_0.043>Sirdnia were humiliating and fevere. He gave up to French France for over the duchy and Snowy, and the counties Revolution, of Nice, feeds, and Brutelli. He gave an anonymity to 179% all his subjects that were profecuted for political opinions. He argued that the French troops should have free access to Italy through his territory and, in addition to the fortrefles furrendered by the amriltice, he gave up those of Exilive, Sofía, Brutette, Pallettes, Chacen Dunpini, and Alessandra, to be politically by the French during the way; and they were authorised to ley military contributions in the territory occupied by them. He agreed to recet out torrethes on the field of France, to doendish the fortrefles of Bruurette and Safa, and to discuss how his difficulted conduct towards the kill French ambulator.<x_0.8779><y_0.2539><class_Text>\n\n<x_0.4766><y_0.2516>In the mean time the French army advanced towards the Ze. Beaulieu was deceived by the arcade in the amrilize; which illustrated, that the French should be allowed to crush any river as Valentia, and made all his preparations for refillant quarters. Bonaparte laboured, by feveral evaluations, to confirm this error; and what the Auftlan general wailed for Jim near Vazienia, in various well identified positions, to advanced ladify into Lombardy; and had proceeded fours miles down the river o Placenta, where he arrived on the yah of Mary before the direction of her speech we differed. He immediately fetzed whatever boats or other craft he could find, and affected his package with difficulty, that are being only to form party of Auft-trian cavayl accidentally on the opposite bank, and they did at the approach. Beaulieu in the meanwhile bad fint, when too late, a body of 6000 infantry and 6000 evary, to prevent if polflible the French from paling the river, at Bonaparte, now on the famine date of the river with themselves, not and defeated them on the 8th at the village of Pombio. Another body of 5000 Imperialists, advancing to the suffocation of the different from Amrilike the two was met at Odageno, and supplied by General LaPake of Harpe; but this officer was killed on the oceration. On Parma. 16th 20th Panaparte granted an amrilities to the Duke of Parma, on condition of his paying a contribution of 2,000,000 of French money, and delivering 10,000 quintals of where, 1,000 quintals of ants, and 2000 even, for the rule of the same). This practice also agreed to deliver up 20 of his belt paintings, to be chosen by the French. Thinkl illiquidity was no forever known in France, than many more of letters and shifts monofrated against it as both impolitie and utelde. They contended, that it would render the Paris Republic odious to all Italy, without producing any advantageous compattoate this evil, as the progrés of the arts could not be promoted by remonging their bell productions from the forces in which they originate. But the Director was too much accepted by views of national grandmothers to listen to conforations of this kind, and familiar filquation were ordered to be inferred in every future treaty; by which means the most valuable condition that they were gradually transferred to the French capital.<x_0.876><y_0.8602><class_Text>\n\n<x_0.4873><y_0.8578>Beauty, now driven from the Fly, conflict the Addai at Looli, Fitzghithons and Cronoman.\" He left fome troops, however, to defend the approaches to Juddi. The advanced guard of the French attached their on the 20th, and drove them into the town; which was entered in fuch clot purfund, that the Imperialists on leving<x_0.8662><y_0.9586><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 488,
+      "total_tokens": 2280,
+      "completion_tokens": 1792,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 488,
+    "total_tokens": 2280,
+    "completion_tokens": 1792,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.336
+}

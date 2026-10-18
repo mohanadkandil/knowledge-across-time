@@ -1,0 +1,15 @@
+{
+  "selection": 100,
+  "parsed": 99,
+  "compiled": 99,
+  "comparisons": 0,
+  "reviewed_successes": 0,
+  "reviewed_failures": 0,
+  "failure": "Row1261: Parse repeats geometry figure labels and finishes at token limit. Explicit larger-budget probe rejectedHTTP400. Both attempts retained.",
+  "remaining": [
+    "GPU retrieval service deployment",
+    "Token Factory key",
+    "Live matching/comparison and6 reviewedHermes cases",
+    "Three-minute demo video"
+  ]
+}

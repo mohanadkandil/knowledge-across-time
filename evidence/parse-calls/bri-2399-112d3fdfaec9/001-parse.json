@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:12.352693+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f0c3d7f833b71db3fdb503bb44fd6785548588f2370ef5caa650612fd51ef1ac",
+                "characters": 184355
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-13c5fb6c-ac98-47d5-9701-640ab667ac7b",
+    "object": "chat.completion",
+    "created": 1792322713,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0186><y_0.0813>S W I F 167 T SWI<x_0.7129><y_0.0781><class_Title>\n\n<x_0.0176><y_0.0828>Bucnity. There are four different ways of turning one’s list in favouring. You may do it in this way: Turn the palm of the right hand outwards, extend the arm in the fame manner, and make a contrast movement with the left hand and left area then, by a gradual motion, incline your head and whole body to the left field, and its evolution will be behind. Then is another way which is one fillt. Bend your head and body toward that file to which you are going to turn. If you wish to turn to the left, include the thumb and the right hand toward the bottom, bend the fingers of the right hand, ifted it can, and it for driving my the eyeer files, or, which is the same thing, for pulling yourself the contrary way. At the time time, with your left hand, the fingers being click, path the water behind you, and all it once the year your body and your face to the left, and the moment we will be accomplished. If you will to turn on the right, you wait do with your right hand what you did with your left, and with your left what you did walk your right. You must be careful when turning yourself never to flyeted out your legs, and be done that the work be to deep deep yoube in no danger of hurting yourself.<x_0.4492><y_0.3602><class_Text>\n\n<x_0.0166><y_0.3617>When you are fewinning on your belly, and with to turn into some back, every your face to guide and know them before you; i flyetle out your hands behind you, and keep your body from and flexibly. When you wish to turn from, beginning on your back, fold your feet at one end under your body as if you were throwing them to the bottom, and at the fans adjust their your body forward, that you may help open yourself.<x_0.4551><y_0.4609><class_Text>\n\n<x_0.0156><y_0.4617>In feminning, the eyes ought to be turned towards leaves. This is such important role, and to the eye of it was of the accidents which belief firmmers are owing. For each they had their eyes downwards, this inevitably bend the/jed too, and thus the mouth being too deep in the water, may admit a quantity of it in breaking by bullies, the more the boy it freebels, it covers a greater part of the furties of the way, and can frequently its specific gravity is laid. Any person who will make the experience will find it impossible to drive while keeping his hand credit and lie eyes fixed on the browser (A)<x_0.4482><y_0.6039><class_Text>\n\n<x_0.0195><y_0.6047>How to fixim on the back<x_0.0713><y_0.6445><class_Section-header>\n\n<x_0.0742><y_0.6023>The actual pollure in feminning is lying on the back. When you wish to swim in this pollure, lay yourself easily on your back, and ask your heart to the further of the water, keeping your body extended in the lane line. That you hands only were the upper part of your skips, and throw out your keys and then them in alternately, keeping them within two feet of the furface. In this way you may advance an any direction you prefer. You may perhaps use like having to much of your head under water; there is, however, no way of feminning to rely, fo life, and fo little firging. If you wish to<x_0.4473><y_0.7484><class_Text>\n\n<x_0.4639><y_0.0773>fwin with great rigidity, you may rule your arms as well wimming in your feet; and you will find this the caffelt way of breaking the force of the waves.<x_0.8916><y_0.1172><class_Text>\n\n<x_0.4648><y_0.118>In iminating on the back, you may advance forward and our well or backward. For this purpose the body mult vance for be kept fraight and extended; the bench instead, if swands, that the below of the back may allow a femintical form. The hands mult neither over the upper parts of the thighs. It also specifies for ease the leg cross afroanter and draw them in frequently extends the ham, and then leave them flopended in the water. This way of feminning is not only pleasant, but may have to eat you when fingersped.<x_0.8281><y_0.2406><class_Text>\n\n<x_0.4658><y_0.2398>When you see tired with feminning on your back and flow to belly, you may fein on one side. When you wish to join on deno, do this, fork a little your left side and safe your right; you will immediately find yourself on your left side. Above then your left hand without either rolling on the big it; you have only to frettele and draw it back, as in a fraight line, on the surface of the water. Indepen- that of the feature which the kind emotion will give you, you will have the fattieflion of feeling both sides of the river.<x_0.8721><y_0.3625><class_Text>\n\n<x_0.4629><y_0.3633>It is possible to swim on the belly without the affilt-flow to once of the hands. For the period you and keep your bones over breit creë, your neck fragile, and the your hands to the belly hind your head, or upon your back, while you move the affil-forward by employing your feet. This way is not with aware of the out its advantages. It is an excellent reference when the hands, arms are forced with a cramy, or with any appliqutions which makes it painful to exert them. This in fine cafes may be preferable to feminning on the back; for while in the attitude, the means to reduce the value and turning every million. I can of your legs be closed with a crampy, take hold of it with the hand opposite to it; and let the other hand and leg to advance the figure youfeit.<x_0.8262><y_0.5359><class_Text>\n\n<x_0.4619><y_0.5367>At very ancient and graceful mode of feminning, is how to think of feminning with the hands joined. When you fwin with with to put this in practice, join your hands, keeping the hands the thunner and fingers towards heraven, to then buy violin.<x_0.8906><y_0.6117><class_Text>\n\n<x_0.4609><y_0.6602>As a perform may foundations have creation, entry with the founding in the hand in feminning, which he is anxious hands to preserve from the water, he may fwm effily with weak. One hand and held a pared in the other, as Coel forum with the Commentaries Alexandris; so one may fwin with both bands elevated. To perform this well, the fwinners multi rails breat), and keep it as much inflated<x_0.8809><y_0.7477><class_Text>\n\n<x_0.0762><y_0.7828>(A) An interesting question occurs here, which deferves to be considered. Since the body, when spread upon the farlets, can be tipperd with a little exertion, and frequently without any an alt, as in feminning on the back, how does it in and shine a portion when drowned filled the frequently begin again from time intervals.” The reason is this: In the art of drowning, the lungs are filled with water, and consequently the body, being specifically heavier, risks. It is well known that the human has constant a great quantity of air? We are far in full compelled by the world, and which this is the cold the body remains at the bottom. Just as soon as the set by its elasticity endeavours to dilengage lifelf from the comporffon, the body is fvelled and expunded, becomes facifically lighter than the water, and consequently rides to the top.<x_0.8213><y_0.8852><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2096,
+      "completion_tokens": 1578,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2096,
+    "completion_tokens": 1578,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.529
+}

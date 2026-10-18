@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:16.071072+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "06c23243f59deb5cf69bc6b771d37a848a8d27b63b4437292c9bfc52a645e5db",
+                "characters": 177267
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-c61c5efd-15c4-482d-acd5-1a8765ed5b68",
+    "object": "chat.completion",
+    "created": 1792322657,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0898><y_0.032>154 INDEX<x_0.5566><y_0.0508><class_Page-header>\n\n<x_0.1455><y_0.0703>TRA-TRI<x_0.2383><y_0.0758><class_Section-header>\n\n<x_0.0879><y_0.0875>Taat on Morter XX, 316. Toimmon, lake, XVII 5.\nTarason, Dallintii, XXX 516.\nTara, in Dalintii, XXX 516.\nXatavoror, XXX 516.\nTara, in veteranyn zen, XXI 629.\nTara, and other words of effect on\nbells, 513. Textbook, XL 317.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, Invitation zen, XXI 629.\nTara, and XIX 818.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 817.\nTextbook, XXI 818.\nToday, XXX 518.<x_0.2822><y_0.2844><class_Text>\n\n<x_0.0889><y_0.2852>Tarason, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 818.\nTextbook, XXI 8.\nTextbook.\nXXI 8.<x_0.9941><y_0.9453><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 6124,
+      "completion_tokens": 5626,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 6124,
+    "completion_tokens": 5626,
+    "prompt_tokens_details": null
+  },
+  "seconds": 9.399
+}

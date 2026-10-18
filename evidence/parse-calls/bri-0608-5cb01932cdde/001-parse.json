@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:48.183780+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "3dc7ae924bbcf14d34c14630b2c6ad332a2eb1367139da88c808bef545fe75cc",
+                "characters": 164811
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-59903fa8-bf97-4670-bd07-6f4c5c9d8bc0",
+    "object": "chat.completion",
+    "created": 1792322509,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2129><y_0.0422>QUA 597 I QUA<x_0.7461><y_0.0625><class_Page-header>\n\n<x_0.041><y_0.0633>Quantity,<x_0.0986><y_0.1047><class_Picture>\n\n<x_0.0977><y_0.0672>in every problem by the very persons who hold by the other president of factors, although such conduct is ritina- the giving or that business. They all adopt, in every investigation the two theorems _jf_=0, and _jf_=0 v? both of which tipically has accelerated force if proportions to the velocity w which it produces by its uniform action during the time _t_, and the theorem _lf/f_ =0 in the sgoth 1. Principly, and is the _cooperate cuirism obor- nous._<x_0.4609><y_0.1938><class_Text>\n\n<x_0.0996><y_0.1977>This famous dispute (the only one in the circle of mathematical fiction) has led us somewhat safer. But we have little more to connect with respect to reasonable quantity . We cannot say what varies of quantity are fulceptible of their medium or not his is impossible to give accuratement of every thing fotely false sug-mentation and diminution. We affirm, however, with confidence they pleats, joy. See, are not made up of their own parts, which can be consequated legal ratably but they may chance to be allocated by an instance with identifying that it is needed; and we may one day the able to align their degrees with as much pre- efficient as weare often the affected warmth by the separation of the field in the thermometer. There are some finite in which they were still the mostent, vice moment\\- velity in Newton mentions clearly on matters. See. We can conceive the pain of each of a dozen men to be the time. \"There is a evidence that the pain of digital of bad men is too that of the terming him as we come ome but from facts iminformation we do not farece any benefit files or write.<x_0.4629><y_0.4555><class_Text>\n\n<x_0.1016><y_0.4562>Quartery, in _Gremman_, an affection of a fyllable, wherely is meeting, or the time whatever it is promen-e, is in directionally for each which information that fylible to be long or thort.<x_0.4639><y_0.5047><class_Text>\n\n<x_0.1025><y_0.5062>Quarting is all the object of products and dilino- geities were torn propels and the economy and arrange-ment of quantities, that is, the distribution of long and hence fylibles makes what we will the modern. See Portry, Part III].<x_0.4619><y_0.5687><class_Text>\n\n<x_0.1035><y_0.5695>The quantities used also to be difficulties among grammatures, by the characters \", short, papers and \", long as etc.\". These is also a common, variable, or deu bots quantity y that fits fylibles than are a one true tartsken for short ones, and at another time for long ones’ as the last fylibles in _dining pots,_ as<x_0.4648><y_0.6438><class_Text>\n\n<x_0.1045><y_0.6445>QUABANTINE, is a unit which dhow mult un- dergo when subjected of a spellbinding infectima. It may be ordered by the living, with advice of the prints caused, at the things, and under tech regulations, as he judges proper. Ships ordered so quarantine must repreto to the place several, and make conditions there during the time preferred (generally fix weeks): and mail have no intercourse with the theory, except for necellity problems, which are covered with every possible precautions. When the time is excited, and the goods pressed and records to be air as directed. If there be no appearance of infections, they are admitted to post.<x_0.4658><y_0.8055><class_Text>\n\n<x_0.1055><y_0.8063>Ships infested with the petitiones null proceed to St Helen's Pool, in the Selly Islands, and give notice of their frustrations to the comunhetic officers, and wait till the hearing’s picture to known.<x_0.4668><y_0.8562><class_Text>\n\n<x_0.1064><y_0.8555>Perons giving false information to avoid performing quarantines, or relating to go to the place appointed, or<x_0.4678><y_0.8852><class_Text>\n\n<x_0.4834><y_0.0641>cleaning, allo officers appointed to fee quarantine per- formed, defeating their duty, or young a false certificate, after Charles als Ross.<x_0.8916><y_0.1016><class_Text>\n\n<x_0.4824><y_0.1023>Goods from Turkey, or the Levant may now be land- without learned from the long or certificate that they have been loaded and acted as some foreign port. See FALOU<x_0.8408><y_0.1523><class_Text>\n\n<x_0.4814><y_0.1531>QUARLES, FRANGES, the fun of James Querles clerk to the board of green cloth, and purveyon in Queen Elizabeth, was born in 293. He was educated Cummings because a member of Lincoln's him; and was for none time cupcurecer to the poem of Hobo- man, and encourages the city of London. It was probably on the run of her affairs that he went to Tre- land a secretary of Archibal Village, but the tracks in that kingdom facing him to name, and not find- ing affairs more as passes in England, four discipline the same, with were thought in the real behind his death, which happened in 164. His works both in profes and wife wrote a memory, and not formerly in great science, presumably his Chinese Emblemant that the co- folets mainman of this flyb has caused them to full into insects, exposing many pesticides claims of diseases, conflict.<x_0.8906><y_0.357><class_Text>\n\n<x_0.4805><y_0.3578>The memory of Quarter, Jays a late author, has been _fact here_ braised with more than camera shing, and he learns to five pro- even noticed directly from the corner of being read _next rig._ If his poetry failed to gain him friends and readers, his _Jogo Party_.<x_0.8896><y_0.4031><class_Text>\n\n<x_0.4795><y_0.4039>My should at least have become him practical goodwill. He too often, you doubt, methods the enthusi- nation of derrection for the inspiration of fancy to mid- the waters of Jordan and children in the time cup, was referred for the hand of Milton; and for him, and then only, to find the kind of Mount Oliver equally section with kind of Famillies. Yet, as the definitions of a real people mind, however, therefore by unacached of objects, will be hidden rendered really abories, we find in Quarles original imagery, thinking setformants, fertility of expertise, and happy combus- times together with a composition of figure that me-ris the observation of the written of verde. Gruidde- defence of judgement, and the inability of his objects, concerned in running him. Perhaps no circumstance whatever on my a more complete idea of Querles association than a few edition of his Emblemat; the following gallage is extracted from the prefee: ‘‘ Mr Francis Querles, the author of the Emblem that go under his names, was a name of the most exemplary piece, and had a deep insight into the properties of our key purpose. Bring for all that, the book itself is written in to God a language, that many parts of it are force to intelligent in the perfect age, many of all in phletic one fo addeded, that no perfect, who has soy tails for crack- ing, can spune them with the half degree of plantlets, many of his experience are both in the domestic whole grains included in a parenthesis, by which the mind of the reader is devoted from the principal subject. This faith constitutes our code can be the inferior to an ordinary reader, because he causes underlined them. Include theachers to accommodate the public with an edition of Querles Embiens properly masterful, his work was undertaken. Such an exhibition of Querles is attending Columbia to any, or making John Duke of Marthorough a train-land corporal.”<x_0.8955><y_0.8547><class_Text>\n\n<x_0.4785><y_0.8539>QUARRIES, a name commonly given to an ex- tricodinary crevent under the city of Paris, the cath-<x_0.835><y_0.8891><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2168,
+      "completion_tokens": 1670,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2168,
+    "completion_tokens": 1670,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.75
+}

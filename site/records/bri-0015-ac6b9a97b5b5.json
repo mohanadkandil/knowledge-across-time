@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0015-ac6b9a97b5b5",
+  "row_index": 15,
+  "volume_id": "193913444",
+  "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 20, Sculpture-SUR - EB.15",
+  "label": 0,
+  "sha256": "ac6b9a97b5b5919d392457944d4569f4a3765d38ae74682dc3097a3a5217542b",
+  "width": 600,
+  "height": 814,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=15",
+  "manual_seed": false,
+  "image_file": "../images/bri-0015-ac6b9a97b5b5.jpg"
+}

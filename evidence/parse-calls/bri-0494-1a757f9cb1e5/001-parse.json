@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:36.488014+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "cab9ab415557c34884adaabed3c02c8069b24bbd1b542d2b48d4f5f235400e6b",
+                "characters": 215067
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-2d70bd22-ee57-40f5-b76e-7450d928cd2b",
+    "object": "chat.completion",
+    "created": 1792322497,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0557><y_0.0375>630 LA W. Part III<x_0.9756><y_0.0602><class_Page-header>\n\n<x_0.0566><y_0.0617>Law of Sectional<x_0.1182><y_0.0859><class_Caption>\n\n<x_0.0527><y_0.1273>_Their res-quiites._<x_0.1123><y_0.1547><class_Text>\n\n<x_0.1201><y_0.057>by the debt, or deed, of any of the heirs succeeding thereto, in prejudice of the substitutes. It was long doubted, whether such tailzies ought to be effected, even where the superior’s consent was obligated; be cause they mark the property of estates, and created a perpetuity of lifecents. They were first explicitly antherized by 1485, c. 22. By this status, the truth must be registered in a special register established for that purpose; and the irritant and resulative clauses must be inserted, not only in the promocatories, precepts as security, by which the tailzies are first contested, but in all the after conveyances thereof; other wise they can have no force against singular successors. But a tailzie, even without those recipients, is the against the heir of the granter, or against the institute who accepts of it. I has been found, that an entail though completed by interference before the act 1485, was infectical, because not recorded in terms of the act.<x_0.5078><y_0.3109><class_Text>\n\n<x_0.0469><y_0.3156>Hein of entail, the powers and rewrite.<x_0.1064><y_0.3703><class_Text>\n\n<x_0.1191><y_0.3164>22. An heir of entail has full power over the entail- estate, except in so far as he is expressly fettered; and an estatalise en an unaware central upon pro- party, and a frequent cause trading people, they are _strictissimi juris_ s so that no prohibition or irilarities are to be inferred by implication. By 16 Geno II: e. r.t. heirs of entail the entities (notwithstanding any are striction in the deed of entail) toprove their estates by gratuiting bases, building farm houses, drawing, are closing, and coaching under certain limitations, and to claim repayment of three-fourths of the expense from the next time of entails. \"This may extend to all tail-ize, whether more prior or posterior on the 1485.<x_0.5039><y_0.4875><class_List-item>\n\n<x_0.042><y_0.4883>Contraven-tion, by whom in-ferred.<x_0.1084><y_0.5344><class_Text>\n\n<x_0.043><y_0.7828>In what exacta an heir any sell.<x_0.0938><y_0.832><class_Text>\n\n<x_0.1104><y_0.7844>23. When the heirs of the last person specially call- ed in a tailzie come to succeed, the irritancies have no longer any person in favor of whom they can operate, and consequently, the fee, which was before tailized, becomes simple and unlimited in the proportion of much heirs. By the late set2ch George II, for establishing weverhaling, the king may purchase lands within Scotland, handwithstanding the intricate entail; and where the lands are in the hands of minors or futuous persons, his majesty may purchase them from the cerators or guardians. And heirs of entail may suit to their vis-<x_0.498><y_0.9336><class_Text>\n\n<x_0.5176><y_0.0625>als the superiorities belonging to the estailed estate; Law of but in all these cases, the price is to be settled in the Southeast same manner that the lands or superiorists sold would settled before the sale.<x_0.9668><y_0.1164><class_Text>\n\n<x_0.5098><y_0.1172>12. Rights, not only of land estates, but of bonds, Rights are sensitive granted to two or more persons in con-tokens in just free. Where a right is so granted to two arran-conjunct gere, without any special clause adjudent to, each affect them than an equal interest in the fee, and the part of the deceased descends to his own heir. If the right be taken to the ten jointly, and the longest lives and their heirs, the several shares of the compact facts are affectedably their creditors during their lives; but, on the details of any one of them, the current has the fee of the whole, in so far as the share of the predecessed re- mais free, after payment of its debts. Where the right is taken to the tree in conjunctive fes, and to the heirs of one of them, be to whose heirs the right is taken is the only here, the rights of the other resolve into a simple different; you need to address the right to himself and his son jointly, and to the son's heirs, such right being rumours, left and understood to strip the fa- ther of thee, unless a contrary situation shall plainly appear from the tenor of the right.<x_0.9609><y_0.382><class_List-item>\n\n<x_0.5156><y_0.3828>16. Where are right is taken to a husband and wife, in conjunction fee and lifetime, the husband, as the pres-son digator, is the only fan : the wife's right resolves into a fifteen, unless it be presumably, few small circumstances, yet the forex intended to be in the wife. Where a right of movables is taken to husband and wife, the heirs of both succeed equally, according to the natural meaning of the words.<x_0.9619><y_0.4906><class_List-item>\n\n<x_0.5146><y_0.4898>27. Heirs of provision are those who succeed to any idea of subject, written of a provision in the creatives, or provision. order deed of settlement. This application is given post commonly to heirs of a marriage. These are more favourously regarded them heirs by simple distribution, who have only the hope of successors, for hours of a marriage, because their provisions are concluded by an obvious contraté, causes the disappointment than by our stratifying deal of the father. Nevertheless, as their right is only a right of succession, which is not designed to contain the father from granting overseas national bank, he continues to have due to full power of selling the subject, or charging it with debts, unless a proper right of credit to give on the heir by the marriage contract, to, g. if the father should oblige him-self to infelt the heir in the lands, or make payment of the sum provided against a day certain, or when the child attains a certain age, fóc; iše such thing, when perfected by infelment, or secured by diligences, are affected against all the posterior deeds of the father, even uncover.<x_0.9502><y_0.7711><class_List-item>\n\n<x_0.5166><y_0.7719>18. Though all provisions to children, by a mar-Effects of range control conceived in the ordinary form, leaning, designures merely rights of succession, are postponed to every one-the-shirt, rose debt of the greater, even to those contracted po\\_dres.<x_0.9463><y_0.8258><class_List-item>\n\n<x_0.5186><y_0.8266>sterion to the provision; yst where a further executes a bond of provision to child actually existing, whether such child be the heir of a marriage or not, a proper debt is thereby counter, which, though it is without doubt, positions, is not only effective against the fa- threr himself and his heirs, but is not reducible at the instance even if his prior oncron credits, if the case solves at the time of granting it. A father may, not-<x_0.9473><y_0.9453><class_List-item>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2023,
+      "completion_tokens": 1515,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2023,
+    "completion_tokens": 1515,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.143
+}

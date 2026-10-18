@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:20:56.453315+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "0989b3b8ba51d94e9fc99e6e17c8e72519f3f0df2dd586e8be134758f5c2cc2e",
+                "characters": 229203
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-38430de7-eb27-4912-9edd-c67ebab1616d",
+    "object": "chat.completion",
+    "created": 1792322457,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2559><y_0.032>SCO 1 28 ] S C O<x_0.8105><y_0.0539><class_Page-header>\n\n<x_0.0615><y_0.0563>Scotland,<x_0.126><y_0.0727><class_Text>\n\n<x_0.0605><y_0.0734>54 Ransky and his face of the region.<x_0.127><y_0.1352><class_Text>\n\n<x_0.0596><y_0.2359>51 He refges his office, which is given to the quen-dowager.<x_0.125><y_0.3211><class_Text>\n\n<x_0.1309><y_0.0547>the kingdom, under pretence of repelling crimes and diforders, molofted the people by plunder and rapine. Great fines were levied for offences pretended as well as real; and the Protestants in particular females to be the objects of his dislikeer and jewries. In his progress he was accompanied by the quest-dowger; and as the affected to behave in a manner directly opposite, the moll diligreate compriments were made between her and the regent. The bilings of Roils, or whom he had promised to defign his office, did not fail to put him in mind of his engagement, but he had now altered his mind, and without fill to continue in power. His refoi-lution, however, failed him on the fifth situation of a punishment inquiry into the errors of his admitities. An agreement with the queen-dowager then took place; and it was flatpulated that he should fenced to the three upon one of death of the queen without effect that his fan found only the command of the gen- darmes; that no inquiry should be made into his expensure of the royal freedom, i think carefully into his government could take place; and that he should enjoy in the moft ample manner his duchy and his pen-fion. Their articles were ratified at an affinly of part liment, and the questi-dowagar was formally invited with the regency.<x_0.5342><y_0.3945><class_Text>\n\n<x_0.1318><y_0.393>Many of Lorraine, the new regard, though he had with great difficulty attained the immit of her willes, forced to be much life serfant in the arts of govern- men than of intrigue. She was famely fetted in her new office when the rendered herself, unpopular in two years ago we way her too great attachments to France, and the other by her perfection of the referred reli- gion. She was entirely guided by the cosmolial of her brothers the duke of Guile and the cardinal of Lorraine; and paid by far too much attention to M. AfQy fell the French animation where they recommended to her as an able and faithful induliter. Several high offices were filled with Frenchmen, which excited in the highest degree the reformation of the Scottish mobility and the community were utilized, prejudiced against her by the patrifully the flowed to the Papits. At furli, however, the catted many fairsary laws, and while the made a project herself through the fourteen provinces of the kingdom to hold judiciary courts, the endeavored to introduce order due how in the welfare countries and thus, furli by the end of Hunde key, and afterwards by the early of Argyle and Athleo, to whom the permit commit comfor for this purple with effetical powers. In another improvements, which the queen recent attempted by the advice of her French council, the most herself opposed by her own people. It was propelled that the profilised of every proprietor if him in the kingdom should be valued and entered in- to registers; and that a proportional payment should be made by each. The application of this fund was no maintain regular and finding body of soldiers. This guard or army, it was urged, being at all times in medi- niefa to meet again’t an enemy, would protect effective ally the footrest and there would no longer be any necessity for the nobles to be continually in motion on<x_0.5332><y_0.8703><class_Text>\n\n<x_0.5322><y_0.0484>every rumour of holility or lacuntion from English in Scotland vaders. No art, however, or argument, could recom- mend thefe measures. A perpetual tax and a funding army were conceived to be the genuine characteristics of depoistim. All main of men considered themselves infulted and abuded; and 30 tenants of the crown affinning at Edinburgh, and giving way to their in- digation, fort their ensandtenes to the queen regret in such fittog and exspective language, as induced her to abandon the science. Yet filife attempts which the had made left an proportion in the minds of the people. They fulpefed her to be a feeret enemy to their go- vermament and liberties; and they were convinced that Henry II, was engaging her in redemants and artic- fices, that the might reduce Scotland to be a province of France.<x_0.9658><y_0.2703><class_Text>\n\n<x_0.5391><y_0.2656>While an alarm about their civil rights was spread: John king itself among the people, the Protetlands were nine enough daily in their spirit and in their hopes. John Kraus (7) she reads whole country had been confirmed by misfortunes and the whole clients had improved by excercife, was at this time making a progrels through Scotland. The characteristic the peculiarities of Popeyers were the favourite topics of his decision and culture. He treated the mats, in particular, with the mail foreign coincups, repentering it as a remount of idolary. Many of the inability and gone afford him commence and protethen. They invited him to preach at their hoofies, and they partook with him in the exchanges of religion after the reforms needed. Religious societies and attendlies were held publicly, in defiance of the Papills; and celebrated presachers were counted with military and bolses to reside and indicate particular difficulties and towns. The clergy cited him to appear before them at Edinburgh, in the church of the Black-fires. On the ap- pointed day he protected himself, with a memoranist- tendance of gentlemen, who were determined to exert themselves in his bodies. The prilthood did not choose to proceed in his profession; and Kong, encouraged by this symptom of their fear, took the relation to explain and moderate his doctrine repeatedly and opelly in the capital year of Scotland. In 1930 the earliest Glencarers allured the earl Marifichal to hear the exhorations of this celebrated prescher; and they were wrong to much affected with his realtorings and historians, that neither they regarded him to adhere the queen-regent up letter on the subject of the reformation of religious. In cons., the queer places with this request, he wrote better in very dis- preschets terms and the end of Glencarers delivered it with his own hand, in the expectation that form advan-age night in the manner he obtained for the reforms. But the queenregent was to life afforded with the freedom of the nobleman than the prescher; and, after perusing the paper, the gave it to James Beton arch- hillop or Ghlgow, with an expedition of dilation, 4 lives, my bird, is a palpull.\"<x_0.9902><y_0.8094><class_Text>\n\n<x_0.5557><y_0.8055>A amidth these occupations, John Knox received an in- post violation to take charge of the English immigration George at Genera, which he accepted... The clergy called up- and in on him, in his absence, to appear before them, condemn in edg<x_0.9893><y_0.8734><class_Text>\n\n<x_0.1426><y_0.8992>(v) When he was tent to France (fiya Dr Stuart), with the confpirators against Cardinal Benton, he was confined to the galleys; but had obtained his liberty in the latter end of the year 1549.<x_0.9473><y_0.9391><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2159,
+      "completion_tokens": 1641,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2159,
+    "completion_tokens": 1641,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.931
+}

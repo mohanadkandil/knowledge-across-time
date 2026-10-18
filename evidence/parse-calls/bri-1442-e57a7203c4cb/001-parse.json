@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:22.764840+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "d16746cb32f40dfa1cb93ad7baf52a49c38aff0402e70f576cfe84a9280e2cd9",
+                "characters": 217583
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-809dd696-d363-4671-9173-dfbac246ae0d",
+    "object": "chat.completion",
+    "created": 1792322604,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1768><y_0.0266>ENG [ 649 ] ENG<x_0.7354><y_0.0453><class_Page-header>\n\n<x_0.0059><y_0.0469>Regland.\nking fent him a melfage by the dukes of Norfolk and Sufolk, demanding the great feel - the cardinal refi-f to delete it without a more explicit warrant; upon which Henry wrote him a letter, and no receipt of this it was initially given on. The fell belowed on Sir Thomas More: a man who, belles elegant literary talent, was polffelfed of the highest capacity, integrity, and virtue. Waffey was next commandable to begin from Your title picture places which he hadish in London; and which, though it belonged to the fee of York, was now (feel by the King, and afterwards because the re silence of the Shiffin overnight, under the name of _Wiltball_. All his furniture and plate, the richness of which learned rather proper as a manner than a fa-le, was first for the king’s wife. He was then com- mandated to retire to Efter, a country-feat which he published near Hungary court, and there to wait the king’s pleaded. One different another, and his fall was at length completed by a fummoms to Lon-don an aufwers a change of high-traslon. This means he as fish resulted to answer, as being a cardinal. However, being an length perfedade, he fet out on his journey, but was taken ill, and died by the way. See the article Wolzary.<x_0.4512><y_0.3289><class_Text>\n\n<x_0.0068><y_0.3563>After the death of Willey, the King, by the advice Comments , had the majority of our marriage debate in all the univerities of Europe; and the votes of thefe were obtained in his favour by kind of money. The de-borments made on the execution have even been perfect yet to this day. To a fublecon is gave a crown, to a decent one crowns, and fo to the vote in proportion to the importance of their fiction or opinions. Boing thus fortified by the opinions of the univerities, and even of the Jewish rabbits (for them also be had conflicted). Henry began to think the might fieldly up joife the pope himself. He beg by reviving in par-hament on old law against the clergy, by which all those who had foundered to the authority of the pope. I gate were condemned to fever penalties. The clergy, is condition the king’s around, we obliged to pay a fine of 1180,000 pounds. A condition wackles, wife extorted from them, that the king, and not the pope, was the forgotten land of the church and charge of England. And at was born after puffed and levying the full-fuins, or a year's rent of all the six hopes that it wasn't. After this the king privately married his beloved Anne Boleya i and the passing with child Soon after marriage, he publicly owned her for his writs, and paidef with her through London, with a greater magnificence than bad ever been known before. The frets were flerced with flowers, the walls of the house bring whippley, and an universal joy formed to be diffulled among the people. The unise tonate queen Saturday, pretending all further appeat- cifin to be was, visited to Amabbil near Dumbale, where the continued the rift of her days in privacy and peace. Her marriage with Henry was at all declared trouble, but not until later after latter had been arrived to Anne Boleya, though this declaration ought unobmitted to have precedt. See Boazv.<x_0.4521><y_0.8484><class_Text>\n\n<x_0.0732><y_0.8477>The pope are no fearen referred if their proceedings, than he pafed a fenance, declaring Catharine to be the king’s say lavill wife; requiring him to take her again, and demeaning his evidence agreed him in case of a refuful. Henry, on the other hand, knowing<x_0.4531><y_0.9164><class_Text>\n\n<x_0.0898><y_0.9148>Vol. VI. Part II.<x_0.2217><y_0.9289><class_Caption>\n\n<x_0.4551><y_0.0477>that his subjects were entirely at his command, refol- england.\nto operate totally from the church of Rome. In the years 1534, he was declared that of the church by declared parliament; the minority of the pope was completely abolition in England; all athletes formerly paid to the Italy few were declared illegal, and the king was ex- tuted with the coalition to all eeclicalfished besides. The nation came into the king’s western and they could took an with each die and the end of frequency, and the credit which the popes had maintained over England for ages, was now overflown at once; and none formed to repine at the change, except those who were immediately intercepted by their dependence on Rome. But thought the king thus farpassed from the church of Naz., lie by on means allowed to do doctrines of Luther which had been lately published. He had written a book gap with the celebrated reform, which the pope pretended greatly to aimners and honoured King Henry, on its account, with the title of \"De- feute of the faith\". This character he formed to be determined to maintain, and therefore protected the reformer mold violently. Many were burst for denying the people debeties, and fans alfo were used for maintaining the frequency of the pope. The counters box not which fide to take, as both the new and del religious were equally protected, and as both parties equally counted to the favor of the king, he was by that means enabled to affune an absolute authority over the nation. As the model had all and going thou the greatest rifiutness to Henry’s ecdefault chanca-ter, he relived at once to degree them of the power of injuring him. He accepted from well, ferredity of fate, to find commitment into the ferant countries of England to inflict the mondieteria; and to reports, the rigorous academic, the conduct and department of fact as were found there. This employment was really undertaken by forme restures of the courts, whole nurses were Layton, London, Price, Gage, Petre, and Belafa. They are fail to have discovered millions of disorders in many cases. However, when people were affected to the number of ways of the region, howling whole groups of women the children to all manner of lewdnot; firas accomplicants in their crimes, plus funds every where committed, to int- create the devotion and liberally of the people; and cred and invenerate fashion maintained between the inhabitants. Thus a general horror was created against these democratic; and therefore the king, in 1526 of the mo- forpperified the lifter mondieteria, mounting to 375 in number. Their recreation, compiled at 35,000 pounds a yours, were conducted to the king’s afie, besides their place and other goods, computed at 100,000 pounds more. In 1534, the greater mondieteria allo were demo- hiled. The better to reconcile the people to this great innovation. Norice were published, perhaps with aggra- nations, of the destabilize lives which the fate led in their convents. The religion alfo, and other objects of filpetitiones verrenation, were now brought forth, and became objed at certain time to referred to you.<x_0.998><y_0.932><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2126,
+      "completion_tokens": 1628,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2126,
+    "completion_tokens": 1628,
+    "prompt_tokens_details": null
+  },
+  "seconds": 6.2
+}

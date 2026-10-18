@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:26.471331+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "1134ee3d54eed82451f9a633d0c5177e3540253af098e3ace6969d7b6982848e",
+                "characters": 180683
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-a3da90c4-041d-469c-ae7e-2c14347b69dc",
+    "object": "chat.completion",
+    "created": 1792322547,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.333><y_0.0305>MINERALOGY. | 121<x_0.9082><y_0.0578><class_Page-header>\n\n<x_0.0156><y_0.05>There name of _horizontal_ prisms, and their general designation is lage. Pr+n. More particularly, Př +n expresses the horizon- tal prism in which the longer diagonal, Př + so that in which the shorter diagonal of the fundamental form has remained a finite quantity.<x_0.4473><y_0.1281><class_Text>\n\n<x_0.1396><y_0.132>## 54. Series of Horizontal Prions.<x_0.3643><y_0.1469><class_Section-header>\n\n<x_0.0596><y_0.1492>Every scales four-sided pyramid, whatever its properties may be, has its dependent horizontal prisms. To every series of such forms will, therefore, belong two series of horizontal prisms, to be distinguished by the designation according to the properties of those series. It is, however, remarked that, if we value the average values are in a stated above, the angles of several members of those series, and, therefore, the series themselves, will be identical, and, for this means, one obligation will suffice for them. Then, the number of series of those forms taken together may be reduced as three years, at which the first part belongs to the principal, the others to the subordinaries or of scales four-sided pyramids; s each of the diagonals having one size rise referred to us. The horizontal prisms belonging to a scales four-sided pyramid was produced by placing tangent planes in _homologne_ terminal edges. If those terminal edge connect the terminal point of the axis with the long diagonal, the prism is said to belong, or to be referred, to the long: if they connect it with the short, it is said to bo- long, or to be referred, to the short diagonal of P. The horizontal prisms are remarkable forms, often to be met with the mainoid conditions.<x_0.4482><y_0.4164><class_Text>\n\n<x_0.0898><y_0.4219>## 55. Limits of the Series of Horizontal Prions.<x_0.4082><y_0.4367><class_Section-header>\n\n<x_0.0527><y_0.4375>By comparing the horizontal prisms belonging to members of a series of scales four-sided pyramids, becomes evident how, what the axis of the pyramid increases, the angle of the horizontal prism configuration to the stars of the fundamental form becomes smaller, and smaller, while the other, at the intersection of the planes from different apices, becomes greater and greater. If the case of the pyramid become infinite, or the pyramid itself a vertical prism, the first of these angles will disappear, the second become an 180°. Hence, a horizontal prism is transformed, in this case, in a pair of unlimited parallel planes, perpendicular to the diagonals in which very belong. These planes, which may be considered as forms uninitiated, as it were, in two directions, are the limits of the series of horizontal prisms, the state of the pyramid in which they belong being infinite. The opposite limits, or those which appear, if the pyramid have an infinitely small spaces appear as those perpendicular to the stara. The series of horizontal prism between their limits may, accordingly, be represented thus<x_0.4434><y_0.6703><class_Text>\n\n<x_0.1289><y_0.6734>P -∞ ... Pr+n ... Pr+∞<x_0.3633><y_0.7109><class_Picture>\n\n<x_0.0518><y_0.7133>For, having the designation in every respect complete, the coefficients of the series to which the horizontal prism be- longs must be added to the sign for a particular member.<x_0.4355><y_0.7516><class_Text>\n\n<x_0.0508><y_0.7508>Although this is not a place for entering into the examination of combined forms, yet this peculiar combination which is produced by the two limits of the series of horizontal prisms, and takes the appearance of a vertical re- tangular four-sided prisms, no, yet limited in the direction of the axis cannot remain unnoticed. This combination is<x_0.4365><y_0.8266><class_Text>\n\n<x_0.0498><y_0.8273>designed by Př+m., Pr+e zj i must carefully be dis- ingished from the rectangular formulasel prisms, limiting the series of isocules four-sided pyramids, which, abstraction being made of the line perpendiculite the stara, are simple forms , a property not belonging to the rectangular prism in connection with the sculene four-sided pyramid.<x_0.4336><y_0.8992><class_Text>\n\n<x_0.5225><y_0.057>36. Derivations from the Hezachedron.<x_0.7773><y_0.0703><class_Section-header>\n\n<x_0.4561><y_0.0742>Besides the rhombid, the isoceles, and the scales four- sided pyramids, there is only one other for existing fit for being considered as a fundamental form, or which, without being detrithole from any one of the factors, can itself serve as basis to the derivation. This form is the _hezachedron_,<x_0.8438><y_0.1406><class_Text>\n\n<x_0.4551><y_0.1375>Fig. 11. Fig. 12.<x_0.7373><y_0.15><class_Caption>\n\n<x_0.4541><y_0.2938>fig. 11. There are, in connection with the hezachedron, a great number of other forms, remarkable for their proper- ties, different, however, from each other more by their general aspect than by these dimensions. The complete assemblage of those forms is obtained in the following way. Bring first the hezachedron in an upright position, so as a bring one of its common pyermont, and the opposite per pendicularly below it, by which means the rhomboidal axis, thereby the two corners, becomes vertical, then combine the possible situations of a movable plane, tangent to the hezachedron in the uppermost parts of the seal rhomboidal axis. The differences distinctions the plane one effect on seven in numbers, but in one of them it becomes parallel to the face of the hezachedron itself. Every one of some situas gives rise as a peculiar form, hence, there will exist as many forms as the moveable plane can assume different situations, and no more. The forms thus obtained agree<x_0.8389><y_0.5><class_Text>\n\n<x_0.4502><y_0.6727>in several of their properties, particularly in respect of the kind, number, and situation of their axis, and are as fol<x_0.833><y_0.7008><class_Text>\n\n<x_0.5254><y_0.7063>Fig. 16. Fig. 16.<x_0.8281><y_0.8734><class_Picture>\n\n<x_0.4492><y_0.8773>lova >-1. The _hezachedron_, contained under six squares. 2. The _octahedron_, fig. 12, contained under eight equila<x_0.8271><y_0.9031><class_Caption>\n\n<x_0.7725><y_0.9039>9<x_0.7822><y_0.9141><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 1796,
+      "completion_tokens": 1278,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 1796,
+    "completion_tokens": 1278,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.792
+}

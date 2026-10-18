@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:59.828587+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "736efc1d822c57fa8c137e71ab9afc3114d1393a388d2caf75f98afb4018399d",
+                "characters": 189507
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-5d2d6e71-9daa-4b84-8adb-c248c8d89ad2",
+    "object": "chat.completion",
+    "created": 1792322700,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3301><y_0.0633>CHEMISTRY.<x_0.583><y_0.0828><class_Page-header>\n\n<x_0.8701><y_0.0672>495<x_0.9082><y_0.0852><class_Page-header>\n\n<x_0.0059><y_0.0859>Chemistry, with metals, such as cobalt and nickel. It likewise occurs are arsenic acid, AsO<sub>2</sub>, combined with various oxides. When the mineral containing it are no source part of its is outlined in the metallic state, and part a arsenion acid ASO<sub>2</sub>, which is consequently obtained in very few quantities from the ones of cobalt and nickel. To obtain the metal from this acid, it is simply heated with ultracold, when the metal sublines and form at bright metallic crusts. Its density is 5800. Under the ordinary pressure; it is converted into vapor before extending the melting point. The vapour has a strong garlic dobup, and is very poisonous. It burns when heated in air for forming arsenions acid, which also sublimes as a white crystalline powder.<x_0.4502><y_0.2414><class_Text>\n\n<x_0.0586><y_0.2406>Arsenic acid,ASO<sub>2</sub> is volatile its vapor has non smell, unless when heated on, charcoal, when it is reduced to the metallic state, and it is the metallic vapour the smell of which is then observed. It is surprisingly soluble in water and its solution gives, with excess of lime-water, a white precipitate of arsenice of lime, with mamoniaco-sulphate or copper, a grass-green precipitate of arsenice of copper. Scheed’s green with ammonico-nitrite of silver, a demonyline precipitate of arsenice of silver and with hydronal- phuric acid, bright blue sulpholment, AAS<sub>2</sub>. By these clar-acterics this substance when pure is easily recognised i; and from its very poisonous nature, and the facility of presence it, poisoning by its means is so frequent, that it has to be sought for different than any other poison.<x_0.4492><y_0.4062><class_Text>\n\n<x_0.0576><y_0.4055>The best suitable to it is the administration of a large quantity of metal, hydrated esposisole of iron, which has the property of farming with it an insoluble inert arsenite- nite of iron. Calculated magnesia has a similar effect.<x_0.4463><y_0.4523><class_Text>\n\n<x_0.0596><y_0.4508>When arsenion and has the mouth of the mixed fluids, the above case are incapable, except the last, which may be used to separate the arsenic from the mixed fluid, after adding an acid and filtering. One important substances thus obtained is decomposed by heating it with a mixture of charcoal and carbonated petals, or with cyanide of potassium, and the metal subbands. It is investigated by its volatility and the colour of the vapener, but, it may also be osi-dized all the toxic applied. Even when the acid is pure, we ought always to reduce at least a part of it to metal, as the most chemical properties. Only amounts are all for sembols in this particular, but we shall not presently that these two metals are easily distinguished.<x_0.4434><y_0.6094><class_Text>\n\n<x_0.0566><y_0.6102>Where the quantity of arsenic present is very small, the method of Marsh, in which it is converted into arsenuerated hydrogen, must be employed the more delicate and the most certain. We shall describe this presetency under the heat of arsenimected hydrogen.<x_0.4443><y_0.6664><class_Text>\n\n<x_0.0557><y_0.6672>Arsenic acid, ASO<sub>2</sub> corresponds to phosphoric acid as arsenions acid does to phosphoronic acid. It is formed by heating arsenion acid with nitric or nitro-hydrochloric acid. It is very soluble very acid, and very poisonous. Its salts are readily similar to and isomorphous with those of phosphorescent acid.<x_0.4453><y_0.7359><class_Text>\n\n<x_0.0547><y_0.7352>When hydrogen is disengaged in a solution containing arsenions and there is formed arsenimected hydrogen, As H<sub>2</sub> mixed with hydrogen. The gas is obtained prurer, but still interact with some hydrogen by the action and hydrochloric acid on an alloy of line and arsenic. It has a most offensive silicones such), and burns when heated in air with pale foam, producing arsenion acid and water. It is extremely poisonous, and several elements have lost their lives that meaningless thinking little of it.<x_0.4424><y_0.8422><class_Text>\n\n<x_0.0537><y_0.843>When this is even enough with a larger excess of hydrogen, is passed through a tube, one of which is red-bot, it is entirely decomposed, and a ring of metallic areas is deposited just beyond the hot part of the tube. On this property is founded Marchly process for detecting arsenic.<x_0.4414><y_0.9055><class_Text>\n\n<x_0.0527><y_0.9047>The suspected found is added to diluted sulphonic acid, and zinc is introduced. The gas is then passed through a<x_0.4404><y_0.9289><class_Text>\n\n<x_0.459><y_0.0867>narrow tube, and a slow but constant current of it is kept Chemistry, up. As soon as all the air is expelled from the tube, a part of it is heated to endless, and if there be but a trace of<x_0.9062><y_0.1266><class_Text>\n\n<x_0.46><y_0.2797>arsenic present, a ring soon appears. Or the gas may be burned at the end of the tube without heating it in the tube, and a cold piece of glass or porcelain held in the flame, which, a arsenic by present, a deposit metallic stains of that metal. This bronze method is the best, as the whole arsenity may in time be collected in one ring. Under simil- creromates, autonomy also forms a ring of metal, but the arsenalring is sublimed by a moderate heat, and if at be present is changed the arsenon acid, easily recognized by its essential crystals, its solubility and by other tests. The antimony is with difficulty volatilized, and described the oxide remains and is our crystallin. Nitric acid dissolves the arsenic, but not the antimony.<x_0.8418><y_0.4328><class_Text>\n\n<x_0.458><y_0.4336>This method of detecting arsenic is so delicate, that by its means arsenic is found where it was not before suspecet. Yet one day find it is the commercial sulphuric acid, hydrochloric acid, and zinc, the very substance we use in the process. Hence, before introducing the suspected fluid, the most always try the acid and zinc due to the time. If no energy appear, and it is adding the suspected liquid, the ring be at zero formed, we may safely conclude that the ar- atoms comes from that lighten. But without this precaution, we dare not make any such statement.<x_0.8408><y_0.5508><class_Text>\n\n<x_0.4609><y_0.55>There is only one chloride of arsenic, a terchloride, AsO<sub>2</sub>, which is volatile.<x_0.8398><y_0.5742><class_Text>\n\n<x_0.4619><y_0.5734>There were three sulphures of arsenic. Healger, which is reddish-brown, AAS<sub>2</sub>, prominent, which will follow, AAS<sub>2</sub> and the persulphuret, which is pale yellow, AS<sub>2</sub>. The two former are found in nature.<x_0.8389><y_0.6266><class_Text>\n\n<x_0.457><y_0.632>The reader has no doubt remarked the analogy between the chemical relations of antimony and arsenic and those of phosphorus. Indeed, no two element are anomalous in this respect as arsenic and phosphorus, save that one is metallic. For other not. There is a resemblance, however, even in physical properties for the colour of phosphorus closely resembles that of arsenic. These three deterrents, in spite of one being non-metallic, form a group distinguished by forming oxides with 3 and 6 esp. of oxygen, and gaseous compounds of a field odor with 6 esp of hydrogen.<x_0.8359><y_0.7547><class_Text>\n\n<x_0.5557><y_0.7578>## 48. Tellurium.<x_0.6865><y_0.7781><class_Section-header>\n\n<x_0.5547><y_0.7805>Symbol Tx. Equivalent=642.<x_0.7402><y_0.7953><class_Section-header>\n\n<x_0.4561><y_0.7961>This metal forms one of another remarkable group of three, the two others being non-metallic, namely, sulphur and selenium. This one and the preceding show that there is no essential and absolute division between metals and non-metallic bodies.<x_0.8379><y_0.8562><class_Text>\n\n<x_0.4551><y_0.8586>Tellurium is found, but very rarely, combined with gold, they lead, and bismuth, in the Transylvania nanae. In appearance is resembles antimony, and its specific gravity is f2600. With oxygen it forms two acids, tellurous acid, as O<sub>2</sub> and tellursic acid, Te O<sub>2</sub> corresponding to sulphur- ous and sulphuric acids.<x_0.8369><y_0.9297><class_Text>\n\n<x_0.4639><y_0.1289><x_0.8438><y_0.2773><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2280,
+      "completion_tokens": 1762,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2280,
+    "completion_tokens": 1762,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.736
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:15.853809+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "eb818bd24d571ffee3c91738a58b97d28e19920013b464968318708f7be9ccee",
+                "characters": 242395
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-4d67af58-3517-4873-8847-a7bd94f3cbaa",
+    "object": "chat.completion",
+    "created": 1792322596,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1807><y_0.0453>R O M [ 181] R OM<x_0.7461><y_0.0664><class_Page-header>\n\n<x_0.0469><y_0.0688>delay, he with great, boldness went alone to the camp of Lepidus, and with no other assistance than his private bounci, and the authority he had gained by his favor victories, be served to depois his rival. The soldiers thanged round him with the most dutiful ala- erity, while Lepidus hastened to prevent their efiction. But Octavians, though he received a wound from one of the centrons, want with great presence of mind to the place where the military engins were planted, and, flourishing one of them as those all the legionary and ders ran in crowds and saluted him as their general. Lepidus being thus abandoned by his now directed thankoff of all the marks of his security, which he could no longer keep, and submistitively threw himself at the feet of Octavians. This general spread his life, notwithstanding the connames of this army, but privelhun of all his former authority, and banished him to Circum.<x_0.4521><y_0.3086><class_Text>\n\n<x_0.0459><y_0.3078>Octavians was received upon his return to Rome with universal joy; the senators met him at the gates, and conducted him to the empid: the people follow, covered with gardials of flowers, and who lu-ving returned thanks to the pods, waited upon him to his palace. There remained now but one obtained to an ambition, which antony, when he resolved to remov, and for that purpose began to render his characer as contemplifies as he possibly could it Rom. In fier, Anton’s cousin did not a little contribute to promote the endeavours of his ambitious partner in the state. He had marched against the Parthians with a prodigious army, but we forered to return with the loss of the fourth part of his forces, and all his bag-agege.\" This extremely diminished his reputation into his making a tramphal entry into Alexandria soon after, entirely disgusted the citizens of Rome. How ever, Antony seemed quite regardless of their resentment · totally disregarding the business of the state, he spent whole days and nights in the company of Clen-pata, who studied every end to increase his passion, and very his entertainments. Not content with sharing in her company all the delights which Egypt could afford, Antony was resolved to charge his sphere of luxury, by granting the many of those kingdoms which belonged to the Roman empire. He gave her all Phonatic, Cto-Syren, and Cyprus, with a great part of Ciltics, Arabia, and Judes, girls which he had no right to bestow, but which he pretended to grant in imitation of Hercules. This completion of view and folly or lengthy totally esperated the Romans , and Octavians, willing to take advantage of their resentment, took care to exaggerate all his defects. At length, when he found the people sufficiently irritated against him, he resolved to send Octavia, who cross then at Rome, to Antony, as if with a view of reclaiming her husband is that in fact, to finish a sufficient protest of declaring war against him, as he knew she should be dismissed with contempt.<x_0.4609><y_0.818><class_Text>\n\n<x_0.0547><y_0.8195>Antony was now in the city of Leenopolis, reveling with his minimum parmour, when he heard that Octa- via was at Athens, upon her journey to visit him. This was very unprecedent new to him as well as to Cleopa- tra; y, who, fearing the chams of her rival, underwored to convince Antony of the strength of her passion. He frequently caught her in tears, which she seemed as if willing to hide; and often interested her to tell him the<x_0.4512><y_0.9258><class_Text>\n\n<x_0.4678><y_0.0672>cause, which she seemed willing to suppress. These ar-tifices, together with the ceaseless flattery and importu- nity of her creatures, provided so much upon Antony's realtakers, that the commamted Octavia is returione home without seeing her, and attached himself still more close- ly to Cleopatra than before. His ridiculous passion now hereby to have no bounds. It resolved to own her for his wife, and entrely to reputulate Octavia. He accordingly assembled the people of Atsoundra in the public theatre, where was relied an above of deliver, me der which were placed two thrones of gold, one for himself and the other for Cleopatra. There he seated himself, dressed like Bachela, while Cleopatra set beside him clothed in the ornaments and attributes of Isis, the principal deity of the Egyptians. On that emotion has declared the queen of the countries which he had already bestowed upon her; while he associated Cesa- rio, her son by Cesar, as her partner in the government. To the new children which he had lay her herself he gave the title of _ling of kings_, with very extensive do- minions, and, to cover his abandiile, he sent a minute account of his proceedings to the two causal at Rome. It was now necessary to act up to his imagi- nyrally : new branches and preparties were now therefore studies, and marks of provision found out: not less than L.60,000 of our money were livished upon one single entertainment, it is said, upon this co- casos, that Cleopatra dissolved a year of great value in vinegar, and crank it off. But we are told of one cir- constans that might not represent their rights and, and teach mandat to valid the leverage of virtue, however simple, above their greatest luxuries. He was sus- picioso of being poisoned by in every meal; he faced Cleopatra, when he too much loved, and would utro- thing without having it previously tasted by one of his attendants.<x_0.8672><y_0.5406><class_Text>\n\n<x_0.4668><y_0.5414>In the mean time Octavianus had now a sufficient protect for declaring war; and informed the sense of his intentions. However, he deferred the creation of his design for awhile, being then employed in pulling in an interaction of the Illyrians. The following year was clearly taken on in preparations against Antony, who, perceiving his design, remonstrated to the same, that he had many causes of complaint against his col- league, who had seized there were Selly without offering him a share: alleging that had also disponese Leipilus, and begy to himself the province he had commanded; and that he had divided all Italy among his way sol- wiers, leaving nothing to reconopense those in Asia. To this complaint Octavians was contested to make a su- facute answer; implying, that it was about to con- plain of his distribution of the trilling diaries in Italy, when Antony having compared Parthia, he might now reward his soldiers with rules and provinces. The sar- clean, upon Antony's misfortunes in Parthia so provri- kad him, that to ordered Candinas, who commanded his amy, to match without intermission into Europe; while he and Cleopatra, followed to Someys, in order to prepare the carrying on the was with vigour. When arrived there, it was ridiculous enough to behold the odd mixture of preparations for pleasure and for war. On one side all the knee and princes from Europe to the Exuxine sea had orders to send him thither supplies both of men, provisions and arms; on the other side, all the cenodigies, dancers, bolloons, and musicians of<x_0.8711><y_0.9437><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2205,
+      "completion_tokens": 1687,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2205,
+    "completion_tokens": 1687,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.77
+}

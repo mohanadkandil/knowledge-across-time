@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:27.753830+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "e70e0a8429e889eeb279bdc0359fa7a40b83e152347cc47314f7c93b667065f2",
+                "characters": 199955
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-9a6a4edd-1676-4a88-991a-2ff2323356bb",
+    "object": "chat.completion",
+    "created": 1792322488,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2412><y_0.0297>F LO [ 609 ] FLO<x_0.7891><y_0.05><class_Page-header>\n\n<x_0.0547><y_0.0523>Floating, tilineal as in fig. 3, in all which MM reprefents the line of flotation when upright; and EF that when inclined at any angle MXE; allo G repefents the centre of gra- wly of the whole veffel, and R that of the part im- merefel.<x_0.5117><y_0.1172><class_Text>\n\n<x_0.5176><y_0.0516>quadrants of two feet, or 24 inches radius each. Then the area of the two quadrants = 9047808 figure inches, and the dilations of their centered gravity from the bottom = 1 y8157 inches very nearly a like the area of the included rectangle able = 1440 square inches, and the altitude of its centre of gravity 12 inches in the manner, the areas of the rectangle AB ed will be found = 5184 square inches, and the ali- tude of its centre of gravity 48 inches: therefore we shall have<x_0.9189><y_0.1875><class_Text>\n\n<x_0.5234><y_0.1914>\\begin{tabular}{cc}\nMooremum. of the two quad. & 9049808 X 138177 = 1150148560c16\\\\\nMomentar. of well. & 1440° × 12 & 12±1718o\"\\\\\nModiment of the effect. Allen & 518y' x 43 & 14583r\\\\\n75s978e8 & 236i3j38960c16\\\\\n\\end{tabular}<x_0.918><y_0.2828><class_Table>\n\n<x_0.5225><y_0.2898>\" Now the fum of the momenta, divided by the fum 2786i 138660c16<x_0.916><y_0.3242><class_Text>\n\n<x_0.5215><y_0.3273>of the areas, will give 75s97806\" = 37006 inches, the altitude of G, the centre of gravity of the fection ABCD above the bottom. In like manners the altitude of R, the centre of gravity of the fiction 1239093560b16<x_0.917><y_0.3844><class_Text>\n\n<x_0.5205><y_0.3836>MMCD, will be found to be equal . 49167808 - 14794 inches and consequently third difference, or the value of GR = 12097 inches, will be found.<x_0.5195><y_0.4305><class_Text>\n\n<x_0.5186><y_0.4313>Suppose the veffel to feel 15’, and we fall have the following proportion is namely, As rather, it tangent of 15 : i. MXK = 54 inches (14.469 inches – ME or MF) and confectify the area of either triangle MXKE or MXP = 50007 figures inches. Therefore, by theoret 4th, 499676863 3906651 1730 n n= ±AB : 5 6075 inches = RT; and, again, an asius : fine of 15’; 11.07275 GR : 21142m = RN‡ configurets RT.-Rm = 16075–713142m = 2573 inches = SW, the flatway required.<x_0.915><y_0.5648><class_Text>\n\n<x_0.5166><y_0.5664>• Moreover, as the fact of 15’?: radius 1:56075 = RT: 12013 kg RS, to which, the use add 24934, the altitude of the point R, we fall have 46'947 for the height of the metacentes, which taken from, y), the whole altitude, there remains 55053 from which, and the half width = 54 inches, the distance BS is found = 1037a inches very easily, and the angle SBV = No~=66–44’s from where SV = 58'd45 inches.<x_0.9141><y_0.6734><class_Text>\n\n<x_0.5244><y_0.6727>Again : Let us ifuppo the mean length of the vefcl left to the 40 feet or 480 inches, and one full have the weight of the whole refil equal to the area of the fac- tion MMDD = 49567808 multiplied by 480 = 256664784 cubic inches of water, which weights se- acfly 85768 pounds avondapon, allowing the cubic foot to weight 02.5 pounds.<x_0.9131><y_0.7672><class_Text>\n\n<x_0.5254><y_0.768>\" And, finally, at SV-SW (I.e) a 58'd45 !:2173 · 187505 + I360 +, the weight on the gunwale which will fuhin the veffel at the green inclination. Thereor aveffel of the above directions, and weighing 8 tons, y cewte. 28lbs, will require a weight of 1 ton, 15 ews. 64lbs to max her income 15%.<x_0.9121><y_0.8469><class_Text>\n\n<x_0.5264><y_0.8477>\"In this example, the deldefic power has been frp- pofed to act perpendicularly on the gunwale at B; but if the veffel is navigated by falls, the centre volume must be found, with which, and the angle of effe-tion, the projected distance stored on the line SV may be obtained; and then the power, calculated as above<x_0.915><y_0.9273><class_Text>\n\n<x_0.8506><y_0.9289>reciler<x_0.9199><y_0.943><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 1756,
+      "completion_tokens": 1248,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 1756,
+    "completion_tokens": 1248,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.391
+}

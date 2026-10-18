@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:42.674274+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "160467039a65337bd6750fca8005df481bb622374cd4ce8f0cd148ca8a37d4d5",
+                "characters": 222359
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-fa0261be-d0d0-475d-91da-c1de8e9af851",
+    "object": "chat.completion",
+    "created": 1792322563,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.4346><y_0.0367>485<x_0.4814><y_0.0555><class_Page-header>\n\n<x_0.3564><y_0.0789>LONDON.<x_0.5488><y_0.1086><class_Section-header>\n\n<x_0.041><y_0.1117>Tars city, the metropolis of the British empire, is situated on both banks of the Thames, if the name he taken collectively, and in that sense, though chiefly within the country of Middlesex, inclusive as part of Surveyor, and, for purposes of criminal justice (by the fact of William IV, called the Central Criminal Court Act), a portion of the counties of Esexes and Ken.<x_0.4521><y_0.1992><class_Text>\n\n<x_0.04><y_0.1977>Like many cities, the early history of this is lost in the obscurity of remote ages. The first notice of its existence to which implied credit can be given is that in the Annual of Tactics (ib. iv) who says, \"Londumine copamento quidem colatino non insigns, sed copá negotiatorma et cummettman maxime celebre?\" The derivation of the name of this city has been variously travels and though it must remain a matter of doubt, we state that which seems the mean probable.<x_0.4512><y_0.3141><class_Text>\n\n<x_0.0391><y_0.3117>_Linn in the Celtic or ancient British language signified a lake, and for an town or a harbour in ships. A small recent dates the Surrey side of the river was often a lake in some parts, and a swamp in others, the name might be easily changed the Linden in London, and be descriptive of its local position. It could not, however, No a place of very great importance at the time of the invasion of Engeland by Julian Essas; for thought that comments must have passed near it, he has now noticed it in his Comentertains.<x_0.4492><y_0.4391><class_Text>\n\n<x_0.0371><y_0.4359>The Romans, who appear to have taken possession of this city under the Emperor Claudius, about 100 years after the invasion of Cassav gave to it the name of Argustus in ho-nour of this picture. Under the Roman government it was erected into a prohecture, and the inhabitants, though the name of citizens of Rome were conferred upon there, were not allowed to be governed by their own laws, but by military magistrates sent annually from Rome. It must then have accepted one degree of importance, because, in several of the _litterna_ of Antoninus, therod are described by him as beginning or ending at this period. The doubts interesting the author of the _itdorea_, and the time when they were drawn up, make this inference of less authority.<x_0.4502><y_0.5992><class_Text>\n\n<x_0.0361><y_0.6016>It seems certain than under the Roman, London was not fortified with any period of their occupation for who the Britons revoked against the Romans, and were led by their Green Bookcase, she captured the city and burned it, after a general massacre of the inhabitants. It continued still without limitations, till, according to Wookwerp the riger of Constantin, or, according to Maandl, kill the go-vernorship of Theodosius, in the year 369. The great number of coins of Elleosa, in another of the Emperor Con-ination, which have been found under the wild, give the greatest degree of probability to the opinion of the former of these authors. It was certainly erected into a epi-copal city by that emperor after he had been converted to the Christian religion, and that increases the probability of the opinion that he constructed the walls, for all the sees of bisbops were originally within fortified places.<x_0.4482><y_0.7922><class_Text>\n\n<x_0.0352><y_0.7914>Wisher may have been in date of the creation of the walls, the lands to what they then extended may ever be ascertained by the concurrent testimony of all the antiquations, and by the ruins of the foundations and of parts of the wall which have been traced out within very recent periods.<x_0.4473><y_0.8695><class_Text>\n\n<x_0.0342><y_0.8688>A fort on the site now occupied by the Tower of Lou lion, formed the commemoment of the defences. A well was extended from it through the Minories to Aldgate, it proceeded between Bevis Marks, Cummonile Street, and Houndslich), across the churchyard of Bishop-<x_0.4463><y_0.9336><class_Text>\n\n<x_0.4551><y_0.1172>gate to Griplegate. It then took a southerly course to London. Alldergate, from which it run south-west by the back of Christ's Hospital and Old Norgeta, and passing behind the present prison of Newgate and Stationment Court, reached leadingte. Even that gate is provided western by Cock Court to the river Theg now Now Bridge Street, and trei minined at a fort called afterwards Barnani’s Castle. It was also thus covered by another wall along the bank of the Thames, which, however, was destroyed at a very remote period. The extent of the wall, exclusive of that by the side of the river, was two miles and one furling. That on the bank one mile and at total. The height of the walls was twenty-two feet, and they were defended by fifteen fifty thousand times. Through some of the were the great roads leading to the different parts of the kingdom. The preset way or the Valley Street, passed under Norgeta, and then turned towards the rivers where as farry connected with the road to Dover. The Hermin Street road passed under Griplegate. Another passed through Aldi- gate and moved by Bathan Green to the old fort over the river, and on towards Essex, Suffolk, and Norfolk. The process of time other roads were laid out, while the gates corresponding to them were erected and received the names of Bridgegate, Jedagree, Aldergata, Mororgate, Morogate, and the Potenz on Tower will.<x_0.8701><y_0.4352><class_Text>\n\n<x_0.4531><y_0.4297>It is probable that, after the Romans had been induced children their forces from England, and left it is exposed to the mortages of the northern tribes of Pects and Scotch, London was not made improved or extended. When the Sexzon had fixed themselves in the country, and assumed something approaching to a regular government, the city, which had suffered severely during the contests between the British and the invaders, soon recovered its former mark, and acquired new importantes; so that at that period in the Venezuela Rode writes of it as a privacy town of trade under the mid of a significant makirate, whose title of pergrave or potretev conveys the idea that its commerce by water must likely may for the time so great as to require magistral suprintendence.<x_0.8691><y_0.6055><class_Text>\n\n<x_0.4541><y_0.6023>During those civil warts which the saw Saxon masters of England created on against each other the secret king- doms were united under one head in the press of Egbert, 9119, the city of Lonón, if I did not maintain a neutrality, youere to have sufficiently increased in importance to induce that prince to make it the capital of his whole king- deny, which in this command to be over since that reign.<x_0.8672><y_0.6891><class_Text>\n\n<x_0.4561><y_0.6883>Soon after this the Dunes began their practical protections, and a length, after attacking the northern power of the kingdom, in 940 entered the Thames and 250 vessels, seized upon London, unilured and then burned it, and exercised their average realities on the inhabitants. A second attempt by some practical people who made, and with greater force, about two years after: but on this occasion, King Elizabeth and this son Abethelol collected a sufficient force to disappoint and finally to overcome the invaders, though the returning prosperity of London received a severe check by the attempt.<x_0.8662><y_0.8258><class_Text>\n\n<x_0.4639><y_0.8234>In the origin of Alfred the Great, London soon began to recover from the minors을 condition in which the attempts of the Danish irwares had left it. He restored the ruined defence, supplied those of the Dunes who had been settled there, afforded the privileges which had been conferred, added to them others, and contributed much to ornament the whole city. Having made it a place of security by its walls, and capable of a powerful defence, it was placed under the government of his son-in-low, Ethelred dake of Mer<x_0.8643><y_0.9383><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2266,
+      "completion_tokens": 1738,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2266,
+    "completion_tokens": 1738,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.768
+}

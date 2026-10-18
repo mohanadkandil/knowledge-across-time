@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:23.916766+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f0b0684a988a166426d0dd679637b4cd72c922c8dea25c622cdbd032488cad30",
+                "characters": 204063
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-5450d67d-b6a9-4e72-aafc-f9bad66a3223",
+    "object": "chat.completion",
+    "created": 1792322544,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0859><y_0.0492>216<x_0.1387><y_0.0758><class_Page-header>\n\n<x_0.4297><y_0.0375>MINERALOGY.<x_0.6709><y_0.0633><class_Title>\n\n<x_0.0947><y_0.0672>Geology<x_0.1211><y_0.0898><class_Text>\n\n<x_0.1504><y_0.0641>tions among marine territories; the vicinity of Rome and Naples and the Vald. Nous show abundant proof of vote certain action where they ripped. Hungry is also all of such movements, and most of the trap-rocks of the Rhino, and various parts of Germany, probably belong to this era. It is not at its certain that the healthle rocks of Ireland and Staffa and other parts of Scotland are not referable to the territory period, certainly they see later than the chalk, which they have divided and corroborate.<x_0.5498><y_0.1758><class_Text>\n\n<x_0.1602><y_0.1742>The deck which are thus referred to the tertiary em are principally tradyant and basis: a augtis and displacible rocks greatly analogous to, or identical with, products of active volcanoes. The apparatus presented as his points where the igneous rocks have burst up are such as to leave no doubt that, in all the localities were named, the action was of the same kind as that covered by an active volcano; the forms and grouping of the hills strengthen the analogy, and we finally must conclude that the igneous active developed over a series part of Europe late in the tertiary period. Was in fact volcanic, in some cases, indeed, it is any possible clearly and certainly to separate the products of a modern volcano from those of the eruptions which took place in their tiny periods so, for example, in SiSky and central France. There is evidence that some of these tertiary volcanoes burst forth in the sea, as the Engagnes Hills, and spread has over and amongst the strata then drainage, in other cases, as in Velay, the eruptions happened amidst freshwater lake while the heartarine sediments were accumulating. The volumes of the Central general to have followed the direction of freshwater mesmoon compared to those of Paris and the lake of Wiggle. It is perhaps double ful whether any of the volcanos of this date broke forth in the mid until large tracts of data when the freshwater lakes existed; the Siebegnology and other Rheumatol hills of g- nouso rocks are no exception, for the Richelial hais evidencedly been once filled with other many hundred feet above its present here, as the loss, the mass, and brown coal of the Eild sufficiently prove.<x_0.5566><y_0.5188><class_Text>\n\n<x_0.1611><y_0.518>The result of the researches of Daubeny and others on the subject of the tertiary igneous producers, is to connect them, in a very particular manner, with the history of ex- tincts and active volcanoes of later date. In some instances it may be admitted that igneous action, which existed in the tertiary area, has been continued almost a historical times (Auvvergne), or even to this day (Etua).<x_0.5576><y_0.6031><class_Text>\n\n<x_0.1846><y_0.6156>DISTURBANCES OF STRATA DERRING AND AFTER THE TERTIARY PERIOD.<x_0.5273><y_0.643><class_Section-header>\n\n<x_0.1592><y_0.6461>No more remarkable dislocations are known in the British islands than those the parallel artificial ones which broke up the tertiaries of the south of England. These have already briefly noticed while speaking of the chalk formation. The northern axis, passing east and west from the Vale of Prewy to near Polistons, divides the basins of London and Hampahies, which are in fact, de presions parallel to this acts, from which the northward slope of the strata under the value of Thames and the Kenner is currently rapidly, and affects rapidly the secondary and tertiary strata. It is therefore of posterior date to the last mentioned deposits. The children saw passes east and west through the middle of the lake of Yight, and is considered not by in the same direction through the lake of Purbet toward Wopanda, where several great directions have been traced by Mr de la Boche and Dr Buckland. The northern slopes from this said is everywhere necessary story, and, in the western part of the lake of Wiggle, the chalk, plastic clay, and sands, and London clay, are absolutely rejected. What adds to the interest of this excerc rence in Alum Bay, is the circumstances of the proposed lat- mination of loose variegated sands and interstratification of<x_0.5547><y_0.9109><class_Text>\n\n<x_0.5537><y_0.0617>beals of lignite and layers of rounded pebbles. At a short Geo distance northwards, the depressed blue receiver their bore, mortality, and the line is the case with the elevated strata on the south. Thus, it appears that two hollows and one glass alternate, their one being called the northward slope being in both cases violent, and the southern mode rate. These ridges are, in fact, scarcely to be called anti- and area reduced by vertical elevation, they resemble more the effect of oblique movement of flexible masses. A singular effect, is produced by the southern dislocation in the first intendedled in the chalk. They are penetrated by several fissures, and all in pieces on being removed from the structures, an effect probably resulting from violent pressure on these elastic masses.<x_0.9473><y_0.2305><class_Text>\n\n<x_0.5557><y_0.2297>The geographical features of the south-eastern parts of England depend almost entirely on these great lines of dis- turbed strata, and we vary from this form to view, without surprise, the greater phenomenon of the same kind which have been brought to light by the labours of continental geologicals. To prepare certain that the Pyrament chain has undergone elementary measurements since the deposition of some of the tertiary strata; the whole chain can be Alps the certainly been raised due to the literature of most or all of the tertiary strata, for it hearty upon several of its high events, and in its mountain valleys, not only secondary, but the tertiary books on the Highland on the Dahleners sec- cording to Brongniar, and in the Valley of Gosau, according to Jachineson. Parts of Sicily have also been applied, even since the deposition of rocks holding 95 per cent of existing species, to our elevation (Gold feet.<x_0.9482><y_0.4188><class_Text>\n\n<x_0.5527><y_0.418>Besides those local and violent elevations, it cannot be doubted that the whole surface of Europe has been ruled to various degrees by now gradual action, since the time the formation of the marine tertailerish, fill the val- yels of the Damball and the Rhin, the southeast basin of eastern and Hungary, and the great plains of northern Germany, Poland, and Russia.<x_0.9463><y_0.5047><class_Text>\n\n<x_0.5518><y_0.5055>The precise geography, date of these elevations, who there violate or grannali, is one of the most difficult of geo- logical problems\" but it is certain that some happened des- ring and most of the subsequently by the mountains of the nature strata of the tertiary period. The general effect we therefore clearly a augment containing heavy land surface of Europe to establish the various relations of fresh-water drainage to successive times to permit the accumulation of fresh-water lakes, to allow if the conditions between the life of terrestrial and fluvialit animals is adjusted, and thus to offer analogies in all respects to the present order of natural causes and events.<x_0.9492><y_0.6484><class_Text>\n\n<x_0.5947><y_0.6633>RELATION OF TERTIARY TO MISTORICAL PERIODS.<x_0.9316><y_0.6789><class_Section-header>\n\n<x_0.5625><y_0.6797>Of all the classes or assemblages of aqueous deposits, that which is the means to our own days in point of date is the least exact in its boundaries and characters. While, cer- evening the older periods, the problem of the condition of the globe have principally confined to considerations relating to the sea, and that the phenomena could be investigated according to their principles, applicable to what the greater number of strata; the tertiary deposits compel us here also upon more complicated researchers concerned with the land, and, in discussing the history of still later phenomena, in the nation of physical geography assume that higher degrees of importance. The consequences is an amount of local diversity to great as to nearly annihilate all generally of results.<x_0.9502><y_0.8492><class_Text>\n\n<x_0.5635><y_0.8484>Moreover, the difficulties of this subject are augmented by a circumstance which is likely to become daily move and more, influenced on geological properties, – the want of a principle upon which, to define the limits of least antiquity of this group of strata. What, in fact, is meant by super<x_0.9512><y_0.9117><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2242,
+      "completion_tokens": 1714,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2242,
+    "completion_tokens": 1714,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.547
+}

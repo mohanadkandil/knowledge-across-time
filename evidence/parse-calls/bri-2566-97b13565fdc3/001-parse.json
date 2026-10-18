@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:33.826108+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "3281096238fef20f942dfe8101b983eb191acb66de0fc99b4ba004693853e117",
+                "characters": 200379
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-2c19afec-3918-4af5-96c3-c843bf3486d7",
+    "object": "chat.completion",
+    "created": 1792322734,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2217><y_0.0391>ALS [ 745] ALS<x_0.7549><y_0.0633><class_Page-header>\n\n<x_0.041><y_0.0625>Alyzarraa Fitros and Portques, which dyes linen that is dipped in it black in an instant. News this rivalret is a cavern, from which proceeds so malignant a steam, that if de- stoyes such animals as come near it. The Morice cultivate to soft extremely well, and plant fruit trees) some of which grow to a prodigious height and thick- ness, and give the mountains a very agreeable as- poet.<x_0.4736><y_0.1711><class_Text>\n\n<x_0.1035><y_0.1703>ALQUIER, a liquid measure used in Portugal to measure oil, two of which make an almond. See Al- words:<x_0.4746><y_0.2102><class_Text>\n\n<x_0.1025><y_0.2117>ALQUITOU, or Acustroo, is a sort of lead ore, which when broken, looks militancy. It is one by the potters to give a warmish to their works, and there is called _potterave_. He met with in Cornwally. The game mix a small portion of manganese with the alquifou, and then the varnish or glazing on the were wars in a kabakh bine.<x_0.4756><y_0.3055><class_Text>\n\n<x_0.1016><y_0.3047>ALRERUS, ALREAD, or ALREDES, of Beverley, one of the most ancient English historians, was born of Berech in Yorkshire. He wrote in the reign of Henry I. There are no circumstances of his life known with any degree of certainty. It is generally believed that he was educated at Cambridge, and that be afterment because one of the ancient and treasurer of S. Jakhs at Bereley. And we learn in a note of Bishop Tanner’s, thus, for the sake of improvement, he travelled through France and Italy; and at Home became donated chapital to Cardinal Othboni. He died in the year 1238 or 1212 leaving behind him the following works: 1. The Annals of Altered of Beverly, which was published at Oxford in 7/16; My Mr. Bratme, from a managerie which belonged to Thomas Navibean, Eqg. It contains an abriegement of our history from Boston to Henry L. written in Latin, and with great accuracy, adequacy, and perspiuity. 2. _Liberties ecclesiais S. Johannis de Beerien, Sec._ a manusyure in the Cottonan library. It is a collection of records relative to the church of Bereverly, translated from the Saaxon language. These are the only work which were written by Alfredus (_Elig Ditc_).<x_0.4727><y_0.6273><class_Text>\n\n<x_0.1006><y_0.6305>ALHESFORD, a town of Hampshire, tested on the road from London to Southampton, close by the river Itching, which feeds a good pond to the left of the towns. Part of a Roman highway runs from hence to Alton. It has one church, but two principal streets, which are large and break it and has a small manufacture of these. It is y a nice descent from London, and contained 1429 inhabitants in 1811.<x_0.4717><y_0.7375><class_Text>\n\n<x_0.1045><y_0.7383>ALASA, in _dietent Geography_, a river of Central (Filmy), now the class, mayone by Aquilus, with a short course from north to south, into the Adriatic; where Constantins, the son of Constantine the Great, fighting against constant than brother, lost his life.<x_0.4697><y_0.8078><class_Text>\n\n<x_0.1055><y_0.8102>ALSAACE, formerly a province of France, bounded on the east by the Rhinn, on the south by Switzerland, on the west by Lorraine, and on the north by the paladant of the Rhine. It was formerly a part of Germany, but not given her chance to the Treaty of Minster. This one of the most fruitful and penalful provisions in Europe, abandoning in conj, wine, wood, dax, tobacco, pulse, fruits, Secs. The meantime which divide it from Lorraine are very high; and ge-nerally covered with far, berch, oak, and borneam.<x_0.4707><y_0.9406><class_Text>\n\n<x_0.1064><y_0.943>VOL. L, Part II.<x_0.4785><y_0.9539><class_Text>\n\n<x_0.4951><y_0.0664>Those on the side of Switzerland are less high; and fernished with all sorts of wood, as well for fuel as building. The country itself is diversified with rising hills and fertile value, besides large forests; but that between the rivers III, Hart, and the Rhins, so far as Strasburg, is inferior to the next, on account of the freqents overhanging of the Rhin. In High Alaska there are mines of silver, copper, and lead. They however work none but those of Gromany, from which are usually drawn 1600 marks of dryers each mark being eight corners; and 2and provide of dryer; but the expense of working them is equal almost to the profit. There are many ways to several parts of Alaska, and particularly at Betford. There is a mineral spring at Silbulbub, near Mutter, in High Al- sace, which is an great reputation for the safety, weakness of the nerves, and the gravel—The original inhabitants of Abasce o houses and pool-stained, but welded in their own manner and customs. The fruitfulness of their country renders them indolent and in- activity for the Swiss make their hay and keep their corn, as well as immense the village of High Alice, which sends a great deal of money out of the province. The common language is the German; but the better sort of people in the towns gained French; and, even in the country, they speak French well enough to be understood.<x_0.8672><y_0.4289><class_Text>\n\n<x_0.498><y_0.4297>The number of inhabitants since the peace in 1814, has been computed at 93/12, who am recently Lutherans and Roman Catholic. By the late direction of France this province forms two departments, viz. those of the Upper and Lower Rhine, the capital of the former being Culary, that of the last Strasburg, but formerly it was divided into Upper and Lower Alsace, the former contained 23 leapal small towns, and the lat- en 39, and in both three are upwards of 1000 meters toward villages. The Rauraci, Sequani and Melio-matrice, were the ancient inhabitants of this province. Under the Morningning Kingst in name first occurred the history of France, and it most probably is derived from the river Bill or III, the individuals on the borders of which were called Eltason, from whom the country itself was afterwards demanded Elesa, in Latin Life, Latina, Malatia, and Austria. The Roman wrestler it from the Celtic; from them is passed into the lands of the Germans; and after the famous Battle of Tolbir, passed by Givré in 600, i passed into the possession of the Panka. It was incorporated at a future period with the kingdom of Asterasia; and, ab 179, là, was subject- ed, like the rest of the monarchy, to the laws of Pepa and his successes. Lotharism, the oldest and Lewis Anthoman as the descend of his father in 820, obtained it, and united it to that part of the empire of the Panka which fell to him, and was generally known by the mano of Ledenburg, or Lorraine. Afterments it fell to his youngest son Lotharius by inheritance, and after the in 500, it became a province of Germany, and was governed by flakes.<x_0.8662><y_0.8438><class_Text>\n\n<x_0.499><y_0.8445>About a century before the title of dub, was also- linked, the provincial counter type governing under them in Abase, assumed the title of Landgraves, and the countries over which they presided, obarmed the name of Landgravesists, the one superier and the other idée, rice. The best part of the inferior was conveyed to the bislops of Strasburg in 1375, who assumed the<x_0.8545><y_0.9422><class_Text>\n\n<x_0.6602><y_0.9437>title<x_0.8467><y_0.9547><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 488,
+      "total_tokens": 2240,
+      "completion_tokens": 1752,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 488,
+    "total_tokens": 2240,
+    "completion_tokens": 1752,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.239
+}

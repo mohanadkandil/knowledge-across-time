@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:10.616194+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "cd2b8b731ce43d239964ddf76fd68b256443be0799a8674a66528970f584a73b",
+                "characters": 193059
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-20ff90da-6042-4142-ac63-a6f25ec29d86",
+    "object": "chat.completion",
+    "created": 1792322591,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3662><y_0.0375>RIVER. 299<x_0.8916><y_0.0641><class_Page-header>\n\n<x_0.3652><y_0.057>RIVER.<x_0.5068><y_0.0602><class_Page-header>\n\n<x_0.8525><y_0.0484>289<x_0.8926><y_0.0648><class_Text>\n\n<x_0.04><y_0.0578>This is by no means so easily solved as the discharge over a wrist and for course do it with the same degree of evidence. We imagine, however, that the following observations will not be very far from a true account of the matter.<x_0.4297><y_0.1461><class_Text>\n\n<x_0.041><y_0.143>We may first suppose a reservoir LFBM (fig. 22) of stagnant water, which has a washboard of the height AB. We use then determine by the foregoing problems, the discharge through the plane RC. With respect to the discharge through the part CA, it should be required to be the product of this part of the section by the velocity cor- responding to the fall EC, which is the difference of the higher of water systems and have borne the bar, for because the difference of Jax and Cix is equal to EC, every particles of water in the plane CA is present in the directions of this stream with the same force, the weight of the column EC. The sum of these discharges should be the whole discharge over the bar, but here does the line is set up into a running river, its discharge must be the same with that of the river. The water of the river, when it comes to the case of the box, an activated some velocity by its slope, other causes, and this corresponds to some height FE. This velocity, multiplied by the section of the river, there are the height EB, should give a discharge equal to the discharge over the bar.<x_0.4248><y_0.4461><class_Text>\n\n<x_0.042><y_0.4437>To avoid this complication of conditions, we may first compute the discharge of the line in the meaner now point of out, without the consideration of the previous velocity of the term. This discharge will be a little too small. If we divide is by the section 13, it will give a primary velocity too small, but not in from the time. Therefore, we shall get the height PE, no means of which we shall be able to determine velocity intermediate between DG and CH, which would correspond to a wear, as also the velocity CH, which corresponds to the type of the section C4, which is wholly under water. Then we correct all these quantities by repeating the operation with them instead of our first assumptions.<x_0.4229><y_0.6023><class_Text>\n\n<x_0.043><y_0.5977>M. de Baut found this computation extremely near the truth, but in all cases a little greater than observation exhibited.<x_0.4209><y_0.6039><class_Text>\n\n<x_0.0391><y_0.6031>We know now solve the problem in the most general terms. Paca IV Given the breach depth, and the slope of a river, if we confine its passage by a har or writ of a known height and width, to determine the rise of the waters above the bar.<x_0.4219><y_0.6984><class_Text>\n\n<x_0.041><y_0.6937>The slope and dimensions of the channel being given our formula will give us the velocity and the quantity of water discharged. Then, by Problem II, find the height of water above the smoothness!. From the sum of these two heights deduce the ordinary depth of the river. The term marked is the rise of the waters. For example:<x_0.4033><y_0.7703><class_Text>\n\n<x_0.0439><y_0.7641>Let there be a river where ordinary depth to 3 feet, and breadth 40, and whose slope is I‡ inch in 100 fahsons, or gives. Suppose a wear on this river 6 feet high and 18 feet wide.<x_0.4199><y_0.8195><class_Text>\n\n<x_0.041><y_0.818>We must first find the velocity and discharge of the river in its natural state , we have _i_=450 inches, _A_=26; \\(\\frac{1}{s}\\) = nine. Our formula of uniform motion gives V=23+5, and D=30537 cubic inches.<x_0.4189><y_0.882><class_Text>\n\n<x_0.0381><y_0.8812>The contraction chains here on the three sides of the orifice. We may therefore take \\(\\sqrt{2G}=26\\). (This co- vol. x).<x_0.4014><y_0.9195><class_Text>\n\n<x_0.4355><y_0.0633>ample is M. de Bust’s and all the measures are French.) We Pretrial have also a (the height of the wear)=7z, and \\(2g=724\\). Inference<x_0.8896><y_0.0961><class_Section-header>\n\n<x_0.4365><y_0.0938>Then the equation \\(A=\\[\\frac{V}{V81\\}\\sqrt{2G}]\\) \\(\\frac{D}{\\sqrt{v2g}(q+/2)}\\) becomes A=20-182. Add this to the height of the wear, and the depth of the river above the stable at 102-182 inches as 8 to each of 182 inches. From this take 3 feet, and there remains 5 feet and 6·182 inches for the rise of the waters.<x_0.8262><y_0.1773><class_Text>\n\n<x_0.4375><y_0.1742>There is, however, an important circumstances in this rise of the waters, which must be deslusively undertaken before we can say what was the interesting effects of this wear. This work extends, as we all know, how to considerable distance up the stream, but is less sensible as we go away from the wear. What is the distance to which the swell extends, and what means does it produce in the depth at different distances from the wear?<x_0.8242><y_0.2734><class_Text>\n\n<x_0.4346><y_0.2687>If we suppose that develops and the breadth of the channel remain as before, it is plain, that as we come down the stream from the pairs where the swell is insensitive, the depth of the channel increases at the way to the dam. Thereor, as the same quantity of water passes through every section of the river, the velocity must diminish very nearly in the same proportion that the electron presence. But that being one open streams, and therefore the velocity being apparently connected into the edge of the surface, the follows, that the slope of the surface must diminish all the way from that point where the well of the water is inaccessible to the dam. The sunhes, therefore, cannot be a simple incident plane, but must be concave upwards, as represented in Fig. 23.<x_0.8223><y_0.4484><class_Text>\n\n<x_0.6768><y_0.4352>Fig. 23.<x_0.8213><y_0.5281><class_Caption>\n\n<x_0.6152><y_0.4469>X\nX<x_0.8203><y_0.5273><class_Picture>\n\n<x_0.4277><y_0.7633>This is all that we can say with precision of this curve. M. de Bust examined what would result from supporting it on arc of circle. In this case we should have Dx±DE, and AF very nearly equal to 2AD, and as we can thus follow we see the weak length of the the swell, and also the distances of any part of the curve from the primitive surface EB of the river, for those will be very near- b in the dielectric properties of their distances from F. Thus ID will be one fourth of AB, s.e. Therefore we should obtain the depth Id of the season in this place, cutting the depth of the site, and knowing the discharge, we get the velocity, and can compare this with the slope of the surface at L. This should be the slope of that<x_0.8096><y_0.9266><class_Text>\n\n<x_0.7373><y_0.9242>20<x_0.7607><y_0.9367><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 1988,
+      "completion_tokens": 1470,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 1988,
+    "completion_tokens": 1470,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.398
+}

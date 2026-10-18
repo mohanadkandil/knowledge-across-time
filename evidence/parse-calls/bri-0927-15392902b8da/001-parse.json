@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:18.106349+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "2aaaa67d7fc9d0ca410e03c4b3b586a0143214ae9852d79ad0dab308c434b0bf",
+                "characters": 185063
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-b8ef7cf0-330b-4784-ae86-f418d2f62fc4",
+    "object": "chat.completion",
+    "created": 1792322538,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0625><y_0.0297>338<x_0.1084><y_0.0492><class_Page-header>\n\n<x_0.3555><y_0.0266>P H A R M A C Y.<x_0.6855><y_0.0477><class_Page-header>\n\n<x_0.8896><y_0.0305>Paras IL<x_0.9756><y_0.0469><class_Picture>\n\n<x_0.0713><y_0.05>Preparations and compulsion<x_0.1338><y_0.0984><class_Caption>\n\n<x_0.1328><y_0.0484>fulphur, virololated tartar, and oily matter. In the large minnafacures, the alkaline part is indeed confirmed from impurities by mixing the weed allhes with water evaporating the clean ley, and burning the medium in an oven but bedleins that sharpened cell is difficult for the complete expanded the impurities, its also favorable quantity of diny mass ters, giving to the alkali-free power appearance (where it is many), and rendering it altogether until for pharmaceutical purposes. By the procedure here directed, the alkali is effectively freed from all their three groups matters, accepting perhaps a final proportion of virololated tartar, or other neutral salts, which may very generally be neglected. Avis he has proved on at ten calcination is intensely; it is probable that the fix edalkal thus prepared will not prove to coultic, that is so far, it can be considerably deprived of fixed as as in the powder directly for preparing the fait car tar. It is, however, sufficiently pure for molt pur polices and we couldn't me above proceed as the convenient and cheap method of obtaining the vegetable oil alkali in its mild flare.<x_0.502><y_0.3477><class_Text>\n\n<x_0.1348><y_0.3469>The purified vegetable alkali has been known in our phumaspeasia under inefficient names of _lafi of warn_- _monds, fali of tortor_, lec. Bustli these being now known to be really the flame, the terms as leading to errors have been with julitice engaged; i and it has been deildetsum to doowone force more equally applicable to the whole. The term employed by the Edinburgh college is too long, being rather a decription than a name but to that employed by the London College, _Fully,_ of children have also been made. And it mult bc allowed, that besides the inconvenience which urine from to being an individual word, the folfil kiki is equally limited to the false population. Bedles this, as a considerable portion of the folial alkali is prepared from bringing a vegetable growing, the the roads, which has the name of kain, the kali fireofum of lairie, fome apparent contradiction and ambiguity may therefore arise. And one London college would perhaps have done better, if they had adopted the time _Portfolio_ a name which has been appropriated to this fall by home of the moll element modern chemifits.<x_0.501><y_0.6422><class_Text>\n\n<x_0.1357><y_0.643>The purified wells is frequently enjoyed in medicine, in condition with which areatives, particularly for the formation of feline neutral dragts and mixtures. But it is used alab by itself in dolice from three or four points to 15 or as and a frequent epe-rates as a powerful diuretic, particularly when aided by proper dilution. See _TEXAS\\_90 and Por-a31._<x_0.5><y_0.7391><class_Text>\n\n<x_0.2461><y_0.7352>_Water of kali. L._<x_0.499><y_0.7398><class_List-item>\n\n<x_0.0752><y_0.7578>312 Take of kali, our poaud, felt it by in a moti place till it be diloved, and then flan it.<x_0.498><y_0.7859><class_Section-header>\n\n<x_0.1211><y_0.7852>This article had a place in former editions of our phumaspeasier under the idea of _by of tartar, or oli of tartor per deligium_, &C. It is, however, to be con-ified a a new water, foliation in the mid vegable ekiklit. formed by its scratching lineure from the air, and therefore it is with property flytled the _water of kali_.<x_0.4971><y_0.882><class_Text>\n\n<x_0.125><y_0.8781>The millions of fixed alkaline fats, made by ex- puding them to a motit air, are generally confidered<x_0.4961><y_0.9117><class_Text>\n\n<x_0.5146><y_0.0508>as being purer than thofe made by applying water directly for through the file be repeatedly diffused in water, filtered, and reflected y yet, on longer, figued by the humidity of the air, it will fill depo- rise in portion of earthingness but it mall be ob-ferved, that the eachized flat leaves always an earthy matter on being diluted in water, as well as on bec- ing disipated in the use. Whether it leave more in the one way. In the order, in not determined with precifion. The delipated lixivium is fail to contain nearly one parts of alkaline fat to have of an aqueous fluid. It is indifference, in regard to the lixivium itself, whether the white afes of tartar, or the flat certified from them, by old yield; but as the afters have a much greater quantity of earth, the fiparation of the ley proves more troublefome.<x_0.8965><y_0.268><class_Text>\n\n<x_0.5156><y_0.2656>The water of kali of the preferdition of the Lou- don phamaspects, then, may be considered an an improvement of the lixivium tartari of their former edition. But the Edibungu colleges, considering this foi- skinism being to no verifyet different from the ane ley pure water, have entirely rejected this preparation from their phamaspects, and probably with julitice.<x_0.8955><y_0.3633><class_Text>\n\n<x_0.5166><y_0.3586>_Water of kali. I._<x_0.7422><y_0.382><class_Section-header>\n\n<x_0.5176><y_0.3828>Take of kali, four pouds, quicklime, fix pounds; diffilled water, four gallons. Put four plots of wa- tor to the lime, and let them float together for an hour per which, add the kali soil the raft of the water; then bolil for a quarter of an hour; differ the liquor to cool, and frisin. A plot of this liquor ought to weigh 60 causes. If the liquore efferves with any acid, add more lime.<x_0.8945><y_0.4961><class_Text>\n\n<x_0.5186><y_0.4945>A preventative finding to this had a place in the former edition of the London phamaspects, under the title of _opay_. Quickline, by depriving the milk alkali of his small shell, renders it could hence this key it much more astronautous, and acts more powerfully as a neatrium of oils, fats, &c, than a foliulose of the potaffa alone. The heat should be ruled fresh from the kala; by long keeping, even in close within, it lofa its strength; if huchould be made choices of as a thoroughly heart or exclined, which may be known by its comparative lightents.<x_0.8975><y_0.6445><class_Text>\n\n<x_0.5195><y_0.6438>All the information employed in this proceeds should be either of wood, earthers, or gells the common montilities ones would be corroded by the ley, to as either a difcolour or communicate difagreeable qualities to it. It shall be needed to filter or finis the liquor, cure mal be taken that the litter or finisher or be of vegetable matter; woolies, flik, and that fort off filtering paper which is made of animal fluffances, are quickly corroded and dilolved by it.<x_0.8877><y_0.7688><class_Text>\n\n<x_0.5205><y_0.7641>The liquor is also conveniently weighed in a narrow-weekly girls twisty of fresh a free, that the measure of a wine pint mayarlic fome height into its neck; the place which is reached being marked with a diamond. A plot of the common leys of our forspmakers weighs more than 160 cmese; it has been found that their flap is will be reduced to the flank and here proopod, by mixing it with something left than an equal measure of water.<x_0.8867><y_0.8891><class_Text>\n\n<x_0.5215><y_0.8836>Although this liquor is indeed pure alkali dilived in water, yet we are inclined to give the preference<x_0.8857><y_0.9219><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2159,
+      "completion_tokens": 1661,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2159,
+    "completion_tokens": 1661,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.917
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:02.038770+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "1430e50604d66919b7f66e31bdc082beab57a17ab7dcd91355ea24f9d167372a",
+                "characters": 234355
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-58c42805-e6bc-4d89-bbb9-ccae8b7ee50a",
+    "object": "chat.completion",
+    "created": 1792322462,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0547><y_0.0336>836<x_0.1006><y_0.0516><class_Page-header>\n\n<x_0.377><y_0.0344>WEIGHING MACHINES.<x_0.7324><y_0.0563><class_Page-header>\n\n<x_0.0537><y_0.0555>Weighting Machines<x_0.1201><y_0.0875><class_Caption>\n\n<x_0.1182><y_0.057>context. In this passage, as in the former instance, the word _pledes_ precedes meznazini, both words being brought together, and occurring in a parallelism. The passage referred to is rendered in our version, \"who hath weighed the mountain in scales, and the hills in a balance.\" The word here rendered scales of the plurals, is the singular noun _pheles ;_ while that rendered balance, is the dual word _mazain._ The English therefore would better accord with the original, were the term in the translation reversed in order, and read thus: \" who hath weighed the mountain in a balance, and the little scales\".<x_0.5537><y_0.1945><class_Text>\n\n<x_0.1191><y_0.1938>Weishee pleks, however, means properly a steelyard, as Gesenius defines it, may be doubted. The reason for surpassing it does, seems apparently to rest on the circumstances that _hephele_ in the Arabic (case probably a corruption of _hopplelets_, the definite form of the Hebrew word) is the name of the Arabian weighing instrument of the present day’s and because it was a standard, and is known to have been in long and almost exclusive use in Arabia, and indeed in all Asia, that therefore the related or parents your pheles must choose the steelyard. But this rests on the assumption that the common balance had never been taken by to the Arabians. Job, however, who is shown to have been an illumane Arab, and to have resided in the north of Arabia,\"does not use pheles, but _mozanains_,\" to express the balance \\; a word which, as already shown, deines the quantum or condim-armed one, and at that period of course undoubtedly used in Arabia.<x_0.5527><y_0.4><class_Text>\n\n<x_0.1172><y_0.3992>Perhaps what words may therefore be regarded as synonyme terms for the common balance; the one description of it by reference its team or balance-rod, and the other by references to his pair of scales. This view receives further confirmation from the circumstance that there is one Hebrew word in the Bible which may be shown to refer with some distinctiveness to the keyboard. Isaiah, in a passage subsequent to that above quoted, when describing the construction of idol images, says, \"they (the Babylonians) weight silver in the balance,\" And (cup.vivi. G) , and here makes use of the Hebrew word _kernel_ to denote the kind of balance meant. Gesenius, p. 699, explains this word to be a case, or _meaning redd, or scale for measure;_ a beam or leer of a balance, or balance itself. The word has thus evident reference to a graduated staff or beam,\" and probably therefore when used, as in the present instance to express thewing instrument, doesn't rather the greatest steelyard, of which it is thus descriptive, than an ordinary balance or pair of scales. As it is not used to express a writing instrument in any other passage of the Bible, and as Isaiah is here giving a minutely graphic picture of the process observed by the Babylonians in the manufactures and correct adjustment of the weight of their gods, it is probable that the instrument named was castern invention constructed in all individual of the sugar \"swear care,\" a sense in which the word learns is also used.\" These remarks appear to receive some illustration from the fact, that in China and the East India as small steelyard (described in one article BLA-von, in 300) is employed to weigh precious metals, gems, èc :, and to this day is made of wood or ivory, and not improbably also of cana, as substance which, from lie combined lightness and strength, is well suited for the purpose.<x_0.5508><y_0.8039><class_Text>\n\n<x_0.1162><y_0.8031>This is probably the first mention of the steelyard on the cord, six, in itsish time, and about 750 years s. e., -, at which period it thus appears to have been in use among the Babylonians. It seems to have superseded the common balance<x_0.5479><y_0.8539><class_Text>\n\n<x_0.5518><y_0.0617>in Asia ; and, through the Romans, to have come into ex. To tensive use in Europe. The amensed figure is a representation of one made in the first century, and not long since recovered from the ruins of Pompeiis, which town, with many of its inhabitants and their utensils, by buried, for nearly eighteen countries, in the shower of volcanic matter thrown out by Vesenvis, A. D. 70. Like some of our steelyards, this ancient one is provided with two different centres of suspension. It wants how ever the knife-edge learners are universally used. In the progress of ironism, the modifications of the steelyer have become numerous in the form of compound machines; but these are of comparatively modern data, but do not require successive detail. Descriptive of the material varieties of the balance will be found here, and under our previous articles on the subject, and as it is needed to embrace the present opportunity of classifying their different kinds under distinct heads, references to those already described will be introduced in their proper place.<x_0.9551><y_0.3211><class_Text>\n\n<x_0.5547><y_0.3266>I. Balances acting as Leers round one or more Fulder, and requiring experimental Adjustment when used to exercise the Weight of Subdatabase.<x_0.9541><y_0.3719><class_Section-header>\n\n<x_0.5557><y_0.3742>To this class belong the Common, the Roman, the Chinese or Indian, the Danish or Swedish, already described under BALANCE and MECHANICS, pp. 358 and 370; and Magdalas, Mr Hale's, and Dr Black's, under Machenius, pp. 371 and 456.<x_0.9473><y_0.4383><class_Text>\n\n<x_0.5566><y_0.4391>This is a important steelyard, and is used for such ten training the weight of loaded cart. The proportion, d which which a ground-plan is here given, is arranged in a bot. ABO), which is about twelve inches deep, and is sufficiently sum in the ground to plant the highest part of the completed machine on a layer with the line of road, fixed wooden bridge, by which the horse may pass across the machine, is over the middle part of the box. At each side of this bridge is a metal wheel track. On these the cart is used by its two wheels and a step staff. The tracks are fixed to and borne up by a platform (or skeleton frame) placed below the wooden bridge, but above the works. The platform like four short feet, the lower cels of which are formed into small hemispherical cavities. These cavities react at B, P, G. If the pointed stab short on the long. The two studs in S and T are fast to the crooked lever AKB, with their points upward, and the two at G and II are similarly fixed on the comparison river DDC. sharpened studs, also about an inch long project downward from the four extremities of the cooked levers. The points of these studs react in small hemispherical cavities, formed at the upper cents of blocks which as not lost beararers from them in each corner of the box. The slot parts of the cooked leaves parallel to Oi, and near the middle of the box, have their main edges sharpened, and rest on the angle of a sustaining fulcrum IK, which past through, and is fixed to the lever OM. This item is also crossed at L by the fulcrum which the crosses center of movement for the whole machine. The angle of the fulcrum points downward, and ress, as in the entirely<x_0.9512><y_0.8555><class_Text>\n\n<x_0.832><y_0.4906>R\nX\nX\nX\nX\nX\nX<x_0.9482><y_0.607><class_Picture>\n\n<x_0.1289><y_0.8711>1 Home’s Critical Study of the Seriptures, 1825, v. in, pp. 74, 76.<x_0.5322><y_0.8867><class_Footnote>\n\n<x_0.8203><y_0.8719>S July, vi. 2, and 125. 6<x_0.9463><y_0.8852><class_Footnote>\n\n<x_0.1143><y_0.8844>3 In this sense it occurs in many passages. Thus, Zekelal, 3L 3-5 - § With a line of flax in his hand, and a measuring rod--and in the man’s hand a measuring myself of rice exhibit long; or be mounted the breadth of the building,\" éc.<x_0.7178><y_0.9047><class_Footnote>\n\n<x_0.1133><y_0.9039>4 Thus, in Jerusalem, vi. 20. — “ No help purpose constits there, so me insense from Shichie, and the recent came from a far country; just burnt-offerings are not acceptable, nor your sacrifices sweet unto me.”<x_0.9453><y_0.9297><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 558,
+      "total_tokens": 2420,
+      "completion_tokens": 1862,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 558,
+    "total_tokens": 2420,
+    "completion_tokens": 1862,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.808
+}

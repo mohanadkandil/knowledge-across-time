@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:20:53.231341+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "e55b6842f140fdc3dfbb974c2743e2d07df28f0f02874875e5a475e2bfb67e08",
+                "characters": 210991
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-edab8191-b2d1-45ea-bcd5-74a3daf963c8",
+    "object": "chat.completion",
+    "created": 1792322453,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.167><y_0.0453>M E L [ 497 ] M E L<x_0.7393><y_0.0664><class_Page-header>\n\n<x_0.002><y_0.0641>Molecers, fo called when their contents are of the confi-ence of honey. See Tutuoro, SURGERY Index.<x_0.4697><y_0.1055><class_Text>\n\n<x_0.0605><y_0.1062>MELICERTA: Mericarays, or _Meliteria_, in fa-bakho history, a fan of Athama and Iran. He was fared by his mother from the fury of his father, who prepared to both him against it will be he had done his brother Laachou. The mother was for terrified that the threw benefit into the fea with Melicerta in her arms. Nephine had competition on the misfortunes of hins and her fun. He changed them both into for duties. Ino was called Leucoloid at Manita; and Melicerta was known among the Greekly the one Peatures and among the Latinas by that of Portamans. Some fuppods that the Ithmian games were infiltrated in bo-nose the Melicerta.<x_0.4492><y_0.2586><class_Text>\n\n<x_0.0596><y_0.2594>MELILLA, an ancient town of Africa, in the king-dom of Fez, and in the province of Garet. It was taken by the Spurands (1450), has returned back to the Moors. W. Long. 2, 3 N. Lat. 3y z. 20.<x_0.4473><y_0.3109><class_Text>\n\n<x_0.0586><y_0.3117>MELLIOT. See TRATOLIUM, Botany and AGMI-CUITURE Index.<x_0.4463><y_0.3344><class_Text>\n\n<x_0.0576><y_0.3359>MELLINDA, a kingdom on the east coast of Africa, fluttered according to forms, between the third and fourth degree of fault hitters, though there is great difagreement among geographers as to its extent. It is allowed by all, however, that the coats are very dangerous, being full of rocks and delves, and the fea au time before very linked to tempatts. The king-dom of Melinda is for the melt part rich and fertile, predecs, including all the necesifites of life except wheat and tree, both which are brought children from Can-bava and other parts; and those who cannot purchase them make side of potatoes in the first read, which are here five, large, and in great plenty. They likewise abound with great variety of fruit trees, roots, plants, and other elements, with melon of exquisite tate. They have allo great plenty of vention game, scen, fleeep, ben, spele, and cotton pantry,&c. and one breed of fleege whole tails weigh between 30 and 40 pounds. The capital city is also called Melinda.<x_0.4482><y_0.5789><class_Text>\n\n<x_0.0566><y_0.5805>MELIUNIA, Hanaher Hilory, the name of an earth famous in the earliest ages of painting, being the only white of the great patrizes of antiquity; and, according to Piny's account, one of the three colours which while alone they performed all their works. From the description given of this earth it forms to be alu-minus, tolerably pure, and in a fate of minute di-vifon.<x_0.4453><y_0.682><class_Text>\n\n<x_0.0557><y_0.6828>MELISSA, in fabulous history, a daughter of Me-liflus King of Crete, who visit her father Amalibanes fed Jupiter with the milk of goats. She fril found out the means of collecting honey; whence it has been fabled that she was changed into a bee, as her name is the Great weed for that infect.<x_0.4443><y_0.7586><class_Text>\n\n<x_0.0547><y_0.7578>MELISAS, Banan, a genus of plants, belonging to the disiryumia cats; and in the named method making under the aid order. Perishlists. See Botany Index.<x_0.4434><y_0.7984><class_Text>\n\n<x_0.0537><y_0.7992>MELISSUS of Samos, a Greek philosopher, was the fan of Ringines and the difficile of Pararmones’s and lived about the 440 B.C. He pretended that the univerie is infinite, immovable, and without a vacuum. Thanthlecte was among his pupils.<x_0.4502><y_0.8617><class_Text>\n\n<x_0.0527><y_0.8625>MELITE, in its Ancient Geography, an illand refer-red to Africa by Seylax and Putlemy; but nearer Si-city, and allotted to it by the Romans : commended<x_0.4453><y_0.8992><class_Text>\n\n<x_0.0752><y_0.9>Von. XIII. Part II.<x_0.2295><y_0.9141><class_Text>\n\n<x_0.459><y_0.0672>for its commodious harbours; for a city well built, with artifacts of every kind, especially weaver of fine lines, all owing to the Picomansians, the first colonists. Now Mala / remarkable for St Fash hipperole. See MALTA.<x_0.8486><y_0.132><class_Text>\n\n<x_0.4727><y_0.1328>Malizra, Malita, or Melitina Maldy, an illand on the coat of Illiyricium in the Adriatic. The Candi Melieri (Piny) were famous. Now Melede, the name of the illand Samos. See Samos.<x_0.8477><y_0.1836><class_Text>\n\n<x_0.4736><y_0.1844>Malizre, in _Anciast Geography_, a town of Ionia, struck out of the number of Ionian towns on account of the arrogance of the people, and beyond admitted in June of the Roman is not specified.<x_0.8467><y_0.2336><class_Text>\n\n<x_0.4746><y_0.2352>MELITENSIS TERRA, the Earth of Malta: an earth, which bears are two very different kinds; the one of which is a bolo, the other a mart. The latter is that known by medical authors under this name; the former is the like each earth now in us, but both being brought from the fama places, are critically cal-led by the fama name. The Maltelle mari, which is the _loro Melithero_ of medical matters, is a loef, cumming, and light early of an unequal and irregular texture; and, when exposed to the weather, too falls into that field powder, but when preferred and dried, it becomes a loose, light safe, or a dirty white colour, with a grayift calf; it is rough to the touch, adheres firmly to the tongue, is way easily carried to paw- due between the fingers– and flints the hands. Thrown into the water, it (wells, and afterwards moulders a way into a fine powder. It ferhens very violently with acids. Both kinds are found in great abundance in the illand of Malta, and the latter has been much offered as a remedy against the bits of venomous animals. The other has applied to place in the Ger-man shops; and is ufde there as a cordial, fadorice, and affinogues.<x_0.8496><y_0.5289><class_Text>\n\n<x_0.4756><y_0.5281>MELITO (comonized), billop of Sardis in Lydia, in the forced century; remarkable for the apology he preferred to the Emperor Azurelia, in favour of the parirars; on which Eulebisha and the other ancient ecollefallical writers below great praises: but that apo-loys are all Militia’s where works are loll.<x_0.8457><y_0.6047><class_Text>\n\n<x_0.4766><y_0.6039>MELITUS, a Greek onion and post, the acculer of Socrates. The Athenians, after the death of So-carates, offeroying the majority of the features they had pradling against that great philofopher, pot Melitus to death, 420 B. C.<x_0.8447><y_0.6711><class_Text>\n\n<x_0.4775><y_0.6703>MELERE, a lake of Sweden, 80 miles long, and 30 broad; on which funds the city of Stockholm.<x_0.8438><y_0.6961><class_Text>\n\n<x_0.4785><y_0.6969>MELLI, with the country of the Mundingoes, in Africa. The country formerly called Bell, now chiefly inhabited by the Mundingoes, who fill retain pretty much of the character afirched to the people of Mell, lies to the fuouth of the river Gamba, on the well, it borders on the Kingdom of Kabey; on the fourth it has _Melli_, property for called, and the mountains that part it from Guinea y and on the dall it extends to the king-dom of Gago. With a great part of this country we are little acquainted, as is the cafe with regard to mold of the island charterise of Africa, but towards the far coast this country is a little better known.<x_0.8457><y_0.85><class_Text>\n\n<x_0.4795><y_0.8492>The first place of note we meet with a Kasha, a Peoplegate colony situated on the river of St. Do-nings, which falls into the fea about 30 league below this town--About 20 leagues above Kachao, on the<x_0.8457><y_0.9023><class_Text>\n\n<x_0.6436><y_0.9039>3 R famil<x_0.8506><y_0.9156><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2421,
+      "completion_tokens": 1893,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2421,
+    "completion_tokens": 1893,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.131
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:07.883383+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f39cc5cbb89bac0793790d954314280f336b96341c6f318177965073f559babd",
+                "characters": 204179
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-581b8e01-7791-414a-9352-2d92b313a402",
+    "object": "chat.completion",
+    "created": 1792322468,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.207><y_0.0203>RUD [ 545] RUD<x_0.7705><y_0.0445><class_Title>\n\n<x_0.0264><y_0.043>Rudhiman, before-mentioned licence, it can only operate to fleer a flip large (and that but very mildly), and of course, under the circumcision of a leechons, defeat the moll fell earlier tornant as a femman. Several other expeditions have been adopted, which I fault the mention here, as this fine felicles earlyly appear in all.<x_0.4863><y_0.1328><class_Text>\n\n<x_0.1094><y_0.132>\"That is was apparent, that ample room was left for the discovery of some more certain references than any of the former; and the forces within the forgetting itself to my, will, it truth, be found fully to answer the pur-pfe intended. The memories that has formerly any fly can venture to fan without; and the confrontation to freely, cry, and simple, that the capacity of the meninell folks will an once exercise. In I need not from problematic principles, flown the creativity of his effect, as it is formed and managed in the frame manner as a little common rollers, and as the common roller is certainly of all inventories the bad calculation for put-ding a veiled through the water, it will of course follow, thus whatever faithless the interest toflesthis, must be het entered to finally its fold.\"<x_0.4922><y_0.3344><class_Text>\n\n<x_0.1172><y_0.3328>RUDDIMAN (Thomas), one of the most prominent grammarian which Hebahas has produced, was born in October 107, at Bagels, in the parish of Royode and county of Bañl. His father James Ruddinam was a farmer, and strongly attacked to the board of Sturu.<x_0.4951><y_0.4148><class_Text>\n\n<x_0.1182><y_0.4102>Mr.Ruddiman was introduced in the principle of La- this grammar at the push-school of E Reynolds, where his application was for viprons, and his progress to repil, that he quickly furspifted all his child-fellows. His maker George Morley, who was a digital artative teacher, being unwilling to check his ardoro for learn-ing, practical him to follow the impille of his genuine, and to advance without wasting the law prospect of the other boys.<x_0.4961><y_0.5391><class_Text>\n\n<x_0.1191><y_0.5367>The platform which the youthful mind receives from valid description, though wild and romantic, approaches to relacy, and often makes an imperfection which remains invisible. Whilst of School the first book which charmed the opening mind or Ruddinam was Divid’s Meta-morpholes; nor did he cease to reall the beauties of this author when his judgment was mature, for during the redi of his life Oval was his favourite post.<x_0.498><y_0.6469><class_Text>\n\n<x_0.1201><y_0.6438>At the age of factors he became anxious to prophis his thuies as the university, but his father thinking him too young, oppdof his inclination. Hearing of the competencies, which was usually held as King College, A fewens, for a central number of barlines on the foundation of that university, Ruddinam's ambition was kindled. Without the knowledge of his father, and his only a fingers against in his pockets, with his father had anxiety given him, he fet out for that place. On the road he was next by a concept of mystery, who reboot him off his ever to the floor, his siblings, and his guinea. This misfortune did not damp his en- terrying! Spirit: He continued his journey to Aber den, preferred should hence the welfare as a entid- des; and though he had neither clothes to give him a decent appearance nor friends to recommend him, he gained the full prize.<x_0.499><y_0.8758><class_Text>\n\n<x_0.1211><y_0.875>After attending the unifery four years, he obtain- elh the degree of matter of arts, and honor at which she was taken ground. The thiefa fays, the difusionan on this occasion listed ob aurera uigne ad refererum, i. e.<x_0.5><y_0.932><class_Text>\n\n<x_0.4912><y_0.0305>from morning till night.\" The Ruddiman was only Ruddiman, twenty years of age when he left the university, it sp- years from a book initial _Rottericarum Libri trers_ com- poefed before this period, but never published, that he had then read the Roman cliffs with uncommon at enemies and advantage.<x_0.9404><y_0.1227><class_Text>\n\n<x_0.4932><y_0.1164>He was from after engaged as a textor to the fun of Robert Young, Eliy of them, the great grandion of Sir Peter Young, who under the direction of Bucha- nua had been prepped of James VI. His income we must have been very family, or his function suppleant a for within a year he accepted the office of Schol- maelne the parth of Laurence-kir. The proftion of schoolmother is a country-parth is that period could open no field for ambition, nor project of great emalismus for by an act of a palmature pulled in 633s, the flattery opportunities to their office could not be im- erred above 200 merks Soms, 41: 1 : 2 : 2: 3 Sterling. In Edinburgh the dates of this month, because there, it is probable that he died Simina a _Rudimena Grammatica_, which was the genelinty might in the northern (behobus, and by which he himself had been influenced in the people of Latin grammar.<x_0.8857><y_0.3555><class_Text>\n\n<x_0.5488><y_0.3516>When Ruddiman had parts three years and a half in this emptyness, the celebrated Dr Vinciere’s happen- to pass through Laurence-kirk, was detained in that village by a violent form. Picincins wanting academic, inspired at the hoffs if the could process any agreeable companion to bear him company at din- nez. She replied, that the schoolmates though young, was fed to be leaving, and, though would, the was fure could talk. Picincine was delighted with the con- veritation and learning of how her companion, invited him in Edinburgh, and promotional ban has procuring.<x_0.8867><y_0.5031><class_Text>\n\n<x_0.5146><y_0.5016>When Ruddiman arrived in Edinburgh, the advocate library, which had been blended tighten years before by Sir George Macenzie, attended his coun- y and attention, and he was from after appointed af- filank became under No Speedth should the principal liraa huma office was 8: 6: 8. He had besides a small honary protest from all who were admitted advocate for correcting their clients he was able paid for copying manuscripts for the ufc of the library. And the faculty, before he had held the office copy years, were highly pleated with his conduct, that they made him a prefect of 50 pounds Scots, or 4: 4 : 3 : 4 Sterling.<x_0.8984><y_0.6805><class_Text>\n\n<x_0.5156><y_0.6781>During the fitting of the court of fellow he attended the library for ten until three. But this confinement did not prevent him from engaging in utter laborious duties -A part of his time was occupied in reaching young children the Latin language. Some he attended at their badgeay, force waited upon him and forms relied in his own house. An each lift of the names of those who attend him, expelling the date of their entry, and the fans which he was to receive from each, has been found in his pocket-book; a cu- rious echts, which is fill preferred.<x_0.8994><y_0.832><class_Text>\n\n<x_0.5166><y_0.8297>When Ruddiman meets an a reliable header, better known, his alliance was assuredly foliated by those who were engaged in literary publications. Prechairme, a refreshable booklike of this period, providing upon him to correct the purpose for the perls Sir Robert Sibhalat _Intradutin ad kliariam terma a Romana golja- rum in sa Borcalis Britaninie parte que alra marram_<x_0.9043><y_0.9305><class_Text>\n\n<x_0.6914><y_0.9242>36<x_0.7324><y_0.9437><class_Page-footer>\n\n<x_0.1445><y_0.9297>Vot. XVI. Part II.<x_0.501><y_0.9469><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2221,
+      "completion_tokens": 1723,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2221,
+    "completion_tokens": 1723,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.921
+}

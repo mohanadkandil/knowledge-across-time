@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0492-6661303edbed",
+  "row_index": 492,
+  "volume_id": "192984257",
+  "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 11, HYD-LIE - EB.11",
+  "label": 1,
+  "sha256": "6661303edbed5b77a632df4e86a93882a963e2e46fa979ce9e405b5b09e5e6b5",
+  "width": 600,
+  "height": 797,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=492",
+  "manual_seed": false,
+  "image_file": "../images/bri-0492-6661303edbed.jpg"
+}

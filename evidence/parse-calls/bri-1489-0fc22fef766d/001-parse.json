@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:30.435141+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "67dfbab552d1136dbcf7f081e058ff97417302e9079f75c10e5d1d81eef78bc5",
+                "characters": 103127
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-de7ffd08-274e-4b42-aec4-cb73805ecafe",
+    "object": "chat.completion",
+    "created": 1792322611,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3438><y_0.068>**GUNNERY.**<x_0.54><y_0.0875><class_Title>\n\n<x_0.7178><y_0.0688>**PLATE CCXLVII.**<x_0.9326><y_0.0883><class_Text>\n\n<x_0.0><y_0.1219>Fig. 2.\nA\nC\nFig. 3.\nK\nK\nK\nC\nP\nD\nI\nD\nB\nC\nA\nD\nB\nC\nA\nFig. 4.\nG\nT\nG\nF\nM\nFig. 5.\nC\nA\nT\nFig. 6.\nFig. 12.\nFig. 11.\nT\nMg\nS\nW\nP\nD C\nA\nR\nH\nA\nB\nM\nA\nB\nM\nA\nM\nM\nC\nP\nD\nH\nA\nE\nA\nFig. 8.\nFig. 7.\nA\nC\nC\nO\nK\nA\nFig. 13.\nG\nP\n9\nB\nA\nA\nB\nm1k1\nS\ndc\nP\nH\nA\nH\nA\nFig. 15.\nH\nA\nKRA\nFig. 16.\nA\nFig. 14.\nFig. 9.\nb\nA\nC\nC\nC\nC\nC\nC\nC\nC\nC\nFig. 10.\nV\nLau Culther Scale.<x_0.918><y_0.9383><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 842,
+      "completion_tokens": 314,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 842,
+    "completion_tokens": 314,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.124
+}

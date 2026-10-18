@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0802-ca1afe4eeb4f",
+  "row_index": 802,
+  "volume_id": "191689064",
+  "metadata": "Encyclopaedia Britannica - Sixth edition, Volume 12, LIE-Materia medica - EB.11",
+  "label": 0,
+  "sha256": "ca1afe4eeb4fe100eda3c2f5c86f9e957aa6b861243af18ffe497833c5535dda",
+  "width": 600,
+  "height": 792,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=802",
+  "manual_seed": false,
+  "image_file": "../images/bri-0802-ca1afe4eeb4f.jpg"
+}

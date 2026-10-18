@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:39.638491+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "225698770f788bb2a08ce59b93dd1207cf734f18ae7378c32abd1159b863f1c8",
+                "characters": 221527
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-d40b26ac-ece1-45a7-ac53-f90dfa71bb5c",
+    "object": "chat.completion",
+    "created": 1792322500,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0088><y_0.0>Sect. I. D Y E IN G. 2569<x_0.999><y_0.0398><class_Page-header>\n\n<x_0.0166><y_0.3469>Hypothle:\nconcerning\ntharation\nof the con\nhour.<x_0.0898><y_0.4055><class_Caption>\n\n<x_0.0156><y_0.7516>Mr Heller,\nhypothle\ndiperced.<x_0.0889><y_0.8047><class_Caption>\n\n<x_0.0176><y_0.7523>Mr Heller,\nhypothle\ndiperced.<x_0.0879><y_0.8055><class_Caption>\n\n<x_0.0186><y_0.8063>Laure of in prestatues, or inome of the dying in-gradient themselves. He happens that the pores of the fluff are cleaned and enlarged by the preparatory\nfalls, and by the boiling water, is fach a manner as to receive the colouring particles, which particles are afterwards detailed by the contraction of the pores co- cailoned by cold; and further, that these pores are linked with a false craft of tartor or viriolated tartar.<x_0.4863><y_0.9195><class_Text>\n\n<x_0.5049><y_0.0453>On this theory, the transfer of the Chemical Dic-tion has the following observations. \" Mr Heilot\nhas not shown that pore fixed alkali is incapable of producing the effects which he attributes to his tartar and viriolated tartar; and both their falsa, though they are difficult for solution and require great quantity of water for this purpose, will yet diffuse at halt a shell therefor, if the coloring particles were fixed directly by means of their falsa, they might be washed out by a large quantity of water; which we find to be contrary to experience.<x_0.9971><y_0.1875><class_Text>\n\n<x_0.5039><y_0.1883>We shall find it more difficult to fulfillute a true theory, than to refute that of Mr Hellot. Many ex- prinements ought to be previously made. Nevertheless\nit may be delivered, then the colorite particles of mold\nfubliances used in dyeing femen to be insoluble in wa- ter, in spirit of wine, and even in alkaline likivions; that their diffusion thief liquids is useful merely\ntheir afterdefon to certain gummous and refonos par- ticles; and that they may be infangaged from those\ngummy and reduces matters, by applying a piece\nfluff in, which they have a greater adhesive power,\nwhich forms to be the cake of the root-coloured and\nblue dyes, or by applying another forbidden to which\nthefy particles have a greater power of adhesion; fich\nas the earth of alum, in thofe dyes where that fall is\nand, together with some other folklance, as fast or reo-\nhicile alkali, capable of developing alum; or as the ferruginous earth of the green vitrol in black dyes,\nwhich the colorite particles of the galls adhere;\nwhich carries the capable of applying thematives and\nof adhering to the fluffs. The leparation of the col-\nturing particles from the gummy and refonos mat-\nness is probably facilitated by the addition of acids and\nneutral salts, which may recognize in force machine the vegetable matters, and leave the colorite particles dif-\nengaged; fis that, they apply themselves to the\nfluff, or to the earth above-mentioned!?<x_0.998><y_0.5539><class_Text>\n\n<x_0.5059><y_0.5547>But, in whatever way the falls used in dyeing do\nselt, it is certainly they are capable, except in a very few\ninfluence, of being and giving a bults and promenancy\nto the colour which otherwise could never be obtained.\nThe exception to this general skin most commonly\nknown, is that of indigo. This is a fine blue levels produced by fermentation from the leaves of the In-\nchain plans called cool. It is very difficult of foliation;\nhowever, it may be distilled by alkaline fats, concu- trated oil of virilol, orpiment, or combinations of hal-\nphare quickokine. If a quantum if judge is diffi-ed in a flattal ability, evolute alkalies will not differ\nlove it), the lotion is always green, which is the\nnatural colour produced all vegetable blose by the\nblacks but if any piece of fluff is put into the fashion,\nthough it remains green while immersed in the liquid,\nthe moment it comes in coastal with the air, the dif-\nfolking power of the anaklit to totally defeyed; the n-\ndigo is precipitated upon the cloth, refumes its native\ncolors, and dyes the choice bloc.<x_0.9961><y_0.8242><class_Text>\n\n<x_0.5068><y_0.825>The results of this preparation is very difficult to be\ninvestigated. Perhaps it may be owing to an att- traction of fixed air by the alkali from the atom-\nphen, which renders the fat unrable to diffuse the\nindigo any longer. The collection of the colour femes\nmerly owing to an attraction between it and the cloth; for the alkaline felt can contribute nothing to this, but\nwould.<x_0.9951><y_0.9328><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 1558,
+      "completion_tokens": 1040,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 1558,
+    "completion_tokens": 1040,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.152
+}

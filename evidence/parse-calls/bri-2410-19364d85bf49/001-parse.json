@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:14.890980+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "dc8c3d8242d94067f1f8a487827989faf417c82330973593e58ed91a61251ecf",
+                "characters": 165327
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-149129e5-1c5c-42e0-b74b-3f5b9a23e8bb",
+    "object": "chat.completion",
+    "created": 1792322716,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1846><y_0.057>ARC | 547 I ARC<x_0.7061><y_0.0766><class_Page-header>\n\n<x_0.0264><y_0.0758>Archery, be made expert in the ufc is at a military weapon, by habituating them to the familiar excercife of it as an infument of amulment. As there was so material difference between the ethly and bodily through of the two people, it might be topped that the English and Scott wielded the bow with no unequal vigor and dexterity; but these uneducated hilbical communes it appears that the former had the faperioriy’s of whole one influence have already surrender. By the regulations prefelled in their future took force the province of archetype, we find that the English floor a very long howy their who were arrived. If their full growth and maturity being prohibited from flooring at my mark that was me did than upwards of 220 yards. In this ufc of the boys, great dexterity as well as strength forms to have been required. Though we hear of others are Cheryla Child which were a yard long, yet it is by no means to be topped that the whose band stands us of ficky, or could draw on to the head. The regulation of the Infra future of Edward IV-rich, that the bow shall not exceed the height of the man, is allowed by workers to have to well confidend 3 and as the arrow found he half the length of the boy, then would give an arrow of a year in length to other only who wear fixer high. A frong non of this fire in the preferred cannot eat flyd show where y'r inches, if the bow is of its proper fitgently to do execution at a considerable distance. At the false time it must be admitted, that as our an- centers were obliged by those of the old flatterno to be given flooring with the long bow at the age of fever, they might have acquired greater flight in this exer- cic than three defendants, though the latter should be allowed to be of equal lifestyle.<x_0.4404><y_0.5><class_Text>\n\n<x_0.085><y_0.5008>As the flooding, both the long bow was left intro-duced in England, and prefilled almost exclusively for nearly councrements, to I halb conditional a peculiar method of drawing the areas to the ear and not to the bread. That this is contrary to the college of the moment is way clear from their richied, and here the tradition of the Amazona cutting off one of their paps as it described an impediment to their flooring. The Kinfury acher is therefore represented in this attitude of drawings the ear, both in the _Bumamalot Glory_ and in the first budget given by Catherine to the Artillery Company. Not many years ago there was a man \"name\" Paphaq, who exhibited furpiring fans of friends), and who happened to be at a public home near lington, to which the Finfany achers referred after their exercise. Tophan conferred the long bow as a plaything, only for a child's upon which one of his archer laid him a brief of punch, that the could not draw the arms over the ends of the length. Tophan accepted this bet with the greatest confidence of win- mixing but bringing the arrows to his family indeed, of his car, he was greatly benefited by paying the wager, after now finished efforts.<x_0.4395><y_0.7844><class_Text>\n\n<x_0.0859><y_0.7852>At to the different to which an arrow can be flow from a long bow with the belt elevation of 15 de- perys, thilt must wait enough depend much hub upon the through mid flightsof the author (but in general the distances was extended from eleven to the five four yards. The boat for cars etc., also noticed, were deficiented to be dithand upward of 220 yards. There is indeed a tradition, that an attorney of Wigan in Lim-<x_0.4414><y_0.8852><class_Text>\n\n<x_0.459><y_0.0781>culture (named Leigh) that a mile in three flights, Arkley, but the lane tradition flatsa, that be placed himself in a very particular attitude, which cannot be ufd com- mainly in this exercise. According to Nevis, an anchor sight about Es across the time of changing and dishingage one number.<x_0.8613><y_0.1531><class_Text>\n\n<x_0.46><y_0.1539>The arches condition an arrow of from 20 to 24 drop weight to be the bell for flight or hitting a mark at an emblemble distance, and thus gave a the ball material, which you can be made. As to the figures, that of a good is prepared, it is also rolled, that the bad should be two or the organs old, and that the feather may drop of itself. Two out of three feathers in an arrow can commonly within, being picked from the guardry but the third is generally brown on guy, being taken from the gouds, and from this difference in point of colour, whereas the archer when the arrow is properly placed. From this end distinguished part therewere the whole arrow formations receives the name. And this, by side-by, affords the explanation of the gray goods going in the ballad of Charles Chic. Arrows were spread primarily with dirt or metal beads, lattery with heads of injury, of the bird were various forms and deno stimulation. We all set of participants made demo of Henry IV, it was enetted. This for the future all the heads for arrows will quarrels should bevelalized by traded, and hardened at the points with flee! 3 and that arrows around or quarter should have the mark of the makers workmen dilibeying this order, were to be finned and imprisoned at the king’s will, and the arrow heads or quarters to be farforted to the crown.<x_0.8125><y_0.4883><class_Text>\n\n<x_0.458><y_0.4898>Arrow were released by whatever a steel confining cloafs on of six arrows. They were carried in a picture, called _Georis An_ also an _arrow only_, which ferved for the magazine, arrows are armmistes of were worn in the globe. The ancient times plals of options, or rather con- bubild matter, for burning hoodies on ships, ever fixed in the heads of arrows, and that from long bow. This has been allo sprawified face the ufe of gun- powder. Natalie may, he has known by experience, that an active may shoot an cause of freedom upon an arrow 12 force yards. Arrow with wildfers, and arrows for fireworks, are mentioned among the forest at Newhars and Herwick, in the 1st of El-ward II).<x_0.8135><y_0.6609><class_Text>\n\n<x_0.457><y_0.6617>The force with which an arrow frikkes an object at a moderate distance, may be concealed from the account given by King Edward VI. in his journal, wherein he says, that too schery of his guard lost before him two arrows each, and afterwards all together, and that they fine at a mish board, which time proceed just through and think into the other board; divers pierced it quite through with the heads of their horses, the boards being well-defined industrier, their diffiness from the mark is not mentioned.<x_0.8096><y_0.7836><class_Text>\n\n<x_0.4609><y_0.7828>To protect our reckere from the attacks of the eec, my’s horse, they carried long flakes pointed at both ends: that they planted in the earth, laying before them. In the 1th of Zeland VI, 150 of their were in the doses of the town of Herwick, under the article of achter fishery, there were all as the time time eight hundred of arbets flakes in PonteFect calls.<x_0.8105><y_0.8719><class_Text>\n\n<x_0.4619><y_0.8727>To prevent the bowling from flirking the left am<x_0.8076><y_0.8977><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2140,
+      "completion_tokens": 1632,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2140,
+    "completion_tokens": 1632,
+    "prompt_tokens_details": null
+  },
+  "seconds": 4.704
+}

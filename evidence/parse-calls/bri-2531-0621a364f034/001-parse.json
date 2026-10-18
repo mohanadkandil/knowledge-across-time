@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:20.648951+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "4f6ace04eac05a1e4c953432c6eafc4bb2f94cf281cc6a4b5484d990e9bb98eb",
+                "characters": 79183
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-683eab0e-8f45-4111-99b8-03c979a94ec2",
+    "object": "chat.completion",
+    "created": 1792322721,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.4023><y_0.0797>Boring of ORDXANCE.<x_0.6221><y_0.0953><class_Text>\n\n<x_0.7617><y_0.0805>Plate CCCXC.<x_0.9062><y_0.0945><class_Page-header>\n\n<x_0.5918><y_0.3781>D. Breech of the Gwn.<x_0.7988><y_0.3992><class_List-item>\n\n<x_0.5928><y_0.4031>G. Drill Bar.<x_0.7217><y_0.4219><class_List-item>\n\n<x_0.5938><y_0.4273>II. Corps Tongue Cultor.<x_0.8242><y_0.4477><class_List-item>\n\n<x_0.668><y_0.9422>Skill Owner M2D Analysis fors<x_0.8721><y_0.9586><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 591,
+      "completion_tokens": 83,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 591,
+    "completion_tokens": 83,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.926
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:00.601350+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f3bccb6a3fe81f773d645bc7b720029088368f9d57f443d723bd487a7965dea8",
+                "characters": 251931
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-e94268f5-6941-483b-8ceb-394dc2a0e2c3",
+    "object": "chat.completion",
+    "created": 1792322521,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2588><y_0.057>U K R [ 568 ] U L S<x_0.8398><y_0.0758><class_Title>\n\n<x_0.082><y_0.0789>Visiter\nDiraine,<x_0.1289><y_0.1328><class_Picture>\n\n<x_0.1396><y_0.0766>pire, whereof there are two kinds; one called by the\nTurts _Vice-eczem_, that is \"gmail viser;\"Yis the prime minister ofute in the whole empire. He commands\nthe army in chief, and presides in the divan or great council. Next to him are six other sabordinate visers,\ncalled _chiar of the bench_, who officate as his coun-\nsellors or assessed in the divan.<x_0.5508><y_0.1727><class_Text>\n\n<x_0.1406><y_0.1703>VISION, in Optics, the act of seeing or perceiving\nexternal objects by means of the organs of sight, the eyes.\nSee. AMATORY, No 143, and METAPISICS, No 9-\n54.<x_0.5518><y_0.225><class_Text>\n\n<x_0.1416><y_0.2242>VISTULA, or WERSEL, a large river of Poland,\nwhich taking its rise in the mountains south of Bilesia,\nvisits Cracow, Waraw, Sc. and continuing its course\nnotward, falls into the Baltic era below Danacic.<x_0.5527><y_0.2773><class_Text>\n\n<x_0.1426><y_0.2766>VISTAL, in general, something belonging to vision.<x_0.5537><y_0.2898><class_Text>\n\n<x_0.1436><y_0.2891>VITAL, in Physiology, an appellation given to what-\never missive principally to the constitutip or main-\ntaining life in the bodies of trust, then the heart,\nhuges, and brain, are called vital part; and the opra-\ntions of these parts by which the life of animals is main-\ntained are called _vital functions._<x_0.5498><y_0.3703><class_Text>\n\n<x_0.1455><y_0.3688>VITELLUS, the yolk of an egg.<x_0.418><y_0.382><class_Text>\n\n<x_0.1445><y_0.3828>VITIS, or VINE, a genus of the class pentandria,\nand in the natural system arranged under the 46th or-\nder, References. See Botany Index; and for its cul-\nture, see GARDENING.<x_0.5488><y_0.4367><class_Text>\n\n<x_0.1475><y_0.4352>VITREOUS BUMOUR OF THE EYE. See Anato-\nny, No 142.<x_0.5479><y_0.4609><class_Text>\n\n<x_0.1465><y_0.4602>VITRIFICATION, in Chemistry, the conversion\nof a body into glass by means of fire. See CLASS.<x_0.5469><y_0.4883><class_Text>\n\n<x_0.1484><y_0.3102>VITROLAL, in general, something belonging to vision.<x_0.5547><y_0.3594><class_Text>\n\n<x_0.1494><y_0.5406>VITROLATED, among chemists, something im-\npregnated, or supposed to be so, with vitrol or its acid.<x_0.5557><y_0.5898><class_Text>\n\n<x_0.1475><y_0.5922>VITROLIIC AGID. See SUPUNRIC Acid and\nChemistry Index.<x_0.5566><y_0.5938><class_Text>\n\n<x_0.1475><y_0.593>VITRUVIUS POLILIO, MARGUS, a very cele-\nbrated Roman architect, was according to the common\nopinion, born at Verona, and lived in the reign of Aus-\ngustus, to whom he dedicated his excellent treatise on\narchitecture, divided into too books. William Phila-\nden’s edition of this celebrated work is entered. Clan-\ndias Pernell has given an excellent translation of it in\nFrench, with learned notes. There are also several Eng-\nfish translation of Vivintech<x_0.5576><y_0.7102><class_Text>\n\n<x_0.168><y_0.707>VITUS NANCE. See MEDIGINE, No 28.<x_0.502><y_0.7266><class_Text>\n\n<x_0.1504><y_0.7242>VIVERRA, the WeASEL; a genus of quadrupeds\nbelonging to the order of free. See MANMALIA Index.<x_0.5586><y_0.7531><class_Text>\n\n<x_0.1689><y_0.7516>VIVES. See FANHIRY.<x_0.1514><y_0.7641><class_Text>\n\n<x_0.1523><y_0.7633>VIVIPAROUS, in Natural History, an epithet ap-\nplied to such animals as bring forth their young alive\nand perfect; in contradication to those that lay eggs,\nwhich are called _piaparous_ animals.<x_0.5596><y_0.8195><class_Text>\n\n<x_0.1533><y_0.8172>UKRAINE, a large country of Europe, lying on\nthe borders of Turkey in Europe, Poland, Russia, and\nLittle Tartary. Its name properly signifies * frontier.\nBy a treaty between Russia and Poland in 1603, the\nlater remains in possession of all that part of the\nUkraine lying on the west side of the river Daiepe\nwhich is but indifferently cultivated; while the country\non the cast side, inhabited by the Cosses, is in much\nbetter condition. The Russian part is comprised in the<x_0.5605><y_0.9383><class_Text>\n\n<x_0.5674><y_0.075>government of Kiof; and the empress of Russia having\nobtained the Polish paleidinate of Kiof, by the treaty of\npartition in 7193, the whole of the Ukraine, on both\nsides of the Dmiepper, belongs now to that ambitious and\nformalable power. The principal town is Kiof.<x_0.9951><y_0.1437><class_Text>\n\n<x_0.5684><y_0.1453>ULGER, in Surgey. See SUNGRAY Index.<x_0.917><y_0.1547><class_Text>\n\n<x_0.5898><y_0.1539>ULCK, in Parriery. See FARRIERY.<x_0.876><y_0.1695><class_Text>\n\n<x_0.5693><y_0.1688>ULEX, a genus of plants of the class of diadulphia,\nand in the natural system arranged under the 2d order,\nPuphionaceae. See Botany Index.<x_0.9941><y_0.207><class_Text>\n\n<x_0.5664><y_0.2078>ULIETEA, one of the Society islands in the South\nsee. This island is about a llegoso in circuit. Its\nproductions are plantains, cocoon nuts, yams, hogs, and\nfowl; the two latter of which are scarce. The soil on\nthe top of one of the hills was found to be a kind of\ntime marks; on the sides were found some scattered\nflints, and a few small pieces of a cavernous or spongy\nstone lava, of a wishlic colony, which seemed to contain\nsome remains of iron, so that it may possibly be here\nlodged in the mountains in a great quantity. Nothing\nwas seen on this Island to distinguish either its inhibi-\ntants, or their manners, from the other neighboring\nslands. The first Europens who landed on this shore\nwere Mr (now Sir Joseph) Banks and Dr Sander;\nthey were received by the native time and courrous\nmanner, reports concerning them having been their bar-\nbingers from Otahteite. Everybody seemed to fear and\nrespect them, placing in them at the near time the st-\nmost confidence: behavior as if conscious than their\nvisitors possessed the power of doing them mischief with\nout a disposition to make use of it.<x_0.9658><y_0.4859><class_Text>\n\n<x_0.5703><y_0.4844>ULUIZNOON, in direccture an appellation gives\nto a moist, moroirish, and fenny soil.<x_0.9648><y_0.5102><class_Text>\n\n<x_0.5713><y_0.5109>ULLAGE, in gungying, so no much of a cash or other vessel as it would be long full.<x_0.9668><y_0.5391><class_Text>\n\n<x_0.5723><y_0.5383>ULM, formerly a fee and imperial city of Germany,\nbut now belonging to Bavaria. It is a pretty large\nplace, defend by fertilitations; and the inhabitants,\nwho are chiefly Protestants amounted to 14,000 in 1820.\nThe town is seated on the Danube, a little above the\nconfidence of that river and the lifey, and carries on\na considerable trade. It has many handsome build-\nings. The principal church is a magnificent Gehic\nedifice, and is said to surpass all the collectible in Ger-\nmany in height. The Roman Catholics have but two\n churches, all the rest belonging to the Protestant-\nE. Long, o. sy. NY. Lat, 48. 25.<x_0.9639><y_0.6961><class_Text>\n\n<x_0.5732><y_0.6922>UMUS, a genus of plants belonging to the class\nof pentandria's and in the natural system arranged under\nthe c3d orders, ScbArdes. See Botany Index.<x_0.9678><y_0.9453><class_Text>\n\n<x_0.3672><y_0.9391>2<x_0.3691><y_0.95><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 538,
+      "total_tokens": 2274,
+      "completion_tokens": 1736,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 538,
+    "total_tokens": 2274,
+    "completion_tokens": 1736,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.138
+}

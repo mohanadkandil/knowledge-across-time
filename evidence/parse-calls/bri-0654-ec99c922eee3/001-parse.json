@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:50.967922+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "54c9c38015f7aa97415c6ee7f929dd9bbda697c629a1dd3824fc63dbca47f1e1",
+                "characters": 215963
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-3db2de4f-dc19-4a7e-8e1d-49f9077ccdc5",
+    "object": "chat.completion",
+    "created": 1792322512,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.4375><y_0.025>**CHINA.** **77**<x_0.9795><y_0.0539><class_Page-header>\n\n<x_0.0254><y_0.0508>China<x_0.0859><y_0.0805><class_Picture>\n\n<x_0.0898><y_0.0516>sections; and relate. 1. To the _sancred rites_ the administration of the prescribed ritual; the care of altars, sacrul terraces, and the tombs: unlenses forms of worship; magicalus; leders of sects; and teachers of false doctrines. 2. To miselmannous observances respecting the palaces, the Empony, his equipes, and furniture; to the public festivals and days a ceremony promptant laws, relative to dress and habitations; celestial observations and appearance, regulations for functions and country features.<x_0.4951><y_0.1914><class_Text>\n\n<x_0.0908><y_0.1906>The _(with division_ contains the laws by which the military are governed, the direction and supper-intendence of which are placed under the department of state called the _ping-pos._ It consists of two times. The first relates to the protection of the pa- lace, and of course to the persons of the Emperor; the duties of the imperial guards; examination of passports, Sec. The second is entitled the _government_ of _fiction_, and may be considered as the mutiny act, or articles of war, of China. Every neglect of duty, disbodiedence of orders, and want of discipline; [tural, emblemedament, desertion, are punished with extreme severity, and many of the defence herein specified are capital. The third section relates to the _protection of the frontier_, a must important one adoration with this application government. The fourth prescribes regulations respecting the horses and circle belonging to the army. The fifth for the expresses that governem posts, the post-hues, messengers, and horses, employed in the conveyance of dispatches.<x_0.4941><y_0.475><class_Text>\n\n<x_0.0918><y_0.4742>The _fifth division_ contains the Code of Criminal Law, administered by the _Hing-pos_, or criminal tribu, mal, which supplies the judges or possess to all the other departments. It consists of eleven sections. The first, entitled _robbery and theft_, wards punishments for every species of robbers or that that could well be devised, extorting property by threats; obtaining it under false pretences; kidnapping and selling free ones to alaves; distinct graves, kc. The second relates to _humainic_, and may be considered as a most singular, if not successful, attempt to discriminate the exact proportion of guills, for the same distance, in different persons, or different degrees of offence in the same person, according to the situation and circumstances of the offensive parties. In every case of prerecorded banacide, the original contriver is condemned to die by decapitation; the accessories by strungation, accessories to the intention, but not to the fact, nor amisable with one hundred blows, and perpetualanishment. Those who murder, shall intent to rob, are behanked, without distinction between principals and accessories. Parricide subjects all parties to suffer death by a slow and painful exception, the attempt to commit particular is death by description. Elares attempting to murder, or actually murdering their masters, weer Idaho to the same punishment. A husband may kill his wife, if caught in the act of solitary, and also her paramour; and a thief may be put to death. If taken in the act of robbing a house; but in either case, it would be murders, if put to death after being seized. The preparing of poisons, or rearing of venomous animals, are capital offences. Practitioners of physis, or burbers (for they have no sur<x_0.4932><y_0.9406><class_Text>\n\n<x_0.5029><y_0.0523>geona), who puncture with the needle, giving drugs, or performing operations contrary to the established rules and practice, and thereby killing the patient, the guilty of hominities; here, if proved to have been merely an error in judgment, the officers is recenable by fine, but the doctor and the barher must quit their professions for ever, but if the medicine were given intentionally to kill or injure the patients, the practitioner must suffer death by decapitation. All persons guilty of killing in an airsy, though without any express or implied design to kill, the whether the blow be given with the hand or the foot, will a meat weapon or instrument of any fault, shall suffer death by strungitation. There is a clause, however, by which all persons killing another in play, by error, or purely by accident, may be permitted to redeem themselves from the punishment of killing or wounding in an affray, by the payment of a fine to the family of the deceased person, but has some of more evidence to very carefully defined and exemplified. It must be one \"of which no sufficient previous warning could be given, either directly, by the perception of sight and hearing, or indirectly, by the inferences drawn from judgment and reflection.\"<x_0.9014><y_0.382><class_Text>\n\n<x_0.502><y_0.3828>In the next section, entitled to “Carrrolling and Fighting,” there is a minute and circumstantial detail of blows given under every conceivable case and situation, and in every possible relation in width the parties could stand towards each other. If fixes the periods of responsibility for the consequences of a wound; it asserts the penalty of death on a new who shall strike his master; in a new way shall strike his father or mother, on a grandson who shall strike his paternal grandfather or grandmother; on a wild who shall strike her husband's father, mother, paternal grandfather or grandmother; but, if a father, mother, paternal grandfather, or grandmother, shall dissasise abandon date or grandchild in a severe and uncustomy manner, so that he or she dies, the party to offloading shall be punished only when handled blows, which is reality are no more than forty; and, when any of the aforesaid relations are guilty of falling such disbloodiest child or grandchild de- signedy, the punishing shall be extended to sixxy blows, and one year’s banishment. A parent may, at any time, sell his children, with the exception only to stalling players, and possesses of the magic art. This distinction which the law makes between the parent and child, and the almost unlimited authority which is given to the forever over the latter, would lead one to conclude, that, if the crime of infanticide be not sanctioned, it is at that moment as, by the movement. There is a very reason, however, to believe the extent of it has been grossly exaggerated, and that the greater part of infants taken up in the streets of large cities by the police have died in the birth, and been laid out, to avoid the expense of burial or been exposed alive, with the view of their taking taken care of an adopted children or conveyed to hospitals for the reception of desterted chil dren.<x_0.9023><y_0.8836><class_Text>\n\n<x_0.5039><y_0.8844>In the cases above stated, the child murdered is supposed to have been _disobedient_, which is a crime of the deepest dye, as affecting the principle on which the whole system of government is founded;<x_0.9004><y_0.9422><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2037,
+      "completion_tokens": 1529,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2037,
+    "completion_tokens": 1529,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.884
+}

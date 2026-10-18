@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:20:59.390942+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f325f7b1bb519cc2b80627d03d5f30cd39c364b7c3edc318d3a9d927c9b6b362",
+                "characters": 198563
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-3e9520dd-16b4-4b61-9d8b-1fc82c06f422",
+    "object": "chat.completion",
+    "created": 1792322460,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1709><y_0.0391>CLO [ 211] CLO<x_0.7236><y_0.0617><class_Page-header>\n\n<x_0.0508><y_0.0578>cleared from the earth or urine, is returned to the former lands to have the lesser fills, small straws, &c taken off as letters then it is returning to the fuller to be heat and pulled with hot water, wherein a suitable quantity of some been dissolved after filing, it is taken out to be smoothed on pulled by the lists lengthwise, to take out the wrinkles, crevices, &c.<x_0.4443><y_0.1664><class_Text>\n\n<x_0.0518><y_0.1672>The smoothing is repeated every two hours, till the fuling he finished, and the cloth brought to its proper breath; after which it is washed in clear waer, to purge at of the soap, and given we to the carders to raise the hair or my on the right side with the little or weed. After this preparation, the cloth-worker takes the cloths, and gives it the first sort or shearing; then the careker resume it, and after wett, give it as many more curves now in the tracks, as the quality of the stuff requires, always observing to begin against the grain of the hurt, and to end it is, as also to begin until a smoother blisk, preceding still with one sharper and sharper, as far as the sixth degree.<x_0.4453><y_0.3516><class_Text>\n\n<x_0.0615><y_0.3523>After these operations, the cloth being dried, is re- turned to the cloth-worker, who shears it a second time, and returns it to the carerés, who respect the operation up before, till the map he will ranged on the surface of the cloth, from one end of the piece to the other.<x_0.4434><y_0.4273><class_Text>\n\n<x_0.0605><y_0.4281>The cloth thus wove, secured, napped, and shorn, is sent to the dye ; when dyed, it is washed in fair view, and the worker take it again was not it is, lay the map with a broken on the table, and hangs it on the teatery, where it is stretched both in length and breadth sufficiently to smooth it, see that square, and bring it to its proper dimensions, without straining it too much is obserying to brush it afresh, the way of the nap, while a little music, or the teaters.<x_0.4463><y_0.5461><class_Text>\n\n<x_0.0596><y_0.5469>When quite dry, the cloth is taken off the teaters, and brushed again on the tables, to finish the laying of the map, after which it is folded, and laid out under a press, to make it perfectly smooth and even, and give it a glass.<x_0.4424><y_0.6094><class_Text>\n\n<x_0.0586><y_0.6109>Lastly, the cloth being taken out of the press, and the papers,&c for glossing it removed, it is in a condition or rate or use. This regard to the manufacture of mask clothes, or those whether the woods are first dyed, and then mixst, spun, and wove of the co- loure intended, the process, except what relates to the colors is mostly the same with that just represented.<x_0.4414><y_0.7133><class_Text>\n\n<x_0.0576><y_0.7141>_Crare made from Fregutable Filements._ See BARR and PLAMENTS.<x_0.4473><y_0.7414><class_Text>\n\n<x_0.0781><y_0.7422>_Incombestible Croatia._ Seo Asbestos.<x_0.3506><y_0.7539><class_Text>\n\n<x_0.0625><y_0.7547>GOTHER, the symputed of the tea. Barca, daughters of chapter and Thomas. She was supposed to preside over the moment that we are born. She held the cleats in her hand, and spun the thread of life, whence her unans _abon_, to grow. She was reprented wearing a crown with seven stars, and covered with a warranted role.<x_0.4404><y_0.8469><class_Text>\n\n<x_0.0635><y_0.8477>CLOUD, a collection of vapours suspended in the atmosphere.<x_0.4395><y_0.8562><class_Text>\n\n<x_0.0645><y_0.8555>That the clouds are formed from the aqueous va- pours, which before were so closely united with the atmosphere as to be invisible, is universally allowed‡<x_0.4453><y_0.9141><class_Text>\n\n<x_0.4609><y_0.0625>but it is no easy matter to account for the long continuance of some very opaque clouds without dissolving; or to give a reason why the exposure, when they have once begun to condense, do not continue to do so till they are that fall to the ground in the form of rain are snow,&c. The general cause of the formation of clouds, it has been supposed, is a separation of the latent heat from the water of which the vapor is composed. The consequence of this separation must be the condensation of that vapours, in some degree at least: in such case, it will first appear as a smoke, mist, or fog; which, if interposed betwitx the sun and earth, will form a cloudy and the same causes continuing to act, the dust will produce rain or snow. But though the separation of this latent heat in a certain degree is the immediate cause of the formation of clouds, the remote cause, and the changes produced in the atmosphere, whereby such a separation may be induced, are much more difficult to be discovered. In common observation, we see that vapours is most potentially condensed by cold substances, such as metals, water,&c. But Notalways cold alone cannot in all cases cause the contamination of them, and the atmospheric popups, otherwise the night before cold. Indeed to be always foggy or cloudy, owing to the vapours, raised throughout the day by the best of the sea, being considered by the supercycle collapse of the night. Greatrains may happen in very warm weather, when the union of the vapors with the atmosphere might rather be the pronounced than alolved, if cold were the only agent in their condensation. The severity of the atmosphere, also, the most severe fevers, particularly shows that some other cause besides mere heat or cold is concerned in the formation of clouds, and condensation of the atmospheric popups.<x_0.8457><y_0.5047><class_Text>\n\n<x_0.46><y_0.5062>The electric field is now to generally admitted as Electricity an agent in all the great operations of nature, that it probably is no wonder to find the formation of clouds attributedened.<x_0.9092><y_0.5422><class_Text>\n\n<x_0.4619><y_0.5539>to it. That had accordingly been given by S. Bec- certa as the cause of the formation of all clouds what sewer, whether of thumping, rain, half, or snow. The first, he thinks, are produced by a very great power of electricity, and the others to see more moderate. But though the certain that all clouds, or cane fog, and rain, are electrified in some degree, it still remains a question, whether the clouds are formed in consequence of the vapore wherever they are compounded using first electrically, or whether they become electrified in consequence of the edges of using first separated from the atmophores, and in some measure condensed. This bath not yet, as far as we know, been ascertained by the experiments of Because, or any other means, and indeed, notwithstanding the multitude of electrical discories that have lately been made, there seems to be little or no foundation for ascertaining it. Electricity is known to be in many cases a promoice of evapora- tion is, but no experiments have yet been brought to prove that electrified the parts with its moisture, more readily than such as is not electrified , so that, till the properties of electrified air near further investigated, it is impossible to buy down any natural theory of the fer- mation of clouds upon this principle.<x_0.8467><y_0.8547><class_Text>\n\n<x_0.4629><y_0.857>But whether the clouds are produced, i. e., the its cloud-of- visibly vapour, disposing in this atmosphere condensed ten proli- so as to become visible, by means of electricity or not, slowly e- it is certain that they do contain the electric fluid in \"verified.<x_0.8994><y_0.9078><class_Text>\n\n<x_0.6172><y_0.9094>D d 2<x_0.7656><y_0.9234><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2125,
+      "completion_tokens": 1617,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2125,
+    "completion_tokens": 1617,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.643
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:43.363607+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "1674871f4f14377b0f7ffe4148fec8f1a5f399511ce3131b6ba518212aebe5d3",
+                "characters": 198711
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-3567ed36-29dc-4b24-aa81-620398d987cd",
+    "object": "chat.completion",
+    "created": 1792322624,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0557><y_0.0453>280<x_0.0986><y_0.0625><class_Page-header>\n\n<x_0.2627><y_0.0375>BET<x_0.6211><y_0.0617><class_Section-header>\n\n<x_0.0703><y_0.0641>Belel Knox, who passed many years in opritivity on the island of Ceylon most people going abroad carry a small box of gold or silver, containing the ingredients for compounding betet) and the poor keep a constant supply about them (in horses of cultural straw, we severely lodged in a fold of their garments. The stand or box containing it is often the subject of elegant workmanship; it consists of silver gold, tortoisell, and forms a piece of communal furniture in the houses of the wealthy. It is sufficiently valuable to contribute a present between severalings.<x_0.5234><y_0.2102><class_Text>\n\n<x_0.0684><y_0.2109>Cultare<x_0.1211><y_0.2273><class_Caption>\n\n<x_0.0713><y_0.7844>Commerce. Bold is a very considerable article of traffic in India and China’s and, indeed, through Latin. In the British settlements of Bomby Madras, and Bengal, the value of the imports amounted in a single year to L. 138,867; and, if the quantities consumed throughout the East are taken into view, is will appear surprising how they can be obtained. But, owing to the constant and extensive demand, the plants afforded the necessary ingredients are<x_0.5273><y_0.9117><class_Footnote>\n\n<x_0.5293><y_0.0594>carefully cultivated; and multitudes are employed Bettunli, and subsisted in the production of this Eastern history. (5)<x_0.9766><y_0.1008><class_Text>\n\n<x_0.5312><y_0.0984>BEETTRELLI (Xavan), one of the most celebrated Italian literals of the subsequent century, was torn at Mantu, the 18th of July 1718. After studying under the Jesuits in his native city and as Bologna, the central in 1750 upon the noviate of this society. He then undertook a new course of study; and afterwards taught the belle letters, from two years 1729 to 174s, at Brown, where the Cor- dinal Quirin, Count Mazzuchelli, Count Duranti, and other scholars, formed in illustrian academy, has there began to distinguish himself by some pieces of poetry, composed as scholastic exercises. Being sent to Bologna or pursue his identity, he continued, at the same time, to cultivate its practical talent, and wrote also, for the theatre of the college, his tragedy old _Jonathan_. The number of learned and were presented collected in this way exceeded by far what he had met with at Bracia. The _Institute_, recently founded by the Count Masjegl, the Clemensine Academy of Design, the Soloni of the astronomical poet Manfredi, the growing reputation of his ingresso and learned pupils, Zanota, Algorotti, and others, at this true fixed the attention of the literary world on Bologna. It was in the middle of this society, to which he was admitted, that Bettedral concluded his education, and attained the age of thirty. He went in 1748 to Venice, where to become Professor of rhetoric. He left it for various missions, and returned to it again often. We may see by his epistles in freevose or coldly, that he was convicted on friendly terms with all that the city and state could boast most illustrious. He was destined by the Sporter of his order for the croatrical department; but the weakness of the chest separated him toylmethylsit. The superintendence of the college of nobasar! Parma was extracted to him in 1721 in primarily directed the studies of poetry and history, and the entertainments of the theatre. He remained here eight years, but not without visiting, at later, walk different cities of Italy, either on the affairs of his order, or for pleasure, or for health. In 1755, he undertook a longer journey, reversed a part of Germany, proceeded as far as Strauburg and Nancy, and removed by way of Germany into Italy, taking with him two younger princes, sons to nephew of the Prince of Holeniee, who had requested him to take charge of their education. He made the year following another journey into France, along with the oldest of these two young Princes, and lodged, while at Paris, at the College of Auswäcrand. It was during this excursion that he wrote the famous _Leices of Virgil_, which were published at Venice with his sister, verses, and those if Poynt and Algarro. You only miss, and now any add without much hesitation, the literaryheresies, maintained in these letters against the two great humanities of Italian poetry and particularly against Dante, created him many enemies, and what was still more unpleasant to him, embroided him with Algarrotti. Willing to know something more of France than Paris, he made several excur-<x_0.9268><y_0.9031><class_Text>\n\n<x_0.333><y_0.9078>3<x_0.3467><y_0.9203><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 1565,
+      "completion_tokens": 1057,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 1565,
+    "completion_tokens": 1057,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.2
+}

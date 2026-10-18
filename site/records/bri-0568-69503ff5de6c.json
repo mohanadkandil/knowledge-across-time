@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0568-69503ff5de6c",
+  "row_index": 568,
+  "volume_id": "191253801",
+  "metadata": "Encyclopaedia Britannica - Third edition, Volume 1, A-ANG - EB.6",
+  "label": 0,
+  "sha256": "69503ff5de6c8a99eae2e2ecb4a4d1068323a349feef02ee2fe5f16c6c5c41c2",
+  "width": 600,
+  "height": 780,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=568",
+  "manual_seed": false,
+  "image_file": "../images/bri-0568-69503ff5de6c.jpg"
+}

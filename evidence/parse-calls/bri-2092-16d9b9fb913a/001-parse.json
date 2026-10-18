@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:48.421240+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "cab752de5bbe61616b857d2aa1f3d5581712c14bdabe64b0d51a867784d533a8",
+                "characters": 173207
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-e293935e-40ea-44ec-b620-2424fc19620f",
+    "object": "chat.completion",
+    "created": 1792322688,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2129><y_0.0563>SLA 397 SLA<x_0.7266><y_0.0813><class_Page-header>\n\n<x_0.0488><y_0.0805>Stary, Slavic-tude<x_0.1016><y_0.125><class_Picture>\n\n<x_0.1025><y_0.0773>But the firstlife were not separated from the roll of the world for their own fakes only. They were intended to be the repoditories of the lively creates of God, and gradually spread the light of drives truth through other nations, till the island of them should come when in Chitrail all things we to be gathered together in now. To achieve this end, it is no secretly that there should be some internotice between them and their Gentile neighborhood but we have fine that rich an internetic each only be like which faithful between matters and their flavor.<x_0.4707><y_0.2195><class_Text>\n\n<x_0.1035><y_0.2156>Should this subject for the flyerty which wasu thotified by the Jewish law be deemed fancifal, we beg have I blank for the collection of our readers this following account of that matter, to which the false objections will hardly be made. It was monthly impetible than between nations differing as widely in religion, cultures, and monsters, is the Jews and Gentiles, peace blood for our reign without transportory, but what were broke out, parties would be fought, and professors would be taken. How were their poison to be clipified of a Center for exchange were one then known: I was the duty of the Firstlife to prevent their captive from taking up unas a second face against them, they could not establish them among themselves either as artifacts or as hufandmen; for their law- joined them to have on communication with the kestivi. There are therefore a other alternative but etii ther to maffere them in coal blood, or to reduce them to the confidence if flows. If youate space, however that that flares were erial to the rank of citizens, or at least that their borders were mistakenly as far as they ever convinced of the truth of the Middle revelation, and received his covered with God by the rite or crimionism. They were then allowed to the celebration of the palivery concerning which one law was cleared to the Brange, and so him that my homeborn. Indeed, when he conflicted who was the legislator of the laws,) when we reflect upon the name her or have relied to mitigate theory among them, and call to stand the means by which the due execution of all their laws were enforced, yet Francesco cannot bapheg of going that the hesitant, who was reduced to flavery in Turkey, might be happen. If he yielded thus when living as a firearm in its own country. But whether this be fo or not, is a matter with which we have overcome. On account of the hand side of their hearts, and the popularity of their circumnances, many things, of which flavery may have been one, were permitted to the place, which, if provided by Chillians, would never figureful itself to be forced into any medium by the memes of individuals.<x_0.8457><y_0.4695><class_Text>\n\n<x_0.4912><y_0.0703>the government as a force of national and colonial wealth, was from its commencement confed by the thinking part of the nation as a traffic monificent with the rights of mana will fullyered to be carried out by acts as violence. Thefe fuplications were gradually spread through the people or large, and confirmed, in many influence, evidence incontournable. Laws were in confinement enabled, and makes me express more comfortable on what is called the middle, judges, and to protect them again the written couple of their matters in the New York Index; but the humanity of the nation was made), and not many ways a way a number of gentiemen of the multf repealties charteries, finding that no adequate protection could be afforded by section in a date of hopefulmente, formed themselves into a foci; ey as. London for the people of providing a total position of the citizenship. That the motives which influenced the leading men of this fidelity were of the pure land, cannot, we think, be ignored; for their sighted to about those who had none to help them, and from whom they could expect to other record for their labour alone of love than the lifefing of them who were ready to public. To a credit truly Chillian, who did say they for faced with or who has must have felt the most purgent regret, if that forces had been rendered doubtful, or even delayed, by late importance of some of the spans employed by the footy? This we approach was really the cafe. Language calculus led only to outperform the planters confined force the regions ( and the behavior of Great Britain would never fulfil its be forced into any medium by the memes of individuals).<x_0.8438><y_0.468><class_Text>\n\n<x_0.4902><y_0.4625>In the year 1703; positions were prefected to opital Americaments for the abolition of this human nullor, which we also give a lasting effect of the philanthropy of the nations, but, not particularly for the cause of erosion, if the different that many of the names obtained to those positions had been collected by means such much thousands. The discovery perhaps, would never have been male, had not the initiating epithetis indeminiantly largely upon the five holders provoked their men to watch with circumnigious over the conflict of their opponents. The consequence war, this inflections of ourint dealing on the past in the politichers were excited in the breath of many who, though they ardenity wilted well to the case, chefs not to add their names to those of febelsbys under age of of patients who knew not what they were falsifying. Let the right of the African the mainstream with cotton and minerals, that serves their advocates ripple that the cause of humanity requires the support of artistic Abidora flyers, in which the silence of we man are regulated by the capice of mother, is a fate demonrifully reconciled with the obvious plan of the moral governments of the world, or degraded to mental its calites of the flew, and shown, both in his way and in his matter, compulsion to wie alamit informomatisible. Let thefe trushbe be fat in a proper light by those who have doubled feet them exemplified, and they will clearly have their full effect on the hands of a generous, and, we truth, not an imipious people (x). The trade will be generally abolished ; pains will be taken<x_0.8652><y_0.8508><class_Text>\n\n<x_0.0635><y_0.8328>4 See Dempsey, and Gordon<x_0.1221><y_0.8719><class_Caption>\n\n<x_0.1426><y_0.8664>(8) We have not inflicted upon the impolyc of the flav-trade, or endeavoured to prove that its abolition would<x_0.8701><y_0.9102><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 1922,
+      "completion_tokens": 1414,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 1922,
+    "completion_tokens": 1414,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.577
+}

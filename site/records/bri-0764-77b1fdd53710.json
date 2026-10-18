@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0764-77b1fdd53710",
+  "row_index": 764,
+  "volume_id": "192547787",
+  "metadata": "Supplement to the fourth, fifth and sixth editions of the Encyclopaedia Britannica - Volume 6 - EB.12",
+  "label": 0,
+  "sha256": "77b1fdd53710167a89c29ecf566920a6912a5b4a6af00ef6f54b522c995d327b",
+  "width": 600,
+  "height": 806,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=764",
+  "manual_seed": false,
+  "image_file": "../images/bri-0764-77b1fdd53710.jpg"
+}

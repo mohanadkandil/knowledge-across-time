@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:38.796674+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6dc82a5069fc9b582ca9aab732437a327269ed4c4bf5432ce1df84fa0282e263",
+                "characters": 80755
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-0dd4dfb2-7c00-4129-98c9-1dd421c7901e",
+    "object": "chat.completion",
+    "created": 1792322619,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3926><y_0.0422>ABACUS<x_0.5098><y_0.0578><class_Page-header>\n\n<x_0.7822><y_0.0352>PLATE 1.<x_0.8994><y_0.0516><class_Page-header>\n\n<x_0.8262><y_0.9445>L.Modell/fudge:<x_0.9209><y_0.9578><class_Page-footer>\n\n<x_0.2197><y_0.0875>Ano Denial,\nAno Denial,\nFig. 2.\nAsording to McMalong,\nNew Sunday Fund.\nOld Sunday Fund<x_0.8691><y_0.3539><class_Picture>\n\n<x_0.0215><y_0.3695>Fig. 1.\nE\nC\nA\nB\nD\nB\nC\nD\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nI\nI\nA\nE\nF\nP\nR.\nD\nE\nF\nP\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB\nC\nA\nB<x_0.9023><y_0.9094><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 999,
+      "completion_tokens": 481,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 999,
+    "completion_tokens": 481,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.186
+}

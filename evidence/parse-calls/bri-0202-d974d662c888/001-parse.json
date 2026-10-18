@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:14.055399+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "9fb4246105ca1ed91e515aa18c31a46b93d3597fdd11d53390338994272911a9",
+                "characters": 208275
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-90ca5300-db59-4faa-a893-388ec43d4354",
+    "object": "chat.completion",
+    "created": 1792322474,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0205><y_0.043>Part I.<x_0.0889><y_0.0602><class_Page-header>\n\n<x_0.2402><y_0.0437>A N A T O M Y.<x_0.6494><y_0.0609><class_Page-header>\n\n<x_0.0215><y_0.0648>fpongiofum inferitis refl.—Along the curdide of this\nplate, the perpendicular folla made by the palate-never\nis obferable.<x_0.4355><y_0.1055><class_Text>\n\n<x_0.0225><y_0.1047>At the upper part of this nafal plate, the palate-bono\ndivides into two procesfies, which were already named or_\n_blary--between which and the body of the Ephendol bons; that the is formed, which was mentioned as the\nhalf of the holes common to the fphenoid bone.—Some\ntimes this hole is wholly formed in the so palist, by a\ncosts placing along from the one unitar proceed to the o-\nther. A nerve, artery, and vein belonging to the no\nfrirls, pals here.—The anterior of the two orbiter pro\nciesfeis in the largest, and has its fore-part contiguous to\nthe back-part of the maxillary firms, and is upper far\nface appears in the bottom of the other, behind the back-\npart of the on maxillure and phums.—It has cels be\nkindly refreshing thoof of the ethmond bones, to which it\nis conspicuous, it is placed on the aperture of the finns\nfphendolids, fo is to leave on a round hole as its upper\nfore-part.—The other part of the orbiter proceeds is ex\ntended along the internal fide of the upper-back-part of\nthe maxillary tuborify, to the bafe of the fphenoid bone,\nbetween the root of the procesfia zygus and the prery-\ngoid procris.<x_0.4365><y_0.3875><class_Text>\n\n<x_0.0234><y_0.3883>The palce-bons are joined to the maxillary, by\nthe first-edge of the palce-founder, by the tranr\nverfe fine-future —by their thin nafal plates, and part\nof their orbit procesfies, to the fame bones, by the pa\nlitro-maxillures futures.—By either prezygoid procesfies,\nand back part of the nafal plates, to the also verperilio-\nnuary, by the fphenoid future.—By the tranrvele rigles\nof the nafal plates, to the offiging infantion, by\ncourse); hence frequented the riz an intrinsic union of\nthe fuablance of the fiebones in old ficlia.——By the\nchlorit procesfies, to the oils plans, and chila ethmci-\nders, by the ethmonds future. ——To the body of the\nfphenoid bone, by the fphenoid future: —By the inter-\nnal edge of the figure-bones, to each other, by the lon-\ngenidual palce-founder, and by their nafal joints, to the\nvomer, by the fpnoons future<x_0.4375><y_0.6047><class_Text>\n\n<x_0.0254><y_0.6039>The palce-bons form part of the palace, nofrilis or\nbits, and follo pergyoides, and they cover part of the\nfinns maxillars, fphenoidales, and ethmonds.<x_0.4385><y_0.643><class_Text>\n\n<x_0.0244><y_0.6438>Ossa Turbabata, or _fpungiefa inferiors_, refemble\nthe forgotten ofa fpongiofa in shape and fholates, but\nhave their anterior and upper edges conqugeons to the\ntraranferle ridges of the nafal procesfes of the maxillary\neach palce-bone.—From their upper flight edge,\ntwo final procesfes than out: i the perforier, which is the\nbroadeft, defends to cover forms of the antrum Highmo-\ntrium; the anterior rife up to join the os ungus, and\nto make part of the lateral dud.<x_0.4395><y_0.7625><class_Text>\n\n<x_0.0264><y_0.7633>Below the fpongy bones already mentioned, there are\nfonestines two others, one in each match), which fresh\nto be a production of the fides of the maxillary films\nturned downwards. When this third fort of fpongy\nbones is found, the middle one of the three in each noif\nis the largest, and the bowl is the finish!——Be\nfides all blefs, there are often several other small boxes\nflanding out into the nofrils, that, from their shape,<x_0.4404><y_0.8727><class_Text>\n\n<x_0.4561><y_0.0656>might alfo deferre the name of _turbinate_, but are under-\ntun in their bulk, frustration, and number.<x_0.8623><y_0.0922><class_Text>\n\n<x_0.457><y_0.093>They are joined to the maxillaria, palati, and una\nguis, depicted in old subjects.<x_0.8613><y_0.1195><class_Text>\n\n<x_0.458><y_0.1203>Their uleis, to fraiten the nofrilis, to afford a large\nfurthers for extending the organ of fnelling, to cover\npart of the anteroxillars, and to alfifth in forming the\nunder part of the lacrymal duties, the orifices of which\ninto the note he to encended by theirbones.<x_0.8633><y_0.1875><class_Text>\n\n<x_0.4551><y_0.1883>Yorks, or bone, reforming a ploughhare, is the\nthirteenth of the upper jaw, without a fellow, forming\nthe lower and back-parts of the partition of the roof.<x_0.8604><y_0.2305><class_Text>\n\n<x_0.4541><y_0.2313>The figure of the bone is an irregular chorobid—\nIts fides are flat and smooth——Is preferred edge ap-\npears in an oblique direction at the back-part of the nofrilis\n—the upper one is firmly suited to the bafé of\nthe fphenoid bone, and to the nafal plate of the ethmoid; and, when it can be got figaraed, is hollow, for\nreceiving the procesfia zygus of the fphenoid.—The\ntierrier edge has a long known in where the middle\ncartilage of the nofe enters.— The lower edge is firm\nly united to the nafal lipions of the maxillary and palce-\nbones.— Their edges of this bone are much thicker\nthan its middle, which is as thin as the linell paper.<x_0.8643><y_0.3867><class_Text>\n\n<x_0.4531><y_0.3891>Its function is not always perpendicular, but often in-\nclinical and bended to one fide, as well as the nafal plate\nof the ethmoid-bone.<x_0.8652><y_0.4281><class_Text>\n\n<x_0.4521><y_0.4289>The vortex is convex as its upper part, and then is\nflexibly as its extended downward and forward, where\nit is composed of two places; the edges of which have a\ngreat number of final procesfes, dipfedefomewhat like\nbe such of a flaw, but more irreagely, and level of\nthem are reflected back. Between the fla plates, a deep\nfolla is left, which, for far as the top of the curvature,\nwide, and the strong fingers, for receiving the proces\nazygo of the fphenoid.— Beyond the arch for\nwards, the folli is narrower and fhallower gradually to\nthe point of the bone, revamping for home way the nafal\nhumile ethmoids, which is fit closely united to the vo-\nmer, by the little procesfies piercing into its fullform, as\nto prevent any separation. The middle cartilage of the\nnose fills up what remains of the folla at its fore-part.<x_0.8662><y_0.6305><class_Text>\n\n<x_0.4512><y_0.6312>The policeman edge of the vomer, which appears a\nbove the back-part of the palate-bones, is broader above;\nbut as it defends forwards, because thinner, though it\nis fulfill faith and firm.—The lower edge of this bone,\nwhich refs on the nafal spine of the palate and maxil-\nhy bones, has a little throw on each fide, of a final\nmiddle ridge... enforcing to the future of the bones of\ndifferent fides, and the interfice between them. This\nedge and the upper one meet in the pointed fore-end of\nthis bone.<x_0.8672><y_0.7641><class_Text>\n\n<x_0.4502><y_0.7648>The body of the vomer has a finood furriese, and fo-\nlid, but this faiblance; and towards its fides, where it\nand thicket, fome cancelli may be observed, when the\nbone is broken.<x_0.8643><y_0.8187><class_Text>\n\n<x_0.4492><y_0.818>It is joined above to the fphenoid and ethmoid bones,\nand to the middle cartilage of the nofe, by Ichindylefe;\n—below, to the maxillary and palce-bones, by the fpi-\nnous future.<x_0.8643><y_0.8711><class_Text>\n\n<x_0.8281><y_0.8734>The<x_0.8633><y_0.8859><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2454,
+      "completion_tokens": 1926,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2454,
+    "completion_tokens": 1926,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.001
+}

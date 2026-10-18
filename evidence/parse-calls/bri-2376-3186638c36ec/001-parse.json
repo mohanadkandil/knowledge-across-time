@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:09.213016+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "629a170e140999dc4782d2ccc3500f1bcf4fdec931a0ae51c4cad545279b239f",
+                "characters": 163571
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-5a9f7e2d-dbcc-4722-8749-0aaa27cbf8ea",
+    "object": "chat.completion",
+    "created": 1792322709,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0303><y_0.057>**Part I.**<x_0.1025><y_0.0758><class_Page-header>\n\n<x_0.3262><y_0.0555>MINER ALOGV.<x_0.6035><y_0.0742><class_Title>\n\n<x_0.0322><y_0.0773>Calible,<x_0.085><y_0.1047><class_Text>\n\n<x_0.0908><y_0.1055>_Export. Chár-—Bifdth format entire mountains, in the_\nneighbourhood of which it is found in rounded pieces,\nor in large globular mafles; internally to daily fame-\ntiming glimmering from an mixture of hombileends; fracc\nture uneven, formesites for filpintery or conchadial ]\nfragments not very therapeued... It is small frequently\nin difficult connections, which are informed or common,\nmore on left regular, sometimes also in globular difficult\ncoercations.<x_0.4561><y_0.1922><class_Text>\n\n<x_0.0898><y_0.1914>Colon greyyth or bluilli black, fometines brownith\non the surface opaque fembled luttes, and very\ndifficulty fragilible, fresh light alh, gray; gives a\nsinging found under the hammer. Spec: grax 2.86\nto §2.<x_0.4551><y_0.2516><class_Text>\n\n<x_0.0918><y_0.2508>_Chem. Char-Meits very early before the blow-\npipe into an opaque black giafs which acts on the\nmajority.<x_0.457><y_0.2891><class_Text>\n\n<x_0.0889><y_0.2898>_Prefeal Char-—Many baflts affect the magnetic\nneedle, revealing the poles when it is brought near\nthem. This is distinct to the great proportion of iron\nwhich enters into their compulsion.<x_0.458><y_0.3383><class_Text>\n\n<x_0.0879><y_0.3391>_Location._ _JSC-—halbit is not uncommon in every\npart of the globe, and in many places it is very strong\ndant. It is found in regular columns in several of the\nHendees on the west coast of Scotland, as in County\nTigge, his Schalen like, but particularly beautiful in Staf-\nRy. Pretty regular columns are displayed also a Dunley\nand on the Gulfwide field of Arkharkaceae near Edina\nburgh 3, but the Giant’s caufevay and the rocks about\nFirland on the north coast of Ireland, exhibit the\nfuet and south extensive ranges of columnar bafla in\nthe world.<x_0.4629><y_0.4758><class_Text>\n\n<x_0.0928><y_0.4742>Radki, besides being in the columnar form, is often\nthin diped in beds and veins; both of which are very\ncommon to different places in Scotland, particular the\nthe written coal, and in the section thanks. See _Wild-\nliamet's Mineral Kingdom._<x_0.4639><y_0.5398><class_Text>\n\n<x_0.0938><y_0.5391>No bijefek, in geological population, has produced\nmore controversial difficulties than the origin of bafalt;\none narry affecting that is in the effect of fallen, while\nanother contends that can have been deposited from\nan aqueous solution. Our limits preclude us even from\nBruty literary arts arguments which have been applied\nby naturalnils in fourport of the theories which different\nparties have embraceed. For an account of some\nof them, for Colorser, Index, and for the constituent\nparts of bafas, and home other has connected with its\nmanera history. fee Baux.tv.<x_0.4619><y_0.6781><class_Text>\n\n<x_0.0947><y_0.6773>U(r)—Maldi is forestiment employed as a touchline,\nas a flux for ores of iron, and in the manufacture of\ncombus bottles. It is also employed for milliiness.\nThe ancient employed it in folopuary, for it would appear\npear that forms of their vales and flxtures were formed\nof it.<x_0.4609><y_0.7523><class_Text>\n\n<x_0.2002><y_0.7617>## 22. Spedes, WACKER.<x_0.3584><y_0.7766><class_Section-header>\n\n<x_0.0957><y_0.7805>_Id. Kiwv i. 213. Le Wakley, Broch. i. 434._<x_0.3975><y_0.7969><class_Section-header>\n\n<x_0.0967><y_0.7992>_Exter. Char-—Wickers is found malfive; it is freq-\nquently refular, and the cavities are often filled with\nother minerals; internal appearance all; fracture even\nexerably; fragments rather blunt edges.<x_0.46><y_0.8508><class_Text>\n\n<x_0.0977><y_0.8516>Color greyish, green, greyish black, reddih, oc\nbrownih 3 opaque ; thick a little thing; felt or fe-<x_0.459><y_0.8797><class_Text>\n\n<x_0.4688><y_0.0734>miluted; easily frungible; feels a little greasy. Spec. Argyllber-\ngrav. 2:5 to 2.80.<x_0.8936><y_0.1039><class_Text>\n\n<x_0.4697><y_0.1062>_Chem. Char-—Futile like balls._<x_0.7002><y_0.1156><class_Text>\n\n<x_0.4707><y_0.1148>_Lectifism,_ Sec-—Wacken belongs to the firstiform\nrocka. It contains fometines perished wood, and the\nhence of animals. It constitutes both femestines at the\nmiddle of black, but is more in the form of veins,\nand is the bafa of amygdalold, the cavities of which\nare filled with green earth, calcareous fary, Scc. Wack-\nen is met with in Sxony), Bohemis, Sweden, and ma-\nny places of Scotland.<x_0.832><y_0.2164><class_Text>\n\n<x_0.5215><y_0.2219>23. Species. ProsolITY, or Gluefane.<x_0.7822><y_0.2383><class_Section-header>\n\n<x_0.4727><y_0.2422>_Ida_ Duubniñion, Jour, de Phyl.lx. 74. _La Pierre Son-_\nnature, Broch. I. 437. _Kingstria and Porphychiat-_\nlor of the Germaine.<x_0.833><y_0.2859><class_Text>\n\n<x_0.4717><y_0.2914>_Ester. Char-—This mineral is always found malfive;_\ninternal fultre glimmering; fracture ilaty, femmesine\nunewon or conchadial; Fragmented thars-redged; compos-\nied of difficult occasions, which are either in the form\nof tuber, or are columnar, and fomewhat regularly\ngrouped together.<x_0.835><y_0.3672><class_Text>\n\n<x_0.4736><y_0.368>Colon greyy, alh, greenibh, or bluidi gray; the co-\nhours forestness have a doubtful appearance; opaque,\nor trenchcase at the edges; finished, or hard; just\ndifficulty fragile; in thin plates it emits a found\nwhen freck with a hammer, and hence its name.\nSpec: grav. 2:57.<x_0.8359><y_0.4414><class_Text>\n\n<x_0.4746><y_0.4422>_Clom. Char-—Meits before the blow-pipe into a co-\ntunlets glafe._<x_0.8369><y_0.468><class_Text>\n\n<x_0.5986><y_0.4766>_Confliment Paris._<x_0.7129><y_0.4914><class_Caption>\n\n<x_0.5234><y_0.4953>\\begin{tabular}{ccc}\nKlapreth,&Bergranu.\\\\\nSilica&57:25&58.\\\\\nAluminā&23:5&44:51\\\\\nLime&2/5&3:5\\\\\nOxide of iron&3-25&4:5\\\\\n\\_\\_\\_\\_\\_andganda\\_9 & \\mbox{}\\\\\nSoda&8:1&6.\\\\\nWater&3∶2&2.\\\\\nLots&1:9&1:5\\\\\n100:00&100:00&\\\\\n\\end{tabular}<x_0.7666><y_0.6375><class_Table>\n\n<x_0.4756><y_0.6414>The fore analyzed above by Berganain, was from\nPuy in Velay, in France, and is confirmed by Dalo-\nmeea as volcanic. The other by Kliprath, is from\nBohemia. Excepting the final proportion of manga-\narde detected in the latter, the coincidence of the two\nanalysis is very striking.<x_0.834><y_0.7172><class_Text>\n\n<x_0.4766><y_0.718>_Location:_ Sec-—Phanolite is not uncommon in many\nparts of the world. It is met with in Scotland, in the\nfilnd of Lanish, near Arnan; and it continues the\ngreater part of Thargent saw in East Lothian; in\nboth places it is colummar.<x_0.8379><y_0.8758><class_Text>\n\n<x_0.5898><y_0.7922>## 24. Species. LAVA.<x_0.7227><y_0.8078><class_Section-header>\n\n<x_0.4775><y_0.8133>Id. Kiwv i. 400. La Lave, Broch. i. 440. La scori-\nfor, Ilaiyy iv. 497.<x_0.8389><y_0.8438><class_Text>\n\n<x_0.4785><y_0.8469>_Ester. Char-—This mineral is generally of a porous\ntexture, with cavities of different fizes 3 hufre glimmer-<x_0.8398><y_0.875><class_Text>\n\n<x_0.8008><y_0.8742>ing<x_0.8408><y_0.8891><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2333,
+      "completion_tokens": 1825,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2333,
+    "completion_tokens": 1825,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.127
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:04.858997+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "bc3d9223931562d232bf54feec22aef428eaefcd210543b942fdd82f87aca25f",
+                "characters": 197167
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-d59c90a5-cbd4-4903-98a6-735df2cda03e",
+    "object": "chat.completion",
+    "created": 1792322465,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0713><y_0.0297>524 UNIVERSITIES<x_0.709><y_0.0453><class_Page-header>\n\n<x_0.082><y_0.0539>Dublin.<x_0.1367><y_0.0742><class_Text>\n\n<x_0.1387><y_0.0492>patible with that of tutor, and have consequently resigned their pupils as that the number of tutors is limited to fourteen. It was not until the later end of has century that the period was recognised during the foresees of the universit who were not follows. In 1701 a statute was passed, which obliged to regle profesor of diversity on the appointment is that effect, to resign his fellowship; in all the same year the regular professional of feudal and English law we founded upon the same conditions filled by a fellow. In 1712 Provost Andrew Sequelated to the<x_0.5713><y_0.1477><class_Text>\n\n<x_0.5723><y_0.05>college an endowment for a professor of astronomy. A robot of medicine was established by act of parliament in 1703, consisting of three professionals and attending and faculty, two professionals of modern language were female at 1777. These with the exception of the professionally political economy, and philosophy, and bibliotkics are the only professorships which can hold by persons who are not followed. The following is a table of the professionals and lecturerships with the date of foundation, and the patronage:<x_0.9717><y_0.1461><class_Text>\n\n<x_0.1455><y_0.1523>\\begin{tabular}{cc}\nOffice & Founded.\\\\\nRegits professionals of divinity... & 1097\\\\\n— of civil and canon law ... & 1068\\\\\n— of feudal and English law & 1714\\\\\nof global ... & 1437\\\\\nof Greek ... & 1741\\\\\nKing's lecturedly life divinity ... & 1729\\\\\nLori Donegal's lecturing in mathematics ... & 1671\\\\\nReveri astronaut of female ... & 1733\\\\\nSmith of professionals of natural philosophy ... & 1724\\\\\n— of ordinary ... & 1724\\\\\nof unheantical ... & 1722\\\\\nof history ... & 1723\\\\\nLectetorship in natural history ... & 1616\\\\\nProfessorially of French and German ... & 1777\\\\\nof Indian and Spanish ... & 1777\\\\\nWhistety's professionals of political economy ... & 1832\\\\\nProfessorially of novel philosophy ... & 1807\\\\\nto fulfilled thereby ... & 1828\\\\\n\\end{tabular}<x_0.5693><y_0.4141><class_Table>\n\n<x_0.1475><y_0.4188>The professional system, as established in the university, has never been efficient. Some of the professorship and lectureships are annual offices, and them, with others which are not animal, are all likely for personalities than is accepted by other duties, and besides this, the lectures of the professors are no sufficiently connected with the information of such as are looking for currently honours or degrees. The education of the students in arts is in broad almost extensive study of these of the junior fellows who ever cruise the functions of tutors.<x_0.5732><y_0.5125><class_Text>\n\n<x_0.1484><y_0.5133>The educational years is divided into three areas, Michalmas, Nifnya and Trinity). Those of Michalmas and Hilary are fol-loved each by a short term that they live by a section of three months. There are kept during the undergraduate course, and by residence, as at Oxford and Cambridge, but by answered at the institution that will be the purpose of the beginning of each term. Students of divinity, law, and medicine are required to student the institution of the purposes, the beginning of each term. Students of divinity, law, and medicine are required to student the practice, and therefore they either in the college or in the city. The undergraduate course consists of a four years, in each of which the instructors are distinguished by the titles of junior and senior graduate. After taking his first degree, the student become successive via junior middle, and some Bachelor when he admitted to the degree of master of a x. A bachelor of divinity must be M.A. of seven years’ standing, a teacher divinity must be B.D. of five, or a master of art of twelve a bachelor of laws must be of six years teaching.” A doctor if was one to it. L.B. of four years’ standing, or a master of art of six. A bachelor in medicine must be B.A. of five years’, or a master of art of several years starting. A bachelor in media must compose and perform a soloing music about music before the university, a doctor in music must be Mrs.D. of five years, and performs a similar excective. The fees for B.A. are L.T. Y.), for R.A. L.a. to R.A. to G.d. for B.D. L13. Ios., for D.D. L28, for L.B. B.T.1. 10s., for L.I. L. D.129, for M. D. L1. Ils, and H. D. I. Tues.<x_0.5742><y_0.7766><class_Text>\n\n<x_0.0781><y_0.7805>Ranks.<x_0.1201><y_0.7914><class_Section-header>\n\n<x_0.0771><y_0.782>S<y_0.7844><class_Section-header>\n\n<x_0.1318><y_0.7828>The students are arranged in four Ruarks : I. Nollemen and bas- money, stylish bubbles, and any who are entitled to the degree of B.A. per semester practic. 2. Fellow commences, who are entitled to graduate at the commencement of their fourth or senior solidity or. These two classes pay a high annual stipend, and then at the same table with the fellows in the com- mane hall. 3. Penlovers who constitutes the great body of the students. A States, who have their commencing, and are ex- enquited from annual fees. The number of states is limited to<x_0.5752><y_0.8734><class_Text>\n\n<x_0.5879><y_0.1531>thirty-six, and admission is obtained after a very strict examination held annually to supply vacancies, the endowment being (able for four years, each of these phases is distinguished by a prior class dress. The mode of admission is by our examinals led him at the beginning of each term, in the public theater of the colp. The examiner for entrance say the junior fellows, and Elizabeth also had a two only possessions which amo had by persons who are not follows. The following is a table of the professionals and lectureships with the date of foundation, and the patronage:<x_0.9727><y_0.1469><class_Text>\n\n<x_0.5869><y_0.1539>\\begin{tabular}{c}\nPatrons.\\\\\nProvost and senior fellows.\\\\\nProvost and senior fellows.\\\\\nProvost and senior fellows.\\\\\nTwo candidates are selected by the provost and senior fellows, the one of whom is appointed by the board of Krasus Smith, for each time at the third paper; Smith’y exhibi-tioners being, centrée parables, preferred.\\\\\nProvost and senior fellows.\\\\\nProvost and senior fellows.\\\\\nCrown. Crown. Crown.\\\\\nProvost and senior fellows.\\\\\n\\end{tabular}<x_0.9707><y_0.4148><class_Table>\n\n<x_0.5889><y_0.5422>Greic--Homer, Blad, libb. -Livil, y Walker’s Lucian; Nor. Tot. the Gospel and Astra; Zemopoulos Ahmä, libb..ladi.<x_0.9697><y_0.5602><class_Text>\n\n<x_0.5898><y_0.5617>Leather--Sultur; Hanner, Virghi, libro.lib. Lv-xi; Terroso, Asderia, and Heutontinuorumuens Jugvenal, Satt. ii, x. zik. sit.<x_0.9688><y_0.5844><class_Text>\n\n<x_0.5908><y_0.5867>The examinar is conducted over one day examine take separate book, and gave round the ball, requiring from the candidates separately in oral, translation of the fine bands and talking some grammatical or historical questions. After the examination, please are determined by the preparation of the examinations instances she also had on the first Monday of every month during terms. Those who are enter after November, and proper up go on with the junior freaking class, next year a set science, instead of half a year, and their names must be on the college books in letters before the eighth of the Columbia. For examination for searching is bad annually on the first Tuesday and Wednesday after Friday Sunday, and the candidate people alike the ordinary entrance courses, are examinerals in all just al-ditional classical real in the first two terms of the junior freakas.<x_0.9834><y_0.7344><class_Text>\n\n<x_0.5918><y_0.7352>The following is a table of the half yearly charges, including tuition, but exclusive of rooms and common.<x_0.9736><y_0.7555><class_Text>\n\n<x_0.5928><y_0.7602>\\begin{tabular}{ccc}\n\\thead{\\mbox{}} & \\thead{Rememberably the first Half Year} & \\thead{\\mbox{}}\\\\\n\\thead{Problemen} & 1.00 0 & L.30 0\\\\\nFollow-commemories & 30 0 & 13 0\\\\\nPensioner & 15 0 & 7 0\\\\\nStarz & 0 0 & ...\\\\\n\\end{tabular}<x_0.9766><y_0.8422><class_Table>\n\n<x_0.1436><y_0.8836>† This was the number previous to the statute of Victoria. When the additional fellows provided for by this statute are elected, the next few of tutors will lastoresfer to eighteen.<x_0.9824><y_0.8992><class_Footnote>\n\n<x_0.1602><y_0.9>2 A bachelor of arts may take this degree in three years, and a matter of arts in two<x_0.6748><y_0.9141><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 558,
+      "total_tokens": 2628,
+      "completion_tokens": 2070,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 558,
+    "total_tokens": 2628,
+    "completion_tokens": 2070,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.015
+}

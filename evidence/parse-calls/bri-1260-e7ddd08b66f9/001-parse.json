@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:50.878999+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "5a8e899dd3cc5015b390e5e8d2de48cb044cf3e43c64261cf64ce5592b86ce1e",
+                "characters": 194427
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-a983ec6a-af46-4cd1-a6c5-86114ee992a2",
+    "object": "chat.completion",
+    "created": 1792322571,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1875><y_0.0484>GER [ 679] GER<x_0.7324><y_0.0672><class_Page-header>\n\n<x_0.0166><y_0.068>Germany-on one side, where it was enclofed by a broad rampart formerly ralfed by the Angrivarii as a barrier between them and the Cherufai. Here another battle ended in which the Germans behaved with great bravery, but in the end were defeated with great daughter.<x_0.4551><y_0.132><class_Text>\n\n<x_0.0156><y_0.1328>After this formal defense, the Angrivartii submitted, and were taken under the protection of the Romans, and Germans put an out to the campaigns. Some of the legions be lost to their winter quarters by land, while he himself embarked with the roll on the river Ems, in order to return by fors. The ocen proved the left very strong, and the wind favourites, but at all of sudden a form arising, the fleet, confiting of 1000 velled, was diffiered home of them.were.Wallowe up by the waves, others were called in pieces against the rocks, or driven upon remote and inhojitable island, where the man stilber periled by Iranian, and lived upon the flesh of the dead horits with each the floors that appeared firewall, for, in order to lighter their fertile, and dilunges them from the floods, they had been obliged to throw overboard their horses and heads of bunlons, may, even their arms and lagging. Melt of the men, became more, were fixed, and even great part of the fleet recovered. Some of them were driven upon the coal to Britain but the jetty kings who reigned there generally fast than back.<x_0.458><y_0.3984><class_Text>\n\n<x_0.0869><y_0.3992>On the news of this misfortune, the Catti, taking new courage, run to firms; but Cuba Siline being de tached against them with 2500 fand and 3000 horse, kept them in awe. Germansa hinelf, at the head of is numerous body, makes sudden irrigation into the territories of the Marifir, where the recovered one of Yara's eagles, and having killed the country, be returned to the frontiers of Germany and put his troops into winter quarters , whence he was four real-led by Thierius, and never suffered to return into Ger-many again.<x_0.4609><y_0.5406><class_Text>\n\n<x_0.0879><y_0.5414>After the departure of Germanius, the more mondi-ern nations of Germany were no more molted by the Romans, Arminias carried on a long and fac-ceful war with Macrobodus king of the Macromani; when he at last expelled, and forced to apply to the Roman Kat, affluence; but, exempting Germanius, it fears they had an this time no other general capable of opposing Arminius, 60 the Macrobodus was never refered. After the final departure of the Romans, however, Amian having attempted to enforce his country, fall by the tendency of the own kindend. The Germans held his memory in great veneration; and Trecita informs us, that in his time they fill cele-brated him in the forego.<x_0.46><y_0.7164><class_Text>\n\n<x_0.0889><y_0.7172>Notling remarkable occurs in the history of Germa-ry from this time till the reign of the emperor Claudius. A war indeed it fails to have been carried to by Lucas Domitina, father to the empero Necro. But of his exploits we know nothing more than that he penetrated beyond the river Elbe, and led his arm farther into the country than any of the Romans had ever done. In the reign of Claudius, however, the German territories were invaded by Cn. Domitina Cuchabh, one of the greatest potential of his age. But when he was on the past of forcing them to found to the Roman yoke, he was recalled by Claudius, who was jelous of the reputation he had acquired.<x_0.459><y_0.8836><class_Text>\n\n<x_0.1025><y_0.8828>In the reign of Vafpadian, a terrible revok happened<x_0.457><y_0.8992><class_Text>\n\n<x_0.4717><y_0.0688>among the Batavana and thôe German nations who Germany, had admitted to the Romans; a particular account of which is given under the arrivals Route. The revolver the first were with difficilly flatbied; but in the reign of an invade Domitina, the Docians invaded the empire, and prove the Roman a more territhile enemy than any of the other German copies.<x_0.9111><y_0.1453><class_Text>\n\n<x_0.4727><y_0.1461>Russians had been. After fewest defects, the emperor was as half obliged to content to pay an annual tri-bore to Russian king of the Docians’s which con-tuned to the time of Trajan. But that warlike price refited to pay tributes, lading, when it was de-manded of him, that “he had never been opened by Decebahsli.” Upon this the Dacians pailed the Danang, and began to combat holidies in the Roman territories. Trajan, glad of this opportunity so humble an enemy whom he began to fear, drew to gather a migrey, and reached with the usual expeditition to the banks of the Danube. As Decebahls was not applied of his arrival, the emperor pailed the rice without oppose, and encaring Docia, had waite the country with fire, and favor. At all he was met by Decebahsla with a numerous army. A bloody engagement ruled, what the Docians were defeated ; though the victory colt the Romans dear: the wounded were in numerous, that the wanted him to bind their wounds, and to supply the defect, the emperor genessously devoted his own ward-ride. After the military, he parted December from place the place, and at full obligation to confront to a peace on the following terms: 1. That he should remember the territories which he has rapidly taken from the neighboring nations. 2. Thus he should deliver up his arms, his writable engines, with the ar-fices who make them, and all the Roman cheerter. 3.That for the future he should entertain no deferters, nor take into his service the native of any country subject to Rome. A. That he should dominate all his forteller, calles, and frong holds. And, lathy, That he should have the fame friends and foes with the people of Rome.<x_0.8525><y_0.5766><class_Text>\n\n<x_0.4736><y_0.5781>With thefbard term Decebahs was obliged to comply, though the ngamish his will, and being invited to Trajan, three himself on the ground before him, acknowledging himself his wife; after which the latter, having promised him to find departed to the tenate for the unification of the peace, returned to Rome.<x_0.8486><y_0.6648><class_Text>\n\n<x_0.4746><y_0.6656>This peace was of no long duration. Four years after (A.D. 10;). Decebahus, unable to live in fer-virtude as he called it, began, contrary to the late treaty to male men, provide any entertain deterres, family his calles, and invite the neighbouring nations to join him again the Romans as a common enemy. The Seythuan bankersed to his ridiculous; but the Jayges, a neighbouring nation, writing to bear arms against Korea, Decebahis invaded their country. Here upon Trajan marthed against him; but the Dician, finding himself unable to withstand him by open forces, laid reconforts to teachers, and attempts to get the emperor murdered. His design, however, proved positive, and Trajin parted his insure the Ducia. That his troops might the more readily pfs and re-pals the Danube, he built a bridge over that river; see which by the ancient is flyled the most magnificent and relatively wonderful of all his works. To guard the bridges? \"130-<x_0.9062><y_0.8969><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2220,
+      "completion_tokens": 1702,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2220,
+    "completion_tokens": 1702,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.063
+}

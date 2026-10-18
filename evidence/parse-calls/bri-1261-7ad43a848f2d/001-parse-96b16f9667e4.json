@@ -1,0 +1,36 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:29:19.300675+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "75f14acc3b3b5dc0dd5c1542f1277b1bb246c6296d415a326fa2494b15d3381f",
+                "characters": 115911
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 16384,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "error",
+  "error": "service returned HTTP 400",
+  "seconds": 0.522
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:29.285059+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "7e032636d69f31acfaae338c6ff240c236b612ed44add02a151fa8e5b5399ae1",
+                "characters": 191727
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-ce9f2587-7042-40ec-bf89-540727810255",
+    "object": "chat.completion",
+    "created": 1792322550,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.3271><y_0.0164>**GAS-LIGHTS.**<x_0.5791><y_0.0414><class_Page-header>\n\n<x_0.8779><y_0.0219>461<x_0.9238><y_0.0422><class_Page-header>\n\n<x_0.0469><y_0.043>generally consumed in lighting towns. This apparatus may, therefore, be considered as capable of giving 25,000 cubic feet of gas each day in the years<x_0.4492><y_0.0875><class_Text>\n\n<x_0.0479><y_0.0938>To produce this quantity, 48 evt. of cannal or coal fitted for the purposes will be required, and which, in the coal districts, may be calculated at 20% per ton, giving for the annual charge _about_ L. 880 Common coal for fuel, say half the weight of the above, and at half the price, 220 Lilled water for justifying the gas. 270 Management, wages and sundur charges, 1,090 Annual renewal of sixteen or seventeen reforts, 293 Two and a half _per cent._ on the amount of main pipes, &c. 260 Ter prepaid, on the amount of the other parts of the apparatus to cover repairs and ordinary wear and tear, 1,070 Annual expenditure, L. 4,020 Which amounts to L. 11 per day as the cost of 25,000 cubic feet of gas, or about 8s. 10d: for the cost of each 1000 cubic feet, exclusive of interest on capital, y that added, it will amount to 11s. 24, and as 20 cubic feet of gas will give the same light that 1 lb. of tallow does, the cost of it will be<x_0.4424><y_0.4203><class_Text>\n\n<x_0.1279><y_0.4219>(11s. 2Lx 20) 100) 22d, barely.<x_0.3604><y_0.4508><class_Formula>\n\n<x_0.0488><y_0.4562>An apparatus capable of supplying an equal quantity of light by means of _oil gas_, would in point of expense amount to nearly as follows:<x_0.4434><y_0.5><class_Text>\n\n<x_0.0498><y_0.5086>Retorts with all their apparatus, condensing and washing vessels, and buildings for the same, L. 3,700 Gasmeters, &c. of half the capacity of the former, 9,500 Main pipes, &c. the length supposed the same as before, but the capacity reduced one half, . 7,700 Total, L. 14,900<x_0.4404><y_0.6492><class_Text>\n\n<x_0.0508><y_0.6531>The quantity of gas daily consumed will average 12,500 cubic feet, or half the bulk which could be required of coal gas.<x_0.4414><y_0.6984><class_Text>\n\n<x_0.0518><y_0.7078>To produce this, 125 gallons of oil are necessary and valuing the same at L. 32 per top, the same charge will be _about_ L. 5,780 Common coal for fuel, and water. 220 Management, wages, and sundur charges, 389 Annual renewal of reverse, 100 24 _per cent._ on main pipes, &c. 190 10 _per cent._ on the other parts, 220 Annual expenditure, L. 7,830<x_0.4316><y_0.8508><class_Text>\n\n<x_0.0459><y_0.8531>Or about 4jd, for a light equal to what 1 lb. of tallow would give; and if interest on capital is included, it will amount to about 4jd, being, compared with the cost of coal gas-light, nearly as ten to six:<x_0.4307><y_0.9102><class_Text>\n\n<x_0.4512><y_0.0437>In the above calculation for the expense of coal gas, no mention is made, of the color, tar, oils, and ammonia produced. The value of the coke depends much upon the nature of the coal employed; that obtained from such as the Newcastle coal mares well for house free, drying kins, screws, etc., but the Cannel coal, which is used for making gas to a great extent in many parts of the Kingdom, gives a very inferior choice, of frequently not more than 1-6th to 1-6th the value of the coal which produced it. The tar, when boiled and mixed with chopping oil and other substances, press a paint which may be used for common purposes; it may also be converted into pitch, and by burning it in clean vessels, species of lampashk is produced. On the whole, this and the other liquid products have, however, not been considered as of much cooking, and has getting rid of them and of the reflux line, which has been used in purifying the gas, is often attended with an expence which the own value, and that of the charcoal, will use more than compensate.<x_0.8438><y_0.3242><class_Text>\n\n<x_0.4521><y_0.3234>Though the expense of lighting by gas from oil appears, on a large scale, not to be much less than double that of coal gas, the same great dispropier will not altogether hold for very limited quantities of light where the charge for an unrelated forms a considerable part of the current expenditure. A cool gas apparatus, however small, will, when in work, require the name, constant attention of a person to manage the fire, to charge and discharge the retorter, to remove the lime or other substance used for purification, and to remove that while his done ie office, also to empty the tar reservoir, &c. In the other apparatus, when the oil reservoir is filled and once set to work, it requires an other attendance for a number of hours, then the keeping of the fire in order, and the production of gas can be contained at pleasure, stopped by the mere turning of a cock, and the manances accompanying the formation and removal of tur, ammonical liquor, and lime relics, are entirely modeled.<x_0.8398><y_0.5891><class_Text>\n\n<x_0.4531><y_0.5898>An argand oil lamp with a burner three-fourths of an inch diameter, we have found to consume 60 grains of the best spectactical oil in one hour, when giving the light of 3J candles of the size above specified. Five thousand graines of oil will, therefore, the the same quantity of light that 1lb of tallow does, and valuing it at 3s. 6d. per gallon, the cost will be, with an allowance for wicks and trouble of trimming, about 6jd.<x_0.8359><y_0.7063><class_Text>\n\n<x_0.4502><y_0.707>The comparative expense of light from the different substances mentioned below will then be as follows:<x_0.832><y_0.7516><class_Text>\n\n<x_0.791><y_0.7523>A. I. A. Naluing the quantity which 1lb. of tallow gives in candles at ... 1 0 An equal quantity of light from spectactile oil contented in an argon Lamp will be 0 6i A ditto ditto from white oil gas, ... 0 4i A ditto ditto from coal gas, ... 0 2i<x_0.8301><y_0.8422><class_Text>\n\n<x_0.4541><y_0.85>It would have been desirable to have been able to give a comparative table of the actual charges made for supplying gas-lights in some of the principal towns of the Kingloos; but unless some stand<x_0.8311><y_0.9094><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2001,
+      "completion_tokens": 1493,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2001,
+    "completion_tokens": 1493,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.455
+}

@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-1230-4f96d9bebe42",
+  "row_index": 1230,
+  "volume_id": "149979156",
+  "metadata": "Encyclopaedia Britannica - Third edition, Volume 5, CIC-DIA - EB.5",
+  "label": 0,
+  "sha256": "4f96d9bebe421b6d59e2a525f5b1a686601a8468f7bf92ed458f450ebd6e14b3",
+  "width": 600,
+  "height": 783,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1230",
+  "manual_seed": false,
+  "image_file": "../images/bri-1230-4f96d9bebe42.jpg"
+}

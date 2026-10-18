@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-1854-36bca28d19d7",
+  "row_index": 1854,
+  "volume_id": "191320561",
+  "metadata": "Encyclopaedia Britannica; or, A dictionary of arts, sciences, and miscellaneous literature - Fourth edition, Volume 8 Part 2, FAI-FOR - EB.9",
+  "label": 0,
+  "sha256": "36bca28d19d74ef7931dcd5686a7307de317abf3329aa59dbc183c88e93617e2",
+  "width": 600,
+  "height": 821,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1854",
+  "manual_seed": false,
+  "image_file": "../images/bri-1854-36bca28d19d7.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:25:30.451701+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "ab3ed5f40a20047cdb7c80514171e0901684f5b68285a4d97d772e20b9f72b41",
+                "characters": 202159
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-bf33f8b9-fa20-43dc-928f-d63f9aefd506",
+    "object": "chat.completion",
+    "created": 1792322730,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2676><y_0.0234>C U T [ 626 ] C U T<x_0.8438><y_0.0453><class_Page-header>\n\n<x_0.0781><y_0.0469>Outings cut off, and take away very curiously with the points of very fhary knives, or little childis or gravers, ac- condition to the bigands or delicacy of the work; for they need no other refinements.<x_0.5381><y_0.1008><class_Text>\n\n<x_0.1406><y_0.1016>It differs from vragraving in copper, beautiful in the former, the impeller cause men from the prominent parts or Brukes left unecty, whereas in the latter, it comes from the channels cut in the metal.<x_0.5391><y_0.1555><class_Text>\n\n<x_0.1396><y_0.1547>The manner of printing with wooden prints is much more expeditions and only that that of copper-plate because they require only to be dipt in the printing› link, and impeded on the object in the frame manner and with the fans appears as a letter-opening is managed; and for purposes that do not require great corrections, the impellerion as made by the hand only, a proper handle being fired to the middle of the print, by which it is first dipped in the ink, freed by means of a brush on a block of proportionable face covers with leather, and then lifted up naturally, and dropped with fine little force on the paper which is to receive the impedition.<x_0.54><y_0.3328><class_Text>\n\n<x_0.1367><y_0.3367>Corrsors, or dips, in gardening, the branches or fprigs & tiers or plants, cut or flipped off to fet ar gain; which is done in any small fine earth.<x_0.541><y_0.3742><class_Text>\n\n<x_0.1377><y_0.375>The drill factor is from August to April; but care it to be taken when it is done, the day not too much in the top, left the cut die before that part in the earth have root enough to support it: nor yet mult it be to dry or fantasy; the fap in the branches affliting it to take root.<x_0.5508><y_0.4555><class_Text>\n\n<x_0.1387><y_0.4562>In providing the cuttings, fresh branches as have jeans, knots, or thurs, are to be cut out two or three inches beneath them, and the leaves to be dripped off fo far as they are fet in the earth. Small top-branches, of two or three years growth, are fitted for this operation.<x_0.5518><y_0.5391><class_Text>\n\n<x_0.1357><y_0.5398>CUITITE-P1431. See Sertia The bone of the cattle fit to land on one like, but if and yielding on the other; to an readily to receive pretty cost impedtions from medals, etc. and afterwards to force as a mould for calling metals, which thus take the figure of the original; the bone, its flowers frequently europployed for cleaning or polishing fiber. This fifth con›tains in a certain ditch welfs a fluid as black as inks which it is full to those perfectly, and thus at soon-cal talift by dilcolouring the water. The particular qualities of this liquor or not yet determined. Dr Leip says, he saw a letter which had been written with it ten years before, and which fill continued. Some report that the students make their idea from it; and others, but it is the buds of China, or Indian-inks but both their accounts appear to have little boundstion. Pliny, speaking of the links made life of in his time, after coloring that the cattle-filled is in this re-faced of a wonderful nature, adds especially, that ink was not made from it.<x_0.5527><y_0.8117><class_Text>\n\n<x_0.1514><y_0.8133>CUITTS (John led)), as folder of mail finally brazery in king William's was. was fun of Richard Cutts, Efq: of Matching in Effex; where the family were fetted about the time of Henry VI, and had a great value. He entered early into the ferice of the duke of Monmouth, was aid-de-camp to the duke of Monmouth, was aid-de-camp to the duke of Leonin in Hungary, and figuralized himself in a very extretenidinary manner at the taking of Buda by the Imperialifa in 1866; which important glance had<x_0.5498><y_0.9383><class_Text>\n\n<x_0.5479><y_0.0477>been for near a century and a half in the hands of the Turka. Mr Addiction, in a Latin poem worthy of the Augustan age, plainly hints at Mr Cutta’s killingdib. ed bravery at that finger. Returning to England at the revolution, he had a regiment of foot; was crea- and herone of Governor in Ireland. Dec. 1969; appointed governor of theild of Wright, April 19, 16 y; was made a major-general; and, when the affulina tion projects allow downst, 160yrcé, won captain of the kingd sp guard. In 1968 he was complicated by Mr John Hopkins, as one to whom \"a double crown was due;\" is a love and a post. It has a colored of old childframe, or forced regiments of guests in 1975; when Mr Stolele, who was indebted to his interest for military comforians, including to him his first work, \"At the Christian How.\" On the ascection of queso Anne, he was made a lieutenant-general of the forces in Holland; commander in chief of the forces in front, under the Duke of Ormonaj, March 25, 1704;; and afterwards one of the bords gathered at that kingdom, to keep him out of the way of action; a circumflance which broke his hien. He died it Dublin, the 26, 1704;; and a buried there in the custardal of Chiffr church. He wrote a poem on the death of queso Mary; and published, in 1687, Posted ex- excites, written name favors operations, and dedicated to her royal Highests Mary princels of Orange?' It contains, besides the dedication rigged J Cutts, verbs to take principles; a poem on Wildenn, another to Mr Waller on his commending it; even more copies of verder (oneof them called Zu _left) Cavalier_ which had been alerled to lend Peterborough, and as such men- moved by Mr Walpole in the fil of that nobleman's writings), and it longer the whole compiling but a very thin volume is which is by as arena to force as Mr Walpol dropped it to a. A depiction of his poetry (of which the five trift lines are quoted by bleece in his fifth Walker) is here added :<x_0.9521><y_0.5672><class_Text>\n\n<x_0.6494><y_0.5719>On it will be that I am Leave the tell to her and fate; Some of a plane from above May perhaps let thy me; A everse on their first multi wait Only told her that I love Why, oh, why should defend? Mary's picked in in eyes! If the nice wouldbe to hear, Wecoming, and Ye some fear, she's too good to let me die; Why, oh, why blood is helped?<x_0.8398><y_0.7047><class_Text>\n\n<x_0.5742><y_0.7063>CYATHUS, works (from the verb xum, to your way), was a common measure among the Grecks and Romans, both of the liquid and cry kind. It was e quel to an owner, or the twelfit, part of a put. The cyathus was made with an handle like our punch-lade. The Roman topics were did to drink to many quick as there were critics, is c mine do us many there were letters in the patron's name. Thus, they had modes of drinking drinks to the modern health-drink- ing or toddler. They say, the the emphasis of the Grecks weighed 10 drachins; and Galen fays the fam; though elsewhere heys, than a cyathus contains 12 dramat oil oils, 13 dramats and one simple of wire, waters, or viergar, and 18 frachos of honey. Galen fays, that among the Veterinari the cyathus contain- ed two ounces.<x_0.9531><y_0.9242><class_Text>\n\n<x_0.5752><y_0.925>VCAXARES, fan of Phraortes, was king of Me-dia.<x_0.9541><y_0.9531><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2285,
+      "completion_tokens": 1767,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2285,
+    "completion_tokens": 1767,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.364
+}

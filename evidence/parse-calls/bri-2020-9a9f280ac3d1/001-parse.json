@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:28.620717+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "28e85eedbdc49d1ae14bf25459864d7d33396e8a42b7e97e12f97964668be919",
+                "characters": 180983
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-7221134e-00aa-463d-a5fb-9b49cf3b9732",
+    "object": "chat.completion",
+    "created": 1792322669,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0322><y_0.0617>Hifory.<x_0.1084><y_0.0805><class_Section-header>\n\n<x_0.3232><y_0.0586>B OT<x_0.2412><y_0.0773><class_Text>\n\n<x_0.8652><y_0.0609>313<x_0.9043><y_0.0789><class_Page-header>\n\n<x_0.0918><y_0.0813>equal, attached at the flame height to the tube of the peal, alternate with its airflow, and opposite to hide of the calyx. The anthem are generally erect, and frequently approach do so to form a compel body by the middle of the flames. The feed-shell in these ringle or double. In fome the flyle is wanting. The figure is frequent double. The feed-shell in fome genera is as a pulpity find, of the berryer and cherry kind; but molt frequently that species termed by lanumos con- _expiration_, and _fullcider_, which has one writes or extertal resolution, open lengthways on one side, and has not the feeds flattened to fix. Two of these dry fruits: with a guide can, complete the feed-shell without plant plants of this order. The feeds are generally numerous, and alla forced geane covered with a long papura’s downy wing like thate of the compact flowers, by means of which they eatly differite and love themselves. — the plants of this case being cut, past a juice which is generally milky, and fromimeine of a garanti while. From the circumstance of their choosing in this milky juice, the greater part are deemed obvious having ethabified: this aphorim. That milkily plastic, except biofed of the plan compound flowers, are generally of a benefit definitive nature, and might at least to be administered with caution. With respect to their flexible qualities, they are bitter, particularly the feed roots and bark, it, which yields their pina-egal virtues.<x_0.4629><y_0.4266><class_Text>\n\n<x_0.0898><y_0.4273>23. Paprinidae, (from stripes, a brair or bramble), conflting of plants refreshing the daphne, direca, gui-dia, Sec. line which, however, do not constitute a true natural affenning.<x_0.4639><y_0.4758><class_List-item>\n\n<x_0.0889><y_0.4766>33. Paprinione, plants that have papliancesous flavors, if a somewhat refreshing a butterfly in lines, of which number are all the leguminous plants. The plants also holds order are over any different durations iome of them being herbaceous, and blade canear animal or perennial: others woody vegetation of the drum and tree kind, a few of which rate for the height of 50 feet and upwards. The herbaceous plants of this order generally climb, for, being weak, and as we were help. Ida of themselves, they are provided by many with tendrils, and even flarp-pointed books, at their extra-nities, of the upon upon the neighboring trees or rocks, or the flakes are endowed with a family of visiting themselves, for the purple of fingers, around the box dies in their neighborhood. They say, each, and kidney-learn, afford families examples of this appearance. These fluids and resemble this other are mostly armed with strong fishes. The roots are very long, and fortified with fibres, but for some genera have fledhy knobs or tu-heories placed in proper intervals along the lines. The films are symbolic, as ilawville for young branches, which are good alternative, thick which climb, twist themselves from right to left, a direction progresses, the apparent motion of the fan. The back of the large trees is extremely thick and whirted, else as to scramble a nat with the myndler, the wool is very bad in the middle, and commonly coloured or evined. The buds are intelligent, without cates, and protected from the branches horizontally as little above the angle which they form with the leaves. The leaves are alternate, and sufficient forms, bring either firmly, finger dis-ped, or winged. This lift form is very common (the lobes or lecifer leaves are entire, and sometimes placed<x_0.4648><y_0.8836><class_Text>\n\n<x_0.1172><y_0.8797>Vol. IV. Part I.<x_0.2422><y_0.8922><class_Caption>\n\n<x_0.6426><y_0.882>R e<x_0.6729><y_0.8938><class_Picture>\n\n<x_0.6436><y_0.9039>R guliterary<x_0.8408><y_0.8953><class_Caption>\n\n<x_0.1182><y_0.8789>Vol. IV. Part I.<x_0.2432><y_0.893><class_Caption>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 1394,
+      "completion_tokens": 876,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 1394,
+    "completion_tokens": 876,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.574
+}

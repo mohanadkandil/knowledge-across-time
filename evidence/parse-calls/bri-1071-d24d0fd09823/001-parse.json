@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:34.948564+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "ff668a3681c17c21a374be8ba5414bc7ad54ceaa002185695384d498b0466281",
+                "characters": 160247
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-f125c79b-9508-4957-991a-2bd28eb656a6",
+    "object": "chat.completion",
+    "created": 1792322555,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2432><y_0.0523>COM [388] COM<x_0.7705><y_0.0703><class_Page-header>\n\n<x_0.1455><y_0.0672>COMMODATE, COMMODATUM, in the civil ju-tifrondence, the loan or free concellion of any thing movable is immovable, for a certain time, on cane officers of referring again the fans individual faces a certain terms. The commonates is a kind of born there is this difference, however, between a line and a commonate, but the latter is grains, and does not transfer the property; she thing much he returned in effence, and without impairment, to that things which conforme by wife or time cannot be objects of a com- moother, but of the lion, I a regard they may no returns ed in kind, though not an identity. See Law In-der.<x_0.5039><y_0.2383><class_Text>\n\n<x_0.1445><y_0.2359>COMMODIANUS, GAZUS, a Christian author in the 4th century, who wrote more in Latin verife, entitled inflications, the moral of which is excellent, but the very extremely heavy. M. Davies published a fine edition of it in 1711, at the end of Minucius Fabis.<x_0.5029><y_0.3141><class_Text>\n\n<x_0.1465><y_0.3117>COMMODITY, in a general fende, denotes all forts of were and mechaniculties whatforests that a person doich or trade in.<x_0.502><y_0.3547><class_Text>\n\n<x_0.1475><y_0.3516>_Stable Commissioner, who wares and merchandise as are commonly and readily fail in a market or exported abroad; being for the mall part the proper position or manufacture of the country.<x_0.501><y_0.4><class_Text>\n\n<x_0.1484><y_0.4008>COMMODORK, a good citizen in the British marines, involved with the common of a settlement charge of warned defined on any particular enterprise, during which time he bears the rank of brigadiergearrers in the county, and is simplified from the in- inferior ships of his jurisdiction by a broad next predator tapering towards the outer, end, and sometimes ferk eid. The word is corrupted from the Spanish, consenedades.<x_0.5049><y_0.5148><class_Text>\n\n<x_0.1494><y_0.5141>Commodora It also means give to form clief flip in a dies of merchantsen, who leads the van in time of war, and carries a light in his top to condolf the rell, and keep them together. He is always the dead cap- skin in its feet he commands.<x_0.5059><y_0.5789><class_Text>\n\n<x_0.1504><y_0.5836>COMMODUS, LALAN AND AUTOUNDS, for Mr. Attorimus, fascinated his father in the Roman empire. He was naturally cured and food of India giving his freedom uponstylkes. He unlined to the call ed Hercules, and his that hire, he adomed his bookers with a blood, kins, and armed his hand with a hunted chain. His phillyated with the glute story, and boathed of his decryin in killing the wild bearish in the amphitheters. He required driven his honor from the fence, and they were granted. He was worn to put dish an amored quantity of gold dull in his hiring, that when he prepared here heated in the families, his head gilttered as if forwarded with fun beans. Morris, one of his concedores, whole death he had prepared, poised him; her as the pun- fon did not pickly operate, he was thrangled by a weriler. He died in the 31th year of his age, and the 13th of his reign. It has been obfered, that he never tulled himself to a barter, he is always burnt his beach, in imitation of the tryman Dioras. A. D. 192.<x_0.5176><y_0.8422><class_Text>\n\n<x_0.1748><y_0.8391>COMMON, Comments, fomething that belongs to<x_0.5156><y_0.857><class_Text>\n\n<x_0.5146><y_0.0688>all alike; is owned or allowed by all; and not confined Commono to this more than that. In this fender, common funds opposed to proper peculiar. See. Thus, the earth is find to be our common mother;) in the frift or golden age all things were in common, as well as the fan and elements the name animal is common to mine and beatly that of fulbance to body and spirit.<x_0.876><y_0.1609><class_Text>\n\n<x_0.5137><y_0.1586>Commons, Commons, is equal names perientes), in law, ilgifies that both, the de whereof is common to a partient town or holding, or it is a pride that a minh bish the land of smaller prefer, usually is common with others; or a right which a person lost to pan his cattle to pattern into ground that is not his own. And there is not only common of nature, but alio common of dietary common of cultures, common of turvory. See. And in all roles of common, the live much reflects the culm of the place; for there the role is, _confused locs of offorando._ See Com- monetry.<x_0.877><y_0.3133><class_Text>\n\n<x_0.5166><y_0.3125>Commons Council. See CONEVL:<x_0.7568><y_0.3227><class_Text>\n\n<x_0.5186><y_0.3219>summer shows, that body of law received as rules parliament to alter the fame. See Law, Part II. N’S.<x_0.875><y_0.3609><class_Text>\n\n<x_0.5293><y_0.3594>Commons-Place Book, is a register of what things occur, worthy to be noted, in the court of a man's thinking of the party, if adopted as that among a number of subjects any one may be easily found.\" The ad- varyans of making a common-place book, we may: it not only exist a man read how accuracy and attention, the induce him intimidibly to think their films, followed by conflicts in void. In such as a register of finiments that Arke him in the course of reading, but as a regler or his own brought upon various folksjels. They valuable thought once ever come to me of no extraordinary genial. These without the artifacts ance of a common-place book, are generally laid both to himself and others. There are various methods of arranging common-place books; thus of Mr Locke is so good as you have has hitherto been coni- tived.<x_0.8779><y_0.5719><class_Text>\n\n<x_0.5303><y_0.5703>The full page of the book you intend to take down their common-place in, is to force as a kind of index to the whole, and to contain reference to every place or matter in the commonestous construace of which index, foa is it may admit of a fallicent copia or variety of materials, without any condition, all the fe- cret of the method conflict.<x_0.8828><y_0.6617><class_Text>\n\n<x_0.5283><y_0.6602>In order to this, the full page, is a already mentioned, as, for now room, the two full pages that front each other, are to be divided by parallel lines into a 5 equal parts, whereby every fish has a to be differ, guided by its colour or other circumference. Theirfs lives are to be cut perpendicularly by others, drawn into top to bottom, and in the dorsal figure thereof, the ferral letters of the alphabet, both capital and mis- andles, are to be daily written.<x_0.8857><y_0.7758><class_Text>\n\n<x_0.5273><y_0.7719>The form of the lines and divifions, both horizontal and perpendicularly with the manner of writing the let- over theterny, will be conceived from the following fire- ciency, wherein, what is to be done in the book for all the letters of the alphabet, is here shown in the frill four, J, B, G, and D.<x_0.8896><y_0.8531><class_Text>\n\n<x_0.8672><y_0.8594>A<x_0.8906><y_0.8758><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 2098,
+      "completion_tokens": 1600,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 2098,
+    "completion_tokens": 1600,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.773
+}

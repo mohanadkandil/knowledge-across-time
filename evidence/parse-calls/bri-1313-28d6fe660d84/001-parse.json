@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:13.021334+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "d27d90b48019f83d86ad3e763cde2f463084c1a6c15157ff62b9c46ebb9766c6",
+                "characters": 182039
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-2dac9712-82d0-4cb1-97c1-87245fbdfd55",
+    "object": "chat.completion",
+    "created": 1792322593,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.377><y_0.0375>R U SSTA. 577<x_0.9004><y_0.0617><class_Page-header>\n\n<x_0.0146><y_0.0625>statistics at the different firm in 1896 was 284,010,191 roubles and ..... in 1897 it was 277,103,986 robles, or L,105000 more and The internal commerce of Russia is greatly facilitated by the vast system of initial navigation, which forms so striking a feature of this country. All the great rates like lakes, and we have been connected with one another by mostly of candle, as that a few common reason exists for teen the most remote parts of the empire. The Black Sea and the Pacific communities by means of the realt i the Baltic and the Captain Sea are united by means of the Vedge aircraft cuts; and the same great river is con- nected with the White Sea and other lakes. Important undertakings are in progress to perfect the junction of such rivers as the Marts and the Vedge, the Oka and the Dhe the Prerequire, the Nomen, the Pays had others. In 1817 the Emperor Alexandre created an office of \"short-go-neck\" of the varied communication, including smale roads, and bridges. From that period the works of this description has been vigorously prosecuted. The two of Rusis are in proper land, but, a number of our high roads are in progress. This from his Peterburg to Moscow, which has long been in existence, is a remarkable year. It is can clevated causeway of timber, running in one long, level, varying, straight lines over much and long, through formal and thicken. Many other important publishers have been undertaken, of which number is the introduction of quarry along the Oka, and from the Volga to NusaAwood, and the works upon the river Seyru. Steam-boats have been established upon some of the principal rivers, for towing borges as well as for carrying passengers and goods. (See NAVIDATOS, INALAND).<x_0.4473><y_0.4344><class_Text>\n\n<x_0.4521><y_0.0609>The colonies of Russia, that is, those southern parts of Statistics, the species in particular which have been settled by the evergreen, constitute a distinct nature of the country. At Colonics.<x_0.8965><y_0.1031><class_Text>\n\n<x_0.4531><y_0.1055>the period when Chelsea. If, ascended the throne, that vast tract of country which are formed the governing of Saratof was almost without cultivation; and in order to bring it nuclear power culture, the express sense a degree, writing colonies from European countries, where agricultural wastes the most advanced state. Great numbers of Gramm and Persian, Poland and Swedish families, accordingly, blocked to the banks of the Vologs, and its these fingers thanks is indeed for what, adventures she has made the manufacture of wine and the cultivation of the silkswemn. The German colonies who have settled in the Russia, Tasmania, and the government of Portugal, Georgia, éc., but principally in Southern Russia, are lo need in now hundred and twenty villages. Their popular nation at 1837 compared to 570,085, the number of many was 1,264,846 / seed count, 503,290 cheaters, produce, 1748,510 cheaters; if Iran, cross, 1,662,500 thereto; i vise rocks, 18,447,502 cheetwerts; i handa assigned to them, 5,588,711 English notes. After the pieces of Ashthapple, about 00,000 Bulgarians and Rumulants came to look in Russia. Since the days of Peter the Great, the Russian government has filed out greater encouragement to fleugers of all professions to settle in the empire, and to such Russian Russia is in and until degree included for her pro- sent grantees and prosperity. There's a secretly and initiation, on art, a manufacturer, w a department of war or space that has attained to excellence in the country, which is not indebted to some foreigner for its efficiency.<x_0.8359><y_0.4367><class_Text>\n\n<x_0.1602><y_0.4391>The foreign commerce of Russia is very considerably, as the following tables will show.<x_0.7246><y_0.4547><class_Text>\n\n<x_0.0752><y_0.468>Statement of the Quantities and Value of Merchandise imported into Russia from Countries in Europe, and from America, in the year IBRA.<x_0.4502><y_0.5055><class_Caption>\n\n<x_0.4697><y_0.4703>Statement of the Quantities and Value of Merchandise exported from Russia to Countries in Europe, and to America, in the year IBRA.<x_0.8213><y_0.5047><class_Caption>\n\n<x_0.0703><y_0.5078>\\begin{tabular}{cccc}\n**Description.** & **Quantities.** & **Value.**\\\\\nCoffee .... cwt. & 31,392 & 1,123,642\\\\\nSpices .... value & 42,701 & 470,813\\\\\nDitto ditto... bottles & 184,066 & 470,813\\\\\nChampagne... bottles & 472,365 & 142,381\\\\\nFish .... value & 180,136 & \\\\\nSilt .... cwt. & 1,106,955 & 212,216\\\\\nTobacco .... cwt. & 29,700 & 222,144\\\\\nFruits .... value & 283,605 & \\\\\nCotton .wv .... cwt. & 66,835 & 306,481\\\\\nDitto, twrt. & 1,585,622 & 1,517,072\\\\\nDitto, ditto, dyed .... & 2,732 & 63,787\\\\\nInhilogy .... cwt. & 8,810 & 297,637\\\\\nCoochined .... cwt. & 1,135 & 44,599\\\\\nMaidler .... cwt. & 83,619 & 130,311\\\\\nLeopard .... cwt. & 129,655 & 109,834\\\\\nDyceeds, various .... value & 71,827 & 7\\\\\nDesign .... value & 73,676 & \\\\\nOlive oil .... cwt. & 76,797 & 223,588\\\\\nHardware .... value & 59,068 & \\\\\nLoal .... cwt. & 54,890 & 303,121\\\\\nSugar, raw .... cwt. & 441,944 & 1,179,889\\\\\nManufacture, cotton .... value & 233,823 & \\\\\nDitto, silk .... value & - & 329,066\\\\\nDitto, worsted .... value & - & 283,526\\\\\nCloth .... cwt. & 1,159 & 85,099\\\\\nPrecious stone .... value & - & 103,115\\\\\nMicellanone .... value & - & 1,388,517\\\\\nTotal value & - & 8,563,461\\\\\n\\end{tabular}<x_0.4492><y_0.9102><class_Table>\n\n<x_0.0781><y_0.9156>VOL. X132<x_0.1426><y_0.9273><class_Page-footer>\n\n<x_0.7568><y_0.9141>D<x_0.7822><y_0.9258><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2242,
+      "completion_tokens": 1734,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2242,
+    "completion_tokens": 1734,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.825
+}

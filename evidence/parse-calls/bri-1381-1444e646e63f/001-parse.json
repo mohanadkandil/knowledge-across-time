@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:18.630027+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6ccffa909be36e4c60173f8e8a0bfbc4ae8cda4105625ba0c5bffbf19618a4bb",
+                "characters": 208875
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-18432ca6-0570-42a1-97b0-9126ed097808",
+    "object": "chat.completion",
+    "created": 1792322599,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0869><y_0.0602>510<x_0.125><y_0.0766><class_Page-header>\n\n<x_0.292><y_0.057>P R E P R E P R E<x_0.7773><y_0.0711><class_Title>\n\n<x_0.1475><y_0.0781>who was sent by Pope Innocent IV, in 1246 on an cur-\nbasy to the Mongole, failed to discover the celebrated nation of Christians. Not long afterwards another Fran-\nsessy, William de Rabinousi, who penetrated into Aas as far as Barkamons could had none in a few Posto-\nrians, who had even heard of the great priest-king.\nEqually unsuccessful over the Portuguese carolvon who reached India by the way of the Cape of Good Hope about\nthe one of the Efteenth century. After fuilously seek-\ning for the Prester in Asia, they were fun to suppose on\nfew or no grounds, that they found found him in Africa in\nthe person of an Abysinals prison. The result of all these explorations was, that investigators crossed inquire\ninto the truth of the story of Prester John, and turned their attention to an explanation of its origin. The most plausible solution is that given by Makinler in the _Charck_\nHistory. He supports it to certain Austrian priest named John gained possession of a thrown atAsia.\nTurrty has assisted the time on Professor thisbyter after his season;) and that the title of Prester John was inherent by his descendants, along with the throws, his dynasty was exemption by the mighty Turtur emperor Gerghiskan.<x_0.5283><y_0.3484><class_Text>\n\n<x_0.1455><y_0.3492>PRESTO, in the Italian music, intimates to perform quickly; and hence prestistino denotes extreme quick-\nness.<x_0.5273><y_0.3859><class_Text>\n\n<x_0.1465><y_0.3875>PRESTON, a parliamentary and municipal borough, seators, and marketown of England, in the country of Lancaster, and the N Bank of the Ribblah, here created by three fine bridges, 19 miles S. of Lancaster, and 217 N.W., by K. of London. It is well built for the most part of thick, on a rising ground about 120 feet than the river, and the princelight streets, one of which called Ful-\negate, is about a milet long, one bread and wol agreed. In the neighbourhood there are many villas, and some beautiful public value. One of the latter, since Arvenham Walk, on the top of the hill on which Preston is build, a much frequented, and has been you laid and by the competition. There are in line now a spacious marker, place, and many elegant ternes and spaces. Among the public buildings are the global), a brick edible with a tartret and cupola, in the centre of the town; the coun-\nhouse, built in 1826, in the Greater style of architecture; the match-housew, corn exchange, bolschal, custom-houses, thayers, and assembly-rooms. Or the places of worship in Preston, ten belong to the BehlithMarch. The parish church, rebuilt in 1770, has a lofty spire. Those of 3A Peter and B. Paul, erected in 1885 and 1825, both in the modern Gothic style; and Christ church is a fine specimen of pure Norman architecture. The Roman Catholics have done character here; one of which is a building of great elegance. There are also places of worship belonging to Velevign Printman, Episcopoint Primitive, and Associated Methodologies; Baptists, Independence Unitatani Quakers, Speechenabians, and Moromanists, to the number of twenty all areas of the finest buildings the town is a Grecian structure belonging to the Society for Different, useful knowledge, containing a literary 5000 vohunes, and a valuable museum. The educational institutions comprise a free grammar school, founded in 1685, occupying a large stone cities and attended by 110 oukaken in 1822; a blue-canch, several national and infantars schools, and a chefsand-criminal institution. Preston has also a literary and philosophical society, with an elegant building of the Tuber style, a mechanic hentu, agricultural society, and then public libraries. There are, besides, nine alto-houses, a disperity, infermary, workbookos, and a trying-hand. Public baths and wall- houses have been erected here by the corporation, and were opened in 1851. The town contains a borough prison and county presintenary; while at Fulwood, 2 miles to the<x_0.5264><y_0.9187><class_Text>\n\n<x_0.5381><y_0.0773>N.W., there are large barracks. Preston is chiefly important as a manufacturing and commercial town. Its staple manufacture art prints is cotton, of which it is one of the principal seen in England. This church trade was introduced here in 1771, before which the the pri-\ncipal industry of the place we directed to the momenture of lines, which she carried out to a considerable extent. There are upwards of city and for spinning and wearing cotton, worveded and flax mulls, iron and base from families, ammeries, hope-works, multi-houses, and browaries. Paltery has been central to for a day time in the Ribblah, where every cek, Sec, are caught. The river has been, by dredging and other improvements, rendered navigable at varying date for vessels of 600 ton bananas up to the quays of the town, where extensive warehouses have been erected. Besides those derived from the navigation of the Ribbla, Preston enjoys many advantages for commonalities purposes in being connected, both by canals and airways, with the land and other parts of the country. The source of the town is considerable; corn, timber, and iron being the principal imports. The line 314 December 1857, there are registered at the port. 114 sailings:vests, manage 62/33 and 3 steamer, tomacy 440. During that year there could be sailings:seds, tomacy 14,635 and 2 steamers, tomacy 298; and there cleared 517 sailings-vesse, tomacy 35,582– of them except 11 sailings-ves- said that entered from foreign ports, tomacy 3141, taking engaged in the casting trader. Besides weekly markets, and annual data are held at Preston and there are races, which take place on the other side of the river. A celebrationscalled the \"Gulle\" held at Preston once every twenty years, primarily the east of August. It consists of a precession of the corporants and the various tracks the town, and is a recession of great activity. The borough is governed by a mayor, twelve aldmenen, and thirty-six councilors. It returns two members to the use of Cumanna. The origin of Preston seems to do from the decye of Rhobhester, which saw a mere village, I tried another torther and the Prieste town was probably given to is on account of its ecclesialized address, some remains of which still exist. In 1823 it was taken and partly burned by the South under Robert Hoe Bruce. In her last war Preston allowed to the royal cause, but was besigned and taken by the military forces. In 1715 the Jacobsites took possession of the town, and creased terrorised for its defense, and alter a horse resistance wereldged to surmirate. In January 1954 a strike of the workout on Preston occurred, which lasted seventy-wide weeks, causing a great retirement and much distress among the work-people. Sir Richard Arkwright, his invasion of the spinning journs, was born at Preston in 1722. Pop. (1851) 69,642.<x_0.9219><y_0.6961><class_Text>\n\n<x_0.5371><y_0.6922>PRESTONPANA is largely darnyon and respect town. So Scotland in the county of Raddington, on the St-alone the Perth of Forfe, the rules E of Edinburgh. It is mostly and irregularly built and contain plain patch which a Free church, a parish school, and an hospital. The manufacturers of all six criteria where they can there are societies, a distillery and a brewer. The people who also largely employed in the proper fishery. Year the town has fought the battle of Prestonnus, in which, the Pre- tender entirely defeated the forces of Sir John Cope, Sep- tentee in 1714. Pop. (1851) 1600.<x_0.917><y_0.825><class_Text>\n\n<x_0.5391><y_0.8258>PRESTWORK, or arrewners, a burgh of harony of Scoolard, in the country and 4 males N.X.E of us. It is not and indeed good, with a descent church that serves as a sea-mark to ships in the First of Cityle, a cross, council house, and prison. Pop. (1851) 1200.<x_0.918><y_0.8852><class_Text>\n\n<x_0.54><y_0.8859>PRETRIBITE. See Gazakata.<x_0.7764><y_0.8961><class_Section-header>\n\n<x_0.541><y_0.8969>PREVESA, a fortified town of European Turkey, in Albania, on the N. shore of the Gulf of Arts, 18 miles E.W-<x_0.916><y_0.9219><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2587,
+      "completion_tokens": 2069,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2587,
+    "completion_tokens": 2069,
+    "prompt_tokens_details": null
+  },
+  "seconds": 4.02
+}

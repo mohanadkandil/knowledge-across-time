@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-1849-2ef8883b0a65",
+  "row_index": 1849,
+  "volume_id": "192693199",
+  "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 12, Hydrodynamics-KYR - EB.15",
+  "label": 0,
+  "sha256": "2ef8883b0a65550677dd446401d07a86910be0f9448224b677d6643353c9c4b2",
+  "width": 600,
+  "height": 812,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1849",
+  "manual_seed": false,
+  "image_file": "../images/bri-1849-2ef8883b0a65.jpg"
+}

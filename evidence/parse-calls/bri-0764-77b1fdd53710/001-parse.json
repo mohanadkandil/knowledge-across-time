@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:57.997186+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "d669fc63b53de7cf6d4db25fa27e3feda8c82652580e038af4896fb2c4fbc053",
+                "characters": 212267
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-7d77de9f-e014-44ba-84ae-26cd0feda3ca",
+    "object": "chat.completion",
+    "created": 1792322518,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2676><y_0.0266>PHYSICAL GEOGRAPHY.<x_0.7305><y_0.0539><class_Page-header>\n\n<x_0.9258><y_0.0336>169<x_0.9736><y_0.0547><class_Page-header>\n\n<x_0.0322><y_0.0555>Physical Geography<x_0.1084><y_0.0883><class_Picture>\n\n<x_0.1074><y_0.0563>remarkable exception. It was ascertained by Mr Scoresby, and is confirmed by the observations made in the late polar expedition, that in the Greenland sea the temperature increases with the depth. The increased of heat does not follow any determination ratio, being from 1° to 5° in 100 fathoms; but it is constantly impressive, and at the depth 2750 fa thorn (at. 79’s long: 5’8 E).) I was found to be 8°. In fact, the bottom waters at Spitsbergen, as Mr Scorbsy observers, are from 10° to 20° above the mean temperature of the climate. The most plausible explanation of this anomaly is, that the westerly current from Now Zenbia, residual specifically light in the field water of the great rivers of Northern Asia, may rise above the branch of the Gulf Stream which penetrates to these latitude, and the warm waters of the latter will thus be found on the bottom. The specific graphics observed by Mr Scorbsy, however, do not tend much to confirm this hypothesis.*<x_0.4912><y_0.3211><class_Text>\n\n<x_0.0693><y_0.3195>Ice. A permanent zone of ice surrounds each pole, the breadth of which varies with the seasons. On the west side of the Atlantic, the extreme point of open sea, in winter, is found on the coast of Greenland at Hartford 65% or 67¢; in the longitude of the or 6° east, the sea remains open to lat. \"75\" or 79». In summer navigators have penetrated along the margin of Dalha's Bay as high as 77°, on the coast of Spitz-berger to 81', and a Behring's Strait to 71\". In the southern hemisphere the utmost point to which Cook was able to penetrate war 71 h anummer but navigation weary difficult, beyond the parallel of 60°; floating ice overspread the sea nearly as far as 50', and detached iceberg are carried by currents in both hemispheres as low as40°. (Cook _Foggers_ Scorbsy), L 292.) In a general point of view, the ice-bound seas and lands are nearly continuously with the arctic circle in the north hemisphere, and with the parallel of 60° in the south. In the one case they occupy about one wealth, and in the other about one smooth of the hemisphere.<x_0.4883><y_0.5992><class_Text>\n\n<x_0.041><y_0.5977>Saltese.<x_0.0908><y_0.6172><class_Caption>\n\n<x_0.1006><y_0.5969>The saltness of the sea is affected by currents, storms, heavy rain, the discharge of rivers, and by evaporation. Hence there is often little consistency in detached observations, but the results upon the great scale agree with theory. According to the experiments of Dr Marcet, the new specific gravity of the main ocean is 1,02777. The Southern Ocean, which receives a less proportion of river water, is safer than the northerners. Island seas, like the Baltic, Black Sea, and White Sea, which receive more rain water than they expedin in vapor, and have an effect current later freshest than the ocean. On the other hand, the Mediterranean, which is a sort of natural sitiers, from which the waters of the Atlantic, poured in with their salt, are drawn off fresh by evaporation, contains more saline matter than the main ocean. We may infer from theory, that the same thing holds true of the Red Sea. There is no proof that the sea is salter under certain meridians,<x_0.4893><y_0.8539><class_Text>\n\n<x_0.5039><y_0.0578>or at certain depths, thus at others; but in general, the sea is saltest where it is deepest and most remote from landl. Salt water parts with its salt on freezing, and hence the dissolution of ice freshens the sea. The following are some of Dr Marcet’s results:<x_0.9277><y_0.1273><class_Text>\n\n<x_0.6494><y_0.1391>Sp. Gov.<x_0.7314><y_0.1539><class_List-item>\n\n<x_0.6484><y_0.1531>Arctic Ocean, - 1,02653 Black Sea, 1,01418 North Hemisphere, 1,02838 Baltic, - 1.01523 South do. 1,02838 White Sea, 1.01901 Mediterranean, - 1.02920]<x_0.8916><y_0.1922><class_Text>\n\n<x_0.623><y_0.2031>(Ed. Phil. Jour. No. IV. 356:)<x_0.8525><y_0.2211><class_Section-header>\n\n<x_0.5029><y_0.2297>The tides are periodical oscillations in the watersTides of the ocean, which take place twice every twenty-four hours, and are produced by the attraction of the moon and the sun. In the open sea, they are at their height three hours after the moon has passed the meridian of the place, and the meridian opposite. They are smallest towards the pasly, and greatest at the equator, where, however, they do not exceed two or three feet in the great ocean. Their greatest elevation times place in narrow seas, where the section of the moon is aided by winds, currents, the position of the coast, etc. The highest tides known are in the Gulf of St Malis, where the flood, driven back by the coast of England, rises to the height of seven of eight chains. Inland seas, whose entrances face the west, have rarely my life, because the moon acts on all their parts at once, and there are no lateral waters to flow in and produce a local elevation. (Tickey), 1-5A.<x_0.9268><y_0.4828><class_Text>\n\n<x_0.501><y_0.482>Independently of the motion of the tides, the wa-Currents, tiers of the ocean are found to be severely anywhere stationary. Local or temporary currents are produced by winds, the discharge of rivers, the fusion of fields of ice, the evaporation of inland seas, and other causes. But, exclusive of these, which we shall not attempt to describe, there are certain permanent and general currents, which we supposed all to originate in two great movements--that of the tropical waters westward is ascribed to the agency of the trade winds, which blowing constantly in one direction, must impress their own motion on the sea to a certain extent. But the resulting current is necessarily modified by the position of the great continents. The motion of the polar waters towards the equator is not as well accounted for, nor perhaps as its general existence as well ascensioned. It is supposed, that the opaque separation of the equator, reducing the level of the sea there, the more elevated waters of the polar regions flow in to apply the loss; and, further, that the fusion of ice in these seas must produce an accumulation of water, while naturally seeks a level by moving to the equator. But it is reasonable to believe, that the loss of the equatorial sea by evaporation is balanced by the greater fall of rain; and if the melting of ice<x_0.9424><y_0.8586><class_Text>\n\n<x_0.0977><y_0.8852>* Forster’s Observations, p. 60. Scoresby, Account of Arctic Regions, I. 187–210. Edin. Phil. Jour. No. XI. 165. Humboldt, Perc. Nar. II. 56. Dr J. Davy, Phil. Trans. 1817.<x_0.8906><y_0.9211><class_Footnote>\n\n<x_0.1162><y_0.9156>VOL. VI. PART I.<x_0.2461><y_0.9305><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2098,
+      "completion_tokens": 1580,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2098,
+    "completion_tokens": 1580,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.577
+}

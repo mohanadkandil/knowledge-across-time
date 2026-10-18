@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:23:45.587136+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "2f3e60fcb2692922028b064dc817b5420f07141ca433bb3eec6d977c4d0d0d79",
+                "characters": 191519
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-4b0ec3ec-04d4-49a6-8a8f-a6ab8d1b06fc",
+    "object": "chat.completion",
+    "created": 1792322628,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.1855><y_0.043>M IN [ 277 ]<x_0.5039><y_0.0633><class_Page-header>\n\n<x_0.0078><y_0.0672>Ministrel, int. duven : and yet his thirt after the new trink, with muffs fair farched, deked, and glittering like a pair of two fingers, marshalled in good order with a feeling flick, and dints , that \"very cuffed up like a wafer.\" A ride [i, e long] gown of Kendalle green, after the fretiefs who gave me, gathered at the woods with a nice now gegey, followed them with a white clafp and a keeper close up to the chin / but easily, for hust to under when he lift. Seamingly begrities a red cuald girdies · from that a pair of crowd Sheffal knives hanging a two sides. Out of his bolon drawn from a llepet of his napkin elged with a then face, men marked with a D for Bruman y for be was but a bachelor yet.<x_0.4521><y_0.2523><class_Text>\n\n<x_0.0586><y_0.2516>* His gown had fide [i, e. long] fleeser down to midleg, fit from the shoulder to the hand, and lined with white cotton. His double fleeser of black worelled: upon them a pair of points of never channeled along line with with blue threaden paintes. A wait towards the hands of fifidiananes. A pair of red weather flocks. A pair of pump on his feet, with a one cut at his best for curs; not new indeed, yet cleanly blackt with foot, and thinning as a thing here.<x_0.4531><y_0.3797><class_Text>\n\n<x_0.0762><y_0.3805>** About his neck a red ribbonf fitsable to his girlte.** His harp in good graspend defendere him. His wrell yed to a green line and changing by : under the gorget of his gown is fair diagram, chain (wester for) floors as a Square Miinfled of Middlesds, that traveled the country this former feaken, onto far and worthful men’s houses. From his chain hang a featurechoon, with metal and colony,refident upon his breath, of the ancient arms of lifingen.*<x_0.4541><y_0.4992><class_Text>\n\n<x_0.0752><y_0.4984>- This minifted is deferbed as belonging to that villages. We flipopofie fish are were used by noble families wore their arms hanging down by a fiber chain as a kind of badges. From the expedition of Square Miniftel above, we may conclude there were other her ferice orders, or Yomon Minflerst or the like.<x_0.4561><y_0.5766><class_Text>\n\n<x_0.0771><y_0.575>This minifter, the author talks us a little below. _* After three lovely according, cleaned his way with a hem s., and striped his lips with the hollow of his band for “filling his napkins} is expected if fitting over with his writ’s and, after a little washington on his harp for a prelude, came forth with a folemm fong, warmented for they ever of King. Arthur'sells, &c.*<x_0.4619><y_0.6703><class_Text>\n\n<x_0.0781><y_0.6687>Tavards the out of the 16th century, this chsf of men had boll all credit, and were funk fo low in the public opinion, that in the only year of Elizabeth a historic was pulled by which \"minifters,\" wandering abroad, were included among <sup>4</sup> roques, vagabonks, and fluently began?\" and were adjusted to be punished as faith. This affluence to be put an end on the op felfion, for after this time they are no longer mentioned.<x_0.4609><y_0.7719><class_Text>\n\n<x_0.0791><y_0.7711>MINY, the place in which the king’s money is coined. See DOSAGE.<x_0.458><y_0.7992><class_Text>\n\n<x_0.0801><y_0.7984>There were generally miss its almost every county in England; but the only mist at protest in the British dominion is that in the Tower of London. The officers of the mist any. The workers of the man, while the chiefs he overflers the other officers, and receives the billion. 2. The matter worker, who receives bullion from the wardens, cousfe it to be meted, delivers it to the monerves, and, when it is coined, receives it again. 3. The comptroller, who is the<x_0.4678><y_0.9172><class_Text>\n\n<x_0.4668><y_0.0617>overfeer of all the inferior officers, and fees that all the money is made to the job still affect. 4. The alloy malter, who weighs the gold and silver, and fees that it is ascending to the flatandard. 5. The two auditors who take the counts. 5. The furryer of the meltingting, who, after the alloy malter must made full of the bulan, fees that it is salt out, and not altered after it is delivered to the melter. 7. The engrave; who engrave the flampy and dies for the orange of the monkey. 8. The clerk of the irons who fees that the irons are clean and did not work with. 9. The malter, who come the balloon before it be counted. 10. The provoft of the mint; who provides for and overfees all the monyses. 1. The blanchers, who arrived and clean the money. 12. The monyses form of whom forge the money, force flare it, fono round and milk it, and foam stamp and can it. 23. The protests who keep the gate of the mint.<x_0.8545><y_0.3008><class_Text>\n\n<x_0.4707><y_0.2992>Mint was also a peruted place of privilege, in Southwals, near the Kings’s Beach, and down by flatter. 17 any persons, within the limits of the mint,fall obftureh any officer in the ferving of any write or process. 8.C so difficult any person therein, or as he receive any bodily hurt, the offence shall be guilty of felony, and be transported to the platations,&c. Bhatt, O Geo.<x_0.8564><y_0.4031><class_Text>\n\n<x_0.4697><y_0.4016>_Mint Marks._ It bath been ufual, from old time, to obligise the malters and workers of the mint, in the indestructible with them. Yet too make a prity park in all the money that they made, as well of gold as of flyer, to that another case they might know, if none were, and write which memory of gold and silver among other of the fans moeyes, were of the own making, and which not? And whereas, after every trial of the pix at a softolimbic, the malters and workers of the mint, having there proved their moeys to be lawful and good, you immediately entitled to ceive their guardio under the great feel, and to be discharged from all fruits or distant occurring those moeyes, it was then uuful for the find maliers and workers to change the priy mark before doll for non-they, that fo the mooves from which they were not yet discharged night the distinguished from those for which they had already received their _spatula_, which now mark they then continued to flamp upon all their moeyes, and another trial of the pix gave them alfo their _protein_ concerning those.<x_0.8584><y_0.6781><class_Text>\n\n<x_0.4688><y_0.6773>The pix is a frung box with them looks, whole boys are effectively kept by the wooden, malier, and compleller of the mint; and in which are deposited, feded up in few general precels, certain pieces taken at London out of every primary as it is called; that is, out of every 15 pounds weight of gold, or 60 pounds weight of flyers, before the fans is deferred to the proportions. And this pix is from time to time, by the king’s command, opened at Weltminiter, in the preference of the land-decendieron, the leads of the countr., the finds commillions of the tradesj, the insites or the fevers of the benches, and the barons of the exhecerty, before whom oral it is made, by a jury and delight impounded and frozen for that purpose, of the collective weights of certain parcels of the feveral prices of gold and silver taken at random from their contained in the pix; after which these parcels being reverently melted, always are then made of the<x_0.8662><y_0.9141><class_Text>\n\n<x_0.8135><y_0.9117>bullion<x_0.8633><y_0.925><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2344,
+      "completion_tokens": 1826,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2344,
+    "completion_tokens": 1826,
+    "prompt_tokens_details": null
+  },
+  "seconds": 4.996
+}

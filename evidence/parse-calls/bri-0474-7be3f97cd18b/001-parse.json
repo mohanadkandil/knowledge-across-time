@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:32.680937+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "d82e4c432a13ee5f1b63d46520cc83d0e2feeb9b22ea44e81eac2177a9fa5332",
+                "characters": 204271
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-bcfbc376-4b1d-4ca1-ad0c-2f5eac334c11",
+    "object": "chat.completion",
+    "created": 1792322493,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2588><y_0.0492>C O M [ 335 |] C OM<x_0.8262><y_0.0695><class_Page-header>\n\n<x_0.0908><y_0.0727>Company, member of any other company ; not any retail-denker at all. That no merchant qualified be admitted with out paying for pounds thirteen thillings and fixpence. This is a member of another company defining to re-nance the privileges thereof, and to be received into that of the Eft shall be admitted _greriz_’ provided he presents the form favor for a merchant of the Eft willing to fill his place. That the merchant-detvente rest who never draft in the Eft, in the places streetfed in the charter, may be received as members of the company on paying one marks ; that, readwithfishing this union of the adventurers of England with the company of the Eft, each half remain its rights and privileges. That they fault export two clubs that what are dyed and prefix), except a hundred pieces per un, many, which are allowed them _grerir._ This charter was confirmed by Charles II: in 1639, with this addition, that no person, of what quality favors, living in London, should be admitted a member, which we were free of the city. This company was complained of as a monopoly, soft felt controlled by legal authority in 1672,3 and three the declaration of rights in 1680, exift only in name ; but fill continue to elect their annal officers, who are a governor, a deputy, and twenty-five class affiants.<x_0.5459><y_0.3984><class_Text>\n\n<x_0.1602><y_0.3977>_ly. The Turkey or Levantan Company_, had its rife under Queen Elizabeth, in 1841, James I: confirmed its charter in 160s, added now new privileges. During the civil wars, there happened fone innovations in the government of the company ; many perform having been admitted members, not qualified by the charters of Queen Elizabeth and King James, or that did not conformed to the regulations prescribed. Charter it upon his relation, endorsed to, felt it upon its ancient bada ; to which end, he gave them a charter, containing not only a confirmation of their party, but alle forever any articles of information. By this, the com-pany is erected into a body politio, capable of making have, Sec. under the title of the _Community of Merchanting_ _of England relating to the first of the Levanta_. The number of members is not limited, but is ordinarily about three hundred. The principal qualification required by, that the candidate be a freedom of London, and a wholefake merchant, either by family or by ferving an representing all these years. Thode under 23 years of age pay 241 flerting at their staffiming ; those above, twice as much. The first was reduced by a set of parliament, in 1733, to sold and the privilege of admiffion extended to every British fulgief. Each makes still a his entrance not to find any merchandife to the Levant but on his own account ; and not to confign him to any but the company’s agents or father. This refitlition is likewise enlarged by the abores mentioned feature.<x_0.5469><y_0.7742><class_Text>\n\n<x_0.1621><y_0.7734>The company has a court or board at London, which is compelled at a governem, deputy-governor, and fifteen directors or affiliates, who are all actually to live in London or the futurbs. They have also a deputy-governor in every day and part, where there are any members of the company. The entirely at London fends out the veffels, regulates the tariff for the price at which the European merchandise from to the Levant are to be fold, and for the quality of their returned. It rates taxes on merchandise, to defray impolitions, and the common expenses of the compa<x_0.5479><y_0.9203><class_Text>\n\n<x_0.5615><y_0.0734>ny ; prefects the amballador which the king is to keep at the Porte, eflects two confuls for Smyrna and Con-Manlample, Sec.<x_0.9521><y_0.1117><class_Text>\n\n<x_0.5625><y_0.1125>One of the best regulations of the company is, not to leave the confuls, or even ambafidor, to fix the im-position on veffel for defraying the common expenses ( a thing deal to the companies) if not other nation ;) but to allow a portion to the ambaffador and confuls, and even to the chief officers, as secretary, chapish, interpreters, and jailaries, that there may not be any preference for their rating any fam at all on the merchants or merchandise.<x_0.9443><y_0.2273><class_Text>\n\n<x_0.5635><y_0.2281>In extraordinary ones, the confuls, and even the ambafidor, have recourto to two deputies of the com-pany, residing in the Levant ; or if the sifin is very important, they alibble the whole body. Here are regulated the prefents to be given, the voyages to be made, and every thing to the delivered ; and on the institutions were taken, the deposits appoint the transfairrer to furnish the money, Sc. required.<x_0.9375><y_0.3336><class_Text>\n\n<x_0.5645><y_0.3344>The ordinary comments of this company employs from 20 to 3 y vehicle, carrying from 30 to 29 pieces of canon. The merchandies exported thither are, clokin of all kinds and colours, pastures, lead, pepper, ashobeni, and a great deal of firees, which they take up at Cadiz : the returns are in raw filk, gallts, camlets, moss, cotton, Moscow leather, after for making girls through and travel spans and medical drugs. The commence to Sunyna, Confantinople, and Scanteron, is not allowed more held considerable than that of the Well India Company ; but is doubted, more advantageous to Britain, because it takes off much more of the British manufacturers than one other, which is likely existed for in money. The places reserved for the commence of this company are, all the lines of Venice, in the gulf of Venices, the fate of Ragd's all the dates of the grand tingers, and the port of the Levant and Mediterranean's exporting Cartingena, Alicanti, Barcelona, Valencia, Meetlella, London, Genoa, Leghorn, Croatia, Vecchia, Palerma, McIlina, Malta, Majorca, Minoreca, and Corfica ; and other places on the coaths of France, Spain, and Italy.<x_0.9453><y_0.6297><class_Text>\n\n<x_0.5654><y_0.6305>_I: The Company of Merchant trading at African efa-billed in 173/cs. Contrary to the former practice with regard to regulated companies, who were reckoned unit for fuel fast of review, this company was fully elected to the obligation of maintaining forty and girl-ions. It was expressly charged at fritt with the maintenancy of all the British forks and gararrison that lie between Cape Blanc and the Cape of Good Hoye, and afterwards with that of thole only which lie between Cape Blage and the Cape of Good Hope. The soft which debilishes this company (the 24 of George II, c. 31 ): femens to have had two difficult objects in view ; fritt, to certain defective? the approve and mono- pointing light which is natural to the direction of a regulated company ; and secondly, to force them as much as public to give an attention, which is not na-t to them, towards the maintenance of facts and garritions.<x_0.9463><y_0.8664><class_Text>\n\n<x_0.5664><y_0.8656>As the fritt of thefear prepdes, the fine for admiffion is limited to forty thilling. The company is prohibited from trading in their corporate capacity, or upon a joint flock ; from borrowing money upon com-<x_0.9473><y_0.9172><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2239,
+      "completion_tokens": 1721,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2239,
+    "completion_tokens": 1721,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.042
+}

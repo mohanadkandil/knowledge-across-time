@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-1515-1277093efdef",
+  "row_index": 1515,
+  "volume_id": "192016229",
+  "metadata": "Encyclopaedia Britannica, or, a Dictionary of arts, sciences, and miscellaneous literature : enlarged and improved. Illustrated with nearly six hundred engravings - Fifth edition, Volume 1, A-AME - EB.10",
+  "label": 0,
+  "sha256": "1277093efdefb66474612a43c8bea0ade41a2802356d10378c7e3a0aa7631168",
+  "width": 600,
+  "height": 822,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1515",
+  "manual_seed": false,
+  "image_file": "../images/bri-1515-1277093efdef.jpg"
+}

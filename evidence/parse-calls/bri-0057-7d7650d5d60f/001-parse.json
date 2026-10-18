@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:18:35.290806+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "2bc389f739a789594a8e193bda377b4b1718b1adf7f4d64a00871a7bcca386ca",
+                "characters": 192523
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-6ab5e52a-dd3d-4250-9aad-68fd60f1e4b3",
+    "object": "chat.completion",
+    "created": 1792322317,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2539><y_0.0523>C H O [ 54]<x_0.5791><y_0.0711><class_Page-header>\n\n<x_0.083><y_0.0742>Chim Minn Chocolate<x_0.125><y_0.1211><class_Caption>\n\n<x_0.1309><y_0.0734>thalmic medicines. Hence Serbonius Largus directs the dry ingredients in collyria for the eyes to b- made up with Chin wine.<x_0.1338><y_0.1172><class_Text>\n\n<x_0.1318><y_0.118>CHIUN, or Grantian, in Hebrew antiquity. We meet with this word in the prophet Amos, cited in the Acis of the Apostolic. St Luke shall the passage that :: \"We took up the alternate of Malechs, and the star of your god Remphan, figures which ye made to worship them.\" The impact of the Hebrew is as fol-born; \"A I have been the fisherman of your kings, and the pedestal (the _china)_’of your images, the star of your gods, which ye made to youretrieve?\" The best taught at all probably read _Repham or Zirconia_, instead of _Chinx or Cheeana_, and took the pedestal for a goal.<x_0.5254><y_0.2711><class_Text>\n\n<x_0.1328><y_0.2703>Some say that the Septangint, who made their trans-lation in Egypt, changed the world _China_ has that of Rephans, because they had the same significance. Mr. Basange, in his book entitled _Lorish Goliquitites, after having discovered a good deal upon _Chion_, or _Remphans_, contains that Maledi was the sum, and _Chian, Chium_, or _Remphans_, the moon.<x_0.5264><y_0.3625><class_Text>\n\n<x_0.1348><y_0.3617>CHIAMYS, in anitantly, a military habit worn by the ancient over the tunes. It belonged to the participants; and was the name in the time of war that the topa was in the time of peace. This sort of gown was called _picking_, from the rich embodies with figures in Ehryvan work; and _purpersen_, because the grand-work was purple. The chlamycles of the empreors were all purple, adorned with a golden and embroder-el border.<x_0.5273><y_0.4781><class_Text>\n\n<x_0.1357><y_0.4773>CHHOER is, anitarity, as festival celebrated at Athens in honour of Cresse, no where, under the name _Xasn, t. e. grassi, they sacrificed a ram._<x_0.5283><y_0.5188><class_Text>\n\n<x_0.1367><y_0.5195>CHINA. See _Secretary Indian._<x_0.4697><y_0.532><class_List-item>\n\n<x_0.1377><y_0.5328>CHOBONISIS, in _Mochine, a_ disease, commonly called the _green sickness_, incident to young girls. See _Medicine_.<x_0.2812><y_0.5711><class_Text>\n\n<x_0.1387><y_0.5703>CHOOLATE, in commerce, a kind of paste or cake prepared of certain ingredients, the basis of which is cause. See GAGO.<x_0.5293><y_0.6102><class_Text>\n\n<x_0.1396><y_0.6109>The Indians, in their first making of chocolate, used to roast the casco in earthon pots y and having affected wood cleaned it of the books, and burned it between two stones, they made it into cakes with their hands. The Spanish imported this method. When the casino is properly realized and will cleanest, they poured it in a mortar, to reduce it into a coarse map, which they afterwards grind on a stone till it be of the utmost fineness, the past being sufficiently ground, is quite hot into its moulds, in which it conged in a very little time. The form of these models is arbitrary the cylindrical rope, holding two of three pounds, are the most proper, because the bigger the cakes are, the longer they will keep. Observe, that those cans are very liable to take any pued or had scary, and therefor they must be carefully wrap up in paper, and kept in a dry place. Complaints are now, that the Spanish mix with the casinos into the great quantity of cloves and cinnamon, besides other drugs without number, as musk, ambergirk, etc. The grocerc of Paris one few or none of these ingredients; they only choose the best nuts, which are called _caracea_, from the place from whence they are brought; and<x_0.5303><y_0.9141><class_Text>\n\n<x_0.5352><y_0.0703>with these they mix a very small quantity of cinnamon, the freshest vanilla, and the finest sugar, but very sel-dom and any gloves. In England the chocolate is made of the simple caso, including that sometimes suger and sometimes vanilla is added.<x_0.9814><y_0.1375><class_Text>\n\n<x_0.5361><y_0.1383>Chocolate ready milk, and cacao parts, are prohibi bit to be imported from my part beyond the areas. If made and sold in Great Britain, it pays inland duty to do fó, perils we anticipate; it must be included in papers containing one pond each, and produced at the excise office to be stumped. Upon three days too- ties give to the official of excluse, private families may make chocolate for their own use, provided no less than half an hundred weight of nuts be made at one time.<x_0.9238><y_0.268><class_Text>\n\n<x_0.5371><y_0.2687>The chocolate made in Portugal and Spain is not near so well prepared as the Englishly depending per-haps on the machine employed there, yet, the double cylinder, which seems very well attributed for exact tritore. If perfectly prepared, no oil appears on the solution. London choicot gives up no oil like the foreign; and it is also may in some measure depend on the thickness of the preparation. The solution requires more than is commonly imagined. It is proper to break it down, and dissolve it thoroughly in cold water by milling it with the chocolate trick. If heat is applied, it should be done slowly; for, if suddenly the heat will not only congolate it, but separate the oil y and therefore much boiling after it is dissolved in turful. Choicots is commonly required by people of weak stomachs; but often rejected for want of proper preparation. Which property prepared, is easily dis-aired i, and an excellent food from a liquid nutritive vegetable one is required, and is less flatlant than any of the dinmaces.<x_0.9248><y_0.5305><class_Text>\n\n<x_0.5381><y_0.5312>Mr. Heily, an ingenious electrician, has lately dis-covered that chocolate, fresh from the mill, as it cools in the tin pana into which it is received, because strongly restricts it and that it retains this property for some time after it has been turned out of the pana, but soon hose it by handling. The power can be once or twice restored by nothing it again in an iron hallle, and pouring it into the tin pana as a first; but when it became dry and powdery, the power is not capable of being revived by simple melting; but if a small quantity of alcohol he added, and well mixed with the chocolate in the balls, is always will be completely restored by cooling it in the tin-pan as before. From this experiment the conjectures, that there is a great affinity between chorobook and the electric field, if indeed they be not the same thing.<x_0.9258><y_0.743><class_Text>\n\n<x_0.5391><y_0.7422>_Coenzyme Nuclear*. See GAGO._<x_0.8223><y_0.757><class_List-item>\n\n<x_0.54><y_0.7578>CHRONIN, χand, an ancient dry measure, containing the 28th part of a medimenus, or six buselsels.<x_0.9229><y_0.782><class_List-item>\n\n<x_0.541><y_0.7828>CHOBERIIUS, a triple pot of others about the 6qth Olympus. He wrote to Togaglie of which 13 had obtained the prize.— An historian of Samos. Two other pests, one of whom was very infamous with Hereold. He wrote a poem on the victory which the Athenians had obtained over Nexrxes ; and on ac- couple of the excellence of the competition he received a piece of gold for each verse from the Attenham. The other was one of Alexander's flattersers and friends.<x_0.9316><y_0.9117><class_Text>\n\n<x_0.8125><y_0.9109>CHOERINÆ.<x_0.9297><y_0.9289><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2187,
+      "completion_tokens": 1679,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2187,
+    "completion_tokens": 1679,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.798
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:54.847932+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6784a16dd57475ac78429c1e718b04513b5d70bdde6cee4b9adce4a1cd449eb1",
+                "characters": 176727
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-1a5b0437-8687-483a-93e0-90dbbe9d2f88",
+    "object": "chat.completion",
+    "created": 1792322695,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.377><y_0.0484>FIRST DISSERTATION. 127<x_0.876><y_0.0648><class_Page-header>\n\n<x_0.0654><y_0.0836>_of Imagination would have been much more valued by modern metaphysicians, had they been less beautifully and happily written. The characteristic excellence, however, of the Archbishop of Cambray, is that _moral: wisdom_ which (as Shaftesbury has well observed) \"comes more from the heart than from the head;\" and which seems to depend less on the reach of our reasoning powers, than on the absence of those narrow and malignant passions, which, on all questions of ethics and politics (perhaps I might add of religion also), are the chief source of our speculative errors.<x_0.875><y_0.2461><class_Text>\n\n<x_0.0635><y_0.25>The _Adventires of Telemachus, when considered as a production of the seventeenth cen­tury, and still more as the work of a Roman Catholic Bishop, is a sort of prodigy ; and it may, to this day, be confidently recommended, as the best manual extant, for impressing on the minds of youth the leading truths, both of practical morals and of political economy. Nor ought it to be concluded, because these truths appear to lie so near the surface, and command so immediately the cordial assent of the understanding, that they are therefore obvious or tricritical; for the case is the same with _all_ the truths most essential to human happiness. The importance of agriculture and of religious toleration to the prosperity of states ; the criminal impolicy of thwarting the kind arrangements of Providence, by re-straints upon commerce ; and the duty of legislators to study the laws of the moral world as the ground-work and standard of their own, appear, to minds unsophisticated by inveterate prejudices, as approaching nearly to the class of axioms :-yet, how much ingenious and refined discussion has been employed, even in our own times, to combat the preju­dices which everywhere continue to struggle against them ; and how remote does the pe­riod yet seem, when there is any probability that these prejudices shall be completely abandoned !<x_0.874><y_0.6242><class_Text>\n\n<x_0.0645><y_0.6273>\" But how,\" said Telemachus to Narbal, \" can such a commerce as this of Tyre be esta­blished at Ithaca 2\" \" By the same means,\" said Narbal, \" that have established it here. Receive all strangers with readiness and nospitality ; let them find convenience and liberty in your ports ; and be careful never to disgust them by avarice or pride : above all, never restrain the freedom of commerce, by rendering it subservient to your own immediate gain. The pecuniary advantages of commerce should be left wholly to those by whose labour it subsists ; lest this labour, for want of a sufficient motive, should cease. There are more than equivalent advantages of another kind, which must necessarily result to the Prince from the wealth which a free commerce will bring into his state ; and commerce is a kind of spring, which to divert from its natural channel is to lose.\"' Had the same question<x_0.873><y_0.8648><class_Text>\n\n<x_0.3574><y_0.8898>< Hawkesworth's Translation.<x_0.5811><y_0.907><class_Footnote>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 1227,
+      "completion_tokens": 709,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 1227,
+    "completion_tokens": 709,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.458
+}

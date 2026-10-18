@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:31.749228+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6567a82073304a0e9c72d24ab49c866924f3e7d474914890985b3ac8a1177519",
+                "characters": 200223
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-cacad5d1-808a-4eb0-8f24-2d6786be12b1",
+    "object": "chat.completion",
+    "created": 1792322552,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2021><y_0.0437>D E L [ 151] D E L<x_0.7695><y_0.0641><class_Page-header>\n\n<x_0.0176><y_0.0688>Delice. manner covered, and that no living creature whatever could find further even for a moment: and it is certainly more especially in the character of the Baby to believe, that he would at once deftery animal life by sufficient in water, rather than allow members of them to collect themselves on the type of mountain to perilh with hunger and cold. It is beddes very imperdials, that any creatures, whether bird or beef, could letting a combined rain of go days and 40 nights, even without fupppling; then to have been abolutely immorified in water.<x_0.4727><y_0.2156><class_Text>\n\n<x_0.0166><y_0.4781>This confection alone is sufficient to flow, that if there was a deluge at all; it muff have been univerful with regard to the world as well as the human race; and the publicity of fish is obliged by natural means has already been wivined. Under the article AverKD- EXYASF is it done, , that much, thus according to the molt word derte composition, the world must have been really more full of people than at preferent. The leaf calculation there made indeed forms incredible, fines, acording to it, the world shall have continued upwards of 68,719 times as many inhabitants as are at prefent to do not want in the one of the China, the mail po-polous country in the world? but China bbers a much larger proportion to the habitable port of the world than this. The Vietnamese scientist is thanked upon one another have always been the means of thinking their numbers, and preventing the earth from being overlooked with inhabitsly and it and strong expatriation in Sicureure, like the \"Got\" was filled with via Jence 3'! flows that it mull have gone to an extraordinary might. But that this obvious will have one doubly through the old world of its inhabitants, it mull likewise have different home of them into difant regions. There is therefore no reason for fupppling that before the flood the human race were two drivers into the remotell regions of the habitable world, or that Amazon was definite of inhabitants have more than it is at prefent. At say rate, the fileness of Vollus and Coetlegon, who would confine the whole range of mandated to a final part of Afs, multispace evidently faith and erroneous in the highest degree. Some objections have been made to the doctrine of Vollus and Coetlegon, who would confine the whole reason of what kind to a prefent of Afs, multispace evidently faith and erroneous in the middle degree. Some objections have been made to the doctrine of Vollus and Coetlegon of some of America, and the number of animals possible to address be, and other countries, which could not be fuppected to appear related to the air dall others other or from the site of Nanka. On this fulghe ShillingPeatbothers, that the fuppoffion of animals bring propagated much farther in the world than marked the food, femme very probably, « because the propostin of misalis parallel in Genelis with that of fishes, and both of them different than man. For God fails,” Let the waters bring forth every moving creature that faith life, viz., fifth and few!? And accordingly it is fed, that the waters brought forth abundantly every living creature and their faith, and every level and his kind. Accordingly, in the production of hearts, we read.’ Like the catch bring forth the living creature after his kind, cattle, and every stepping thing, and heart of the earth, after his kind : and it was fo. But in the protection of men it fits.’ Let us make man in our image, and after our likemek? From hence I observe this difference between the formation of an-mals and of man, that in one God gave a prolific<x_0.4697><y_0.9422><class_Text>\n\n<x_0.4863><y_0.0633>power to the earth and waters for the production of the foreign living creatures which come from them, to that the female primitive of them were contained in the matter out of which they were produced; which was otherwise in man, who was made by a peculiar hand of the great Creature himself, who theorize is fold to have formed man out of the doll of the ground.<x_0.9375><y_0.1602><class_Text>\n\n<x_0.4873><y_0.1594>It I now this flagellum the embassy, by it we perfectly clear confiers of many difficulties concerning the propagation of animals in the world, and their conservation in the ask; as how the unknown kind of impact in Brazil, the life heelled creature in the In-dies, and all those strange species of animals free in the West Indies, should either come into the park of the, or onze and out of it is the third countries which are divided by fo vaft an ocean on one side, and as le leaf of large a trick of land on the other. Befides, feme kind of animals cannot live out of the climate where they are; and there are many forts of animals discovered in America, and the adjoining islands, which have left no particular of themselves in their parts of the world. And it forms strange, that their should propagate in thief ports of the world that you place the dead, and never ones at all of their number be- hind them in their parts whence they were propaga-ted?<x_0.875><y_0.4125><class_Text>\n\n<x_0.4883><y_0.4109>To this Mr Cockburn, in his tretifie on the deluge, Register by replies, 2. That as it pleased God to create only one Mr Cockburn and one woman at the beginning, and their path-turnity ever sufficient to overfread the earth, it might well be fuppected to be furnished with animals from an original pair of the 2. One is fuppation of many pairs of brute animals having been created originally, they mafi, when the human race were few in number, have multiplied to fach a degree so to render that world inhabitation. In confirmation of this, he indicates us from the account of the Indian militaries, that in 36 kingdom of Champsn in the Indies, the river cat Courries led by the native _Tanzereu_, but by the Portuguese _Furcila_, goes up 80 fingers into the country to a monta called _Morocco_ whose whole hit is much broader, abundance but not to drop by far; i there being banks of land in our future places, and lands overhead with water, where creatures, there are an infinite number of food that cover all the country, information, that by region of them the whole kingdom of Chintacheu had for 30 years been defo- hits, though it was eight days journey in length; which, at 30 miles ades, made it 240 miles long. After pulling this country, another was met with more wild, and full of great roots; y, where there were null number of animals yet worse than the foxls, as ele-phants, rhinoceroses, lines, horses, buffins, and other bears, in four milditudes, that whatever men cultivat for the topper of this was foolled or defroved by them, nor was it polifible for the inhabitants to prevent it.<x_0.8721><y_0.8141><class_Text>\n\n<x_0.4893><y_0.8133>The life of France may be fold to be the kingdom of rats. They come down from the mountains like an army, creep up the deepest rocks, machd into the first country, affable in the marby grounds, and bring deflation everywhere, especially in the night. Men can force deep for them, and are obliged to roll themselves in fuch things as may bef fleeue them from their bitings. It was the famine in the life of Bourbon, which was as much infilled with them at fair, till it became<x_0.8701><y_0.9477><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2202,
+      "completion_tokens": 1694,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2202,
+    "completion_tokens": 1694,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.189
+}

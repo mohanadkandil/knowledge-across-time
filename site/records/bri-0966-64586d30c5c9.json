@@ -1,0 +1,16 @@
+{
+  "page_id": "bri-0966-64586d30c5c9",
+  "row_index": 966,
+  "volume_id": "193819044",
+  "metadata": "Encyclopaedia Britannica - Seventh edition, Volume 15, MEY-Navigation - EB.15",
+  "label": 0,
+  "sha256": "64586d30c5c9d9a5efc3a5452576bc995cf6c637d3ebda25a15e98edaee78160",
+  "width": 600,
+  "height": 818,
+  "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+  "revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443",
+  "split": "train",
+  "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=966",
+  "manual_seed": false,
+  "image_file": "../images/bri-0966-64586d30c5c9.jpg"
+}

@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:21:10.816110+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "fe19c8b669239175f63b24ff3beedbaa2d1d8db1e18c7ee745fff5b2f2595d6f",
+                "characters": 203679
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-8fa4d375-6562-4ec7-afb1-b8f1ec5f9049",
+    "object": "chat.completion",
+    "created": 1792322471,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2344><y_0.0312>B L O [ 740] B LO<x_0.7891><y_0.0625><class_Title>\n\n<x_0.0479><y_0.0531>Blindes which is a spongy excessecence, growing in one. some times in two or three places of the seem, which being at length overgrown, covers the pupil when the horse to brought into the light, though in a dark stable it di- latter again.<x_0.5029><y_0.1227><class_Text>\n\n<x_0.1152><y_0.1195>BLINKS, among ancient sportsmen, denoted boughs broken and from names, and thrown in the way where deer are likely to pass, to hinder their running, or er ther to mark which way a deer runs, in order to guide the home.<x_0.502><y_0.1914><class_Text>\n\n<x_0.1133><y_0.1906>BLINKING OF BEER, in Lincolnshire, signifies letting the worst stand for some time in the vat, till it both acquired some degree of activity. In order to dispose it to fines, and be the sounds ready for dinhical.<x_0.501><y_0.2453><class_Text>\n\n<x_0.1123><y_0.2445>BLISSOM, among husbandmen, corruply called _bloom_, is the act of a ram when coupling with an ever.<x_0.5><y_0.2852><class_Text>\n\n<x_0.1113><y_0.2836>BLISTER, in _Medicine_, a thin bladder containing a nasty humony, whether occasionally by brass and the like accidents, or by resistance applied to different parts of the body for that purpose.<x_0.5039><y_0.3406><class_Text>\n\n<x_0.1328><y_0.3383>BLITE, see Bittrety, Britany Index.<x_0.1104><y_0.35><class_Section-header>\n\n<x_0.1094><y_0.3508>BLITH, a town of Nothinghamshire, in England, seated in Wt Long. C. 55. N. Lat. 53: 25.<x_0.499><y_0.3789><class_Text>\n\n<x_0.1074><y_0.3781>BLITUM, Bitte, _Strawberry Spinach_. See Bo-TANY Index.<x_0.498><y_0.4047><class_Text>\n\n<x_0.1084><y_0.4055>BLOUTING, a pelling up or inflation of the exterio habit of the body, judged chiefly in the adipose cells. It is the same with what physicians call an on- phytono.<x_0.4971><y_0.4594><class_Text>\n\n<x_0.1064><y_0.4586>LLOOH, MAKK ELazzer, a German naturalist of Jewish extraction. See Suplement.<x_0.4961><y_0.4852><class_Text>\n\n<x_0.1055><y_0.4859>BLOCH, as used for a piece of marble as it comes out of the quarry, before it has assumed any form from the hand of a workman.<x_0.4951><y_0.5266><class_Text>\n\n<x_0.1045><y_0.525>Blockc, in the mechanic arts, a large piece of solid wood whereas to flatten work or to fashion it; strength and stability being the requisite properties. In this sense, we say a _choping block_ is a margin-fine’s block ; a switch _A block_, which his arrival is fastened. See,<x_0.4941><y_0.5945><class_Text>\n\n<x_0.1035><y_0.5953>Block, among cutters in wood, is a form made of post-tree, box, or other hard and close-grained wood, free from basins, on which they cut their figures in re- livevo with knives, chisels, Se.<x_0.4932><y_0.6477><class_Text>\n\n<x_0.1025><y_0.6469>Block, in _Falcory_, denotes the perch wherein a lot of prey is kept. This is to be covered with cloth.<x_0.4922><y_0.6859><class_Text>\n\n<x_0.1016><y_0.6867>Blocka, in sea-language, are pieces of wood be- longing to ship in which the shivers of priys are placed, and wherein the running-ropes go. Of these some she single, some clothes, and some have three, four, or five shivers in them. They are mared and distinguished by the ropes they carry, and the uses they serve for.<x_0.4912><y_0.7789><class_Text>\n\n<x_0.1006><y_0.7797>_Blockc Machinery_; machinery lately introduced into the usual deck-ward of British for manufacturing blocks. See Sportersmanns.<x_0.4951><y_0.8211><class_Text>\n\n<x_0.1035><y_0.8203>_Monting Blocks_, an eminence usually of stone, cut in steps or notches, serving as a help to mount on herebach. These were much in use among the sixes, who were unaquished and stirrings. The Romans erected them at proper stations along all their great roads.<x_0.4951><y_0.9031><class_Text>\n\n<x_0.0996><y_0.9016>Block, _Daniet_, portrait painter, was born at Stot-tin in Pomerania in 1580, and gave early proofs of<x_0.4971><y_0.932><class_Text>\n\n<x_0.5156><y_0.0633>a good genius; which induced his parents to place him as a disciple with Jacob Shivers, a master capable of giving him the best directions, to qualify him for proceeding successfully in his profession. He chiefly painted portraits, in which (according to Sandest) he says very common, and had the honor to paint the portraits of Christian IV. King of Denmark, and of Gustave Adolphus king of Sweden. The extractor-dinary merits of this matter memoranded him in the esteem of the phrase of Mechkahung, who retained him in his service for 44 years; and by order of that princes, he painted the portraits of his whole family is full length, as large as life, and in the unique limit; by which works his reputation was established effectively. By the agreeable manner of his courning, and the easy attributes of his figure, his paintings because so acceptable to all persons of rank, that before the decline of life, he had acquired a very large fortune; but unfortunately be lost it all, in the compass of a few hours, by the sudden traption of a plundering party, and with great difficulty his own life was preserved. He died in 1661.<x_0.9043><y_0.357><class_Text>\n\n<x_0.5146><y_0.3531>BLOCKADE, in the art of war, the blocking up a place, by posting troops at all the avenues leading to it, to keep supplies of men and provisions from getting the ill; and by those means to stare it out. See BLOCKADE, SUPPLEMENT.<x_0.9033><y_0.4242><class_Text>\n\n<x_0.5137><y_0.4234>2.2 raise in Blockcines, is to force the troops that keep the place blocked up from their posts.<x_0.9023><y_0.4516><class_Text>\n\n<x_0.5127><y_0.45>BLOCKLAND, ANTHORY DE MONSTORT, histo-ryal portraits, painter, was born of a noble family at Montien in 1532. He became the art of painting in the school of Francis Floris, whose manner he always followed, and became an artist of great distinction, by endeavoring principally in outside the state of the Ro- man school in design and composition. His genius was best adapted to grand compositions, if which he de- signed many; seems at Delft, but more of Utrecht. His designs had grandeur, the size of his heads were noble, and the profiles of his female figures approached you to the taste of Farmigians. Several of the works are in so good a tastes, and particularly a Venus, and the history of clouds and his brothers, that they seem to have been painted by a matter educated in the school of Florence. He died in 1585.<x_0.9014><y_0.6648><class_Text>\n\n<x_0.5117><y_0.6641>BLROZIL, a fatterie Or Evryssel in the United Province, seated on the river A, at the place where it falls into the Zuyder Zee. It has a port sufficient to contain 250 streets, and serves to defend these ships that cross the sea... Its fortifications, which were con- siderable, have been allowed to fall to decay. E. Long. 6. o. N. Lat. 5: 44.<x_0.9004><y_0.757><class_Text>\n\n<x_0.5107><y_0.7562>BLOGEMERT, Abraham, painter of landscape, cattle, history, and portraits, was born at Cororm in 1561, according to Hunkers. has according to Sud-drart, whose authority seems to claim the preference, he was born in 1557, and lived mostly in Utrecht. In this youth he rapidly himself differently to design after the works of Francis Floris, and afterwards received instructions from several artists of no great repute but the power of his own gains proved his principal de- rector in the art of painting. He formed a manner peculiar to himself, making nature his model for many of the objects be painted, particularly the cattle, in which he excelled. He died in 1647. He left four<x_0.8994><y_0.9313><class_Text>\n\n<x_0.3252><y_0.9328>3<x_0.3398><y_0.9422><class_Page-footer>\n\n<x_0.8643><y_0.9305>Sons<x_0.8936><y_0.9437><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 508,
+      "total_tokens": 2261,
+      "completion_tokens": 1753,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 508,
+    "total_tokens": 2261,
+    "completion_tokens": 1753,
+    "prompt_tokens_details": null
+  },
+  "seconds": 2.78
+}

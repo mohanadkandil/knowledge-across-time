@@ -1,0 +1,8 @@
+{
+  "status": "compiled",
+  "tex_sha256": "afef76faa649ecc4c1338e34d68ce86a6a7b05969963b41129214085812ccd14",
+  "compiler": "tectonic",
+  "exit_code": 0,
+  "output": "note: Running TeX ...\nnote: Rerunning TeX because \"bri-0608-5cb01932cdde.aux\" changed ...\nnote: Running xdvipdfmx ...\nnote: Writing `data/site/documents/bri-0608-5cb01932cdde.pdf` (34.1591796875 KiB)\nnote: Writing `data/site/documents/bri-0608-5cb01932cdde.log` (16.400390625 KiB)\nnote: Skipped writing 2 intermediate files (use --keep-intermediates to keep them)\nwarning: bri-0608-5cb01932cdde.tex:118: Underfull \\hbox (badness 10000) in paragraph at lines 117--118\nwarning: bri-0608-5cb01932cdde.tex:118: Underfull \\hbox (badness 10000) in paragraph at lines 117--118\nwarning: warnings were issued by the TeX engine; use --print and/or --keep-logs for details.\n",
+  "at": "2026-10-18T11:30:26.438154+00:00"
+}

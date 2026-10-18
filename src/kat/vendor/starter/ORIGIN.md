@@ -1,0 +1,1 @@
+Unmodified config.py, contracts.py and clients.py from organizer starter commit88abda0d1882eb56a5cd78bc226f1fbc929cc33b, https://github.com/october-18-hackathon/nemotron-agentic-ai-challenge . JSONClient is used for bounded HTTP transport. MIT license retained in LICENSE. Team logic lives outside this directory.

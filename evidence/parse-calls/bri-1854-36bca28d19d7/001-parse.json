@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:25.512743+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "79fcc4b85290a2cb961317d6b09883ea9c84272ce90cd243ce2e0325af0672c8",
+                "characters": 200363
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-2b7b3867-94bb-44b9-aeac-61a3a4b216da",
+    "object": "chat.completion",
+    "created": 1792322666,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.2227><y_0.0453>FL A [ 667 ] F L A<x_0.7686><y_0.0641><class_Page-header>\n\n<x_0.041><y_0.0664>Flanfred, Barrow and Sir Hae, then Mr Newton, and entered a student of Jesus college.<x_0.1074><y_0.1039><class_Text>\n\n<x_0.1055><y_0.068>In the year 692s, he made large extracts from the letters of Catalogue and Crabtree, by which his knowledge of dioptries was very much improved, is and during the time yet he made a number of celebital obterations when the weather would permit, which were afterwards published in the Philofolicized Transditions. In 1673 be complete a terrific on the future and apparated diameters of the planets, when at their greatest and leaf distance from the earth, which even the great Newton did not couple to borrow, and was four old of it in his Principia in 1685. He published an Ephemer in 1674, in which he created, the fully and abri-friendly of altroway and the fame year he drew up a table of the tides for the ufc of the king, with an altro-humoral account of their clothing and dividing, which Sir Jonas Moore suffered him worse he well received by his majority. Sir Jonas received from Mr Flanifted a pair of baremsters, with directions how the them, which he presented to the king and the thick of York, to whole notice he embraced every opportunity of introducing Mr Flanfled.<x_0.4912><y_0.3594><class_Text>\n\n<x_0.1094><y_0.3578>Having taken the degree of M. A. at Cambridges, he formed the reflation of entering into holy orders, when Sir Jonas seems to have to come to London, where he had an appointment for him very different from that of the church. But as he found that nothing could make him abandon the reflation do had learned, he obtained its fixation for him which was perfectly conflicten with the character of a Georgramis. This was the new day of all common to the king, with a day of 100l, per annum. He received ordination at Ely-hour by Biology Guining: in Earlier 1673, and on the 12th of August in the first few years the foundation lines of the royal observatory at Greenwich was laid, which recriced the delegation of Flamintel bands, in honor of the full astronomer royal. Till this edition was erected, he made his observation in the quarter's house of Greenwich, and in 1681 the Dehnera of the Sphone was published by Sir Jonas Moore in his flytlem of the mathematics. Notwihrithanding his extraordinary merit, he never role higher in the church than to the living of Pauline in Storry, although he was deferally effetened by the greatest men in the nation. He coneptioned with the great Newton, Dr Haley, Mr VK, McNeveux, the Wal-lis, and many others I and M. Calini and he imparted their discoveries to each other with the small confidence and creativity. But none of his works contributed for much to render his fame immortal as his \"Hir torki Celeith Britumic,\" in three volumes folks. Mr Flanfired was fidelity carried off by a framgency on the 31ft of December 1719; and notwiththanding the extreme delivery of his resolution and incefiant la boony, he reached the 74 year of his age<x_0.4941><y_0.7625><class_Text>\n\n<x_0.1123><y_0.7617>FLANDERS, a province of the Netherlands, founded by the German feal and the United Frontiers on the north, by the province of Bratson on the end, by Hain- auth and Arthis on the fourth, and by another part of Artoin and the German fea on the wells being about 60 miles long and go broad.<x_0.4951><y_0.8391><class_Text>\n\n<x_0.5049><y_0.0625>Flanders is a perfectly champaign country, with not a riding ground or hill in it, and watered with many fine riverside and canals. Its chief commandics are find lace, lines, and tapelfry.<x_0.8848><y_0.1172><class_Text>\n\n<x_0.5039><y_0.1156>In this country form important sets were inverse of that impressed. Waving in general was greatly improved, and that of figures of all forks in line was invented, also the art of drying cloths and fluffs, and the colours the curing of herring size. The manufectures of this country are not now in the flourishing flats they were formerly; ye e fills, cotton, and wool- her fluffs, broodies, candles, tiny yers, and linen, are fill manufactured here in great quantities. This provision shall consist of its own from the ninth century on the year 1406, when it went by marriage to the dues of Baryonary, and relations from them, by average als, to the hooks of Aufria. France, in 1669, feted the Southern part; and the flatter general ob-tained the northern, partly by the treaty of Munifer, and partly by the barrier treaty of 1715.<x_0.8867><y_0.3172><class_Text>\n\n<x_0.5029><y_0.3164>For a more particular history of Flanders, with a continuation down to the preferent times, fee the article Naturdana.<x_0.8857><y_0.357><class_Text>\n\n<x_0.5068><y_0.3547>FLANEL, or FLANSEL, a kind of flight, loofe, woollen fluff, compelled of a wood and warp, and move to beam with two treiddles, after the manner of baize.<x_0.8877><y_0.4031><class_Text>\n\n<x_0.5059><y_0.4039>The Black diffuse as a radon, why finnel and other fableness of the kind keep the body warm, that they compole a rare and fonomy male, the filters of which touch with other its flights, but the best moved slowly through the interfaces, which being filled only with air, and that in a diagram flare, give little affalliances in con-dating the heat. From the experiments of Comt Lambund, it appears, that there is a citation between the power which the fabulances usually worn as clothing have of schooling malines, and that of keeping the body warm. Having provided a quantity of each of these fabulans mentioned below, it escaped them, fored not upon clean China later, for the face of 24 hours to the warm and dry air of a room which had been hosted by a German love for forest animals, and during that ifx those had ruled this thermometer to 8y’ of Fahrenheit s after which he weighed equal quantities of the different fiabbers, with a very accurate balance. They were the (jared out upon a China plate, and removed into a very large unhahalable room upon, the found floor, where they were expelled 18 hours upon a table placed in the middle of the room, the air of which was at 44° of Fahrenheit. At the end of this faces they were weighed, and then removed in to a damp cellar, and placed on a table in the middle of the vault, where the air was at the temperature of 45° and which by the hygrometer demand to be fully flattered wild moisture. In this situation they were fuiftered to remain three days and then nights the rush being all the time huge round with wet linen Gatis, to reverse the air as completely damp as polible. At the end of three days they were weighed, and the weights at the different times were found as in the following table.<x_0.8896><y_0.832><class_Text>\n\n<x_0.6689><y_0.8328>4P 2 Sheep's<x_0.8906><y_0.8469><class_Picture>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 528,
+      "total_tokens": 2148,
+      "completion_tokens": 1620,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 528,
+    "total_tokens": 2148,
+    "completion_tokens": 1620,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.097
+}

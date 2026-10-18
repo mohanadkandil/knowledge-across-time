@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:22:04.620536+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "f4f412113e4d2f67996871b09eca144504d6090f37bf9608bddc5bd02a22267f",
+                "characters": 179599
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-33238090-76b0-448e-9254-c57a379373c0",
+    "object": "chat.completion",
+    "created": 1792322525,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0342><y_0.0398>**Part VI.** **ELECT RICITY. 803**<x_0.8877><y_0.0602><class_Page-header>\n\n<x_0.0254><y_0.0625>Effects of chain may be communicated to the tray, we pull put a small cake of which iron, upon the end of which he may place his foot. The tray filled with water is a kind of magazines or referred to forers as a variety of toply to the pump. After watching one tree, you transport the food so is forced, a third, and do on focectifiedly which is done in a short time, and require very little trouble.<x_0.4502><y_0.1617><class_Text>\n\n<x_0.0273><y_0.1625>I’t indeed take chain, it is better to employ cord or twit off pushicled or any other metal. by means of which there are be no lod of the electric matter, as there is at the cake of the chain by the ring points. Moreover, this metal cord or thread being capable of being unrivalled and performed, they will be so soon for her transferring to often the electrical machine. If is almost needs to add, that this thing or metallic ones, which is always indicated; may not up the fame kind of supports with thofe which have been exhibited in OPF and of Ref., 237, and 123. This method is finally, efficiency and lowlife sensitive, and cannot be too much employed.<x_0.4492><y_0.3203><class_Text>\n\n<x_0.0283><y_0.3195>236 Evolt think of ap- previously traces in this man nts.<x_0.0713><y_0.3891><class_Caption>\n\n<x_0.4688><y_0.0617>in medicine with the pretell facets. Several other disorders related to vegetative\neffects.<x_0.8242><y_0.1117><class_Text>\n\n<x_0.4668><y_0.1125>\" I cannot finish this article without mentioning another method relative to the perfect object, although it is the much left deflections than the preceding one point. It conflicts in communicating to water kept in balance, references, (for the purpose of watering), the clear eco. tric fluid, by means of a good electrical machine. To this end, one mail pluer over with a bhuminous consent at the teacher furries of the balon declined to receive the water that favors for irrigation, the nu-ture of the content enforcing the purpose of indulnation, you will prevent the electrical machine. With the water from being disputed and the water charged with electricity will be the more fitted for vegetation.<x_0.8213><y_0.2836><class_Text>\n\n<x_0.8027><y_0.2797>441<x_0.8848><y_0.293><class_Caption>\n\n<x_0.8018><y_0.2938>It the deficiency of the electric field, or rather vegetables final quantity of its way to be harmful to vegetable, lying by a too great abundance of this matter will likewise figurent produces precision effects. For experts, nests made by Maffe Nalne, Banks, and other farm-elined most of the Royal Society of London, prove fili- density this truth, where children, very flowing was discharged upon a branch of ballam still holding by its trunk. Some minutes after, there were ordered a remarkable alteration in the branch, of which the led young parts immediately suffered, dropped towards the ground, died next year, and in a short time entirely dried up s at the famine time that another branch of the firing plant has had not been put under the electric chains, so not to the landfill depend affected.<x_0.8223><y_0.4742><class_Text>\n\n<x_0.8037><y_0.475>\"This treatment reported upon other plants floured the effects, and it was remained that the interac-tion, occasioned by a fitung discharge of the electri- city, produced an attention different since the placenta. Those which are also wound, more herbaceous, more aqueous, experience in proportion, properties that are longer and much more freely in their operation.<x_0.8232><y_0.5734><class_Text>\n\n<x_0.8047><y_0.5742>A A hands of each of the following plants, compiling an electrical chain, it was offered by their able philosophies, that the ballam was affected by the dietiger of the battery in a few moments al- ter, and perished next day. The leaves of a marel of Peru did not drop till the dry following that yand the time phenomenon happened to a germans. Several days helped before there was deferred my fa- tail effect on the cardinal flower. The branch of a laurel did not flow any fingerprints till after the topic of about 12, dryly, after which, it did, if all it was a fall month before they perceived any feasible change on the mycels at the time time they confantly delivered that the bodies of their plants and bacteria which had formed in part of the chain, continued to be forth, vigoence, and even when having a good condition in Pull.<x_0.8203><y_0.8664><class_Text>\n\n<x_0.6074><y_0.8758>512<x_0.6465><y_0.8922><class_Page-footer>\n\n<x_0.7568><y_0.8766>INDEX.<x_0.8193><y_0.8914><class_Page-footer>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 498,
+      "total_tokens": 1456,
+      "completion_tokens": 958,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 498,
+    "total_tokens": 1456,
+    "completion_tokens": 958,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.383
+}

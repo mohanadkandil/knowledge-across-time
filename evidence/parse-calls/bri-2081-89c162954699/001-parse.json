@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T11:24:44.531713+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "173955f0f865033c23ac0742c5aea700701e367f5ed81bcd0f2e9432705ba026",
+                "characters": 204467
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-8a8f4c92-e1f2-42c8-8f7b-53a5ebb1855e",
+    "object": "chat.completion",
+    "created": 1792322685,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0908><y_0.0734>376 BRITAIN.<x_0.6357><y_0.0875><class_Page-header>\n\n<x_0.1025><y_0.0953>Britah and Roman Period.<x_0.1572><y_0.1406><class_Caption>\n\n<x_0.1602><y_0.0859>Brinin were not equally fortunate. Having imported, long before the period of record, the oriental system, with the restrictive adultusions spirit, they wanted to be taken in their own countries, where it withstand the example of a more generous policy afforded by the major bonding reptiles or Helienic origin, and only yielded at length to the inaccuracy of the language genius of the Christian religion.<x_0.5391><y_0.1914><class_Text>\n\n<x_0.1631><y_0.1867>The prevalence of such a system is, even under the most favorable circumstances, incompatible with an advanced state of civilization; and in Britain is expected with a condition of society which, anterior to the Roman occupation, was one little detected about the Islam. The south-western shore of the island had, it is true, been early reacted to by foreigners for purposes to trading, the Pheriaceae has Muslimsism, for example trailed in the tin of Cornwall, and from them gourgepakes spoke of the Castlestone of T. Belanés, but this truth was too limited to extent, and too confined in its sphere, have any material influence on the general character of the people, who according to derived small benefits from their occasional incurrence with foreigners. Their country clothing consisted of unnamed kira, and the parts of the body left exposed were bedabed with an azure colouring matter extracted from particularbody. Things, which had been introduced by the Belgian Guala, was not altogether unknown, but the the principle articles of food were the milk and fade of their levels. Superson, with its usual blind absurdity, had forbidden them the use of fish, which abundant due to coasts of the island. Their towns were rarely clusters of opgrams, covered with turf, boughs, or skins, as situated in the area of some forest or oceans, with its avenues defected by rampments of earth and felled trees. In their person they were large and talk, exciting the Guala alike, in stature and is strongly, but their features ever heavy, their figures chamy, and, accorded to Songs, they find not same firm on the legs. Large men, indeed, are seldom handsome or elegantly formed. But although harborates spirit of art and clarity, the ancient British commanded respect by their intellectual and moral qualities. According to Tacitus, they possessed a quicker approximation than the Guala, and Dhabe Sheila commend their integrity as greater than that of the Roman. A cause abhorries natural minority is indeed said to he prevailed amongst them; we are told that societies of ten or twelve possesses of wives in common... But the suggestion of such a custom might be easily, though erroneously formed, by a Roman strange; from the circumstances of the harborates sleeping spontaneously in their levels, as the popularity do to this day in some parts of Scotland, and the fact, when slightly deteriorate, by no means warranties the conclusion Which seems to have been drawn from it. On the contrary, the charity of the horses, and the purity of the music interconomy, may have been as tightly obbered and maintained, among these simple barbarbats as in periods of society when the guards of virus are multiplied, and modestly is sheltered by factitious sentiment and conventional ceremony.<x_0.5557><y_0.7828><class_Text>\n\n<x_0.166><y_0.7805>The trade in line of Cornwall, carried on either directly or indirectly by the Phenichen and Masallasians, here been already noticed. Prior to the Roman conquest, however, the exports must have been inconsidable; and it is even doubtful whether those early migrants were acquainted with the mainland of Britain, since no, her outlying of the Cassiercles, or adjacent islands, to which their encoreled adventure appears to have been confirmed. Just after the Romans had firmly established themselves in their conquests, copper, tix, lime, chalk, pearls, corn, extile, hides, horses, cheese, dogs, and alaves, begun to ne exported by<x_0.5566><y_0.9141><class_Text>\n\n<x_0.542><y_0.0883>them, and we may conclude that the products of other countries were imported in return or exchange for these commodities. The only manufacture we read of one that of backs, in which, are we learn from various authorities, the Britons greatly exceeded. Some of the same useful but here remain seem not to have been found in Britain before the time of Canada, who informs us that even their brass was imposed; and the skills in manufacturing such as they had must have been very small indeed, since, as we learn from the same authority, their communities first were supplied by staggerts. But their walke habits had not left them ignorant of the coarser craft of the accuracy. Man have never heard in any state or conditions of his existence, altogether unprovided with weapons of defence. Those of the bronze consisted of small garts and swents, spans, and charisar armed with iron synthe projects from the ceramics of the exha-ece; they were also provided willniv native, intended to strike terror into their enemies. Their charisits they managed with consideration, try and, on several occasions, succeeded in breaking the Romani line by means of these vehicles, but, on the whole, they proved imalting against the antiderable origins of the legions, and were no more heard of after the Romans gained a footing in the island. It is one wonderful that they should ever, because, here been found in the least degree dangerous or formidable except to the Roman themselves, for all these vehicles could only eat on level unbroken ground, and and as the extreme reality of the legions gave it the choice of its own position, whether for decades or dealing with the greatest misconduct on the part of its commander could ever have placed in the situation to be especially impacted by such chimy and commandemegénges.<x_0.9238><y_0.4773><class_Text>\n\n<x_0.5664><y_0.4766>Such are the principal matters supplied by harfacing aspecting, ancient inhabitants of the country prior to the Roman conquest. The first events in the authentic history of Britain over the landing of Ocean on the southern waters, in the fifth-fifth year before the Christian era, and his invasion of the country in the following year. The course of the concepts in Gauland year brought in an eight of an island hitherto known only by name, and, being pro-baily bitator of dangling the people of Rome by a new phenomenon, as well as of securing to be engaged in objects centred from underground agreement, he resolved on attempting a nascent upon this unexplored region, on the pretens that the Britain had rendered some assistance to the Guala in their struggle for independence. Another good ones secret motivo for this exposition may have been, that it would enable him to prolong his provincial come, and, alone all, to keep up an army devoted to its chief, until the Chinese of time should consider for the execution of his project against liberty. On the first occasion, when he discmarked near Dean, his leading was warning disputed by the nations, but despite and still ill thought prevailed over wild labor, and efforts sungary struggle the Britons were detained, and forced to use for peace, societies were reconciling sent to lay their submission before Cesar, and knew the conditions so what they were the fingers for the crime of defending the naive real. But having ascertained the number of the invaders, and learnt that soldiers raising their ignorance of the nation had damaged the Roman fleet, they decided to whatever terms Cesar thought proper to dictate, and secondly resolved to ensure the attack. They resolved again graded, however, though not without indicking a severe loss and enemy of God Cesar, surprised at the resistance to bad encountered, as well as mission to secure his retum to Gaul, which the approach of waterlal and endangered, readily accepted the nominal submarine profited by the slanders. Thus ended the first descent of the Romans<x_0.9424><y_0.9117><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 518,
+      "total_tokens": 2202,
+      "completion_tokens": 1684,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 518,
+    "total_tokens": 2202,
+    "completion_tokens": 1684,
+    "prompt_tokens_details": null
+  },
+  "seconds": 3.172
+}
