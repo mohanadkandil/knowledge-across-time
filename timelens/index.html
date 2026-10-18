@@ -3,458 +3,437 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>TimeLens — every encyclopedia is a snapshot</title>
-<meta name="description" content="Prefix any Wikipedia URL with timelens. to see how human understanding of that topic changed over 250 years.">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23faf6ef'/%3E%3Ccircle cx='32' cy='32' r='30' fill='none' stroke='%23b8491f' stroke-width='4'/%3E%3Ccircle cx='32' cy='32' r='11' fill='%23b8491f'/%3E%3C/svg%3E">
+<title>TimeLens — pull history into focus</title>
+<meta name="description" content="Prefix any Wikipedia URL with timelens. to see how human understanding of a topic changed over 250 years — and where the model auditing it fails.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%2312100d'/%3E%3Ccircle cx='32' cy='32' r='27' fill='none' stroke='%23c9a24b' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='14' fill='none' stroke='%23c9a24b' stroke-width='1.5' opacity='.7'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,300;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&family=Archivo:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#faf6ef;
-    --bg-deep:#f3ecdf;
-    --ink:#231f19;
-    --ink-2:#6c6357;
-    --ink-3:#98907f;
-    --accent:#b8491f;
-    --accent-deep:#93370f;
-    --accent-soft:rgba(184,73,31,.08);
-    --ok:#4f7a52;
-    --ok-soft:rgba(79,122,82,.10);
-    --bad:#a63a2b;
-    --bad-soft:rgba(166,58,43,.08);
-    --line:rgba(35,31,25,.10);
-    --line-strong:rgba(35,31,25,.16);
-    --glass:rgba(255,253,247,.62);
-    --glass-strong:rgba(255,253,248,.78);
-    --shadow-sm:0 1px 2px rgba(35,29,20,.05),0 4px 14px rgba(35,29,20,.05);
-    --shadow-lg:0 1px 2px rgba(35,29,20,.05),0 10px 30px rgba(35,29,20,.07),0 30px 70px rgba(35,29,20,.08);
-    --r-lg:22px;
-    --r-md:16px;
-    --serif:"Newsreader",Georgia,"Times New Roman",serif;
-    --sans:"Inter",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    --room:#12100d;
+    --room-2:#181510;
+    --vellum:#ece1cb;
+    --vellum-2:#b8ac93;
+    --vellum-3:#7f7663;
+    --brass:#c9a24b;
+    --brass-dim:rgba(201,162,75,.35);
+    --verdigris:#7fa08b;
+    --ember:#cf5a30;
+    --ink-line:rgba(236,225,203,.13);
+    --ink-line-2:rgba(236,225,203,.24);
+    --plate:rgba(236,225,203,.045);
+    --plate-2:rgba(236,225,203,.08);
+    --fell:"IM Fell English",Georgia,serif;
+    --fell-sc:"IM Fell English SC",Georgia,serif;
+    --sans:"Archivo",-apple-system,system-ui,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+    --r:14px;
   }
   *{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
   body{
     font-family:var(--sans);
     background:
-      radial-gradient(1200px 600px at 85% -10%, rgba(184,73,31,.055), transparent 60%),
-      radial-gradient(900px 500px at -10% 30%, rgba(80,90,110,.05), transparent 60%),
-      var(--bg);
-    color:var(--ink);
+      radial-gradient(1100px 700px at 78% -12%, rgba(201,162,75,.075), transparent 58%),
+      radial-gradient(800px 500px at -8% 22%, rgba(127,160,139,.05), transparent 60%),
+      var(--room);
+    color:var(--vellum);
     -webkit-font-smoothing:antialiased;
-    text-rendering:optimizeLegibility;
     overflow-x:hidden;
   }
-  .grain{
-    position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.5;
-    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='0.045'/%3E%3C/svg%3E");
-  }
-  .wrap{max-width:1080px;margin:0 auto;padding:0 24px;position:relative;z-index:1}
+  ::selection{background:rgba(201,162,75,.3)}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 26px;position:relative}
 
-  /* ---------- browser chrome ---------- */
-  .chrome{margin:28px auto 0;max-width:1080px;padding:0 24px;position:relative;z-index:2}
-  .chrome-bar{
-    display:flex;align-items:center;gap:14px;
-    background:var(--glass-strong);
-    -webkit-backdrop-filter:blur(22px) saturate(1.5);
-    backdrop-filter:blur(22px) saturate(1.5);
-    border:1px solid var(--line);
-    border-radius:16px;
-    box-shadow:var(--shadow-sm);
-    padding:10px 14px;
+  /* catalogue slip */
+  .slip{
+    margin:30px auto 0;display:flex;align-items:stretch;gap:0;
+    border:1px solid var(--ink-line);border-radius:10px;
+    background:linear-gradient(180deg,rgba(236,225,203,.055),rgba(236,225,203,.02));
+    overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.4);
   }
-  .dots{display:flex;gap:7px;flex:0 0 auto}
-  .dot{width:11px;height:11px;border-radius:50%;background:#ddd3c4}
-  .dot.r{background:#e0a193}.dot.y{background:#e6cf9a}.dot.g{background:#a9c3a4}
-  .url-pill{
-    flex:1;min-width:0;display:flex;align-items:center;gap:9px;
-    background:rgba(255,255,255,.66);
-    border:1px solid var(--line);
-    border-radius:999px;
-    padding:8px 16px;
-    font-size:14px;font-weight:500;letter-spacing:.01em;
-    white-space:nowrap;overflow:hidden;
+  .slip .hole{
+    flex:0 0 auto;width:44px;display:flex;align-items:center;justify-content:center;
+    border-right:1px dashed var(--ink-line-2);
   }
-  .url-pill svg{flex:0 0 auto}
-  .url-scheme{color:var(--ink-3)}
-  .url-prefix{color:var(--accent);font-weight:700;position:relative}
-  .url-prefix::after{
-    content:"";position:absolute;left:0;right:0;bottom:-2px;height:2px;border-radius:2px;
-    background:var(--accent);opacity:.5;
-    animation:pulse 2.6s ease-in-out infinite;
+  .slip .hole i{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--brass);display:block}
+  .slip .addr{
+    flex:1;min-width:0;padding:15px 18px;
+    font-family:var(--mono);font-size:14.5px;letter-spacing:.01em;
+    white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
   }
-  @keyframes pulse{0%,100%{opacity:.25}50%{opacity:.65}}
-  .url-rest{color:var(--ink)}
-  .chrome-badge{
-    flex:0 0 auto;font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;
-    color:var(--ink-2);border:1px solid var(--line);border-radius:999px;padding:6px 12px;
-    background:rgba(255,255,255,.4);
+  .slip .addr b{color:var(--brass);font-weight:500}
+  .slip .addr span{color:var(--vellum-2)}
+  .slip .tag{
+    flex:0 0 auto;display:flex;align-items:center;padding:0 16px;
+    border-left:1px dashed var(--ink-line-2);
+    font-size:11px;letter-spacing:.14em;color:var(--vellum-3);
+    text-transform:uppercase;
   }
 
-  /* ---------- masthead ---------- */
-  .masthead{text-align:center;padding:64px 24px 8px}
-  .eyebrow{
-    display:inline-flex;align-items:center;gap:8px;
-    font-size:11px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-2);
+  /* masthead */
+  .masthead{padding:84px 0 40px;text-align:center}
+  .rule{display:flex;align-items:center;justify-content:center;gap:14px;margin-bottom:30px}
+  .rule::before,.rule::after{content:"";width:56px;height:1px;background:var(--brass-dim)}
+  .rule span{
+    font-family:var(--mono);font-size:12px;letter-spacing:.34em;color:var(--brass);
+    text-transform:uppercase;padding-left:.34em;
   }
-  .eyebrow::before,.eyebrow::after{content:"";width:22px;height:1px;background:var(--line-strong)}
-  h1.brand{
-    font-family:var(--serif);font-weight:400;font-size:clamp(44px,7.5vw,84px);
-    letter-spacing:-.02em;line-height:1.02;margin-top:18px;
+  h1.title{
+    font-family:var(--fell-sc);font-weight:400;
+    font-size:clamp(58px,9.4vw,124px);line-height:.94;letter-spacing:-.01em;
+    color:var(--vellum);
   }
-  h1.brand em{font-style:italic;font-weight:300;color:var(--accent)}
-  .tagline{
-    font-family:var(--serif);font-style:italic;font-weight:400;
-    font-size:clamp(17px,2.4vw,22px);color:var(--ink-2);
-    max-width:640px;margin:20px auto 0;line-height:1.45;
+  h1.title .sub{
+    display:block;font-family:var(--fell);font-style:italic;font-size:.31em;
+    color:var(--vellum-2);letter-spacing:0;margin-top:16px;line-height:1.3;
   }
-  .howto{
-    margin:22px auto 0;max-width:560px;font-size:13.5px;color:var(--ink-2);line-height:1.6;
+  .lede{
+    max-width:620px;margin:26px auto 0;font-size:15.5px;line-height:1.7;color:var(--vellum-2);
   }
-  .howto code{
-    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12.5px;
-    background:rgba(255,255,255,.7);border:1px solid var(--line);border-radius:6px;padding:1.5px 6px;
-    color:var(--accent-deep);font-weight:600;
+  .lede code{
+    font-family:var(--mono);font-size:13px;color:var(--brass);
+    border:1px solid var(--brass-dim);border-radius:6px;padding:1px 7px;background:rgba(201,162,75,.07);
   }
 
-  /* ---------- hero ---------- */
-  .hero{padding:40px 0 8px}
-  .hero-head{display:flex;align-items:flex-end;justify-content:space-between;gap:20px;flex-wrap:wrap;margin-bottom:8px}
-  .hero-kicker{font-size:11px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-2);margin-bottom:10px}
-  .hero-title{font-family:var(--serif);font-weight:400;font-size:clamp(52px,8vw,104px);letter-spacing:-.025em;line-height:.95}
-  .hero-title .q{font-style:italic;color:var(--ink-3);font-weight:300;font-size:.42em;vertical-align:.62em;margin-left:.12em;letter-spacing:0}
-  .status-block{text-align:right;padding-bottom:8px}
-  .status-pill{
-    display:inline-flex;align-items:center;gap:8px;
-    font-size:11.5px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
-    border-radius:999px;padding:8px 15px;border:1px solid var(--line-strong);
-    background:var(--glass);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);
-    box-shadow:var(--shadow-sm);
-    transition:color .5s ease,background .5s ease,border-color .5s ease;
+  /* marginalia */
+  .margin-note{
+    font-family:var(--fell);font-style:italic;font-size:14.5px;color:var(--vellum-3);
+    line-height:1.55;transform:rotate(-.6deg);
   }
-  .status-dot{width:8px;height:8px;border-radius:50%;background:currentColor;transition:background .5s ease}
-  .status-pill.contested{color:var(--accent-deep);background:var(--accent-soft);border-color:rgba(184,73,31,.25)}
-  .status-pill.record{color:var(--accent-deep);background:var(--accent-soft);border-color:rgba(184,73,31,.25)}
-  .status-pill.settled{color:var(--ok);background:var(--ok-soft);border-color:rgba(79,122,82,.28)}
-  .year-readout{font-family:var(--serif);font-size:clamp(30px,4vw,44px);font-weight:300;letter-spacing:-.02em;margin-top:10px;font-variant-numeric:tabular-nums}
-  .year-edition{font-size:12px;color:var(--ink-3);margin-top:2px;min-height:1.2em;transition:opacity .3s ease}
 
-  /* ---------- timeline ---------- */
-  .tl{position:relative;padding:34px 0 26px;user-select:none;-webkit-user-select:none;touch-action:pan-y}
-  .tl-track{
-    position:relative;height:44px;
+  /* ============================ EXHIBIT ============================ */
+  .exhibit-head{display:flex;align-items:baseline;justify-content:space-between;gap:24px;flex-wrap:wrap;margin-bottom:26px}
+  .entry{
+    font-family:var(--fell-sc);font-size:clamp(46px,7vw,88px);line-height:.95;color:var(--vellum);
   }
-  .tl-rail{
-    position:absolute;left:0;right:0;top:50%;height:4px;transform:translateY(-50%);
-    border-radius:999px;background:rgba(35,31,25,.10);
-    box-shadow:inset 0 1px 2px rgba(35,29,20,.08);
+  .entry .def{
+    display:block;font-family:var(--fell);font-style:italic;font-size:.24em;color:var(--vellum-3);
+    margin-top:10px;letter-spacing:0;
   }
-  .tl-fill{
-    position:absolute;left:0;top:50%;height:4px;transform:translateY(-50%);
-    border-radius:999px;background:linear-gradient(90deg,rgba(35,31,25,.35),var(--accent));
-    width:0%;
+  .yearbox{text-align:right}
+  .year{font-family:var(--fell);font-size:clamp(44px,6vw,72px);font-weight:400;line-height:1;font-variant-numeric:tabular-nums;color:var(--vellum)}
+  .edition{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;color:var(--vellum-3);margin-top:8px;text-transform:uppercase}
+  .status{
+    display:inline-flex;align-items:center;gap:8px;margin-top:10px;
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.08em;text-transform:uppercase;
+    border:1px solid var(--ink-line-2);border-radius:999px;padding:7px 13px;color:var(--vellum-2);
+    transition:color .4s,border-color .4s;
   }
-  .tl-tick{position:absolute;top:50%;width:1px;height:9px;background:rgba(35,31,25,.22);transform:translate(-50%,-50%)}
-  .tl-tick.major{height:14px;background:rgba(35,31,25,.32)}
-  .tl-tick-label{
-    position:absolute;top:calc(50% + 16px);transform:translateX(-50%);
-    font-size:10.5px;color:var(--ink-3);font-weight:500;font-variant-numeric:tabular-nums;white-space:nowrap;
+  .status .dot{width:7px;height:7px;border-radius:50%;background:currentColor}
+  .status.contested{color:var(--ember);border-color:rgba(207,90,48,.45)}
+  .status.record{color:var(--brass);border-color:var(--brass-dim)}
+  .status.settled{color:var(--verdigris);border-color:rgba(127,160,139,.45)}
+
+  /* stage — the object under the lens */
+  .stage{
+    position:relative;border-radius:var(--r);overflow:hidden;
+    border:1px solid var(--ink-line-2);
+    box-shadow:0 30px 80px rgba(0,0,0,.55),0 0 0 1px rgba(0,0,0,.3),inset 0 0 0 1px rgba(236,225,203,.05);
+    aspect-ratio:16/9;display:grid;background:var(--room-2);
   }
-  .tl-stop{position:absolute;top:50%;transform:translate(-50%,-50%);cursor:pointer;z-index:2;background:none;border:none;padding:10px;font:inherit}
-  .tl-stop-dot{
-    width:13px;height:13px;border-radius:50%;
-    background:var(--bg);border:2.5px solid var(--ink-3);
+  .stage img{
+    grid-area:1/1;width:100%;height:100%;object-fit:cover;opacity:0;
+    will-change:opacity,filter;
+  }
+  .stage .cap{
+    position:absolute;left:16px;bottom:16px;z-index:2;display:flex;align-items:center;gap:10px;
+    font-family:var(--mono);font-size:11px;letter-spacing:.07em;text-transform:uppercase;
+    color:var(--vellum);background:rgba(18,16,13,.68);border:1px solid var(--ink-line);
+    backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+    border-radius:999px;padding:8px 15px;max-width:calc(100% - 32px);
+  }
+  .stage .cap b{font-weight:500}
+  .stage .cap .sep{color:var(--vellum-3)}
+  .stage .frame-mark{position:absolute;width:18px;height:18px;z-index:2;opacity:.55}
+  .fm-tl{top:12px;left:12px;border-top:1px solid var(--brass);border-left:1px solid var(--brass)}
+  .fm-tr{top:12px;right:12px;border-top:1px solid var(--brass);border-right:1px solid var(--brass)}
+  .fm-bl{bottom:12px;left:12px;border-bottom:1px solid var(--brass);border-left:1px solid var(--brass)}
+  .fm-br{bottom:12px;right:12px;border-bottom:1px solid var(--brass);border-right:1px solid var(--brass)}
+
+  /* instrument rail */
+  .rail{position:relative;padding:44px 0 20px;user-select:none;-webkit-user-select:none;touch-action:pan-y}
+  .rail-track{position:relative;height:52px}
+  .rail-line{
+    position:absolute;left:0;right:0;top:50%;height:1px;
+    background:var(--ink-line-2);
+  }
+  .rail-fill{
+    position:absolute;left:0;top:50%;height:1px;width:0%;
+    background:var(--brass);box-shadow:0 0 8px rgba(201,162,75,.5);
+  }
+  .tick{position:absolute;top:50%;width:1px;height:7px;background:var(--ink-line-2);transform:translate(-50%,-50%)}
+  .tick.major{height:13px;background:rgba(236,225,203,.4)}
+  .tick-label{
+    position:absolute;top:calc(50% + 18px);transform:translateX(-50%);
+    font-family:var(--mono);font-size:10px;letter-spacing:.08em;color:var(--vellum-3);
+    font-variant-numeric:tabular-nums;white-space:nowrap;
+  }
+  .stop{
+    position:absolute;top:50%;transform:translate(-50%,-50%);cursor:pointer;z-index:2;
+    background:none;border:none;padding:12px;font:inherit;
+  }
+  .stop i{
+    display:block;width:11px;height:11px;border-radius:50%;margin:0 auto;
+    background:var(--room);border:1.5px solid var(--vellum-3);
     transition:border-color .3s,box-shadow .3s,transform .3s;
-    display:block;margin:0 auto;
   }
-  .tl-stop.active .tl-stop-dot{border-color:var(--accent);transform:scale(1.18);box-shadow:0 0 0 5px rgba(184,73,31,.14)}
-  .tl-stop.settled .tl-stop-dot{border-color:var(--ok)}
-  .tl-stop.settled.active .tl-stop-dot{box-shadow:0 0 0 5px rgba(79,122,82,.14)}
-  .tl-stop-label{
-    position:absolute;bottom:calc(100% + 12px);left:50%;transform:translateX(-50%);
-    font-size:10.5px;font-weight:600;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-3);
+  .stop:hover i{border-color:var(--vellum)}
+  .stop.active i{border-color:var(--brass);transform:scale(1.25);box-shadow:0 0 0 5px rgba(201,162,75,.12)}
+  .stop.settled i{border-color:var(--verdigris)}
+  .stop.settled.active i{box-shadow:0 0 0 5px rgba(127,160,139,.14)}
+  .stop .slabel{
+    position:absolute;bottom:calc(100% + 10px);left:50%;transform:translateX(-50%);
+    font-family:var(--fell);font-style:italic;font-size:13.5px;color:var(--vellum-3);
     white-space:nowrap;transition:color .3s;
   }
-  .tl-stop.active .tl-stop-label{color:var(--ink)}
-  .tl-knob{
-    position:absolute;top:50%;transform:translate(-50%,-50%);z-index:3;
-    min-width:86px;height:42px;padding:0 16px;
-    display:flex;align-items:center;justify-content:center;gap:6px;
-    border-radius:999px;cursor:grab;
-    background:var(--glass-strong);
-    -webkit-backdrop-filter:blur(18px) saturate(1.6);backdrop-filter:blur(18px) saturate(1.6);
-    border:1px solid var(--line-strong);
-    box-shadow:0 1px 2px rgba(35,29,20,.08),0 8px 22px rgba(35,29,20,.14),inset 0 1px 0 rgba(255,255,255,.7);
-    font-family:var(--serif);font-size:19px;font-weight:500;letter-spacing:-.01em;font-variant-numeric:tabular-nums;
-    touch-action:none;
+  .stop.active .slabel{color:var(--vellum)}
+  .lens{
+    position:absolute;top:50%;transform:translate(-50%,-50%);z-index:4;
+    width:64px;height:64px;border-radius:50%;cursor:grab;touch-action:none;
+    border:2px solid var(--brass);
+    background:
+      radial-gradient(circle at 38% 34%, rgba(236,225,203,.14), transparent 42%),
+      radial-gradient(circle, rgba(18,16,13,.24) 0%, rgba(18,16,13,.5) 78%);
+    box-shadow:0 10px 30px rgba(0,0,0,.5),0 0 0 1px rgba(0,0,0,.4),inset 0 0 14px rgba(201,162,75,.12);
+    display:flex;align-items:center;justify-content:center;
   }
-  .tl-knob:active{cursor:grabbing}
-  .tl-knob .grip{display:flex;gap:2px}
-  .tl-knob .grip i{width:2.5px;height:12px;border-radius:2px;background:var(--ink-3);display:block}
-  .tl-hint{
-    text-align:center;font-size:12px;color:var(--ink-3);letter-spacing:.02em;margin-top:8px;
+  .lens:active{cursor:grabbing}
+  .lens .ret{position:absolute;inset:0;pointer-events:none}
+  .lens .ret::before,.lens .ret::after{
+    content:"";position:absolute;background:rgba(236,225,203,.4);
   }
-  .tl-hint kbd{
-    font-family:var(--sans);font-size:10.5px;border:1px solid var(--line-strong);border-bottom-width:2px;
-    border-radius:5px;padding:1px 5px;background:rgba(255,255,255,.6);
+  .lens .ret::before{left:50%;top:14%;bottom:14%;width:1px;transform:translateX(-50%)}
+  .lens .ret::after{top:50%;left:14%;right:14%;height:1px;transform:translateY(-50%)}
+  .lens .lyr{
+    position:relative;z-index:1;font-family:var(--mono);font-size:13px;font-weight:500;
+    color:var(--vellum);font-variant-numeric:tabular-nums;letter-spacing:.03em;
+    text-shadow:0 1px 6px rgba(0,0,0,.8);
+  }
+  .rail-hint{text-align:center;font-family:var(--fell);font-style:italic;font-size:14px;color:var(--vellum-3);margin-top:14px}
+  .rail-hint kbd{
+    font-family:var(--mono);font-style:normal;font-size:10.5px;
+    border:1px solid var(--ink-line-2);border-bottom-width:2px;border-radius:5px;
+    padding:1px 6px;color:var(--vellum-2);background:var(--plate);
   }
 
-  /* ---------- card deck ---------- */
-  .deck{display:grid;margin-top:14px}
+  /* era plates */
+  .deck{display:grid;margin-top:12px}
   .panel{
-    grid-area:1/1;
-    background:var(--glass);
-    -webkit-backdrop-filter:blur(24px) saturate(1.5);backdrop-filter:blur(24px) saturate(1.5);
-    border:1px solid var(--line);
-    border-radius:var(--r-lg);
-    box-shadow:var(--shadow-lg);
-    padding:clamp(26px,4.5vw,46px);
-    will-change:opacity,transform;
-    pointer-events:none;
-    position:relative;overflow:hidden;
+    grid-area:1/1;position:relative;overflow:hidden;
+    border:1px solid var(--ink-line);border-radius:var(--r);
+    background:linear-gradient(160deg,var(--plate-2),var(--plate));
+    padding:clamp(28px,4.5vw,48px);
+    will-change:opacity,transform;pointer-events:none;
   }
   .panel.front{pointer-events:auto}
-  .panel-eyebrow{
-    display:flex;align-items:center;gap:10px;
-    font-size:11px;font-weight:600;letter-spacing:.15em;text-transform:uppercase;color:var(--ink-2);
-    margin-bottom:16px;
+  .panel .plate-no{
+    position:absolute;top:20px;right:24px;
+    font-family:var(--fell);font-style:italic;font-size:14px;color:var(--vellum-3);
   }
-  .panel-eyebrow .src{
-    margin-left:auto;font-weight:500;letter-spacing:.02em;text-transform:none;color:var(--ink-3);font-size:11.5px;
-  }
-  .panel h3{font-family:var(--serif);font-weight:400;font-size:clamp(24px,3.4vw,34px);letter-spacing:-.015em;line-height:1.15;margin-bottom:16px}
-  .panel h3 em{font-style:italic;color:var(--accent)}
-  .panel p{font-size:15px;line-height:1.68;color:var(--ink);max-width:66ch}
+  .panel h3{font-family:var(--fell);font-weight:400;font-size:clamp(26px,3.6vw,36px);line-height:1.16;letter-spacing:-.01em;margin-bottom:16px;color:var(--vellum)}
+  .panel h3 em{color:var(--brass)}
+  .panel p{font-size:15px;line-height:1.75;color:var(--vellum-2);max-width:64ch}
   .panel p + p{margin-top:12px}
-  .panel .lede{font-family:var(--serif);font-size:clamp(18px,2.5vw,22px);line-height:1.5;color:var(--ink)}
+  .panel .lede2{font-family:var(--fell);font-size:clamp(18px,2.4vw,22px);line-height:1.5;color:var(--vellum)}
   .quote{
-    font-family:var(--serif);font-style:italic;font-weight:400;
-    font-size:clamp(18px,2.6vw,23px);line-height:1.55;letter-spacing:-.005em;
-    border-left:3px solid var(--accent);padding:2px 0 2px 20px;margin:18px 0;color:var(--ink);
+    font-family:var(--fell);font-style:italic;font-size:clamp(19px,2.6vw,24px);line-height:1.55;
+    border-left:2px solid var(--brass);padding-left:20px;margin:20px 0;color:var(--vellum);
   }
-  .quote .hedge{color:var(--ink-2)}
-  .quote em{color:var(--accent-deep)}
-  .smallprint{font-size:11.5px;color:var(--ink-3);line-height:1.55;margin-top:14px;max-width:62ch}
+  .quote .hedge{color:var(--vellum-2)}
+  .smallprint{font-family:var(--mono);font-size:11px;color:var(--vellum-3);line-height:1.7;margin-top:16px;max-width:64ch}
   .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
   .chip{
-    font-size:12.5px;font-weight:500;color:var(--ink);
-    background:rgba(255,255,255,.55);border:1px solid var(--line);border-radius:999px;
-    padding:7px 13px;line-height:1.35;
+    font-family:var(--mono);font-size:12px;color:var(--vellum-2);
+    border:1px solid var(--ink-line);border-radius:8px;padding:8px 13px;line-height:1.4;
+    background:rgba(0,0,0,.15);
   }
-  .chip b{font-weight:600}
-  .chip.accent{background:var(--accent-soft);border-color:rgba(184,73,31,.22);color:var(--accent-deep)}
-  .versus{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-top:20px}
-  .side{
-    border:1px solid var(--line);border-radius:var(--r-md);padding:18px 20px;
-    background:rgba(255,255,255,.4);
-  }
-  .side .flag{font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;margin-bottom:8px}
-  .side.water .flag{color:#4a6d86}
-  .side.fire .flag{color:var(--accent-deep)}
-  .side h4{font-family:var(--serif);font-weight:500;font-size:18px;margin-bottom:6px}
-  .side p{font-size:13.5px;line-height:1.6;color:var(--ink-2)}
-  .columns-motif{
-    position:absolute;right:26px;bottom:0;width:210px;height:88px;pointer-events:none;opacity:.9;
-  }
+  .chip b{color:var(--vellum);font-weight:500}
+  .chip.hot{border-color:rgba(207,90,48,.4);color:#e5a586}
+  .versus{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:20px}
+  .side{border-top:1px solid var(--ink-line-2);padding-top:14px}
+  .side .flag{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;margin-bottom:8px}
+  .side.water .flag{color:var(--verdigris)}
+  .side.fire .flag{color:var(--ember)}
+  .side h4{font-family:var(--fell);font-weight:400;font-size:20px;margin-bottom:6px;color:var(--vellum)}
+  .side p{font-size:13.5px;line-height:1.65;color:var(--vellum-3)}
 
-  /* ---------- sections ---------- */
-  section.block{padding:72px 0 0}
-  .sec-head{margin-bottom:28px}
-  .sec-head .num{
-    font-family:var(--serif);font-style:italic;font-size:15px;color:var(--accent);font-weight:500;
-  }
-  .sec-head h2{
-    font-family:var(--serif);font-weight:400;font-size:clamp(30px,4.4vw,44px);
-    letter-spacing:-.02em;line-height:1.08;margin-top:8px;
-  }
-  .sec-head h2 em{font-style:italic;color:var(--ink-2)}
-  .sec-head p{margin-top:12px;font-size:15px;line-height:1.65;color:var(--ink-2);max-width:60ch}
+  /* ============================ SECTIONS ============================ */
+  section.block{padding:88px 0 0}
+  .sec-head{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,300px);gap:40px;align-items:end;margin-bottom:34px}
+  .sec-head h2{font-family:var(--fell);font-weight:400;font-size:clamp(30px,4.4vw,46px);letter-spacing:-.015em;line-height:1.1;color:var(--vellum)}
+  .sec-head h2 em{font-style:italic;color:var(--brass)}
+  .sec-head .note{justify-self:end}
+  .sec-head p.lead{grid-column:1/-1;font-size:15px;line-height:1.7;color:var(--vellum-2);max-width:64ch;margin-top:14px}
 
-  /* ---------- exhibits ---------- */
-  .exhibits{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
-  .exhibit{
-    background:var(--glass);
-    -webkit-backdrop-filter:blur(20px) saturate(1.4);backdrop-filter:blur(20px) saturate(1.4);
-    border:1px solid var(--line);border-radius:var(--r-lg);
-    box-shadow:var(--shadow-sm);padding:22px;
-    display:flex;flex-direction:column;gap:14px;
-    transition:transform .45s cubic-bezier(.22,1,.36,1),box-shadow .45s ease;
+  /* ledger — catalogue entries */
+  .ledger{border-top:1px solid var(--ink-line-2)}
+  .lrow{
+    display:grid;grid-template-columns:200px 1fr 1fr;gap:32px;align-items:baseline;
+    padding:26px 4px;border-bottom:1px solid var(--ink-line);
+    transition:background .3s;
   }
-  .exhibit:hover{transform:translateY(-4px);box-shadow:var(--shadow-lg)}
-  .exhibit .word{font-family:var(--serif);font-size:24px;font-weight:500;letter-spacing:-.01em}
-  .exhibit .word span{font-size:11px;font-family:var(--sans);color:var(--ink-3);font-weight:600;letter-spacing:.12em;text-transform:uppercase;display:block;margin-top:3px}
-  .then-now{display:flex;flex-direction:column;gap:0;border-top:1px solid var(--line)}
-  .tn{padding:12px 0;border-bottom:1px solid var(--line)}
-  .tn:last-child{border-bottom:none}
-  .tn .tag{font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);display:block;margin-bottom:5px}
-  .tn.now .tag{color:var(--ok)}
-  .tn p{font-family:var(--serif);font-size:14.5px;line-height:1.5;color:var(--ink)}
-  .tn p i{color:var(--ink-2)}
-  .exhibit .verdict{font-size:12px;color:var(--ink-2);line-height:1.55;margin-top:auto;padding-top:4px}
+  .lrow:hover{background:rgba(236,225,203,.025)}
+  .lrow .word{font-family:var(--fell-sc);font-size:26px;color:var(--vellum);line-height:1.1}
+  .lrow .word span{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.06em;color:var(--vellum-3);margin-top:6px;text-transform:uppercase}
+  .lrow .col .t{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--vellum-3);display:block;margin-bottom:7px}
+  .lrow .col.now .t{color:var(--verdigris)}
+  .lrow .col p{font-family:var(--fell);font-size:15px;line-height:1.6;color:var(--vellum-2)}
+  .lrow .col p i{color:var(--brass)}
 
-  /* ---------- incidents ---------- */
-  .incidents-wrap{
-    margin-top:28px;border-radius:26px;padding:1px;
-    background:linear-gradient(135deg,rgba(166,58,43,.28),rgba(35,31,25,.10) 40%,rgba(166,58,43,.14));
-    box-shadow:var(--shadow-lg);
-  }
-  .incidents{
-    border-radius:25px;padding:clamp(24px,4vw,40px);
-    background:rgba(46,36,30,.88);
-    -webkit-backdrop-filter:blur(20px);backdrop-filter:blur(20px);
-    color:#f4ede2;
-  }
-  .incidents .inc-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:22px}
-  .incidents h3{font-family:var(--serif);font-weight:400;font-size:clamp(24px,3.4vw,32px);letter-spacing:-.015em}
-  .incidents h3 em{font-style:italic;color:#e8a487}
-  .incidents .inc-kicker{font-size:12.5px;color:rgba(244,237,226,.62);letter-spacing:.02em}
-  .inc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  /* wipe */
+  .wipe{position:relative;border-radius:var(--r);overflow:hidden;
+    border:1px solid var(--ink-line-2);box-shadow:0 30px 80px rgba(0,0,0,.5);
+    aspect-ratio:16/9;touch-action:pan-y;user-select:none;-webkit-user-select:none;
+    background:var(--room-2);cursor:ew-resize}
+  .wipe img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;pointer-events:none}
+  .wipe .after{clip-path:inset(0 0 0 var(--cut,50%))}
+  .wipe .cut-line{position:absolute;top:0;bottom:0;left:var(--cut,50%);width:1px;
+    background:var(--brass);box-shadow:0 0 10px rgba(201,162,75,.6);z-index:2;pointer-events:none}
+  .wipe .cut-knob{position:absolute;top:50%;left:var(--cut,50%);transform:translate(-50%,-50%);
+    width:46px;height:46px;border-radius:50%;z-index:3;pointer-events:none;
+    border:2px solid var(--brass);background:rgba(18,16,13,.6);
+    backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+    display:flex;align-items:center;justify-content:center;gap:2px;
+    font-family:var(--mono);font-size:12px;color:var(--brass)}
+  .wipe .wipe-tag{position:absolute;bottom:16px;z-index:2;pointer-events:none;
+    font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+    color:var(--vellum);background:rgba(18,16,13,.68);border:1px solid var(--ink-line);
+    backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);
+    border-radius:999px;padding:8px 14px}
+  .wipe .tag-then{left:16px}
+  .wipe .tag-now{right:16px;color:var(--verdigris)}
+
+  /* incident table */
+  .inctable{border:1px solid var(--ink-line-2);border-radius:var(--r);overflow:hidden;background:rgba(0,0,0,.22)}
   .inc{
-    border:1px solid rgba(244,237,226,.14);border-radius:var(--r-md);
-    background:rgba(255,255,255,.045);padding:20px;
-    display:flex;flex-direction:column;gap:12px;
+    display:grid;grid-template-columns:170px minmax(0,1fr) minmax(0,300px);gap:28px;
+    padding:26px 28px;border-bottom:1px solid var(--ink-line);
   }
-  .inc .inc-no{
-    display:flex;align-items:center;gap:8px;
-    font-size:10.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#e8a487;
+  .inc:last-child{border-bottom:none}
+  .inc .kind{font-family:var(--mono);font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--ember);padding-top:5px}
+  .inc h4{font-family:var(--fell);font-weight:400;font-size:22px;line-height:1.25;margin-bottom:8px;color:var(--vellum)}
+  .inc .body{font-size:13.5px;line-height:1.7;color:var(--vellum-2)}
+  .inc .body b{color:var(--vellum);font-weight:500}
+  .inc .evi{
+    font-family:var(--mono);font-size:11px;line-height:1.8;
+    border:1px solid var(--ink-line);border-radius:10px;padding:12px 14px;background:rgba(0,0,0,.25);
+    display:flex;flex-direction:column;gap:5px;align-self:start;
   }
-  .inc .inc-no::after{content:"";flex:1;height:1px;background:rgba(244,237,226,.14)}
-  .inc h4{font-family:var(--serif);font-weight:500;font-size:19px;letter-spacing:-.01em;line-height:1.25}
-  .inc .body{font-size:13px;line-height:1.65;color:rgba(244,237,226,.82)}
-  .inc .diff{
-    font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;line-height:1.7;
-    border:1px solid rgba(244,237,226,.12);border-radius:10px;padding:10px 12px;
-    background:rgba(0,0,0,.22);color:rgba(244,237,226,.85);
-    display:flex;flex-direction:column;gap:4px;margin-top:auto;
-  }
-  .inc .diff .row{display:flex;gap:8px}
-  .inc .diff .k{color:rgba(244,237,226,.45);flex:0 0 52px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding-top:2px}
-  .inc .diff .v-wrong{color:#f0b8a4}
-  .inc .diff .v-right{color:#b8d9b4}
+  .inc .evi .row{display:flex;gap:10px}
+  .inc .evi .k{color:var(--vellum-3);flex:0 0 52px;font-size:10px;letter-spacing:.1em;text-transform:uppercase;padding-top:2px}
+  .inc .evi .v-wrong{color:#d98a6e}
+  .inc .evi .v-right{color:var(--verdigris)}
   .inc-foot{
-    margin-top:22px;font-family:var(--serif);font-style:italic;font-size:15.5px;color:rgba(244,237,226,.72);
-    text-align:center;
+    margin-top:22px;font-family:var(--fell);font-style:italic;font-size:16px;color:var(--vellum-2);text-align:center;
   }
-  .inc-foot b{color:#e8a487;font-weight:500}
+  .inc-foot b{color:var(--brass);font-weight:400}
 
-  /* ---------- footer ---------- */
-  footer{padding:72px 0 46px}
-  .pipeline{
-    display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:8px;
+  /* footer */
+  footer{padding:96px 0 52px;text-align:center}
+  .pipeline{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:10px}
+  .pipe{
+    font-family:var(--mono);font-size:12px;color:var(--vellum-2);
+    border:1px solid var(--ink-line);border-radius:8px;padding:9px 15px;
+    background:var(--plate);display:inline-flex;align-items:center;gap:8px;
   }
-  .pipe-chip{
-    font-size:12px;font-weight:600;letter-spacing:.02em;color:var(--ink);
-    background:var(--glass-strong);border:1px solid var(--line);border-radius:999px;
-    padding:8px 15px;box-shadow:var(--shadow-sm);
-    display:inline-flex;align-items:center;gap:7px;
-  }
-  .pipe-chip .sub{color:var(--ink-3);font-weight:500}
-  .pipe-arrow{color:var(--ink-3);font-size:14px}
-  .foot-stats{
-    text-align:center;margin-top:22px;font-family:var(--serif);font-style:italic;font-size:16px;color:var(--ink-2);
-  }
-  .foot-note{
-    text-align:center;margin-top:14px;font-size:11.5px;color:var(--ink-3);line-height:1.7;max-width:560px;margin-left:auto;margin-right:auto;
-  }
-  .foot-mark{
-    text-align:center;margin-top:30px;font-family:var(--serif);font-size:15px;color:var(--ink-3);letter-spacing:.02em;
-  }
-  .foot-mark b{color:var(--accent);font-weight:600}
+  .pipe .sub{color:var(--vellum-3);font-size:11px}
+  .pipe-arrow{color:var(--brass);font-family:var(--fell);font-size:15px}
+  .foot-stats{margin-top:26px;font-family:var(--fell);font-style:italic;font-size:17px;color:var(--vellum-2)}
+  .foot-note{margin:16px auto 0;font-family:var(--mono);font-size:10.5px;color:var(--vellum-3);line-height:1.8;max-width:600px}
+  .colophon{margin-top:40px;font-family:var(--fell);font-size:15px;color:var(--vellum-3)}
+  .colophon b{color:var(--brass);font-weight:400}
 
-  /* ---------- reveal ---------- */
-  .reveal{opacity:0;transform:translateY(18px);transition:opacity .8s ease,transform .8s cubic-bezier(.22,1,.36,1)}
+  /* reveal — one quiet moment, not per-card theatrics */
+  .reveal{opacity:0;transform:translateY(14px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.7,.2,1)}
   .reveal.in{opacity:1;transform:none}
   @media (prefers-reduced-motion:reduce){
     .reveal{opacity:1;transform:none;transition:none}
     html{scroll-behavior:auto}
-    .url-prefix::after{animation:none}
   }
-
-  /* ---------- responsive ---------- */
   @media (max-width:860px){
-    .exhibits{grid-template-columns:1fr}
-    .inc-grid{grid-template-columns:1fr}
+    .sec-head{grid-template-columns:1fr}
+    .sec-head .note{justify-self:start}
+    .lrow{grid-template-columns:1fr;gap:14px;padding:22px 0}
+    .inc{grid-template-columns:1fr;gap:16px}
     .versus{grid-template-columns:1fr}
-    .chrome-badge{display:none}
+    .yearbox{text-align:left}
   }
   @media (max-width:520px){
-    .masthead{padding-top:48px}
-    .hero-head{flex-direction:column;align-items:flex-start}
-    .status-block{text-align:left}
-    .tl-stop-label{display:none}
-    .tl-tick-label.hide-sm{display:none}
+    .masthead{padding-top:60px}
+    .stop .slabel{display:none}
+    .tick-label.hide-sm{display:none}
     .panel{padding:24px 20px}
-    .columns-motif{display:none}
-    .url-pill{font-size:12.5px;padding:7px 12px}
+    .slip .tag{display:none}
+    .lens{width:56px;height:56px}
   }
 </style>
 </head>
 <body>
-<div class="grain" aria-hidden="true"></div>
-
-<!-- 1 · browser chrome / URL pill -->
-<header class="chrome reveal">
-  <div class="chrome-bar" role="img" aria-label="Address bar showing timelens dot wikipedia dot org slash wiki slash Basalt">
-    <div class="dots" aria-hidden="true"><span class="dot r"></span><span class="dot y"></span><span class="dot g"></span></div>
-    <div class="url-pill">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#98907f" stroke-width="2.4" stroke-linecap="round" aria-hidden="true">
-        <circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/>
-      </svg>
-      <span class="url-scheme">https://</span><span class="url-prefix">timelens.</span><span class="url-rest">wikipedia.org/wiki/Basalt</span>
-    </div>
-    <div class="chrome-badge">250 yrs of revisions</div>
-  </div>
-</header>
-
 <div class="wrap">
 
-  <div class="masthead reveal">
-    <span class="eyebrow">TimeLens</span>
-    <h1 class="brand">Knowledge,<br><em>across time.</em></h1>
-    <p class="tagline">Every encyclopedia is a snapshot of what we were willing to bet on.</p>
-    <p class="howto">Prefix any Wikipedia URL with <code>timelens.</code> and watch the topic travel — scanned page by scanned page — from contested speculation to settled fact.</p>
+  <!-- catalogue slip -->
+  <div class="slip reveal">
+    <div class="hole" aria-hidden="true"><i></i></div>
+    <div class="addr"><b>timelens.</b><span>wikipedia.org/wiki/Basalt</span></div>
+    <div class="tag">catalogue · 250 yrs</div>
   </div>
 
-  <!-- 2 · hero -->
-  <section class="hero">
-    <div class="hero-head reveal">
-      <div>
-        <div class="hero-kicker">Exhibit 01 · Geology</div>
-        <h2 class="hero-title">Basalt<span class="q">n. — a rock, probably.</span></h2>
+  <!-- masthead -->
+  <header class="masthead">
+    <div class="rule reveal"><span>TimeLens</span></div>
+    <h1 class="title reveal">Basalt.
+      <span class="sub">a rock, probably — an argument, certainly.</span>
+    </h1>
+    <p class="lede reveal">Prefix any Wikipedia URL with <code>timelens.</code> and pull the topic into focus across 250 years of encyclopedias — scanned page by scanned page, from contested speculation to settled fact.</p>
+  </header>
+
+  <!-- exhibit -->
+  <main>
+    <div class="exhibit-head">
+      <div class="entry reveal">Basalt.
+        <span class="def">the rock geology fought a war over</span>
       </div>
-      <div class="status-block">
-        <span class="status-pill record" id="statusPill"><span class="status-dot"></span><span id="statusText">Disputed — on the record</span></span>
-        <div class="year-readout" id="yearReadout">1810</div>
-        <div class="year-edition" id="editionLabel">Britannica, Fourth Edition</div>
+      <div class="yearbox reveal">
+        <div class="year" id="yearReadout">1810</div>
+        <div class="edition" id="editionLabel">Britannica, Fourth Edition</div>
+        <span class="status record" id="statusPill"><span class="dot"></span><span id="statusText">Disputed — on the record</span></span>
       </div>
     </div>
 
-    <!-- timeline -->
-    <div class="tl reveal" id="timeline">
-      <div class="tl-track" id="tlTrack">
-        <div class="tl-rail"></div>
-        <div class="tl-fill" id="tlFill"></div>
-        <!-- ticks and stops injected by JS -->
-        <div class="tl-knob" id="tlKnob" role="slider" tabindex="0"
+    <!-- the object under the lens -->
+    <div class="stage reveal" id="stage" aria-hidden="true">
+      <span class="frame-mark fm-tl"></span><span class="frame-mark fm-tr"></span>
+      <span class="frame-mark fm-bl"></span><span class="frame-mark fm-br"></span>
+      <img src="assets/war.png" alt="Engraving-style AI illustration: two 1790s natural philosophers disputing whether basalt came from ocean or fire">
+      <img src="assets/record.jpg" alt="Original scanned page: Britannica fourth edition, MINERALOGY, containing the unresolved basalt controversy">
+      <img src="assets/verdict.png" alt="Engraving-style AI illustration of Fingal's Cave basalt columns with a volcanic glow">
+      <img src="assets/today.png" alt="AI-generated photoreal Giant's Causeway at golden hour">
+      <span class="cap"><b id="stageCapKind">AI engraving</b><span class="sep">·</span><span id="stageCapText">how the fight was pictured</span></span>
+    </div>
+
+    <!-- instrument rail -->
+    <div class="rail reveal" id="timeline">
+      <div class="rail-track" id="railTrack">
+        <div class="rail-line"></div>
+        <div class="rail-fill" id="railFill"></div>
+        <div class="lens" id="lens" role="slider" tabindex="0"
              aria-label="Timeline year" aria-valuemin="1770" aria-valuemax="2025" aria-valuenow="1810"
              aria-valuetext="1810 — Britannica, Fourth Edition">
-          <span class="grip" aria-hidden="true"><i></i><i></i><i></i></span>
-          <span id="knobYear">1810</span>
+          <span class="ret" aria-hidden="true"></span>
+          <span class="lyr" id="lensYear">1810</span>
         </div>
       </div>
-      <div class="tl-hint">Drag the lens through 250 years — <kbd>←</kbd> <kbd>→</kbd> to step between editions</div>
+      <div class="rail-hint">drag the lens through 250 years — <kbd>←</kbd> <kbd>→</kbd> to step between editions</div>
     </div>
 
-    <!-- crossfading cards -->
+    <!-- era plates -->
     <div class="deck" id="deck">
 
-      <!-- stop 1 · the geology war -->
       <article class="panel" data-stop="0">
-        <div class="panel-eyebrow">c. 1795 · The context<span class="src">Neptune vs. Vulcan</span></div>
+        <span class="plate-no">plate i.</span>
         <h3>The great geology war</h3>
-        <p class="lede">When the encyclopedia reached <em>BASALT</em>, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>
+        <p class="lede2">When the encyclopedia reached BASALT, it walked into a fight already decades old: was this black rock laid down by water, or born of fire?</p>
         <div class="versus">
           <div class="side water">
             <div class="flag">Neptunists · water</div>
@@ -469,166 +448,151 @@
         </div>
       </article>
 
-      <!-- stop 2 · the record -->
       <article class="panel" data-stop="1">
-        <div class="panel-eyebrow">1810 · The record<span class="src">Britannica, 4th ed. — “Mineralogy”</span></div>
+        <span class="plate-no">plate ii.</span>
         <h3>An encyclopedia hedges</h3>
         <blockquote class="quote">
           “No subject in geological speculation has produced more controversy than the origin of basalt; one party asserting that it is the effect of <em>fire</em>, another that it has been deposited from an <em>aqueous solution</em>. <span class="hedge">Our limits preclude us even from literally stating the arguments…”</span>
         </blockquote>
         <p>What the page could report was experiment:</p>
         <div class="chips">
-          <span class="chip">Before the blowpipe, <b>melts into an opaque black glass</b></span>
-          <span class="chip"><b>Affects the magnetic needle</b> — “the great proportion of iron”</span>
-          <span class="chip">A <b>ringing sound</b> under the hammer</span>
-          <span class="chip"><b>Regular columns</b> at Staffa, the Hebrides &amp; the Giant's Causeway</span>
+          <span class="chip">blowpipe → <b>an opaque black glass</b></span>
+          <span class="chip"><b>affects the magnetic needle</b> — “the great proportion of iron”</span>
+          <span class="chip">a <b>ringing sound</b> under the hammer</span>
+          <span class="chip"><b>regular columns</b> at Staffa &amp; the Giant's Causeway</span>
         </div>
-        <p class="smallprint">Quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged. The page itself declines to pick a side — the hedge is part of the record.</p>
+        <p class="smallprint">quotation lightly cleaned from machine OCR for legibility; the original scan and run artifacts are preserved unchanged · bri-2376-3186638c36ec</p>
       </article>
 
-      <!-- stop 3 · the reversal -->
       <article class="panel" data-stop="2">
-        <div class="panel-eyebrow">1830s · The reversal<span class="src">Britannica, 7th ed. — “Mineralogy / Geology”</span></div>
+        <span class="plate-no">plate iii.</span>
         <h3>The same book <em>changes its mind</em></h3>
-        <p class="lede">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>“later than the chalk”</em> — and says what the fourth could not:</p>
+        <p class="lede2">A few editions later the hedge is gone. The seventh edition files the basalts of Staffa and Ireland <em>“later than the chalk”</em> — and says what the fourth could not:</p>
         <blockquote class="quote">
           Basalts “identical with <em>products of active volcanoes</em>” — the action “of the same kind as that exerted by an active volcano.” <span class="hedge">It was, in fact, volcanic.</span>
         </blockquote>
         <p>The controversy was not settled by an argument. It was settled in print, edition by edition, by the same encyclopedia that once refused to pick a side.</p>
-        <p class="smallprint">Quotation lightly cleaned from machine OCR of the scanned seventh-edition page; the original scan is preserved alongside the fourth-edition one. This is the lens's favorite kind of evidence: Britannica versus Britannica.</p>
+        <p class="smallprint">quotation lightly cleaned from machine OCR of the scanned seventh-edition page · bri-0966-64586d30c5c9 · the lens's favorite evidence: Britannica versus Britannica</p>
       </article>
 
-      <!-- stop 4 · today -->
       <article class="panel" data-stop="3">
-        <div class="panel-eyebrow">Today · The resolution<span class="src">Wikipedia — “Basalt”, “Igneous textures”</span></div>
+        <span class="plate-no">plate iv.</span>
         <h3>Settled: <em>fire won.</em></h3>
-        <p class="lede">“Basalt is a common igneous rock.”</p>
+        <p class="lede2">“Basalt is a common igneous rock.”</p>
         <p>Lava that crystallized too fast for its grains to be seen — an <em>aphanitic</em> texture, in the modern vocabulary. The columns the fourth edition could only describe are now understood as cooling joints, and the rock the Neptunists owed to the ocean floors the ocean itself.</p>
         <div class="chips">
-          <span class="chip accent"><b>Cooled lava</b> — the Vulcanists were right</span>
-          <span class="chip"><b>Aphanitic</b> — crystals too fine to see unaided</span>
-          <span class="chip"><b>Columnar jointing</b> — Giant's Causeway</span>
-          <span class="chip">The <b>ocean floor</b> is mostly basalt</span>
+          <span class="chip hot"><b>cooled lava</b> — the Vulcanists were right</span>
+          <span class="chip"><b>aphanitic</b> — crystals too fine to see unaided</span>
+          <span class="chip"><b>columnar jointing</b> — Giant's Causeway</span>
+          <span class="chip">the <b>ocean floor</b> is mostly basalt</span>
         </div>
-        <svg class="columns-motif" viewBox="0 0 210 88" aria-hidden="true">
-          <g fill="#231f19">
-            <rect x="0"   y="34" width="16" height="54" opacity=".07" rx="3"/>
-            <rect x="19"  y="20" width="16" height="68" opacity=".10" rx="3"/>
-            <rect x="38"  y="40" width="16" height="48" opacity=".06" rx="3"/>
-            <rect x="57"  y="14" width="16" height="74" opacity=".11" rx="3"/>
-            <rect x="76"  y="30" width="16" height="58" opacity=".08" rx="3"/>
-            <rect x="95"  y="46" width="16" height="42" opacity=".05" rx="3"/>
-            <rect x="114" y="24" width="16" height="64" opacity=".10" rx="3"/>
-            <rect x="133" y="38" width="16" height="54" opacity=".07" rx="3"/>
-            <rect x="152" y="16" width="16" height="72" opacity=".11" rx="3"/>
-            <rect x="171" y="32" width="16" height="56" opacity=".08" rx="3"/>
-            <rect x="190" y="44" width="16" height="44" opacity=".05" rx="3"/>
-          </g>
-          <rect x="57" y="14" width="16" height="6" fill="#b8491f" opacity=".28" rx="2"/>
-        </svg>
       </article>
     </div>
-  </section>
 
-  <!-- 3 · not a one-off -->
-  <section class="block">
-    <div class="sec-head reveal">
-      <span class="num">02</span>
-      <h2>Not <em>a one-off.</em></h2>
-      <p>The same lens turns on anything Britannica ever printed. Three more exhibits from the scanned pages — each claim pinned to a real region ID.</p>
-    </div>
-    <div class="exhibits">
-      <div class="exhibit reveal">
-        <div class="word">Electricity<span>Supplement to the 3rd ed. → Wikipedia</span></div>
-        <div class="then-now">
-          <div class="tn"><span class="tag">Then</span><p>“The distribution of the <i>electric fluid</i> in bodies” — an invisible fluid, present in excess or deficit.</p></div>
-          <div class="tn now"><span class="tag">Now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p></div>
-        </div>
-        <p class="verdict">The fluid is gone; the careful experiments it provoked are still on the page.</p>
+    <!-- ledger of other exhibits -->
+    <section class="block">
+      <div class="sec-head reveal">
+        <h2>The same lens, <em>turned elsewhere.</em></h2>
+        <p class="margin-note note">— every claim pinned to a real source region, nothing staged.</p>
       </div>
-      <div class="exhibit reveal">
-        <div class="word">Cloud<span>Sixth ed. → Wikipedia</span></div>
-        <div class="then-now">
-          <div class="tn"><span class="tag">Then</span><p>“A collection of <i>vapours</i> suspended in the atmosphere” — and an open question: do clouds form because vapour is electrified, or become electrified as they form?</p></div>
-          <div class="tn now"><span class="tag">Now</span><p>“A visible mass of <i>condensed droplets or frozen crystals</i> suspended in the atmosphere.”</p></div>
+      <div class="ledger reveal">
+        <div class="lrow">
+          <div class="word">Electricity<span>Suppl. 3rd ed. → Wikipedia</span></div>
+          <div class="col"><span class="t">then</span><p>“the distribution of the <i>electric fluid</i> in bodies” — an invisible substance, present in excess or deficit.</p></div>
+          <div class="col now"><span class="t">now</span><p><i>Fluid theory of electricity</i> — du Fay's two fluids and Franklin's one, catalogued as a superseded model.</p></div>
         </div>
-        <p class="verdict">The definition settled; the old entry's honest “hath not yet been ascertained” survived the transition.</p>
-      </div>
-      <div class="exhibit reveal">
-        <div class="word">Chlamys<span>Sixth ed. → Wikipedia</span></div>
-        <div class="then-now">
-          <div class="tn"><span class="tag">Then</span><p>A <i>military cloak</i> worn over the tunic — the emperors' were purple, bordered in gold.</p></div>
-          <div class="tn now"><span class="tag">Now</span><p>A <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak.</p></div>
+        <div class="lrow">
+          <div class="word">Cloud<span>Sixth ed. → Wikipedia</span></div>
+          <div class="col"><span class="t">then</span><p>“a collection of <i>vapours</i> suspended in the atmosphere” — and an open question: electrified before, or after, they form?</p></div>
+          <div class="col now"><span class="t">now</span><p>“a visible mass of <i>condensed droplets or frozen crystals</i>” — the definition settled; the old “hath not yet been ascertained” survived with it.</p></div>
         </div>
-        <p class="verdict">A matching name is not the same subject. The lens disambiguates the senses, not just the string.</p>
+        <div class="lrow">
+          <div class="word">Chlamys<span>Sixth ed. → Wikipedia</span></div>
+          <div class="col"><span class="t">then</span><p>a <i>military cloak</i> worn over the tunic — the emperors' were purple, bordered in gold.</p></div>
+          <div class="col now"><span class="t">now</span><p>a <i>genus of small scallops</i> — named, Wikipedia notes, after the Greek cloak. A matching name is not the same subject.</p></div>
+        </div>
       </div>
-    </div>
-  </section>
+    </section>
 
-  <!-- 4 · caught in the act -->
-  <section class="block">
-    <div class="sec-head reveal">
-      <span class="num">03</span>
-      <h2>Caught <em>in the act.</em></h2>
-      <p>We pointed Nemotron at Nemotron. These are real failure modes from our own agent's run traces — the machine doing exactly what the encyclopedists did: filling damaged evidence with the nearest plausible story.</p>
-    </div>
-    <div class="incidents-wrap reveal">
-      <div class="incidents">
-        <div class="inc-head">
-          <h3>Incident <em>report.</em></h3>
-          <span class="inc-kicker">From actual run JSON · no answer edited after the fact</span>
-        </div>
-        <div class="inc-grid">
-          <div class="inc">
-            <div class="inc-no">INC·01 · Anachronism</div>
+    <!-- heat: the wipe -->
+    <section class="block">
+      <div class="sec-head reveal">
+        <h2>Heat: <em>fluid, then motion.</em></h2>
+        <p class="margin-note note">— the experiment that killed the caloric theory; drag the seam.</p>
+      </div>
+      <div class="wipe reveal" id="wipe">
+        <img class="before" src="assets/rumford-then.png" alt="AI engraving of the 1798 Munich cannon-boring workshop">
+        <img class="after" src="assets/rumford-now.png" alt="AI illustration of vibrating copper atoms radiating heat at the boring interface">
+        <div class="cut-line"></div>
+        <div class="cut-knob" aria-hidden="true">‹ ›</div>
+        <span class="wipe-tag tag-then">1798 · caloric — a fluid</span>
+        <span class="wipe-tag tag-now">today · kinetic — motion</span>
+      </div>
+      <p class="smallprint reveal" style="margin-top:18px">Both images are FLUX illustrations generated for this exhibit — the engraving is not an archival print. In 1798 Benjamin Thompson — Count Rumford — bored cannon at the Munich arsenal and watched the heat come without limit: what a body can furnish inexhaustibly, he argued, cannot be a substance — “except it be MOTION.” Paper: “An Inquiry Concerning the Source of the Heat which is Excited by Friction,” Philosophical Transactions. Expandable-timeline concept follows Suh et al., “KnowledgeTrail,” arXiv:2510.12113.</p>
+    </section>
+
+    <!-- incident table -->
+    <section class="block">
+      <div class="sec-head reveal">
+        <h2>Caught <em>in the act.</em></h2>
+        <p class="margin-note note">— we pointed Nemotron at Nemotron. Real run traces, nothing edited.</p>
+      </div>
+      <div class="inctable reveal">
+        <div class="inc">
+          <div class="kind">anachronism</div>
+          <div>
             <h4>The nearest famous name</h4>
-            <p class="body">In the historical CLOUD entry the scan names <b>S.&nbsp;Beccaria</b>. The OCR garbled it to “S.&nbsp;Bec-certa” — and the agent wrote <b>S.&nbsp;Becquerel</b>, a physicist who would not be born until 1852, into its answer and into an edited quotation.</p>
-            <div class="diff">
-              <div class="row"><span class="k">Scan</span><span class="v-right">S. Beccaria</span></div>
-              <div class="row"><span class="k">OCR</span><span>“S. Bec-certa”</span></div>
-              <div class="row"><span class="k">Agent</span><span class="v-wrong">S. Becquerel (b. 1852)</span></div>
-            </div>
+            <p class="body">In the historical CLOUD entry the scan names <b>S.&nbsp;Beccaria</b>. The OCR garbled it to “S.&nbsp;Bec-certa” — and the agent wrote <b>S.&nbsp;Becquerel</b>, a physicist who would not be born until 1852, into its answer and into an edited quotation. The machine did what the encyclopedists did: filled damaged evidence with the nearest plausible story.</p>
           </div>
-          <div class="inc">
-            <div class="inc-no">INC·02 · Scan-false</div>
-            <h4>Faithful to the text, wrong about the page</h4>
-            <p class="body">Asked what substance restored chocolate's electrical effect, the agent answered <b>alcohol</b> — faithfully quoting the stored transcription, while openly admitting it had never seen the scan. The scan says <b>olive-oil</b>.</p>
-            <div class="diff">
-              <div class="row"><span class="k">Scan</span><span class="v-right">“a small quantity of olive-oil”</span></div>
-              <div class="row"><span class="k">OCR</span><span>“a small quantity of alcohol”</span></div>
-              <div class="row"><span class="k">Agent</span><span class="v-wrong">alcohol — disclosed, wrong</span></div>
-            </div>
-          </div>
-          <div class="inc">
-            <div class="inc-no">INC·03 · False verification</div>
-            <h4>A guess promoted to “verified”</h4>
-            <p class="body">Faced with “an influential metal difarified with with a elettronter,” the agent proposed <b>“electrified metal dish”</b> — then called the guess the verified historical reading. The scan reads “an insulated metal dish furnished with an electrometer.”</p>
-            <div class="diff">
-              <div class="row"><span class="k">Scan</span><span class="v-right">“an insulated metal dish…”</span></div>
-              <div class="row"><span class="k">OCR</span><span>“an influential metal difarified…”</span></div>
-              <div class="row"><span class="k">Agent</span><span class="v-wrong">“electrified” — labeled verified</span></div>
-            </div>
+          <div class="evi">
+            <div class="row"><span class="k">scan</span><span class="v-right">S. Beccaria</span></div>
+            <div class="row"><span class="k">ocr</span><span>“S. Bec-certa”</span></div>
+            <div class="row"><span class="k">agent</span><span class="v-wrong">S. Becquerel (b. 1852)</span></div>
           </div>
         </div>
-        <p class="inc-foot">Documented, reproduced, and reported — <b>so the models improve.</b></p>
+        <div class="inc">
+          <div class="kind">scan-false</div>
+          <div>
+            <h4>Faithful to the text, wrong about the page</h4>
+            <p class="body">Asked what substance restored chocolate's electrical effect, the agent answered <b>alcohol</b> — faithfully quoting the stored transcription, while openly admitting it had never seen the scan. The scan says <b>olive-oil</b>. A quote can be accurate to the OCR and false to the source.</p>
+          </div>
+          <div class="evi">
+            <div class="row"><span class="k">scan</span><span class="v-right">“a small quantity of olive-oil”</span></div>
+            <div class="row"><span class="k">ocr</span><span>“a small quantity of alcohol”</span></div>
+            <div class="row"><span class="k">agent</span><span class="v-wrong">alcohol — disclosed, wrong</span></div>
+          </div>
+        </div>
+        <div class="inc">
+          <div class="kind">false verification</div>
+          <div>
+            <h4>A guess promoted to “verified”</h4>
+            <p class="body">Faced with “an influential metal difarified with with a elettronter,” the agent declared the answer <b>“Verified original wording”</b> — though it never saw the image. The scan reads “an insulated metal dish furnished with an electrometer.” The warning not to fabricate verified readings was in the prompt. It did not hold.</p>
+          </div>
+          <div class="evi">
+            <div class="row"><span class="k">scan</span><span class="v-right">“an insulated metal dish…”</span></div>
+            <div class="row"><span class="k">ocr</span><span>“an influential metal difarified…”</span></div>
+            <div class="row"><span class="k">agent</span><span class="v-wrong">“influential metal diffused…” — called verified</span></div>
+          </div>
+        </div>
       </div>
-    </div>
-  </section>
+      <p class="inc-foot reveal">Documented, reproduced, and reported — <b>so the models improve.</b></p>
+    </section>
+  </main>
 
-  <!-- 5 · footer -->
-  <footer class="reveal">
-    <div class="pipeline">
-      <span class="pipe-chip">Nemotron Parse 3.5</span>
+  <!-- colophon -->
+  <footer>
+    <div class="pipeline reveal">
+      <span class="pipe">Nemotron Parse 3.5</span>
       <span class="pipe-arrow">→</span>
-      <span class="pipe-chip">Embed VL</span>
+      <span class="pipe">Embed VL</span>
       <span class="pipe-arrow">→</span>
-      <span class="pipe-chip">Rerank VL <span class="sub">· RTX PRO 6000</span></span>
+      <span class="pipe">Rerank VL <span class="sub">· RTX PRO 6000</span></span>
       <span class="pipe-arrow">→</span>
-      <span class="pipe-chip">Super VL agent</span>
+      <span class="pipe">Super VL agent</span>
     </div>
-    <p class="foot-stats">100 scanned pages · eight editions, 1768–1860 · every claim cited</p>
-    <p class="foot-note">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending.</p>
-    <p class="foot-mark"><b>timelens.</b> — prepend it to anything we thought we knew.</p>
+    <p class="foot-stats reveal">100 scanned pages · eight editions, 1768–1860 · every claim cited</p>
+    <p class="foot-note reveal">Historical quotations are lightly cleaned from machine OCR for legibility; original scans and immutable run artifacts are preserved. Incidents are drawn from real run traces — mitigations are in, replays pending. AI illustrations are labeled; the page image at the 1810 stop is the genuine scan.</p>
+    <p class="colophon reveal"><b>timelens.</b> — prepend it to anything we thought we knew.</p>
   </footer>
 </div>
 
@@ -637,67 +601,86 @@
   "use strict";
   var YEAR_MIN = 1770, YEAR_MAX = 2025;
   var STOPS = [
-    { year: 1795, label: "The war",      status: "Disputed — water vs. fire",   cls: "contested", edition: "The field, mid-argument" },
-    { year: 1810, label: "The record",   status: "Disputed — on the record",    cls: "record",    edition: "Britannica, Fourth Edition" },
-    { year: 1835, label: "The verdict",  status: "Verdict — in fact volcanic",  cls: "record",    edition: "Britannica, Seventh Edition" },
-    { year: 2025, label: "Today",        status: "Settled — igneous",           cls: "settled",   edition: "Wikipedia, live revision" }
+    { year: 1795, label: "the war",      status: "Disputed — water vs. fire",  cls: "contested", edition: "The field, mid-argument",     capKind: "AI engraving",  cap: "how the fight was pictured" },
+    { year: 1810, label: "the record",   status: "Disputed — on the record",   cls: "record",    edition: "Britannica, Fourth Edition",  capKind: "Original scan", cap: "the actual fourth-edition page" },
+    { year: 1835, label: "the verdict",  status: "Verdict — in fact volcanic", cls: "record",    edition: "Britannica, Seventh Edition", capKind: "AI engraving",  cap: "the verdict, as they came to see it" },
+    { year: 2025, label: "today",        status: "Settled — igneous",          cls: "settled",   edition: "Wikipedia, live revision",    capKind: "AI photograph", cap: "the settled view" }
   ];
   var stopsPos = STOPS.map(function(s){ return (s.year - YEAR_MIN) / (YEAR_MAX - YEAR_MIN); });
 
-  var track    = document.getElementById('tlTrack');
-  var fill     = document.getElementById('tlFill');
-  var knob     = document.getElementById('tlKnob');
-  var knobYear = document.getElementById('knobYear');
+  var track    = document.getElementById('railTrack');
+  var fill     = document.getElementById('railFill');
+  var lens     = document.getElementById('lens');
+  var lensYear = document.getElementById('lensYear');
   var yearOut  = document.getElementById('yearReadout');
   var editionEl= document.getElementById('editionLabel');
   var pill     = document.getElementById('statusPill');
   var pillText = document.getElementById('statusText');
   var deck     = document.getElementById('deck');
   var panels   = Array.prototype.slice.call(deck.querySelectorAll('.panel'));
+  var stage    = document.getElementById('stage');
+  var stageImgs= stage ? Array.prototype.slice.call(stage.querySelectorAll('img')) : [];
+  var stageCapKind = document.getElementById('stageCapKind');
+  var stageCapText = document.getElementById('stageCapText');
+  var wipeEl   = document.getElementById('wipe');
 
   var reduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* hide generated-image blocks gracefully when assets are absent */
+  if (stage) {
+    var hideStageIfAllBroken = function(){
+      if (stageImgs.every(function(i){ return i.dataset.broken; })) stage.style.display = 'none';
+    };
+    stageImgs.forEach(function(im){
+      var broke = function(){ im.dataset.broken = '1'; im.style.opacity = 0; hideStageIfAllBroken(); };
+      if (im.complete && im.naturalWidth === 0) broke();
+      im.addEventListener('error', broke);
+    });
+  }
+  if (wipeEl) {
+    var wipeImgs = Array.prototype.slice.call(wipeEl.querySelectorAll('img'));
+    var hideWipeIfAllBroken = function(){
+      if (wipeImgs.every(function(i){ return i.dataset.broken; })) wipeEl.style.display = 'none';
+    };
+    wipeImgs.forEach(function(im){
+      var broke = function(){ im.dataset.broken = '1'; im.style.opacity = 0; hideWipeIfAllBroken(); };
+      if (im.complete && im.naturalWidth === 0) broke();
+      im.addEventListener('error', broke);
+    });
+  }
 
   /* ---- build ticks + stops ---- */
   var MAJORS = [1770, 1800, 1850, 1900, 1950, 2000];
   for (var y = 1770; y <= 2020; y += 10) {
     var t = document.createElement('span');
     var major = MAJORS.indexOf(y) !== -1;
-    t.className = 'tl-tick' + (major ? ' major' : '');
+    t.className = 'tick' + (major ? ' major' : '');
     t.style.left = ((y - YEAR_MIN) / (YEAR_MAX - YEAR_MIN) * 100) + '%';
-    track.insertBefore(t, knob);
+    track.insertBefore(t, lens);
     if (major) {
       var tl = document.createElement('span');
-      tl.className = 'tl-tick-label' + ((y === 1770 || y === 2000) ? '' : ' hide-sm');
+      tl.className = 'tick-label' + ((y === 1770 || y === 2000) ? '' : ' hide-sm');
       tl.style.left = t.style.left;
       tl.textContent = y;
-      track.insertBefore(tl, knob);
+      track.insertBefore(tl, lens);
     }
   }
-  var endTick = document.createElement('span');
-  endTick.className = 'tl-tick major';
-  endTick.style.left = '100%';
-  track.insertBefore(endTick, knob);
-  var endLbl = document.createElement('span');
-  endLbl.className = 'tl-tick-label';
-  endLbl.style.left = 'calc(100% - 8px)';
-  endLbl.textContent = 'now';
-  track.insertBefore(endLbl, knob);
   var stopEls = STOPS.map(function(s, i){
     var el = document.createElement('button');
     el.type = 'button';
-    el.className = 'tl-stop' + (i === STOPS.length - 1 ? ' settled' : '');
+    el.className = 'stop' + (i === STOPS.length - 1 ? ' settled' : '');
     el.style.left = (stopsPos[i] * 100) + '%';
     el.setAttribute('aria-label', 'Jump to ' + s.year + ' — ' + s.label);
-    el.innerHTML = '<span class="tl-stop-label">' + s.label + '</span><span class="tl-stop-dot"></span>';
+    el.innerHTML = '<span class="slabel">' + s.label + '</span><i></i>';
     el.addEventListener('click', function(){ goTo(i); });
-    track.insertBefore(el, knob);
+    track.insertBefore(el, lens);
     return el;
   });
 
   /* ---- motion state ---- */
-  var pos = stopsPos[1];          // start on the 1810 record
+  var pos = stopsPos[1];
   var target = pos;
-  var vel = 0;                    // pos units per second
+  var vel = 0;
   var dragging = false;
   var tweening = false, twFrom = 0, twTo = 0, twStart = 0, twDur = 0;
   var lastT = performance.now();
@@ -727,18 +710,18 @@
 
   /* ---- pointer ---- */
   var lastX = 0, lastMoveT = 0;
-  knob.addEventListener('pointerdown', function(e){
+  lens.addEventListener('pointerdown', function(e){
     dragging = true; tweening = false; vel = 0;
-    knob.setPointerCapture(e.pointerId);
+    lens.setPointerCapture(e.pointerId);
     lastX = e.clientX; lastMoveT = performance.now();
     e.preventDefault();
   });
   track.addEventListener('pointerdown', function(e){
-    if (e.target === knob || knob.contains(e.target)) return;
+    if (e.target === lens || lens.contains(e.target)) return;
     dragging = true; tweening = false; vel = 0;
     target = posFromEvent(e);
     lastX = e.clientX; lastMoveT = performance.now();
-    knob.setPointerCapture(e.pointerId);
+    lens.setPointerCapture(e.pointerId);
     e.preventDefault();
   });
   window.addEventListener('pointermove', function(e){
@@ -748,7 +731,7 @@
     var newTarget = clamp((e.clientX - r.left) / r.width, 0, 1);
     var dt = (now - lastMoveT) / 1000;
     if (dt > 0.005) {
-      vel = vel * 0.5 + ((newTarget - target) / dt) * 0.5;   // smoothed velocity
+      vel = vel * 0.5 + ((newTarget - target) / dt) * 0.5;
       lastMoveT = now;
     }
     target = newTarget;
@@ -757,48 +740,58 @@
   window.addEventListener('pointerup', function(){
     if (!dragging) return;
     dragging = false;
-    vel = clamp(vel, -1.2, 1.2);   // cap fling speed
+    vel = clamp(vel, -1.6, 1.6);
   });
 
-  knob.addEventListener('keydown', function(e){
-    var i = tweening ? nearestStop(twTo) : nearestStop(pos);
+  lens.addEventListener('keydown', function(e){
+    var i = nearestStop(pos);
     if (e.key === 'ArrowRight' || e.key === 'ArrowUp')   { goTo(Math.min(i + 1, STOPS.length - 1)); e.preventDefault(); }
     if (e.key === 'ArrowLeft'  || e.key === 'ArrowDown') { goTo(Math.max(i - 1, 0)); e.preventDefault(); }
     if (e.key === 'Home') { goTo(0); e.preventDefault(); }
     if (e.key === 'End')  { goTo(STOPS.length - 1); e.preventDefault(); }
   });
 
+  /* ---- focus: blur scales with distance to the nearest stop ---- */
+  function focusAmount(i, weight){
+    /* weight 1 = settled on stop i -> blur 0; between stops -> soft */
+    return (1 - weight) * 3.2;
+  }
+
   /* ---- render ---- */
   function render(){
     var year = Math.round(YEAR_MIN + pos * (YEAR_MAX - YEAR_MIN));
-    knob.style.left = (pos * 100) + '%';
+    lens.style.left = (pos * 100) + '%';
     fill.style.width = (pos * 100) + '%';
     if (year !== lastYearShown) {
       lastYearShown = year;
-      knobYear.textContent = year;
+      lensYear.textContent = year;
       yearOut.textContent = year;
-      knob.setAttribute('aria-valuenow', year);
+      lens.setAttribute('aria-valuenow', year);
     }
 
-    /* nearest stop drives status + active dots */
-    var shownIdx = nearestStop(pos);
+    var ni = nearestStop(pos);
+    var nearDist = Math.abs(stopsPos[ni] - pos);
+    var inGrip = nearDist < 0.045;
+    var shownIdx = inGrip ? ni : nearestStop(pos);
     if (shownIdx !== lastStopIdx) {
       lastStopIdx = shownIdx;
       var s = STOPS[shownIdx];
       pillText.textContent = s.status;
       editionEl.textContent = s.edition;
-      pill.className = 'status-pill ' + s.cls;
-      knob.setAttribute('aria-valuetext', year + ' — ' + s.edition);
+      pill.className = 'status ' + s.cls;
+      lens.setAttribute('aria-valuetext', year + ' — ' + s.edition);
+      if (stageCapText) {
+        stageCapKind.textContent = s.capKind;
+        stageCapKind.style.color = s.capKind.indexOf('AI') === 0 ? '#cf5a30' : '#7fa08b';
+        stageCapText.textContent = s.cap;
+      }
     }
     stopEls.forEach(function(el, i){ el.classList.toggle('active', i === shownIdx); });
 
-    /* crossfade panels: piecewise blend between adjacent stops */
     for (var i = 0; i < panels.length; i++) {
       var w = 0;
       if (pos <= stopsPos[i] && i === 0) w = pos <= stopsPos[0] ? 1 : 0;
       if (i > 0 && pos <= stopsPos[i] && pos >= stopsPos[i - 1]) {
-        w = 1 - smooth((pos - stopsPos[i - 1]) / (stopsPos[i] - stopsPos[i - 1]));
-        w = 1 - w; /* weight of panel i rising */
         w = smooth((pos - stopsPos[i - 1]) / (stopsPos[i] - stopsPos[i - 1]));
       }
       if (i < panels.length - 1 && pos >= stopsPos[i] && pos <= stopsPos[i + 1]) {
@@ -808,9 +801,13 @@
       w = clamp(w, 0, 1);
       var p = panels[i];
       p.style.opacity = w;
-      p.style.transform = 'translateY(' + ((1 - w) * 14) + 'px) scale(' + (0.985 + w * 0.015) + ')';
+      p.style.transform = 'translateY(' + ((1 - w) * 12) + 'px)';
       p.classList.toggle('front', w > 0.6);
       p.style.visibility = w < 0.02 ? 'hidden' : 'visible';
+      if (stageImgs[i] && !stageImgs[i].dataset.broken) {
+        stageImgs[i].style.opacity = w;
+        stageImgs[i].style.filter = 'blur(' + focusAmount(i, w).toFixed(2) + 'px) brightness(' + (0.82 + w * 0.18).toFixed(3) + ')';
+      }
     }
   }
 
@@ -826,16 +823,15 @@
     } else if (dragging) {
       pos += (target - pos) * (reduced ? 1 : Math.min(1, dt * 18));
     } else {
-      /* inertia, then settle into nearest stop */
-      if (Math.abs(vel) > 0.05) {
+      if (Math.abs(vel) > 0.02) {
         pos = clamp(pos + vel * dt, 0, 1);
         if (pos === 0 || pos === 1) vel = 0;
-        vel *= Math.pow(0.015, dt);     // exponential friction
+        vel *= Math.pow(0.06, dt);
       } else {
         var ns = stopsPos[nearestStop(pos)];
         var d = ns - pos;
         if (Math.abs(d) > 0.0004) {
-          pos += d * Math.min(1, dt * 8);   // soft spring home
+          pos += d * Math.min(1, dt * 7);
         } else { pos = ns; }
       }
     }
@@ -844,6 +840,23 @@
   }
   render();
   requestAnimationFrame(frame);
+
+  /* ---- before/after wipe ---- */
+  if (wipeEl) {
+    var wipeDrag = false;
+    var setCut = function(p){ wipeEl.style.setProperty('--cut', (clamp(p,0,1) * 100) + '%'); };
+    var wipeMove = function(e){
+      var r = wipeEl.getBoundingClientRect();
+      setCut((e.clientX - r.left) / r.width);
+    };
+    wipeEl.addEventListener('pointerdown', function(e){
+      wipeDrag = true; wipeEl.setPointerCapture(e.pointerId);
+      wipeMove(e); e.preventDefault();
+    });
+    window.addEventListener('pointermove', function(e){ if (wipeDrag) wipeMove(e); });
+    window.addEventListener('pointerup', function(){ wipeDrag = false; });
+    setCut(0.5);
+  }
 
   /* ---- scroll reveal ---- */
   var revealEls = document.querySelectorAll('.reveal');
