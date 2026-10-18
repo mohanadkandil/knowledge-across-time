@@ -231,19 +231,27 @@ export default function Home() {
         if (!a.url) return;
         var im = document.createElement('img');
         im.alt = 'AI illustration — generated live';
-        pending.push(new Promise(function(ok){
-          im.addEventListener('load', ok); im.addEventListener('error', ok);
-        }));
         if (a.role === 'then' || a.role === 'now') {
           var idx = a.role === 'now' ? stageItems.length - 1 : 0;
           im.className = 'stage-item';
-          var old = stageItems[idx];
-          if (old) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
+          pending.push(new Promise(function(ok){
+            im.addEventListener('load', function(){
+              var old = stageItems[idx];
+              if (old && old !== im) { stage.insertBefore(im, old); old.remove(); stageItems[idx] = im; }
+              ok();
+            });
+            im.addEventListener('error', ok); /* plate stays if the art 404s */
+          }));
+          im.src = a.url;
         } else {
           im.className = 'art-thumb';
+          pending.push(new Promise(function(ok){
+            im.addEventListener('load', ok);
+            im.addEventListener('error', function(){ im.remove(); ok(); });
+          }));
           artStrip.appendChild(im);
+          im.src = a.url;
         }
-        im.src = a.url;
       });
       artRow.classList.remove('run'); artRow.classList.add('done');
       artRow.querySelector('em').textContent = (res.art || []).filter(function(a){ return a.url; }).length + ' plates';
@@ -562,7 +570,7 @@ export default function Home() {
     <div className="stage reveal" id="stage" aria-hidden="true">
       <span className="frame-mark fm-tl"></span><span className="frame-mark fm-tr"></span>
       <span className="frame-mark fm-bl"></span><span className="frame-mark fm-br"></span>
-      <span className="cap"><b id="stageCapKind">AI engraving</b><span className="sep">·</span><span id="stageCapText">how the fight was pictured</span></span>
+      <span className="cap"><b id="stageCapKind">Lens</b><span className="sep">·</span><span id="stageCapText">awaiting the archive</span></span>
     </div>
 
     {/* instrument rail */}
