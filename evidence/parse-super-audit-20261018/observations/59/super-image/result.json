@@ -1,0 +1,11 @@
+{
+  "row": "59",
+  "page_id": "bri-0059-891965a7ca3e",
+  "task": "super-image",
+  "image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+  "started_at": "2026-10-18T15:07:00.884932+00:00",
+  "question": "Read the CLOUD passage in the lower right column. Transcribe the scientist's name immediately before 'in this case the cause' and the words stating what has not yet been ascertained. Preserve the printed wording; use [unclear] for unreadable characters. Do not substitute a more familiar scientist's name.",
+  "result": "Scientist's name: [unclear]\nWords stating what has not yet been ascertained: [unclear]",
+  "status": "complete",
+  "seconds": 1.589
+}

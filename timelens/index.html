@@ -392,7 +392,8 @@
       </form>
       <span class="yrs">250 yrs of revisions</span>
     </div>
-    <div class="bar-miss" id="barMiss">
+    <div class="bar-miss" id="barBusy"><span>Reading the archive — Embed VL → LanceDB → Rerank VL → Super VL…</span></div>
+  <div class="bar-miss" id="barMiss">
       <span>Not in the lens's index yet — five of the hundred scanned pages are live exhibits:</span>
       <button class="go" data-topic="basalt">Basalt</button>
       <button class="go" data-topic="electricity">Electricity</button>
@@ -839,14 +840,65 @@
     if (slug.indexOf('bivalve') !== -1 || slug.indexOf('scallop') !== -1) return 'chlamys';
     return null;
   }
+  var barBusy = document.getElementById('barBusy');
+  function liveTopic(d){
+    var yr = d.page.editionYear || 1823;
+    var ed = (d.page.edition ? d.page.edition + ' edition' : 'historical edition');
+    var thenHtml = '<span class="plate-no">i.</span><h3>What the page says.</h3>'
+      + '<blockquote class="quote">\u201c' + (d.exhibit && d.exhibit.quote || d.thenText.slice(0,160).replace(/"/g,'')) + '\u201d</blockquote>'
+      + (d.exhibit && d.exhibit.then_line ? '<p>' + d.exhibit.then_line + '</p>' : '')
+      + '<div class="chips"><span class="chip">rerank score <b>' + (d.match.rerankScore != null ? d.match.rerankScore.toFixed(2) : '—') + '</b></span>'
+      + '<span class="chip">source <b>' + d.page.sourceId.split(':')[0] + '</b></span></div>'
+      + '<p class="smallprint">live retrieval — quote shown as returned by Super VL against the page text; original scan above is the ground truth</p>';
+    var nowTitle = (d.wiki && d.wiki.title) || 'Wikipedia';
+    var nowHtml = '<span class="plate-no">ii.</span><h3>' + (d.exhibit && d.exhibit.verdict === 'diverged' ? 'Diverged.' : d.exhibit && d.exhibit.verdict === 'superseded' ? 'Superseded.' : d.exhibit && d.exhibit.verdict === 'open' ? 'Still open.' : 'Today.') + '</h3>'
+      + '<blockquote class="quote">\u201c' + ((d.wiki && d.wiki.excerpt || '').slice(0,180).replace(/["\u201c\u201d]/g,'')) + '\u2026\u201d</blockquote>'
+      + (d.exhibit && d.exhibit.now_line ? '<p>' + d.exhibit.now_line + '</p>' : '')
+      + (d.exhibit && d.exhibit.note ? '<div class="chips"><span class="chip hot"><b>' + d.exhibit.note + '</b></span></div>' : '')
+      + '<p class="smallprint">' + nowTitle + ' · ' + (d.wiki && d.wiki.url || 'shared index') + '</p>';
+    return {
+      word: (d.topic || 'Topic'), def: 'retrieved live from the archive',
+      titleSub: 'live — embedded, reranked, and read by Nemotron.',
+      wikiPath: 'wikipedia.org/wiki/' + (d.wiki ? d.wiki.title.replace(/ /g,'_') : d.topic),
+      start: 0,
+      stops: [
+        { year: yr, label: 'then', status: 'Live match — ' + ed, cls: 'record',
+          edition: 'Britannica, ' + ed,
+          capKind: 'Original scan', cap: 'the actual page the index returned',
+          img: '/scans/' + d.page.id + '.jpg', alt: 'Original scanned Britannica page matched live',
+          html: thenHtml },
+        { year: 2025, label: 'now', status: 'Now — ' + nowTitle, cls: 'settled',
+          edition: 'Wikipedia, live revision',
+          capKind: 'Plate', cap: 'the modern article',
+          plate: { title: nowTitle, sub: 'wikipedia · live revision' },
+          html: nowHtml }
+      ]
+    };
+  }
   urlForm.addEventListener('submit', function(e){
     e.preventDefault();
     var k = resolveInput(urlInput.value);
-    if (k) { loadTopic(k, true); }
-    else {
-      urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
-      barMiss.classList.add('show');
-    }
+    if (k) { loadTopic(k, true); return; }
+    var raw = urlInput.value.trim();
+    if (!raw) return;
+    barMiss.classList.remove('show');
+    barBusy.classList.add('show');
+    var s = raw.replace(/^https?:\/\//, '').replace(/^timelens\.to\/?/, '').replace(/\/+$/, '');
+    var mm = s.match(/wiki\/(.+)/);
+    var topic = decodeURIComponent((mm ? mm[1] : s.split('/').pop()).replace(/_/g,' ').replace(/%20/g,' ').replace(/\(.*?\)/g,'').trim());
+    fetch('/api/lens?topic=' + encodeURIComponent(topic))
+      .then(function(r){ if(!r.ok) throw r.status; return r.json(); })
+      .then(function(d){
+        barBusy.classList.remove('show');
+        var key = 'live:' + topic;
+        TOPICS[key] = liveTopic(d);
+        loadTopic(key, true);
+      })
+      .catch(function(){
+        barBusy.classList.remove('show');
+        urlBar.classList.remove('shake'); void urlBar.offsetWidth; urlBar.classList.add('shake');
+        barMiss.classList.add('show');
+      });
   });
   Array.prototype.forEach.call(document.querySelectorAll('.bar-miss .go'), function(b){
     b.addEventListener('click', function(){ loadTopic(b.dataset.topic, true); });

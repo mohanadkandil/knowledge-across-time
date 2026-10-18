@@ -1,0 +1,31 @@
+{
+  "case_id": "S1-basalt",
+  "row": "2376",
+  "question": "Read the historical basalt controversy on this page and the seventh-edition geology page bri-0966-64586d30c5c9. Compare their positions, then relate them only to relevant saved Wikipedia evidence. Does the earlier entry itself settle the dispute? In at most 180 words, cite exact returned source IDs from both collections. Label paraphrases; do not silently repair quoted OCR or invent publication years.",
+  "started_at": "2026-10-18T15:06:52.368765+00:00",
+  "run_id": "question-6aee01f72e4d40a8b490880f5ce03387",
+  "status": "complete",
+  "answer": "**Comparison.** The fourth-edition page (bri-2376-3186638c36ec, region-9:0) states that \"no subject, in geological population, has produced more controversial difficulties than the origin of basalt,\" with one party attributing it to \"the effect of fire\" and another holding that it \"can have been deposited from an aqueous solution,\" and declines to decide between them, referring readers to \"Baux.tv.\" It explicitly leaves the dispute unsettled [bri-2376-3186638c36ec:region-9:0].\n\nThe seventh-edition page (bri-0966-64586d30c5c9:image) takes a clear igneous position: the \"trap-rocks\" of Ireland, Staffa, and Scotland are \"referable to the tertiary period,\" later than chalk, and are \"products of active volcanoes\"; the igneous rocks \"have burst up,\" the action was \"the same kind as that covered by an active volcano,\" and \"the igneous active developed over a series part of Europe late in the tertiary period\" was \"in fact volcanic\" [bri-0966-64586d30c5c9:image].\n\n**Relation to Wikipedia.** Relevant saved Wikipedia evidence labels basalt as \"a common igneous rock\" and specifically as a \"magnesium- and iron-rich extrusive igneous rock\" [wiki-50802526-1334564171-611a1b2f03c5; wiki-284289-1353524147-1ed78efb6033]. That aligns with the seventh edition's volcanic conclusion, not the fourth edition's neutrality. Neither edition gives publication years I can verify, and the OCR is damaged (\"bafalt,\" \"basis\" for basalt), so I quote them only as returned.\n\n**Does the earlier entry settle the dispute?** No. It records the fire-versus-water controversy and expressly declines to resolve it within its limits.",
+  "citation_checks": [
+    {
+      "source_id": "bri-2376-3186638c36ec:region-9:0",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "bri-0966-64586d30c5c9:image",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-50802526-1334564171-611a1b2f03c5",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-284289-1353524147-1ed78efb6033",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

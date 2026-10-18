@@ -1,0 +1,42 @@
+{
+  "row": "57",
+  "task": "parse-crop",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "source_image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+  "input_image_sha256": "e2465910f5d6afa62960edf9816bab904a7154de5af12be6ac6f1ea00165a77f",
+  "crop_xyxy_pixels": [
+    312,
+    413,
+    588,
+    612
+  ],
+  "resized": false,
+  "started_at": "2026-10-18T15:09:48.276915+00:00",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "result": {
+    "text": "of the dinimence. Mr. Firstly, an ingearious electrician, has lately dis-\ncovered dish chocolate, fresh from the milly, as it cools\nin the tin pan into which it is received, becomes\nstrongly electrical), and that it retains this property\nfor some time after it has been turned out of the pans,\nbut cool loses it by handling. The power may be once\nor trier entered by making it again in an iron fade,\nand pouring it into the tin pan as at first ; but when\nit become my and poverty, the power is not capable\nof being served by simple nothing, or a small\nquantity of olive-oil be added, and well mixed with\nthese chocolate in cooling, the electricity will be com-\npletely restored by cooling in the tin-pin on a before.\nFrom this experiment he conjectures, that there is a\npress affinity between tortoisoli and and the electric\nfluid, if finished we to do the same thing:\n_Glycolore Nuit-tree_ See Cacao.\nCHOENIX, yank an ancient dry measure, con-",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "of the dinimence. Mr. Firstly, an ingearious electrician, has lately dis-\ncovered dish chocolate, fresh from the milly, as it cools\nin the tin pan into which it is received, becomes\nstrongly electrical), and that it retains this property\nfor some time after it has been turned out of the pans,\nbut cool loses it by handling. The power may be once\nor trier entered by making it again in an iron fade,\nand pouring it into the tin pan as at first ; but when\nit become my and poverty, the power is not capable\nof being served by simple nothing, or a small\nquantity of olive-oil be added, and well mixed with\nthese chocolate in cooling, the electricity will be com-\npletely restored by cooling in the tin-pin on a before.\nFrom this experiment he conjectures, that there is a\npress affinity between tortoisoli and and the electric\nfluid, if finished we to do the same thing:\n_Glycolore Nuit-tree_ See Cacao.\nCHOENIX, yank an ancient dry measure, con-",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.9961,
+          0.9945
+        ],
+        "type": "Text",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0>of the dinimence. Mr. Firstly, an ingearious electrician, has lately dis-\ncovered dish chocolate, fresh from the milly, as it cools\nin the tin pan into which it is received, becomes\nstrongly electrical), and that it retains this property\nfor some time after it has been turned out of the pans,\nbut cool loses it by handling. The power may be once\nor trier entered by making it again in an iron fade,\nand pouring it into the tin pan as at first ; but when\nit become my and poverty, the power is not capable\nof being served by simple nothing, or a small\nquantity of olive-oil be added, and well mixed with\nthese chocolate in cooling, the electricity will be com-\npletely restored by cooling in the tin-pin on a before.\nFrom this experiment he conjectures, that there is a\npress affinity between tortoisoli and and the electric\nfluid, if finished we to do the same thing:\n_Glycolore Nuit-tree_ See Cacao.\nCHOENIX, yank an ancient dry measure, con-<x_0.9961><y_0.9945><class_Text>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete"
+}

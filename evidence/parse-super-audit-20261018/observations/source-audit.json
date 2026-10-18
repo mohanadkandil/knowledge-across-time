@@ -1,0 +1,49 @@
+{
+  "reviewed_at": "2026-10-18T15:14:39.501942+00:00",
+  "records": [
+    {
+      "row": "57",
+      "page_id": "bri-0057-7d7650d5d60f",
+      "image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+      "width": 600,
+      "height": 796,
+      "location": "printed page54, lower-right column, CHOCOLATE",
+      "reviewed_reading": "a small quantity of olive-oil",
+      "review_method": "Automated visual inspection of original scan by Codex; ordinary spelling normalized from historical type. Not a human-reviewed transcript.",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=57",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+    },
+    {
+      "row": "59",
+      "page_id": "bri-0059-891965a7ca3e",
+      "image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+      "width": 600,
+      "height": 800,
+      "location": "printed page211, right column, CLOUD",
+      "reviewed_reading": "S. Beccaria",
+      "review_method": "Automated visual inspection of original scan by Codex; ordinary spelling normalized from historical type. Not a human-reviewed transcript.",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=59",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+    },
+    {
+      "row": "1776",
+      "page_id": "bri-1776-5ed864a29d36",
+      "image_sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+      "width": 600,
+      "height": 836,
+      "location": "printed page584, paragraph152, lower-left column",
+      "reviewed_reading": "Lay a long metal chain in an insulated metal dish furnished with an electrometer.",
+      "review_method": "Automated visual inspection of original scan by Codex; ordinary spelling normalized from historical type. Not a human-reviewed transcript.",
+      "source_url": "https://huggingface.co/datasets/NationalLibraryOfScotland/encyclopaedia_britannica_illustrated/viewer/default/train?row=1776",
+      "dataset": "NationalLibraryOfScotland/encyclopaedia_britannica_illustrated",
+      "dataset_revision": "309f765b1ecc83e0a7f7762e44b4a927a7555443"
+    }
+  ],
+  "publication_context": {
+    "url": "https://collections.soane.org/b10178",
+    "finding": "Museum catalog distinguishes the supplement, first published1801, from the base third edition completed1797. This is external audit context, not evidence supplied to the agent or verification of this particular scan printing.",
+    "agent_error": "The retrieved Wikipedia passage dates only the third edition1788–1797; it does not support the model-added phrase and its Supplement or a definite1797 date for this supplement page."
+  }
+}

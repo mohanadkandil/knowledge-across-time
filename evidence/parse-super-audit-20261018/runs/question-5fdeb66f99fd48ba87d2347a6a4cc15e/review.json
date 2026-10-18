@@ -1,0 +1,9 @@
+{
+  "outcome": "success",
+  "rationale": "Correctly reports that the historical entry leaves fire versus water unresolved; the saved modern source identifies basalt as extrusive igneous rock. Exact source IDs support both claims.",
+  "expected_behavior": "Preserve the old controversy and identify the modern igneous classification using both collections.",
+  "category": "",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "reviewed_at": "2026-10-18T15:14:44.469868+00:00",
+  "run_sha256": "59d2a3e3a7205830a0dc38a5ee95dad18537b3f722385fa4e74f008216ce96e3"
+}

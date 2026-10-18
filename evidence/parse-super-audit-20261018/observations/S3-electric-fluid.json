@@ -1,0 +1,10 @@
+{
+  "case_id": "S3-electric-fluid",
+  "row": "1776",
+  "question": "Compare this historical entry's electric-fluid explanation with the saved Wikipedia Fluid theory of electricity account. Does the modern status of that theory establish that the old reported observations were false? Answer in at most 160 words, with exact returned source IDs from both collections. Use paraphrases and identify what the evidence does not establish. Do not infer a date from a dataset row number.",
+  "started_at": "2026-10-18T15:07:04.403645+00:00",
+  "run_id": "question-497aca0d6e6d46478024401c7ed90fe8",
+  "status": "complete",
+  "answer": "The historical Britannica page (bri-1776-5ed864a29d36:image and bri-1776-5ed864a29d36:region-9:0) explains electricity as a “fluid” distributed in conductors — excess or redundant fluid near projections, and deficient fluid elsewhere — consistent with the Wikipedia account (wiki-2586411-1317149477-7fa48999b86a) that Franklin’s one-fluid theory treated charge as excess or lack of a single liquid.\n\nWikipedia states that fluid theory was outdated and replaced by electron-based and modern electromagnetic theories (wiki-2586411-1317149477-7fa48999b86a, wiki-2586411-1317149477-6db36a3e58cb, wiki-2586411-1317149477-590e8957350b). But that modern status only shows the fluid model was superseded; it does not establish that the old reported observations — electrical behavior in globes, cylinders, and chains — were false. The theory’s mechanism was wrong, not necessarily the underlying phenomena. Row numbers in the dataset are not publication dates and establish nothing about timing.",
+  "citation_checks": []
+}

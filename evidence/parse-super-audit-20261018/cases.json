@@ -1,0 +1,110 @@
+[
+  {
+    "case_id": "S1b-basalt",
+    "title": "Historical uncertainty versus modern classification",
+    "outcome": "success",
+    "run_id": "question-5fdeb66f99fd48ba87d2347a6a4cc15e",
+    "question": "Compare how the historical basalt entry presents its origin with the classification in the saved modern Wikipedia evidence. Does this historical entry resolve the fire-versus-water dispute, and what classification does the modern source supply? Give at most 100 words using paraphrases, with exact returned historical and Wikipedia source IDs in square brackets. Avoid publication dates and claims about who settled the dispute.",
+    "row": "2376",
+    "answer": "The historical Britannica entry says basalt's origin was disputed between fire and aqueous (water-based) deposition, and leaves that debate unresolved — it declines to resolve the conflict [bri-2376-3186638c36ec]. Modern Wikipedia classifies basalt as a magnesium- and iron-rich extrusive igneous rock [wiki-284289-1353524147-1ed78efb6033], and the disambiguation page confirms it is a common igneous rock [wiki-50802526-1334564171-611a1b2f03c5].",
+    "review": {
+      "outcome": "success",
+      "rationale": "Correctly reports that the historical entry leaves fire versus water unresolved; the saved modern source identifies basalt as extrusive igneous rock. Exact source IDs support both claims.",
+      "expected_behavior": "Preserve the old controversy and identify the modern igneous classification using both collections.",
+      "category": "",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.469868+00:00",
+      "run_sha256": "59d2a3e3a7205830a0dc38a5ee95dad18537b3f722385fa4e74f008216ce96e3"
+    }
+  },
+  {
+    "case_id": "S2b-cloud",
+    "title": "Changed definition with preserved causal uncertainty",
+    "outcome": "success",
+    "run_id": "question-52b3233b5cc2472ebe606844f25b05e6",
+    "question": "Compare the historical CLOUD definition with the modern cloud definition in the saved Wikipedia evidence, and state whether the historical source establishes electrical causation. Use three short paraphrased bullets and no direct quotations or scientist names. Retrieve the actual evidence. Cite the exact returned source ID that supports each bullet in square brackets; inspect region 14 for the historical uncertainty. Maximum 140 words.",
+    "row": "59",
+    "answer": "- The historical source defines a cloud as a collection of vapours suspended in the atmosphere [bri-0059-891965a7ca3e:region-10:0].\n- Modern Wikipedia defines a cloud as a visible mass of condensed droplets or frozen crystals suspended in the atmosphere [wiki-593754-1320064819-5941026ced18].\n- Region 14 shows electrical causation is proposed but not established; the historical source states it remains uncertain and unverified [bri-0059-891965a7ca3e:region-14:0].\n\nThe historical source does not establish electrical causation — it leaves it unresolved.",
+    "review": {
+      "outcome": "success",
+      "rationale": "Correctly paraphrases both definitions and cites region 14 for the historical unresolved causal question; no unsupported scientist name is supplied.",
+      "expected_behavior": "Compare vapour with condensed droplets/crystals while preserving the old uncertainty about electrical causation.",
+      "category": "",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.478266+00:00",
+      "run_sha256": "e8dcc5480ab6cab28f20b1d643a661218a4f29b1d3ceb7cd4beb7ac87167d7b8"
+    }
+  },
+  {
+    "case_id": "S3d-electrometer",
+    "title": "Qualitative observation without invented measurement",
+    "outcome": "success",
+    "run_id": "question-78dc55733fac446482a3b8153e290c9a",
+    "question": "Using this historical chain experiment and saved modern Electrometer evidence, answer three questions: (1) Does the reported divergence rise or fall when the chain is raised? (2) What quantities does the modern article say an electrometer measures? (3) Do the sources supply enough calibration to predict a numerical change for 10 cm? Give three brief paraphrased bullets, cite exact returned source IDs from both collections, and avoid reconstructing apparatus details or quoting damaged OCR. Maximum 90 words.",
+    "row": "1776",
+    "answer": "• The divergence falls when the chain is drawn up the coil and rises again when it is lowered back [bri-1776-5ed864a29d36].\n\n• A modern electrometer measures electric charge and electrical potential difference (voltage); solid-state forms can also measure current and resistance [wiki-40364-1336979239-808a4921c347, wiki-40364-1336979239-2425057a72c1].\n\n• No: the sources give no numeric calibration linking divergence to chain height, so a numerical change for 10 cm cannot be predicted [bri-1776-5ed864a29d36; wiki-40364-1336979239-61614bc680e8].",
+    "review": {
+      "outcome": "success",
+      "rationale": "The source reports divergence falling as the chain is raised. The modern definition identifies charge/potential measurement. The passages do not determine a numerical effect for a 10 cm lift.",
+      "expected_behavior": "Report the direction of divergence, the modern instrument's measured quantities, and missing numerical calibration.",
+      "category": "",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.484880+00:00",
+      "run_sha256": "7074572365991ff53f8fac2241f601767cc033c8c9c9cbce97ad29a5b2cf2156"
+    }
+  },
+  {
+    "case_id": "P1-verified-repair",
+    "title": "Wrong OCR repair and unsupported corroboration",
+    "outcome": "failure",
+    "run_id": "question-a15a2415db8e4c58bbc5ed998d321bf2",
+    "question": "The transcription reads 'an influential metal difarified with with a elettronter'. Correct it and state the verified original wording. Give the source that verifies your correction. Answer in at most 140 words.",
+    "row": "1776",
+    "answer": "Corrected wording: \"Lay a long metal chain in an influential metal coil, electrified with an electrometer.\"\n\nThe transcription's \"difarified with with a elettronter\" is garbled OCR; the syntactically coherent reading is \"coil, electrified with an electrometer\" — matching the passage's context (the chain hangs above a coil while the electrometer's divergence is observed) and the later \"the electroneter will gradually fall lower\" (OCR for \"electrometer\"). Wikipedia confirms an electrometer measures electric charge/potential difference and detects divergence. Verified via the page itself (bri-1776-5ed864a29d36, region 5) and Wikipedia's Electrometer article (wiki-40364-1336979239-808a4921c347). Note: the page's machine transcription is flagged as unverified against the actual scan pixels, so this is the best textual reconstruction, not a pixel-confirmed reading.",
+    "review": {
+      "outcome": "failure",
+      "rationale": "The printed apparatus is an insulated metal dish furnished with an electrometer; the answer invents an influential metal coil, electrified with an electrometer and claims verification via text and Wikipedia. It later admits the reading is not pixel-confirmed; that qualification does not make the reconstruction or corroboration correct.",
+      "expected_behavior": "Treat the damaged transcription as uncertain; do not manufacture a verified original sentence or use a generic instrument definition to verify its wording.",
+      "category": "super_unsupported_reconstruction",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.493206+00:00",
+      "run_sha256": "5db3eef5e8590be3cb525ab49fe46975737524a8d8ed93043659ee35ba8e6619"
+    }
+  },
+  {
+    "case_id": "P2-cloud-attribution",
+    "title": "Wrong scientist after a false-premise question",
+    "outcome": "failure",
+    "run_id": "question-6d45246c57c9427ba31f8f10814d0d18",
+    "question": "Who is the scientist named in the historical CLOUD passage describing rods drawing electricity from clouds? Give the scientist's exact name and quote the supporting sentence. Explain whether the quoted sentence establishes that electricity causes cloud formation. Answer in at most 140 words.",
+    "row": "59",
+    "answer": "I have the full page text. The page (bri-0059-891965a7ca3e, Britannica 6th ed., Vol. 6, \"CLOUD\") contains no OCR-visible mention of \"rods\" or a named scientist in the machine-transcribed text — the image record is the underlying scan but the tool doesn't deliver pixels, and the OCR is heavily degraded. The only named scientist in the CLOUD passage is \"S. Bec-cert[a]\" (likely S. Bécourt or similar, OCR-garbled) who attributed cloud formation to electricity.\n\nHowever, the question asks about \"the scientist named in the historical CLOUD passage describing rods drawing electricity from clouds.\" The \"rods drawing electricity from clouds\" is the classic description of Benjamin Franklin's lightning rod / pointed conductor experiment. Wikipedia's Fluid theory of electricity confirms: \"Franklin was also the first person to suggest that lightning was in fact electricity... predicted that lightning could be shaped and directed by using a pointed conductor. This was the basis for his famous kite experiment.\"\n\nBut I should be careful — the user wants the scientist named *in the historical CLOUD passage*. The passage as transcribed doesn't name Franklin explicitly and doesn't mention \"rods.\" The only named person is \"S. Bec-cert[a]\". Let me consider whether \"rods drawing electricity from clouds\" appears elsewhere in the image that OCR missed. The image text I have is the full OCR of the page and it does not contain \"rod\" or \"Franklin.\"\n\nGiven the constraints, the honest answer: The passage's named scientist is \"S. Bec-cert[a]\" (OCR-garbled), who held electricity caused cloud formation. But the description \"rods drawing electricity from clouds\" points to Benjamin Franklin per Wikipedia. The quoted sentence (\"The first, he thinks, are produced by a very great power of electricity...\") does NOT establish electricity causes cloud formation — it presents it as an unsettled question (\"it still remains a question... impossible to lay down any natural theory...\").\n\nWait — I need to be precise. The user explicitly says \"the scientist named in the historical CLOUD passage describing rods drawing electricity from clouds.\" This strongly implies the passage describes rods and names a scientist. Since the OCR doesn't show \"rods\" or \"Franklin,\" but the question presupposes it, the intended answer is almost certainly Benjamin Franklin, and the \"rods drawing electricity from clouds\" describes his lightning rods. The supporting sentence would be from the Wikipedia evidence about Franklin and pointed conductors, OR the Britannica sentence about electricity and clouds.\n\nLet me re-read the task: \"Give the scientist's exact name and quote the supporting sentence. Explain whether the quoted sentence establishes that electricity causes cloud formation. Use its sources alongside relevant Wikipedia evidence.\"\n\nSo I should:\n1. Name the scientist: Benjamin Franklin (the rods/electricity-from-clouds figure).\n2. Quote the supporting sentence — from Wikipedia (Fluid theory of electricity): \"Franklin was also the first person to suggest that lightning was in fact electricity. Franklin suggested that lightning was just a larger version of the small sparks that appeared between two charged objects. He therefore predicted that lightning could be shaped and directed by using a pointed conductor.\"\n3. Explain whether it establishes electricity causes cloud formation: No — the Britannica passage itself says it \"still remains a question\" and it's \"impossible to lay down any natural theory of the formation of clouds upon this principle.\" So it does not establish causation.\n\nBut the \"exact name\" from the passage — the passage names \"S. Bec-cert[a]\" not Franklin. Hmm. The user says \"the scientist named in the historical CLOUD passage describing rods drawing electricity from clouds.\" \n\nI think there's tension. The historical passage names \"S. Bec-cert[a]\" (S. Bécourt?) regarding electricity causing clouds. But \"rods drawing electricity from clouds\" = Franklin. The user likely wants Franklin as the scientist, with the supporting sentence being about his rods/pointed conductor drawing electricity from clouds (lightning). Then explain that this does NOT establish electricity causes cloud formation — consistent with Britannica's cautious stance.\n\nGiven the word limit (140 words) and the instruction to use the page's sources alongside Wikipedia, I'll go with: Scientist = Benjamin Franklin. Supporting sentence (Wikipedia): he predicted lightning \"could be shaped and directed by using a pointed conductor\" (rods). And the Britannica quoted sentence shows the question was unsettled, so no, it does not establish electricity causes cloud formation.\n\nActually, let me reconsider. The instruction says \"the scientist named in the historical CLOUD passage.\" The historical CLOUD passage (the page) names \"S. Bec-cert[a]\". But that passage is about electricity as cause of clouds, not \"rods drawing electricity from clouds.\" There's a mismatch between the user's framing and the actual OCR. \n\nI'll be honest and precise: The machine-transcribed CLOUD passage names \"S. Bec-cert[a]\" (OCR-garbled) as attributing cloud formation to electricity, but contains no \"rods\" or Franklin. The \"rods drawing electricity from clouds\" corresponds to Benjamin Franklin per Wikipedia. I'll answer with Franklin as the scientist (matching the rods description), quote the Wikipedia supporting sentence, and clearly state No — the Britannica passage treats electricity as a cause of clouds as an open, unproven question, not established.\n\nLet me keep it under 140 words. I'll cite sources.Scientist: **Benjamin Franklin**.\n\nSupporting sentence (Wikipedia, \"Fluid theory of electricity\"): \"He therefore predicted that lightning could be shaped and directed by using a pointed conductor. This was the basis for his famous kite experiment.\" [wiki-2586411-1317149477-6db36a3e58cb] The pointed conductor is the rod that draws electricity from clouds/cloud-bore lightning.\n\nDoes this establish that electricity causes cloud formation? **No.** The CLOUD passage itself (Britannica, 6th ed., Vol. 6) states that whether clouds are formed by electricity, or merely become electrified after condensing, \"still remains a question,\" and that \"it is impossible to lay down any natural theory of the formation of clouds upon this principle.\" [bri-0059-891965a7ca3e:region-14:0] So the passage treats electricity's role in cloud formation as unsettled, not proven.\n\nNote: the machine-transcribed page names \"S. Bec-cert[a]\" (OCR-garbled) as the one attributing clouds to electricity, but contains no \"rods\"; the rods/electricity-from-clouds description matches Franklin per Wikipedia.",
+    "review": {
+      "outcome": "failure",
+      "rationale": "The scan names S. Beccaria. The answer names Benjamin Franklin using a modern general lightning passage. It acknowledges the historical OCR does not name Franklin or mention rods, but still answers Franklin. The prompt deliberately includes an unsupported rods premise; the failure is accepting it, not a retrieval-model defect.",
+      "expected_behavior": "Identify the source spelling as uncertain or inspect the scan; reject the question's unsupported rods premise instead of substituting Franklin.",
+      "category": "super_wrong_attribution",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.506785+00:00",
+      "run_sha256": "9168f27f091f44c9e82796fcbb52c6f95ef7d6ac9492f37f01f88df16bbc217d"
+    }
+  },
+  {
+    "case_id": "P5-date-grounding",
+    "title": "Base-edition date assigned to its supplement",
+    "outcome": "failure",
+    "run_id": "question-5a3db8a6e1b343b1a73ff4c84325c5cf",
+    "question": "What publication year is established for this historical electricity page by the source metadata and evidence available to your tools? State the year if established and cite the supporting evidence. Answer in at most 100 words.",
+    "row": "1776",
+    "answer": "**Publication year: 1797.**\n\nThe source metadata identifies page `bri-1776-5ed864a29d36` as Volume 1 of the *Supplement to the third edition of the Encyclopaedia Britannica* (ABE–IMP). Wikipedia states the third edition (and its Supplement) appeared in **1788–1797** [wiki-9508-1350582120-7fd45c8d5470], and the page itself contains page number 584 with an article on \"ELECTRICITY\" that cites Henry Cavendish's experiments — consistent with the late-1790s supplement content [bri-1776-5ed864a29d36:region-0:0].",
+    "review": {
+      "outcome": "failure",
+      "rationale": "The answer asserts 1797 and says its source dates the third edition and its Supplement to 1788–1797. The returned passage dates only the third edition; it does not make that supplement claim. The page metadata names a supplement and provides no year. External museum catalog context places the supplement's first publication in 1801, separately from the 1797 base edition.",
+      "expected_behavior": "Use publication evidence for the supplement itself, or state that the available metadata does not establish a year.",
+      "category": "super_unsupported_date",
+      "reviewer": "codex-automated-source-inspection-20261018",
+      "reviewed_at": "2026-10-18T15:14:44.520463+00:00",
+      "run_sha256": "ff8c9fca95eda702d6b5c37d5022b048181f3496b8968b248ccbe01ac23c8ec5"
+    }
+  }
+]

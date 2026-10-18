@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:09:48.277160+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "b398e232d252c442308ff756dba59ff79ef9fa812d01ca40561630e35c991c39",
+                "characters": 132370
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-afeb5dd8-7207-4078-acb8-e750189f33d3",
+    "object": "chat.completion",
+    "created": 1792336188,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0><y_0.0>of the dinimence. Mr. Firstly, an ingearious electrician, has lately dis-\ncovered dish chocolate, fresh from the milly, as it cools\nin the tin pan into which it is received, becomes\nstrongly electrical), and that it retains this property\nfor some time after it has been turned out of the pans,\nbut cool loses it by handling. The power may be once\nor trier entered by making it again in an iron fade,\nand pouring it into the tin pan as at first ; but when\nit become my and poverty, the power is not capable\nof being served by simple nothing, or a small\nquantity of olive-oil be added, and well mixed with\nthese chocolate in cooling, the electricity will be com-\npletely restored by cooling in the tin-pin on a before.\nFrom this experiment he conjectures, that there is a\npress affinity between tortoisoli and and the electric\nfluid, if finished we to do the same thing:\n_Glycolore Nuit-tree_ See Cacao.\nCHOENIX, yank an ancient dry measure, con-<x_0.9961><y_0.9945><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 73,
+      "total_tokens": 324,
+      "completion_tokens": 251,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 73,
+    "total_tokens": 324,
+    "completion_tokens": 251,
+    "prompt_tokens_details": null
+  },
+  "seconds": 0.999
+}

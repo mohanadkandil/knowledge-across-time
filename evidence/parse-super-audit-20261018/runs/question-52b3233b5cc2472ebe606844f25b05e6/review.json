@@ -1,0 +1,9 @@
+{
+  "outcome": "success",
+  "rationale": "Correctly paraphrases both definitions and cites region 14 for the historical unresolved causal question; no unsupported scientist name is supplied.",
+  "expected_behavior": "Compare vapour with condensed droplets/crystals while preserving the old uncertainty about electrical causation.",
+  "category": "",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "reviewed_at": "2026-10-18T15:14:44.478266+00:00",
+  "run_sha256": "e8dcc5480ab6cab28f20b1d643a661218a4f29b1d3ceb7cd4beb7ac87167d7b8"
+}

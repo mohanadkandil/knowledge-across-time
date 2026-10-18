@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:09:50.848722+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "7d919f3145139c169d8e05781069d2cc3b18f2a8853435974a672c95f0e3e821",
+                "characters": 239398
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-5959854a-04e7-4625-98b2-75ee0e530762",
+    "object": "chat.completion",
+    "created": 1792336191,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0><y_0.0>The shortstop repeats the electric fluid is now to generally admitted as Electricity great in all the great operations of nature, that I probably a women to find the formation of clouds attributed <sup>ecerced.</sup> This bath accordingly been given by S. Here at an the cause of the formation of all clouds what’s, we have of the darker side, half, or soon. The , be thinks, are produced by a very great power of tricky, and the others by one more moderate. But did it ascertain that all cloudy, or even fages and , are electrified in some degree, it still remains ation, whether the clouds are formed in consequence the reason whereas they are compared being first trifled, or whether they become electrified in con- sense of its being first separated from the atomo- y, and in some measures conducted. This bath yet, as far as we know, been ascertained by the criminist of Blessonis, or any other person, and in- introvithatting for multitude of electrical dis- vries that have likely been made; there seems to be on no foundation for accelerating it. Electricity moved to be in many cases a promoter of evapora- but so experiment have yet been brought to the electrical air part with the aluminum mono filly than such as is not electrified, so that, till, the series of electrified air are further investigated, it possible to lay down any external theory of the fox- on of clouds upon this principle. At the whether the clouds are producing, i.e., the in- Clouds are whole square bearing in the atmosphere condensed ten proti- a to become visible, by means of electricity or not, poorly — certain that they do contain the electric fluid in <sup>lectrified.</sup><x_0.9971><y_0.8453><class_Text>\n\n<x_0.2588><y_0.8695>D 4 2 podgions<x_0.999><y_0.8953><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 128,
+      "total_tokens": 516,
+      "completion_tokens": 388,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 128,
+    "total_tokens": 516,
+    "completion_tokens": 388,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.287
+}

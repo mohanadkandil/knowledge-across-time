@@ -1,0 +1,26 @@
+{
+  "case_id": "S2-cloud",
+  "row": "59",
+  "question": "Compare the historical CLOUD definition with the available modern cloud definition. Does the historical entry establish whether electricity causes cloud formation? In at most 160 words cite exact returned historical and Wikipedia source IDs. Preserve uncertainty and label paraphrases. Omit personal names unless their exact spelling is established by the returned text.",
+  "started_at": "2026-10-18T15:06:52.368918+00:00",
+  "run_id": "question-32cf4ad1fb8a4d5f95766a6088a1ef65",
+  "status": "complete",
+  "answer": "Historical: \"CLOUD, a collection of vapours suspended in the atmosphere\" (bri-0059-891965a7ca3e). It adds that clouds form from aqueous vapours, once invisible, closely united with the atmosphere [bri-0059-891965a7ca3e:region-11:0]. It names electricity as an agent in cloud formation by some authorities, but concludes this remains \"a question\" not \"ascertained,\" with \"little or no foundation\" for a theory [bri-0059-891965a7ca3e:region-15:0]. So the entry does not establish that electricity causes cloud formation; it treats the link as unresolved, while stating it is certain clouds contain the electric fluid [bri-0059-891965a7ca3e].\n\nModern: Wikipedia defines a cloud as \"a visible mass of condensed droplets or frozen crystals suspended in the atmosphere\" (wiki-593754-1320064819-5941026ced18). Paraphrase: the historical definition is simpler and says vapours; the modern definition specifies condensed droplets or frozen crystals and adds visibility.",
+  "citation_checks": [
+    {
+      "source_id": "bri-0059-891965a7ca3e:region-11:0",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "bri-0059-891965a7ca3e:region-15:0",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "bri-0059-891965a7ca3e",
+      "exists": true,
+      "kind": "britannica"
+    }
+  ]
+}

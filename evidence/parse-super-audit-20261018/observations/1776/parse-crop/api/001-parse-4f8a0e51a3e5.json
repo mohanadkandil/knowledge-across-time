@@ -1,0 +1,80 @@
+{
+  "role": "parse",
+  "model": "nvidia/nemotron-3.5-parse",
+  "url": "https://port8000-kh2kceraevwe0k1.tunnel.applications.uk-south2.nebius.cloud/v1/chat/completions",
+  "started_at": "2026-10-18T15:09:53.850055+00:00",
+  "request": {
+    "model": "nvidia/nemotron-3.5-parse",
+    "messages": [
+      {
+        "role": "user",
+        "content": [
+          {
+            "type": "text",
+            "text": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>"
+          },
+          {
+            "type": "image_url",
+            "image_url": {
+              "url": {
+                "inline_media_sha256": "6bafb62b2fe8d675d840281dc10b1b6adf05b2972a68d11cee5b5ab8c53c590e",
+                "characters": 169230
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "max_tokens": 8744,
+    "temperature": 0,
+    "skip_special_tokens": false,
+    "add_special_tokens": false
+  },
+  "status": "ok",
+  "response": {
+    "id": "chatcmpl-b39a327c-1b25-41ba-9fd6-633acbb3c1c1",
+    "object": "chat.completion",
+    "created": 1792336194,
+    "model": "nvidia/nemotron-3.5-parse",
+    "choices": [
+      {
+        "index": 0,
+        "message": {
+          "role": "assistant",
+          "content": "<x_0.0><y_0.0>be, to make the velitelt the ftubtance that is to be different. For familiar reasons **we may collect**, without a more recent examination, the bodies of all shapes, when overwarded, will have the standard field maps, when under to near the furlage than in the interior parts; and dener in all elevations, bumps, projections, angles, and near the early of oblong bodies; and that, in general, the quantity of redondants fluid, or redundant matter, will be much more nearly proportional to the furfness of bodies than to their quantities of matter. All this is fully ignored by experience. The experience of the electrical chain is a very beautiful one. Lay a long metal chain is an inflatable metal oftk ramified with an electroneter... Let you do well held an inch out two above the coil by a folk thread. Electrify the whole, and address the divergence of the elettromers they gradually up the chain from the ends, the elettrometers will gradually fall lower, and lowering the chain again will gradually raife it. We soon for with how little region Lord Mahon con<x_0.9961><y_0.9945><class_Text>",
+          "refusal": null,
+          "annotations": null,
+          "audio": null,
+          "function_call": null,
+          "reasoning": null
+        },
+        "logprobs": null,
+        "finish_reason": "stop",
+        "stop_reason": null,
+        "token_ids": null,
+        "routed_experts": null
+      }
+    ],
+    "service_tier": null,
+    "system_fingerprint": "vllm-0.26.0-d51b4524",
+    "usage": {
+      "prompt_tokens": 83,
+      "total_tokens": 328,
+      "completion_tokens": 245,
+      "prompt_tokens_details": null
+    },
+    "prompt_logprobs": null,
+    "prompt_token_ids": null,
+    "prompt_text": null,
+    "kv_transfer_params": null,
+    "ec_transfer_params": null,
+    "metrics": null
+  },
+  "usage": {
+    "prompt_tokens": 83,
+    "total_tokens": 328,
+    "completion_tokens": 245,
+    "prompt_tokens_details": null
+  },
+  "seconds": 1.205
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "P5-date-grounding",
+  "row": "1776",
+  "question": "What publication year is established for this historical electricity page by the source metadata and evidence available to your tools? State the year if established and cite the supporting evidence. Answer in at most 100 words.",
+  "started_at": "2026-10-18T15:07:51.688011+00:00",
+  "run_id": "question-5a3db8a6e1b343b1a73ff4c84325c5cf",
+  "status": "complete",
+  "answer": "**Publication year: 1797.**\n\nThe source metadata identifies page `bri-1776-5ed864a29d36` as Volume 1 of the *Supplement to the third edition of the Encyclopaedia Britannica* (ABE–IMP). Wikipedia states the third edition (and its Supplement) appeared in **1788–1797** [wiki-9508-1350582120-7fd45c8d5470], and the page itself contains page number 584 with an article on \"ELECTRICITY\" that cites Henry Cavendish's experiments — consistent with the late-1790s supplement content [bri-1776-5ed864a29d36:region-0:0].",
+  "citation_checks": [
+    {
+      "source_id": "wiki-9508-1350582120-7fd45c8d5470",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "bri-1776-5ed864a29d36:region-0:0",
+      "exists": true,
+      "kind": "britannica"
+    }
+  ]
+}

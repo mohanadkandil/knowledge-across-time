@@ -1,0 +1,16 @@
+{
+  "case_id": "P3-chocolate-ingredient",
+  "row": "57",
+  "question": "What ingredient did the historical CHOCOLATE experiment add when remelting alone did not restore the electrical effect? Give the exact ingredient and supporting wording, then distinguish a scan-verified fact from an OCR reading. Compare only if the supplied Wikipedia evidence actually verifies the ingredient. Answer in at most 140 words.",
+  "started_at": "2026-10-18T15:07:34.218003+00:00",
+  "run_id": "question-a488547025aa48dd898d2fe991b1f4fd",
+  "status": "complete",
+  "answer": "The experiment ingredient was alcohol. The Britannica passage states: \"the power is not capable of being revived by simple melting; but if a small quantity of alcohol be added, and well mixed with the chocolate in the balls, is always will be completely restored by cooling it in the tin-pan as before.\" This is the scan-derived text I can actually read; whether it matches the original scan pixels is unverified, since the tool delivered text only and the page carries an explicit evidence note that the historical transcription is unverified and image pixels are not available.\n\nWikipedia evidence: I searched the local corpus and found no Wikipedia page verifying alcohol in this chocolate-electrical experiment, so I cannot confirm the ingredient from Wikipedia evidence.\n\nScan-verified fact: cannot be claimed (no image pixels, transcription is flagged unverified). OCR reading: \"a small quantity of alcohol\" added to dry, powdery chocolate in the balls restores the electrical power when cooled in the tin pan.\n\n[source_id: bri-0057-7d7650d5d60f]\n\nWord count check: that's about 120 words. Good.\n\nWait, I need to reconsider whether Wikipedia evidence is needed at all. The user said \"Compare only if the supplied Wikipedia evidence actually verifies the ingredient.\" Since no Wikipedia evidence was supplied (the page is Britannica), and my search found no Wikipedia verification, I should state that clearly. My answer covers it.\n\nLet me trim to be safe under 140 words. Current draft is fine. Let me finalize.Ingredient: alcohol.\n\nSupporting wording (Britannica, CHOCOLATE entry): \"the power is not capable of being revived by simple melting; but if a small quantity of alcohol be added, and well mixed with the chocolate in the balls, is always will be completely restored by cooling it in the tin-pan as before.\"\n\nScan-verified vs OCR: this is an OCR/transcription reading, not a scan-verified fact — the page's evidence note states the text is an unverified machine transcription and no image pixels were delivered, so the exact original-spelling wording cannot be confirmed against the scan.\n\nWikipedia comparison: not applicable — the supplied historical page is Britannica, and my corpus search found no Wikipedia page verifying alcohol in this chocolate-electrical experiment, so there is no Wikipedia evidence to compare against.\n\n[source_id: bri-0057-7d7650d5d60f]",
+  "citation_checks": [
+    {
+      "source_id": "bri-0057-7d7650d5d60f",
+      "exists": true,
+      "kind": "britannica"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "case_id": "S1b-basalt",
+  "row": "2376",
+  "question": "Compare how the historical basalt entry presents its origin with the classification in the saved modern Wikipedia evidence. Does this historical entry resolve the fire-versus-water dispute, and what classification does the modern source supply? Give at most 100 words using paraphrases, with exact returned historical and Wikipedia source IDs in square brackets. Avoid publication dates and claims about who settled the dispute.",
+  "run_id": "question-5fdeb66f99fd48ba87d2347a6a4cc15e",
+  "status": "complete",
+  "answer": "The historical Britannica entry says basalt's origin was disputed between fire and aqueous (water-based) deposition, and leaves that debate unresolved — it declines to resolve the conflict [bri-2376-3186638c36ec]. Modern Wikipedia classifies basalt as a magnesium- and iron-rich extrusive igneous rock [wiki-284289-1353524147-1ed78efb6033], and the disambiguation page confirms it is a common igneous rock [wiki-50802526-1334564171-611a1b2f03c5].",
+  "citation_checks": [
+    {
+      "source_id": "bri-2376-3186638c36ec",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-284289-1353524147-1ed78efb6033",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-50802526-1334564171-611a1b2f03c5",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

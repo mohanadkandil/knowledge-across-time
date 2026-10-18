@@ -1,0 +1,30 @@
+{
+  "case_id": "S3d-electrometer",
+  "row": "1776",
+  "question": "Using this historical chain experiment and saved modern Electrometer evidence, answer three questions: (1) Does the reported divergence rise or fall when the chain is raised? (2) What quantities does the modern article say an electrometer measures? (3) Do the sources supply enough calibration to predict a numerical change for 10 cm? Give three brief paraphrased bullets, cite exact returned source IDs from both collections, and avoid reconstructing apparatus details or quoting damaged OCR. Maximum 90 words.",
+  "run_id": "question-78dc55733fac446482a3b8153e290c9a",
+  "status": "complete",
+  "answer": "• The divergence falls when the chain is drawn up the coil and rises again when it is lowered back [bri-1776-5ed864a29d36].\n\n• A modern electrometer measures electric charge and electrical potential difference (voltage); solid-state forms can also measure current and resistance [wiki-40364-1336979239-808a4921c347, wiki-40364-1336979239-2425057a72c1].\n\n• No: the sources give no numeric calibration linking divergence to chain height, so a numerical change for 10 cm cannot be predicted [bri-1776-5ed864a29d36; wiki-40364-1336979239-61614bc680e8].",
+  "citation_checks": [
+    {
+      "source_id": "bri-1776-5ed864a29d36",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-40364-1336979239-808a4921c347",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-40364-1336979239-2425057a72c1",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-40364-1336979239-61614bc680e8",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "row": "1776",
+  "page_id": "bri-1776-5ed864a29d36",
+  "task": "super-image",
+  "image_sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+  "started_at": "2026-10-18T15:07:05.106962+00:00",
+  "question": "Read paragraph 152 near the lower left of the ELECTRICITY page. Transcribe the sentence beginning 'Lay a long metal chain' through the instrument named at its end. Preserve the printed adjective and apparatus wording; mark unreadable words [unclear]. Do not guess apparatus details from physical theory.",
+  "result": "Lay a long metal chain in an inflated metal chamber fitted with an electrometer.",
+  "status": "complete",
+  "seconds": 1.594
+}

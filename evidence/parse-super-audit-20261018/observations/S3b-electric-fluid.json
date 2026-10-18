@@ -1,0 +1,25 @@
+{
+  "case_id": "S3b-electric-fluid",
+  "row": "1776",
+  "question": "Explain one useful historical-versus-modern difference between this electric-fluid account and the saved Wikipedia Fluid theory of electricity article. Does changing the theory invalidate all of the reported observations? Use three short paraphrased bullets, no direct quotations or dates, and cite actual returned historical and Wikipedia source IDs in square brackets. Maximum 140 words.",
+  "status": "complete",
+  "run_id": "question-9705fb96331d4696865968dff07e85d5",
+  "answer": "The historical page treats the electric fluid as distributed across conducting bodies, with density varying near surfaces, edges, and points — the redundant fluid concentrates where curvature is highest and can be mapped geometrically. The Wikipedia article describes fluid as accumulated charge that is either in excess or lacking in a body, focusing on charging/discharging (e.g., the Leyden jar) rather than spatial density gradients within a conductor [bri-1776-5ed864a29d36][wiki-2586411-1317149477-6a5f22387a19]. Modern views replaced the fluid with electron flow and electromagnetic fields, but the observable behaviors — repulsion, attraction, and discharge through conductors — remain valid; only their explanation changed [wiki-2586411-1317149477-7fa48999b86a].\n\n- The historical account maps fluid density by location on a conductor, denser at points and edges; the Wikipedia one-fluid model treats charge as a whole-body excess or deficit, not a spatial distribution.\n- Modern theory replaces the fluid with electrons and fields, but the reported effects — attraction, repulsion, and discharge through chains — still hold as observations.\n- Changing the explanatory theory does not invalidate the observations; it only reinterprets their underlying cause.",
+  "citation_checks": [
+    {
+      "source_id": "bri-1776-5ed864a29d36",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-2586411-1317149477-6a5f22387a19",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-2586411-1317149477-7fa48999b86a",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

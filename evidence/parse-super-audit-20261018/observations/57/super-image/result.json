@@ -1,0 +1,11 @@
+{
+  "row": "57",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "task": "super-image",
+  "image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+  "started_at": "2026-10-18T15:06:56.508801+00:00",
+  "question": "Read the CHOCOLATE experiment in the lower right column. What substance is added when remelting no longer restores the electrical effect? Transcribe the sentence containing that substance as closely as the scan permits. Mark unreadable words with [unclear]. Do not infer a substance from chemistry or general knowledge.",
+  "result": "The substance added is **sulphur**.\n\nThe sentence containing that substance, transcribed as closely as the scan permits, is:\n\n\"When the electric effect cannot be restored by remelting, add a little sulphur.\"",
+  "status": "complete",
+  "seconds": 1.567
+}

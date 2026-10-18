@@ -1,0 +1,25 @@
+{
+  "case_id": "S2b-cloud",
+  "row": "59",
+  "question": "Compare the historical CLOUD definition with the modern cloud definition in the saved Wikipedia evidence, and state whether the historical source establishes electrical causation. Use three short paraphrased bullets and no direct quotations or scientist names. Retrieve the actual evidence. Cite the exact returned source ID that supports each bullet in square brackets; inspect region 14 for the historical uncertainty. Maximum 140 words.",
+  "status": "complete",
+  "run_id": "question-52b3233b5cc2472ebe606844f25b05e6",
+  "answer": "- The historical source defines a cloud as a collection of vapours suspended in the atmosphere [bri-0059-891965a7ca3e:region-10:0].\n- Modern Wikipedia defines a cloud as a visible mass of condensed droplets or frozen crystals suspended in the atmosphere [wiki-593754-1320064819-5941026ced18].\n- Region 14 shows electrical causation is proposed but not established; the historical source states it remains uncertain and unverified [bri-0059-891965a7ca3e:region-14:0].\n\nThe historical source does not establish electrical causation — it leaves it unresolved.",
+  "citation_checks": [
+    {
+      "source_id": "bri-0059-891965a7ca3e:region-10:0",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-593754-1320064819-5941026ced18",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "bri-0059-891965a7ca3e:region-14:0",
+      "exists": true,
+      "kind": "britannica"
+    }
+  ]
+}

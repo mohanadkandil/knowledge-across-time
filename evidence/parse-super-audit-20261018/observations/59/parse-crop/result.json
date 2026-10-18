@@ -1,0 +1,57 @@
+{
+  "row": "59",
+  "task": "parse-crop",
+  "page_id": "bri-0059-891965a7ca3e",
+  "source_image_sha256": "891965a7ca3ee9db3ed38ed2a5aede648b7d405b2793f3bae3d62ddacbc13a85",
+  "input_image_sha256": "6d4b7077a0e9f5b53a050a3dc0f4cc104673fb3f2b02590b8127e34a878ebda8",
+  "crop_xyxy_pixels": [
+    294,
+    400,
+    594,
+    784
+  ],
+  "resized": false,
+  "started_at": "2026-10-18T15:09:50.848354+00:00",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "result": {
+    "text": "The shortstop repeats the electric fluid is now to generally admitted as Electricity great in all the great operations of nature, that I probably a women to find the formation of clouds attributed <sup>ecerced.</sup> This bath accordingly been given by S. Here at an the cause of the formation of all clouds what’s, we have of the darker side, half, or soon. The , be thinks, are produced by a very great power of tricky, and the others by one more moderate. But did it ascertain that all cloudy, or even fages and , are electrified in some degree, it still remains ation, whether the clouds are formed in consequence the reason whereas they are compared being first trifled, or whether they become electrified in con- sense of its being first separated from the atomo- y, and in some measures conducted. This bath yet, as far as we know, been ascertained by the criminist of Blessonis, or any other person, and in- introvithatting for multitude of electrical dis- vries that have likely been made; there seems to be on no foundation for accelerating it. Electricity moved to be in many cases a promoter of evapora- but so experiment have yet been brought to the electrical air part with the aluminum mono filly than such as is not electrified, so that, till, the series of electrified air are further investigated, it possible to lay down any external theory of the fox- on of clouds upon this principle. At the whether the clouds are producing, i.e., the in- Clouds are whole square bearing in the atmosphere condensed ten proti- a to become visible, by means of electricity or not, poorly — certain that they do contain the electric fluid in <sup>lectrified.</sup>\n\nD 4 2 podgions",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "The shortstop repeats the electric fluid is now to generally admitted as Electricity great in all the great operations of nature, that I probably a women to find the formation of clouds attributed <sup>ecerced.</sup> This bath accordingly been given by S. Here at an the cause of the formation of all clouds what’s, we have of the darker side, half, or soon. The , be thinks, are produced by a very great power of tricky, and the others by one more moderate. But did it ascertain that all cloudy, or even fages and , are electrified in some degree, it still remains ation, whether the clouds are formed in consequence the reason whereas they are compared being first trifled, or whether they become electrified in con- sense of its being first separated from the atomo- y, and in some measures conducted. This bath yet, as far as we know, been ascertained by the criminist of Blessonis, or any other person, and in- introvithatting for multitude of electrical dis- vries that have likely been made; there seems to be on no foundation for accelerating it. Electricity moved to be in many cases a promoter of evapora- but so experiment have yet been brought to the electrical air part with the aluminum mono filly than such as is not electrified, so that, till, the series of electrified air are further investigated, it possible to lay down any external theory of the fox- on of clouds upon this principle. At the whether the clouds are producing, i.e., the in- Clouds are whole square bearing in the atmosphere condensed ten proti- a to become visible, by means of electricity or not, poorly — certain that they do contain the electric fluid in <sup>lectrified.</sup>",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.9971,
+          0.8453
+        ],
+        "type": "Text",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      },
+      {
+        "region_id": "region-1",
+        "text": "D 4 2 podgions",
+        "bbox_raw": [
+          0.2588,
+          0.8695,
+          0.999,
+          0.8953
+        ],
+        "type": "Text",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 1
+      }
+    ],
+    "raw": "<x_0.0><y_0.0>The shortstop repeats the electric fluid is now to generally admitted as Electricity great in all the great operations of nature, that I probably a women to find the formation of clouds attributed <sup>ecerced.</sup> This bath accordingly been given by S. Here at an the cause of the formation of all clouds what’s, we have of the darker side, half, or soon. The , be thinks, are produced by a very great power of tricky, and the others by one more moderate. But did it ascertain that all cloudy, or even fages and , are electrified in some degree, it still remains ation, whether the clouds are formed in consequence the reason whereas they are compared being first trifled, or whether they become electrified in con- sense of its being first separated from the atomo- y, and in some measures conducted. This bath yet, as far as we know, been ascertained by the criminist of Blessonis, or any other person, and in- introvithatting for multitude of electrical dis- vries that have likely been made; there seems to be on no foundation for accelerating it. Electricity moved to be in many cases a promoter of evapora- but so experiment have yet been brought to the electrical air part with the aluminum mono filly than such as is not electrified, so that, till, the series of electrified air are further investigated, it possible to lay down any external theory of the fox- on of clouds upon this principle. At the whether the clouds are producing, i.e., the in- Clouds are whole square bearing in the atmosphere condensed ten proti- a to become visible, by means of electricity or not, poorly — certain that they do contain the electric fluid in <sup>lectrified.</sup><x_0.9971><y_0.8453><class_Text>\n\n<x_0.2588><y_0.8695>D 4 2 podgions<x_0.999><y_0.8953><class_Text>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete"
+}

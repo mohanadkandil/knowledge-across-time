@@ -1,0 +1,9 @@
+{
+  "outcome": "failure",
+  "rationale": "The answer asserts 1797 and says its source dates the third edition and its Supplement to 1788–1797. The returned passage dates only the third edition; it does not make that supplement claim. The page metadata names a supplement and provides no year. External museum catalog context places the supplement's first publication in 1801, separately from the 1797 base edition.",
+  "expected_behavior": "Use publication evidence for the supplement itself, or state that the available metadata does not establish a year.",
+  "category": "super_unsupported_date",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "reviewed_at": "2026-10-18T15:14:44.520463+00:00",
+  "run_sha256": "ff8c9fca95eda702d6b5c37d5022b048181f3496b8968b248ccbe01ac23c8ec5"
+}

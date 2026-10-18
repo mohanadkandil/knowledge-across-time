@@ -1,0 +1,42 @@
+{
+  "row": "1776",
+  "task": "parse-crop",
+  "page_id": "bri-1776-5ed864a29d36",
+  "source_image_sha256": "5ed864a29d363db6a7c9380249079c9c50b16b15bedde2855c6814920bf98399",
+  "input_image_sha256": "7db7cb45ac4504d6f1538a156cec97a6633a474d1734a4dc9dd8e30a994daf2b",
+  "crop_xyxy_pixels": [
+    60,
+    509,
+    330,
+    735
+  ],
+  "resized": false,
+  "started_at": "2026-10-18T15:09:53.849666+00:00",
+  "question": "</s><s><predict_bbox><predict_classes><output_markdown><predict_text_in_pic>",
+  "result": {
+    "text": "be, to make the velitelt the ftubtance that is to be different. For familiar reasons **we may collect**, without a more recent examination, the bodies of all shapes, when overwarded, will have the standard field maps, when under to near the furlage than in the interior parts; and dener in all elevations, bumps, projections, angles, and near the early of oblong bodies; and that, in general, the quantity of redondants fluid, or redundant matter, will be much more nearly proportional to the furfness of bodies than to their quantities of matter. All this is fully ignored by experience. The experience of the electrical chain is a very beautiful one. Lay a long metal chain is an inflatable metal oftk ramified with an electroneter... Let you do well held an inch out two above the coil by a folk thread. Electrify the whole, and address the divergence of the elettromers they gradually up the chain from the ends, the elettrometers will gradually fall lower, and lowering the chain again will gradually raife it. We soon for with how little region Lord Mahon con",
+    "regions": [
+      {
+        "region_id": "region-0",
+        "text": "be, to make the velitelt the ftubtance that is to be different. For familiar reasons **we may collect**, without a more recent examination, the bodies of all shapes, when overwarded, will have the standard field maps, when under to near the furlage than in the interior parts; and dener in all elevations, bumps, projections, angles, and near the early of oblong bodies; and that, in general, the quantity of redondants fluid, or redundant matter, will be much more nearly proportional to the furfness of bodies than to their quantities of matter. All this is fully ignored by experience. The experience of the electrical chain is a very beautiful one. Lay a long metal chain is an inflatable metal oftk ramified with an electroneter... Let you do well held an inch out two above the coil by a folk thread. Electrify the whole, and address the divergence of the elettromers they gradually up the chain from the ends, the elettrometers will gradually fall lower, and lowering the chain again will gradually raife it. We soon for with how little region Lord Mahon con",
+        "bbox_raw": [
+          0.0,
+          0.0,
+          0.9961,
+          0.9945
+        ],
+        "type": "Text",
+        "coordinate_system": "normalized_0_1",
+        "bbox_within_page": true,
+        "coordinates_verified": false,
+        "reading_order": 0
+      }
+    ],
+    "raw": "<x_0.0><y_0.0>be, to make the velitelt the ftubtance that is to be different. For familiar reasons **we may collect**, without a more recent examination, the bodies of all shapes, when overwarded, will have the standard field maps, when under to near the furlage than in the interior parts; and dener in all elevations, bumps, projections, angles, and near the early of oblong bodies; and that, in general, the quantity of redondants fluid, or redundant matter, will be much more nearly proportional to the furfness of bodies than to their quantities of matter. All this is fully ignored by experience. The experience of the electrical chain is a very beautiful one. Lay a long metal chain is an inflatable metal oftk ramified with an electroneter... Let you do well held an inch out two above the coil by a folk thread. Electrify the whole, and address the divergence of the elettromers they gradually up the chain from the ends, the elettrometers will gradually fall lower, and lowering the chain again will gradually raife it. We soon for with how little region Lord Mahon con<x_0.9961><y_0.9945><class_Text>",
+    "readable_text": true,
+    "extraction_status": "text_extracted",
+    "unparsed_residual": "",
+    "note": "Provider order and normalized boxes retained. Coordinate validity is syntactic; OCR, reading order and box alignment need human review."
+  },
+  "status": "complete"
+}

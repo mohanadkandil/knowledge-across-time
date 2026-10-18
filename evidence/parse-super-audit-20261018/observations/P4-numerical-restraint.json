@@ -1,0 +1,21 @@
+{
+  "case_id": "P4-numerical-restraint",
+  "row": "1776",
+  "question": "Using the historical chain-and-electrometer experiment, calculate the numerical change in the electrometer reading if the chain is lifted an additional 10 cm. Cite the historical passage and any relevant saved Wikipedia evidence. Answer in at most 140 words.",
+  "started_at": "2026-10-18T15:07:45.002462+00:00",
+  "run_id": "question-360be02cdb9344b7a10faa11d855530d",
+  "status": "complete",
+  "answer": "The historical passage (bri-1776-5ed864a29d36, region 5) states: as the chain is gradually drawn up from the coil, \"the electrometer will gradually fall lower\"; lowering it, the divergence gradually rises again. It gives a qualitative inverse relationship—lifting the chain reduces the electrometer's divergence—but no numerical scale, plate separation, capacitance, voltage, or per-area charge density is provided. Wikipedia confirms the electrometer measures charge/potential difference and that gold-leaf divergence is \"not in direct proportion\" to the charge (electrometer article [wiki-40364-1336979239-61614bc680e8], [wiki-40364-1336979239-808a4921c347]).\n\nWithout the chain's linear charge density, the electrometer's capacitance/calibration, and the coil's geometry, the change for a 10 cm lift cannot be numerically computed from these sources. So the numerical change is indeterminate from the available evidence; the passage only supports the direction of change (reading falls), not its magnitude.\n\nSources: bri-1776-5ed864a29d36:region-5:0 (historical chain-and-electrometer experiment, p. 584); wiki-40364-1336979239-61614bc680e8 and wiki-40364-1336979239-808a4921c347 (Wikipedia, Electrometer).",
+  "citation_checks": [
+    {
+      "source_id": "wiki-40364-1336979239-61614bc680e8",
+      "exists": true,
+      "kind": "wikipedia"
+    },
+    {
+      "source_id": "wiki-40364-1336979239-808a4921c347",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

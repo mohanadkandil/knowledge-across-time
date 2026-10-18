@@ -1,0 +1,9 @@
+{
+  "outcome": "failure",
+  "rationale": "The scan names S. Beccaria. The answer names Benjamin Franklin using a modern general lightning passage. It acknowledges the historical OCR does not name Franklin or mention rods, but still answers Franklin. The prompt deliberately includes an unsupported rods premise; the failure is accepting it, not a retrieval-model defect.",
+  "expected_behavior": "Identify the source spelling as uncertain or inspect the scan; reject the question's unsupported rods premise instead of substituting Franklin.",
+  "category": "super_wrong_attribution",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "reviewed_at": "2026-10-18T15:14:44.506785+00:00",
+  "run_sha256": "9168f27f091f44c9e82796fcbb52c6f95ef7d6ac9492f37f01f88df16bbc217d"
+}

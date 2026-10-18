@@ -1,0 +1,9 @@
+{
+  "outcome": "success",
+  "rationale": "The source reports divergence falling as the chain is raised. The modern definition identifies charge/potential measurement. The passages do not determine a numerical effect for a 10 cm lift.",
+  "expected_behavior": "Report the direction of divergence, the modern instrument's measured quantities, and missing numerical calibration.",
+  "category": "",
+  "reviewer": "codex-automated-source-inspection-20261018",
+  "reviewed_at": "2026-10-18T15:14:44.484880+00:00",
+  "run_sha256": "7074572365991ff53f8fac2241f601767cc033c8c9c9cbce97ad29a5b2cf2156"
+}

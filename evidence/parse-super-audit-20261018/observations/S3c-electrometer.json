@@ -1,0 +1,20 @@
+{
+  "case_id": "S3c-electrometer",
+  "row": "1776",
+  "question": "Compare the type of result reported in the historical chain-and-electrometer experiment with what the saved modern Electrometer article says the instrument measures. Can these passages establish a numerical change for an additional 10 cm lift? Use at most 100 words, paraphrase rather than quote, and cite actual historical and Wikipedia source IDs. Separate the observed direction from an unsupported magnitude; do not assume a particular instrument subtype.",
+  "run_id": "question-54d7a506db964ba4a4039a469ea080d9",
+  "status": "complete",
+  "answer": "The historical passage describes drawing a charged metal chain up from a coil toward the electrometer; the electrometer's divergence falls as the chain rises and returns as it is lowered. This reports a directional change in divergence/deflection, with no numerical scale. The Wikipedia Electrometer article defines the instrument as measuring electric charge or potential difference, with a gold-leaf electroscope's leaf separation indicating net charge only relatively unless calibrated. Neither passage gives a value per centimetre of lift, so a numerical change for an additional 10 cm cannot be established; only the observed direction (divergence falls as the chain is raised) is supported. [bri-1776-5ed864a29d36:region-5:0] [wiki-40364-1336979239-808a4921c347]",
+  "citation_checks": [
+    {
+      "source_id": "bri-1776-5ed864a29d36:region-5:0",
+      "exists": true,
+      "kind": "britannica"
+    },
+    {
+      "source_id": "wiki-40364-1336979239-808a4921c347",
+      "exists": true,
+      "kind": "wikipedia"
+    }
+  ]
+}

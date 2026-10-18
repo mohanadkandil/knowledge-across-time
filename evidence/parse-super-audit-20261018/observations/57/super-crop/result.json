@@ -1,0 +1,18 @@
+{
+  "row": "57",
+  "task": "super-crop",
+  "page_id": "bri-0057-7d7650d5d60f",
+  "source_image_sha256": "7d7650d5d60fdd55869e4c6800874479b67eaa2ecc4463f6a9549cfaf80c35d2",
+  "input_image_sha256": "e2465910f5d6afa62960edf9816bab904a7154de5af12be6ac6f1ea00165a77f",
+  "crop_xyxy_pixels": [
+    312,
+    413,
+    588,
+    612
+  ],
+  "resized": false,
+  "started_at": "2026-10-18T15:09:49.299908+00:00",
+  "question": "Read the CHOCOLATE experiment in the lower right column. What substance is added when remelting no longer restores the electrical effect? Transcribe the sentence containing that substance as closely as the scan permits. Mark unreadable words with [unclear]. Do not infer a substance from chemistry or general knowledge.",
+  "result": "a small quantity of olive-oil be added, and well mixed with the chocolate in the ladle, its electricity will be completely restored by cooling it in the tin-pan as before.",
+  "status": "complete"
+}
