@@ -605,52 +605,6 @@ export default function Home() {
       </figure>
     </section>
 
-    {/* incident table */}
-    <section className="block">
-      <div className="sec-head reveal">
-        <h2>Caught <em>in the act.</em></h2>
-        <p className="margin-note note">— we pointed Nemotron at Nemotron. Real run traces, nothing edited.</p>
-      </div>
-      <div className="inctable reveal">
-        <div className="inc">
-          <div className="kind">anachronism</div>
-          <div>
-            <h4>The nearest famous name</h4>
-            <p className="body">In the historical CLOUD entry the scan names <b>S.&nbsp;Beccaria</b>. The OCR garbled it to “S.&nbsp;Bec-certa” — and the agent wrote <b>S.&nbsp;Becquerel</b>, a physicist who would not be born until 1852, into its answer and into an edited quotation. The machine did what the encyclopedists did: filled damaged evidence with the nearest plausible story.</p>
-          </div>
-          <div className="evi">
-            <div className="row"><span className="k">scan</span><span className="v-right">S. Beccaria</span></div>
-            <div className="row"><span className="k">ocr</span><span>“S. Bec-certa”</span></div>
-            <div className="row"><span className="k">agent</span><span className="v-wrong">S. Becquerel (b. 1852)</span></div>
-          </div>
-        </div>
-        <div className="inc">
-          <div className="kind">scan-false</div>
-          <div>
-            <h4>Faithful to the text, wrong about the page</h4>
-            <p className="body">Asked what substance restored chocolate's electrical effect, the agent answered <b>alcohol</b> — faithfully quoting the stored transcription, while openly admitting it had never seen the scan. The scan says <b>olive-oil</b>. A quote can be accurate to the OCR and false to the source.</p>
-          </div>
-          <div className="evi">
-            <div className="row"><span className="k">scan</span><span className="v-right">“a small quantity of olive-oil”</span></div>
-            <div className="row"><span className="k">ocr</span><span>“a small quantity of alcohol”</span></div>
-            <div className="row"><span className="k">agent</span><span className="v-wrong">alcohol — disclosed, wrong</span></div>
-          </div>
-        </div>
-        <div className="inc">
-          <div className="kind">false verification</div>
-          <div>
-            <h4>A guess promoted to “verified”</h4>
-            <p className="body">Faced with “an influential metal difarified with with a elettronter,” the agent declared the answer <b>“Verified original wording”</b> — though it never saw the image. The scan reads “an insulated metal dish furnished with an electrometer.” The warning not to fabricate verified readings was in the prompt. It did not hold.</p>
-          </div>
-          <div className="evi">
-            <div className="row"><span className="k">scan</span><span className="v-right">“an insulated metal dish…”</span></div>
-            <div className="row"><span className="k">ocr</span><span>“an influential metal difarified…”</span></div>
-            <div className="row"><span className="k">agent</span><span className="v-wrong">“influential metal diffused…” — called verified</span></div>
-          </div>
-        </div>
-      </div>
-      <p className="inc-foot reveal">Documented, reproduced, and reported — <b>so the models improve.</b></p>
-    </section>
   </main>
 
   {/* colophon */}
