@@ -1,0 +1,9 @@
+name: kat-comparison
+version: "0.1.0"
+description: Compare the team's saved Britannica scans and pinned Wikipedia evidence.
+provides_tools:
+  - search_sources
+  - read_source
+  - compare_page
+  - browse_corpus
+capabilities: []

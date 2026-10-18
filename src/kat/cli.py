@@ -392,7 +392,7 @@ def export(output: Annotated[Path, typer.Option(help="Destination ZIP; existing 
                     for secret in settings.secrets():
                         text = text.replace(secret, "[REDACTED]")
                     archive.writestr("project/" + name, text)
-            for directory, extensions in [("src", {".py", ".html", ".css", ".js"}), ("docs", {".md"}),
+            for directory, extensions in [("src", {".py", ".html", ".css", ".js", ".yaml"}), ("docs", {".md"}),
                                            ("tests", {".py"}), ("infra", {".py", ".txt", ".md", ".sh"}),
                                            ("evidence", {".json", ".md"})]:
                 for path in sorted((project / directory).rglob("*")):
@@ -406,6 +406,18 @@ def export(output: Annotated[Path, typer.Option(help="Destination ZIP; existing 
         return {"output": str(output.resolve()), "bytes": output.stat().st_size, "checklist": checklist,
                 "note": "Exporting incomplete work is permitted; missing deliverables stay explicit in checklist.json."}
     _call(action)
+
+
+@app.command()
+def hermes(query: Annotated[str | None,typer.Option(help="Optional first question for the native Hermes session.")]=None,
+           oneshot: Annotated[bool,typer.Option(help="Answer the first question and exit; otherwise open interactive chat.")]=False,
+           resume: Annotated[str | None,typer.Option(help="Resume a native Hermes session ID, or latest.")]=None):
+    """Open native interactive Hermes with the saved corpus tools and Token Factory."""
+    from .hermes_native import launch_native
+    if oneshot and not query:raise typer.BadParameter('--oneshot requires --query')
+    try:launch_native(Settings(),query=query,oneshot=oneshot,resume=resume)
+    except (ValueError,OSError,subprocess.SubprocessError) as error:
+        typer.echo(str(error),err=True);raise typer.Exit(1)
 
 
 @app.command()

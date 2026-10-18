@@ -2,6 +2,34 @@
 
 `kat.hermes_bridge.run_hermes` runs **NousResearch's real `AIAgent` conversation loop**, using the supplied model, endpoint and key. It does not replace missing Hermes with a home-grown or alternative framework agent. An unavailable installation returns `error.code=hermes_unavailable` and an empty answer.
 
+## Native interactive terminal
+
+```sh
+uv run kat hermes
+```
+
+This opens the native Hermes CLI and banner, using a separate project profile under ignored `data/hermes-cli/`. Ask a question, then type follow-ups in the same conversation. `/exit` leaves the session. Resume later with `uv run kat hermes --resume latest`.
+
+The registered `kat_corpus` plugin provides four tools:
+
+- `browse_corpus`: list/filter the selected historical pages and their OCR excerpts, with pagination. Filtering checks full saved OCR. This is not a topic-clustering result.
+- `search_sources`: query the saved LanceDB index through the required Embed VL and Rerank VL services.
+- `read_source`: read an exact source ID or a selected page's cached OCR. It explicitly delivers text rather than scan pixels.
+- `compare_page`: return a saved structured comparison or run the required comparison pipeline when missing.
+
+The launcher reads the local `.env`, passes the Token Factory credential through the process environment and uses the native named-provider `key_env` setting. It creates a project plugin and profile rather than changing the personal Hermes profile. The corpus backend runs in the project's Python environment; Hermes keeps its separate pinned Python runtime. No web server is required. The GPU SSH tunnel must remain available for semantic search. Existing profile configuration is preserved on later launches.
+
+```sh
+uv run kat hermes --query "Compare the historical CLOUD entry on page 59 with Wikipedia. Cite both sources."
+uv run kat hermes --query "List the first two selected pages using browse_corpus." --oneshot
+```
+
+On a real terminal, `--query` seeds an interactive session. `--oneshot` answers and exits. `kat ask` remains the separate one-question JSON/evaluation interface. Native sessions persist under the project profile; individual backend tool events are saved in ignored `data/native-hermes-tools/`. They do not automatically create human-reviewed case records.
+
+The setup follows the organizer starter's native plugin pattern and the [Hermes plugin API](https://hermes-agent.nousresearch.com/docs/developer-guide/plugins). The isolated profile disables deferred tool discovery so all four corpus tools are shown directly.
+
+Live checks on 18 October 2026 passed native Plugin Doctor registration, a real corpus-browsing request, a comparison in the interactive terminal, a follow-up in the same conversation, and context recovery after closing/resuming that session. The [execution receipt](../evidence/live-services/native-hermes.json) records the model, native session and backend tool events. These functional checks do not establish semantic accuracy. The software suite passes 67 tests.
+
 ## Pinned upstream and runtime
 
 Inspected pin: **`354ad3d48786f2978c49be88f28c13d78fa0b6e0`**, upstream commit dated 2026-10-18. Hermes package version at this pin is `0.0.0`; the commit is the useful version identifier. Source: [AIAgent](https://github.com/NousResearch/hermes-agent/blob/354ad3d48786f2978c49be88f28c13d78fa0b6e0/run_agent.py), [registry](https://github.com/NousResearch/hermes-agent/blob/354ad3d48786f2978c49be88f28c13d78fa0b6e0/tools/registry.py), [dependency manifest](https://github.com/NousResearch/hermes-agent/blob/354ad3d48786f2978c49be88f28c13d78fa0b6e0/pyproject.toml).

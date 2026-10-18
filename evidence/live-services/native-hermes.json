@@ -1,0 +1,197 @@
+{
+  "checked_at": "2026-10-18T13:28:41.163480+00:00",
+  "framework": "native Hermes CLI",
+  "framework_commit": "354ad3d48786f2978c49be88f28c13d78fa0b6e0",
+  "plugin_doctor": {
+    "status": "passed",
+    "registered_tools": [
+      "search_sources",
+      "read_source",
+      "compare_page",
+      "browse_corpus"
+    ]
+  },
+  "native_banner_tools": 4,
+  "session": {
+    "id": "local-57db64f8691aa1127f5005524e4bb85a1e1ed485d8be077dc4555761ecb1e004",
+    "model": "nvidia/Nemotron-3.5-Super-VL",
+    "tool_call_count": 8,
+    "message_count": 20
+  },
+  "user_turns": 3,
+  "conversation": [
+    {
+      "role": "user",
+      "content": "Read historical page 59 and compare its cloud definition with Wikipedia. Cite exact bri-/wiki- source IDs. Keep the answer to three sentences."
+    },
+    {
+      "role": "assistant",
+      "content": "Historical page 59 (Britannica Sixth edition, Volume 6) defines a cloud as \"a collection of vapours suspended in the atmosphere\" and discusses cloud formation in terms of latent heat, condensation, and an unsettled theory attributing it to electricity [bri-0059-891965a7ca3e]. The Wikipedia disambiguation page defines a cloud as \"a visible mass of condensed droplets or frozen crystals suspended in the atmosphere,\" offering a straightforward descriptive definition without addressing electrical causation [wiki-593754-1320064819-5941026ced18]. The two agree that clouds are suspended atmospheric masses, but the historical entry treats clouds as a causal meteorological problem while the Wikipedia corpus provides only a brief disambiguation definition rather than a full modern meteorological article."
+    },
+    {
+      "role": "user",
+      "content": "Which causal direction did that historical author leave unresolved? One sentence, cite the source."
+    },
+    {
+      "role": "assistant",
+      "content": "The author left unresolved whether clouds are formed because vapours are first electrically compounded, or whether they become electrified only after being separated from and condensed out of the atmosphere [bri-0059-891965a7ca3e]."
+    },
+    {
+      "role": "user",
+      "content": "Which historical page were we discussing, and what uncertainty did you identify? Use the existing conversation; answer in one sentence."
+    },
+    {
+      "role": "assistant",
+      "content": "We were discussing Britannica historical page 59 (bri-0059-891965a7ca3e), and the uncertainty was whether clouds are formed because vapours are first electrically compounded or whether they become electrified only after being separated from and condensed out of the atmosphere."
+    }
+  ],
+  "interaction_checks": {
+    "native_terminal_banner": true,
+    "live_comparison": true,
+    "same_session_followup": true,
+    "exit_and_resume_context": true
+  },
+  "backend_tool_events": [
+    {
+      "event_id": "bace7062c95547fcacadc74e3631cf09",
+      "tool": "browse_corpus",
+      "arguments": {
+        "filter": "cloud",
+        "limit": 100
+      },
+      "status": "ok",
+      "seconds": 0.094
+    },
+    {
+      "event_id": "80e821a91e5345d8999361e6f297ba77",
+      "tool": "search_sources",
+      "arguments": {
+        "query": "cloud",
+        "limit": 12
+      },
+      "status": "error",
+      "seconds": 0.023
+    },
+    {
+      "event_id": "85058ef86ad840ab9459fe34d7844da5",
+      "tool": "read_source",
+      "arguments": {
+        "source_id": "wiki-59"
+      },
+      "status": "error",
+      "seconds": 0.046
+    },
+    {
+      "event_id": "b1cc32ac96fa4545a63e275999d9c601",
+      "tool": "browse_corpus",
+      "arguments": {},
+      "status": "ok",
+      "seconds": 0.034
+    },
+    {
+      "event_id": "de241d6037d84a0086ae96a31de6f063",
+      "tool": "browse_corpus",
+      "arguments": {
+        "limit": 100
+      },
+      "status": "ok",
+      "seconds": 0.443
+    },
+    {
+      "event_id": "cecc78922de94f7e9c524527d13a2710",
+      "tool": "browse_corpus",
+      "arguments": {
+        "limit": 100,
+        "offset": 0,
+        "filter": "wiki"
+      },
+      "status": "ok",
+      "seconds": 0.168
+    },
+    {
+      "event_id": "0b92d75030a44635ada3239852d38196",
+      "tool": "search_sources",
+      "arguments": {
+        "limit": 12,
+        "query": "CLOUD"
+      },
+      "status": "error",
+      "seconds": 0.022
+    },
+    {
+      "event_id": "aa4e9f622fa24c50b7efe527ceda2363",
+      "tool": "browse_corpus",
+      "arguments": {
+        "filter": "CLO",
+        "limit": 100
+      },
+      "status": "ok",
+      "seconds": 0.078
+    },
+    {
+      "event_id": "55998b27c5524938b3636988914e4a42",
+      "tool": "read_source",
+      "arguments": {
+        "source_id": "bri-0059-891965a7ca3e"
+      },
+      "status": "ok",
+      "seconds": 0.024
+    },
+    {
+      "event_id": "5913961117484996a818764e5187f5aa",
+      "tool": "compare_page",
+      "arguments": {
+        "page": "bri-0059-891965a7ca3e"
+      },
+      "status": "ok",
+      "seconds": 0.06
+    },
+    {
+      "event_id": "ee109d934ead4a52a3ce63ebef329c27",
+      "tool": "search_sources",
+      "arguments": {
+        "query": "cloud definition Wikipedia",
+        "limit": 12
+      },
+      "status": "error",
+      "seconds": 0.026
+    },
+    {
+      "event_id": "33a143fedf8f46c9997d8fa2705944e9",
+      "tool": "read_source",
+      "arguments": {
+        "source_id": "bri-59"
+      },
+      "status": "error",
+      "seconds": 0.043
+    },
+    {
+      "event_id": "6378d32385204cea953c38d396fdeaf5",
+      "tool": "search_sources",
+      "arguments": {
+        "limit": 12,
+        "query": "cloud"
+      },
+      "status": "error",
+      "seconds": 0.023
+    },
+    {
+      "event_id": "431ba2125fa342e88da63e379961db12",
+      "tool": "compare_page",
+      "arguments": {
+        "page": "bri-0059-891965a7ca3e"
+      },
+      "status": "ok",
+      "seconds": 0.053
+    },
+    {
+      "event_id": "a8b5f2d267f547ee9f5917204d472d9d",
+      "tool": "browse_corpus",
+      "arguments": {},
+      "status": "ok",
+      "seconds": 0.115
+    }
+  ],
+  "software_tests_passed": 67,
+  "review_note": "Actual native CLI execution and conversation-continuity checks. This is not an independent semantic-accuracy evaluation or a human-reviewed case."
+}

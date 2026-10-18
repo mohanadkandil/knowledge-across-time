@@ -18,6 +18,8 @@ uv run kat archive
 uv run kat serve
 ```
 
+For the native interactive Hermes terminal, run `uv run kat hermes`. It loads the corpus plugin, keeps follow-up questions in the same session, and uses Super VL through Token Factory. See the [Hermes guide](docs/hermes.md#native-interactive-terminal).
+
 The server binds to [localhost:8130](http://127.0.0.1:8130). Follow the [setup guide](docs/setup.md) for the exact corpus pins, model contracts, isolated Python 3.14 Hermes installation, verification commands and complete CLI. `uv run kat --help` lists available commands.
 
 Read [the architecture](docs/architecture.md) for the CPU/GPU layers and [the acceptance checklist](docs/rubric.md) for the judging requirements. The [creative research](docs/creative-research.md) is a proposed extension.
